@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "build": "npx tailwindcss -i ./assets/input.css -o ../public/makeup/assets/css/render.css",
+    "watch": "npx tailwindcss -i ./assets/input.css -o ../public/makeup/assets/css/render.css --watch",
+    "minify": "npx tailwindcss -i ./assets/input.css -o ../public/makeup/assets/css/render.css --minify"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
