@@ -1,6 +1,6 @@
 # AirportWebsite
 
-Domain name: [lisabessa.bearmax.ru](https://lisabessa.ru/)
+Domain name: [lisabessa.ru](https://lisabessa.ru/)
 
 ## Стек проекта
 
