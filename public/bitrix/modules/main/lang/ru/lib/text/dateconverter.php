@@ -1,45 +1,45 @@
 <?
-$MESS["MAIN_TDC_METRIC_1_1"] = "ïîñëåçàâòðà";
-$MESS["MAIN_TDC_METRIC_1_2"] = "çàâòðà";
-$MESS["MAIN_TDC_METRIC_1_3"] = "ñåãîäíÿ";
-$MESS["MAIN_TDC_METRIC_1_4"] = "â÷åðà";
-$MESS["MAIN_TDC_METRIC_1_5"] = "ïîçàâ÷åðà";
+$MESS["MAIN_TDC_METRIC_1_1"] = "Ð¿Ð¾ÑÐ»ÐµÐ·Ð°Ð²Ñ‚Ñ€Ð°";
+$MESS["MAIN_TDC_METRIC_1_2"] = "Ð·Ð°Ð²Ñ‚Ñ€Ð°";
+$MESS["MAIN_TDC_METRIC_1_3"] = "ÑÐµÐ³Ð¾Ð´Ð½Ñ";
+$MESS["MAIN_TDC_METRIC_1_4"] = "Ð²Ñ‡ÐµÑ€Ð°";
+$MESS["MAIN_TDC_METRIC_1_5"] = "Ð¿Ð¾Ð·Ð°Ð²Ñ‡ÐµÑ€Ð°";
 $MESS["MAIN_TDC_METRIC_1_6"] = "BXT2DMETRICSKIP";
 $MESS["MAIN_TDC_METRIC_1_7"] = "BXT2DMETRICSKIP";
 $MESS["MAIN_TDC_METRIC_1_8"] = "BXT2DMETRICSKIP";
-$MESS["MAIN_TDC_METRIC_1_9"] = "íåäåë";
-$MESS["MAIN_TDC_METRIC_1_10"] = "âûõîäí";
-$MESS["MAIN_TDC_METRIC_1_11"] = "ìåñÿö";
+$MESS["MAIN_TDC_METRIC_1_9"] = "Ð½ÐµÐ´ÐµÐ»";
+$MESS["MAIN_TDC_METRIC_1_10"] = "Ð²Ñ‹Ñ…Ð¾Ð´Ð½";
+$MESS["MAIN_TDC_METRIC_1_11"] = "Ð¼ÐµÑÑÑ†";
 
-$MESS["MAIN_TDC_METRIC_2_1"] = "ïîíåäåëüíè";
-$MESS["MAIN_TDC_METRIC_2_2"] = "âòîðíè";
-$MESS["MAIN_TDC_METRIC_2_3"] = "ñðåäà";
-$MESS["MAIN_TDC_METRIC_2_4"] = "ñðåäå";
-$MESS["MAIN_TDC_METRIC_2_5"] = "ñðåäó";
-$MESS["MAIN_TDC_METRIC_2_6"] = "÷åòâåðã";
-$MESS["MAIN_TDC_METRIC_2_7"] = "ïÿòíè";
-$MESS["MAIN_TDC_METRIC_2_8"] = "ñóááîò";
-$MESS["MAIN_TDC_METRIC_2_9"] = "âîñêðåñåí";
-$MESS["MAIN_TDC_METRIC_2_10"] = "âîñêðåñí";
+$MESS["MAIN_TDC_METRIC_2_1"] = "Ð¿Ð¾Ð½ÐµÐ´ÐµÐ»ÑŒÐ½Ð¸";
+$MESS["MAIN_TDC_METRIC_2_2"] = "Ð²Ñ‚Ð¾Ñ€Ð½Ð¸";
+$MESS["MAIN_TDC_METRIC_2_3"] = "ÑÑ€ÐµÐ´Ð°";
+$MESS["MAIN_TDC_METRIC_2_4"] = "ÑÑ€ÐµÐ´Ðµ";
+$MESS["MAIN_TDC_METRIC_2_5"] = "ÑÑ€ÐµÐ´Ñƒ";
+$MESS["MAIN_TDC_METRIC_2_6"] = "Ñ‡ÐµÑ‚Ð²ÐµÑ€Ð³";
+$MESS["MAIN_TDC_METRIC_2_7"] = "Ð¿ÑÑ‚Ð½Ð¸";
+$MESS["MAIN_TDC_METRIC_2_8"] = "ÑÑƒÐ±Ð±Ð¾Ñ‚";
+$MESS["MAIN_TDC_METRIC_2_9"] = "Ð²Ð¾ÑÐºÑ€ÐµÑÐµÐ½";
+$MESS["MAIN_TDC_METRIC_2_10"] = "Ð²Ð¾ÑÐºÑ€ÐµÑÐ½";
 
-$MESS["MAIN_TDC_METRIC_3_1"] = "ïåðåä";
-$MESS["MAIN_TDC_METRIC_3_2"] = "ïîñëå";
-$MESS["MAIN_TDC_METRIC_3_3"] = "ñëåäóþù";
-$MESS["MAIN_TDC_METRIC_3_4"] = "ïðåäûäóù";
-$MESS["MAIN_TDC_METRIC_3_5"] = "êîíåö";
-$MESS["MAIN_TDC_METRIC_3_6"] = "êîíö";
-$MESS["MAIN_TDC_METRIC_3_7"] = "ñåðåäèí";
-$MESS["MAIN_TDC_METRIC_3_8"] = "íà÷àë";
-$MESS["MAIN_TDC_METRIC_3_9"] = "ýòîò";
-$MESS["MAIN_TDC_METRIC_3_10"] = "òåêóù";
+$MESS["MAIN_TDC_METRIC_3_1"] = "Ð¿ÐµÑ€ÐµÐ´";
+$MESS["MAIN_TDC_METRIC_3_2"] = "Ð¿Ð¾ÑÐ»Ðµ";
+$MESS["MAIN_TDC_METRIC_3_3"] = "ÑÐ»ÐµÐ´ÑƒÑŽÑ‰";
+$MESS["MAIN_TDC_METRIC_3_4"] = "Ð¿Ñ€ÐµÐ´Ñ‹Ð´ÑƒÑ‰";
+$MESS["MAIN_TDC_METRIC_3_5"] = "ÐºÐ¾Ð½ÐµÑ†";
+$MESS["MAIN_TDC_METRIC_3_6"] = "ÐºÐ¾Ð½Ñ†";
+$MESS["MAIN_TDC_METRIC_3_7"] = "ÑÐµÑ€ÐµÐ´Ð¸Ð½";
+$MESS["MAIN_TDC_METRIC_3_8"] = "Ð½Ð°Ñ‡Ð°Ð»";
+$MESS["MAIN_TDC_METRIC_3_9"] = "ÑÑ‚Ð¾Ñ‚";
+$MESS["MAIN_TDC_METRIC_3_10"] = "Ñ‚ÐµÐºÑƒÑ‰";
 
 $MESS["MAIN_TDC_METRIC_4_1"] = "DD.MM.YYYY";
 $MESS["MAIN_TDC_METRIC_4_2"] = "DD.MM.YY";
 $MESS["MAIN_TDC_METRIC_4_3"] = "DD.MM";
 
-$MESS["MAIN_TDC_METRIC_5_1"] = "óòðî";
-$MESS["MAIN_TDC_METRIC_5_2"] = "îáåä";
+$MESS["MAIN_TDC_METRIC_5_1"] = "ÑƒÑ‚Ñ€Ð¾";
+$MESS["MAIN_TDC_METRIC_5_2"] = "Ð¾Ð±ÐµÐ´";
 $MESS["MAIN_TDC_METRIC_5_3"] = "BXT2DMETRICSKIP";
-$MESS["MAIN_TDC_METRIC_5_4"] = "äíåì";
-$MESS["MAIN_TDC_METRIC_5_5"] = "âå÷åð";
+$MESS["MAIN_TDC_METRIC_5_4"] = "Ð´Ð½ÐµÐ¼";
+$MESS["MAIN_TDC_METRIC_5_5"] = "Ð²ÐµÑ‡ÐµÑ€";
 ?>

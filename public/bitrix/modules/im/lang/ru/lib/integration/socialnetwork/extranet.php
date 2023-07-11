@@ -1,2 +1,2 @@
 <?
-$MESS["IM_INT_SN_GROUP_EXTRANET"] = "Ýêñòðàíåò: #GROUP_NAME#";
+$MESS["IM_INT_SN_GROUP_EXTRANET"] = "Ð­ÐºÑÑ‚Ñ€Ð°Ð½ÐµÑ‚: #GROUP_NAME#";

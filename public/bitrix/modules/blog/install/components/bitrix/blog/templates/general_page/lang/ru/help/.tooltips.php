@@ -1,3 +1,3 @@
 <?
-$MESS ['NAME_TEMPLATE_TIP'] = "Äîïóñòèìû øàáëîíû: #NAME# - èìÿ, #LAST_NAME# - ôàìèëèÿ, #SECOND_NAME# - îò÷åñòâî, #NAME_SHORT#, #LAST_NAME_SHORT#, #SECOND_NAME_SHORT# - ñîêðàùåííûå äî îäíîé áóêâû èìÿ, ôàìèëèÿ è îò÷åñòâî";
+$MESS ['NAME_TEMPLATE_TIP'] = "Ð”Ð¾Ð¿ÑƒÑÑ‚Ð¸Ð¼Ñ‹ ÑˆÐ°Ð±Ð»Ð¾Ð½Ñ‹: #NAME# - Ð¸Ð¼Ñ, #LAST_NAME# - Ñ„Ð°Ð¼Ð¸Ð»Ð¸Ñ, #SECOND_NAME# - Ð¾Ñ‚Ñ‡ÐµÑÑ‚Ð²Ð¾, #NAME_SHORT#, #LAST_NAME_SHORT#, #SECOND_NAME_SHORT# - ÑÐ¾ÐºÑ€Ð°Ñ‰ÐµÐ½Ð½Ñ‹Ðµ Ð´Ð¾ Ð¾Ð´Ð½Ð¾Ð¹ Ð±ÑƒÐºÐ²Ñ‹ Ð¸Ð¼Ñ, Ñ„Ð°Ð¼Ð¸Ð»Ð¸Ñ Ð¸ Ð¾Ñ‚Ñ‡ÐµÑÑ‚Ð²Ð¾";
 ?>

@@ -1,4 +1,4 @@
 <?
-$MESS['SEARCH_INSTALL_PUBLIC_MENU_SEARCH'] = "Ïîèñê";
-$MESS['SEARCH_INSTALL_PUBLIC_MENU_MAP'] = "Êàðòà ñàéòà";
+$MESS['SEARCH_INSTALL_PUBLIC_MENU_SEARCH'] = "ÐŸÐ¾Ð¸ÑÐº";
+$MESS['SEARCH_INSTALL_PUBLIC_MENU_MAP'] = "ÐšÐ°Ñ€Ñ‚Ð° ÑÐ°Ð¹Ñ‚Ð°";
 ?>

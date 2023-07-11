@@ -1,11 +1,11 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Âàêàíñèè");
+$APPLICATION->SetTitle("Ð’Ð°ÐºÐ°Ð½ÑÐ¸Ð¸");
 ?><?$APPLICATION->IncludeComponent("bitrix:iblock.element.add", ".default", array(
 	"NAV_ON_PAGE" => "10",
 	"USE_CAPTCHA" => "Y",
-	"USER_MESSAGE_ADD" => "Âàøà âàêàíñèÿ äîáàâëåíà",
-	"USER_MESSAGE_EDIT" => "Âàøà âàêàíñèÿ ñîõðàíåíà",
+	"USER_MESSAGE_ADD" => "Ð’Ð°ÑˆÐ° Ð²Ð°ÐºÐ°Ð½ÑÐ¸Ñ Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð°",
+	"USER_MESSAGE_EDIT" => "Ð’Ð°ÑˆÐ° Ð²Ð°ÐºÐ°Ð½ÑÐ¸Ñ ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð°",
 	"DEFAULT_INPUT_SIZE" => "30",
 	"RESIZE_IMAGES" => "N",
 	"IBLOCK_TYPE" => "job",
@@ -44,18 +44,18 @@ $APPLICATION->SetTitle("Âàêàíñèè");
 	"AJAX_OPTION_JUMP" => "N",
 	"AJAX_OPTION_STYLE" => "Y",
 	"AJAX_OPTION_HISTORY" => "N",
-	"CUSTOM_TITLE_NAME" => "Íàçâàíèå âàêàíñèè",
+	"CUSTOM_TITLE_NAME" => "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð²Ð°ÐºÐ°Ð½ÑÐ¸Ð¸",
 	"CUSTOM_TITLE_TAGS" => "",
 	"CUSTOM_TITLE_DATE_ACTIVE_FROM" => "",
-	"CUSTOM_TITLE_DATE_ACTIVE_TO" => "Ñðîê ïóáëèêàöèè äî",
-	"CUSTOM_TITLE_IBLOCK_SECTION" => "Êàòåãîðèÿ",
+	"CUSTOM_TITLE_DATE_ACTIVE_TO" => "Ð¡Ñ€Ð¾Ðº Ð¿ÑƒÐ±Ð»Ð¸ÐºÐ°Ñ†Ð¸Ð¸ Ð´Ð¾",
+	"CUSTOM_TITLE_IBLOCK_SECTION" => "ÐšÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ñ",
 	"CUSTOM_TITLE_PREVIEW_TEXT" => "",
 	"CUSTOM_TITLE_PREVIEW_PICTURE" => "",
-	"CUSTOM_TITLE_DETAIL_TEXT" => "Äîïîëíèòåëüíî",
+	"CUSTOM_TITLE_DETAIL_TEXT" => "Ð”Ð¾Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾",
 	"CUSTOM_TITLE_DETAIL_PICTURE" => "",
 	"SEND_EMAIL" => "Y",
 	"EMAIL_TO" => "#EMAIL_TO#",
-	"SUBJECT" => "Äîáàâëåíà íîâàÿ âàêàíñèÿ",
+	"SUBJECT" => "Ð”Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð° Ð½Ð¾Ð²Ð°Ñ Ð²Ð°ÐºÐ°Ð½ÑÐ¸Ñ",
 	"EVENT_MESSAGE_ID" => array(),
 	"AJAX_OPTION_ADDITIONAL" => ""
 	),

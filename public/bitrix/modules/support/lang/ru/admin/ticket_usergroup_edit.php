@@ -1,12 +1,12 @@
 <?
-$MESS["SUP_UGE_TITLE_ADD"] = "Äîáàâëåíèå ïîëüçîâàòåëÿ â ãðóïïó";
-$MESS["SUP_UGE_TAB1"] = "Ïîëüçîâàòåëü";
-$MESS["SUP_UGE_TAB1_TITLE"] = "Ïîëüçîâàòåëü â ãðóïïå";
-$MESS["SUP_UGE_GROUP"] = "Ãðóïïà";
-$MESS["SUP_UGE_USER"] = "Ïîëüçîâàòåëü";
-$MESS["SUP_UGE_USER_CAN_READ_GROUP_MESS"] = "Ïîëüçîâàòåëü ìîæåò ÷èòàòü òèêåòû ãðóïïû";
-$MESS["SUP_UGE_USER_CAN_MAIL_GROUP_MESS"] = "Ïîëüçîâàòåëü ìîæåò ïîëó÷àòü óâåäîìëåíèÿ ãðóïïû";
-$MESS["SUP_GE_ERROR"] = "Îøèáêà";
-$MESS["SUP_UGE_NO_GROUP"] = "Ãðóïïà íå íàéäåíà";
-$MESS["SUP_UGE_ADD_MORE_USERS"] = "Äîáàâèòü";
+$MESS["SUP_UGE_TITLE_ADD"] = "Ð”Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ Ð² Ð³Ñ€ÑƒÐ¿Ð¿Ñƒ";
+$MESS["SUP_UGE_TAB1"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ";
+$MESS["SUP_UGE_TAB1_TITLE"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ Ð² Ð³Ñ€ÑƒÐ¿Ð¿Ðµ";
+$MESS["SUP_UGE_GROUP"] = "Ð“Ñ€ÑƒÐ¿Ð¿Ð°";
+$MESS["SUP_UGE_USER"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ";
+$MESS["SUP_UGE_USER_CAN_READ_GROUP_MESS"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ Ð¼Ð¾Ð¶ÐµÑ‚ Ñ‡Ð¸Ñ‚Ð°Ñ‚ÑŒ Ñ‚Ð¸ÐºÐµÑ‚Ñ‹ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
+$MESS["SUP_UGE_USER_CAN_MAIL_GROUP_MESS"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ Ð¼Ð¾Ð¶ÐµÑ‚ Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÑŒ ÑƒÐ²ÐµÐ´Ð¾Ð¼Ð»ÐµÐ½Ð¸Ñ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
+$MESS["SUP_GE_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ°";
+$MESS["SUP_UGE_NO_GROUP"] = "Ð“Ñ€ÑƒÐ¿Ð¿Ð° Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð°";
+$MESS["SUP_UGE_ADD_MORE_USERS"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ";
 ?>

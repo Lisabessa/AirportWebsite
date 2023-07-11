@@ -1,3 +1,3 @@
 <?
-$MESS["MAIN_OPT_MENU_BOTTOM"] = "Нижнее меню";
+$MESS["MAIN_OPT_MENU_BOTTOM"] = "РќРёР¶РЅРµРµ РјРµРЅСЋ";
 ?>

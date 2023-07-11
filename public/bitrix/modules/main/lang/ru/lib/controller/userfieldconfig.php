@@ -1,7 +1,7 @@
 <?php
-$MESS["MAIN_USER_FIELD_CONTROLLER_EMPTY_MODULE_ID_ERROR"] = "Íå óêàçàí èäåíòèôèêàòîð ìîäóëÿ moduleId";
-$MESS["MAIN_USER_FIELD_CONTROLLER_ACCESS_VIEW_ERROR"] = "Âû íå ìîæåòå ïðîñìàòðèâàòü íàñòðîéêè ïîëüçîâàòåëüñêèõ ïîëåé";
-$MESS["MAIN_USER_FIELD_CONTROLLER_ACCESS_CREATE_ERROR"] = "Âû íå ìîæåòå ñîçäàâàòü ïîëüçîâàòåëüñêèå ïîëÿ";
-$MESS["MAIN_USER_FIELD_CONTROLLER_ACCESS_MODIFY_ERROR"] = "Âû íå ìîæåòå èçìåíèòü íàñòðîéêè ïîëüçüîâàòåëüñêîãî ïîëÿ";
-$MESS["MAIN_USER_FIELD_CONTROLLER_ACCESS_DELETE_ERROR"] = "Âû íå ìîæåòå óäàëèòü ïîëüçîâàòåëüñêîå ïîëå";
-$MESS["MAIN_USER_FIELD_CONTROLLER_ERROR"] = "Îøèáêà ïðè ïîïûòêå èçìåíåíèÿ íàñòðîåê ïîëüçîâàòåëüñêèõ ïîëåé";
+$MESS["MAIN_USER_FIELD_CONTROLLER_EMPTY_MODULE_ID_ERROR"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¼Ð¾Ð´ÑƒÐ»Ñ moduleId";
+$MESS["MAIN_USER_FIELD_CONTROLLER_ACCESS_VIEW_ERROR"] = "Ð’Ñ‹ Ð½Ðµ Ð¼Ð¾Ð¶ÐµÑ‚Ðµ Ð¿Ñ€Ð¾ÑÐ¼Ð°Ñ‚Ñ€Ð¸Ð²Ð°Ñ‚ÑŒ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒÑÐºÐ¸Ñ… Ð¿Ð¾Ð»ÐµÐ¹";
+$MESS["MAIN_USER_FIELD_CONTROLLER_ACCESS_CREATE_ERROR"] = "Ð’Ñ‹ Ð½Ðµ Ð¼Ð¾Ð¶ÐµÑ‚Ðµ ÑÐ¾Ð·Ð´Ð°Ð²Ð°Ñ‚ÑŒ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒÑÐºÐ¸Ðµ Ð¿Ð¾Ð»Ñ";
+$MESS["MAIN_USER_FIELD_CONTROLLER_ACCESS_MODIFY_ERROR"] = "Ð’Ñ‹ Ð½Ðµ Ð¼Ð¾Ð¶ÐµÑ‚Ðµ Ð¸Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð¿Ð¾Ð»ÑŒÐ·ÑŒÐ¾Ð²Ð°Ñ‚ÐµÐ»ÑŒÑÐºÐ¾Ð³Ð¾ Ð¿Ð¾Ð»Ñ";
+$MESS["MAIN_USER_FIELD_CONTROLLER_ACCESS_DELETE_ERROR"] = "Ð’Ñ‹ Ð½Ðµ Ð¼Ð¾Ð¶ÐµÑ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒÑÐºÐ¾Ðµ Ð¿Ð¾Ð»Ðµ";
+$MESS["MAIN_USER_FIELD_CONTROLLER_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ Ð¿Ð¾Ð¿Ñ‹Ñ‚ÐºÐµ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ Ð½Ð°ÑÑ‚Ñ€Ð¾ÐµÐº Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒÑÐºÐ¸Ñ… Ð¿Ð¾Ð»ÐµÐ¹";

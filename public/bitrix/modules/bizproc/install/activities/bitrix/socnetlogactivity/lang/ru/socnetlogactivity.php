@@ -1,9 +1,9 @@
 <?
-$MESS ['INTE_ADD_TASK_DATES_EMPTY'] = "íåò";
-$MESS ['INTASK_TO_DATE_TLP'] = "äî #DATE#";
-$MESS ['INTASK_FROM_DATE_TLP'] = "ñ #DATE#";
-$MESS ['INTAST_T6654_LOG'] = "Ñòàòóñ: #STATUS#
-Âàæíîñòü: #PRIORITY#
-Ñðîê: #TIME#
-Îòâåòñòâåííûé: #RESP#";
+$MESS ['INTE_ADD_TASK_DATES_EMPTY'] = "Ð½ÐµÑ‚";
+$MESS ['INTASK_TO_DATE_TLP'] = "Ð´Ð¾ #DATE#";
+$MESS ['INTASK_FROM_DATE_TLP'] = "Ñ #DATE#";
+$MESS ['INTAST_T6654_LOG'] = "Ð¡Ñ‚Ð°Ñ‚ÑƒÑ: #STATUS#
+Ð’Ð°Ð¶Ð½Ð¾ÑÑ‚ÑŒ: #PRIORITY#
+Ð¡Ñ€Ð¾Ðº: #TIME#
+ÐžÑ‚Ð²ÐµÑ‚ÑÑ‚Ð²ÐµÐ½Ð½Ñ‹Ð¹: #RESP#";
 ?>

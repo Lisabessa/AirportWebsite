@@ -1,7 +1,7 @@
 <?
-$MESS["FILE_HASH_ENTITY_BUCKET_ID_FIELD"] = "Èäåíòèôèêàòîð õðàíèëèùà";
-$MESS["FILE_HASH_ENTITY_FILE_PATH_FIELD"] = "Ïóòü ê ôàéëó";
-$MESS["FILE_HASH_ENTITY_FILE_SIZE_FIELD"] = "Ðàçìåð ôàéëà";
-$MESS["FILE_HASH_ENTITY_FILE_MTIME_FIELD"] = "Âðåìÿ ìîäèôèêàöèè ôàéëà";
-$MESS["FILE_HASH_ENTITY_FILE_HASH_FIELD"] = "Êîíòðîëüíàÿ ñóììà ôàéëà";
+$MESS["FILE_HASH_ENTITY_BUCKET_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ñ…Ñ€Ð°Ð½Ð¸Ð»Ð¸Ñ‰Ð°";
+$MESS["FILE_HASH_ENTITY_FILE_PATH_FIELD"] = "ÐŸÑƒÑ‚ÑŒ Ðº Ñ„Ð°Ð¹Ð»Ñƒ";
+$MESS["FILE_HASH_ENTITY_FILE_SIZE_FIELD"] = "Ð Ð°Ð·Ð¼ÐµÑ€ Ñ„Ð°Ð¹Ð»Ð°";
+$MESS["FILE_HASH_ENTITY_FILE_MTIME_FIELD"] = "Ð’Ñ€ÐµÐ¼Ñ Ð¼Ð¾Ð´Ð¸Ñ„Ð¸ÐºÐ°Ñ†Ð¸Ð¸ Ñ„Ð°Ð¹Ð»Ð°";
+$MESS["FILE_HASH_ENTITY_FILE_HASH_FIELD"] = "ÐšÐ¾Ð½Ñ‚Ñ€Ð¾Ð»ÑŒÐ½Ð°Ñ ÑÑƒÐ¼Ð¼Ð° Ñ„Ð°Ð¹Ð»Ð°";
 ?>

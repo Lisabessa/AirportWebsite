@@ -1,4 +1,4 @@
 <?php
-$MESS['SALE_SRV_RSTR_BY_DELIVERY_NAME'] = 'ïî ñëóæáå äîñòàâêè';
+$MESS['SALE_SRV_RSTR_BY_DELIVERY_NAME'] = 'Ð¿Ð¾ ÑÐ»ÑƒÐ¶Ð±Ðµ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸';
 $MESS['SALE_SRV_RSTR_BY_DELIVERY_DESC'] = '';
-$MESS['SALE_SRV_RSTR_BY_DELIVERY_PRM_PS'] = 'Ñëóæáû äîñòàâêè';
+$MESS['SALE_SRV_RSTR_BY_DELIVERY_PRM_PS'] = 'Ð¡Ð»ÑƒÐ¶Ð±Ñ‹ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸';

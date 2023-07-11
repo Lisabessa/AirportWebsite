@@ -1,7 +1,7 @@
 <?
-$MESS["BT_MOD_SALE_DSC_FORMAT_NAME"] = "Скидка #VALUE# при стоимости суммы товаров #FROM# #TO#";
-$MESS["BT_MOD_SALE_DSC_FORMAT_SHORT_NAME"] = "Скидка #VALUE#";
-$MESS["BT_MOD_SALE_DSC_FORMAT_NAME_FROM"] = "от #VALUE#";
-$MESS["BT_MOD_SALE_DSC_FORMAT_NAME_TO"] = "до #VALUE#";
-$MESS["BT_MOD_SALE_DSC_FORMAT_INVITE"] = "Внимание! Сконвертируйте скидки на заказы в новый формат. До конвертации скидки применяться не будут. Конвертер доступен по <a href=\"#LINK#\">ссылке</a>";
+$MESS["BT_MOD_SALE_DSC_FORMAT_NAME"] = "РЎРєРёРґРєР° #VALUE# РїСЂРё СЃС‚РѕРёРјРѕСЃС‚Рё СЃСѓРјРјС‹ С‚РѕРІР°СЂРѕРІ #FROM# #TO#";
+$MESS["BT_MOD_SALE_DSC_FORMAT_SHORT_NAME"] = "РЎРєРёРґРєР° #VALUE#";
+$MESS["BT_MOD_SALE_DSC_FORMAT_NAME_FROM"] = "РѕС‚ #VALUE#";
+$MESS["BT_MOD_SALE_DSC_FORMAT_NAME_TO"] = "РґРѕ #VALUE#";
+$MESS["BT_MOD_SALE_DSC_FORMAT_INVITE"] = "Р’РЅРёРјР°РЅРёРµ! РЎРєРѕРЅРІРµСЂС‚РёСЂСѓР№С‚Рµ СЃРєРёРґРєРё РЅР° Р·Р°РєР°Р·С‹ РІ РЅРѕРІС‹Р№ С„РѕСЂРјР°С‚. Р”Рѕ РєРѕРЅРІРµСЂС‚Р°С†РёРё СЃРєРёРґРєРё РїСЂРёРјРµРЅСЏС‚СЊСЃСЏ РЅРµ Р±СѓРґСѓС‚. РљРѕРЅРІРµСЂС‚РµСЂ РґРѕСЃС‚СѓРїРµРЅ РїРѕ <a href=\"#LINK#\">СЃСЃС‹Р»РєРµ</a>";
 ?>

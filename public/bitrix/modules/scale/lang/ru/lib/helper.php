@@ -1,6 +1,6 @@
 <?
-$MESS ['SCALE_HLP_AV_MESSAGE'] = "Ñåðâåð áóäåò äîñòóïåí ïðèáëèçèòåëüíî ÷åðåç";
-$MESS ['SCALE_HLP_AV_HOURS'] = "÷àñ.";
-$MESS ['SCALE_HLP_AV_MINS'] = "ìèí.";
-$MESS ['SCALE_HLP_AV_SECS'] = "ñåê.";
+$MESS ['SCALE_HLP_AV_MESSAGE'] = "Ð¡ÐµÑ€Ð²ÐµÑ€ Ð±ÑƒÐ´ÐµÑ‚ Ð´Ð¾ÑÑ‚ÑƒÐ¿ÐµÐ½ Ð¿Ñ€Ð¸Ð±Ð»Ð¸Ð·Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾ Ñ‡ÐµÑ€ÐµÐ·";
+$MESS ['SCALE_HLP_AV_HOURS'] = "Ñ‡Ð°Ñ.";
+$MESS ['SCALE_HLP_AV_MINS'] = "Ð¼Ð¸Ð½.";
+$MESS ['SCALE_HLP_AV_SECS'] = "ÑÐµÐº.";
 ?>

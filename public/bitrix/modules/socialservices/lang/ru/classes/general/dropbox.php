@@ -1,7 +1,7 @@
 <?
-$MESS["socserv_dropbox_client_id"] = "Идентификатор (App key):";
-$MESS["socserv_dropbox_client_secret"] = "Секретный код (App secret):";
-$MESS["socserv_dropbox_note"] = "Для получения идентификаторов необходимо <a href=\"https://www.dropbox.com/developers/apps/create\">создать приложение</a> типа \"Dropbox API app\". <br>После создания в настройках приложения в поле \"Redirect URIs\" укажите адрес: <a href=\"#URL#\">#URL#</a><br />Поддерживается только https.";
-$MESS["socserv_dropbox_form_note"] = "Используйте вашу учетную запись Dropbox для входа на сайт.";
-$MESS["socserv_dropbox_form_note_intranet"] = "Войти, используя аккаунт Dropbox.";
+$MESS["socserv_dropbox_client_id"] = "РРґРµРЅС‚РёС„РёРєР°С‚РѕСЂ (App key):";
+$MESS["socserv_dropbox_client_secret"] = "РЎРµРєСЂРµС‚РЅС‹Р№ РєРѕРґ (App secret):";
+$MESS["socserv_dropbox_note"] = "Р”Р»СЏ РїРѕР»СѓС‡РµРЅРёСЏ РёРґРµРЅС‚РёС„РёРєР°С‚РѕСЂРѕРІ РЅРµРѕР±С…РѕРґРёРјРѕ <a href=\"https://www.dropbox.com/developers/apps/create\">СЃРѕР·РґР°С‚СЊ РїСЂРёР»РѕР¶РµРЅРёРµ</a> С‚РёРїР° \"Dropbox API app\". <br>РџРѕСЃР»Рµ СЃРѕР·РґР°РЅРёСЏ РІ РЅР°СЃС‚СЂРѕР№РєР°С… РїСЂРёР»РѕР¶РµРЅРёСЏ РІ РїРѕР»Рµ \"Redirect URIs\" СѓРєР°Р¶РёС‚Рµ Р°РґСЂРµСЃ: <a href=\"#URL#\">#URL#</a><br />РџРѕРґРґРµСЂР¶РёРІР°РµС‚СЃСЏ С‚РѕР»СЊРєРѕ https.";
+$MESS["socserv_dropbox_form_note"] = "РСЃРїРѕР»СЊР·СѓР№С‚Рµ РІР°С€Сѓ СѓС‡РµС‚РЅСѓСЋ Р·Р°РїРёСЃСЊ Dropbox РґР»СЏ РІС…РѕРґР° РЅР° СЃР°Р№С‚.";
+$MESS["socserv_dropbox_form_note_intranet"] = "Р’РѕР№С‚Рё, РёСЃРїРѕР»СЊР·СѓСЏ Р°РєРєР°СѓРЅС‚ Dropbox.";
 ?>

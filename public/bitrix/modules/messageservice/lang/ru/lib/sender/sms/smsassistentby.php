@@ -1,16 +1,16 @@
 <?
-$MESS["MESSAGESERVICE_SENDER_SMS_SMSASTBY_NAME"] = "SMS-àññèñòåíò";
-$MESS["MESSAGESERVICE_SENDER_SMS_SMSASTBY_CAN_USE_ERROR"] = "Ïðîâàéäåð êîìïàíèè SMS-àññèñòåíò íå íàñòðîåí";
-$MESS["MESSAGESERVICE_SENDER_SMS_SMSASTBY_ERROR_1"] = "Íåäîñòàòî÷íî ñðåäñòâ";
-$MESS["MESSAGESERVICE_SENDER_SMS_SMSASTBY_ERROR_2"] = "Íåïðàâèëüíûé ëîãèí èëè ïàðîëü";
-$MESS["MESSAGESERVICE_SENDER_SMS_SMSASTBY_ERROR_3"] = "Îòñóòñòâóåò òåêñò SMS";
-$MESS["MESSAGESERVICE_SENDER_SMS_SMSASTBY_ERROR_4"] = "Íåêîððåêòíîå çíà÷åíèå íîìåðà ïîëó÷àòåëÿ";
-$MESS["MESSAGESERVICE_SENDER_SMS_SMSASTBY_ERROR_5"] = "Íåêîððåêòíîå çíà÷åíèå îòïðàâèòåëÿ SMS";
-$MESS["MESSAGESERVICE_SENDER_SMS_SMSASTBY_ERROR_6"] = "Îòñóòñòâóåò ëîãèí";
-$MESS["MESSAGESERVICE_SENDER_SMS_SMSASTBY_ERROR_7"] = "Îòñóòñòâóåò ïàðîëü";
-$MESS["MESSAGESERVICE_SENDER_SMS_SMSASTBY_ERROR_10"] = "Ñåðâèñ âðåìåííî íåäîñòóïåí";
-$MESS["MESSAGESERVICE_SENDER_SMS_SMSASTBY_ERROR_11"] = "Íåêîððåêòíîå çíà÷åíèå ID SMS";
-$MESS["MESSAGESERVICE_SENDER_SMS_SMSASTBY_ERROR_12"] = "Äðóãàÿ îøèáêà";
-$MESS["MESSAGESERVICE_SENDER_SMS_SMSASTBY_ERROR_13"] = "Çàáëîêèðîâàíî";
-$MESS["MESSAGESERVICE_SENDER_SMS_SMSASTBY_ERROR_OTHER"] = "Ñèñòåìíàÿ îøèáêà. Íåîáõîäèìî ïîâòîðèòü çàïðîñ åùå ðàç";
+$MESS["MESSAGESERVICE_SENDER_SMS_SMSASTBY_NAME"] = "SMS-Ð°ÑÑÐ¸ÑÑ‚ÐµÐ½Ñ‚";
+$MESS["MESSAGESERVICE_SENDER_SMS_SMSASTBY_CAN_USE_ERROR"] = "ÐŸÑ€Ð¾Ð²Ð°Ð¹Ð´ÐµÑ€ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸ SMS-Ð°ÑÑÐ¸ÑÑ‚ÐµÐ½Ñ‚ Ð½Ðµ Ð½Ð°ÑÑ‚Ñ€Ð¾ÐµÐ½";
+$MESS["MESSAGESERVICE_SENDER_SMS_SMSASTBY_ERROR_1"] = "ÐÐµÐ´Ð¾ÑÑ‚Ð°Ñ‚Ð¾Ñ‡Ð½Ð¾ ÑÑ€ÐµÐ´ÑÑ‚Ð²";
+$MESS["MESSAGESERVICE_SENDER_SMS_SMSASTBY_ERROR_2"] = "ÐÐµÐ¿Ñ€Ð°Ð²Ð¸Ð»ÑŒÐ½Ñ‹Ð¹ Ð»Ð¾Ð³Ð¸Ð½ Ð¸Ð»Ð¸ Ð¿Ð°Ñ€Ð¾Ð»ÑŒ";
+$MESS["MESSAGESERVICE_SENDER_SMS_SMSASTBY_ERROR_3"] = "ÐžÑ‚ÑÑƒÑ‚ÑÑ‚Ð²ÑƒÐµÑ‚ Ñ‚ÐµÐºÑÑ‚ SMS";
+$MESS["MESSAGESERVICE_SENDER_SMS_SMSASTBY_ERROR_4"] = "ÐÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ð¾Ðµ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð½Ð¾Ð¼ÐµÑ€Ð° Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ";
+$MESS["MESSAGESERVICE_SENDER_SMS_SMSASTBY_ERROR_5"] = "ÐÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ð¾Ðµ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»Ñ SMS";
+$MESS["MESSAGESERVICE_SENDER_SMS_SMSASTBY_ERROR_6"] = "ÐžÑ‚ÑÑƒÑ‚ÑÑ‚Ð²ÑƒÐµÑ‚ Ð»Ð¾Ð³Ð¸Ð½";
+$MESS["MESSAGESERVICE_SENDER_SMS_SMSASTBY_ERROR_7"] = "ÐžÑ‚ÑÑƒÑ‚ÑÑ‚Ð²ÑƒÐµÑ‚ Ð¿Ð°Ñ€Ð¾Ð»ÑŒ";
+$MESS["MESSAGESERVICE_SENDER_SMS_SMSASTBY_ERROR_10"] = "Ð¡ÐµÑ€Ð²Ð¸Ñ Ð²Ñ€ÐµÐ¼ÐµÐ½Ð½Ð¾ Ð½ÐµÐ´Ð¾ÑÑ‚ÑƒÐ¿ÐµÐ½";
+$MESS["MESSAGESERVICE_SENDER_SMS_SMSASTBY_ERROR_11"] = "ÐÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ð¾Ðµ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ ID SMS";
+$MESS["MESSAGESERVICE_SENDER_SMS_SMSASTBY_ERROR_12"] = "Ð”Ñ€ÑƒÐ³Ð°Ñ Ð¾ÑˆÐ¸Ð±ÐºÐ°";
+$MESS["MESSAGESERVICE_SENDER_SMS_SMSASTBY_ERROR_13"] = "Ð—Ð°Ð±Ð»Ð¾ÐºÐ¸Ñ€Ð¾Ð²Ð°Ð½Ð¾";
+$MESS["MESSAGESERVICE_SENDER_SMS_SMSASTBY_ERROR_OTHER"] = "Ð¡Ð¸ÑÑ‚ÐµÐ¼Ð½Ð°Ñ Ð¾ÑˆÐ¸Ð±ÐºÐ°. ÐÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ð¾ Ð¿Ð¾Ð²Ñ‚Ð¾Ñ€Ð¸Ñ‚ÑŒ Ð·Ð°Ð¿Ñ€Ð¾Ñ ÐµÑ‰Ðµ Ñ€Ð°Ð·";
 ?>

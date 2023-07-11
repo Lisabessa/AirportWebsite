@@ -1,3 +1,3 @@
 <?php
-$MESS['LANDING_HOOK_DETAIL_HELP'] = 'Ïîäðîáíåå';
-$MESS['LANDING_HOOK_YANDEX_VERIF_TITLE'] = 'ßíäåêñ.Âåáìàñòåð';
+$MESS['LANDING_HOOK_DETAIL_HELP'] = 'ÐŸÐ¾Ð´Ñ€Ð¾Ð±Ð½ÐµÐµ';
+$MESS['LANDING_HOOK_YANDEX_VERIF_TITLE'] = 'Ð¯Ð½Ð´ÐµÐºÑ.Ð’ÐµÐ±Ð¼Ð°ÑÑ‚ÐµÑ€';

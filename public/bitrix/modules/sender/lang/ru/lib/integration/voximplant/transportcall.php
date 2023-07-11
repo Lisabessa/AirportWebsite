@@ -1,3 +1,3 @@
 <?
-$MESS["SENDER_INTEGRATION_CALL_TRANSPORT_NAME"] = "Èíôî çâîíêè";
+$MESS["SENDER_INTEGRATION_CALL_TRANSPORT_NAME"] = "Ð˜Ð½Ñ„Ð¾ Ð·Ð²Ð¾Ð½ÐºÐ¸";
 ?>

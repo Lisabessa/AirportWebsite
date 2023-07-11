@@ -77,7 +77,7 @@ if (CSalePaySystemAction::GetParamValue("SELLER_ADDRESS", false))
 if (CSalePaySystemAction::GetParamValue("SELLER_PHONE", false))
 {
 	$pdf->SetX($pdf->GetX() + $logoWidth);
-	$pdf->Write(15, CSalePdf::prepareToPdf(sprintf("Тел.: %s", CSalePaySystemAction::GetParamValue("SELLER_PHONE", false))));
+	$pdf->Write(15, CSalePdf::prepareToPdf(sprintf("РўРµР».: %s", CSalePaySystemAction::GetParamValue("SELLER_PHONE", false))));
 	$pdf->Ln();
 }
 
@@ -111,14 +111,14 @@ $y0 = $pdf->GetY();
 $pdf->Cell(
 	150, 18,
 	(CSalePaySystemAction::GetParamValue("SELLER_INN", false))
-		? CSalePdf::prepareToPdf(sprintf("ИНН %s", CSalePaySystemAction::GetParamValue("SELLER_INN", false)))
+		? CSalePdf::prepareToPdf(sprintf("РРќРќ %s", CSalePaySystemAction::GetParamValue("SELLER_INN", false)))
 		: ''
 );
 $x1 = $pdf->GetX();
 $pdf->Cell(
 	150, 18,
 	(CSalePaySystemAction::GetParamValue("SELLER_KPP", false))
-		? CSalePdf::prepareToPdf(sprintf("КПП %s", CSalePaySystemAction::GetParamValue("SELLER_KPP", false)))
+		? CSalePdf::prepareToPdf(sprintf("РљРџРџ %s", CSalePaySystemAction::GetParamValue("SELLER_KPP", false)))
 		: ''
 );
 $x2 = $pdf->GetX();
@@ -134,7 +134,7 @@ $y1 = $pdf->GetY();
 
 $pdf->Line($x1, $y0, $x1, $y1);
 
-$pdf->Cell(300, 18, CSalePdf::prepareToPdf('Получатель'));
+$pdf->Cell(300, 18, CSalePdf::prepareToPdf('РџРѕР»СѓС‡Р°С‚РµР»СЊ'));
 $pdf->Cell(50, 18);
 $pdf->Cell(0, 18);
 
@@ -152,14 +152,14 @@ while ($pdf->GetStringWidth($text) > 0)
 	if ($text)
 		$pdf->Ln();
 }
-$pdf->Cell(50, 18, CSalePdf::prepareToPdf('Сч. №'));
+$pdf->Cell(50, 18, CSalePdf::prepareToPdf('РЎС‡. в„–'));
 $pdf->Cell(0, 18, CSalePdf::prepareToPdf($sellerRs));
 
 $pdf->Ln();
 $y3 = $pdf->GetY();
 
-$pdf->Cell(300, 18, CSalePdf::prepareToPdf('Банк получателя'));
-$pdf->Cell(50, 18, CSalePdf::prepareToPdf('БИК'));
+$pdf->Cell(300, 18, CSalePdf::prepareToPdf('Р‘Р°РЅРє РїРѕР»СѓС‡Р°С‚РµР»СЏ'));
+$pdf->Cell(50, 18, CSalePdf::prepareToPdf('Р‘РРљ'));
 $pdf->Cell(0, 18, CSalePdf::prepareToPdf(CSalePaySystemAction::GetParamValue("SELLER_BIK", false)));
 
 $pdf->Line($x0, $y3, $x4, $y3);
@@ -176,7 +176,7 @@ while ($pdf->GetStringWidth($text) > 0)
 	if ($text)
 		$pdf->Ln();
 }
-$pdf->Cell(50, 18, CSalePdf::prepareToPdf('Сч. №'));
+$pdf->Cell(50, 18, CSalePdf::prepareToPdf('РЎС‡. в„–'));
 $pdf->Cell(0, 18, CSalePdf::prepareToPdf(CSalePaySystemAction::GetParamValue("SELLER_KS", false)));
 
 $pdf->Ln();
@@ -195,7 +195,7 @@ $pdf->Ln();
 
 $pdf->SetFont($fontFamily, 'B', $fontSize*2);
 $billNo_tmp = CSalePdf::prepareToPdf(sprintf(
-	"СЧЕТ № %s от %s",
+	"РЎР§Р•Рў в„– %s РѕС‚ %s",
 	$GLOBALS["SALE_INPUT_PARAMS"]["ORDER"]["ACCOUNT_NUMBER"],
 	CSalePaySystemAction::GetParamValue("DATE_INSERT", false)
 ));
@@ -215,7 +215,7 @@ if (CSalePaySystemAction::GetParamValue("DATE_PAY_BEFORE", false))
 {
 	$pdf->Cell($width/2-$billNo_width/2-2, 15, '');
 	$pdf->MultiCell(0, 15, CSalePdf::prepareToPdf(sprintf(
-		"Срок оплаты %s",
+		"РЎСЂРѕРє РѕРїР»Р°С‚С‹ %s",
 		ConvertDateTime(CSalePaySystemAction::GetParamValue("DATE_PAY_BEFORE", false), FORMAT_DATE)
 			?: CSalePaySystemAction::GetParamValue("DATE_PAY_BEFORE", false)
 	)), 0, 'L');
@@ -226,11 +226,11 @@ $pdf->Ln();
 if (CSalePaySystemAction::GetParamValue("BUYER_NAME", false))
 {
 	$pdf->Write(15, CSalePdf::prepareToPdf(sprintf(
-		"Плательщик: %s",
+		"РџР»Р°С‚РµР»СЊС‰РёРє: %s",
 		CSalePaySystemAction::GetParamValue("BUYER_NAME", false)
 	)));
 	if (CSalePaySystemAction::GetParamValue("BUYER_INN", false))
-		$pdf->Write(15, CSalePdf::prepareToPdf(sprintf(" ИНН %s", CSalePaySystemAction::GetParamValue("BUYER_INN", false))));
+		$pdf->Write(15, CSalePdf::prepareToPdf(sprintf(" РРќРќ %s", CSalePaySystemAction::GetParamValue("BUYER_INN", false))));
 	if (CSalePaySystemAction::GetParamValue("BUYER_ADDRESS", false))
 		$pdf->Write(15, CSalePdf::prepareToPdf(sprintf(", %s", CSalePaySystemAction::GetParamValue("BUYER_ADDRESS", false))));
 	if (CSalePaySystemAction::GetParamValue("BUYER_PHONE", false))
@@ -244,7 +244,7 @@ if (CSalePaySystemAction::GetParamValue("BUYER_NAME", false))
 
 /*
 $pdf->Write(15, CSalePdf::prepareToPdf(sprintf(
-	"Грузополучатель: %s ИНН %s, %s",
+	"Р“СЂСѓР·РѕРїРѕР»СѓС‡Р°С‚РµР»СЊ: %s РРќРќ %s, %s",
 	CSalePaySystemAction::GetParamValue("BUYER_NAME", false),
 	CSalePaySystemAction::GetParamValue("BUYER_INN", false),
 	CSalePaySystemAction::GetParamValue("BUYER_ADDRESS", false)
@@ -252,7 +252,7 @@ $pdf->Write(15, CSalePdf::prepareToPdf(sprintf(
 $pdf->Ln();
 */
 
-// Список товаров
+// РЎРїРёСЃРѕРє С‚РѕРІР°СЂРѕРІ
 $dbBasket = CSaleBasket::GetList(
 	array("DATE_INSERT" => "ASC", "NAME" => "ASC"),
 	array("ORDER_ID" => $ORDER_ID),
@@ -265,13 +265,13 @@ if ($arBasket = $dbBasket->Fetch())
 	$currency = trim(str_replace('#', '', $arCurFormat['FORMAT_STRING']));
 
 	$arColsCaption = array(
-		1 => CSalePdf::prepareToPdf('№'),
-		CSalePdf::prepareToPdf('Наименование товара'),
-		CSalePdf::prepareToPdf('Кол-во'),
-		CSalePdf::prepareToPdf('Ед.'),
-		CSalePdf::prepareToPdf('Цена, '.$currency),
-		CSalePdf::prepareToPdf('Ставка НДС'),
-		CSalePdf::prepareToPdf('Сумма, '.$currency)
+		1 => CSalePdf::prepareToPdf('в„–'),
+		CSalePdf::prepareToPdf('РќР°РёРјРµРЅРѕРІР°РЅРёРµ С‚РѕРІР°СЂР°'),
+		CSalePdf::prepareToPdf('РљРѕР»-РІРѕ'),
+		CSalePdf::prepareToPdf('Р•Рґ.'),
+		CSalePdf::prepareToPdf('Р¦РµРЅР°, '.$currency),
+		CSalePdf::prepareToPdf('РЎС‚Р°РІРєР° РќР”РЎ'),
+		CSalePdf::prepareToPdf('РЎСѓРјРјР°, '.$currency)
 	);
 	$arCells = array();
 	$arProps = array();
@@ -306,15 +306,15 @@ if ($arBasket = $dbBasket->Fetch())
 
 		$productName = $arBasket["NAME"];
 		if ($productName == "OrderDelivery")
-			$productName = "Доставка";
+			$productName = "Р”РѕСЃС‚Р°РІРєР°";
 		else if ($productName == "OrderDiscount")
-			$productName = "Скидка";
+			$productName = "РЎРєРёРґРєР°";
 
 		$arCells[++$n] = array(
 			1 => CSalePdf::prepareToPdf($n),
 			CSalePdf::prepareToPdf($productName),
 			CSalePdf::prepareToPdf(roundEx($arBasket["QUANTITY"], SALE_VALUE_PRECISION)),
-			CSalePdf::prepareToPdf($arBasket["MEASURE_NAME"] ? $arBasket["MEASURE_NAME"] : 'шт.'),
+			CSalePdf::prepareToPdf($arBasket["MEASURE_NAME"] ? $arBasket["MEASURE_NAME"] : 'С€С‚.'),
 			CSalePdf::prepareToPdf(SaleFormatCurrency($arBasket["PRICE"], $arBasket["CURRENCY"], true)),
 			CSalePdf::prepareToPdf(roundEx($arBasket["VAT_RATE"]*100, SALE_VALUE_PRECISION)."%"),
 			CSalePdf::prepareToPdf(SaleFormatCurrency(
@@ -340,7 +340,7 @@ if ($arBasket = $dbBasket->Fetch())
 	{
 		$arDelivery_tmp = CSaleDelivery::GetByID($GLOBALS["SALE_INPUT_PARAMS"]["ORDER"]["DELIVERY_ID"]);
 
-		$sDeliveryItem = "Доставка";
+		$sDeliveryItem = "Р”РѕСЃС‚Р°РІРєР°";
 		if ($arDelivery_tmp["NAME"] <> '')
 			$sDeliveryItem .= sprintf(" (%s)", $arDelivery_tmp["NAME"]);
 		$arCells[++$n] = array(
@@ -377,7 +377,7 @@ if ($arBasket = $dbBasket->Fetch())
 			null,
 			null,
 			null,
-			CSalePdf::prepareToPdf("Подытог:"),
+			CSalePdf::prepareToPdf("РџРѕРґС‹С‚РѕРі:"),
 			CSalePdf::prepareToPdf(SaleFormatCurrency($sum, $GLOBALS["SALE_INPUT_PARAMS"]["ORDER"]["CURRENCY"], true))
 		);
 
@@ -402,7 +402,7 @@ if ($arBasket = $dbBasket->Fetch())
 			null,
 			CSalePdf::prepareToPdf(sprintf(
 				"%s%s%s:",
-				($arTaxList["IS_IN_PRICE"] == "Y") ? "В том числе " : "",
+				($arTaxList["IS_IN_PRICE"] == "Y") ? "Р’ С‚РѕРј С‡РёСЃР»Рµ " : "",
 				$arTaxList["TAX_NAME"],
 				($vat <= 0 && $arTaxList["IS_PERCENT"] == "Y")
 					? sprintf(' (%s%%)', roundEx($arTaxList["VALUE"],SALE_VALUE_PRECISION))
@@ -426,8 +426,8 @@ if ($arBasket = $dbBasket->Fetch())
 			null,
 			null,
 			null,
-			CSalePdf::prepareToPdf("НДС:"),
-			CSalePdf::prepareToPdf("Без НДС")
+			CSalePdf::prepareToPdf("РќР”РЎ:"),
+			CSalePdf::prepareToPdf("Р‘РµР· РќР”РЎ")
 		);
 
 		$arRowsWidth[7] = max($arRowsWidth[7], $pdf->GetStringWidth($arCells[$n][7]));
@@ -441,7 +441,7 @@ if ($arBasket = $dbBasket->Fetch())
 			null,
 			null,
 			null,
-			CSalePdf::prepareToPdf("Уже оплачено:"),
+			CSalePdf::prepareToPdf("РЈР¶Рµ РѕРїР»Р°С‡РµРЅРѕ:"),
 			CSalePdf::prepareToPdf(SaleFormatCurrency(
 				$GLOBALS["SALE_INPUT_PARAMS"]["ORDER"]["SUM_PAID"],
 				$GLOBALS["SALE_INPUT_PARAMS"]["ORDER"]["CURRENCY"],
@@ -460,7 +460,7 @@ if ($arBasket = $dbBasket->Fetch())
 			null,
 			null,
 			null,
-			CSalePdf::prepareToPdf("Скидка:"),
+			CSalePdf::prepareToPdf("РЎРєРёРґРєР°:"),
 			CSalePdf::prepareToPdf(SaleFormatCurrency(
 				$GLOBALS["SALE_INPUT_PARAMS"]["ORDER"]["DISCOUNT_VALUE"],
 				$GLOBALS["SALE_INPUT_PARAMS"]["ORDER"]["CURRENCY"],
@@ -477,7 +477,7 @@ if ($arBasket = $dbBasket->Fetch())
 		null,
 		null,
 		null,
-		CSalePdf::prepareToPdf("Итого:"),
+		CSalePdf::prepareToPdf("РС‚РѕРіРѕ:"),
 		CSalePdf::prepareToPdf(SaleFormatCurrency(
 			$GLOBALS["SALE_INPUT_PARAMS"]["ORDER"]["SHOULD_PAY"],
 			$GLOBALS["SALE_INPUT_PARAMS"]["ORDER"]["CURRENCY"],
@@ -632,7 +632,7 @@ $pdf->Ln();
 
 $pdf->SetFont($fontFamily, '', $fontSize);
 $pdf->Write(15, CSalePdf::prepareToPdf(sprintf(
-	"Всего наименований %s, на сумму %s",
+	"Р’СЃРµРіРѕ РЅР°РёРјРµРЅРѕРІР°РЅРёР№ %s, РЅР° СЃСѓРјРјСѓ %s",
 	$items,
 	SaleFormatCurrency(
 		$GLOBALS["SALE_INPUT_PARAMS"]["ORDER"]["SHOULD_PAY"],
@@ -660,7 +660,7 @@ $pdf->Ln();
 
 if (CSalePaySystemAction::GetParamValue("COMMENT1", false) || CSalePaySystemAction::GetParamValue("COMMENT2", false))
 {
-	$pdf->Write(15, CSalePdf::prepareToPdf('Условия и комментарии'));
+	$pdf->Write(15, CSalePdf::prepareToPdf('РЈСЃР»РѕРІРёСЏ Рё РєРѕРјРјРµРЅС‚Р°СЂРёРё'));
 	$pdf->Ln();
 
 	$pdf->SetFont($fontFamily, '', $fontSize);

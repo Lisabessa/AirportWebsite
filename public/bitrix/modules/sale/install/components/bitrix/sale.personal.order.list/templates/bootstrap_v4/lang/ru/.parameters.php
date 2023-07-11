@@ -1,8 +1,8 @@
 <?
- $MESS['SPOL_PSEUDO_CANCELLED_COLOR'] = "Öâåò îòìåí¸ííûõ çàêàçîâ";
- $MESS['SPOL_STATUS_COLOR'] = "Öâåò ñòàòóñà";
- $MESS['SPOL_STATUS_COLOR_GREEN'] = "Çåë¸íûé";
- $MESS['SPOL_STATUS_COLOR_GRAY'] = "Ñåðûé";
- $MESS['SPOL_STATUS_COLOR_YELLOW'] = "Æ¸ëòûé";
- $MESS['SPOL_STATUS_COLOR_RED'] = "Êðàñíûé";
+ $MESS['SPOL_PSEUDO_CANCELLED_COLOR'] = "Ð¦Ð²ÐµÑ‚ Ð¾Ñ‚Ð¼ÐµÐ½Ñ‘Ð½Ð½Ñ‹Ñ… Ð·Ð°ÐºÐ°Ð·Ð¾Ð²";
+ $MESS['SPOL_STATUS_COLOR'] = "Ð¦Ð²ÐµÑ‚ ÑÑ‚Ð°Ñ‚ÑƒÑÐ°";
+ $MESS['SPOL_STATUS_COLOR_GREEN'] = "Ð—ÐµÐ»Ñ‘Ð½Ñ‹Ð¹";
+ $MESS['SPOL_STATUS_COLOR_GRAY'] = "Ð¡ÐµÑ€Ñ‹Ð¹";
+ $MESS['SPOL_STATUS_COLOR_YELLOW'] = "Ð–Ñ‘Ð»Ñ‚Ñ‹Ð¹";
+ $MESS['SPOL_STATUS_COLOR_RED'] = "ÐšÑ€Ð°ÑÐ½Ñ‹Ð¹";
  ?>

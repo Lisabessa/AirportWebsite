@@ -1,9 +1,9 @@
 <?
-$MESS["SALE_ORDER_PROPS_DEFAULT_ERROR"] = "äîâæèíà çíà÷åííÿ - #LENGTH#, ïåðåâèùóº #MAXLENGTH#";
-$MESS["SALE_ORDER_PROPS_SETTINGS_ERROR"] = "äîâæèíà íàëàøòóâàíü òèïó äàíèõ - #LENGTH#, ïåðåâèùóº #MAXLENGTH#";
-$MESS["ORDER_PROPS_ENTITY_NAME_FIELD"] = "Íàçâà";
-$MESS["ORDER_PROPS_ENTITY_DEFAULT_VALUE_FIELD"] = "Çíà÷åííÿ çà çàìîâ÷óâàííÿì";
-$MESS["ORDER_PROPS_ENTITY_SORT_FIELD"] = "Ñîðòóâàííÿ";
-$MESS["ORDER_PROPS_ENTITY_DESCRIPTION_FIELD"] = "Îïèñ âëàñòèâîñò³";
-$MESS["ORDER_PROPS_ENTITY_CODE_FIELD"] = "Ìíåìîí³÷íèé êîä";
+$MESS["SALE_ORDER_PROPS_DEFAULT_ERROR"] = "Ð´Ð¾Ð²Ð¶Ð¸Ð½Ð° Ð·Ð½Ð°Ñ‡ÐµÐ½Ð½Ñ - #LENGTH#, Ð¿ÐµÑ€ÐµÐ²Ð¸Ñ‰ÑƒÑ” #MAXLENGTH#";
+$MESS["SALE_ORDER_PROPS_SETTINGS_ERROR"] = "Ð´Ð¾Ð²Ð¶Ð¸Ð½Ð° Ð½Ð°Ð»Ð°ÑˆÑ‚ÑƒÐ²Ð°Ð½ÑŒ Ñ‚Ð¸Ð¿Ñƒ Ð´Ð°Ð½Ð¸Ñ… - #LENGTH#, Ð¿ÐµÑ€ÐµÐ²Ð¸Ñ‰ÑƒÑ” #MAXLENGTH#";
+$MESS["ORDER_PROPS_ENTITY_NAME_FIELD"] = "ÐÐ°Ð·Ð²Ð°";
+$MESS["ORDER_PROPS_ENTITY_DEFAULT_VALUE_FIELD"] = "Ð—Ð½Ð°Ñ‡ÐµÐ½Ð½Ñ Ð·Ð° Ð·Ð°Ð¼Ð¾Ð²Ñ‡ÑƒÐ²Ð°Ð½Ð½ÑÐ¼";
+$MESS["ORDER_PROPS_ENTITY_SORT_FIELD"] = "Ð¡Ð¾Ñ€Ñ‚ÑƒÐ²Ð°Ð½Ð½Ñ";
+$MESS["ORDER_PROPS_ENTITY_DESCRIPTION_FIELD"] = "ÐžÐ¿Ð¸Ñ Ð²Ð»Ð°ÑÑ‚Ð¸Ð²Ð¾ÑÑ‚Ñ–";
+$MESS["ORDER_PROPS_ENTITY_CODE_FIELD"] = "ÐœÐ½ÐµÐ¼Ð¾Ð½Ñ–Ñ‡Ð½Ð¸Ð¹ ÐºÐ¾Ð´";
 ?>

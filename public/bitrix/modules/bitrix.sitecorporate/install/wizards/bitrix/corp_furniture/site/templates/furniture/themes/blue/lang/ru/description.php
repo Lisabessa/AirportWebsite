@@ -1,3 +1,3 @@
 <?
-$MESS['CFST_THEME_BLUE'] = "Ñèíèé";
+$MESS['CFST_THEME_BLUE'] = "Ð¡Ð¸Ð½Ð¸Ð¹";
 ?>

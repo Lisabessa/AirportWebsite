@@ -1,5 +1,5 @@
 <?
-$MESS["SALE_CASHBOX_RSTR_BY_PS"] = "Ïëàò³æí³ ñèñòåìè";
-$MESS["SALE_CASHBOX_RSTR_BY_PS_TITLE"] = "ïî ïëàò³æíèì ñèñòåìàì";
-$MESS["SALE_CASHBOX_RSTR_BY_PS_DESC"] = "ïî ïëàò³æíèì ñèñòåìàì";
+$MESS["SALE_CASHBOX_RSTR_BY_PS"] = "ÐŸÐ»Ð°Ñ‚Ñ–Ð¶Ð½Ñ– ÑÐ¸ÑÑ‚ÐµÐ¼Ð¸";
+$MESS["SALE_CASHBOX_RSTR_BY_PS_TITLE"] = "Ð¿Ð¾ Ð¿Ð»Ð°Ñ‚Ñ–Ð¶Ð½Ð¸Ð¼ ÑÐ¸ÑÑ‚ÐµÐ¼Ð°Ð¼";
+$MESS["SALE_CASHBOX_RSTR_BY_PS_DESC"] = "Ð¿Ð¾ Ð¿Ð»Ð°Ñ‚Ñ–Ð¶Ð½Ð¸Ð¼ ÑÐ¸ÑÑ‚ÐµÐ¼Ð°Ð¼";
 ?>

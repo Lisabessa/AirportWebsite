@@ -1,5 +1,5 @@
 <?php
-$MESS["SPS_TITLE_ACCOUNT"] = "Ìîè ïîëüçîâàòåëüñêèé ñ÷åò";
-$MESS["SPS_CHAIN_ACCOUNT"] = "Âíóòðåííèé ñ÷åò";
-$MESS["SPS_CHAIN_MAIN"] = "Ìîé êàáèíåò";
-$MESS["SPS_BUY_MONEY"] = "Ïîïîëíåíèå ñ÷åòà";
+$MESS["SPS_TITLE_ACCOUNT"] = "ÐœÐ¾Ð¸ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒÑÐºÐ¸Ð¹ ÑÑ‡ÐµÑ‚";
+$MESS["SPS_CHAIN_ACCOUNT"] = "Ð’Ð½ÑƒÑ‚Ñ€ÐµÐ½Ð½Ð¸Ð¹ ÑÑ‡ÐµÑ‚";
+$MESS["SPS_CHAIN_MAIN"] = "ÐœÐ¾Ð¹ ÐºÐ°Ð±Ð¸Ð½ÐµÑ‚";
+$MESS["SPS_BUY_MONEY"] = "ÐŸÐ¾Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¸Ðµ ÑÑ‡ÐµÑ‚Ð°";

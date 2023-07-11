@@ -1,3 +1,3 @@
 <?
-$MESS["REST_ALT_USER_SELECT"] = "Âûáðàòü";
+$MESS["REST_ALT_USER_SELECT"] = "Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ";
 ?>

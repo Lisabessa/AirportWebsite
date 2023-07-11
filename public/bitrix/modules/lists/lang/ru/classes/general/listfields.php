@@ -1,3 +1,3 @@
 <?
-$MESS ['LISTS_LIST_NAME_FIELD_DEFAULT_LABEL'] = "Íàçâàíèå";
+$MESS ['LISTS_LIST_NAME_FIELD_DEFAULT_LABEL'] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
 ?>

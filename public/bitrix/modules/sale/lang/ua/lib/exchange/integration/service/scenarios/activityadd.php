@@ -1,3 +1,3 @@
 <?
-$MESS["SALE_INTEGRATIONB24_SERVICE_SCENARIOS_NAME"] = "Çàìîâëåííÿ ¹";
+$MESS["SALE_INTEGRATIONB24_SERVICE_SCENARIOS_NAME"] = "Ð—Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ â„–";
 ?>

@@ -1,7 +1,7 @@
 <?
-$MESS["SBB_DETAIL_PICTURE_NAME"] = "Äåòàëüíîå èçîáðàæåíèå";
-$MESS["SBB_PREVIEW_TEXT_NAME"] = "Êðàòêîå îïèñàíèå";
-$MESS["SBB_PRICE_TYPE_NAME"] = "Òèï öåíû";
-$MESS["SBB_DISCOUNT_NAME"] = "Ñêèäêà";
-$MESS["SBB_WEIGHT_NAME"] = "Âåñ";
+$MESS["SBB_DETAIL_PICTURE_NAME"] = "Ð”ÐµÑ‚Ð°Ð»ÑŒÐ½Ð¾Ðµ Ð¸Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ðµ";
+$MESS["SBB_PREVIEW_TEXT_NAME"] = "ÐšÑ€Ð°Ñ‚ÐºÐ¾Ðµ Ð¾Ð¿Ð¸ÑÐ°Ð½Ð¸Ðµ";
+$MESS["SBB_PRICE_TYPE_NAME"] = "Ð¢Ð¸Ð¿ Ñ†ÐµÐ½Ñ‹";
+$MESS["SBB_DISCOUNT_NAME"] = "Ð¡ÐºÐ¸Ð´ÐºÐ°";
+$MESS["SBB_WEIGHT_NAME"] = "Ð’ÐµÑ";
 ?>

@@ -1,2 +1,2 @@
 <?php
-$MESS['LANDING_DEMO_STORE_MINI_CATALOG_PAYMENT_TXT_1'] = 'Îïëàòà çàêàçà';
+$MESS['LANDING_DEMO_STORE_MINI_CATALOG_PAYMENT_TXT_1'] = 'ÐžÐ¿Ð»Ð°Ñ‚Ð° Ð·Ð°ÐºÐ°Ð·Ð°';

@@ -1,3 +1,3 @@
 <?
-$MESS ['settings_index_title'] = "Íàñòðîéêè ñèñòåìû";
+$MESS ['settings_index_title'] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ ÑÐ¸ÑÑ‚ÐµÐ¼Ñ‹";
 ?>

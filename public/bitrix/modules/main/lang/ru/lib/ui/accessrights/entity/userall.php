@@ -1,3 +1,3 @@
 <?
-$MESS["MAIN_UI_SELECTOR_ACCESSRIGHT_TOALL_INTRANET"] = "Âñåì ñîòðóäíèêàì";
+$MESS["MAIN_UI_SELECTOR_ACCESSRIGHT_TOALL_INTRANET"] = "Ð’ÑÐµÐ¼ ÑÐ¾Ñ‚Ñ€ÑƒÐ´Ð½Ð¸ÐºÐ°Ð¼";
 ?>

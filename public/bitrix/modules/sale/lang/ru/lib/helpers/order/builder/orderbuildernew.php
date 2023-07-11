@@ -1,3 +1,3 @@
 <?
-$MESS["SALE_HLP_OBN_SITEID_ABSENT"] = "Íå óêàçàí SITE_ID";
-$MESS["SALE_HLP_OBE_ORDER_NOT_CREATED"] = "Íå óäàëîñü ñîçäàòü îáúåêò çàêàçà";
+$MESS["SALE_HLP_OBN_SITEID_ABSENT"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ SITE_ID";
+$MESS["SALE_HLP_OBE_ORDER_NOT_CREATED"] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ ÑÐ¾Ð·Ð´Ð°Ñ‚ÑŒ Ð¾Ð±ÑŠÐµÐºÑ‚ Ð·Ð°ÐºÐ°Ð·Ð°";

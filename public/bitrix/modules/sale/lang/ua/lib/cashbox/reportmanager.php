@@ -1,5 +1,5 @@
 <?
-$MESS["SALE_CASHBOX_ERROR_REPORT_PRINT"] = "Ïîìèëêà ïðè äðóêó çâ³òó ##REPORT_ID#";
-$MESS["SALE_CASHBOX_ERROR_REPORT_ID"] = "Íåêîðåêòíèé ID çâ³òó";
-$MESS["SALE_CASHBOX_ERROR_REPORT_NOT_FOUND"] = "Çâ³ò ##REPORT_ID# íå çíàéäåíî";
+$MESS["SALE_CASHBOX_ERROR_REPORT_PRINT"] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ° Ð¿Ñ€Ð¸ Ð´Ñ€ÑƒÐºÑƒ Ð·Ð²Ñ–Ñ‚Ñƒ ##REPORT_ID#";
+$MESS["SALE_CASHBOX_ERROR_REPORT_ID"] = "ÐÐµÐºÐ¾Ñ€ÐµÐºÑ‚Ð½Ð¸Ð¹ ID Ð·Ð²Ñ–Ñ‚Ñƒ";
+$MESS["SALE_CASHBOX_ERROR_REPORT_NOT_FOUND"] = "Ð—Ð²Ñ–Ñ‚ ##REPORT_ID# Ð½Ðµ Ð·Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾";
 ?>

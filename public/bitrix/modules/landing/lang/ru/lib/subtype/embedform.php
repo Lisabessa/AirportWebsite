@@ -1,7 +1,7 @@
 <?php
-$MESS['LANDING_BLOCK_WEBFORM'] = 'CRM-ôîðìà';
-$MESS['LANDING_BLOCK_WEBFORM_USE_DESIGN'] = 'Äèçàéí ôîðìû';
-$MESS['LANDING_BLOCK_WEBFORM_USE_DESIGN_Y'] = 'Èñïîëüçîâàòü äèçàéí áëîêà';
-$MESS['LANDING_BLOCK_WEBFORM_USE_DESIGN_N'] = 'Èñïîëüçîâàòü äèçàéí CRM-ôîðìû';
-$MESS['LANDING_BLOCK_WEBFORM_NO_FORM'] = 'Íåò àêòèâíûõ CRM-ôîðì';
-$MESS['LANDING_BLOCK_FORM_CONFIG'] = 'Íàñòðîèòü CRM-ôîðìû';
+$MESS['LANDING_BLOCK_WEBFORM'] = 'CRM-Ñ„Ð¾Ñ€Ð¼Ð°';
+$MESS['LANDING_BLOCK_WEBFORM_USE_DESIGN'] = 'Ð”Ð¸Ð·Ð°Ð¹Ð½ Ñ„Ð¾Ñ€Ð¼Ñ‹';
+$MESS['LANDING_BLOCK_WEBFORM_USE_DESIGN_Y'] = 'Ð˜ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ Ð´Ð¸Ð·Ð°Ð¹Ð½ Ð±Ð»Ð¾ÐºÐ°';
+$MESS['LANDING_BLOCK_WEBFORM_USE_DESIGN_N'] = 'Ð˜ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ Ð´Ð¸Ð·Ð°Ð¹Ð½ CRM-Ñ„Ð¾Ñ€Ð¼Ñ‹';
+$MESS['LANDING_BLOCK_WEBFORM_NO_FORM'] = 'ÐÐµÑ‚ Ð°ÐºÑ‚Ð¸Ð²Ð½Ñ‹Ñ… CRM-Ñ„Ð¾Ñ€Ð¼';
+$MESS['LANDING_BLOCK_FORM_CONFIG'] = 'ÐÐ°ÑÑ‚Ñ€Ð¾Ð¸Ñ‚ÑŒ CRM-Ñ„Ð¾Ñ€Ð¼Ñ‹';

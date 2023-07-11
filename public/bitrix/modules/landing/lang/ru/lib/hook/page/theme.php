@@ -1,4 +1,4 @@
 <?php
-$MESS['LANDING_HOOK_THEMECODE_NEW'] = 'Öâåòîâàÿ ïàëèòðà';
-$MESS['LANDING_HOOK_THEME_CUSTOM_COLOR'] = 'Öâåò òåìû ñàéòà';
-$MESS['LANDING_HOOK_THEME_CUSTOM_USE'] = 'Èçìåíèòü öâåòîâóþ ïàëèòðó';
+$MESS['LANDING_HOOK_THEMECODE_NEW'] = 'Ð¦Ð²ÐµÑ‚Ð¾Ð²Ð°Ñ Ð¿Ð°Ð»Ð¸Ñ‚Ñ€Ð°';
+$MESS['LANDING_HOOK_THEME_CUSTOM_COLOR'] = 'Ð¦Ð²ÐµÑ‚ Ñ‚ÐµÐ¼Ñ‹ ÑÐ°Ð¹Ñ‚Ð°';
+$MESS['LANDING_HOOK_THEME_CUSTOM_USE'] = 'Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ñ†Ð²ÐµÑ‚Ð¾Ð²ÑƒÑŽ Ð¿Ð°Ð»Ð¸Ñ‚Ñ€Ñƒ';

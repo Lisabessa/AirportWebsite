@@ -1,9 +1,9 @@
 <?php
-$MESS["SENDER_CONFIG_SECTIONS_MAILING"]   = "Ðàññûëêà";
-$MESS["SENDER_CONFIG_SECTIONS_ADS"]       = "Ðåêëàìà";
-$MESS["SENDER_CONFIG_SECTIONS_SEGMENT"]   = "Ñåãìåíò";
-$MESS["SENDER_CONFIG_SECTIONS_RC"]        = "Ãåíåðàòîð ïðîäàæ";
-$MESS["SENDER_CONFIG_SECTIONS_TEMPLATE"]  = "Øàáëîíû";
-$MESS["SENDER_CONFIG_SECTIONS_BLACKLIST"] = "×åðíûé ñïèñîê";
-$MESS["SENDER_CONFIG_SECTIONS_START"]     = "Ñòàðò";
-$MESS["SENDER_CONFIG_SECTIONS_SETTINGS"]  = "Íàñòðîéêè";
+$MESS["SENDER_CONFIG_SECTIONS_MAILING"]   = "Ð Ð°ÑÑÑ‹Ð»ÐºÐ°";
+$MESS["SENDER_CONFIG_SECTIONS_ADS"]       = "Ð ÐµÐºÐ»Ð°Ð¼Ð°";
+$MESS["SENDER_CONFIG_SECTIONS_SEGMENT"]   = "Ð¡ÐµÐ³Ð¼ÐµÐ½Ñ‚";
+$MESS["SENDER_CONFIG_SECTIONS_RC"]        = "Ð“ÐµÐ½ÐµÑ€Ð°Ñ‚Ð¾Ñ€ Ð¿Ñ€Ð¾Ð´Ð°Ð¶";
+$MESS["SENDER_CONFIG_SECTIONS_TEMPLATE"]  = "Ð¨Ð°Ð±Ð»Ð¾Ð½Ñ‹";
+$MESS["SENDER_CONFIG_SECTIONS_BLACKLIST"] = "Ð§ÐµÑ€Ð½Ñ‹Ð¹ ÑÐ¿Ð¸ÑÐ¾Ðº";
+$MESS["SENDER_CONFIG_SECTIONS_START"]     = "Ð¡Ñ‚Ð°Ñ€Ñ‚";
+$MESS["SENDER_CONFIG_SECTIONS_SETTINGS"]  = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸";

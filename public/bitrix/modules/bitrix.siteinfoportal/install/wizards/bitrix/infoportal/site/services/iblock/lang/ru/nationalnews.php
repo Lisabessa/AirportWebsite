@@ -1,8 +1,8 @@
 <?
-$MESS["WZD_OPTION_NEWS_1"] = "Íîâîñòü";
-$MESS["WZD_OPTION_NEWS_2"] = "Ïóáëèêóåòñÿ íà ñàéòå";
-$MESS["WZD_OPTION_NEWS_3"] = "Äàòà íîâîñòè";
-$MESS["WZD_OPTION_NEWS_4"] = "Èçîáðàæåíèå";
-$MESS["WZD_OPTION_NEWS_5"] = "*Çàãîëîâîê";
-$MESS["WZD_OPTION_NEWS_8"] = "Îïèñàíèå";
+$MESS["WZD_OPTION_NEWS_1"] = "ÐÐ¾Ð²Ð¾ÑÑ‚ÑŒ";
+$MESS["WZD_OPTION_NEWS_2"] = "ÐŸÑƒÐ±Ð»Ð¸ÐºÑƒÐµÑ‚ÑÑ Ð½Ð° ÑÐ°Ð¹Ñ‚Ðµ";
+$MESS["WZD_OPTION_NEWS_3"] = "Ð”Ð°Ñ‚Ð° Ð½Ð¾Ð²Ð¾ÑÑ‚Ð¸";
+$MESS["WZD_OPTION_NEWS_4"] = "Ð˜Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ðµ";
+$MESS["WZD_OPTION_NEWS_5"] = "*Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº";
+$MESS["WZD_OPTION_NEWS_8"] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ";
 ?>

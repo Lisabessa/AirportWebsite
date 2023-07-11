@@ -1,5 +1,5 @@
 <?php
-$MESS['BPDT_DATE_INVALID'] = 'Çíà÷åíèå ïîëÿ íå ÿâëÿåòñÿ êîððåêòíîé äàòîé.';
-$MESS['BPDT_DATE_MOBILE_SELECT'] = 'Âûáðàòü';
-$MESS['BPDT_DATE_SERVER_TZ'] = 'Âðåìÿ ñåðâåðà';
-$MESS['BPDT_DATE_CURRENT_TZ'] = 'Ìîå âðåìÿ';
+$MESS['BPDT_DATE_INVALID'] = 'Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð¿Ð¾Ð»Ñ Ð½Ðµ ÑÐ²Ð»ÑÐµÑ‚ÑÑ ÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ð¾Ð¹ Ð´Ð°Ñ‚Ð¾Ð¹.';
+$MESS['BPDT_DATE_MOBILE_SELECT'] = 'Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ';
+$MESS['BPDT_DATE_SERVER_TZ'] = 'Ð’Ñ€ÐµÐ¼Ñ ÑÐµÑ€Ð²ÐµÑ€Ð°';
+$MESS['BPDT_DATE_CURRENT_TZ'] = 'ÐœÐ¾Ðµ Ð²Ñ€ÐµÐ¼Ñ';

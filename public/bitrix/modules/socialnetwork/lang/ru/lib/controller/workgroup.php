@@ -1,3 +1,3 @@
 <?php
-$MESS["SONET_CONTROLLER_WORKGROUP_EMPTY"] = "Íå ïåðåäàíî çíà÷åíèå ID ðàáî÷åé ãðóïïû.";
-$MESS["SONET_CONTROLLER_WORKGROUP_NOT_FOUND"] = "Ðàáî÷àÿ ãðóïïà íå íàéäåíà.";
+$MESS["SONET_CONTROLLER_WORKGROUP_EMPTY"] = "ÐÐµ Ð¿ÐµÑ€ÐµÐ´Ð°Ð½Ð¾ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ ID Ñ€Ð°Ð±Ð¾Ñ‡ÐµÐ¹ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹.";
+$MESS["SONET_CONTROLLER_WORKGROUP_NOT_FOUND"] = "Ð Ð°Ð±Ð¾Ñ‡Ð°Ñ Ð³Ñ€ÑƒÐ¿Ð¿Ð° Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð°.";

@@ -1,12 +1,12 @@
 <?
-$MESS['SALE_ORDER_ADDITIONAL_INFO_COMMENT'] = 'Êîììåíòàðèé';
-$MESS['SALE_ORDER_ADDITIONAL_INFO_MANAGER_COMMENT'] = 'Êîììåíòàðèé ìåíåäæåðà';
-$MESS['SALE_ORDER_ADDITIONAL_INFO_CHANGE_BY'] = 'Èçìåíèë';
-$MESS['SALE_ORDER_ADDITIONAL_INFO_CHANGE'] = 'Èçìåíèòü';
-$MESS['SALE_ORDER_ADDITIONAL_INFO_RESPONSIBLE'] = 'Îòâåòñòâåííûé';
-$MESS['SALE_ORDER_ADDITIONAL_INFO_NO_COMMENT'] = 'íåò';
-$MESS['SALE_ORDER_ADDITIONAL_INFO_COMMENT_EDIT'] = 'Ðåäàêòèðîâàòü êîììåíòàðèé';
-$MESS['SALE_ORDER_ADDITIONAL_INFO_COMMENT_SAVE'] = 'Ñîõðàíèòü';
-$MESS['SALE_ORDER_ADDITIONAL_INFO_COMMENT_TITLE'] = 'Ðåäàêòèðîâàòü êîììåíòàðèé';
-$MESS['SALE_ORDER_ADDITIONAL_INFO_ADDITIONAL_INFO'] = 'Äîïîëíèòåëüíàÿ èíôîðìàöèÿ';
-$MESS['SALE_ORDER_ADDITIONAL_INFO_COMPANY'] = 'Îôèñ';
+$MESS['SALE_ORDER_ADDITIONAL_INFO_COMMENT'] = 'ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹';
+$MESS['SALE_ORDER_ADDITIONAL_INFO_MANAGER_COMMENT'] = 'ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹ Ð¼ÐµÐ½ÐµÐ´Ð¶ÐµÑ€Ð°';
+$MESS['SALE_ORDER_ADDITIONAL_INFO_CHANGE_BY'] = 'Ð˜Ð·Ð¼ÐµÐ½Ð¸Ð»';
+$MESS['SALE_ORDER_ADDITIONAL_INFO_CHANGE'] = 'Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ';
+$MESS['SALE_ORDER_ADDITIONAL_INFO_RESPONSIBLE'] = 'ÐžÑ‚Ð²ÐµÑ‚ÑÑ‚Ð²ÐµÐ½Ð½Ñ‹Ð¹';
+$MESS['SALE_ORDER_ADDITIONAL_INFO_NO_COMMENT'] = 'Ð½ÐµÑ‚';
+$MESS['SALE_ORDER_ADDITIONAL_INFO_COMMENT_EDIT'] = 'Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹';
+$MESS['SALE_ORDER_ADDITIONAL_INFO_COMMENT_SAVE'] = 'Ð¡Ð¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ';
+$MESS['SALE_ORDER_ADDITIONAL_INFO_COMMENT_TITLE'] = 'Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹';
+$MESS['SALE_ORDER_ADDITIONAL_INFO_ADDITIONAL_INFO'] = 'Ð”Ð¾Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð°Ñ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ñ';
+$MESS['SALE_ORDER_ADDITIONAL_INFO_COMPANY'] = 'ÐžÑ„Ð¸Ñ';

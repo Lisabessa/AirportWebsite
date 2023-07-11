@@ -1,2 +1,2 @@
 <?php
-$MESS['SALE_CASHBOX_SELL_NAME'] = 'Полная оплата';
+$MESS['SALE_CASHBOX_SELL_NAME'] = 'РџРѕР»РЅР°СЏ РѕРїР»Р°С‚Р°';

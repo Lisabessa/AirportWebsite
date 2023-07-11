@@ -1,4 +1,4 @@
 <?
 $MESS["SALE_SECTION_ENTITY_ID_FIELD"] = "ID";
-$MESS["SALE_SECTION_ENTITY_NAME_FIELD"] = "Íàéìåíóâàííÿ";
+$MESS["SALE_SECTION_ENTITY_NAME_FIELD"] = "ÐÐ°Ð¹Ð¼ÐµÐ½ÑƒÐ²Ð°Ð½Ð½Ñ";
 ?>

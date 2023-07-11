@@ -1,18 +1,18 @@
 <?
-$MESS ['FILEMAN_NEWFOLDER_ENTER_NAME'] = "Ââåäèòå íàçâàíèå!";
-$MESS ['FILEMAN_NEWFOLDER_EXISTS'] = "Ïàïêà ñ òàêèì èìåíåì óæå ñóùåñòâóåò!";
-$MESS ['FILEMAN_NEWFOLDER_NAME'] = "Èìÿ ïàïêè:";
-$MESS ['FILEMAN_NEWFOLDER_SEACTION_NAME'] = "Íàçâàíèå ðàçäåëà:";
-$MESS ['FILEMAN_NEWFOLDER_MAKE_INDEX'] = "Ñîçäàòü èíäåêñíóþ ñòðàíèöó ðàçäåëà:";
-$MESS ['FILEMAN_NEWFOLDER_INDEX_TEMPLATE'] = "Øàáëîí:";
-$MESS ['FILEMAN_NEWFOLDER_INDEX_EDIT'] = "Ïåðåéòè ê ðåäàêòèðîâàíèþ:";
-$MESS ['FILEMAN_NEWFOLDER_SAVE'] = "Ñîçäàòü ïàïêó";
-$MESS ['FILEMAN_NEWFOLDER_ADDMENU'] = "Ñîçäàòü ïóíêò ìåíþ:";
-$MESS ['FILEMAN_NEWFOLDER_MENU'] = "Ìåíþ:";
-$MESS ['FILEMAN_NEWFOLDER_MENUITEM'] = "Íàçâàíèå ïóíêòà:";
-$MESS ['FILEMAN_BACK'] = "Ïàïêà";
-$MESS ['FILEMAN_TAB1'] = "Íîâàÿ ïàïêà";
-$MESS ['FILEMAN_TAB1_ALT'] = "Ñîçäàíèå íîâîé ïàïêè";
-$MESS ['FILEMAN_TRANS_LINKED'] = "Ãåíåðàöèÿ èìåíè ïàïêè èç íàçâàíèÿ ðàçäåëà: Âêëþ÷åíî";
-$MESS ['FILEMAN_TRANS_UNLINKED'] = "Ãåíåðàöèÿ èìåíè ïàïêè èç íàçâàíèÿ ðàçäåëà: Âûêëþ÷åíî";
+$MESS ['FILEMAN_NEWFOLDER_ENTER_NAME'] = "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð½Ð°Ð·Ð²Ð°Ð½Ð¸Ðµ!";
+$MESS ['FILEMAN_NEWFOLDER_EXISTS'] = "ÐŸÐ°Ð¿ÐºÐ° Ñ Ñ‚Ð°ÐºÐ¸Ð¼ Ð¸Ð¼ÐµÐ½ÐµÐ¼ ÑƒÐ¶Ðµ ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÐµÑ‚!";
+$MESS ['FILEMAN_NEWFOLDER_NAME'] = "Ð˜Ð¼Ñ Ð¿Ð°Ð¿ÐºÐ¸:";
+$MESS ['FILEMAN_NEWFOLDER_SEACTION_NAME'] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ñ€Ð°Ð·Ð´ÐµÐ»Ð°:";
+$MESS ['FILEMAN_NEWFOLDER_MAKE_INDEX'] = "Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ Ð¸Ð½Ð´ÐµÐºÑÐ½ÑƒÑŽ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ Ñ€Ð°Ð·Ð´ÐµÐ»Ð°:";
+$MESS ['FILEMAN_NEWFOLDER_INDEX_TEMPLATE'] = "Ð¨Ð°Ð±Ð»Ð¾Ð½:";
+$MESS ['FILEMAN_NEWFOLDER_INDEX_EDIT'] = "ÐŸÐµÑ€ÐµÐ¹Ñ‚Ð¸ Ðº Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸ÑŽ:";
+$MESS ['FILEMAN_NEWFOLDER_SAVE'] = "Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ Ð¿Ð°Ð¿ÐºÑƒ";
+$MESS ['FILEMAN_NEWFOLDER_ADDMENU'] = "Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ Ð¿ÑƒÐ½ÐºÑ‚ Ð¼ÐµÐ½ÑŽ:";
+$MESS ['FILEMAN_NEWFOLDER_MENU'] = "ÐœÐµÐ½ÑŽ:";
+$MESS ['FILEMAN_NEWFOLDER_MENUITEM'] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð¿ÑƒÐ½ÐºÑ‚Ð°:";
+$MESS ['FILEMAN_BACK'] = "ÐŸÐ°Ð¿ÐºÐ°";
+$MESS ['FILEMAN_TAB1'] = "ÐÐ¾Ð²Ð°Ñ Ð¿Ð°Ð¿ÐºÐ°";
+$MESS ['FILEMAN_TAB1_ALT'] = "Ð¡Ð¾Ð·Ð´Ð°Ð½Ð¸Ðµ Ð½Ð¾Ð²Ð¾Ð¹ Ð¿Ð°Ð¿ÐºÐ¸";
+$MESS ['FILEMAN_TRANS_LINKED'] = "Ð“ÐµÐ½ÐµÑ€Ð°Ñ†Ð¸Ñ Ð¸Ð¼ÐµÐ½Ð¸ Ð¿Ð°Ð¿ÐºÐ¸ Ð¸Ð· Ð½Ð°Ð·Ð²Ð°Ð½Ð¸Ñ Ñ€Ð°Ð·Ð´ÐµÐ»Ð°: Ð’ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¾";
+$MESS ['FILEMAN_TRANS_UNLINKED'] = "Ð“ÐµÐ½ÐµÑ€Ð°Ñ†Ð¸Ñ Ð¸Ð¼ÐµÐ½Ð¸ Ð¿Ð°Ð¿ÐºÐ¸ Ð¸Ð· Ð½Ð°Ð·Ð²Ð°Ð½Ð¸Ñ Ñ€Ð°Ð·Ð´ÐµÐ»Ð°: Ð’Ñ‹ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¾";
 ?>

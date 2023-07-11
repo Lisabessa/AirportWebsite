@@ -1,3 +1,3 @@
 <?
-$MESS["BX_CATALOG_EVENT_COMPATIBILITY_ERR_UNKNOWN"] = "Îáðàáîò÷èê ñîáûòèÿ #EVENT# âåðíóë îøèáêó";
+$MESS["BX_CATALOG_EVENT_COMPATIBILITY_ERR_UNKNOWN"] = "ÐžÐ±Ñ€Ð°Ð±Ð¾Ñ‚Ñ‡Ð¸Ðº ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ #EVENT# Ð²ÐµÑ€Ð½ÑƒÐ» Ð¾ÑˆÐ¸Ð±ÐºÑƒ";
 ?>

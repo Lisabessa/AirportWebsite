@@ -1,4 +1,4 @@
 <?
-$MESS ['BPCGACT_NO_PROPERTY'] = "Ñâîéñòâî '#NAME#' íå îïðåäåëåíî";
-$MESS ['BPGA_ACTIVITY_NOT_FOUND'] = "Äåéñòâèå íå íàéäåíî (#ACTIVITY#)";
+$MESS ['BPCGACT_NO_PROPERTY'] = "Ð¡Ð²Ð¾Ð¹ÑÑ‚Ð²Ð¾ '#NAME#' Ð½Ðµ Ð¾Ð¿Ñ€ÐµÐ´ÐµÐ»ÐµÐ½Ð¾";
+$MESS ['BPGA_ACTIVITY_NOT_FOUND'] = "Ð”ÐµÐ¹ÑÑ‚Ð²Ð¸Ðµ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾ (#ACTIVITY#)";
 ?>

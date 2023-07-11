@@ -1,4 +1,4 @@
 <?
-$MESS["SONET_LOG_LIST_TITLE_GRAT"] = "#USER_NAME#: Áëàãîäàðíîñòè";
-$MESS["SONET_LOG_LIST_TITLE_GRAT2"] = "#USER_NAME#: Áëàãîäàðíîñòè òèïà &laquo;#GRAT_NAME#&raquo;";
+$MESS["SONET_LOG_LIST_TITLE_GRAT"] = "#USER_NAME#: Ð‘Ð»Ð°Ð³Ð¾Ð´Ð°Ñ€Ð½Ð¾ÑÑ‚Ð¸";
+$MESS["SONET_LOG_LIST_TITLE_GRAT2"] = "#USER_NAME#: Ð‘Ð»Ð°Ð³Ð¾Ð´Ð°Ñ€Ð½Ð¾ÑÑ‚Ð¸ Ñ‚Ð¸Ð¿Ð° &laquo;#GRAT_NAME#&raquo;";
 ?>

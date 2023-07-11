@@ -1,5 +1,5 @@
 <?
-$MESS["CATALOG_PERSONAL_RECOM"] = "Ïåðñîíàëüíûå ðåêîìåíäàöèè";
-$MESS["CATALOG_POPULAR_IN_SECTION"] = "Ïîïóëÿðíûå â ðàçäåëå";
-$MESS["CATALOG_RECOMMENDED_BY_LINK"] = "Ñ ýòèì òîâàðîì ðåêîìåíäóåì";
-$MESS["CATALOG_VIEWED"] = "Ïðîñìàòðèâàëè";
+$MESS["CATALOG_PERSONAL_RECOM"] = "ÐŸÐµÑ€ÑÐ¾Ð½Ð°Ð»ÑŒÐ½Ñ‹Ðµ Ñ€ÐµÐºÐ¾Ð¼ÐµÐ½Ð´Ð°Ñ†Ð¸Ð¸";
+$MESS["CATALOG_POPULAR_IN_SECTION"] = "ÐŸÐ¾Ð¿ÑƒÐ»ÑÑ€Ð½Ñ‹Ðµ Ð² Ñ€Ð°Ð·Ð´ÐµÐ»Ðµ";
+$MESS["CATALOG_RECOMMENDED_BY_LINK"] = "Ð¡ ÑÑ‚Ð¸Ð¼ Ñ‚Ð¾Ð²Ð°Ñ€Ð¾Ð¼ Ñ€ÐµÐºÐ¾Ð¼ÐµÐ½Ð´ÑƒÐµÐ¼";
+$MESS["CATALOG_VIEWED"] = "ÐŸÑ€Ð¾ÑÐ¼Ð°Ñ‚Ñ€Ð¸Ð²Ð°Ð»Ð¸";

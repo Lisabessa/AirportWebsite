@@ -1,4 +1,4 @@
 <?
-$MESS['SEO_RETARGETING_SERVICE_RESPONSE_FACEBOOK_ERROR_URL_REQUIRED'] = "Ïîëå àäðåñà ÿâëÿåòñÿ îáÿçàòåëüíûì.";
-$MESS['SEO_RETARGETING_SERVICE_RESPONSE_FACEBOOK_ERROR'] = "Ôåéñáóê âåðíóë îøèáêó";
-$MESS['SEO_RETARGETING_SERVICE_RESPONSE_FACEBOOK_ERROR_ADD_TO_BUSINESS'] = "Ýòîò ðåêëàìíûé àêêàóíò ïîäêëþ÷åí ê ëè÷íîìó àêêàóíòó Facebook. Ñîçäàâàòü àóäèòîðèè ìîãóò òîëüêî àêêàóíòû ïîäêëþ÷åííûå ê Business Manager.";
+$MESS['SEO_RETARGETING_SERVICE_RESPONSE_FACEBOOK_ERROR_URL_REQUIRED'] = "ÐŸÐ¾Ð»Ðµ Ð°Ð´Ñ€ÐµÑÐ° ÑÐ²Ð»ÑÐµÑ‚ÑÑ Ð¾Ð±ÑÐ·Ð°Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ð¼.";
+$MESS['SEO_RETARGETING_SERVICE_RESPONSE_FACEBOOK_ERROR'] = "Ð¤ÐµÐ¹ÑÐ±ÑƒÐº Ð²ÐµÑ€Ð½ÑƒÐ» Ð¾ÑˆÐ¸Ð±ÐºÑƒ";
+$MESS['SEO_RETARGETING_SERVICE_RESPONSE_FACEBOOK_ERROR_ADD_TO_BUSINESS'] = "Ð­Ñ‚Ð¾Ñ‚ Ñ€ÐµÐºÐ»Ð°Ð¼Ð½Ñ‹Ð¹ Ð°ÐºÐºÐ°ÑƒÐ½Ñ‚ Ð¿Ð¾Ð´ÐºÐ»ÑŽÑ‡ÐµÐ½ Ðº Ð»Ð¸Ñ‡Ð½Ð¾Ð¼Ñƒ Ð°ÐºÐºÐ°ÑƒÐ½Ñ‚Ñƒ Facebook. Ð¡Ð¾Ð·Ð´Ð°Ð²Ð°Ñ‚ÑŒ Ð°ÑƒÐ´Ð¸Ñ‚Ð¾Ñ€Ð¸Ð¸ Ð¼Ð¾Ð³ÑƒÑ‚ Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð°ÐºÐºÐ°ÑƒÐ½Ñ‚Ñ‹ Ð¿Ð¾Ð´ÐºÐ»ÑŽÑ‡ÐµÐ½Ð½Ñ‹Ðµ Ðº Business Manager.";

@@ -1,20 +1,20 @@
 <?
-$MESS ['IDEA_MODULE_NAME'] = "Ìåíåäæåð èäåé";
-$MESS ['IDEA_MODULE_DESCRIPTION'] = "Ìåíåäæåð èäåé";
+$MESS ['IDEA_MODULE_NAME'] = "ÐœÐµÐ½ÐµÐ´Ð¶ÐµÑ€ Ð¸Ð´ÐµÐ¹";
+$MESS ['IDEA_MODULE_DESCRIPTION'] = "ÐœÐµÐ½ÐµÐ´Ð¶ÐµÑ€ Ð¸Ð´ÐµÐ¹";
 
-$MESS ['IDEA_UF_CATEGORY_CODE_DESCRIPTION'] = "Êàòåãîðèÿ";
-$MESS ['IDEA_UF_ORIGINAL_ID_DESCRIPTION'] = "Äóáëèêàò";
-$MESS ['IDEA_UF_STATUS_DESCRIPTION'] = "Ñòàòóñ";
-$MESS ['IDEA_UF_ANSWER_ID_DESCRIPTION'] = "ID îôèöèàëüíîãî îòâåòà";
+$MESS ['IDEA_UF_CATEGORY_CODE_DESCRIPTION'] = "ÐšÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ñ";
+$MESS ['IDEA_UF_ORIGINAL_ID_DESCRIPTION'] = "Ð”ÑƒÐ±Ð»Ð¸ÐºÐ°Ñ‚";
+$MESS ['IDEA_UF_STATUS_DESCRIPTION'] = "Ð¡Ñ‚Ð°Ñ‚ÑƒÑ";
+$MESS ['IDEA_UF_ANSWER_ID_DESCRIPTION'] = "ID Ð¾Ñ„Ð¸Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð¾Ð³Ð¾ Ð¾Ñ‚Ð²ÐµÑ‚Ð°";
 
-$MESS ['IDEA_UF_STATUS_NEW_TITLE'] = "Íîâûå";
-$MESS ['IDEA_UF_STATUS_PROCESSING_TITLE'] = "Â ðàáîòå";
-$MESS ['IDEA_UF_STATUS_COMPLETED_TITLE'] = "Âíåäðåíî";
+$MESS ['IDEA_UF_STATUS_NEW_TITLE'] = "ÐÐ¾Ð²Ñ‹Ðµ";
+$MESS ['IDEA_UF_STATUS_PROCESSING_TITLE'] = "Ð’ Ñ€Ð°Ð±Ð¾Ñ‚Ðµ";
+$MESS ['IDEA_UF_STATUS_COMPLETED_TITLE'] = "Ð’Ð½ÐµÐ´Ñ€ÐµÐ½Ð¾";
 
-$MESS ['IDEA_INSTALL_TITLE'] = "Óñòàíîâêà ìîäóëÿ Ìåíåäæåðà èäåé";
-$MESS ['ERR_IDEA_INSTALL_TITLE'] = "Îøèáêà óñòàíîâêè ìîäóëÿ Ìåíåäæåðà èäåé";
+$MESS ['IDEA_INSTALL_TITLE'] = "Ð£ÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ° Ð¼Ð¾Ð´ÑƒÐ»Ñ ÐœÐµÐ½ÐµÐ´Ð¶ÐµÑ€Ð° Ð¸Ð´ÐµÐ¹";
+$MESS ['ERR_IDEA_INSTALL_TITLE'] = "ÐžÑˆÐ¸Ð±ÐºÐ° ÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ¸ Ð¼Ð¾Ð´ÑƒÐ»Ñ ÐœÐµÐ½ÐµÐ´Ð¶ÐµÑ€Ð° Ð¸Ð´ÐµÐ¹";
 
-$MESS ['ERR_SESSION_EXPIRED'] = "Âàøà ñåññèÿ èñòåêëà, ïîâòîðèòå ïîïûòêó óñòàíîâêè ìîäóëÿ èäåé.";
-$MESS ['ERR_IBLOCK_MODULE_NOT_INSTALLED'] = "Ìîäóëü èíôîáëîêîâ íå óñòàíîâëåí.";
-$MESS ['ERR_BLOG_MODULE_NOT_INSTALLED'] = "Ìîäóëü áëîãîâ íå óñòàíîâëåí.";
+$MESS ['ERR_SESSION_EXPIRED'] = "Ð’Ð°ÑˆÐ° ÑÐµÑÑÐ¸Ñ Ð¸ÑÑ‚ÐµÐºÐ»Ð°, Ð¿Ð¾Ð²Ñ‚Ð¾Ñ€Ð¸Ñ‚Ðµ Ð¿Ð¾Ð¿Ñ‹Ñ‚ÐºÑƒ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ¸ Ð¼Ð¾Ð´ÑƒÐ»Ñ Ð¸Ð´ÐµÐ¹.";
+$MESS ['ERR_IBLOCK_MODULE_NOT_INSTALLED'] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ¾Ð² Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
+$MESS ['ERR_BLOG_MODULE_NOT_INSTALLED'] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð±Ð»Ð¾Ð³Ð¾Ð² Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
 ?>

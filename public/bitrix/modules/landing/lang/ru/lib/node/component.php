@@ -1,2 +1,2 @@
 <?php
-$MESS['LANDING_NODE_CMP_STYLE_BLOCK'] = 'Íàñòðîéêè îòîáðàæåíèÿ';
+$MESS['LANDING_NODE_CMP_STYLE_BLOCK'] = 'ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð¾Ñ‚Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ñ';

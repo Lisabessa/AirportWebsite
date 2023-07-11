@@ -1,5 +1,5 @@
 <?
-$MESS["B24C_OPTIONS"] = "Ïîäêëþ÷åíèå";
-$MESS["B24C_CONNECTED"] = "Ñàéò ïîäêëþ÷¸í ê";
-$MESS["B24C_DISCONNECT"] = "Îòêëþ÷èòü";
-$MESS["B24C_CONNECT"] = "Ïîäêëþ÷èòü";
+$MESS["B24C_OPTIONS"] = "ÐŸÐ¾Ð´ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¸Ðµ";
+$MESS["B24C_CONNECTED"] = "Ð¡Ð°Ð¹Ñ‚ Ð¿Ð¾Ð´ÐºÐ»ÑŽÑ‡Ñ‘Ð½ Ðº";
+$MESS["B24C_DISCONNECT"] = "ÐžÑ‚ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ";
+$MESS["B24C_CONNECT"] = "ÐŸÐ¾Ð´ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ";

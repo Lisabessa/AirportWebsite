@@ -1,5 +1,5 @@
 <?
-$MESS["SALE_CONVERSION_RATE_CART_NAME"] = "Äîäàíî â êîøèê";
-$MESS["SALE_CONVERSION_RATE_ORDER_NAME"] = "Îôîðìëåíî çàìîâëåíü";
-$MESS["SALE_CONVERSION_RATE_PAYMENT_NAME"] = "Ñïëà÷åíî çàìîâëåíü";
+$MESS["SALE_CONVERSION_RATE_CART_NAME"] = "Ð”Ð¾Ð´Ð°Ð½Ð¾ Ð² ÐºÐ¾ÑˆÐ¸Ðº";
+$MESS["SALE_CONVERSION_RATE_ORDER_NAME"] = "ÐžÑ„Ð¾Ñ€Ð¼Ð»ÐµÐ½Ð¾ Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½ÑŒ";
+$MESS["SALE_CONVERSION_RATE_PAYMENT_NAME"] = "Ð¡Ð¿Ð»Ð°Ñ‡ÐµÐ½Ð¾ Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½ÑŒ";
 ?>

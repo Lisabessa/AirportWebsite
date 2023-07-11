@@ -1,3 +1,3 @@
 <?
-$MESS ['LEARNING_INDEX_TITLE'] = "Îáó÷åíèå";
+$MESS ['LEARNING_INDEX_TITLE'] = "ÐžÐ±ÑƒÑ‡ÐµÐ½Ð¸Ðµ";
 ?>

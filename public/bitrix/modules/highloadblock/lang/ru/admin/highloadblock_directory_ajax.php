@@ -1,11 +1,11 @@
 <?
-$MESS["HIBLOCK_PROP_DIRECTORY_XML_ID"] = "Âíåøíèé êîä";
-$MESS["HIBLOCK_PROP_DIRECTORY_NAME"] = "Íàçâàíèå";
-$MESS["HIBLOCK_PROP_DIRECTORY_SORT"] = "Ñîðòèðîâêà";
-$MESS["HIBLOCK_PROP_DIRECTORY_DEF"] = "Ïî óìîë÷àíèþ";
-$MESS["HIBLOCK_PROP_DIRECTORY_LINK"] = "Ññûëêà";
-$MESS["HIBLOCK_PROP_DIRECTORY_FILE"] = "Èçîáðàæåíèå";
-$MESS["HIBLOCK_PROP_DIRECTORY_DECSRIPTION"] = "Îïèñàíèå";
-$MESS["HIBLOCK_PROP_DIRECTORY_FULL_DESCRIPTION"] = "Ïîëíîå îïèñàíèå";
-$MESS["HIBLOCK_PROP_DIRECTORY_EMPTY_DEFAULT_VALUE"] = "(íåò çíà÷åíèÿ ïî óìîë÷àíèþ)";
+$MESS["HIBLOCK_PROP_DIRECTORY_XML_ID"] = "Ð’Ð½ÐµÑˆÐ½Ð¸Ð¹ ÐºÐ¾Ð´";
+$MESS["HIBLOCK_PROP_DIRECTORY_NAME"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
+$MESS["HIBLOCK_PROP_DIRECTORY_SORT"] = "Ð¡Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²ÐºÐ°";
+$MESS["HIBLOCK_PROP_DIRECTORY_DEF"] = "ÐŸÐ¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ";
+$MESS["HIBLOCK_PROP_DIRECTORY_LINK"] = "Ð¡ÑÑ‹Ð»ÐºÐ°";
+$MESS["HIBLOCK_PROP_DIRECTORY_FILE"] = "Ð˜Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ðµ";
+$MESS["HIBLOCK_PROP_DIRECTORY_DECSRIPTION"] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ";
+$MESS["HIBLOCK_PROP_DIRECTORY_FULL_DESCRIPTION"] = "ÐŸÐ¾Ð»Ð½Ð¾Ðµ Ð¾Ð¿Ð¸ÑÐ°Ð½Ð¸Ðµ";
+$MESS["HIBLOCK_PROP_DIRECTORY_EMPTY_DEFAULT_VALUE"] = "(Ð½ÐµÑ‚ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ñ Ð¿Ð¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ)";
 ?>

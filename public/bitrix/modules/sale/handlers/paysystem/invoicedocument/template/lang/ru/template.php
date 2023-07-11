@@ -1,2 +1,2 @@
 <?php
-$MESS["SALE_DOCUMENT_HANDLER_WAIT_TRANSFORMATION_2"] = "Èäåò ïå÷àòü Âàøåãî ñ÷åòà. Ïîæàëóéñòà, íåìíîãî ïîäîæäèòå";
+$MESS["SALE_DOCUMENT_HANDLER_WAIT_TRANSFORMATION_2"] = "Ð˜Ð´ÐµÑ‚ Ð¿ÐµÑ‡Ð°Ñ‚ÑŒ Ð’Ð°ÑˆÐµÐ³Ð¾ ÑÑ‡ÐµÑ‚Ð°. ÐŸÐ¾Ð¶Ð°Ð»ÑƒÐ¹ÑÑ‚Ð°, Ð½ÐµÐ¼Ð½Ð¾Ð³Ð¾ Ð¿Ð¾Ð´Ð¾Ð¶Ð´Ð¸Ñ‚Ðµ";

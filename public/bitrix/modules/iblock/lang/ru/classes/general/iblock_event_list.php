@@ -1,7 +1,7 @@
 <?
-$MESS["LOG_IBLOCK_ITEM_ADD"] = "Äîáàâëåíî: #ITEM# #NAME#";
-$MESS["LOG_IBLOCK_ITEM_EDIT"] = "Èçìåíåíî: #ITEM# #NAME#";
-$MESS["LOG_IBLOCK_ITEM_DELETE"] = "Óäàëåíî: #ITEM# #NAME#";
-$MESS["LOG_IBLOCK"] = "Èíôîáëîê";
-$MESS["LOG_IBLOCK_FILTER"] = "Äåéñòâèÿ ñ èíôîáëîêàìè";
+$MESS["LOG_IBLOCK_ITEM_ADD"] = "Ð”Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¾: #ITEM# #NAME#";
+$MESS["LOG_IBLOCK_ITEM_EDIT"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¾: #ITEM# #NAME#";
+$MESS["LOG_IBLOCK_ITEM_DELETE"] = "Ð£Ð´Ð°Ð»ÐµÐ½Ð¾: #ITEM# #NAME#";
+$MESS["LOG_IBLOCK"] = "Ð˜Ð½Ñ„Ð¾Ð±Ð»Ð¾Ðº";
+$MESS["LOG_IBLOCK_FILTER"] = "Ð”ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ Ñ Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ°Ð¼Ð¸";
 ?>

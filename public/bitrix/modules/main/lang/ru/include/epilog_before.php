@@ -1,12 +1,12 @@
 <?
-$MESS["main_epilog_before_menu_edit"] = "Èçìåíèòü ñòðàíèöó â ðåäàêòîðå";
-$MESS["main_epilog_before_menu_edit_title"] = "Ðåäàêòèðîâàòü ñòðàíèöó â âèçóàëüíîì ðåäàêòîðå";
-$MESS["main_epilog_before_menu_edit_html"] = "Èçìåíèòü ñòðàíèöó êàê HTML";
-$MESS["main_epilog_before_menu_edit_html_title"] = "Ðåäàêòèðîâàòü ñòðàíèöó â ðåæèìå HTML";
-$MESS["main_epilog_before_menu_title"] = "Èçìåíèòü òåêóùóþ ñòðàíèöó";
-$MESS["main_epilog_before_menu_prop"] = "Èçìåíèòü ñâîéñòâà ñòðàíèöû";
-$MESS["main_epilog_before_menu_prop_title"] = "Èçìåíèòü çàãîëîâîê è äðóãèå ñâîéñòâà ñòðàíèöû";
-$MESS["main_epilog_before_remove_panel"] = "Ñêðûòü ýòó ïàíåëü";
-$MESS["main_epilog_before_remove_panel_title"] = "Íå îòîáðàæàòü ïàíåëü ðåäàêòèðîâàíèÿ ñòðàíèöû";
-$MESS["main_epilog_before_remove_panel_confirm"] = "Ñêðûòü ïàíåëü ðåäàêòèðîâàíèÿ ñòðàíèöû? E¸ ìîæíî âåðíóòü íà ýêðàí â íàñòðîéêàõ èíòåðôåéñà.";
+$MESS["main_epilog_before_menu_edit"] = "Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ Ð² Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¾Ñ€Ðµ";
+$MESS["main_epilog_before_menu_edit_title"] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ Ð² Ð²Ð¸Ð·ÑƒÐ°Ð»ÑŒÐ½Ð¾Ð¼ Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¾Ñ€Ðµ";
+$MESS["main_epilog_before_menu_edit_html"] = "Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ ÐºÐ°Ðº HTML";
+$MESS["main_epilog_before_menu_edit_html_title"] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ Ð² Ñ€ÐµÐ¶Ð¸Ð¼Ðµ HTML";
+$MESS["main_epilog_before_menu_title"] = "Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ñ‚ÐµÐºÑƒÑ‰ÑƒÑŽ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ";
+$MESS["main_epilog_before_menu_prop"] = "Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ ÑÐ²Ð¾Ð¹ÑÑ‚Ð²Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹";
+$MESS["main_epilog_before_menu_prop_title"] = "Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ð·Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº Ð¸ Ð´Ñ€ÑƒÐ³Ð¸Ðµ ÑÐ²Ð¾Ð¹ÑÑ‚Ð²Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹";
+$MESS["main_epilog_before_remove_panel"] = "Ð¡ÐºÑ€Ñ‹Ñ‚ÑŒ ÑÑ‚Ñƒ Ð¿Ð°Ð½ÐµÐ»ÑŒ";
+$MESS["main_epilog_before_remove_panel_title"] = "ÐÐµ Ð¾Ñ‚Ð¾Ð±Ñ€Ð°Ð¶Ð°Ñ‚ÑŒ Ð¿Ð°Ð½ÐµÐ»ÑŒ Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹";
+$MESS["main_epilog_before_remove_panel_confirm"] = "Ð¡ÐºÑ€Ñ‹Ñ‚ÑŒ Ð¿Ð°Ð½ÐµÐ»ÑŒ Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹? EÑ‘ Ð¼Ð¾Ð¶Ð½Ð¾ Ð²ÐµÑ€Ð½ÑƒÑ‚ÑŒ Ð½Ð° ÑÐºÑ€Ð°Ð½ Ð² Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ°Ñ… Ð¸Ð½Ñ‚ÐµÑ€Ñ„ÐµÐ¹ÑÐ°.";
 ?>

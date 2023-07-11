@@ -1,3 +1,3 @@
 <?php
-$MESS['LANDING_HOOK_GTM_PLACEHOLDER'] = 'Ââåäèòå ID';
-$MESS['LANDING_HOOK_DETAIL_HELP'] = 'Ïîäðîáíåå';
+$MESS['LANDING_HOOK_GTM_PLACEHOLDER'] = 'Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ ID';
+$MESS['LANDING_HOOK_DETAIL_HELP'] = 'ÐŸÐ¾Ð´Ñ€Ð¾Ð±Ð½ÐµÐµ';

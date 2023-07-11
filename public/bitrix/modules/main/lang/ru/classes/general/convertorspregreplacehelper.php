@@ -1,4 +1,4 @@
 <?
-$MESS["CONV_MAIN_QUOTE"] = "Öèòàòà";
-$MESS["CONV_MAIN_MAILTO"] = "Íàïèñàòü ïèñüìî";
-$MESS["CONV_MAIN_CODE"] = "Êîä";
+$MESS["CONV_MAIN_QUOTE"] = "Ð¦Ð¸Ñ‚Ð°Ñ‚Ð°";
+$MESS["CONV_MAIN_MAILTO"] = "ÐÐ°Ð¿Ð¸ÑÐ°Ñ‚ÑŒ Ð¿Ð¸ÑÑŒÐ¼Ð¾";
+$MESS["CONV_MAIN_CODE"] = "ÐšÐ¾Ð´";

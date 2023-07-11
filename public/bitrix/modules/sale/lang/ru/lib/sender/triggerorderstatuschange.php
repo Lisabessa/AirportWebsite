@@ -1,6 +1,6 @@
 <?
-$MESS["sender_trigger_order_status_change_name"] = "Èçìåíåíèå ñòàòóñà çàêàçà";
-$MESS["sender_trigger_order_status_change_name_order_id_name"] = "Êîä çàêàçà";
-$MESS["sender_trigger_order_status_change_name_order_id_desc"] = "Ýòî êîä çàêàçà, ñ êîòîðûì ñâÿçàíî ñîáûòèå";
-$MESS["sender_trigger_order_status_change_field"] = "Âûáåðèòå ñòàòóñ";
+$MESS["sender_trigger_order_status_change_name"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ ÑÑ‚Ð°Ñ‚ÑƒÑÐ° Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["sender_trigger_order_status_change_name_order_id_name"] = "ÐšÐ¾Ð´ Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["sender_trigger_order_status_change_name_order_id_desc"] = "Ð­Ñ‚Ð¾ ÐºÐ¾Ð´ Ð·Ð°ÐºÐ°Ð·Ð°, Ñ ÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ð¼ ÑÐ²ÑÐ·Ð°Ð½Ð¾ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ðµ";
+$MESS["sender_trigger_order_status_change_field"] = "Ð’Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ ÑÑ‚Ð°Ñ‚ÑƒÑ";
 ?>

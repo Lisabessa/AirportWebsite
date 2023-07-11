@@ -1,10 +1,10 @@
 <?
-$MESS["SALE_DISCOUNT_PRESET_DETAIL_DESCRIPTION_TITLE"] = "Îïèñàíèå ñêèäêè";
-$MESS["SALE_DISCOUNT_PRESET_DETAIL_NEXT_STEP"] = "Ñëåäóþùèé øàã";
-$MESS["SALE_DISCOUNT_PRESET_DETAIL_PREV_STEP"] = "Ïðåäûäóùèé øàã";
-$MESS["SALE_DISCOUNT_PRESET_DETAIL_DISCOUNT_LIST"] = "Ñïèñîê ïðàâèë";
-$MESS["SALE_DISCOUNT_PRESET_DETAIL_COUPON_LIST"] = "Ñïèñîê êóïîíîâ";
-$MESS["SALE_DISCOUNT_PRESET_DETAIL_PRESET_DISCOUNT_LIST"] = "Ñïèñîê ïðåñåòîâ";
-$MESS["SALE_DISCOUNT_PRESET_DETAIL_PRESET_DISCOUNT_GO_TO_LIST"] = "Ïåðåéòè ê ñïèñêó ñêèäîê";
-$MESS["SALE_DISCOUNT_PRESET_DETAIL_ERROR_NOT_FOUND_PRESET"] = "Íå óäàëîñü íàéòè ïðåñåò";
+$MESS["SALE_DISCOUNT_PRESET_DETAIL_DESCRIPTION_TITLE"] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ ÑÐºÐ¸Ð´ÐºÐ¸";
+$MESS["SALE_DISCOUNT_PRESET_DETAIL_NEXT_STEP"] = "Ð¡Ð»ÐµÐ´ÑƒÑŽÑ‰Ð¸Ð¹ ÑˆÐ°Ð³";
+$MESS["SALE_DISCOUNT_PRESET_DETAIL_PREV_STEP"] = "ÐŸÑ€ÐµÐ´Ñ‹Ð´ÑƒÑ‰Ð¸Ð¹ ÑˆÐ°Ð³";
+$MESS["SALE_DISCOUNT_PRESET_DETAIL_DISCOUNT_LIST"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð¿Ñ€Ð°Ð²Ð¸Ð»";
+$MESS["SALE_DISCOUNT_PRESET_DETAIL_COUPON_LIST"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº ÐºÑƒÐ¿Ð¾Ð½Ð¾Ð²";
+$MESS["SALE_DISCOUNT_PRESET_DETAIL_PRESET_DISCOUNT_LIST"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð¿Ñ€ÐµÑÐµÑ‚Ð¾Ð²";
+$MESS["SALE_DISCOUNT_PRESET_DETAIL_PRESET_DISCOUNT_GO_TO_LIST"] = "ÐŸÐµÑ€ÐµÐ¹Ñ‚Ð¸ Ðº ÑÐ¿Ð¸ÑÐºÑƒ ÑÐºÐ¸Ð´Ð¾Ðº";
+$MESS["SALE_DISCOUNT_PRESET_DETAIL_ERROR_NOT_FOUND_PRESET"] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ Ð½Ð°Ð¹Ñ‚Ð¸ Ð¿Ñ€ÐµÑÐµÑ‚";
 ?>

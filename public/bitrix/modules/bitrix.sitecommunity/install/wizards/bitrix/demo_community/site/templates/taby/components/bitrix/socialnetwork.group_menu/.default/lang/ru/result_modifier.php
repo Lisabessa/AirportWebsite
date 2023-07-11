@@ -1,3 +1,3 @@
 <?
-$MESS["SONET_CM_BLOG"] = "Ñîîáùåíèÿ";
+$MESS["SONET_CM_BLOG"] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
 ?>

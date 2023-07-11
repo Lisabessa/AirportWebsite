@@ -1,11 +1,11 @@
 <?
-$MESS["TRADING_PLATFORM_SFTP_ERROR_CONNECT"] = "Íåìîæëèâî âñòàíîâèòè ssh ç'ºäíàííÿ ç õîñòîì \"#HOST#\":\"#PORT#";
-$MESS["TRADING_PLATFORM_SFTP_ERROR_SSH2_EXT"] = "Ðîçøèðåííÿ SSH2 äëÿ PHP íå âñòàíîâëåíî";
-$MESS["TRADING_PLATFORM_SFTP_ERROR_FINGERPRINT"] = "Íåâ³ðíèé â³äáèòîê õîñòà \"#HOST#\"! Àáî â³äáèòîê õîñòà çì³íèâñÿ, àáî öå àòàêà âèäó \"Man-in-the-middle\". Ïîòî÷íèé â³äáèòîê õîñòà:\"#FINGERPRINT1#\" î÷³êóºòüñÿ:\"#FINGERPRINT2#\".";
-$MESS["TRADING_PLATFORM_SFTP_ERROR_PASS"] = "Íåâ³ðíèé ëîã³í àáî ïàðîëü";
-$MESS["TRADING_PLATFORM_SFTP_ERROR_INIT"] = "Íå âäàëîñü ³í³ö³àë³çóâàòè ï³äñèñòåìó SFTP";
-$MESS["TRADING_PLATFORM_SFTP_ERROR_OPEN_FILE"] = "Íå âäàëîñü â³äêðèòè ôàéë \"#FILE#\"";
-$MESS["TRADING_PLATFORM_SFTP_ERROR_READ_FILE"] = "Íåìîæëèâî ïðî÷èòàòè ôàéë \"#FILE#\"";
-$MESS["TRADING_PLATFORM_SFTP_ERROR_WRITE_FILE"] = "Íå âäàëîñü çàïèñàòè ³íôîðìàö³þ â ôàéë \"#FILE#\"";
-$MESS["TRADING_PLATFORM_SFTP_ERROR_OPEN_PATH"] = "Íå âäàëîñü â³äêðèòè øëÿõ \"#PATH#\"";
+$MESS["TRADING_PLATFORM_SFTP_ERROR_CONNECT"] = "ÐÐµÐ¼Ð¾Ð¶Ð»Ð¸Ð²Ð¾ Ð²ÑÑ‚Ð°Ð½Ð¾Ð²Ð¸Ñ‚Ð¸ ssh Ð·'Ñ”Ð´Ð½Ð°Ð½Ð½Ñ Ð· Ñ…Ð¾ÑÑ‚Ð¾Ð¼ \"#HOST#\":\"#PORT#";
+$MESS["TRADING_PLATFORM_SFTP_ERROR_SSH2_EXT"] = "Ð Ð¾Ð·ÑˆÐ¸Ñ€ÐµÐ½Ð½Ñ SSH2 Ð´Ð»Ñ PHP Ð½Ðµ Ð²ÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð¾";
+$MESS["TRADING_PLATFORM_SFTP_ERROR_FINGERPRINT"] = "ÐÐµÐ²Ñ–Ñ€Ð½Ð¸Ð¹ Ð²Ñ–Ð´Ð±Ð¸Ñ‚Ð¾Ðº Ñ…Ð¾ÑÑ‚Ð° \"#HOST#\"! ÐÐ±Ð¾ Ð²Ñ–Ð´Ð±Ð¸Ñ‚Ð¾Ðº Ñ…Ð¾ÑÑ‚Ð° Ð·Ð¼Ñ–Ð½Ð¸Ð²ÑÑ, Ð°Ð±Ð¾ Ñ†Ðµ Ð°Ñ‚Ð°ÐºÐ° Ð²Ð¸Ð´Ñƒ \"Man-in-the-middle\". ÐŸÐ¾Ñ‚Ð¾Ñ‡Ð½Ð¸Ð¹ Ð²Ñ–Ð´Ð±Ð¸Ñ‚Ð¾Ðº Ñ…Ð¾ÑÑ‚Ð°:\"#FINGERPRINT1#\" Ð¾Ñ‡Ñ–ÐºÑƒÑ”Ñ‚ÑŒÑÑ:\"#FINGERPRINT2#\".";
+$MESS["TRADING_PLATFORM_SFTP_ERROR_PASS"] = "ÐÐµÐ²Ñ–Ñ€Ð½Ð¸Ð¹ Ð»Ð¾Ð³Ñ–Ð½ Ð°Ð±Ð¾ Ð¿Ð°Ñ€Ð¾Ð»ÑŒ";
+$MESS["TRADING_PLATFORM_SFTP_ERROR_INIT"] = "ÐÐµ Ð²Ð´Ð°Ð»Ð¾ÑÑŒ Ñ–Ð½Ñ–Ñ†Ñ–Ð°Ð»Ñ–Ð·ÑƒÐ²Ð°Ñ‚Ð¸ Ð¿Ñ–Ð´ÑÐ¸ÑÑ‚ÐµÐ¼Ñƒ SFTP";
+$MESS["TRADING_PLATFORM_SFTP_ERROR_OPEN_FILE"] = "ÐÐµ Ð²Ð´Ð°Ð»Ð¾ÑÑŒ Ð²Ñ–Ð´ÐºÑ€Ð¸Ñ‚Ð¸ Ñ„Ð°Ð¹Ð» \"#FILE#\"";
+$MESS["TRADING_PLATFORM_SFTP_ERROR_READ_FILE"] = "ÐÐµÐ¼Ð¾Ð¶Ð»Ð¸Ð²Ð¾ Ð¿Ñ€Ð¾Ñ‡Ð¸Ñ‚Ð°Ñ‚Ð¸ Ñ„Ð°Ð¹Ð» \"#FILE#\"";
+$MESS["TRADING_PLATFORM_SFTP_ERROR_WRITE_FILE"] = "ÐÐµ Ð²Ð´Ð°Ð»Ð¾ÑÑŒ Ð·Ð°Ð¿Ð¸ÑÐ°Ñ‚Ð¸ Ñ–Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ñ–ÑŽ Ð² Ñ„Ð°Ð¹Ð» \"#FILE#\"";
+$MESS["TRADING_PLATFORM_SFTP_ERROR_OPEN_PATH"] = "ÐÐµ Ð²Ð´Ð°Ð»Ð¾ÑÑŒ Ð²Ñ–Ð´ÐºÑ€Ð¸Ñ‚Ð¸ ÑˆÐ»ÑÑ… \"#PATH#\"";
 ?>

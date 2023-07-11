@@ -1,5 +1,5 @@
 <?
-$MESS["SENDER_SECURITY_ACCESS_CHECKER_ERR_VIEW"] = "Нет прав на просмотр данной страницы.";
-$MESS["SENDER_SECURITY_ACCESS_CHECKER_ERR_EDIT"] = "Нет прав на изменения на данной странице.";
-$MESS["SENDER_SECURITY_ACCESS_CHECKER_ERR_NOT_FOUND"] = "Ничего не найдено. Возможно адрес указан неверно.";
+$MESS["SENDER_SECURITY_ACCESS_CHECKER_ERR_VIEW"] = "РќРµС‚ РїСЂР°РІ РЅР° РїСЂРѕСЃРјРѕС‚СЂ РґР°РЅРЅРѕР№ СЃС‚СЂР°РЅРёС†С‹.";
+$MESS["SENDER_SECURITY_ACCESS_CHECKER_ERR_EDIT"] = "РќРµС‚ РїСЂР°РІ РЅР° РёР·РјРµРЅРµРЅРёСЏ РЅР° РґР°РЅРЅРѕР№ СЃС‚СЂР°РЅРёС†Рµ.";
+$MESS["SENDER_SECURITY_ACCESS_CHECKER_ERR_NOT_FOUND"] = "РќРёС‡РµРіРѕ РЅРµ РЅР°Р№РґРµРЅРѕ. Р’РѕР·РјРѕР¶РЅРѕ Р°РґСЂРµСЃ СѓРєР°Р·Р°РЅ РЅРµРІРµСЂРЅРѕ.";
 ?>

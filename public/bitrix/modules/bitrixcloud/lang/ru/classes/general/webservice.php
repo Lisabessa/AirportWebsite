@@ -1,13 +1,13 @@
 <?
-$MESS ['BCL_CDN_WS_SERVER'] = "Îøèáêà ïîëó÷åíèÿ íàñòðîåê îò ñåðâåðà (êîä: #STATUS#).";
-$MESS ['BCL_CDN_WS_XML_PARSE'] = "Îøèáêà ðàçáîðà xml íàñòðîåê (êîä: #CODE#).";
-$MESS ['BCL_CDN_WS_LICENSE_NOT_FOUND'] = "Ëèöåíçèÿ íåäåéñòâèòåëüíà.";
-$MESS ['BCL_CDN_WS_LICENSE_EXPIRE'] = "Ñðîê äåéñòâèÿ ëèöåíçèè èñòåê.";
-$MESS ['BCL_CDN_WS_LICENSE_DEMO'] = "Äëÿ äàííîãî òèïà ëèöåíçèè ñåðâèñ íå äîñòóïåí.";
-$MESS ['BCL_CDN_WS_LICENSE_NOT_ACTIVE'] = "Ëèöåíçèÿ íå àêòèâíà.";
-$MESS ['BCL_CDN_WS_DOMAIN_NOT_REACHABLE'] = "Óêàçàííûé url ñàéòà íå äîñòóïåí èç îáëàêà.";
-$MESS ['BCL_CDN_WS_NOT_POWERED_BY_BITRIX_CMS'] = "Óêàçàííûé ñàéò ðàáîòàåò íå ïîä óïðàâëåíèåì 1Ñ-Áèòðèêñ.";
-$MESS ['BCL_CDN_WS_CMS_LICENSE_NOT_FOUND'] = "Ëèöåíçèÿ óêàçàííîãî ñàéòà íåäåéñòâèòåëüíà.";
-$MESS ['BCL_CDN_WS_WRONG_DOMAIN_SPECIFIED'] = "Óêàçàííûé ñàéò ðàáîòàåò ïîä äðóãèì ëèöåíçèîííûì êëþ÷îì.";
-$MESS ['BCL_CDN_WS_QUOTA_EXCEEDED'] = "Ïðåâûøåí ëèìèò òðàôèêà.";
+$MESS ['BCL_CDN_WS_SERVER'] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ð¾Ð»ÑƒÑ‡ÐµÐ½Ð¸Ñ Ð½Ð°ÑÑ‚Ñ€Ð¾ÐµÐº Ð¾Ñ‚ ÑÐµÑ€Ð²ÐµÑ€Ð° (ÐºÐ¾Ð´: #STATUS#).";
+$MESS ['BCL_CDN_WS_XML_PARSE'] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ñ€Ð°Ð·Ð±Ð¾Ñ€Ð° xml Ð½Ð°ÑÑ‚Ñ€Ð¾ÐµÐº (ÐºÐ¾Ð´: #CODE#).";
+$MESS ['BCL_CDN_WS_LICENSE_NOT_FOUND'] = "Ð›Ð¸Ñ†ÐµÐ½Ð·Ð¸Ñ Ð½ÐµÐ´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð°.";
+$MESS ['BCL_CDN_WS_LICENSE_EXPIRE'] = "Ð¡Ñ€Ð¾Ðº Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ Ð»Ð¸Ñ†ÐµÐ½Ð·Ð¸Ð¸ Ð¸ÑÑ‚ÐµÐº.";
+$MESS ['BCL_CDN_WS_LICENSE_DEMO'] = "Ð”Ð»Ñ Ð´Ð°Ð½Ð½Ð¾Ð³Ð¾ Ñ‚Ð¸Ð¿Ð° Ð»Ð¸Ñ†ÐµÐ½Ð·Ð¸Ð¸ ÑÐµÑ€Ð²Ð¸Ñ Ð½Ðµ Ð´Ð¾ÑÑ‚ÑƒÐ¿ÐµÐ½.";
+$MESS ['BCL_CDN_WS_LICENSE_NOT_ACTIVE'] = "Ð›Ð¸Ñ†ÐµÐ½Ð·Ð¸Ñ Ð½Ðµ Ð°ÐºÑ‚Ð¸Ð²Ð½Ð°.";
+$MESS ['BCL_CDN_WS_DOMAIN_NOT_REACHABLE'] = "Ð£ÐºÐ°Ð·Ð°Ð½Ð½Ñ‹Ð¹ url ÑÐ°Ð¹Ñ‚Ð° Ð½Ðµ Ð´Ð¾ÑÑ‚ÑƒÐ¿ÐµÐ½ Ð¸Ð· Ð¾Ð±Ð»Ð°ÐºÐ°.";
+$MESS ['BCL_CDN_WS_NOT_POWERED_BY_BITRIX_CMS'] = "Ð£ÐºÐ°Ð·Ð°Ð½Ð½Ñ‹Ð¹ ÑÐ°Ð¹Ñ‚ Ñ€Ð°Ð±Ð¾Ñ‚Ð°ÐµÑ‚ Ð½Ðµ Ð¿Ð¾Ð´ ÑƒÐ¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸ÐµÐ¼ 1Ð¡-Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ.";
+$MESS ['BCL_CDN_WS_CMS_LICENSE_NOT_FOUND'] = "Ð›Ð¸Ñ†ÐµÐ½Ð·Ð¸Ñ ÑƒÐºÐ°Ð·Ð°Ð½Ð½Ð¾Ð³Ð¾ ÑÐ°Ð¹Ñ‚Ð° Ð½ÐµÐ´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð°.";
+$MESS ['BCL_CDN_WS_WRONG_DOMAIN_SPECIFIED'] = "Ð£ÐºÐ°Ð·Ð°Ð½Ð½Ñ‹Ð¹ ÑÐ°Ð¹Ñ‚ Ñ€Ð°Ð±Ð¾Ñ‚Ð°ÐµÑ‚ Ð¿Ð¾Ð´ Ð´Ñ€ÑƒÐ³Ð¸Ð¼ Ð»Ð¸Ñ†ÐµÐ½Ð·Ð¸Ð¾Ð½Ð½Ñ‹Ð¼ ÐºÐ»ÑŽÑ‡Ð¾Ð¼.";
+$MESS ['BCL_CDN_WS_QUOTA_EXCEEDED'] = "ÐŸÑ€ÐµÐ²Ñ‹ÑˆÐµÐ½ Ð»Ð¸Ð¼Ð¸Ñ‚ Ñ‚Ñ€Ð°Ñ„Ð¸ÐºÐ°.";
 ?>

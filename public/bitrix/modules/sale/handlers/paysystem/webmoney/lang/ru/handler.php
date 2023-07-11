@@ -1,12 +1,12 @@
 <?php
-$MESS['SALE_HPS_WEBMONEY_TEST'] = 'òåñòîâûé ðåæèì, ðåàëüíî äåíüãè íå ïåðåâîäèëèñü; ';
-$MESS['SALE_HPS_WEBMONEY_PAYEE_PURSE'] = 'êîøåëåê ïðîäàâöà - #PAYEE_PURSE#';
-$MESS['SALE_HPS_WEBMONEY_INVS_NO'] = 'íîìåð ñ÷åòà - #INVS_NO#';
-$MESS['SALE_HPS_WEBMONEY_TRANS_NO'] = 'íîìåð ïëàòåæà - #TRANS_NO#';
-$MESS['SALE_HPS_WEBMONEY_TRANS_DATE'] = 'äàòà ïëàòåæà - #TRANS_DATE#';
-$MESS['SALE_HPS_WEBMONEY_PAYER_PURSE'] = 'êîøåëåê ïîêóïàòåëÿ - #PAYER_PURSE#';
-$MESS['SALE_HPS_WEBMONEY_PAYER_WM'] = 'WMId ïîêóïàòåëÿ - #PAYER_WM#';
-$MESS['SALE_HPS_WEBMONEY_PAYMER_NUMBER'] = 'íîìåð ÂÌ-êàðòû - #PAYMER_NUMBER#';
-$MESS['SALE_HPS_WEBMONEY_PAYMER_EMAIL'] = 'paymer.com e-mail ïîêóïàòåëÿ - #PAYMER_EMAIL#';
-$MESS['SALE_HPS_WEBMONEY_TELEPAT_PHONENUMBER'] = 'òåëåôîí ïîêóïàòåëÿ - #TELEPAT_PHONENUMBER#';
-$MESS['SALE_HPS_WEBMONEY_TELEPAT_ORDERID'] = 'ïëàòåæ â Òåëåïàòå - #TELEPAT_ORDERID#';
+$MESS['SALE_HPS_WEBMONEY_TEST'] = 'Ñ‚ÐµÑÑ‚Ð¾Ð²Ñ‹Ð¹ Ñ€ÐµÐ¶Ð¸Ð¼, Ñ€ÐµÐ°Ð»ÑŒÐ½Ð¾ Ð´ÐµÐ½ÑŒÐ³Ð¸ Ð½Ðµ Ð¿ÐµÑ€ÐµÐ²Ð¾Ð´Ð¸Ð»Ð¸ÑÑŒ; ';
+$MESS['SALE_HPS_WEBMONEY_PAYEE_PURSE'] = 'ÐºÐ¾ÑˆÐµÐ»ÐµÐº Ð¿Ñ€Ð¾Ð´Ð°Ð²Ñ†Ð° - #PAYEE_PURSE#';
+$MESS['SALE_HPS_WEBMONEY_INVS_NO'] = 'Ð½Ð¾Ð¼ÐµÑ€ ÑÑ‡ÐµÑ‚Ð° - #INVS_NO#';
+$MESS['SALE_HPS_WEBMONEY_TRANS_NO'] = 'Ð½Ð¾Ð¼ÐµÑ€ Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ð° - #TRANS_NO#';
+$MESS['SALE_HPS_WEBMONEY_TRANS_DATE'] = 'Ð´Ð°Ñ‚Ð° Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ð° - #TRANS_DATE#';
+$MESS['SALE_HPS_WEBMONEY_PAYER_PURSE'] = 'ÐºÐ¾ÑˆÐµÐ»ÐµÐº Ð¿Ð¾ÐºÑƒÐ¿Ð°Ñ‚ÐµÐ»Ñ - #PAYER_PURSE#';
+$MESS['SALE_HPS_WEBMONEY_PAYER_WM'] = 'WMId Ð¿Ð¾ÐºÑƒÐ¿Ð°Ñ‚ÐµÐ»Ñ - #PAYER_WM#';
+$MESS['SALE_HPS_WEBMONEY_PAYMER_NUMBER'] = 'Ð½Ð¾Ð¼ÐµÑ€ Ð’Ðœ-ÐºÐ°Ñ€Ñ‚Ñ‹ - #PAYMER_NUMBER#';
+$MESS['SALE_HPS_WEBMONEY_PAYMER_EMAIL'] = 'paymer.com e-mail Ð¿Ð¾ÐºÑƒÐ¿Ð°Ñ‚ÐµÐ»Ñ - #PAYMER_EMAIL#';
+$MESS['SALE_HPS_WEBMONEY_TELEPAT_PHONENUMBER'] = 'Ñ‚ÐµÐ»ÐµÑ„Ð¾Ð½ Ð¿Ð¾ÐºÑƒÐ¿Ð°Ñ‚ÐµÐ»Ñ - #TELEPAT_PHONENUMBER#';
+$MESS['SALE_HPS_WEBMONEY_TELEPAT_ORDERID'] = 'Ð¿Ð»Ð°Ñ‚ÐµÐ¶ Ð² Ð¢ÐµÐ»ÐµÐ¿Ð°Ñ‚Ðµ - #TELEPAT_ORDERID#';

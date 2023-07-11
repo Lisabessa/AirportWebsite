@@ -1,5 +1,5 @@
 <?
-$MESS ['IBLOCK_INSTALL_PUBLIC_DIR'] = "Ïóáëè÷íàÿ ïàïêà";
-$MESS ['IBLOCK_INSTALL_NEWS'] = "Íîâîñòè";
-$MESS ['IBLOCK_INSTALL_CATALOG'] = "Êàòàëîã";
+$MESS ['IBLOCK_INSTALL_PUBLIC_DIR'] = "ÐŸÑƒÐ±Ð»Ð¸Ñ‡Ð½Ð°Ñ Ð¿Ð°Ð¿ÐºÐ°";
+$MESS ['IBLOCK_INSTALL_NEWS'] = "ÐÐ¾Ð²Ð¾ÑÑ‚Ð¸";
+$MESS ['IBLOCK_INSTALL_CATALOG'] = "ÐšÐ°Ñ‚Ð°Ð»Ð¾Ð³";
 ?>

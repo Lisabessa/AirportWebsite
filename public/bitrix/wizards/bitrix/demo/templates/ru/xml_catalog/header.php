@@ -13,7 +13,7 @@
 
 <div id="container">
 
-<div id="header"><a href="/" title="Главная"><img src="<?=SITE_TEMPLATE_PATH?>/images/woman.jpg" id="header_logo" height="106" alt="" width="295" border="0"/></a>
+<div id="header"><a href="/" title="Р“Р»Р°РІРЅР°СЏ"><img src="<?=SITE_TEMPLATE_PATH?>/images/woman.jpg" id="header_logo" height="106" alt="" width="295" border="0"/></a>
 	<div id="header_text">
 		<?$APPLICATION->IncludeFile(
 			$APPLICATION->GetTemplatePath("include_areas/company_name.php"),
@@ -35,7 +35,7 @@
 
 <table width="100%" cellspacing="0" cellpadding="0">
 	<tr>
-		<td width="190" valign="top" height="35"><a href="/" title="Главная"><img src="<?=SITE_TEMPLATE_PATH?>/images/woman_breast.jpg" height="35" alt="" width="190" border="0" /></a></td>
+		<td width="190" valign="top" height="35"><a href="/" title="Р“Р»Р°РІРЅР°СЏ"><img src="<?=SITE_TEMPLATE_PATH?>/images/woman_breast.jpg" height="35" alt="" width="190" border="0" /></a></td>
 		<td width="100%">
 			<?$APPLICATION->IncludeComponent(
 				"bitrix:menu", 
@@ -57,7 +57,7 @@
 
 <table id="content">
 	<tr>
-		<td class="left-column" valign="top"><a href="/" title="Главная"><img src="<?=SITE_TEMPLATE_PATH?>/images/woman_arms.jpg" height="64" alt="" width="200" border="0"/></a><img src="<?=SITE_TEMPLATE_PATH?>/images/left-column-head.gif" width="200" height="15" border="0" alt=""><div id="content_block_container">
+		<td class="left-column" valign="top"><a href="/" title="Р“Р»Р°РІРЅР°СЏ"><img src="<?=SITE_TEMPLATE_PATH?>/images/woman_arms.jpg" height="64" alt="" width="200" border="0"/></a><img src="<?=SITE_TEMPLATE_PATH?>/images/left-column-head.gif" width="200" height="15" border="0" alt=""><div id="content_block_container">
 		<?$APPLICATION->IncludeComponent(
 				"bitrix:menu", 
 				"left", 
@@ -79,7 +79,7 @@
 	<!-- SOCIALNETWORK -->
 
 		<div class="content-block">
-			<div class="content-block-head-corner"><div class="content-block-head">Авторизация</div></div>
+			<div class="content-block-head-corner"><div class="content-block-head">РђРІС‚РѕСЂРёР·Р°С†РёСЏ</div></div>
 			<div class="content-block-body">
 				<?$APPLICATION->IncludeComponent(
 					"bitrix:system.auth.form",
@@ -119,7 +119,7 @@
 									<h1 id="pagetitle"><?$APPLICATION->ShowTitle(false)?></h1></td>
 								<td width="200">
 									<div id="search-box">
-										Поиск на сайте
+										РџРѕРёСЃРє РЅР° СЃР°Р№С‚Рµ
 										<?$APPLICATION->IncludeComponent("bitrix:search.form", "flat", Array(
 											"PAGE"	=>	"/search/"
 											)

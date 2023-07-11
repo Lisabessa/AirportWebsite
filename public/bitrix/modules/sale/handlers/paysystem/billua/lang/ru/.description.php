@@ -1,95 +1,95 @@
 <?
-$MESS["SALE_HPS_BILL_UA_DTITLE"] = "Ñ÷åò (Óêðàèíñêèé)";
+$MESS["SALE_HPS_BILL_UA_DTITLE"] = "Ð¡Ñ‡ÐµÑ‚ (Ð£ÐºÑ€Ð°Ð¸Ð½ÑÐºÐ¸Ð¹)";
 
-$MESS["SALE_HPS_BILL_UA_DATE"] = "Äàòà çàêàçà";
-$MESS["SALE_HPS_BILL_UA_DATE_DESC"] = "Äàòà îôîðìëåíèÿ çàêàçà";
-$MESS["SALE_HPS_BILL_UA_SUPPLI"] = "Íàçâàíèå êîìïàíèè ïîñòàâùèêà";
-$MESS["SALE_HPS_BILL_UA_PAY_BEFORE"] = "Ñðîê îïëàòû";
-$MESS["SALE_HPS_BILL_UA_SUPPLI_DESC"] = "Íàçâàíèå êîìïàíèè-ïîñòàâùèêà (ïðîäàâöà)";
-$MESS["SALE_HPS_BILL_UA_ORDER_SUPPLI"] = "Ðàñ÷åòíûé ñ÷åò êîìïàíèè-ïîñòàâùèêà";
-$MESS["SALE_HPS_BILL_UA_ORDER_SUPPLI_DESC"] = "Ðàñ÷åòíûé ñ÷åò êîìïàíèè-ïîñòàâùèêà (ïðîäàâöà)";
-$MESS["SALE_HPS_BILL_UA_ORDER_BANK"] = "Áàíê ïîñòàâùèêà";
-$MESS["SALE_HPS_BILL_UA_ORDER_MFO"] = "ÌÔÎ";
-$MESS["SALE_HPS_BILL_UA_ADRESS_SUPPLI"] = "Þðèäè÷åñêèé àäðåñ êîìïàíèè-ïîñòàâùèêà";
-$MESS["SALE_HPS_BILL_UA_ADRESS_SUPPLI_DESC"] = "Þðèäè÷åñêèé àäðåñ êîìïàíèè-ïîñòàâùèêà (ïðîäàâöà)";
-$MESS["SALE_HPS_BILL_UA_PHONE_SUPPLI"] = "Òåëåôîí êîìïàíèè-ïîñòàâùèêà";
-$MESS["SALE_HPS_BILL_UA_PHONE_SUPPLI_DESC"] = "Òåëåôîí  êîìïàíèè-ïîñòàâùèêà (ïðîäàâöà)";
-$MESS["SALE_HPS_BILL_UA_EDRPOY_SUPPLI"] = "ÅÃÐÏÎÓ êîìïàíèè-ïîñòàâùèêà";
-$MESS["SALE_HPS_BILL_UA_EDRPOY_SUPPLI_DESC"] = "ÅÃÐÏÎÓ  êîìïàíèè-ïîñòàâùèêà (ïðîäàâöà)";
-$MESS["SALE_HPS_BILL_UA_IPN_SUPPLI"] = "ÈÍÍ  êîìïàíèè-ïîñòàâùèêà";
-$MESS["SALE_HPS_BILL_UA_IPN_SUPPLI_DESC"] = "ÈÍÍ  êîìïàíèè-ïîñòàâùèêà (ïðîäàâöà)";
-$MESS["SALE_HPS_BILL_UA_PDV_SUPPLI"] = "¹ ñâèä. ÍÄÑ êîìïàíèè-ïîñòàâùèêà";
-$MESS["SALE_HPS_BILL_UA_PDV_SUPPLI_DESC"] = "¹ ñâèä. ÍÄÑ êîìïàíèè-ïîñòàâùèêà (ïðîäàâöà)";
-$MESS["SALE_HPS_BILL_UA_SYS_SUPPLI"] = "Ñèñòåìà íàëîãîîáëîæåíèÿ";
-$MESS["SALE_HPS_BILL_UA_SYS_SUPPLI_DESC"] = " Ñèñòåìà íàëîãîîáëîæåíèÿ";
-$MESS["SALE_HPS_BILL_UA_CUSTOMER"] = "Íàçâàíèå êîìïàíèè-çàêàç÷èêà";
-$MESS["SALE_HPS_BILL_UA_CUSTOMER_DESC"] = "Íàçâàíèå êîìïàíèè-çàêàç÷èêà (ïîêóïàòåëÿ)";
-$MESS["SALE_HPS_BILL_UA_CUSTOMER_PHONE"] = "Òåëåôîí êîìïàíèè-çàêàç÷èêà";
-$MESS["SALE_HPS_BILL_UA_CUSTOMER_PHONE_DESC"] = "Òåëåôîí êîìïàíèè-çàêàç÷èêà (ïîêóïàòåëÿ)";
-$MESS["SALE_HPS_BILL_UA_CUSTOMER_DOGOVOR"] = "Äîãîâîð";
-$MESS["SALE_HPS_BILL_UA_PRINT"] = "Ïå÷àòü";
-$MESS["SALE_HPS_BILL_UA_PRINT_DESC"] = "Ïóòü ê èçîáðàæåíèþ ïå÷àòè êîìïàíèè-ïîñòàâùèêà íà ñàéòå";
-$MESS["SALE_HPS_BILL_UA_CUSTOMER_ADRES"] = "Àäðåñà êîìïàíèè-çàêàç÷èêà";
-$MESS["SALE_HPS_BILL_UA_CUSTOMER_ADRES_DESC"] = "Àäðåñà êîìïàíèè-çàêàç÷èêà (ïîêóïàòåëÿ)";
-$MESS["SALE_HPS_BILL_UA_CUSTOMER_FAX"] = "Ôàêñ êîìïàíèè-çàêàç÷èêà";
-$MESS["SALE_HPS_BILL_UA_CUSTOMER_FAX_DESC"] = "Ôàêñ êîìïàíèè-çàêàç÷èêà (ïîêóïàòåëÿ)";
-$MESS["SALE_HPS_BILL_UA_ORDER_ID"] = "Êîä çàêàçà";
-$MESS["SALE_HPS_BILL_UA_ACC_SUPPLI"] = "ÔÈÎ áóõãàëòåðà";
-$MESS["SALE_HPS_BILL_UA_ACC_POS_SUPPLI"] = "Äîëæíîñòü áóõãàëòåðà";
+$MESS["SALE_HPS_BILL_UA_DATE"] = "Ð”Ð°Ñ‚Ð° Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["SALE_HPS_BILL_UA_DATE_DESC"] = "Ð”Ð°Ñ‚Ð° Ð¾Ñ„Ð¾Ñ€Ð¼Ð»ÐµÐ½Ð¸Ñ Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["SALE_HPS_BILL_UA_SUPPLI"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸ Ð¿Ð¾ÑÑ‚Ð°Ð²Ñ‰Ð¸ÐºÐ°";
+$MESS["SALE_HPS_BILL_UA_PAY_BEFORE"] = "Ð¡Ñ€Ð¾Ðº Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹";
+$MESS["SALE_HPS_BILL_UA_SUPPLI_DESC"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸-Ð¿Ð¾ÑÑ‚Ð°Ð²Ñ‰Ð¸ÐºÐ° (Ð¿Ñ€Ð¾Ð´Ð°Ð²Ñ†Ð°)";
+$MESS["SALE_HPS_BILL_UA_ORDER_SUPPLI"] = "Ð Ð°ÑÑ‡ÐµÑ‚Ð½Ñ‹Ð¹ ÑÑ‡ÐµÑ‚ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸-Ð¿Ð¾ÑÑ‚Ð°Ð²Ñ‰Ð¸ÐºÐ°";
+$MESS["SALE_HPS_BILL_UA_ORDER_SUPPLI_DESC"] = "Ð Ð°ÑÑ‡ÐµÑ‚Ð½Ñ‹Ð¹ ÑÑ‡ÐµÑ‚ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸-Ð¿Ð¾ÑÑ‚Ð°Ð²Ñ‰Ð¸ÐºÐ° (Ð¿Ñ€Ð¾Ð´Ð°Ð²Ñ†Ð°)";
+$MESS["SALE_HPS_BILL_UA_ORDER_BANK"] = "Ð‘Ð°Ð½Ðº Ð¿Ð¾ÑÑ‚Ð°Ð²Ñ‰Ð¸ÐºÐ°";
+$MESS["SALE_HPS_BILL_UA_ORDER_MFO"] = "ÐœÐ¤Ðž";
+$MESS["SALE_HPS_BILL_UA_ADRESS_SUPPLI"] = "Ð®Ñ€Ð¸Ð´Ð¸Ñ‡ÐµÑÐºÐ¸Ð¹ Ð°Ð´Ñ€ÐµÑ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸-Ð¿Ð¾ÑÑ‚Ð°Ð²Ñ‰Ð¸ÐºÐ°";
+$MESS["SALE_HPS_BILL_UA_ADRESS_SUPPLI_DESC"] = "Ð®Ñ€Ð¸Ð´Ð¸Ñ‡ÐµÑÐºÐ¸Ð¹ Ð°Ð´Ñ€ÐµÑ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸-Ð¿Ð¾ÑÑ‚Ð°Ð²Ñ‰Ð¸ÐºÐ° (Ð¿Ñ€Ð¾Ð´Ð°Ð²Ñ†Ð°)";
+$MESS["SALE_HPS_BILL_UA_PHONE_SUPPLI"] = "Ð¢ÐµÐ»ÐµÑ„Ð¾Ð½ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸-Ð¿Ð¾ÑÑ‚Ð°Ð²Ñ‰Ð¸ÐºÐ°";
+$MESS["SALE_HPS_BILL_UA_PHONE_SUPPLI_DESC"] = "Ð¢ÐµÐ»ÐµÑ„Ð¾Ð½  ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸-Ð¿Ð¾ÑÑ‚Ð°Ð²Ñ‰Ð¸ÐºÐ° (Ð¿Ñ€Ð¾Ð´Ð°Ð²Ñ†Ð°)";
+$MESS["SALE_HPS_BILL_UA_EDRPOY_SUPPLI"] = "Ð•Ð“Ð ÐŸÐžÐ£ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸-Ð¿Ð¾ÑÑ‚Ð°Ð²Ñ‰Ð¸ÐºÐ°";
+$MESS["SALE_HPS_BILL_UA_EDRPOY_SUPPLI_DESC"] = "Ð•Ð“Ð ÐŸÐžÐ£  ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸-Ð¿Ð¾ÑÑ‚Ð°Ð²Ñ‰Ð¸ÐºÐ° (Ð¿Ñ€Ð¾Ð´Ð°Ð²Ñ†Ð°)";
+$MESS["SALE_HPS_BILL_UA_IPN_SUPPLI"] = "Ð˜ÐÐ  ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸-Ð¿Ð¾ÑÑ‚Ð°Ð²Ñ‰Ð¸ÐºÐ°";
+$MESS["SALE_HPS_BILL_UA_IPN_SUPPLI_DESC"] = "Ð˜ÐÐ  ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸-Ð¿Ð¾ÑÑ‚Ð°Ð²Ñ‰Ð¸ÐºÐ° (Ð¿Ñ€Ð¾Ð´Ð°Ð²Ñ†Ð°)";
+$MESS["SALE_HPS_BILL_UA_PDV_SUPPLI"] = "â„– ÑÐ²Ð¸Ð´. ÐÐ”Ð¡ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸-Ð¿Ð¾ÑÑ‚Ð°Ð²Ñ‰Ð¸ÐºÐ°";
+$MESS["SALE_HPS_BILL_UA_PDV_SUPPLI_DESC"] = "â„– ÑÐ²Ð¸Ð´. ÐÐ”Ð¡ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸-Ð¿Ð¾ÑÑ‚Ð°Ð²Ñ‰Ð¸ÐºÐ° (Ð¿Ñ€Ð¾Ð´Ð°Ð²Ñ†Ð°)";
+$MESS["SALE_HPS_BILL_UA_SYS_SUPPLI"] = "Ð¡Ð¸ÑÑ‚ÐµÐ¼Ð° Ð½Ð°Ð»Ð¾Ð³Ð¾Ð¾Ð±Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ";
+$MESS["SALE_HPS_BILL_UA_SYS_SUPPLI_DESC"] = " Ð¡Ð¸ÑÑ‚ÐµÐ¼Ð° Ð½Ð°Ð»Ð¾Ð³Ð¾Ð¾Ð±Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ";
+$MESS["SALE_HPS_BILL_UA_CUSTOMER"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸-Ð·Ð°ÐºÐ°Ð·Ñ‡Ð¸ÐºÐ°";
+$MESS["SALE_HPS_BILL_UA_CUSTOMER_DESC"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸-Ð·Ð°ÐºÐ°Ð·Ñ‡Ð¸ÐºÐ° (Ð¿Ð¾ÐºÑƒÐ¿Ð°Ñ‚ÐµÐ»Ñ)";
+$MESS["SALE_HPS_BILL_UA_CUSTOMER_PHONE"] = "Ð¢ÐµÐ»ÐµÑ„Ð¾Ð½ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸-Ð·Ð°ÐºÐ°Ð·Ñ‡Ð¸ÐºÐ°";
+$MESS["SALE_HPS_BILL_UA_CUSTOMER_PHONE_DESC"] = "Ð¢ÐµÐ»ÐµÑ„Ð¾Ð½ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸-Ð·Ð°ÐºÐ°Ð·Ñ‡Ð¸ÐºÐ° (Ð¿Ð¾ÐºÑƒÐ¿Ð°Ñ‚ÐµÐ»Ñ)";
+$MESS["SALE_HPS_BILL_UA_CUSTOMER_DOGOVOR"] = "Ð”Ð¾Ð³Ð¾Ð²Ð¾Ñ€";
+$MESS["SALE_HPS_BILL_UA_PRINT"] = "ÐŸÐµÑ‡Ð°Ñ‚ÑŒ";
+$MESS["SALE_HPS_BILL_UA_PRINT_DESC"] = "ÐŸÑƒÑ‚ÑŒ Ðº Ð¸Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸ÑŽ Ð¿ÐµÑ‡Ð°Ñ‚Ð¸ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸-Ð¿Ð¾ÑÑ‚Ð°Ð²Ñ‰Ð¸ÐºÐ° Ð½Ð° ÑÐ°Ð¹Ñ‚Ðµ";
+$MESS["SALE_HPS_BILL_UA_CUSTOMER_ADRES"] = "ÐÐ´Ñ€ÐµÑÐ° ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸-Ð·Ð°ÐºÐ°Ð·Ñ‡Ð¸ÐºÐ°";
+$MESS["SALE_HPS_BILL_UA_CUSTOMER_ADRES_DESC"] = "ÐÐ´Ñ€ÐµÑÐ° ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸-Ð·Ð°ÐºÐ°Ð·Ñ‡Ð¸ÐºÐ° (Ð¿Ð¾ÐºÑƒÐ¿Ð°Ñ‚ÐµÐ»Ñ)";
+$MESS["SALE_HPS_BILL_UA_CUSTOMER_FAX"] = "Ð¤Ð°ÐºÑ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸-Ð·Ð°ÐºÐ°Ð·Ñ‡Ð¸ÐºÐ°";
+$MESS["SALE_HPS_BILL_UA_CUSTOMER_FAX_DESC"] = "Ð¤Ð°ÐºÑ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸-Ð·Ð°ÐºÐ°Ð·Ñ‡Ð¸ÐºÐ° (Ð¿Ð¾ÐºÑƒÐ¿Ð°Ñ‚ÐµÐ»Ñ)";
+$MESS["SALE_HPS_BILL_UA_ORDER_ID"] = "ÐšÐ¾Ð´ Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["SALE_HPS_BILL_UA_ACC_SUPPLI"] = "Ð¤Ð˜Ðž Ð±ÑƒÑ…Ð³Ð°Ð»Ñ‚ÐµÑ€Ð°";
+$MESS["SALE_HPS_BILL_UA_ACC_POS_SUPPLI"] = "Ð”Ð¾Ð»Ð¶Ð½Ð¾ÑÑ‚ÑŒ Ð±ÑƒÑ…Ð³Ð°Ð»Ñ‚ÐµÑ€Ð°";
 
-$MESS["SALE_HPS_BILL_UA_ACC_SIGN_SUPPLI"] = "Ïîäïèñü áóõãàëòåðà (ðåêîìåíäîâàííûé ðàçìåð 200x50px)";
+$MESS["SALE_HPS_BILL_UA_ACC_SIGN_SUPPLI"] = "ÐŸÐ¾Ð´Ð¿Ð¸ÑÑŒ Ð±ÑƒÑ…Ð³Ð°Ð»Ñ‚ÐµÑ€Ð° (Ñ€ÐµÐºÐ¾Ð¼ÐµÐ½Ð´Ð¾Ð²Ð°Ð½Ð½Ñ‹Ð¹ Ñ€Ð°Ð·Ð¼ÐµÑ€ 200x50px)";
 
-$MESS["SALE_HPS_BILL_UA_PRINT"] = "Ïå÷àòü (ðåêîìåíäîâàííûé ðàçìåð 150x150px)";
-$MESS["SALE_HPS_BILL_UA_PRINT_DESC"] = "Èçîáðàæåíèå ïå÷àòè êîìïàíèè-ïîñòàâùèêà íà ñàéòå";
+$MESS["SALE_HPS_BILL_UA_PRINT"] = "ÐŸÐµÑ‡Ð°Ñ‚ÑŒ (Ñ€ÐµÐºÐ¾Ð¼ÐµÐ½Ð´Ð¾Ð²Ð°Ð½Ð½Ñ‹Ð¹ Ñ€Ð°Ð·Ð¼ÐµÑ€ 150x150px)";
+$MESS["SALE_HPS_BILL_UA_PRINT_DESC"] = "Ð˜Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ðµ Ð¿ÐµÑ‡Ð°Ñ‚Ð¸ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸-Ð¿Ð¾ÑÑ‚Ð°Ð²Ñ‰Ð¸ÐºÐ° Ð½Ð° ÑÐ°Ð¹Ñ‚Ðµ";
 
-$MESS["SALE_HPS_BILL_UA_BACKGROUND"] = "Ôîí (ðåêîìåíäîâàííûé ðàçìåð 800x1120px)";
-$MESS["SALE_HPS_BILL_UA_BACKGROUND_DESC"] = "Ôîí";
+$MESS["SALE_HPS_BILL_UA_BACKGROUND"] = "Ð¤Ð¾Ð½ (Ñ€ÐµÐºÐ¾Ð¼ÐµÐ½Ð´Ð¾Ð²Ð°Ð½Ð½Ñ‹Ð¹ Ñ€Ð°Ð·Ð¼ÐµÑ€ 800x1120px)";
+$MESS["SALE_HPS_BILL_UA_BACKGROUND_DESC"] = "Ð¤Ð¾Ð½";
 
-$MESS["SALE_HPS_BILL_UA_BACKGROUND_STYLE"] = "Ñòèëü îòîáðàæåíèÿ ôîíà";
-$MESS["SALE_HPS_BILL_UA_BACKGROUND_STYLE_NONE"] = "Êàê åñòü";
-$MESS["SALE_HPS_BILL_UA_BACKGROUND_STYLE_TILE"] = "Çàìîñòèòü";
-$MESS["SALE_HPS_BILL_UA_BACKGROUND_STYLE_STRETCH"] = "Ðàñòÿíóòü";
+$MESS["SALE_HPS_BILL_UA_BACKGROUND_STYLE"] = "Ð¡Ñ‚Ð¸Ð»ÑŒ Ð¾Ñ‚Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ñ Ñ„Ð¾Ð½Ð°";
+$MESS["SALE_HPS_BILL_UA_BACKGROUND_STYLE_NONE"] = "ÐšÐ°Ðº ÐµÑÑ‚ÑŒ";
+$MESS["SALE_HPS_BILL_UA_BACKGROUND_STYLE_TILE"] = "Ð—Ð°Ð¼Ð¾ÑÑ‚Ð¸Ñ‚ÑŒ";
+$MESS["SALE_HPS_BILL_UA_BACKGROUND_STYLE_STRETCH"] = "Ð Ð°ÑÑ‚ÑÐ½ÑƒÑ‚ÑŒ";
 
-$MESS["SALE_HPS_BILL_UA_COMMENT1"] = "Êîììåíòàðèé 1";
-$MESS["SALE_HPS_BILL_UA_COMMENT2"] = "Êîììåíòàðèé 2";
-$MESS["SALE_HPS_BILL_UA_MARGIN_TOP"] = "Îòñòóï ñâåðõó ñòðàíèöû (ìì)";
-$MESS["SALE_HPS_BILL_UA_MARGIN_RIGHT"] = "Îòñòóï ñïðàâà ñòðàíèöû (ìì)";
-$MESS["SALE_HPS_BILL_UA_MARGIN_BOTTOM"] = "Îòñòóï ñíèçó ñòðàíèöû (ìì)";
-$MESS["SALE_HPS_BILL_UA_MARGIN_LEFT"] = "Îòñòóï ñëåâà ñòðàíèöû (ìì)";
+$MESS["SALE_HPS_BILL_UA_COMMENT1"] = "ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹ 1";
+$MESS["SALE_HPS_BILL_UA_COMMENT2"] = "ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹ 2";
+$MESS["SALE_HPS_BILL_UA_MARGIN_TOP"] = "ÐžÑ‚ÑÑ‚ÑƒÐ¿ ÑÐ²ÐµÑ€Ñ…Ñƒ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹ (Ð¼Ð¼)";
+$MESS["SALE_HPS_BILL_UA_MARGIN_RIGHT"] = "ÐžÑ‚ÑÑ‚ÑƒÐ¿ ÑÐ¿Ñ€Ð°Ð²Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹ (Ð¼Ð¼)";
+$MESS["SALE_HPS_BILL_UA_MARGIN_BOTTOM"] = "ÐžÑ‚ÑÑ‚ÑƒÐ¿ ÑÐ½Ð¸Ð·Ñƒ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹ (Ð¼Ð¼)";
+$MESS["SALE_HPS_BILL_UA_MARGIN_LEFT"] = "ÐžÑ‚ÑÑ‚ÑƒÐ¿ ÑÐ»ÐµÐ²Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹ (Ð¼Ð¼)";
 
 
-$MESS["SALE_HPS_BILL_UA_TOTAL_SHOW"] = "Ïîêàçûâàòü èòîãîâóþ èíôîðìàöèþ";
-$MESS["SALE_HPS_BILL_UA_SELLER_SHOW"] = "Ïîêàçûâàòü èíôîðìàöèþ î ïîëó÷àòåëå";
-$MESS["SALE_HPS_BILL_UA_FOOTER_SHOW"] = "Âûâîäèòü íèæíèé áëîê";
-$MESS["SALE_HPS_BILL_UA_PAYER_SHOW"] = "Ïîêàçûâàòü èíôîðìàöèþ î ïîêóïàòåëå";
+$MESS["SALE_HPS_BILL_UA_TOTAL_SHOW"] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ð¸Ñ‚Ð¾Ð³Ð¾Ð²ÑƒÑŽ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸ÑŽ";
+$MESS["SALE_HPS_BILL_UA_SELLER_SHOW"] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸ÑŽ Ð¾ Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ðµ";
+$MESS["SALE_HPS_BILL_UA_FOOTER_SHOW"] = "Ð’Ñ‹Ð²Ð¾Ð´Ð¸Ñ‚ÑŒ Ð½Ð¸Ð¶Ð½Ð¸Ð¹ Ð±Ð»Ð¾Ðº";
+$MESS["SALE_HPS_BILL_UA_PAYER_SHOW"] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸ÑŽ Ð¾ Ð¿Ð¾ÐºÑƒÐ¿Ð°Ñ‚ÐµÐ»Ðµ";
 
-$MESS["SALE_HPS_BILL_UA_COLUMN_NUMBER_TITLE"] = "Çàãîëîâîê äëÿ êîëîíêè \"¹\"";
-$MESS["SALE_HPS_BILL_UA_COLUMN_NUMBER_VALUE"] = "¹";
+$MESS["SALE_HPS_BILL_UA_COLUMN_NUMBER_TITLE"] = "Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº Ð´Ð»Ñ ÐºÐ¾Ð»Ð¾Ð½ÐºÐ¸ \"â„–\"";
+$MESS["SALE_HPS_BILL_UA_COLUMN_NUMBER_VALUE"] = "â„–";
 
-$MESS["SALE_HPS_BILL_UA_COLUMN_NAME_TITLE"] = "Çàãîëîâîê äëÿ êîëîíêè \"Òîâàð/Ïîñëóãà\"";
-$MESS["SALE_HPS_BILL_UA_COLUMN_NAME_VALUE"] = "Òîâàð/Ïîñëóãà";
+$MESS["SALE_HPS_BILL_UA_COLUMN_NAME_TITLE"] = "Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº Ð´Ð»Ñ ÐºÐ¾Ð»Ð¾Ð½ÐºÐ¸ \"Ð¢Ð¾Ð²Ð°Ñ€/ÐŸÐ¾ÑÐ»ÑƒÐ³Ð°\"";
+$MESS["SALE_HPS_BILL_UA_COLUMN_NAME_VALUE"] = "Ð¢Ð¾Ð²Ð°Ñ€/ÐŸÐ¾ÑÐ»ÑƒÐ³Ð°";
 
-$MESS["SALE_HPS_BILL_UA_COLUMN_QUANTITY_TITLE"] = "Çàãîëîâîê äëÿ êîëîíêè \"Ê³ë-ñòü\"";
-$MESS["SALE_HPS_BILL_UA_COLUMN_QUANTITY_VALUE"] = "Ê³ë-ñòü";
+$MESS["SALE_HPS_BILL_UA_COLUMN_QUANTITY_TITLE"] = "Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº Ð´Ð»Ñ ÐºÐ¾Ð»Ð¾Ð½ÐºÐ¸ \"ÐšÑ–Ð»-ÑÑ‚ÑŒ\"";
+$MESS["SALE_HPS_BILL_UA_COLUMN_QUANTITY_VALUE"] = "ÐšÑ–Ð»-ÑÑ‚ÑŒ";
 
-$MESS["SALE_HPS_BILL_UA_COLUMN_MEASURE_TITLE"] = "Çàãîëîâîê äëÿ êîëîíêè \"Îä.\"";
-$MESS["SALE_HPS_BILL_UA_COLUMN_MEASURE_VALUE"] = "Îä.";
+$MESS["SALE_HPS_BILL_UA_COLUMN_MEASURE_TITLE"] = "Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº Ð´Ð»Ñ ÐºÐ¾Ð»Ð¾Ð½ÐºÐ¸ \"ÐžÐ´.\"";
+$MESS["SALE_HPS_BILL_UA_COLUMN_MEASURE_VALUE"] = "ÐžÐ´.";
 
-$MESS["SALE_HPS_BILL_UA_COLUMN_PRICE_TITLE"] = "Çàãîëîâîê äëÿ êîëîíêè \"Ö³íà áåç ÏÄÂ\"";
-$MESS["SALE_HPS_BILL_UA_COLUMN_PRICE_VALUE"] = "Ö³íà áåç ÏÄÂ";
-$MESS["SALE_HPS_BILL_UA_COLUMN_PRICE_TAX_TITLE"] = "Çàãîëîâîê äëÿ êîëîíêè \"Ö³íà ç ÏÄÂ\"";
-$MESS["SALE_HPS_BILL_UA_COLUMN_PRICE_TAX_VALUE"] = "Ö³íà ç ÏÄÂ";
+$MESS["SALE_HPS_BILL_UA_COLUMN_PRICE_TITLE"] = "Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº Ð´Ð»Ñ ÐºÐ¾Ð»Ð¾Ð½ÐºÐ¸ \"Ð¦Ñ–Ð½Ð° Ð±ÐµÐ· ÐŸÐ”Ð’\"";
+$MESS["SALE_HPS_BILL_UA_COLUMN_PRICE_VALUE"] = "Ð¦Ñ–Ð½Ð° Ð±ÐµÐ· ÐŸÐ”Ð’";
+$MESS["SALE_HPS_BILL_UA_COLUMN_PRICE_TAX_TITLE"] = "Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº Ð´Ð»Ñ ÐºÐ¾Ð»Ð¾Ð½ÐºÐ¸ \"Ð¦Ñ–Ð½Ð° Ð· ÐŸÐ”Ð’\"";
+$MESS["SALE_HPS_BILL_UA_COLUMN_PRICE_TAX_VALUE"] = "Ð¦Ñ–Ð½Ð° Ð· ÐŸÐ”Ð’";
 
-$MESS["SALE_HPS_BILL_UA_COLUMN_SUM_TITLE"] = "Çàãîëîâîê äëÿ êîëîíêè \"Ñóìà áåç ÏÄÂ\"";
-$MESS["SALE_HPS_BILL_UA_COLUMN_SUM_VALUE"] = "Ñóìà áåç ÏÄÂ";
-$MESS["SALE_HPS_BILL_UA_COLUMN_SUM_TAX_TITLE"] = "Çàãîëîâîê äëÿ êîëîíêè \"Ñóìà ç ÏÄÂ\"";
-$MESS["SALE_HPS_BILL_UA_COLUMN_SUM_TAX_VALUE"] = "Ñóìà ç ÏÄÂ";
+$MESS["SALE_HPS_BILL_UA_COLUMN_SUM_TITLE"] = "Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº Ð´Ð»Ñ ÐºÐ¾Ð»Ð¾Ð½ÐºÐ¸ \"Ð¡ÑƒÐ¼Ð° Ð±ÐµÐ· ÐŸÐ”Ð’\"";
+$MESS["SALE_HPS_BILL_UA_COLUMN_SUM_VALUE"] = "Ð¡ÑƒÐ¼Ð° Ð±ÐµÐ· ÐŸÐ”Ð’";
+$MESS["SALE_HPS_BILL_UA_COLUMN_SUM_TAX_TITLE"] = "Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº Ð´Ð»Ñ ÐºÐ¾Ð»Ð¾Ð½ÐºÐ¸ \"Ð¡ÑƒÐ¼Ð° Ð· ÐŸÐ”Ð’\"";
+$MESS["SALE_HPS_BILL_UA_COLUMN_SUM_TAX_VALUE"] = "Ð¡ÑƒÐ¼Ð° Ð· ÐŸÐ”Ð’";
 
-$MESS["SALE_HPS_BILL_UA_COLUMN_VAT_RATE_TITLE"] = "Çàãîëîâîê äëÿ êîëîíêè \"Ñòàâêà ÏÄÂ\"";
-$MESS["SALE_HPS_BILL_UA_COLUMN_VAT_RATE_VALUE"] = "Ñòàâêà ÏÄÂ";
+$MESS["SALE_HPS_BILL_UA_COLUMN_VAT_RATE_TITLE"] = "Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº Ð´Ð»Ñ ÐºÐ¾Ð»Ð¾Ð½ÐºÐ¸ \"Ð¡Ñ‚Ð°Ð²ÐºÐ° ÐŸÐ”Ð’\"";
+$MESS["SALE_HPS_BILL_UA_COLUMN_VAT_RATE_VALUE"] = "Ð¡Ñ‚Ð°Ð²ÐºÐ° ÐŸÐ”Ð’";
 
-$MESS["SALE_HPS_BILL_UA_COLUMN_SORT"] = "Ñîðòèðîâêà";
-$MESS["SALE_HPS_BILL_UA_COLUMN_SHOW"] = "Àêòèâíîñòü";
+$MESS["SALE_HPS_BILL_UA_COLUMN_SORT"] = "Ð¡Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²ÐºÐ°";
+$MESS["SALE_HPS_BILL_UA_COLUMN_SHOW"] = "ÐÐºÑ‚Ð¸Ð²Ð½Ð¾ÑÑ‚ÑŒ";
 
-$MESS["SALE_HPS_BILL_UA_HEADER"] = "Çàãîëîâîê ñ÷åòà";
-$MESS["SALE_HPS_BILL_UA_HEADER_VALUE"] = "Ðàõóíîê íà îïëàòó";
+$MESS["SALE_HPS_BILL_UA_HEADER"] = "Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº ÑÑ‡ÐµÑ‚Ð°";
+$MESS["SALE_HPS_BILL_UA_HEADER_VALUE"] = "Ð Ð°Ñ…ÑƒÐ½Ð¾Ðº Ð½Ð° Ð¾Ð¿Ð»Ð°Ñ‚Ñƒ";

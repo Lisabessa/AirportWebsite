@@ -1,3 +1,3 @@
 <?
-$MESS["BLOG_ICON_TITLE"] = "Áëîãè";
+$MESS["BLOG_ICON_TITLE"] = "Ð‘Ð»Ð¾Ð³Ð¸";
 ?>

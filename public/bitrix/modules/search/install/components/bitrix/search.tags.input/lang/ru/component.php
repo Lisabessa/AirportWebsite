@@ -1,3 +1,3 @@
 <?
-$MESS ['BSF_C_MODULE_NOT_INSTALLED'] = "Модуль поиска не установлен.";
+$MESS ['BSF_C_MODULE_NOT_INSTALLED'] = "РњРѕРґСѓР»СЊ РїРѕРёСЃРєР° РЅРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅ.";
 ?>

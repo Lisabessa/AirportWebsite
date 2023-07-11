@@ -1,3 +1,3 @@
 <?
-$MESS['SALE_CONTROLLER_TRACKING_ERROR_NUMBER_EMPTY'] = 'Èäåíòèôèêàòîð îòïðàâêè íå ìîæåò áûòü ïóñòûì';
-$MESS['SALE_CONTROLLER_TRACKING_ERROR_SHIPMENT_ZERO'] = 'Îòãðóçêà äîëæíà èìåòü èäåíòèôèêàòîð áîëüøå íóëÿ';
+$MESS['SALE_CONTROLLER_TRACKING_ERROR_NUMBER_EMPTY'] = 'Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²ÐºÐ¸ Ð½Ðµ Ð¼Ð¾Ð¶ÐµÑ‚ Ð±Ñ‹Ñ‚ÑŒ Ð¿ÑƒÑÑ‚Ñ‹Ð¼';
+$MESS['SALE_CONTROLLER_TRACKING_ERROR_SHIPMENT_ZERO'] = 'ÐžÑ‚Ð³Ñ€ÑƒÐ·ÐºÐ° Ð´Ð¾Ð»Ð¶Ð½Ð° Ð¸Ð¼ÐµÑ‚ÑŒ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð±Ð¾Ð»ÑŒÑˆÐµ Ð½ÑƒÐ»Ñ';

@@ -1,6 +1,6 @@
 <?php
-$MESS["SALE_DLVR_RSTR_BY_DIMENSIONS_NAME"] = "ïî ìàêñèìàëüíûì ðàçìåðàì";
-$MESS["SALE_DLVR_RSTR_BY_DIMENSIONS_DESCRIPT"] = "Îãðàíè÷åíèå èñïîëüçîâàíèÿ ñëóæáû äîñòàâêè ïî ìàêñèìàëüíûì ðàçìåðàì";
-$MESS["SALE_DLVR_RSTR_BY_DIMENSIONS_LENGTH"] = "Ìàêñèìàëüíàÿ äëèíà (ìì)";
-$MESS["SALE_DLVR_RSTR_BY_DIMENSIONS_WIDTH"] = "Ìàêñèìàëüíàÿ øèðèíà (ìì)";
-$MESS["SALE_DLVR_RSTR_BY_DIMENSIONS_HEIGHT"] = "Ìàêñèìàëüíàÿ âûñîòà (ìì)";
+$MESS["SALE_DLVR_RSTR_BY_DIMENSIONS_NAME"] = "Ð¿Ð¾ Ð¼Ð°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ñ‹Ð¼ Ñ€Ð°Ð·Ð¼ÐµÑ€Ð°Ð¼";
+$MESS["SALE_DLVR_RSTR_BY_DIMENSIONS_DESCRIPT"] = "ÐžÐ³Ñ€Ð°Ð½Ð¸Ñ‡ÐµÐ½Ð¸Ðµ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð¸Ñ ÑÐ»ÑƒÐ¶Ð±Ñ‹ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸ Ð¿Ð¾ Ð¼Ð°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ñ‹Ð¼ Ñ€Ð°Ð·Ð¼ÐµÑ€Ð°Ð¼";
+$MESS["SALE_DLVR_RSTR_BY_DIMENSIONS_LENGTH"] = "ÐœÐ°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ð°Ñ Ð´Ð»Ð¸Ð½Ð° (Ð¼Ð¼)";
+$MESS["SALE_DLVR_RSTR_BY_DIMENSIONS_WIDTH"] = "ÐœÐ°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ð°Ñ ÑˆÐ¸Ñ€Ð¸Ð½Ð° (Ð¼Ð¼)";
+$MESS["SALE_DLVR_RSTR_BY_DIMENSIONS_HEIGHT"] = "ÐœÐ°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ð°Ñ Ð²Ñ‹ÑÐ¾Ñ‚Ð° (Ð¼Ð¼)";

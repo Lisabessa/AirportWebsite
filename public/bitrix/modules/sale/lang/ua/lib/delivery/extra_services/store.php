@@ -1,3 +1,3 @@
 <?
-$MESS["DELIVERY_EXTRA_SERVICE_STORE_TITLE"] = "Точки самовивозу";
+$MESS["DELIVERY_EXTRA_SERVICE_STORE_TITLE"] = "РўРѕС‡РєРё СЃР°РјРѕРІРёРІРѕР·Сѓ";
 ?>

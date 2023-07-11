@@ -1,16 +1,16 @@
 <?
-$MESS["CVAT_TITLE_UPDATE"] = "Ðåäàêòèðîâàíèå ñòàâêè ÍÄÑ";
-$MESS["CVAT_TITLE_ADD"] = "Íîâàÿ ñòàâêà ÍÄÑ";
-$MESS["CVAT_LIST"] = "Ñïèñîê";
-$MESS["CVAT_NEW"] = "Äîáàâèòü";
-$MESS["CVAT_DELETE"] = "Óäàëèòü";
-$MESS["CVAT_DELETE_CONFIRM"] = "Âû óâåðåíû, ÷òî õîòèòå óäàëèòü ýòó ñòàâêó ÍÄÑ?";
-$MESS["CVAT_TAB"] = "ÍÄÑ";
-$MESS["CVAT_TAB_DESCR"] = "Ñòàâêà ÍÄÑ";
-$MESS["CVAT_ACTIVE"] = "Àêò.";
-$MESS["CVAT_NAME"] = "Íàèìåíîâàíèå";
-$MESS["CVAT_RATE"] = "Ñòàâêà";
-$MESS["CVAT_SORT"] = "Ñîðò.";
-$MESS["CVAT_ERR_ADD"] = "Îøèáêà ïðè äîáàâëåíèè ñòàâêè ÍÄÑ";
-$MESS["CVAT_ERR_UPDATE"] = "Îøèáêà ïðè èçìåíåíèè ñòàâêè ÍÄÑ ñ êîäîì #ID#";
+$MESS["CVAT_TITLE_UPDATE"] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ ÑÑ‚Ð°Ð²ÐºÐ¸ ÐÐ”Ð¡";
+$MESS["CVAT_TITLE_ADD"] = "ÐÐ¾Ð²Ð°Ñ ÑÑ‚Ð°Ð²ÐºÐ° ÐÐ”Ð¡";
+$MESS["CVAT_LIST"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº";
+$MESS["CVAT_NEW"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ";
+$MESS["CVAT_DELETE"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";
+$MESS["CVAT_DELETE_CONFIRM"] = "Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹, Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ ÑÑ‚Ñƒ ÑÑ‚Ð°Ð²ÐºÑƒ ÐÐ”Ð¡?";
+$MESS["CVAT_TAB"] = "ÐÐ”Ð¡";
+$MESS["CVAT_TAB_DESCR"] = "Ð¡Ñ‚Ð°Ð²ÐºÐ° ÐÐ”Ð¡";
+$MESS["CVAT_ACTIVE"] = "ÐÐºÑ‚.";
+$MESS["CVAT_NAME"] = "ÐÐ°Ð¸Ð¼ÐµÐ½Ð¾Ð²Ð°Ð½Ð¸Ðµ";
+$MESS["CVAT_RATE"] = "Ð¡Ñ‚Ð°Ð²ÐºÐ°";
+$MESS["CVAT_SORT"] = "Ð¡Ð¾Ñ€Ñ‚.";
+$MESS["CVAT_ERR_ADD"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ð¸ ÑÑ‚Ð°Ð²ÐºÐ¸ ÐÐ”Ð¡";
+$MESS["CVAT_ERR_UPDATE"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ð¸ ÑÑ‚Ð°Ð²ÐºÐ¸ ÐÐ”Ð¡ Ñ ÐºÐ¾Ð´Ð¾Ð¼ #ID#";
 ?>

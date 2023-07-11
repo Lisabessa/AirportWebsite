@@ -1,4 +1,4 @@
 <?
-$MESS ['BLOG_BLOG_BLOG_NO_AVAIBLE_MES'] = "Доступных блогов нет";
-$MESS ['B_B_GR_LAST_M'] = "Последнее сообщение:";
+$MESS ['BLOG_BLOG_BLOG_NO_AVAIBLE_MES'] = "Р”РѕСЃС‚СѓРїРЅС‹С… Р±Р»РѕРіРѕРІ РЅРµС‚";
+$MESS ['B_B_GR_LAST_M'] = "РџРѕСЃР»РµРґРЅРµРµ СЃРѕРѕР±С‰РµРЅРёРµ:";
 ?>

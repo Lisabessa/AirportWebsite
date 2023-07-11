@@ -1,6 +1,6 @@
 <?php
-$MESS["SALE_HPS_QIWI_INPUT_PHONE"] = "Ââåäèòå íîìåð òåëåôîíà â ôîðìàòå: +7";
-$MESS["SALE_HPS_QIWI_INCORRECT_PHONE_NUMBER"] = "Íåâåðíî ââåäåí íîìåð òåëåôîíà";
-$MESS["SALE_HPS_QIWI_SEND_PHONE"] = "Äàëåå";
-$MESS["SALE_HPS_QIWI_ERROR_MESSAGE_HEADER"] = "Ê ñîæàëåíèþ, ïðîèçîøëà îøèáêà.";
-$MESS["SALE_HPS_QIWI_ERROR_MESSAGE_FOOTER"] = "Âûáåðèòå äðóãîé ñïîñîá îïëàòû èëè îáðàòèòåñü ê ìåíåäæåðó êîìïàíèè.";
+$MESS["SALE_HPS_QIWI_INPUT_PHONE"] = "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð½Ð¾Ð¼ÐµÑ€ Ñ‚ÐµÐ»ÐµÑ„Ð¾Ð½Ð° Ð² Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚Ðµ: +7";
+$MESS["SALE_HPS_QIWI_INCORRECT_PHONE_NUMBER"] = "ÐÐµÐ²ÐµÑ€Ð½Ð¾ Ð²Ð²ÐµÐ´ÐµÐ½ Ð½Ð¾Ð¼ÐµÑ€ Ñ‚ÐµÐ»ÐµÑ„Ð¾Ð½Ð°";
+$MESS["SALE_HPS_QIWI_SEND_PHONE"] = "Ð”Ð°Ð»ÐµÐµ";
+$MESS["SALE_HPS_QIWI_ERROR_MESSAGE_HEADER"] = "Ðš ÑÐ¾Ð¶Ð°Ð»ÐµÐ½Ð¸ÑŽ, Ð¿Ñ€Ð¾Ð¸Ð·Ð¾ÑˆÐ»Ð° Ð¾ÑˆÐ¸Ð±ÐºÐ°.";
+$MESS["SALE_HPS_QIWI_ERROR_MESSAGE_FOOTER"] = "Ð’Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ Ð´Ñ€ÑƒÐ³Ð¾Ð¹ ÑÐ¿Ð¾ÑÐ¾Ð± Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹ Ð¸Ð»Ð¸ Ð¾Ð±Ñ€Ð°Ñ‚Ð¸Ñ‚ÐµÑÑŒ Ðº Ð¼ÐµÐ½ÐµÐ´Ð¶ÐµÑ€Ñƒ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸.";

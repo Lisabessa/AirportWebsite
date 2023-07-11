@@ -1,6 +1,6 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Èìïîðò RSS");
+$APPLICATION->SetTitle("Ð˜Ð¼Ð¿Ð¾Ñ€Ñ‚ RSS");
 ?><?$APPLICATION->IncludeComponent(
 	"bitrix:rss.show",
 	"",

@@ -1,14 +1,14 @@
 <?
-$MESS ['BCL_MONITORING_TITLE'] = "Èíñïåêòîð ñàéòîâ";
-$MESS ['BCL_MONITORING_DOMAIN'] = "Äîìåí";
-$MESS ['BCL_MONITORING_TAB'] = "Ïàðàìåòðû èíñïåêòèðîâàíèÿ";
-$MESS ['BCL_MONITORING_TAB_TITLE'] = "Íàñòðîéêà ïàðàìåòðîâ";
-$MESS ['BCL_MONITORING_EMAIL'] = "e-mail äëÿ îïîâåùåíèé";
-$MESS ['BCL_MONITORING_ADD_BTN'] = "Äîáàâèòü";
-$MESS ['BCL_MONITORING_TEST_LICENSE'] = "Îòñëåæèâàòü ñðîê èñòå÷åíèÿ ëèöåíçèè 1Ñ-Áèòðèêñ";
-$MESS ['BCL_MONITORING_IS_HTTPS'] = "Èíñïåêòèðîâàòü äîìåí  ïî https";
-$MESS ['BCL_MONITORING_LANGUAGE'] = "ßçûê äëÿ îïîâåùåíèé";
-$MESS ['BCL_MONITORING_TEST_SSL_CERT_VALIDITY'] = "Îòñëåæèâàòü ñðîê äåéñòâèÿ SSL ñåðòèôèêàòà";
-$MESS ['BCL_MONITORING_TEST_DOMAIN_REGISTRATION'] = "Îòñëåæèâàòü ñðîê ðåãèñòðàöèè äîìåíà";
-$MESS ['BCL_MONITORING_TEST_HTTP_RESPONSE_TIME'] = "Îòñëåæèâàòü ðàáîòîñïîñîáíîñòü ñàéòà";
+$MESS ['BCL_MONITORING_TITLE'] = "Ð˜Ð½ÑÐ¿ÐµÐºÑ‚Ð¾Ñ€ ÑÐ°Ð¹Ñ‚Ð¾Ð²";
+$MESS ['BCL_MONITORING_DOMAIN'] = "Ð”Ð¾Ð¼ÐµÐ½";
+$MESS ['BCL_MONITORING_TAB'] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ Ð¸Ð½ÑÐ¿ÐµÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ";
+$MESS ['BCL_MONITORING_TAB_TITLE'] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð¾Ð²";
+$MESS ['BCL_MONITORING_EMAIL'] = "e-mail Ð´Ð»Ñ Ð¾Ð¿Ð¾Ð²ÐµÑ‰ÐµÐ½Ð¸Ð¹";
+$MESS ['BCL_MONITORING_ADD_BTN'] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ";
+$MESS ['BCL_MONITORING_TEST_LICENSE'] = "ÐžÑ‚ÑÐ»ÐµÐ¶Ð¸Ð²Ð°Ñ‚ÑŒ ÑÑ€Ð¾Ðº Ð¸ÑÑ‚ÐµÑ‡ÐµÐ½Ð¸Ñ Ð»Ð¸Ñ†ÐµÐ½Ð·Ð¸Ð¸ 1Ð¡-Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ";
+$MESS ['BCL_MONITORING_IS_HTTPS'] = "Ð˜Ð½ÑÐ¿ÐµÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ð´Ð¾Ð¼ÐµÐ½  Ð¿Ð¾ https";
+$MESS ['BCL_MONITORING_LANGUAGE'] = "Ð¯Ð·Ñ‹Ðº Ð´Ð»Ñ Ð¾Ð¿Ð¾Ð²ÐµÑ‰ÐµÐ½Ð¸Ð¹";
+$MESS ['BCL_MONITORING_TEST_SSL_CERT_VALIDITY'] = "ÐžÑ‚ÑÐ»ÐµÐ¶Ð¸Ð²Ð°Ñ‚ÑŒ ÑÑ€Ð¾Ðº Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ SSL ÑÐµÑ€Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð°";
+$MESS ['BCL_MONITORING_TEST_DOMAIN_REGISTRATION'] = "ÐžÑ‚ÑÐ»ÐµÐ¶Ð¸Ð²Ð°Ñ‚ÑŒ ÑÑ€Ð¾Ðº Ñ€ÐµÐ³Ð¸ÑÑ‚Ñ€Ð°Ñ†Ð¸Ð¸ Ð´Ð¾Ð¼ÐµÐ½Ð°";
+$MESS ['BCL_MONITORING_TEST_HTTP_RESPONSE_TIME'] = "ÐžÑ‚ÑÐ»ÐµÐ¶Ð¸Ð²Ð°Ñ‚ÑŒ Ñ€Ð°Ð±Ð¾Ñ‚Ð¾ÑÐ¿Ð¾ÑÐ¾Ð±Ð½Ð¾ÑÑ‚ÑŒ ÑÐ°Ð¹Ñ‚Ð°";
 ?>

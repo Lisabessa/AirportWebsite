@@ -1,13 +1,13 @@
 <?
 $MESS["SALE_DH_DHL_USA_NAME"] = "DHL (USA)";
-$MESS["SALE_DH_DHL_USA_DESCRIPTION"] = "Служба доставки DHL (USA)";
-$MESS["SALE_DH_DHL_USA_DESCRIPTION_INNER"] = "Обработчик доставки сервисом <a href=\"http://www.dhl-usa.com\" target=\"_blank\">DHL (USA)</a>. Работает на основе онлайн-калькулятора. Обрабатываются заказы на доставку из США по всему миру. Для работы необходима установка ZIP-кода в настройках модуля \"Интернет-магазин\"";
-$MESS["SALE_DH_DHL_USA_PROFILE_TITLE"] = "доставка";
-$MESS["SALE_DH_DHL_USA_PROFILE_DESCRIPTION"] = "срок доставки составляет 1-4 рабочих дня";
-$MESS["SALE_DH_DHL_USA_CONFIG_DELIVERY_TITLE"] = "Параметры отправлений";
-$MESS["SALE_DH_DHL_USA_CONFIG_PACKAGE_TYPE"] = "Тип упаковки";
-$MESS["SALE_DH_DHL_USA_CONFIG_PACKAGE_TYPE_CP"] = "Собственная упаковка";
+$MESS["SALE_DH_DHL_USA_DESCRIPTION"] = "РЎР»СѓР¶Р±Р° РґРѕСЃС‚Р°РІРєРё DHL (USA)";
+$MESS["SALE_DH_DHL_USA_DESCRIPTION_INNER"] = "РћР±СЂР°Р±РѕС‚С‡РёРє РґРѕСЃС‚Р°РІРєРё СЃРµСЂРІРёСЃРѕРј <a href=\"http://www.dhl-usa.com\" target=\"_blank\">DHL (USA)</a>. Р Р°Р±РѕС‚Р°РµС‚ РЅР° РѕСЃРЅРѕРІРµ РѕРЅР»Р°Р№РЅ-РєР°Р»СЊРєСѓР»СЏС‚РѕСЂР°. РћР±СЂР°Р±Р°С‚С‹РІР°СЋС‚СЃСЏ Р·Р°РєР°Р·С‹ РЅР° РґРѕСЃС‚Р°РІРєСѓ РёР· РЎРЁРђ РїРѕ РІСЃРµРјСѓ РјРёСЂСѓ. Р”Р»СЏ СЂР°Р±РѕС‚С‹ РЅРµРѕР±С…РѕРґРёРјР° СѓСЃС‚Р°РЅРѕРІРєР° ZIP-РєРѕРґР° РІ РЅР°СЃС‚СЂРѕР№РєР°С… РјРѕРґСѓР»СЏ \"РРЅС‚РµСЂРЅРµС‚-РјР°РіР°Р·РёРЅ\"";
+$MESS["SALE_DH_DHL_USA_PROFILE_TITLE"] = "РґРѕСЃС‚Р°РІРєР°";
+$MESS["SALE_DH_DHL_USA_PROFILE_DESCRIPTION"] = "СЃСЂРѕРє РґРѕСЃС‚Р°РІРєРё СЃРѕСЃС‚Р°РІР»СЏРµС‚ 1-4 СЂР°Р±РѕС‡РёС… РґРЅСЏ";
+$MESS["SALE_DH_DHL_USA_CONFIG_DELIVERY_TITLE"] = "РџР°СЂР°РјРµС‚СЂС‹ РѕС‚РїСЂР°РІР»РµРЅРёР№";
+$MESS["SALE_DH_DHL_USA_CONFIG_PACKAGE_TYPE"] = "РўРёРї СѓРїР°РєРѕРІРєРё";
+$MESS["SALE_DH_DHL_USA_CONFIG_PACKAGE_TYPE_CP"] = "РЎРѕР±СЃС‚РІРµРЅРЅР°СЏ СѓРїР°РєРѕРІРєР°";
 $MESS["SALE_DH_DHL_USA_CONFIG_PACKAGE_TYPE_EE"] = "DHL Express Letter";
 $MESS["SALE_DH_DHL_USA_CONFIG_PACKAGE_TYPE_OD"] = "DHL Other Packaging";
-$MESS["SALE_DH_DHL_USA_ERROR_RESPONSE"] = "Нераспознанный ответ сервера";
+$MESS["SALE_DH_DHL_USA_ERROR_RESPONSE"] = "РќРµСЂР°СЃРїРѕР·РЅР°РЅРЅС‹Р№ РѕС‚РІРµС‚ СЃРµСЂРІРµСЂР°";
 ?>

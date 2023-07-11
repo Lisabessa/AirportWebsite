@@ -1,16 +1,16 @@
 <?
-$MESS ['SONET_GFP_EMPTY_GROUP_FEATURE_ID'] = "Íå óêàçàí ôóíêöèîíàë";
-$MESS ['SONET_GFP_ERROR_NO_GROUP_FEATURE_ID'] = "Ôóíêöèîíàë óêàçàí íåâåðíî";
-$MESS ['SONET_GFP_EMPTY_OPERATION_ID'] = "Íå óêàçàíà îïåðàöèÿ";
-$MESS ['SONET_GFP_BAD_OPERATION_ID'] = "Îïåðàöèÿ íå ìîæåò áûòü ïðîâåðåíà";
-$MESS ['SONET_GFP_NO_OPERATION_ID'] = "Îïåðàöèÿ ïàðàìåòðîâ óêàçàíà íåâåðíî";
-$MESS ['SONET_GFP_EMPTY_ROLE'] = "Íå óêàçàíà ðîëü";
-$MESS ['SONET_GFP_ERROR_NO_ROLE'] = "Ðîëü óêàçàíà íåâåðíî";
-$MESS ['SONET_GF_ERROR_SET'] = "Îøèáêà ñîçäàíèÿ çàïèñè";
-$MESS ['SONET_GF_EMPTY_ENTITY_ID'] = "Íå óêàçàí êîä ñóùíîñòè";
-$MESS ['SONET_GF_ERROR_NO_ENTITY_ID'] = "Ñóùíîñòü óêàçàíà íåâåðíî";
-$MESS ['SONET_GF_EMPTY_FEATURE_ID'] = "Íå óêàçàí ôóíêöèîíàë";
-$MESS ['SONET_GF_ERROR_NO_FEATURE_ID'] = "Ôóíêöèîíàë óêàçàí íåâåðíî";
-$MESS ['SONET_GF_EMPTY_ENTITY_TYPE'] = "Òèï ñóùíîñòè íå çàäàí";
-$MESS ['SONET_GF_ERROR_NO_ENTITY_TYPE'] = "Òèï ñóùíîñòè íå âåðåí";
+$MESS ['SONET_GFP_EMPTY_GROUP_FEATURE_ID'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ñ„ÑƒÐ½ÐºÑ†Ð¸Ð¾Ð½Ð°Ð»";
+$MESS ['SONET_GFP_ERROR_NO_GROUP_FEATURE_ID'] = "Ð¤ÑƒÐ½ÐºÑ†Ð¸Ð¾Ð½Ð°Ð» ÑƒÐºÐ°Ð·Ð°Ð½ Ð½ÐµÐ²ÐµÑ€Ð½Ð¾";
+$MESS ['SONET_GFP_EMPTY_OPERATION_ID'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð° Ð¾Ð¿ÐµÑ€Ð°Ñ†Ð¸Ñ";
+$MESS ['SONET_GFP_BAD_OPERATION_ID'] = "ÐžÐ¿ÐµÑ€Ð°Ñ†Ð¸Ñ Ð½Ðµ Ð¼Ð¾Ð¶ÐµÑ‚ Ð±Ñ‹Ñ‚ÑŒ Ð¿Ñ€Ð¾Ð²ÐµÑ€ÐµÐ½Ð°";
+$MESS ['SONET_GFP_NO_OPERATION_ID'] = "ÐžÐ¿ÐµÑ€Ð°Ñ†Ð¸Ñ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð¾Ð² ÑƒÐºÐ°Ð·Ð°Ð½Ð° Ð½ÐµÐ²ÐµÑ€Ð½Ð¾";
+$MESS ['SONET_GFP_EMPTY_ROLE'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð° Ñ€Ð¾Ð»ÑŒ";
+$MESS ['SONET_GFP_ERROR_NO_ROLE'] = "Ð Ð¾Ð»ÑŒ ÑƒÐºÐ°Ð·Ð°Ð½Ð° Ð½ÐµÐ²ÐµÑ€Ð½Ð¾";
+$MESS ['SONET_GF_ERROR_SET'] = "ÐžÑˆÐ¸Ð±ÐºÐ° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ Ð·Ð°Ð¿Ð¸ÑÐ¸";
+$MESS ['SONET_GF_EMPTY_ENTITY_ID'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ ÐºÐ¾Ð´ ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸";
+$MESS ['SONET_GF_ERROR_NO_ENTITY_ID'] = "Ð¡ÑƒÑ‰Ð½Ð¾ÑÑ‚ÑŒ ÑƒÐºÐ°Ð·Ð°Ð½Ð° Ð½ÐµÐ²ÐµÑ€Ð½Ð¾";
+$MESS ['SONET_GF_EMPTY_FEATURE_ID'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ñ„ÑƒÐ½ÐºÑ†Ð¸Ð¾Ð½Ð°Ð»";
+$MESS ['SONET_GF_ERROR_NO_FEATURE_ID'] = "Ð¤ÑƒÐ½ÐºÑ†Ð¸Ð¾Ð½Ð°Ð» ÑƒÐºÐ°Ð·Ð°Ð½ Ð½ÐµÐ²ÐµÑ€Ð½Ð¾";
+$MESS ['SONET_GF_EMPTY_ENTITY_TYPE'] = "Ð¢Ð¸Ð¿ ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸ Ð½Ðµ Ð·Ð°Ð´Ð°Ð½";
+$MESS ['SONET_GF_ERROR_NO_ENTITY_TYPE'] = "Ð¢Ð¸Ð¿ ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸ Ð½Ðµ Ð²ÐµÑ€ÐµÐ½";
 ?>

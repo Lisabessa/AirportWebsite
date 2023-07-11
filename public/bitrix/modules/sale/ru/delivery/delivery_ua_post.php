@@ -1,6 +1,6 @@
 <?
 /********************************************************************************
-Delivery services for Ukrainian «Nova poshta»
+Delivery services for Ukrainian Â«Nova poshtaÂ»
 http://novaposhta.ua
 Tarif: http://novaposhta.ua/docs/internet_magaziny.pdf
 Order's weight must be less or equal 100 Kg.

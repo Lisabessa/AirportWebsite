@@ -1,12 +1,12 @@
 <?php
 global $STEMMING_RU_VOWELS;
-$STEMMING_RU_VOWELS = "¿≈»Œ”€›ﬁﬂ";
+$STEMMING_RU_VOWELS = "–ê–ï–ò–û–£–´–≠–Æ–Ø";
 global $STEMMING_RU_PERFECTIVE_GERUND;
-$STEMMING_RU_PERFECTIVE_GERUND = "/(€¬ÿ»—‹|»¬ÿ»—‹|ﬂ¬ÿ»—‹|¿¬ÿ»—‹|€¬ÿ»|»¬ÿ»|ﬂ¬ÿ»|¿¬ÿ»|€¬|»¬|ﬂ¬|¿¬)$/".BX_UTF_PCRE_MODIFIER;
+$STEMMING_RU_PERFECTIVE_GERUND = "/(–´–í–®–ò–°–¨|–ò–í–®–ò–°–¨|–Ø–í–®–ò–°–¨|–ê–í–®–ò–°–¨|–´–í–®–ò|–ò–í–®–ò|–Ø–í–®–ò|–ê–í–®–ò|–´–í|–ò–í|–Ø–í|–ê–í)$/".BX_UTF_PCRE_MODIFIER;
 
-$STEMMING_RU_ADJECTIVE=array("≈≈"=>2, "»≈"=>2, "€≈"=>2, "Œ≈"=>2, "»Ã»"=>3, "€Ã»"=>3, "≈…"=>2, "»…"=>2, "€…"=>2, "Œ…"=>2, "≈Ã"=>2, "»Ã"=>2, "€Ã"=>2, "ŒÃ"=>2, "≈√Œ"=>2, "Œ√Œ"=>3, "≈Ã”"=>3, "ŒÃ”"=>3, "»’"=>2, "€’"=>2, "”ﬁ"=>2, "ﬁﬁ"=>2, "¿ﬂ"=>2, "ﬂﬂ"=>2, "Œﬁ"=>2, "≈ﬁ"=>2);
-$STEMMING_RU_PARTICIPLE_GR1=array("≈Ã"=>2, "ÕÕ"=>2, "¬ÿ"=>2, "ﬁŸ"=>2, "Ÿ"=>1);
-$STEMMING_RU_PARTICIPLE_GR2=array("»¬ÿ"=>3, "€¬ÿ"=>3, "”ﬁŸ"=>3);
+$STEMMING_RU_ADJECTIVE=array("–ï–ï"=>2, "–ò–ï"=>2, "–´–ï"=>2, "–û–ï"=>2, "–ò–ú–ò"=>3, "–´–ú–ò"=>3, "–ï–ô"=>2, "–ò–ô"=>2, "–´–ô"=>2, "–û–ô"=>2, "–ï–ú"=>2, "–ò–ú"=>2, "–´–ú"=>2, "–û–ú"=>2, "–ï–ì–û"=>2, "–û–ì–û"=>3, "–ï–ú–£"=>3, "–û–ú–£"=>3, "–ò–•"=>2, "–´–•"=>2, "–£–Æ"=>2, "–Æ–Æ"=>2, "–ê–Ø"=>2, "–Ø–Ø"=>2, "–û–Æ"=>2, "–ï–Æ"=>2);
+$STEMMING_RU_PARTICIPLE_GR1=array("–ï–ú"=>2, "–ù–ù"=>2, "–í–®"=>2, "–Æ–©"=>2, "–©"=>1);
+$STEMMING_RU_PARTICIPLE_GR2=array("–ò–í–®"=>3, "–´–í–®"=>3, "–£–Æ–©"=>3);
 $STEMMING_RU_ADJECTIVAL_GR1=array();
 $STEMMING_RU_ADJECTIVAL_GR2=array();
 foreach($STEMMING_RU_ADJECTIVE as $i => $il)
@@ -16,7 +16,7 @@ foreach($STEMMING_RU_ADJECTIVE as $i => $il)
 }
 global $STEMMING_RU_ADJECTIVAL1;
 arsort($STEMMING_RU_ADJECTIVAL_GR1);
-$STEMMING_RU_ADJECTIVAL1="/([¿ﬂ])(".implode("|", array_keys($STEMMING_RU_ADJECTIVAL_GR1)).")$/".BX_UTF_PCRE_MODIFIER;
+$STEMMING_RU_ADJECTIVAL1="/([–ê–Ø])(".implode("|", array_keys($STEMMING_RU_ADJECTIVAL_GR1)).")$/".BX_UTF_PCRE_MODIFIER;
 
 global $STEMMING_RU_ADJECTIVAL2;
 foreach($STEMMING_RU_ADJECTIVE as $i => $il)
@@ -25,15 +25,15 @@ arsort($STEMMING_RU_ADJECTIVAL_GR2);
 $STEMMING_RU_ADJECTIVAL2="/(".implode("|", array_keys($STEMMING_RU_ADJECTIVAL_GR2)).")$/".BX_UTF_PCRE_MODIFIER;
 
 global $STEMMING_RU_VERB1;
-$STEMMING_RU_VERB1="/([¿ﬂ])(ÕÕŒ|≈“≈|…“≈|≈ÿ‹|À¿|Õ¿|À»|≈Ã|ÀŒ|ÕŒ|≈“|ﬁ“|Õ€|“‹|…|À|Õ)$/".BX_UTF_PCRE_MODIFIER;
+$STEMMING_RU_VERB1="/([–ê–Ø])(–ù–ù–û|–ï–¢–ï|–ô–¢–ï|–ï–®–¨|–õ–ê|–ù–ê|–õ–ò|–ï–ú|–õ–û|–ù–û|–ï–¢|–Æ–¢|–ù–´|–¢–¨|–ô|–õ|–ù)$/".BX_UTF_PCRE_MODIFIER;
 
 global $STEMMING_RU_VERB2;
-$STEMMING_RU_VERB2="/(≈…“≈|”…“≈|»À¿|€À¿|≈Õ¿|»“≈|»À»|€À»|»ÀŒ|€ÀŒ|≈ÕŒ|”≈“|”ﬁ“|≈Õ€|»“‹|€“‹|»ÿ‹|≈…|”…|»À|€À|»Ã|€Ã|≈Õ|ﬂ“|»“|€“|”ﬁ|ﬁ)$/".BX_UTF_PCRE_MODIFIER;
+$STEMMING_RU_VERB2="/(–ï–ô–¢–ï|–£–ô–¢–ï|–ò–õ–ê|–´–õ–ê|–ï–ù–ê|–ò–¢–ï|–ò–õ–ò|–´–õ–ò|–ò–õ–û|–´–õ–û|–ï–ù–û|–£–ï–¢|–£–Æ–¢|–ï–ù–´|–ò–¢–¨|–´–¢–¨|–ò–®–¨|–ï–ô|–£–ô|–ò–õ|–´–õ|–ò–ú|–´–ú|–ï–ù|–Ø–¢|–ò–¢|–´–¢|–£–Æ|–Æ)$/".BX_UTF_PCRE_MODIFIER;
 global $STEMMING_RU_NOUN;
-$STEMMING_RU_NOUN="/(»ﬂÃ»|»ﬂ’|»≈Ã|»ﬂÃ|¿Ã»|ﬂÃ»|‹ﬂ|»ﬂ|‹ﬁ|»ﬁ|ﬂ’|¿’|ŒÃ|¿Ã|≈Ã|ﬂÃ|»…|Œ…|≈…|»≈…|»»|≈»|‹≈|»≈|Œ¬|≈¬|ﬁ|‹|€|”|Œ|…|»|≈|ﬂ|¿)$/".BX_UTF_PCRE_MODIFIER;
+$STEMMING_RU_NOUN="/(–ò–Ø–ú–ò|–ò–Ø–•|–ò–ï–ú|–ò–Ø–ú|–ê–ú–ò|–Ø–ú–ò|–¨–Ø|–ò–Ø|–¨–Æ|–ò–Æ|–Ø–•|–ê–•|–û–ú|–ê–ú|–ï–ú|–Ø–ú|–ò–ô|–û–ô|–ï–ô|–ò–ï–ô|–ò–ò|–ï–ò|–¨–ï|–ò–ï|–û–í|–ï–í|–Æ|–¨|–´|–£|–û|–ô|–ò|–ï|–Ø|–ê)$/".BX_UTF_PCRE_MODIFIER;
 function stemming_letter_ru()
 {
-	return "∏ÈˆÛÍÂÌ„¯˘Áı˙Ù˚‚‡ÔÓÎ‰Ê˝ˇ˜ÒÏËÚ¸·˛®…÷” ≈Õ√ÿŸ«’⁄‘€¬¿œ–ŒÀƒ∆›ﬂ◊—Ã»“‹¡ﬁ";
+	return "—ë–π—Ü—É–∫–µ–Ω–≥—à—â–∑—Ö—ä—Ñ—ã–≤–∞–ø—Ä–æ–ª–¥–∂—ç—è—á—Å–º–∏—Ç—å–±—é–Å–ô–¶–£–ö–ï–ù–ì–®–©–ó–•–™–§–´–í–ê–ü–†–û–õ–î–ñ–≠–Ø–ß–°–ú–ò–¢–¨–ë–Æ";
 }
 function stemming_ru_sort($a, $b)
 {
@@ -54,15 +54,15 @@ function stemming_stop_ru($sWord)
 	if(!$stop_list)
 	{
 		$stop_list = array (
-			"QUOTE"=>0,"HTTP"=>0,"WWW"=>0,"RU"=>0,"IMG"=>0,"GIF"=>0,"¡≈«"=>0,"¡€"=>0,"¡€À"=>0,
-			"¡€“"=>0,"¬¿Ã"=>0,"¬¿ÿ"=>0,"¬Œ"=>0,"¬Œ“"=>0,"¬—≈"=>0,"¬€"=>0,"√ƒ≈"=>0,"ƒ¿"=>0,
-			"ƒ¿∆"=>0,"ƒÀﬂ"=>0,"ƒŒ"=>0,"≈√"=>0,"≈—À"=>0,"≈—“"=>0,"≈Ÿ"=>0,"∆≈"=>0,"«¿"=>0,
-			"»«"=>0,"»À»"=>0,"»Ã"=>0,"»’"=>0," ¿ "=>0," Œ√ƒ"=>0," “Œ"=>0,"À»"=>0,"À»¡"=>0,
-			"Ã≈Õ"=>0,"ÃÕ≈"=>0,"ÃŒ"=>0,"Ã€"=>0,"Õ¿"=>0,"Õ¿ƒ"=>0,"Õ≈"=>0,"Õ≈“"=>0,"Õ»"=>0,
-			"ÕŒ"=>0,"Õ”"=>0,"Œ¡"=>0,"ŒÕ"=>0,"Œ“"=>0,"Œ◊≈Õ"=>0,"œŒ"=>0,"œŒƒ"=>0,"œ–»"=>0,
-			"œ–Œ"=>0,"—¿Ã"=>0,"—≈¡"=>0,"—¬Œ"=>0,"“¿ "=>0,"“¿Ã"=>0,"“≈¡"=>0,"“Œ"=>0,"“Œ∆"=>0,
-			"“ŒÀ‹ "=>0,"“”“"=>0,"“€"=>0,"”∆"=>0,"’Œ“"=>0,"◊≈√"=>0,"◊≈Ã"=>0,"◊“Œ"=>0,"◊“Œ¡"=>0,
-			"›“"=>0,"›“Œ“"=>0,
+			"QUOTE"=>0,"HTTP"=>0,"WWW"=>0,"RU"=>0,"IMG"=>0,"GIF"=>0,"–ë–ï–ó"=>0,"–ë–´"=>0,"–ë–´–õ"=>0,
+			"–ë–´–¢"=>0,"–í–ê–ú"=>0,"–í–ê–®"=>0,"–í–û"=>0,"–í–û–¢"=>0,"–í–°–ï"=>0,"–í–´"=>0,"–ì–î–ï"=>0,"–î–ê"=>0,
+			"–î–ê–ñ"=>0,"–î–õ–Ø"=>0,"–î–û"=>0,"–ï–ì"=>0,"–ï–°–õ"=>0,"–ï–°–¢"=>0,"–ï–©"=>0,"–ñ–ï"=>0,"–ó–ê"=>0,
+			"–ò–ó"=>0,"–ò–õ–ò"=>0,"–ò–ú"=>0,"–ò–•"=>0,"–ö–ê–ö"=>0,"–ö–û–ì–î"=>0,"–ö–¢–û"=>0,"–õ–ò"=>0,"–õ–ò–ë"=>0,
+			"–ú–ï–ù"=>0,"–ú–ù–ï"=>0,"–ú–û"=>0,"–ú–´"=>0,"–ù–ê"=>0,"–ù–ê–î"=>0,"–ù–ï"=>0,"–ù–ï–¢"=>0,"–ù–ò"=>0,
+			"–ù–û"=>0,"–ù–£"=>0,"–û–ë"=>0,"–û–ù"=>0,"–û–¢"=>0,"–û–ß–ï–ù"=>0,"–ü–û"=>0,"–ü–û–î"=>0,"–ü–†–ò"=>0,
+			"–ü–†–û"=>0,"–°–ê–ú"=>0,"–°–ï–ë"=>0,"–°–í–û"=>0,"–¢–ê–ö"=>0,"–¢–ê–ú"=>0,"–¢–ï–ë"=>0,"–¢–û"=>0,"–¢–û–ñ"=>0,
+			"–¢–û–õ–¨–ö"=>0,"–¢–£–¢"=>0,"–¢–´"=>0,"–£–ñ"=>0,"–•–û–¢"=>0,"–ß–ï–ì"=>0,"–ß–ï–ú"=>0,"–ß–¢–û"=>0,"–ß–¢–û–ë"=>0,
+			"–≠–¢"=>0,"–≠–¢–û–¢"=>0,
 		);
 		if(defined("STEMMING_STOP_RU"))
 		{
@@ -79,7 +79,7 @@ function stemming_stop_ru($sWord)
 
 function stemming_upper_ru($sText)
 {
-	return str_replace(array("®"), array("≈"), ToUpper($sText, "ru"));
+	return str_replace(array("–Å"), array("–ï"), ToUpper($sText, "ru"));
 }
 
 function stemming_ru($word, $flags = 0)
@@ -91,21 +91,21 @@ function stemming_ru($word, $flags = 0)
 	global $STEMMING_RU_VERB1;
 	global $STEMMING_RU_VERB2;
 	global $STEMMING_RU_NOUN;
-	//There is a 33rd letter, ∏ (?), but it is rarely used, and we assume it is mapped into Â (e).
-	$word=str_replace("®", "≈", $word);
+	//There is a 33rd letter, —ë (?), but it is rarely used, and we assume it is mapped into –µ (e).
+	$word=str_replace("–Å", "–ï", $word);
 	//Exceptions
 	static $STEMMING_RU_EX = array(
-		"¡≈«≈"=>"¡≈«≈",
-		"¡€À‹"=>"¡€À‹",
-		"Ã≈Õﬁ"=>"Ã≈Õﬁ",
-		"√–¿Õ¿“"=>"√–¿Õ¿“",
-		"√–¿Õ»“"=>"√–¿Õ»“",
-		"“≈–Ã»Õ¿À"=>"“≈–Ã»Õ¿À",
-		"»À»"=>"»À»",
-		"–” ¿¬"=>"–” ¿¬",
-		"œ–»≈Ã"=>"œ–»≈Ã",
-		"Œ’–¿Õ¿"=>"Œ’–¿Õ",
-		"«¿∆»Ã"=>"«¿∆»Ã",
+		"–ë–ï–ó–ï"=>"–ë–ï–ó–ï",
+		"–ë–´–õ–¨"=>"–ë–´–õ–¨",
+		"–ú–ï–ù–Æ"=>"–ú–ï–ù–Æ",
+		"–ì–†–ê–ù–ê–¢"=>"–ì–†–ê–ù–ê–¢",
+		"–ì–†–ê–ù–ò–¢"=>"–ì–†–ê–ù–ò–¢",
+		"–¢–ï–†–ú–ò–ù–ê–õ"=>"–¢–ï–†–ú–ò–ù–ê–õ",
+		"–ò–õ–ò"=>"–ò–õ–ò",
+		"–†–£–ö–ê–í"=>"–†–£–ö–ê–í",
+		"–ü–†–ò–ï–ú"=>"–ü–†–ò–ï–ú",
+		"–û–•–†–ê–ù–ê"=>"–û–•–†–ê–ù",
+		"–ó–ê–ñ–ò–ú"=>"–ó–ê–ñ–ò–ú",
 	);
 	if(isset($STEMMING_RU_EX[$word]))
 		return $word;
@@ -114,16 +114,16 @@ function stemming_ru($word, $flags = 0)
 	//http://www.gramma.ru/SPR/?id=2.8
 	if($flags & 1)
 	{
-		if(preg_match("/(Œ¬|≈¬)$/", $word))
+		if(preg_match("/(–û–í|–ï–í)$/", $word))
 		{
 			return array(
-				stemming_ru($word."¿"),
+				stemming_ru($word."–ê"),
 				stemming_ru($word),
 				stemming_ru(mb_substr($word, 0, -2)),
 			);
 		}
 		$found = array();
-		if(preg_match("/(Œ¬|≈¬)(¿|”|€Ã|≈)$/", $word, $found))
+		if(preg_match("/(–û–í|–ï–í)(–ê|–£|–´–ú|–ï)$/", $word, $found))
 		{
 			return array(
 				stemming_ru($word),
@@ -154,12 +154,12 @@ function stemming_ru($word, $flags = 0)
 	{
 		switch($found[0])
 		{
-			case "¿¬":
-			case "¿¬ÿ»":
-			case "¿¬ÿ»—‹":
-			case "ﬂ¬":
-			case "ﬂ¬ÿ»":
-			case "ﬂ¬ÿ»—‹":
+			case "–ê–í":
+			case "–ê–í–®–ò":
+			case "–ê–í–®–ò–°–¨":
+			case "–Ø–í":
+			case "–Ø–í–®–ò":
+			case "–Ø–í–®–ò–°–¨":
 			$rv = mb_substr($rv, 0, 1 - mb_strlen($found[0]));
 				break;
 			default:
@@ -173,7 +173,7 @@ function stemming_ru($word, $flags = 0)
 	// As soon as one of the endings (1) to (3) is found remove it, and terminate step 1.
 	else
 	{
-		$rv = preg_replace("/(—ﬂ|—‹)$/".BX_UTF_PCRE_MODIFIER, "", $rv);
+		$rv = preg_replace("/(–°–Ø|–°–¨)$/".BX_UTF_PCRE_MODIFIER, "", $rv);
 		//ADJECTIVAL
 		if(preg_match($STEMMING_RU_ADJECTIVAL1, $rv, $found))
 			$rv = mb_substr($rv, 0, -mb_strlen($found[2]));
@@ -187,12 +187,12 @@ function stemming_ru($word, $flags = 0)
 			$rv = preg_replace($STEMMING_RU_NOUN, "", $rv);
 	}
 
-	//Step 2: If the word ends with Ë (i), remove it.
-	if(mb_substr($rv, -1) == "»")
+	//Step 2: If the word ends with –∏ (i), remove it.
+	if(mb_substr($rv, -1) == "–ò")
 		$rv = mb_substr($rv, 0, -1);
 	//Step 3: Search for a DERIVATIONAL ending in R2 (i.e. the entire ending must lie in R2), and if one is found, remove it.
 	//R1 is the region after the first non-vowel following a vowel, or the end of the word if there is no such non-vowel.
-	if(preg_match("/(Œ—“‹|Œ—“)$/".BX_UTF_PCRE_MODIFIER, $rv))
+	if(preg_match("/(–û–°–¢–¨|–û–°–¢)$/".BX_UTF_PCRE_MODIFIER, $rv))
 	{
 		$R1=0;
 		$rv_len = mb_strlen($rv);
@@ -208,17 +208,17 @@ function stemming_ru($word, $flags = 0)
 			$R2++;
 		if($R2 < $rv_len)
 			$R2++;
-		//"Œ—“‹", "Œ—“"
-		if((mb_substr($rv, -4) == "Œ—“‹") && ($rv_len >= ($R2+4)))
+		//"–û–°–¢–¨", "–û–°–¢"
+		if((mb_substr($rv, -4) == "–û–°–¢–¨") && ($rv_len >= ($R2+4)))
 			$rv = mb_substr($rv, 0, $rv_len - 4);
-		elseif((mb_substr($rv, -3) == "Œ—“") && ($rv_len >= ($R2+3)))
+		elseif((mb_substr($rv, -3) == "–û–°–¢") && ($rv_len >= ($R2+3)))
 			$rv = mb_substr($rv, 0, $rv_len - 3);
 	}
-	//Step 4: (1) Undouble Ì (n), or, (2) if the word ends with a SUPERLATIVE ending, remove it and undouble Ì (n), or (3) if the word ends ¸ (') (soft sign) remove it.
-	$rv = preg_replace("/(≈…ÿ≈|≈…ÿ)$/".BX_UTF_PCRE_MODIFIER, "", $rv);
-	$r = preg_replace("/ÕÕ$/".BX_UTF_PCRE_MODIFIER, "Õ", $rv);
+	//Step 4: (1) Undouble –Ω (n), or, (2) if the word ends with a SUPERLATIVE ending, remove it and undouble –Ω (n), or (3) if the word ends —å (') (soft sign) remove it.
+	$rv = preg_replace("/(–ï–ô–®–ï|–ï–ô–®)$/".BX_UTF_PCRE_MODIFIER, "", $rv);
+	$r = preg_replace("/–ù–ù$/".BX_UTF_PCRE_MODIFIER, "–ù", $rv);
 	if($r == $rv)
-		$rv = preg_replace("/‹$/".BX_UTF_PCRE_MODIFIER, "", $rv);
+		$rv = preg_replace("/–¨$/".BX_UTF_PCRE_MODIFIER, "", $rv);
 	else
 		$rv = $r;
 

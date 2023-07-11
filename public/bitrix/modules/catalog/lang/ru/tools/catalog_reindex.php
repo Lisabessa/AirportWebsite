@@ -1,13 +1,13 @@
 <?
-$MESS["BX_CATALOG_REINDEX_ACCESS_DENIED"] = "Äîñòóï çàïðåùåí";
-$MESS["BX_CATALOG_REINDEX_ERRORS_INCORRECT_SESSION"] = "Âàøà ñåññèÿ èñòåêëà. Çàêðîéòå äèàëîãîâîå îêíî è àâòîðèçóéòåñü çàíîâî, ïîñëå ÷åãî ïîâòîðèòå îïåðàöèþ.";
-$MESS["BX_CATALOG_REINDEX_REINDEX_ERRORS_MODULE_CATALOG_ABSENT"] = "Íå óäàëîñü ïîäêëþ÷èòü ìîäóëü òîðãîâîãî êàòàëîãà";
-$MESS["BX_CATALOG_REINDEX_PAGE_TITLE"] = "Ïåðåèíäåêñàöèÿ òîâàðîâ";
-$MESS["BX_CATALOG_REINDEX_TAB"] = "Ïàðàìåòðû";
-$MESS["BX_CATALOG_REINDEX_TAB_TITLE"] = "Ïàðàìåòðû è ðåçóëüòàòû ïåðåèíäåêñàöèè";
-$MESS["BX_CATALOG_REINDEX_IBLOCK_ID"] = "Èíôîáëîê";
-$MESS["BX_CATALOG_REINDEX_MAX_EXECUTION_TIME"] = "Ïðîäîëæèòåëüíîñòü îäíîãî øàãà, ñåê:";
-$MESS["BX_CATALOG_REINDEX_UPDATE_BTN"] = "Íà÷àòü";
-$MESS["BX_CATALOG_REINDEX_STOP_BTN"] = "Îñòàíîâèòü";
-$MESS["BX_CATALOG_REINDEX_ERRORS_TITLE"] = "Îøèáêè âî âðåìÿ âûïîëíåíèÿ ïåðåèíäåêñàöèè";
+$MESS["BX_CATALOG_REINDEX_ACCESS_DENIED"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ð·Ð°Ð¿Ñ€ÐµÑ‰ÐµÐ½";
+$MESS["BX_CATALOG_REINDEX_ERRORS_INCORRECT_SESSION"] = "Ð’Ð°ÑˆÐ° ÑÐµÑÑÐ¸Ñ Ð¸ÑÑ‚ÐµÐºÐ»Ð°. Ð—Ð°ÐºÑ€Ð¾Ð¹Ñ‚Ðµ Ð´Ð¸Ð°Ð»Ð¾Ð³Ð¾Ð²Ð¾Ðµ Ð¾ÐºÐ½Ð¾ Ð¸ Ð°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·ÑƒÐ¹Ñ‚ÐµÑÑŒ Ð·Ð°Ð½Ð¾Ð²Ð¾, Ð¿Ð¾ÑÐ»Ðµ Ñ‡ÐµÐ³Ð¾ Ð¿Ð¾Ð²Ñ‚Ð¾Ñ€Ð¸Ñ‚Ðµ Ð¾Ð¿ÐµÑ€Ð°Ñ†Ð¸ÑŽ.";
+$MESS["BX_CATALOG_REINDEX_REINDEX_ERRORS_MODULE_CATALOG_ABSENT"] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ Ð¿Ð¾Ð´ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ Ð¼Ð¾Ð´ÑƒÐ»ÑŒ Ñ‚Ð¾Ñ€Ð³Ð¾Ð²Ð¾Ð³Ð¾ ÐºÐ°Ñ‚Ð°Ð»Ð¾Ð³Ð°";
+$MESS["BX_CATALOG_REINDEX_PAGE_TITLE"] = "ÐŸÐµÑ€ÐµÐ¸Ð½Ð´ÐµÐºÑÐ°Ñ†Ð¸Ñ Ñ‚Ð¾Ð²Ð°Ñ€Ð¾Ð²";
+$MESS["BX_CATALOG_REINDEX_TAB"] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹";
+$MESS["BX_CATALOG_REINDEX_TAB_TITLE"] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ Ð¸ Ñ€ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ñ‹ Ð¿ÐµÑ€ÐµÐ¸Ð½Ð´ÐµÐºÑÐ°Ñ†Ð¸Ð¸";
+$MESS["BX_CATALOG_REINDEX_IBLOCK_ID"] = "Ð˜Ð½Ñ„Ð¾Ð±Ð»Ð¾Ðº";
+$MESS["BX_CATALOG_REINDEX_MAX_EXECUTION_TIME"] = "ÐŸÑ€Ð¾Ð´Ð¾Ð»Ð¶Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾ÑÑ‚ÑŒ Ð¾Ð´Ð½Ð¾Ð³Ð¾ ÑˆÐ°Ð³Ð°, ÑÐµÐº:";
+$MESS["BX_CATALOG_REINDEX_UPDATE_BTN"] = "ÐÐ°Ñ‡Ð°Ñ‚ÑŒ";
+$MESS["BX_CATALOG_REINDEX_STOP_BTN"] = "ÐžÑÑ‚Ð°Ð½Ð¾Ð²Ð¸Ñ‚ÑŒ";
+$MESS["BX_CATALOG_REINDEX_ERRORS_TITLE"] = "ÐžÑˆÐ¸Ð±ÐºÐ¸ Ð²Ð¾ Ð²Ñ€ÐµÐ¼Ñ Ð²Ñ‹Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¸Ñ Ð¿ÐµÑ€ÐµÐ¸Ð½Ð´ÐµÐºÑÐ°Ñ†Ð¸Ð¸";
 ?>

@@ -1,4 +1,4 @@
 <?php
-$MESS['LANDING_BLOCK_IM_NOT_INSTALLED_HEADER'] = 'Íå óñòàíîâëåí ìîäóëü';
-$MESS['LANDING_BLOCK_IM_NOT_INSTALLED_TEXT'] = 'Íå óñòàíîâëåí ìîäóëü Âåá-ìåññåíäæåð. Âàì íåîáõîäèìî â àäìèíèñòðàòèâíîé ÷àñòè ïðîèçâåñòè óñòàíîâêó.';
-$MESS['LANDING_BLOCK_IM_NOT_INSTALLED_LINK'] = 'Óñòàíîâèòü';
+$MESS['LANDING_BLOCK_IM_NOT_INSTALLED_HEADER'] = 'ÐÐµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½ Ð¼Ð¾Ð´ÑƒÐ»ÑŒ';
+$MESS['LANDING_BLOCK_IM_NOT_INSTALLED_TEXT'] = 'ÐÐµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½ Ð¼Ð¾Ð´ÑƒÐ»ÑŒ Ð’ÐµÐ±-Ð¼ÐµÑÑÐµÐ½Ð´Ð¶ÐµÑ€. Ð’Ð°Ð¼ Ð½ÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ð¾ Ð² Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¸Ð²Ð½Ð¾Ð¹ Ñ‡Ð°ÑÑ‚Ð¸ Ð¿Ñ€Ð¾Ð¸Ð·Ð²ÐµÑÑ‚Ð¸ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÑƒ.';
+$MESS['LANDING_BLOCK_IM_NOT_INSTALLED_LINK'] = 'Ð£ÑÑ‚Ð°Ð½Ð¾Ð²Ð¸Ñ‚ÑŒ';

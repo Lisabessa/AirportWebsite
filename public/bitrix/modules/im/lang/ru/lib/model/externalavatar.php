@@ -1,5 +1,5 @@
 <?
 $MESS["EXTERNAL_AVATAR_ENTITY_ID_FIELD"] = "ID";
-$MESS["EXTERNAL_AVATAR_ENTITY_LINK_MD5_FIELD"] = "MD5 îò ññûëêè";
-$MESS["EXTERNAL_AVATAR_ENTITY_AVATAR_ID_FIELD"] = "Èäåíòèôèêàòîð àâàòàðà";
+$MESS["EXTERNAL_AVATAR_ENTITY_LINK_MD5_FIELD"] = "MD5 Ð¾Ñ‚ ÑÑÑ‹Ð»ÐºÐ¸";
+$MESS["EXTERNAL_AVATAR_ENTITY_AVATAR_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð°Ð²Ð°Ñ‚Ð°Ñ€Ð°";
 ?>

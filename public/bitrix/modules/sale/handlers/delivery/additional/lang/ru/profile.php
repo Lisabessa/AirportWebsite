@@ -1,9 +1,9 @@
 <?
-$MESS["SALE_DLVRS_ADDP_NAME"] = "Ïðîôèëü äîïîëíèòåëüíîé ñëóæáû äîñòàâêè";
-$MESS["SALE_DLVRS_ADDP_DESCRIPTION"] = "Ïðîôèëü íàáîðà äîïîëíèòåëüíûõ ñëóæá äîñòàâîê";
-$MESS["SALE_DLVRS_ADDP_MAIN_TITLE"] = "Íàñòðîéêè";
-$MESS["SALE_DLVRS_ADDP_MAIN_DESCRIPTION"] = "Íàñòðîéêè ïðîôèëÿ äîïîëíèòåëüíîé ñëóæáû äîñòàâêè";
-$MESS["SALE_DLVRS_ADDP_MAIN_TYPE"] = "Òèï ñåðâèñà";
-$MESS["SALE_DLVRS_ADDP_MAIN_DESC"] = "Îïèñàíèå ñåðâèñà";
-$MESS["SALE_DLVRS_ADDP_Y"] = "Äà";
-$MESS["SALE_DLVRS_ADDP_N"] = "Íåò";
+$MESS["SALE_DLVRS_ADDP_NAME"] = "ÐŸÑ€Ð¾Ñ„Ð¸Ð»ÑŒ Ð´Ð¾Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾Ð¹ ÑÐ»ÑƒÐ¶Ð±Ñ‹ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸";
+$MESS["SALE_DLVRS_ADDP_DESCRIPTION"] = "ÐŸÑ€Ð¾Ñ„Ð¸Ð»ÑŒ Ð½Ð°Ð±Ð¾Ñ€Ð° Ð´Ð¾Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ñ… ÑÐ»ÑƒÐ¶Ð± Ð´Ð¾ÑÑ‚Ð°Ð²Ð¾Ðº";
+$MESS["SALE_DLVRS_ADDP_MAIN_TITLE"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸";
+$MESS["SALE_DLVRS_ADDP_MAIN_DESCRIPTION"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð¿Ñ€Ð¾Ñ„Ð¸Ð»Ñ Ð´Ð¾Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾Ð¹ ÑÐ»ÑƒÐ¶Ð±Ñ‹ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸";
+$MESS["SALE_DLVRS_ADDP_MAIN_TYPE"] = "Ð¢Ð¸Ð¿ ÑÐµÑ€Ð²Ð¸ÑÐ°";
+$MESS["SALE_DLVRS_ADDP_MAIN_DESC"] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ ÑÐµÑ€Ð²Ð¸ÑÐ°";
+$MESS["SALE_DLVRS_ADDP_Y"] = "Ð”Ð°";
+$MESS["SALE_DLVRS_ADDP_N"] = "ÐÐµÑ‚";

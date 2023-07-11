@@ -1,4 +1,4 @@
 <?
-$MESS["SONET_LOG_EXTRANET_SUFFIX"] = " (ýêñòðàíåò)";
-$MESS["SONET_C73_CREATED_BY_ANONYMOUS"] = "Íåàâòîðèçîâàííûé ïîëüçîâàòåëü";
+$MESS["SONET_LOG_EXTRANET_SUFFIX"] = " (ÑÐºÑÑ‚Ñ€Ð°Ð½ÐµÑ‚)";
+$MESS["SONET_C73_CREATED_BY_ANONYMOUS"] = "ÐÐµÐ°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·Ð¾Ð²Ð°Ð½Ð½Ñ‹Ð¹ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ";
 ?>

@@ -1,20 +1,20 @@
 <?
-$MESS["CAT_DISC_CONVERT_IN_PROGRESS"] = "Индексация...";
-$MESS["CAT_DISC_CONVERT_TOTAL"] = "Проиндексировано скидок: <b>#COUNT#</b> (#PERCENT#%, примерно #TIME#)";
-$MESS["CAT_DISC_CONVERT_TOTAL_MIN"] = "#MIN# минут";
-$MESS["CAT_DISC_CONVERT_TOTAL_SEC"] = "#SEC# секунд";
-$MESS["CAT_DISC_CONVERT_COMPLETE"] = "Индексация завершена";
-$MESS["CAT_DISC_CONVERT_RESULT"] = "Проиндексировано скидок: <b>#COUNT#</b>";
-$MESS["CAT_DISC_CONVERT_ERR"] = "В процессе индексации были найдены ошибки:";
-$MESS["CAT_DISC_CONVERT_ONE_ERROR"] = "Скидка <a href=\"#LINK#\" target=\"_blank\">#NAME#</a><br>#MESS#";
-$MESS["CAT_DISC_CONVERT_ERROR_RESUME"] = "Необходимо исправить условия применения этих скидок";
-$MESS["CAT_DISC_CONVERT_TITLE"] = "Индексация скидок";
-$MESS["CAT_DISC_CONVERT_TAB"] = "Индексация";
-$MESS["CAT_DISC_CONVERT_TAB_TITLE"] = "Параметры индексации";
-$MESS["ICAT_DISC_CONVERT_COMPLETE_ALL_OK"] = "Все скидки уже проиндексированы";
-$MESS["CAT_DISC_CONVERT_STEP"] = "Максимальное время индексации за один шаг:";
-$MESS["CAT_DISC_CONVERT_STEP_SEC"] = "секунд";
-$MESS["CAT_DISC_CONVERT_BUTTON"] = "Начать индексацию";
-$MESS["CAT_DISC_CONVERT_STOP"] = "Остановить";
-$MESS["CAT_DISC_FATAL_ERR"] = "Невозможно создать временную таблицу";
+$MESS["CAT_DISC_CONVERT_IN_PROGRESS"] = "РРЅРґРµРєСЃР°С†РёСЏ...";
+$MESS["CAT_DISC_CONVERT_TOTAL"] = "РџСЂРѕРёРЅРґРµРєСЃРёСЂРѕРІР°РЅРѕ СЃРєРёРґРѕРє: <b>#COUNT#</b> (#PERCENT#%, РїСЂРёРјРµСЂРЅРѕ #TIME#)";
+$MESS["CAT_DISC_CONVERT_TOTAL_MIN"] = "#MIN# РјРёРЅСѓС‚";
+$MESS["CAT_DISC_CONVERT_TOTAL_SEC"] = "#SEC# СЃРµРєСѓРЅРґ";
+$MESS["CAT_DISC_CONVERT_COMPLETE"] = "РРЅРґРµРєСЃР°С†РёСЏ Р·Р°РІРµСЂС€РµРЅР°";
+$MESS["CAT_DISC_CONVERT_RESULT"] = "РџСЂРѕРёРЅРґРµРєСЃРёСЂРѕРІР°РЅРѕ СЃРєРёРґРѕРє: <b>#COUNT#</b>";
+$MESS["CAT_DISC_CONVERT_ERR"] = "Р’ РїСЂРѕС†РµСЃСЃРµ РёРЅРґРµРєСЃР°С†РёРё Р±С‹Р»Рё РЅР°Р№РґРµРЅС‹ РѕС€РёР±РєРё:";
+$MESS["CAT_DISC_CONVERT_ONE_ERROR"] = "РЎРєРёРґРєР° <a href=\"#LINK#\" target=\"_blank\">#NAME#</a><br>#MESS#";
+$MESS["CAT_DISC_CONVERT_ERROR_RESUME"] = "РќРµРѕР±С…РѕРґРёРјРѕ РёСЃРїСЂР°РІРёС‚СЊ СѓСЃР»РѕРІРёСЏ РїСЂРёРјРµРЅРµРЅРёСЏ СЌС‚РёС… СЃРєРёРґРѕРє";
+$MESS["CAT_DISC_CONVERT_TITLE"] = "РРЅРґРµРєСЃР°С†РёСЏ СЃРєРёРґРѕРє";
+$MESS["CAT_DISC_CONVERT_TAB"] = "РРЅРґРµРєСЃР°С†РёСЏ";
+$MESS["CAT_DISC_CONVERT_TAB_TITLE"] = "РџР°СЂР°РјРµС‚СЂС‹ РёРЅРґРµРєСЃР°С†РёРё";
+$MESS["ICAT_DISC_CONVERT_COMPLETE_ALL_OK"] = "Р’СЃРµ СЃРєРёРґРєРё СѓР¶Рµ РїСЂРѕРёРЅРґРµРєСЃРёСЂРѕРІР°РЅС‹";
+$MESS["CAT_DISC_CONVERT_STEP"] = "РњР°РєСЃРёРјР°Р»СЊРЅРѕРµ РІСЂРµРјСЏ РёРЅРґРµРєСЃР°С†РёРё Р·Р° РѕРґРёРЅ С€Р°Рі:";
+$MESS["CAT_DISC_CONVERT_STEP_SEC"] = "СЃРµРєСѓРЅРґ";
+$MESS["CAT_DISC_CONVERT_BUTTON"] = "РќР°С‡Р°С‚СЊ РёРЅРґРµРєСЃР°С†РёСЋ";
+$MESS["CAT_DISC_CONVERT_STOP"] = "РћСЃС‚Р°РЅРѕРІРёС‚СЊ";
+$MESS["CAT_DISC_FATAL_ERR"] = "РќРµРІРѕР·РјРѕР¶РЅРѕ СЃРѕР·РґР°С‚СЊ РІСЂРµРјРµРЅРЅСѓСЋ С‚Р°Р±Р»РёС†Сѓ";
 ?>

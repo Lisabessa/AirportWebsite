@@ -1,3 +1,3 @@
 <?
-$MESS ['DEMO_EXAMPLES_MENU'] = "Òèïîâûå ïðèìåðû";
+$MESS ['DEMO_EXAMPLES_MENU'] = "Ð¢Ð¸Ð¿Ð¾Ð²Ñ‹Ðµ Ð¿Ñ€Ð¸Ð¼ÐµÑ€Ñ‹";
 ?>

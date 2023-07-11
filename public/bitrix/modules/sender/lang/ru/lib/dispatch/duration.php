@@ -1,4 +1,4 @@
 <?
-$MESS["SENDER_DISPATCH_DURATION_LESS_HOUR"] = "ìåíåå 1 ÷àñà";
-$MESS["SENDER_DISPATCH_DURATION_MORE_3_DAYS"] = "áîëåå 3-õ äíåé";
+$MESS["SENDER_DISPATCH_DURATION_LESS_HOUR"] = "Ð¼ÐµÐ½ÐµÐµ 1 Ñ‡Ð°ÑÐ°";
+$MESS["SENDER_DISPATCH_DURATION_MORE_3_DAYS"] = "Ð±Ð¾Ð»ÐµÐµ 3-Ñ… Ð´Ð½ÐµÐ¹";
 ?>

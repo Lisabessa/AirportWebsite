@@ -1,12 +1,12 @@
 <?php
-$MESS['LANDING_OPT_SITE_TEMPLATE_ID'] = 'Êîä øàáëîíà ëåíäèíãà';
-$MESS['LANDING_OPT_SITE_TEMPLATE_ID_SITES'] = 'Èíäèâèäóàëüíûå øàáëîíû äëÿ ñàéòîâ';
-$MESS['LANDING_OPT_DELETED_LIFETIME_DAYS'] = 'Ñêîëüêî äíåé õðàíèòü óäàëåííûå ýëåìåíòû';
-$MESS['LANDING_OPT_PORTAL_URL'] = 'Àäðåñ ïîðòàëà äëÿ ïóáëèêàöèè';
-$MESS['LANDING_OPT_GOOGLE_IMAGES_KEY'] = 'Êëþ÷ API äëÿ Google Images';
-$MESS['LANDING_OPT_PUB_PATH_HEADER'] = 'Ïóòè ê ïóáëèêàöèè îòíîñèòåëüíî êîðíÿ ñàéòà';
-$MESS['LANDING_OPT_PUB_PATH_HELP'] = 'Îáðàòèòå âíèìàíèå, ïî óêàçàííîìó ïóòè íå äîëæíî áûòü ôàéëà. Ñèñòåìà ñàìà ñîçäàñò åãî ïðè ïåðâîé ïóáëèêàöèè è íàñòðîèò ïðàâèëà îáðàáîòêè.';
-$MESS['LANDING_OPT_OTHER'] = 'Ïðî÷èå íàñòðîéêè';
-$MESS['LANDING_OPT_RIGHTS_EXTENDED_MODE'] = 'Ðàñøèðåííûé ðåæèì ïðàâ';
-$MESS['LANDING_OPT_PUBLIC_HOOK_ON_SAVE'] = 'Àâòîìàòè÷åñêè ïåðåîïóáëèêîâûâàòü ñàéòû è ñòðàíèöû ïðè ñîõðàíåíèè èõ èçìåíåííûõ íàñòðîåê';
-$MESS['LANDING_OPT_SOURCE_IBLOCKS'] = 'Èíôîáëîêè äëÿ èñòî÷íèêîâ';
+$MESS['LANDING_OPT_SITE_TEMPLATE_ID'] = 'ÐšÐ¾Ð´ ÑˆÐ°Ð±Ð»Ð¾Ð½Ð° Ð»ÐµÐ½Ð´Ð¸Ð½Ð³Ð°';
+$MESS['LANDING_OPT_SITE_TEMPLATE_ID_SITES'] = 'Ð˜Ð½Ð´Ð¸Ð²Ð¸Ð´ÑƒÐ°Ð»ÑŒÐ½Ñ‹Ðµ ÑˆÐ°Ð±Ð»Ð¾Ð½Ñ‹ Ð´Ð»Ñ ÑÐ°Ð¹Ñ‚Ð¾Ð²';
+$MESS['LANDING_OPT_DELETED_LIFETIME_DAYS'] = 'Ð¡ÐºÐ¾Ð»ÑŒÐºÐ¾ Ð´Ð½ÐµÐ¹ Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ ÑƒÐ´Ð°Ð»ÐµÐ½Ð½Ñ‹Ðµ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ñ‹';
+$MESS['LANDING_OPT_PORTAL_URL'] = 'ÐÐ´Ñ€ÐµÑ Ð¿Ð¾Ñ€Ñ‚Ð°Ð»Ð° Ð´Ð»Ñ Ð¿ÑƒÐ±Ð»Ð¸ÐºÐ°Ñ†Ð¸Ð¸';
+$MESS['LANDING_OPT_GOOGLE_IMAGES_KEY'] = 'ÐšÐ»ÑŽÑ‡ API Ð´Ð»Ñ Google Images';
+$MESS['LANDING_OPT_PUB_PATH_HEADER'] = 'ÐŸÑƒÑ‚Ð¸ Ðº Ð¿ÑƒÐ±Ð»Ð¸ÐºÐ°Ñ†Ð¸Ð¸ Ð¾Ñ‚Ð½Ð¾ÑÐ¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾ ÐºÐ¾Ñ€Ð½Ñ ÑÐ°Ð¹Ñ‚Ð°';
+$MESS['LANDING_OPT_PUB_PATH_HELP'] = 'ÐžÐ±Ñ€Ð°Ñ‚Ð¸Ñ‚Ðµ Ð²Ð½Ð¸Ð¼Ð°Ð½Ð¸Ðµ, Ð¿Ð¾ ÑƒÐºÐ°Ð·Ð°Ð½Ð½Ð¾Ð¼Ñƒ Ð¿ÑƒÑ‚Ð¸ Ð½Ðµ Ð´Ð¾Ð»Ð¶Ð½Ð¾ Ð±Ñ‹Ñ‚ÑŒ Ñ„Ð°Ð¹Ð»Ð°. Ð¡Ð¸ÑÑ‚ÐµÐ¼Ð° ÑÐ°Ð¼Ð° ÑÐ¾Ð·Ð´Ð°ÑÑ‚ ÐµÐ³Ð¾ Ð¿Ñ€Ð¸ Ð¿ÐµÑ€Ð²Ð¾Ð¹ Ð¿ÑƒÐ±Ð»Ð¸ÐºÐ°Ñ†Ð¸Ð¸ Ð¸ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¸Ñ‚ Ð¿Ñ€Ð°Ð²Ð¸Ð»Ð° Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ¸.';
+$MESS['LANDING_OPT_OTHER'] = 'ÐŸÑ€Ð¾Ñ‡Ð¸Ðµ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸';
+$MESS['LANDING_OPT_RIGHTS_EXTENDED_MODE'] = 'Ð Ð°ÑÑˆÐ¸Ñ€ÐµÐ½Ð½Ñ‹Ð¹ Ñ€ÐµÐ¶Ð¸Ð¼ Ð¿Ñ€Ð°Ð²';
+$MESS['LANDING_OPT_PUBLIC_HOOK_ON_SAVE'] = 'ÐÐ²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸ Ð¿ÐµÑ€ÐµÐ¾Ð¿ÑƒÐ±Ð»Ð¸ÐºÐ¾Ð²Ñ‹Ð²Ð°Ñ‚ÑŒ ÑÐ°Ð¹Ñ‚Ñ‹ Ð¸ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹ Ð¿Ñ€Ð¸ ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð¸Ð¸ Ð¸Ñ… Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð½Ñ‹Ñ… Ð½Ð°ÑÑ‚Ñ€Ð¾ÐµÐº';
+$MESS['LANDING_OPT_SOURCE_IBLOCKS'] = 'Ð˜Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ¸ Ð´Ð»Ñ Ð¸ÑÑ‚Ð¾Ñ‡Ð½Ð¸ÐºÐ¾Ð²';

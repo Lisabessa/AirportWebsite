@@ -1,5 +1,5 @@
 <?
-$MESS ['SCALE_ACTION_RESULT_SUCCESS'] = "Óñïåøíî";
-$MESS ['SCALE_ACTION_RESULT_ERROR'] = "Îøèáêà";
-$MESS ['SCALE_ACTION_EXTRA_DB_EXIST'] = "Äàííîå äåéñòâèå íå ìîæåò áûòü âûïîëíåíî, òàê êàê ñóùåñòâóþò áàçû äàííûõ íå ñâÿçàííûå ñ ñàéòîì.";
+$MESS ['SCALE_ACTION_RESULT_SUCCESS'] = "Ð£ÑÐ¿ÐµÑˆÐ½Ð¾";
+$MESS ['SCALE_ACTION_RESULT_ERROR'] = "ÐžÑˆÐ¸Ð±ÐºÐ°";
+$MESS ['SCALE_ACTION_EXTRA_DB_EXIST'] = "Ð”Ð°Ð½Ð½Ð¾Ðµ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ðµ Ð½Ðµ Ð¼Ð¾Ð¶ÐµÑ‚ Ð±Ñ‹Ñ‚ÑŒ Ð²Ñ‹Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¾, Ñ‚Ð°Ðº ÐºÐ°Ðº ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÑŽÑ‚ Ð±Ð°Ð·Ñ‹ Ð´Ð°Ð½Ð½Ñ‹Ñ… Ð½Ðµ ÑÐ²ÑÐ·Ð°Ð½Ð½Ñ‹Ðµ Ñ ÑÐ°Ð¹Ñ‚Ð¾Ð¼.";
 ?>

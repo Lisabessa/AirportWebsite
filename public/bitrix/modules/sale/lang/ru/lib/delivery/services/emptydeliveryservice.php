@@ -1,3 +1,3 @@
 <?php
-$MESS["SALE_DLVR_HANDL_EMP_DLV_SRV_TITLE"] = "Áåç äîñòàâêè";
-$MESS["SALE_DLVR_HANDL_EMP_DLV_SRV_DESC"] = "Ñëóæáà äîñòàâêè \"Áåç äîñòàâêè\"";
+$MESS["SALE_DLVR_HANDL_EMP_DLV_SRV_TITLE"] = "Ð‘ÐµÐ· Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸";
+$MESS["SALE_DLVR_HANDL_EMP_DLV_SRV_DESC"] = "Ð¡Ð»ÑƒÐ¶Ð±Ð° Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸ \"Ð‘ÐµÐ· Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸\"";

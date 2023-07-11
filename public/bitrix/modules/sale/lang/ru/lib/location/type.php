@@ -1,7 +1,7 @@
 <?
-$MESS["SALE_LOCATION_TYPE_ENTITY_CODE_FIELD"] = "Ñèìâîëüíûé êîä";
-$MESS["SALE_LOCATION_TYPE_ENTITY_SORT_FIELD"] = "Ñîðòèðîâêà";
-$MESS["SALE_LOCATION_TYPE_ENTITY_DEPTH_LEVEL_FIELD"] = "Óðîâåíü âëîæåííîñòè";
-$MESS["SALE_LOCATION_TYPE_ENTITY_DISPLAY_SORT_FIELD"] = "Ïðèîðèòåò âûâîäà";
-$MESS["SALE_LOCATION_TYPE_ENTITY_CODE_FIELD_EXIST_ERROR"] = "Òèï ìåñòîïîëîæåíèé ñ äàííûì ñèìâîëüíûì êîäîì óæå ñóùåñòâóåò";
+$MESS["SALE_LOCATION_TYPE_ENTITY_CODE_FIELD"] = "Ð¡Ð¸Ð¼Ð²Ð¾Ð»ÑŒÐ½Ñ‹Ð¹ ÐºÐ¾Ð´";
+$MESS["SALE_LOCATION_TYPE_ENTITY_SORT_FIELD"] = "Ð¡Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²ÐºÐ°";
+$MESS["SALE_LOCATION_TYPE_ENTITY_DEPTH_LEVEL_FIELD"] = "Ð£Ñ€Ð¾Ð²ÐµÐ½ÑŒ Ð²Ð»Ð¾Ð¶ÐµÐ½Ð½Ð¾ÑÑ‚Ð¸";
+$MESS["SALE_LOCATION_TYPE_ENTITY_DISPLAY_SORT_FIELD"] = "ÐŸÑ€Ð¸Ð¾Ñ€Ð¸Ñ‚ÐµÑ‚ Ð²Ñ‹Ð²Ð¾Ð´Ð°";
+$MESS["SALE_LOCATION_TYPE_ENTITY_CODE_FIELD_EXIST_ERROR"] = "Ð¢Ð¸Ð¿ Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹ Ñ Ð´Ð°Ð½Ð½Ñ‹Ð¼ ÑÐ¸Ð¼Ð²Ð¾Ð»ÑŒÐ½Ñ‹Ð¼ ÐºÐ¾Ð´Ð¾Ð¼ ÑƒÐ¶Ðµ ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÐµÑ‚";
 ?>

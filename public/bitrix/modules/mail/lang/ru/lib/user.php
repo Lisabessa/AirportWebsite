@@ -1,2 +1,2 @@
 <?
-$MESS["MAIL_USER_MESSAGE_FAILED"] = "Не удалось обработать письмо \"#TITLE#\"";
+$MESS["MAIL_USER_MESSAGE_FAILED"] = "РќРµ СѓРґР°Р»РѕСЃСЊ РѕР±СЂР°Р±РѕС‚Р°С‚СЊ РїРёСЃСЊРјРѕ \"#TITLE#\"";

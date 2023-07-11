@@ -1,4 +1,4 @@
 <?php
-$MESS['SALE_CASHBOX_YARUS_OFD_NAME'] = 'ÎÔÄ ßÐÓÑ';
-$MESS['SALE_CASHBOX_YARUS_SETTINGS_AUTH'] = 'Íàñòðîéêè àâòîðèçàöèè';
-$MESS['SALE_CASHBOX_YARUS_AUTH_KEY'] = 'Êëþ÷ áåçîïàñíîñòè';
+$MESS['SALE_CASHBOX_YARUS_OFD_NAME'] = 'ÐžÐ¤Ð” Ð¯Ð Ð£Ð¡';
+$MESS['SALE_CASHBOX_YARUS_SETTINGS_AUTH'] = 'ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·Ð°Ñ†Ð¸Ð¸';
+$MESS['SALE_CASHBOX_YARUS_AUTH_KEY'] = 'ÐšÐ»ÑŽÑ‡ Ð±ÐµÐ·Ð¾Ð¿Ð°ÑÐ½Ð¾ÑÑ‚Ð¸';

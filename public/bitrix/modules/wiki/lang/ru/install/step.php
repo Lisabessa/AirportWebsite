@@ -1,15 +1,15 @@
 <?
-$MESS["WIKI_CREATE_NEW_IBLOCK"] = "Ñîçäàòü èíôîðìàöèîííûé áëîê";
-$MESS["WIKI_CREATE_NEW_SOCNET_IBLOCK"] = "Ñîçäàòü èíôîðìàöèîííûé áëîê äëÿ ñîö. ñåòè";
-$MESS["WIKI_CREATE_NEW_IBLOCK_NAME"] = "Íàçâàíèå èíôîðìàöèîííîãî áëîêà";
-$MESS["WIKI_CREATE_NEW_SOCNET_IBLOCK_NAME"] = "Íàçâàíèå èíôîðìàöèîííîãî áëîêà äëÿ ñîö. ñåòè";
-$MESS["WIKI_CREATE_NEW_IBLOCK_TYPE"] = "Òèï èíôîðìàöèîííîãî áëîêà";
-$MESS["WIKI_CREATE_NEW_SOCNET_IBLOCK_TYPE"] = "Òèï èíôîðìàöèîííîãî áëîêà äëÿ ñîö. ñåòè";
-$MESS["WIKI_SELECT"] = "Âûáðàòü";
-$MESS["WIKI_CREATE"] = "Ñîçäàòü";
-$MESS["WIKI_ID"] = "Èäåíòèôèêàòîð";
-$MESS["WIKI_CREATE_NEW_FORUM"] = "Ñîçäàòü ôîðóì";
-$MESS["WIKI_CREATE_NEW_SOCNET_FORUM"] = "Ñîçäàòü ôîðóì äëÿ ñîö. ñåòè";
-$MESS["WIKI_CREATE_NEW_FORUM_NAME"] = "Íàçâàíèå ôîðóìà";
-$MESS["WIKI_CREATE_NEW_SOCNET_FORUM_NAME"] = "Íàçâàíèå ôîðóìà äëÿ ñîö. ñåòè";
+$MESS["WIKI_CREATE_NEW_IBLOCK"] = "Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ñ‹Ð¹ Ð±Ð»Ð¾Ðº";
+$MESS["WIKI_CREATE_NEW_SOCNET_IBLOCK"] = "Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ñ‹Ð¹ Ð±Ð»Ð¾Ðº Ð´Ð»Ñ ÑÐ¾Ñ†. ÑÐµÑ‚Ð¸";
+$MESS["WIKI_CREATE_NEW_IBLOCK_NAME"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð¾Ð³Ð¾ Ð±Ð»Ð¾ÐºÐ°";
+$MESS["WIKI_CREATE_NEW_SOCNET_IBLOCK_NAME"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð¾Ð³Ð¾ Ð±Ð»Ð¾ÐºÐ° Ð´Ð»Ñ ÑÐ¾Ñ†. ÑÐµÑ‚Ð¸";
+$MESS["WIKI_CREATE_NEW_IBLOCK_TYPE"] = "Ð¢Ð¸Ð¿ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð¾Ð³Ð¾ Ð±Ð»Ð¾ÐºÐ°";
+$MESS["WIKI_CREATE_NEW_SOCNET_IBLOCK_TYPE"] = "Ð¢Ð¸Ð¿ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð¾Ð³Ð¾ Ð±Ð»Ð¾ÐºÐ° Ð´Ð»Ñ ÑÐ¾Ñ†. ÑÐµÑ‚Ð¸";
+$MESS["WIKI_SELECT"] = "Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ";
+$MESS["WIKI_CREATE"] = "Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ";
+$MESS["WIKI_ID"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€";
+$MESS["WIKI_CREATE_NEW_FORUM"] = "Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ Ñ„Ð¾Ñ€ÑƒÐ¼";
+$MESS["WIKI_CREATE_NEW_SOCNET_FORUM"] = "Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ Ñ„Ð¾Ñ€ÑƒÐ¼ Ð´Ð»Ñ ÑÐ¾Ñ†. ÑÐµÑ‚Ð¸";
+$MESS["WIKI_CREATE_NEW_FORUM_NAME"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ñ„Ð¾Ñ€ÑƒÐ¼Ð°";
+$MESS["WIKI_CREATE_NEW_SOCNET_FORUM_NAME"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ñ„Ð¾Ñ€ÑƒÐ¼Ð° Ð´Ð»Ñ ÑÐ¾Ñ†. ÑÐµÑ‚Ð¸";
 ?>

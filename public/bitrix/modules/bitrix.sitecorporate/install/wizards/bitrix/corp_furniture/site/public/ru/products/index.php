@@ -1,6 +1,6 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Ïðîäóêöèÿ");
+$APPLICATION->SetTitle("ÐŸÑ€Ð¾Ð´ÑƒÐºÑ†Ð¸Ñ");
 ?><?$APPLICATION->IncludeComponent("bitrix:catalog", ".default", array(
 	"IBLOCK_TYPE" => "products",
 	"IBLOCK_ID" => "#PRODUCTS_IBLOCK_ID#",
@@ -63,7 +63,7 @@ $APPLICATION->SetTitle("Ïðîäóêöèÿ");
 	"LINK_ELEMENTS_URL" => "link.php?PARENT_ELEMENT_ID=#ELEMENT_ID#",
 	"DISPLAY_TOP_PAGER" => "N",
 	"DISPLAY_BOTTOM_PAGER" => "Y",
-	"PAGER_TITLE" => "Ïðîäóêöèÿ",
+	"PAGER_TITLE" => "ÐŸÑ€Ð¾Ð´ÑƒÐºÑ†Ð¸Ñ",
 	"PAGER_SHOW_ALWAYS" => "N",
 	"PAGER_TEMPLATE" => "arrows",
 	"PAGER_DESC_NUMBERING" => "N",

@@ -1,7 +1,7 @@
 <?
-$MESS ['FORUM_SHOW_ALL_FILTER'] = "Ïîêàçàòü âñå ôèëüòðû";
-$MESS ['FORUM_FILTER'] = "Ôèëüòð";
-$MESS ['FORUM_BUTTON_FILTER'] = "Ôèëüòð";
-$MESS ['FORUM_BUTTON_RESET'] = "Ñáðîñèòü";
+$MESS ['FORUM_SHOW_ALL_FILTER'] = "ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ Ð²ÑÐµ Ñ„Ð¸Ð»ÑŒÑ‚Ñ€Ñ‹";
+$MESS ['FORUM_FILTER'] = "Ð¤Ð¸Ð»ÑŒÑ‚Ñ€";
+$MESS ['FORUM_BUTTON_FILTER'] = "Ð¤Ð¸Ð»ÑŒÑ‚Ñ€";
+$MESS ['FORUM_BUTTON_RESET'] = "Ð¡Ð±Ñ€Ð¾ÑÐ¸Ñ‚ÑŒ";
 
 ?>

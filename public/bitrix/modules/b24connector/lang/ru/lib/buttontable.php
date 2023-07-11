@@ -1,7 +1,7 @@
 <?
-$MESS["B24C_BT_ENTITY_ID_FIELD"] = "Èäåíòèôèêàòîð";
-$MESS["B24C_BT_ENTITY_ID_FIELD"] = "Èäåíòèôèêàòîð ïðèâÿçàííîãî ïîðòàëà Áèòðèêñ24";
-$MESS["B24C_BT_ENTITY_ADD_DATE_FIELD"] = "Äàòà äîáàâëåíèÿ";
-$MESS["B24C_BT_ENTITY_ADD_BY_FIELD"] = "Êåì äîáàâëåíî";
-$MESS["B24C_BT_ENTITY_NAME_FIELD"] = "Íàèìåíîâàíèå";
-$MESS["B24C_BT_ENTITY_SCRIPT_FIELD"] = "Ñêðèïò";
+$MESS["B24C_BT_ENTITY_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€";
+$MESS["B24C_BT_ENTITY_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¿Ñ€Ð¸Ð²ÑÐ·Ð°Ð½Ð½Ð¾Ð³Ð¾ Ð¿Ð¾Ñ€Ñ‚Ð°Ð»Ð° Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ24";
+$MESS["B24C_BT_ENTITY_ADD_DATE_FIELD"] = "Ð”Ð°Ñ‚Ð° Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ñ";
+$MESS["B24C_BT_ENTITY_ADD_BY_FIELD"] = "ÐšÐµÐ¼ Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¾";
+$MESS["B24C_BT_ENTITY_NAME_FIELD"] = "ÐÐ°Ð¸Ð¼ÐµÐ½Ð¾Ð²Ð°Ð½Ð¸Ðµ";
+$MESS["B24C_BT_ENTITY_SCRIPT_FIELD"] = "Ð¡ÐºÑ€Ð¸Ð¿Ñ‚";

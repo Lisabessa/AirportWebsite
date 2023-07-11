@@ -1,5 +1,5 @@
 <?
-$MESS ['SOP_ERROR_ACCESS'] = "Îøèáêà äîñòóïà";
-$MESS ['SOP_ERROR_REPORT'] = "Íåîáõîäèìî âûáðàòü õîòÿ áû îäèí øàáëîí äîêóìåíòà äëÿ ïå÷àòè";
-$MESS ['SOP_ERROR_ORDER_NOT_FOUND'] = "Çàêàç íå íàéäåí";
-$MESS ['SOP_ERROR_SHIPMENT_NOT_FOUND'] = "Îòãðóçêà íå íàéäåíà";
+$MESS ['SOP_ERROR_ACCESS'] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð°";
+$MESS ['SOP_ERROR_REPORT'] = "ÐÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ð¾ Ð²Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ Ñ…Ð¾Ñ‚Ñ Ð±Ñ‹ Ð¾Ð´Ð¸Ð½ ÑˆÐ°Ð±Ð»Ð¾Ð½ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð° Ð´Ð»Ñ Ð¿ÐµÑ‡Ð°Ñ‚Ð¸";
+$MESS ['SOP_ERROR_ORDER_NOT_FOUND'] = "Ð—Ð°ÐºÐ°Ð· Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
+$MESS ['SOP_ERROR_SHIPMENT_NOT_FOUND'] = "ÐžÑ‚Ð³Ñ€ÑƒÐ·ÐºÐ° Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð°";

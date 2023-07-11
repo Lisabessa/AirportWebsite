@@ -1,7 +1,7 @@
 <?
 $MESS['UF_TWITTER'] = 'Twitter';
 $MESS['UF_SKYPE'] = 'Skype';
-$MESS['UF_KONTAKT'] = 'ÂÊîíòàêòå';
-$MESS['UF_MOYMIR'] = 'Ìîé Ìèð@MAIL.RU';
-$MESS['UF_MYYANDEX'] = 'ß.ðó';
+$MESS['UF_KONTAKT'] = 'Ð’ÐšÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ðµ';
+$MESS['UF_MOYMIR'] = 'ÐœÐ¾Ð¹ ÐœÐ¸Ñ€@MAIL.RU';
+$MESS['UF_MYYANDEX'] = 'Ð¯.Ñ€Ñƒ';
 ?>

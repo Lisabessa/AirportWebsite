@@ -1,11 +1,11 @@
 <?
-$MESS["VOTE_VOTE_NOT_FOUND"] = "Опрос #ID# не найден.";
-$MESS["VOTE_CHANNEL_ID_ERR"] = "Неверная группа опросов.";
-$MESS["VOTE_QUESTION_EMPTY"] = "Не указан текст вопроса.";
-$MESS["VOTE_ANSWERS_EMPTY"] = "В вопросе \"#QUESTION#\" нет ни одного ответа.";
-$MESS["VOTE_DENIED"] = "закрыт";
-$MESS["VOTE_READ"] = "смотреть результаты";
-$MESS["VOTE_WRITE"] = "принять участие";
-$MESS["VOTE_EDIT_MY_OWN"] = "изменить свой опрос";
-$MESS["VOTE_EDIT"] = "изменить опрос";
+$MESS["VOTE_VOTE_NOT_FOUND"] = "РћРїСЂРѕСЃ #ID# РЅРµ РЅР°Р№РґРµРЅ.";
+$MESS["VOTE_CHANNEL_ID_ERR"] = "РќРµРІРµСЂРЅР°СЏ РіСЂСѓРїРїР° РѕРїСЂРѕСЃРѕРІ.";
+$MESS["VOTE_QUESTION_EMPTY"] = "РќРµ СѓРєР°Р·Р°РЅ С‚РµРєСЃС‚ РІРѕРїСЂРѕСЃР°.";
+$MESS["VOTE_ANSWERS_EMPTY"] = "Р’ РІРѕРїСЂРѕСЃРµ \"#QUESTION#\" РЅРµС‚ РЅРё РѕРґРЅРѕРіРѕ РѕС‚РІРµС‚Р°.";
+$MESS["VOTE_DENIED"] = "Р·Р°РєСЂС‹С‚";
+$MESS["VOTE_READ"] = "СЃРјРѕС‚СЂРµС‚СЊ СЂРµР·СѓР»СЊС‚Р°С‚С‹";
+$MESS["VOTE_WRITE"] = "РїСЂРёРЅСЏС‚СЊ СѓС‡Р°СЃС‚РёРµ";
+$MESS["VOTE_EDIT_MY_OWN"] = "РёР·РјРµРЅРёС‚СЊ СЃРІРѕР№ РѕРїСЂРѕСЃ";
+$MESS["VOTE_EDIT"] = "РёР·РјРµРЅРёС‚СЊ РѕРїСЂРѕСЃ";
 ?>

@@ -1,3 +1,3 @@
 <?
-$MESS["SITEMAP_NAME_TITLE"] = "Íàçâàíèå";
+$MESS["SITEMAP_NAME_TITLE"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
 ?>

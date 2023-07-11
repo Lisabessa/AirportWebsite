@@ -1,8 +1,8 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Каталог ресурсов");
+$APPLICATION->SetTitle("РљР°С‚Р°Р»РѕРі СЂРµСЃСѓСЂСЃРѕРІ");
 ?>
-<h4><a href="<?=SITE_DIR?>information/links/my/?edit=Y" >Добавить свой сайт</a> | <a href="<?=SITE_DIR?>information/links/my/" >Мои сайты</a></h4>
+<h4><a href="<?=SITE_DIR?>information/links/my/?edit=Y" >Р”РѕР±Р°РІРёС‚СЊ СЃРІРѕР№ СЃР°Р№С‚</a> | <a href="<?=SITE_DIR?>information/links/my/" >РњРѕРё СЃР°Р№С‚С‹</a></h4>
  <?$APPLICATION->IncludeComponent("bitrix:catalog.section", "board", array(
 	"IBLOCK_TYPE" => "services",
 	"IBLOCK_ID" => "#LINKS_IBLOCK_ID#",
@@ -57,7 +57,7 @@ $APPLICATION->SetTitle("Каталог ресурсов");
 	"USE_PRODUCT_QUANTITY" => "N",
 	"DISPLAY_TOP_PAGER" => "N",
 	"DISPLAY_BOTTOM_PAGER" => "Y",
-	"PAGER_TITLE" => "Сайты",
+	"PAGER_TITLE" => "РЎР°Р№С‚С‹",
 	"PAGER_SHOW_ALWAYS" => "N",
 	"PAGER_TEMPLATE" => "",
 	"PAGER_DESC_NUMBERING" => "N",

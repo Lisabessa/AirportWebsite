@@ -1,6 +1,6 @@
 <?
-$MESS["round_nav_back"] = "Íàçàä";
-$MESS["round_nav_forward"] = "Âïåðåä";
-$MESS["round_nav_pages"] = "Ñòðàíèöû";
-$MESS["round_nav_all"] = "Âñå";
+$MESS["round_nav_back"] = "ÐÐ°Ð·Ð°Ð´";
+$MESS["round_nav_forward"] = "Ð’Ð¿ÐµÑ€ÐµÐ´";
+$MESS["round_nav_pages"] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹";
+$MESS["round_nav_all"] = "Ð’ÑÐµ";
 ?>

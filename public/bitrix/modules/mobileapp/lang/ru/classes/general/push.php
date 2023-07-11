@@ -1,4 +1,4 @@
 <?
-$MESS["MOBILEAPP_PUSH_TITLE"] = "Íàñòðîéêà ïóø-óâåäîìëåíèé";
-$MESS["MOBILEAPP_PUSH_SECTIONS"] = "Ðàçäåëû íàñòðîåê";
+$MESS["MOBILEAPP_PUSH_TITLE"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° Ð¿ÑƒÑˆ-ÑƒÐ²ÐµÐ´Ð¾Ð¼Ð»ÐµÐ½Ð¸Ð¹";
+$MESS["MOBILEAPP_PUSH_SECTIONS"] = "Ð Ð°Ð·Ð´ÐµÐ»Ñ‹ Ð½Ð°ÑÑ‚Ñ€Ð¾ÐµÐº";
 ?>

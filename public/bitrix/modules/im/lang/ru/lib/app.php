@@ -1,3 +1,3 @@
 <?
-$MESS["IM_APP_BOT_ANSWER"] = "×àò-áîò #BOT_NAME#";
+$MESS["IM_APP_BOT_ANSWER"] = "Ð§Ð°Ñ‚-Ð±Ð¾Ñ‚ #BOT_NAME#";
 ?>

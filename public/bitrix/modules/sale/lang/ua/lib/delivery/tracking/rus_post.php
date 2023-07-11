@@ -1,12 +1,12 @@
 <?
-$MESS["SALE_DELIVERY_TRACKING_RUS_POST_LOGIN"] = "Логін";
-$MESS["SALE_DELIVERY_TRACKING_RUS_POST_PASSWORD"] = "Пароль";
-$MESS["SALE_DELIVERY_TRACKING_RUS_POST_TITLE"] = "Укрпошта";
-$MESS["SALE_DELIVERY_TRACKING_RUS_POST_DESCRIPTION"] = "Система трекінгу на основі АПИ служби доставки #A1#\"Укрпошта\"#A2#</a>";
-$MESS["SALE_DELIVERY_TRACKING_RUS_POST_LOGIN_ERROR"] = "Не заданий логін в налаштуваннях служби доставки для відстеження відправлень Укрпошти";
-$MESS["SALE_DELIVERY_TRACKING_RUS_POST_PASSWORD_ERROR"] = "Не заданий пароль в налаштуваннях служби доставки для відстеження відправлень Укрпошти";
-$MESS["SALE_DELIVERY_TRACKING_RUS_POST_ERROR_TRNUM_FORMAT"] = "Ідентифікатор відправлення має невірний формат. Допустимі варіанти: - внутрішньо, що складається з 14 символів (цифровий); - міжнародний, що складається з 13 символів (буквено-цифровий) в форматі S10 (ББЦЦЦЦЦЦЦЦЦББ Б-буква, Ц-цифра).";
-$MESS["SALE_DELIVERY_TRACKING_RUS_POST_STATUS_DESCR"] = "Подробиці можна подивитися за посиланням";
-$MESS["SALE_DELIVERY_TRACKING_RUS_POST_ERROR_HTTP_STATUS"] = "Помилка http запиту. Статус відповіді";
-$MESS["SALE_DELIVERY_TRACKING_RUS_POST_ERROR_LAST_OP"] = "Помилка вилучення даних";
+$MESS["SALE_DELIVERY_TRACKING_RUS_POST_LOGIN"] = "Р›РѕРіС–РЅ";
+$MESS["SALE_DELIVERY_TRACKING_RUS_POST_PASSWORD"] = "РџР°СЂРѕР»СЊ";
+$MESS["SALE_DELIVERY_TRACKING_RUS_POST_TITLE"] = "РЈРєСЂРїРѕС€С‚Р°";
+$MESS["SALE_DELIVERY_TRACKING_RUS_POST_DESCRIPTION"] = "РЎРёСЃС‚РµРјР° С‚СЂРµРєС–РЅРіСѓ РЅР° РѕСЃРЅРѕРІС– РђРџР СЃР»СѓР¶Р±Рё РґРѕСЃС‚Р°РІРєРё #A1#\"РЈРєСЂРїРѕС€С‚Р°\"#A2#</a>";
+$MESS["SALE_DELIVERY_TRACKING_RUS_POST_LOGIN_ERROR"] = "РќРµ Р·Р°РґР°РЅРёР№ Р»РѕРіС–РЅ РІ РЅР°Р»Р°С€С‚СѓРІР°РЅРЅСЏС… СЃР»СѓР¶Р±Рё РґРѕСЃС‚Р°РІРєРё РґР»СЏ РІС–РґСЃС‚РµР¶РµРЅРЅСЏ РІС–РґРїСЂР°РІР»РµРЅСЊ РЈРєСЂРїРѕС€С‚Рё";
+$MESS["SALE_DELIVERY_TRACKING_RUS_POST_PASSWORD_ERROR"] = "РќРµ Р·Р°РґР°РЅРёР№ РїР°СЂРѕР»СЊ РІ РЅР°Р»Р°С€С‚СѓРІР°РЅРЅСЏС… СЃР»СѓР¶Р±Рё РґРѕСЃС‚Р°РІРєРё РґР»СЏ РІС–РґСЃС‚РµР¶РµРЅРЅСЏ РІС–РґРїСЂР°РІР»РµРЅСЊ РЈРєСЂРїРѕС€С‚Рё";
+$MESS["SALE_DELIVERY_TRACKING_RUS_POST_ERROR_TRNUM_FORMAT"] = "Р†РґРµРЅС‚РёС„С–РєР°С‚РѕСЂ РІС–РґРїСЂР°РІР»РµРЅРЅСЏ РјР°С” РЅРµРІС–СЂРЅРёР№ С„РѕСЂРјР°С‚. Р”РѕРїСѓСЃС‚РёРјС– РІР°СЂС–Р°РЅС‚Рё: - РІРЅСѓС‚СЂС–С€РЅСЊРѕ, С‰Рѕ СЃРєР»Р°РґР°С”С‚СЊСЃСЏ Р· 14 СЃРёРјРІРѕР»С–РІ (С†РёС„СЂРѕРІРёР№); - РјС–Р¶РЅР°СЂРѕРґРЅРёР№, С‰Рѕ СЃРєР»Р°РґР°С”С‚СЊСЃСЏ Р· 13 СЃРёРјРІРѕР»С–РІ (Р±СѓРєРІРµРЅРѕ-С†РёС„СЂРѕРІРёР№) РІ С„РѕСЂРјР°С‚С– S10 (Р‘Р‘Р¦Р¦Р¦Р¦Р¦Р¦Р¦Р¦Р¦Р‘Р‘ Р‘-Р±СѓРєРІР°, Р¦-С†РёС„СЂР°).";
+$MESS["SALE_DELIVERY_TRACKING_RUS_POST_STATUS_DESCR"] = "РџРѕРґСЂРѕР±РёС†С– РјРѕР¶РЅР° РїРѕРґРёРІРёС‚РёСЃСЏ Р·Р° РїРѕСЃРёР»Р°РЅРЅСЏРј";
+$MESS["SALE_DELIVERY_TRACKING_RUS_POST_ERROR_HTTP_STATUS"] = "РџРѕРјРёР»РєР° http Р·Р°РїРёС‚Сѓ. РЎС‚Р°С‚СѓСЃ РІС–РґРїРѕРІС–РґС–";
+$MESS["SALE_DELIVERY_TRACKING_RUS_POST_ERROR_LAST_OP"] = "РџРѕРјРёР»РєР° РІРёР»СѓС‡РµРЅРЅСЏ РґР°РЅРёС…";
 ?>

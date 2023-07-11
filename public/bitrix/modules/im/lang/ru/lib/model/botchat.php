@@ -1,5 +1,5 @@
 <?
-$MESS["BOT_CHAT_ENTITY_ID_FIELD"] = "Óíèêàëüíûé èäåíòèôèêàòîð";
-$MESS["BOT_CHAT_ENTITY_BOT_ID_FIELD"] = "Èäåíòèôèêàòîð ïîëüçîâàòåëÿ áîòà";
-$MESS["BOT_CHAT_ENTITY_CHAT_ID_FIELD"] = "Èäåíòèôèêàòîð ÷àòà";
+$MESS["BOT_CHAT_ENTITY_ID_FIELD"] = "Ð£Ð½Ð¸ÐºÐ°Ð»ÑŒÐ½Ñ‹Ð¹ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€";
+$MESS["BOT_CHAT_ENTITY_BOT_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ Ð±Ð¾Ñ‚Ð°";
+$MESS["BOT_CHAT_ENTITY_CHAT_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ñ‡Ð°Ñ‚Ð°";
 ?>

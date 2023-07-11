@@ -1,9 +1,9 @@
 <?php
-$MESS['LANDING_HOOK_VIEW_NAME'] = 'Òèï ïðåäñòàâëåíèÿ';
-$MESS['LANDING_HOOK_VIEW_USE'] = 'Èíäèâèäóàëüíîå ïðåäñòàâëåíèå ñòðàíèöû';
-$MESS['LANDING_HOOK_VIEW_TYPE'] = 'Òèï';
-$MESS['LANDING_HOOK_VIEW_TYPE_NO'] = 'Áåç îòñòóïîâ';
-$MESS['LANDING_HOOK_VIEW_TYPE_LTR'] = 'Îòñòóï ââåðõó è ïî áîêàì';
-$MESS['LANDING_HOOK_VIEW_TYPE_ALL'] = 'Îòñòóïû ñî âñåõ ñòîðîí';
-$MESS['LANDING_HOOK_VIEW_TYPE_MOBILE'] = 'Äëÿ ìîáèëüíûõ óñòðîéñòâ';
-$MESS['LANDING_HOOK_VIEW_TYPE_ADAPTIVE'] = 'Àäàïòèâíûé êîíòåéíåð';
+$MESS['LANDING_HOOK_VIEW_NAME'] = 'Ð¢Ð¸Ð¿ Ð¿Ñ€ÐµÐ´ÑÑ‚Ð°Ð²Ð»ÐµÐ½Ð¸Ñ';
+$MESS['LANDING_HOOK_VIEW_USE'] = 'Ð˜Ð½Ð´Ð¸Ð²Ð¸Ð´ÑƒÐ°Ð»ÑŒÐ½Ð¾Ðµ Ð¿Ñ€ÐµÐ´ÑÑ‚Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹';
+$MESS['LANDING_HOOK_VIEW_TYPE'] = 'Ð¢Ð¸Ð¿';
+$MESS['LANDING_HOOK_VIEW_TYPE_NO'] = 'Ð‘ÐµÐ· Ð¾Ñ‚ÑÑ‚ÑƒÐ¿Ð¾Ð²';
+$MESS['LANDING_HOOK_VIEW_TYPE_LTR'] = 'ÐžÑ‚ÑÑ‚ÑƒÐ¿ Ð²Ð²ÐµÑ€Ñ…Ñƒ Ð¸ Ð¿Ð¾ Ð±Ð¾ÐºÐ°Ð¼';
+$MESS['LANDING_HOOK_VIEW_TYPE_ALL'] = 'ÐžÑ‚ÑÑ‚ÑƒÐ¿Ñ‹ ÑÐ¾ Ð²ÑÐµÑ… ÑÑ‚Ð¾Ñ€Ð¾Ð½';
+$MESS['LANDING_HOOK_VIEW_TYPE_MOBILE'] = 'Ð”Ð»Ñ Ð¼Ð¾Ð±Ð¸Ð»ÑŒÐ½Ñ‹Ñ… ÑƒÑÑ‚Ñ€Ð¾Ð¹ÑÑ‚Ð²';
+$MESS['LANDING_HOOK_VIEW_TYPE_ADAPTIVE'] = 'ÐÐ´Ð°Ð¿Ñ‚Ð¸Ð²Ð½Ñ‹Ð¹ ÐºÐ¾Ð½Ñ‚ÐµÐ¹Ð½ÐµÑ€';

@@ -1,9 +1,9 @@
 <?
-$MESS["interface_grid_theme_grey"] = "Ñåðàÿ";
-$MESS["interface_grid_theme_blue"] = "Ñèíÿÿ";
-$MESS["interface_grid_theme_brown"] = "Êîðè÷íåâàÿ";
-$MESS["interface_grid_theme_green"] = "Çåëåíàÿ";
-$MESS["interface_grid_theme_lightblue"] = "Ãîëóáàÿ";
-$MESS["interface_grid_theme_red"] = "Êðàñíàÿ";
-$MESS["interface_grid_theme_lightgrey"] = "Ñâåòëî-ñåðàÿ";
+$MESS["interface_grid_theme_grey"] = "Ð¡ÐµÑ€Ð°Ñ";
+$MESS["interface_grid_theme_blue"] = "Ð¡Ð¸Ð½ÑÑ";
+$MESS["interface_grid_theme_brown"] = "ÐšÐ¾Ñ€Ð¸Ñ‡Ð½ÐµÐ²Ð°Ñ";
+$MESS["interface_grid_theme_green"] = "Ð—ÐµÐ»ÐµÐ½Ð°Ñ";
+$MESS["interface_grid_theme_lightblue"] = "Ð“Ð¾Ð»ÑƒÐ±Ð°Ñ";
+$MESS["interface_grid_theme_red"] = "ÐšÑ€Ð°ÑÐ½Ð°Ñ";
+$MESS["interface_grid_theme_lightgrey"] = "Ð¡Ð²ÐµÑ‚Ð»Ð¾-ÑÐµÑ€Ð°Ñ";
 ?>

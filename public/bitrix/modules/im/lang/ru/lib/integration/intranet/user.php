@@ -1,13 +1,13 @@
 <?
-$MESS["IM_INT_USR_LINK_COPIED"] = "#USER_NAME# ñêîïèðîâàë ññûëêó íà ïðèãëàøåíèå íîâûõ ñîòðóäíèêîâ.";
-$MESS["IM_INT_USR_LINK_COPIED_F"] = "#USER_NAME# ñêîïèðîâàëà ññûëêó íà ïðèãëàøåíèå íîâûõ ñîòðóäíèêîâ.";
-$MESS["IM_INT_USR_INVITE_USERS"] = "#USER_NAME# îòïðàâèë ïðèãëàøåíèå #USERS#.";
-$MESS["IM_INT_USR_INVITE_USERS_F"] = "#USER_NAME# îòïðàâèëà ïðèãëàøåíèå #USERS#.";
-$MESS["IM_INT_USR_REGISTER_USERS"] = "#USER_NAME# çàðåãèñòðèðîâàë #USERS#.";
-$MESS["IM_INT_USR_SET_ADMIN_RIGTHS_M"] = "#USER_NAME# äîáàâèë ïðàâà àäìèíèñòðàòîðà äëÿ #USERS#.";
-$MESS["IM_INT_USR_SET_ADMIN_RIGTHS_F"] = "#USER_NAME# äîáàâèëà ïðàâà àäìèíèñòðàòîðà äëÿ #USERS#.";
-$MESS["IM_INT_USR_REMOVE_ADMIN_RIGTHS_M"] = "#USER_NAME# èñêëþ÷èë ïðàâà àäìèíèñòðàòîðà äëÿ #USERS#.";
-$MESS["IM_INT_USR_REMOVE_ADMIN_RIGTHS_F"] = "#USER_NAME# èñêëþ÷èëà ïðàâà àäìèíèñòðàòîðà äëÿ #USERS#.";
-$MESS["IM_INT_USR_REGISTER_USERS_F"] = "#USER_NAME# çàðåãèñòðèðîâàëà #USERS#.";
-$MESS["IM_INT_USR_JOIN_2"] = "ß ñ âàìè â êîìàíäå!";
-$MESS["IM_INT_USR_JOIN_GENERAL_2"] = "ß ñ âàìè â êîìàíäå!";
+$MESS["IM_INT_USR_LINK_COPIED"] = "#USER_NAME# ÑÐºÐ¾Ð¿Ð¸Ñ€Ð¾Ð²Ð°Ð» ÑÑÑ‹Ð»ÐºÑƒ Ð½Ð° Ð¿Ñ€Ð¸Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ðµ Ð½Ð¾Ð²Ñ‹Ñ… ÑÐ¾Ñ‚Ñ€ÑƒÐ´Ð½Ð¸ÐºÐ¾Ð².";
+$MESS["IM_INT_USR_LINK_COPIED_F"] = "#USER_NAME# ÑÐºÐ¾Ð¿Ð¸Ñ€Ð¾Ð²Ð°Ð»Ð° ÑÑÑ‹Ð»ÐºÑƒ Ð½Ð° Ð¿Ñ€Ð¸Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ðµ Ð½Ð¾Ð²Ñ‹Ñ… ÑÐ¾Ñ‚Ñ€ÑƒÐ´Ð½Ð¸ÐºÐ¾Ð².";
+$MESS["IM_INT_USR_INVITE_USERS"] = "#USER_NAME# Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ð» Ð¿Ñ€Ð¸Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ðµ #USERS#.";
+$MESS["IM_INT_USR_INVITE_USERS_F"] = "#USER_NAME# Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ð»Ð° Ð¿Ñ€Ð¸Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ðµ #USERS#.";
+$MESS["IM_INT_USR_REGISTER_USERS"] = "#USER_NAME# Ð·Ð°Ñ€ÐµÐ³Ð¸ÑÑ‚Ñ€Ð¸Ñ€Ð¾Ð²Ð°Ð» #USERS#.";
+$MESS["IM_INT_USR_SET_ADMIN_RIGTHS_M"] = "#USER_NAME# Ð´Ð¾Ð±Ð°Ð²Ð¸Ð» Ð¿Ñ€Ð°Ð²Ð° Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¾Ñ€Ð° Ð´Ð»Ñ #USERS#.";
+$MESS["IM_INT_USR_SET_ADMIN_RIGTHS_F"] = "#USER_NAME# Ð´Ð¾Ð±Ð°Ð²Ð¸Ð»Ð° Ð¿Ñ€Ð°Ð²Ð° Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¾Ñ€Ð° Ð´Ð»Ñ #USERS#.";
+$MESS["IM_INT_USR_REMOVE_ADMIN_RIGTHS_M"] = "#USER_NAME# Ð¸ÑÐºÐ»ÑŽÑ‡Ð¸Ð» Ð¿Ñ€Ð°Ð²Ð° Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¾Ñ€Ð° Ð´Ð»Ñ #USERS#.";
+$MESS["IM_INT_USR_REMOVE_ADMIN_RIGTHS_F"] = "#USER_NAME# Ð¸ÑÐºÐ»ÑŽÑ‡Ð¸Ð»Ð° Ð¿Ñ€Ð°Ð²Ð° Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¾Ñ€Ð° Ð´Ð»Ñ #USERS#.";
+$MESS["IM_INT_USR_REGISTER_USERS_F"] = "#USER_NAME# Ð·Ð°Ñ€ÐµÐ³Ð¸ÑÑ‚Ñ€Ð¸Ñ€Ð¾Ð²Ð°Ð»Ð° #USERS#.";
+$MESS["IM_INT_USR_JOIN_2"] = "Ð¯ Ñ Ð²Ð°Ð¼Ð¸ Ð² ÐºÐ¾Ð¼Ð°Ð½Ð´Ðµ!";
+$MESS["IM_INT_USR_JOIN_GENERAL_2"] = "Ð¯ Ñ Ð²Ð°Ð¼Ð¸ Ð² ÐºÐ¾Ð¼Ð°Ð½Ð´Ðµ!";

@@ -1,14 +1,14 @@
 <?
-$MESS["ROUNDING_ENTITY_ID_FIELD"] = "Èäåíòèôèêàòîð ïðàâèëà îêðóãëåíèÿ";
-$MESS["ROUNDING_ENTITY_CURRENCY_FIELD"] = "Âàëþòà";
-$MESS["ROUNDING_ENTITY_PRICE_FIELD"] = "Ìèíèìàëüíàÿ öåíà";
-$MESS["ROUNDING_ENTITY_ROUND_TYPE_FIELD"] = "Òèï îêðóãëåíèÿ";
-$MESS["ROUNDING_ENTITY_ROUND_PRECISION_FIELD"] = "Òî÷íîñòü";
-$MESS["ROUNDING_ENTITY_CREATED_BY_FIELD"] = "Êåì ñîçäàíî";
-$MESS["ROUNDING_ENTITY_DATE_CREATE_FIELD"] = "Äàòà ñîçäàíèÿ";
-$MESS["ROUNDING_ENTITY_MODIFIED_BY_FIELD"] = "Êåì èçìåíåíî";
-$MESS["ROUNDING_ENTITY_TIMESTAMP_X_FIELD"] = "Äàòà èçìåíåíèÿ";
-$MESS["ROUNDING_TYPE_ROUND_MATH"] = "Ìàòåìàòè÷åñêîå";
-$MESS["ROUNDING_TYPE_ROUND_UP"] = "Â ïîëüçó ìàãàçèíà";
-$MESS["ROUNDING_TYPE_ROUND_DOWN"] = "Â ïîëüçó êëèåíòà";
+$MESS["ROUNDING_ENTITY_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¿Ñ€Ð°Ð²Ð¸Ð»Ð° Ð¾ÐºÑ€ÑƒÐ³Ð»ÐµÐ½Ð¸Ñ";
+$MESS["ROUNDING_ENTITY_CURRENCY_FIELD"] = "Ð’Ð°Ð»ÑŽÑ‚Ð°";
+$MESS["ROUNDING_ENTITY_PRICE_FIELD"] = "ÐœÐ¸Ð½Ð¸Ð¼Ð°Ð»ÑŒÐ½Ð°Ñ Ñ†ÐµÐ½Ð°";
+$MESS["ROUNDING_ENTITY_ROUND_TYPE_FIELD"] = "Ð¢Ð¸Ð¿ Ð¾ÐºÑ€ÑƒÐ³Ð»ÐµÐ½Ð¸Ñ";
+$MESS["ROUNDING_ENTITY_ROUND_PRECISION_FIELD"] = "Ð¢Ð¾Ñ‡Ð½Ð¾ÑÑ‚ÑŒ";
+$MESS["ROUNDING_ENTITY_CREATED_BY_FIELD"] = "ÐšÐµÐ¼ ÑÐ¾Ð·Ð´Ð°Ð½Ð¾";
+$MESS["ROUNDING_ENTITY_DATE_CREATE_FIELD"] = "Ð”Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ";
+$MESS["ROUNDING_ENTITY_MODIFIED_BY_FIELD"] = "ÐšÐµÐ¼ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¾";
+$MESS["ROUNDING_ENTITY_TIMESTAMP_X_FIELD"] = "Ð”Ð°Ñ‚Ð° Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ";
+$MESS["ROUNDING_TYPE_ROUND_MATH"] = "ÐœÐ°Ñ‚ÐµÐ¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¾Ðµ";
+$MESS["ROUNDING_TYPE_ROUND_UP"] = "Ð’ Ð¿Ð¾Ð»ÑŒÐ·Ñƒ Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ð°";
+$MESS["ROUNDING_TYPE_ROUND_DOWN"] = "Ð’ Ð¿Ð¾Ð»ÑŒÐ·Ñƒ ÐºÐ»Ð¸ÐµÐ½Ñ‚Ð°";
 ?>

@@ -1,3 +1,3 @@
 <?php
-$MESS["SALE_HANDLERS_DISCOUNTPRESET_FREEDELIVERY_NAME"] = "Áåñïëàòíàÿ äîñòàâêà";
+$MESS["SALE_HANDLERS_DISCOUNTPRESET_FREEDELIVERY_NAME"] = "Ð‘ÐµÑÐ¿Ð»Ð°Ñ‚Ð½Ð°Ñ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ°";
 ?>

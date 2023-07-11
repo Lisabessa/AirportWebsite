@@ -10,5 +10,5 @@ $MESS["DELIVERY_EXTRA_SERVICES_ENTITY_DELIVERY_ID_FIELD"] = "ID des Lieferservic
 $MESS["DELIVERY_EXTRA_SERVICES_ENTITY_INITIAL_FIELD"] = "Standardwert";
 $MESS["DELIVERY_EXTRA_SERVICES_ENTITY_ACTIVE_FIELD"] = "Aktiv";
 $MESS["DELIVERY_EXTRA_SERVICES_ENTITY_SORT_FIELD"] = "Sortierung";
-$MESS["DELIVERY_EXTRA_SERVICES_ENTITY_ERROR_DELETE"] = "Der extra Service mit ID \"#ID#\" kann nicht gelöscht werden, weil er in den Bestellungen verwendet wird.";
+$MESS["DELIVERY_EXTRA_SERVICES_ENTITY_ERROR_DELETE"] = "Der extra Service mit ID \"#ID#\" kann nicht gelÃ¶scht werden, weil er in den Bestellungen verwendet wird.";
 ?>

@@ -1,4 +1,4 @@
 <?
-$MESS["MAIN_UI_SELECTOR_TITLE_MAILCONTACTS"] = "Контакты из адресной книги:";
-$MESS["MAIN_UI_SELECTOR_TAB_MAILCONTACTS"] = "Контакты из адресной книги";
-$MESS["MAIN_UI_SELECTOR_TAB_MAILCONTACTS2"] = "Контакты из адресной книги";
+$MESS["MAIN_UI_SELECTOR_TITLE_MAILCONTACTS"] = "РљРѕРЅС‚Р°РєС‚С‹ РёР· Р°РґСЂРµСЃРЅРѕР№ РєРЅРёРіРё:";
+$MESS["MAIN_UI_SELECTOR_TAB_MAILCONTACTS"] = "РљРѕРЅС‚Р°РєС‚С‹ РёР· Р°РґСЂРµСЃРЅРѕР№ РєРЅРёРіРё";
+$MESS["MAIN_UI_SELECTOR_TAB_MAILCONTACTS2"] = "РљРѕРЅС‚Р°РєС‚С‹ РёР· Р°РґСЂРµСЃРЅРѕР№ РєРЅРёРіРё";

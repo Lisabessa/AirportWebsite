@@ -1,12 +1,12 @@
 <?
-$MESS ['MAIN_WIZARD_IMPORT_ERROR'] = "Îøèáêà èìïîðòà ìàñòåðà";
-$MESS ['MAIN_WIZARD_LOAD_ERROR_LOAD'] = "Âûáåðèòå ôàéë äëÿ çàãðóçêè";
-$MESS ['MAIN_WIZARD_LOAD_ERROR_ID'] = "Ââåäèòå èäåíòèôèêàòîð ìàñòåðà";
-$MESS ['MAIN_WIZARD_LOAD_ERROR_EX'] = "Ìàñòåð #WIZARD_NAME# óæå ñóùåñòâóåò.";
-$MESS ['MAIN_WIZARD_LOAD_OK'] = "Ìàñòåð óñïåøíî çàãðóæåí.";
-$MESS ['MAIN_WIZARD_LOAD_TITLE'] = "Èìïîðò ìàñòåðà";
-$MESS ['MAIN_WIZARD_LOAD_FILE'] = "Ôàéë ñ ìàñòåðîì äëÿ çàãðóçêè (*.gz)";
-$MESS ['MAIN_WIZARD_TAR_GZ'] = "Âûáðàííûé ôàéë íå ÿâëÿåòñÿ àðõèâîì";
-$MESS ['MAIN_WIZARD_LOAD_SUBMIT'] = "Çàãðóçèòü";
-$MESS ['MAIN_WIZARD_LOAD_LINK_LIST'] = "Ñïèñîê ìàñòåðîâ";
+$MESS ['MAIN_WIZARD_IMPORT_ERROR'] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¸Ð¼Ð¿Ð¾Ñ€Ñ‚Ð° Ð¼Ð°ÑÑ‚ÐµÑ€Ð°";
+$MESS ['MAIN_WIZARD_LOAD_ERROR_LOAD'] = "Ð’Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ Ñ„Ð°Ð¹Ð» Ð´Ð»Ñ Ð·Ð°Ð³Ñ€ÑƒÐ·ÐºÐ¸";
+$MESS ['MAIN_WIZARD_LOAD_ERROR_ID'] = "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¼Ð°ÑÑ‚ÐµÑ€Ð°";
+$MESS ['MAIN_WIZARD_LOAD_ERROR_EX'] = "ÐœÐ°ÑÑ‚ÐµÑ€ #WIZARD_NAME# ÑƒÐ¶Ðµ ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÐµÑ‚.";
+$MESS ['MAIN_WIZARD_LOAD_OK'] = "ÐœÐ°ÑÑ‚ÐµÑ€ ÑƒÑÐ¿ÐµÑˆÐ½Ð¾ Ð·Ð°Ð³Ñ€ÑƒÐ¶ÐµÐ½.";
+$MESS ['MAIN_WIZARD_LOAD_TITLE'] = "Ð˜Ð¼Ð¿Ð¾Ñ€Ñ‚ Ð¼Ð°ÑÑ‚ÐµÑ€Ð°";
+$MESS ['MAIN_WIZARD_LOAD_FILE'] = "Ð¤Ð°Ð¹Ð» Ñ Ð¼Ð°ÑÑ‚ÐµÑ€Ð¾Ð¼ Ð´Ð»Ñ Ð·Ð°Ð³Ñ€ÑƒÐ·ÐºÐ¸ (*.gz)";
+$MESS ['MAIN_WIZARD_TAR_GZ'] = "Ð’Ñ‹Ð±Ñ€Ð°Ð½Ð½Ñ‹Ð¹ Ñ„Ð°Ð¹Ð» Ð½Ðµ ÑÐ²Ð»ÑÐµÑ‚ÑÑ Ð°Ñ€Ñ…Ð¸Ð²Ð¾Ð¼";
+$MESS ['MAIN_WIZARD_LOAD_SUBMIT'] = "Ð—Ð°Ð³Ñ€ÑƒÐ·Ð¸Ñ‚ÑŒ";
+$MESS ['MAIN_WIZARD_LOAD_LINK_LIST'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð¼Ð°ÑÑ‚ÐµÑ€Ð¾Ð²";
 ?>

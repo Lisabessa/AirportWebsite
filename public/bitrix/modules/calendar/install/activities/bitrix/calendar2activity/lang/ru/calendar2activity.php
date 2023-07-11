@@ -1,6 +1,6 @@
 <?
-$MESS ['BPSNMA_EMPTY_CALENDARUSER'] = "Ñâîéñòâî 'Ïîëüçîâàòåëü' íå óêàçàíî.";
-$MESS ['BPSNMA_EMPTY_CALENDARNAME'] = "Ñâîéñòâî 'Íàçâàíèå ñîáûòèÿ' íå óêàçàíî.";
-$MESS ['BPSNMA_EMPTY_CALENDARFROM'] = "Ñâîéñòâî 'Äàòà íà÷àëà' íå óêàçàíî.";
-$MESS ['BPSNMA_EMPTY_CALENDARTO'] = "Ñâîéñòâî 'Äàòà îêîí÷àíèÿ' íå óêàçàíî.";
+$MESS ['BPSNMA_EMPTY_CALENDARUSER'] = "Ð¡Ð²Ð¾Ð¹ÑÑ‚Ð²Ð¾ 'ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ' Ð½Ðµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾.";
+$MESS ['BPSNMA_EMPTY_CALENDARNAME'] = "Ð¡Ð²Ð¾Ð¹ÑÑ‚Ð²Ð¾ 'ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ' Ð½Ðµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾.";
+$MESS ['BPSNMA_EMPTY_CALENDARFROM'] = "Ð¡Ð²Ð¾Ð¹ÑÑ‚Ð²Ð¾ 'Ð”Ð°Ñ‚Ð° Ð½Ð°Ñ‡Ð°Ð»Ð°' Ð½Ðµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾.";
+$MESS ['BPSNMA_EMPTY_CALENDARTO'] = "Ð¡Ð²Ð¾Ð¹ÑÑ‚Ð²Ð¾ 'Ð”Ð°Ñ‚Ð° Ð¾ÐºÐ¾Ð½Ñ‡Ð°Ð½Ð¸Ñ' Ð½Ðµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾.";
 ?>

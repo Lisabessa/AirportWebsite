@@ -7,7 +7,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
 
 <head>
 <meta http-equiv=Content-Type content="text/html; charset=<?=LANG_CHARSET?>">
-<title langs="ru">Бланк заказа</title>
+<title langs="ru">Р‘Р»Р°РЅРє Р·Р°РєР°Р·Р°</title>
 <style>
 <!--
 .header{font-size:17px; font-family:Tahoma;padding-left:8px;}
@@ -36,7 +36,7 @@ if ($page<=0) $page = 1;
 <table height="920" align="center" border="0" cellpadding="0" cellspacing="0">
 	<tr valign="top">
 		<td colspan="3">
-			<!-- Верхний колонтитул height="109" -->
+			<!-- Р’РµСЂС…РЅРёР№ РєРѕР»РѕРЅС‚РёС‚СѓР» height="109" -->
 		</td>
 	</tr>
 	<tr valign="top">
@@ -44,7 +44,7 @@ if ($page<=0) $page = 1;
 			<table cellpadding="0" cellspacing="0" border="0" width="595" align="center">
 				<tr><td><br><br></td></tr>
 				<tr>
-					<td width="180"><font class="header">ТОВАРНЫЙ ЧЕК №</font></td>
+					<td width="180"><font class="header">РўРћР’РђР РќР«Р™ Р§Р•Рљ в„–</font></td>
 					<td style="border-bottom : 1px solid Black;" nowrap>
 						<font class="number"><?echo $arOrder["ACCOUNT_NUMBER"];?></font>
 						<!--- <input size="30" style="border:1px;font-size:24px;font-style:italic;" type="text" value="<?echo $page;?>">-->
@@ -53,7 +53,7 @@ if ($page<=0) $page = 1;
 					</td>
 				</tr>
 				<tr>
-					<td width="180"><font class="sub_header">ДАТА:</font></td>
+					<td width="180"><font class="sub_header">Р”РђРўРђ:</font></td>
 					<td style="border-bottom : 1px solid Black;">
 						<input class="date" size="30" style="border:0px solid #000000;" type="text" value="<?echo $arOrder["DATE_INSERT_FORMAT"];?>">
 					</td>
@@ -61,7 +61,7 @@ if ($page<=0) $page = 1;
 					</td>
 				</tr>
 				<tr>
-					<td width="180"><font class="sub_header">КОМУ:</font></td>
+					<td width="180"><font class="sub_header">РљРћРњРЈ:</font></td>
 					<td style="border-bottom : 1px solid Black;">
 						<?if(empty($arParams))
 						{
@@ -91,11 +91,11 @@ if ($page<=0) $page = 1;
 				?>
 				<table class="blank">
 					<tr>
-						<td align="center">№</td>
-						<td align="center">Наименование</td>
-						<td align="center">Количество</td>
-						<td align="center">Цена,<?=$currency;?></td>
-						<td align="center">Cумма,<?=$currency;?></td>
+						<td align="center">в„–</td>
+						<td align="center">РќР°РёРјРµРЅРѕРІР°РЅРёРµ</td>
+						<td align="center">РљРѕР»РёС‡РµСЃС‚РІРѕ</td>
+						<td align="center">Р¦РµРЅР°,<?=$currency;?></td>
+						<td align="center">CСѓРјРјР°,<?=$currency;?></td>
 					</tr>
 					<?
 					$priceTotal = 0;
@@ -127,13 +127,13 @@ if ($page<=0) $page = 1;
 						$arBasketOrder[] = $arBasketTmp;
 					}
 
-					//разбрасываем скидку на заказ по товарам
+					//СЂР°Р·Р±СЂР°СЃС‹РІР°РµРј СЃРєРёРґРєСѓ РЅР° Р·Р°РєР°Р· РїРѕ С‚РѕРІР°СЂР°Рј
 					if (floatval($arOrder["DISCOUNT_VALUE"]) > 0)
 					{
 						$arBasketOrder = GetUniformDestribution($arBasketOrder, $arOrder["DISCOUNT_VALUE"], $priceTotal);
 					}
 
-					//налоги
+					//РЅР°Р»РѕРіРё
 					$arTaxList = array();
 					$db_tax_list = CSaleOrderTax::GetList(array("APPLY_ORDER"=>"ASC"), Array("ORDER_ID"=>$ORDER_ID));
 					$iNds = -1;
@@ -141,9 +141,9 @@ if ($page<=0) $page = 1;
 					while ($ar_tax_list = $db_tax_list->Fetch())
 					{
 						$arTaxList[$i] = $ar_tax_list;
-						// определяем, какой из налогов - НДС
-						// НДС должен иметь код NDS, либо необходимо перенести этот шаблон
-						// в каталог пользовательских шаблонов и исправить
+						// РѕРїСЂРµРґРµР»СЏРµРј, РєР°РєРѕР№ РёР· РЅР°Р»РѕРіРѕРІ - РќР”РЎ
+						// РќР”РЎ РґРѕР»Р¶РµРЅ РёРјРµС‚СЊ РєРѕРґ NDS, Р»РёР±Рѕ РЅРµРѕР±С…РѕРґРёРјРѕ РїРµСЂРµРЅРµСЃС‚Рё СЌС‚РѕС‚ С€Р°Р±Р»РѕРЅ
+						// РІ РєР°С‚Р°Р»РѕРі РїРѕР»СЊР·РѕРІР°С‚РµР»СЊСЃРєРёС… С€Р°Р±Р»РѕРЅРѕРІ Рё РёСЃРїСЂР°РІРёС‚СЊ
 						if ($arTaxList[$i]["CODE"] == "NDS")
 							$iNds = $i;
 						$i++;
@@ -161,7 +161,7 @@ if ($page<=0) $page = 1;
 
 						$b_AMOUNT = DoubleVal($arBasket["PRICE"]);
 
-						//определяем начальную цену
+						//РѕРїСЂРµРґРµР»СЏРµРј РЅР°С‡Р°Р»СЊРЅСѓСЋ С†РµРЅСѓ
 						$item_price = $b_AMOUNT;
 
 						if(DoubleVal($arBasket["VAT_RATE"]) > 0)
@@ -215,7 +215,7 @@ if ($page<=0) $page = 1;
 
 					<tr>
 						<td align="right" colspan="4">
-							Сумма:
+							РЎСѓРјРјР°:
 						</td>
 						<td align="right" nowrap>
 							<?=CCurrencyLang::CurrencyFormat($total_sum, $arOrder["CURRENCY"], false);?>
@@ -234,7 +234,7 @@ if ($page<=0) $page = 1;
 									<?
 									if ($ar_tax_list["IS_IN_PRICE"]=="Y")
 									{
-										echo "В том числе ";
+										echo "Р’ С‚РѕРј С‡РёСЃР»Рµ ";
 									}
 									echo htmlspecialcharsbx($ar_tax_list["TAX_NAME"]);
 									if ($ar_tax_list["IS_PERCENT"]=="Y")
@@ -254,7 +254,7 @@ if ($page<=0) $page = 1;
 
 					<tr>
 						<td align="right" colspan="4">
-							Итого (без стоимости доставки):
+							РС‚РѕРіРѕ (Р±РµР· СЃС‚РѕРёРјРѕСЃС‚Рё РґРѕСЃС‚Р°РІРєРё):
 						</td>
 						<td align="right" nowrap>
 							<?=CCurrencyLang::CurrencyFormat($total_sum, $arOrder["CURRENCY"], false);?>

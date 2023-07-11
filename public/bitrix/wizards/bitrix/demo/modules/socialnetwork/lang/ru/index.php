@@ -1,8 +1,8 @@
 <?
-$MESS['SOCNET_TOP_MENU'] = "Ñîöèàëüíàÿ ñåòü";
-$MESS['SOCNET_WELCOME_MESSAGE'] = "Äîáðî ïîæàëîâàòü â íàø êëóá!";
-$MESS['SOCNET_GROUPS'] = "Ãðóïïû êëóáà";
-$MESS['SOCNET_MENU_BLOG'] = "Áëîã-ëåíòà";
-$MESS['SOCNET_MENU_GALLERY'] = "Ôîòîãàëåðåÿ";
-$MESS['SOCNET_MENU_FORUM'] = "Ôîðóìû";
+$MESS['SOCNET_TOP_MENU'] = "Ð¡Ð¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð°Ñ ÑÐµÑ‚ÑŒ";
+$MESS['SOCNET_WELCOME_MESSAGE'] = "Ð”Ð¾Ð±Ñ€Ð¾ Ð¿Ð¾Ð¶Ð°Ð»Ð¾Ð²Ð°Ñ‚ÑŒ Ð² Ð½Ð°Ñˆ ÐºÐ»ÑƒÐ±!";
+$MESS['SOCNET_GROUPS'] = "Ð“Ñ€ÑƒÐ¿Ð¿Ñ‹ ÐºÐ»ÑƒÐ±Ð°";
+$MESS['SOCNET_MENU_BLOG'] = "Ð‘Ð»Ð¾Ð³-Ð»ÐµÐ½Ñ‚Ð°";
+$MESS['SOCNET_MENU_GALLERY'] = "Ð¤Ð¾Ñ‚Ð¾Ð³Ð°Ð»ÐµÑ€ÐµÑ";
+$MESS['SOCNET_MENU_FORUM'] = "Ð¤Ð¾Ñ€ÑƒÐ¼Ñ‹";
 ?>

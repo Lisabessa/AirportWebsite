@@ -1,3 +1,3 @@
 <?php
-$MESS['LANDING_MENU_SITES'] = 'Ñàéòû 24';
-$MESS['LANDING_MENU_SITE_ADD'] = 'Äîáàâèòü ñàéò';
+$MESS['LANDING_MENU_SITES'] = 'Ð¡Ð°Ð¹Ñ‚Ñ‹ 24';
+$MESS['LANDING_MENU_SITE_ADD'] = 'Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ ÑÐ°Ð¹Ñ‚';

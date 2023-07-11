@@ -1,6 +1,6 @@
 <?php
-$MESS['SALE_PS_RESTRICTIONS_BY_PRICE'] = 'ïî öåíå';
+$MESS['SALE_PS_RESTRICTIONS_BY_PRICE'] = 'Ð¿Ð¾ Ñ†ÐµÐ½Ðµ';
 $MESS['SALE_PS_RESTRICTIONS_BY_PRICE_DESC'] = '';
-$MESS['SALE_PS_RESTRICTIONS_BY_PRICE_TYPE_MORE'] = 'Ñóììà îïëàòû îò';
-$MESS['SALE_PS_RESTRICTIONS_BY_PRICE_TYPE_LESS'] = 'Ñóììà îïëàòû äî';
-$MESS['SALE_PS_RESTRICTIONS_BY_PRICE_VALUE'] = 'Çíà÷åíèå';
+$MESS['SALE_PS_RESTRICTIONS_BY_PRICE_TYPE_MORE'] = 'Ð¡ÑƒÐ¼Ð¼Ð° Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹ Ð¾Ñ‚';
+$MESS['SALE_PS_RESTRICTIONS_BY_PRICE_TYPE_LESS'] = 'Ð¡ÑƒÐ¼Ð¼Ð° Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹ Ð´Ð¾';
+$MESS['SALE_PS_RESTRICTIONS_BY_PRICE_VALUE'] = 'Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ';

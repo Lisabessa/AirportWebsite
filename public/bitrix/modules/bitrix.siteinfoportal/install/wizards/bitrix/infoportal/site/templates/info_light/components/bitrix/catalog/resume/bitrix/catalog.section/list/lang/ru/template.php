@@ -1,6 +1,6 @@
 <?
-$MESS["CATALOG_BUY"] = "Êóïèòü";
-$MESS["CATALOG_ADD"] = "Â êîðçèíó";
-$MESS["CATALOG_NOT_AVAILABLE"] = "(íåò íà ñêëàäå)";
-$MESS["CATALOG_TITLE"] = "Íàèìåíîâàíèå";
+$MESS["CATALOG_BUY"] = "ÐšÑƒÐ¿Ð¸Ñ‚ÑŒ";
+$MESS["CATALOG_ADD"] = "Ð’ ÐºÐ¾Ñ€Ð·Ð¸Ð½Ñƒ";
+$MESS["CATALOG_NOT_AVAILABLE"] = "(Ð½ÐµÑ‚ Ð½Ð° ÑÐºÐ»Ð°Ð´Ðµ)";
+$MESS["CATALOG_TITLE"] = "ÐÐ°Ð¸Ð¼ÐµÐ½Ð¾Ð²Ð°Ð½Ð¸Ðµ";
 ?>

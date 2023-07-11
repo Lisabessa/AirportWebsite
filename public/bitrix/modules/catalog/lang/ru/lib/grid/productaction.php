@@ -1,9 +1,9 @@
 <?
-$MESS["BX_CATALOG_PRODUCT_ACTION_ERR_BAD_IBLOCK_ID"] = "Íåâåðíûé èäåíòèôèêàòîð èíôîáëîêà";
-$MESS["BX_CATALOG_PRODUCT_ACTION_ERR_EMPTY_ELEMENTS"] = "Íå çàäàí ñïèñîê ýëåìåíòîâ äëÿ èçìåíåíèé";
-$MESS["BX_CATALOG_PRODUCT_ACTION_ERR_EMPTY_FIELDS"] = "Îòñóòñòâóþò ïàðàìåòðû òîâàðà äëÿ îáíîâëåíèÿ";
-$MESS["BX_CATALOG_PRODUCT_ACTION_ERR_BAD_CATALOG"] = "Èíôîáëîê íå ÿâëÿåòñÿ òîðãîâûì êàòàëîãîì";
-$MESS["BX_CATALOG_PRODUCT_ACTION_ERR_CANNOT_MODIFY_SKU"] = "Íåëüçÿ óñòàíîâèòü çíà÷åíèÿ ïîëåé äëÿ òîâàðà ñ òîðãîâûìè ïðåäëîæåíèÿìè";
-$MESS["BX_CATALOG_PRODUCT_ACTION_ERR_CANNOT_MODIFY_SET"] = "Ïàðàìåòðû êîëè÷åñòâåííîãî ó÷åòà, âåñ è åäèíèöà èçìåðåíèÿ äëÿ êîìïëåêòà óñòàíàâëèâàþòñÿ àâòîìàòè÷åñêè";
-$MESS["BX_CATALOG_PRODUCT_ACTION_ERR_SECTION_PRODUCTS_UPDATE"] = "Ïðè îáíîâëåíèè òîâàðîâ ðàçäåëà [#ID#] #NAME# ïðîèçîøëè îøèáêè. Ïåðåéäèòå â ðàçäåë è ïîâòîðèòå îïåðàöèþ.";
+$MESS["BX_CATALOG_PRODUCT_ACTION_ERR_BAD_IBLOCK_ID"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ°";
+$MESS["BX_CATALOG_PRODUCT_ACTION_ERR_EMPTY_ELEMENTS"] = "ÐÐµ Ð·Ð°Ð´Ð°Ð½ ÑÐ¿Ð¸ÑÐ¾Ðº ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð² Ð´Ð»Ñ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ð¹";
+$MESS["BX_CATALOG_PRODUCT_ACTION_ERR_EMPTY_FIELDS"] = "ÐžÑ‚ÑÑƒÑ‚ÑÑ‚Ð²ÑƒÑŽÑ‚ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ Ñ‚Ð¾Ð²Ð°Ñ€Ð° Ð´Ð»Ñ Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ñ";
+$MESS["BX_CATALOG_PRODUCT_ACTION_ERR_BAD_CATALOG"] = "Ð˜Ð½Ñ„Ð¾Ð±Ð»Ð¾Ðº Ð½Ðµ ÑÐ²Ð»ÑÐµÑ‚ÑÑ Ñ‚Ð¾Ñ€Ð³Ð¾Ð²Ñ‹Ð¼ ÐºÐ°Ñ‚Ð°Ð»Ð¾Ð³Ð¾Ð¼";
+$MESS["BX_CATALOG_PRODUCT_ACTION_ERR_CANNOT_MODIFY_SKU"] = "ÐÐµÐ»ÑŒÐ·Ñ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð¸Ñ‚ÑŒ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ñ Ð¿Ð¾Ð»ÐµÐ¹ Ð´Ð»Ñ Ñ‚Ð¾Ð²Ð°Ñ€Ð° Ñ Ñ‚Ð¾Ñ€Ð³Ð¾Ð²Ñ‹Ð¼Ð¸ Ð¿Ñ€ÐµÐ´Ð»Ð¾Ð¶ÐµÐ½Ð¸ÑÐ¼Ð¸";
+$MESS["BX_CATALOG_PRODUCT_ACTION_ERR_CANNOT_MODIFY_SET"] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²ÐµÐ½Ð½Ð¾Ð³Ð¾ ÑƒÑ‡ÐµÑ‚Ð°, Ð²ÐµÑ Ð¸ ÐµÐ´Ð¸Ð½Ð¸Ñ†Ð° Ð¸Ð·Ð¼ÐµÑ€ÐµÐ½Ð¸Ñ Ð´Ð»Ñ ÐºÐ¾Ð¼Ð¿Ð»ÐµÐºÑ‚Ð° ÑƒÑÑ‚Ð°Ð½Ð°Ð²Ð»Ð¸Ð²Ð°ÑŽÑ‚ÑÑ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸";
+$MESS["BX_CATALOG_PRODUCT_ACTION_ERR_SECTION_PRODUCTS_UPDATE"] = "ÐŸÑ€Ð¸ Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ð¸ Ñ‚Ð¾Ð²Ð°Ñ€Ð¾Ð² Ñ€Ð°Ð·Ð´ÐµÐ»Ð° [#ID#] #NAME# Ð¿Ñ€Ð¾Ð¸Ð·Ð¾ÑˆÐ»Ð¸ Ð¾ÑˆÐ¸Ð±ÐºÐ¸. ÐŸÐµÑ€ÐµÐ¹Ð´Ð¸Ñ‚Ðµ Ð² Ñ€Ð°Ð·Ð´ÐµÐ» Ð¸ Ð¿Ð¾Ð²Ñ‚Ð¾Ñ€Ð¸Ñ‚Ðµ Ð¾Ð¿ÐµÑ€Ð°Ñ†Ð¸ÑŽ.";
 ?>

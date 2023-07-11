@@ -1,16 +1,16 @@
 <?
-$MESS["BX_CATALOG_PRODUCT_SETTINGS_ACCESS_DENIED"] = "Äîñòóï çàïðåùåí";
-$MESS["BX_CATALOG_PRODUCT_SETTINGS_ERRORS_INCORRECT_SESSION"] = "Âàøà ñåññèÿ èñòåêëà. Çàêðîéòå äèàëîãîâîå îêíî è àâòîðèçóéòåñü çàíîâî, ïîñëå ÷åãî ïîâòîðèòå îïåðàöèþ.";
-$MESS["BX_CATALOG_PRODUCT_SETTINGS_REINDEX_ERRORS_MODULE_CATALOG_ABSENT"] = "Íå óäàëîñü ïîäêëþ÷èòü ìîäóëü òîðãîâîãî êàòàëîãà";
-$MESS["BX_CATALOG_PRODUCT_SETTINGS_PAGE_TITLE"] = "Ïàðàìåòðû òîâàðîâ ïî óìîë÷àíèþ";
-$MESS["BX_CATALOG_PRODUCT_SETTINGS_TAB"] = "Ïàðàìåòðû";
-$MESS["BX_CATALOG_PRODUCT_SETTINGS_TAB_TITLE"] = "Ïàðàìåòðû òîâàðîâ";
-$MESS["BX_CATALOG_PRODUCT_SETTINGS_ENABLE_QUANTITY_TRACE"] = "Âêëþ÷èòü êîëè÷åñòâåííûé ó÷åò";
-$MESS["BX_CATALOG_PRODUCT_SETTINGS_ALLOW_CAN_BUY_ZERO"] = "Ðàçðåøèòü ïîêóïêó ïðè îòñóòñòâèè òîâàðà (âêëþ÷àÿ ðàçðåøåíèå îòðèöàòåëüíîãî êîëè÷åñòâà òîâàðà)";
-$MESS["BX_CATALOG_PRODUCT_SETTINGS_PRODUCT_SUBSCRIBE"] = "Ðàçðåøèòü ïîäïèñêó ïðè îòñóòñòâèè òîâàðà";
-$MESS["BX_CATALOG_PRODUCT_SETTINGS_MAX_EXECUTION_TIME"] = "Ïðîäîëæèòåëüíîñòü îäíîãî øàãà, ñåê:";
-$MESS["BX_CATALOG_PRODUCT_SETTINGS_UPDATE_BTN"] = "Ñîõðàíèòü";
-$MESS["BX_CATALOG_PRODUCT_SETTINGS_STOP_BTN"] = "Îñòàíîâèòü";
-$MESS["BX_CATALOG_PRODUCT_SETTINGS_STATUS_YES"] = "Äà";
-$MESS["BX_CATALOG_PRODUCT_SETTINGS_STATUS_NO"] = "Íåò";
+$MESS["BX_CATALOG_PRODUCT_SETTINGS_ACCESS_DENIED"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ð·Ð°Ð¿Ñ€ÐµÑ‰ÐµÐ½";
+$MESS["BX_CATALOG_PRODUCT_SETTINGS_ERRORS_INCORRECT_SESSION"] = "Ð’Ð°ÑˆÐ° ÑÐµÑÑÐ¸Ñ Ð¸ÑÑ‚ÐµÐºÐ»Ð°. Ð—Ð°ÐºÑ€Ð¾Ð¹Ñ‚Ðµ Ð´Ð¸Ð°Ð»Ð¾Ð³Ð¾Ð²Ð¾Ðµ Ð¾ÐºÐ½Ð¾ Ð¸ Ð°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·ÑƒÐ¹Ñ‚ÐµÑÑŒ Ð·Ð°Ð½Ð¾Ð²Ð¾, Ð¿Ð¾ÑÐ»Ðµ Ñ‡ÐµÐ³Ð¾ Ð¿Ð¾Ð²Ñ‚Ð¾Ñ€Ð¸Ñ‚Ðµ Ð¾Ð¿ÐµÑ€Ð°Ñ†Ð¸ÑŽ.";
+$MESS["BX_CATALOG_PRODUCT_SETTINGS_REINDEX_ERRORS_MODULE_CATALOG_ABSENT"] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ Ð¿Ð¾Ð´ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ Ð¼Ð¾Ð´ÑƒÐ»ÑŒ Ñ‚Ð¾Ñ€Ð³Ð¾Ð²Ð¾Ð³Ð¾ ÐºÐ°Ñ‚Ð°Ð»Ð¾Ð³Ð°";
+$MESS["BX_CATALOG_PRODUCT_SETTINGS_PAGE_TITLE"] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ Ñ‚Ð¾Ð²Ð°Ñ€Ð¾Ð² Ð¿Ð¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ";
+$MESS["BX_CATALOG_PRODUCT_SETTINGS_TAB"] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹";
+$MESS["BX_CATALOG_PRODUCT_SETTINGS_TAB_TITLE"] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ Ñ‚Ð¾Ð²Ð°Ñ€Ð¾Ð²";
+$MESS["BX_CATALOG_PRODUCT_SETTINGS_ENABLE_QUANTITY_TRACE"] = "Ð’ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²ÐµÐ½Ð½Ñ‹Ð¹ ÑƒÑ‡ÐµÑ‚";
+$MESS["BX_CATALOG_PRODUCT_SETTINGS_ALLOW_CAN_BUY_ZERO"] = "Ð Ð°Ð·Ñ€ÐµÑˆÐ¸Ñ‚ÑŒ Ð¿Ð¾ÐºÑƒÐ¿ÐºÑƒ Ð¿Ñ€Ð¸ Ð¾Ñ‚ÑÑƒÑ‚ÑÑ‚Ð²Ð¸Ð¸ Ñ‚Ð¾Ð²Ð°Ñ€Ð° (Ð²ÐºÐ»ÑŽÑ‡Ð°Ñ Ñ€Ð°Ð·Ñ€ÐµÑˆÐµÐ½Ð¸Ðµ Ð¾Ñ‚Ñ€Ð¸Ñ†Ð°Ñ‚ÐµÐ»ÑŒÐ½Ð¾Ð³Ð¾ ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð° Ñ‚Ð¾Ð²Ð°Ñ€Ð°)";
+$MESS["BX_CATALOG_PRODUCT_SETTINGS_PRODUCT_SUBSCRIBE"] = "Ð Ð°Ð·Ñ€ÐµÑˆÐ¸Ñ‚ÑŒ Ð¿Ð¾Ð´Ð¿Ð¸ÑÐºÑƒ Ð¿Ñ€Ð¸ Ð¾Ñ‚ÑÑƒÑ‚ÑÑ‚Ð²Ð¸Ð¸ Ñ‚Ð¾Ð²Ð°Ñ€Ð°";
+$MESS["BX_CATALOG_PRODUCT_SETTINGS_MAX_EXECUTION_TIME"] = "ÐŸÑ€Ð¾Ð´Ð¾Ð»Ð¶Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾ÑÑ‚ÑŒ Ð¾Ð´Ð½Ð¾Ð³Ð¾ ÑˆÐ°Ð³Ð°, ÑÐµÐº:";
+$MESS["BX_CATALOG_PRODUCT_SETTINGS_UPDATE_BTN"] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ";
+$MESS["BX_CATALOG_PRODUCT_SETTINGS_STOP_BTN"] = "ÐžÑÑ‚Ð°Ð½Ð¾Ð²Ð¸Ñ‚ÑŒ";
+$MESS["BX_CATALOG_PRODUCT_SETTINGS_STATUS_YES"] = "Ð”Ð°";
+$MESS["BX_CATALOG_PRODUCT_SETTINGS_STATUS_NO"] = "ÐÐµÑ‚";
 ?>

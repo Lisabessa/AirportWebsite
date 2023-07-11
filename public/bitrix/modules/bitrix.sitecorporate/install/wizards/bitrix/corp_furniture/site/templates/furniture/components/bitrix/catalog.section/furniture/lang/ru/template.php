@@ -1,12 +1,12 @@
 <?
-$MESS ['CATALOG_BUY'] = "Êóïèòü";
-$MESS ['CATALOG_ADD'] = "Â êîðçèíó";
-$MESS ['CATALOG_COMPARE'] = "Ñðàâíèòü";
-$MESS ['CATALOG_NOT_AVAILABLE'] = "(íåò íà ñêëàäå)";
-$MESS ['CATALOG_QUANTITY'] = "Êîëè÷åñòâî";
-$MESS ['CATALOG_QUANTITY_FROM_TO'] = "Îò #FROM# äî #TO#";
-$MESS ['CATALOG_QUANTITY_FROM'] = "Îò #FROM#";
-$MESS ['CATALOG_QUANTITY_TO'] = "Äî #TO#";
-$MESS ['CT_BCS_QUANTITY'] = "Êîëè÷åñòâî";
-$MESS ['CATALOG_ELEMENT_DELETE_CONFIRM'] = 'Âû óâåðåíû, ÷òî õîòèòå óäàëèòü ýòîò òîâàð?';
+$MESS ['CATALOG_BUY'] = "ÐšÑƒÐ¿Ð¸Ñ‚ÑŒ";
+$MESS ['CATALOG_ADD'] = "Ð’ ÐºÐ¾Ñ€Ð·Ð¸Ð½Ñƒ";
+$MESS ['CATALOG_COMPARE'] = "Ð¡Ñ€Ð°Ð²Ð½Ð¸Ñ‚ÑŒ";
+$MESS ['CATALOG_NOT_AVAILABLE'] = "(Ð½ÐµÑ‚ Ð½Ð° ÑÐºÐ»Ð°Ð´Ðµ)";
+$MESS ['CATALOG_QUANTITY'] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾";
+$MESS ['CATALOG_QUANTITY_FROM_TO'] = "ÐžÑ‚ #FROM# Ð´Ð¾ #TO#";
+$MESS ['CATALOG_QUANTITY_FROM'] = "ÐžÑ‚ #FROM#";
+$MESS ['CATALOG_QUANTITY_TO'] = "Ð”Ð¾ #TO#";
+$MESS ['CT_BCS_QUANTITY'] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾";
+$MESS ['CATALOG_ELEMENT_DELETE_CONFIRM'] = 'Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹, Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ ÑÑ‚Ð¾Ñ‚ Ñ‚Ð¾Ð²Ð°Ñ€?';
 ?>

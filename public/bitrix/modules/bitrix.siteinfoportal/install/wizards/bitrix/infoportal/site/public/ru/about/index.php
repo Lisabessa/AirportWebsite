@@ -1,4 +1,4 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("О проекте");
-?>Разместите текст о вашем портале.<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
+$APPLICATION->SetTitle("Рћ РїСЂРѕРµРєС‚Рµ");
+?>Р Р°Р·РјРµСЃС‚РёС‚Рµ С‚РµРєСЃС‚ Рѕ РІР°С€РµРј РїРѕСЂС‚Р°Р»Рµ.<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

@@ -1,7 +1,7 @@
 <?
-$MESS ['F_ERR_EMPTY_TO_MOVE'] = "Íå óêàçàíû òåìû. Âûáåðèòå òåìû.";
-$MESS ['F_ERR_THIS_TOPIC_IS_NOT_MOVE'] = "#TITLE# (#ID#) íå ïåðåíåñåíà. Óêàçàííûé ôîðóì ñîîòâåòñòâóåò ñóùåñòâóþùåìó.";
-$MESS ['F_ERR_FORUM_NOT_EXIST'] = "Ôîðóì ñ ID=(#FORUM_ID#) íå ñóùåñòâóåò.";
-$MESS ['F_LOGS_MOVE_TOPIC_WITH_LINK'] = "Òåìà #TOPIC_TITLE# [#TOPIC_ID#] ïåðåíåñåíà íà ôîðóì #FORUM_TITLE# [#FORUM_ID#] ñ ñîçäàíèåì ññûëêè èç ñòàðîãî ôîðóìà.";
-$MESS ['F_LOGS_MOVE_TOPIC'] = "Òåìà #TOPIC_TITLE# [#TOPIC_ID#] ïåðåíåñåíà íà ôîðóì #FORUM_TITLE# [#FORUM_ID#].";
+$MESS ['F_ERR_EMPTY_TO_MOVE'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ñ‹ Ñ‚ÐµÐ¼Ñ‹. Ð’Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ Ñ‚ÐµÐ¼Ñ‹.";
+$MESS ['F_ERR_THIS_TOPIC_IS_NOT_MOVE'] = "#TITLE# (#ID#) Ð½Ðµ Ð¿ÐµÑ€ÐµÐ½ÐµÑÐµÐ½Ð°. Ð£ÐºÐ°Ð·Ð°Ð½Ð½Ñ‹Ð¹ Ñ„Ð¾Ñ€ÑƒÐ¼ ÑÐ¾Ð¾Ñ‚Ð²ÐµÑ‚ÑÑ‚Ð²ÑƒÐµÑ‚ ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÑŽÑ‰ÐµÐ¼Ñƒ.";
+$MESS ['F_ERR_FORUM_NOT_EXIST'] = "Ð¤Ð¾Ñ€ÑƒÐ¼ Ñ ID=(#FORUM_ID#) Ð½Ðµ ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÐµÑ‚.";
+$MESS ['F_LOGS_MOVE_TOPIC_WITH_LINK'] = "Ð¢ÐµÐ¼Ð° #TOPIC_TITLE# [#TOPIC_ID#] Ð¿ÐµÑ€ÐµÐ½ÐµÑÐµÐ½Ð° Ð½Ð° Ñ„Ð¾Ñ€ÑƒÐ¼ #FORUM_TITLE# [#FORUM_ID#] Ñ ÑÐ¾Ð·Ð´Ð°Ð½Ð¸ÐµÐ¼ ÑÑÑ‹Ð»ÐºÐ¸ Ð¸Ð· ÑÑ‚Ð°Ñ€Ð¾Ð³Ð¾ Ñ„Ð¾Ñ€ÑƒÐ¼Ð°.";
+$MESS ['F_LOGS_MOVE_TOPIC'] = "Ð¢ÐµÐ¼Ð° #TOPIC_TITLE# [#TOPIC_ID#] Ð¿ÐµÑ€ÐµÐ½ÐµÑÐµÐ½Ð° Ð½Ð° Ñ„Ð¾Ñ€ÑƒÐ¼ #FORUM_TITLE# [#FORUM_ID#].";
 ?>

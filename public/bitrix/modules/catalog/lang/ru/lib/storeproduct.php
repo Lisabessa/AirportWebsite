@@ -1,6 +1,6 @@
 <?
-$MESS["STORE_PRODUCT_ENTITY_ID_FIELD"] = "Èäåíòèôèêàòîð çàïèñè î êîëè÷åñòâå òîâàðà íà ñêëàäå";
-$MESS["STORE_PRODUCT_ENTITY_STORE_ID_FIELD"] = "Èäåíòèôèêàòîð ñêëàäà";
-$MESS["STORE_PRODUCT_ENTITY_PRODUCT_ID_FIELD"] = "Èäåíòèôèêàòîð òîâàðà";
-$MESS["STORE_PRODUCT_ENTITY_AMOUNT_FIELD"] = "Êîëè÷åñòâî";
+$MESS["STORE_PRODUCT_ENTITY_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð·Ð°Ð¿Ð¸ÑÐ¸ Ð¾ ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ðµ Ñ‚Ð¾Ð²Ð°Ñ€Ð° Ð½Ð° ÑÐºÐ»Ð°Ð´Ðµ";
+$MESS["STORE_PRODUCT_ENTITY_STORE_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÐºÐ»Ð°Ð´Ð°";
+$MESS["STORE_PRODUCT_ENTITY_PRODUCT_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ñ‚Ð¾Ð²Ð°Ñ€Ð°";
+$MESS["STORE_PRODUCT_ENTITY_AMOUNT_FIELD"] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾";
 ?>

@@ -1,2 +1,2 @@
 <?php
-$MESS["SALE_CASHBOX_CORRECTION_BUY_NAME"] = "Rückzug-Korrektur";
+$MESS["SALE_CASHBOX_CORRECTION_BUY_NAME"] = "RÃ¼ckzug-Korrektur";

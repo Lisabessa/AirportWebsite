@@ -1,2 +1,2 @@
 <?php
-$MESS["EC_FILES_TITLE"] = "Τΰιλϋ";
+$MESS["EC_FILES_TITLE"] = "Π¤Π°ΠΉΠ»Ρ‹";

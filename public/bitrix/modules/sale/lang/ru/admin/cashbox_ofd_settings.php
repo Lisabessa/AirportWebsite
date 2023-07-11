@@ -1,3 +1,3 @@
 <?
-$MESS["SALE_ACCESS_DENIED"] = "Äîñòóï çàïðåùåí.";
-$MESS["SALE_CASHBOX_NO_OFD"] = "ÎÔÄ íå ïîääåðæèâàåò íàñòðîéêè";
+$MESS["SALE_ACCESS_DENIED"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ð·Ð°Ð¿Ñ€ÐµÑ‰ÐµÐ½.";
+$MESS["SALE_CASHBOX_NO_OFD"] = "ÐžÐ¤Ð” Ð½Ðµ Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶Ð¸Ð²Ð°ÐµÑ‚ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸";

@@ -1,16 +1,16 @@
 <?
-$MESS["SALE_DELIVERY_REQ_DRS_WRONG_ID"] = "Íåâ³ðíèé ³äåíòèô³êàòîð çàÿâêè";
-$MESS["SALE_DELIVERY_REQ_DRS_WRONG_SHP_ID"] = "Íåâ³ðíèé ³äåíòèô³êàòîð â³äâàíòàæåííÿ";
-$MESS["SALE_DELIVERY_REQ_DRS_LIST"] = "Ñïèñîê çàìîâëåíü äëÿ çàÿâêè";
-$MESS["SALE_DELIVERY_REQ_DRS_F_ID"] = "²äåíòèô³êàòîð";
-$MESS["SALE_DELIVERY_REQ_DRS_F_ORDER_NUMBER"] = "Íîìåð çàìîâëåííÿ";
-$MESS["SALE_DELIVERY_REQ_DRS_F_ORDER_DATE"] = "Äàòà çàìîâëåííÿ";
-$MESS["SALE_DELIVERY_REQ_DRS_F_SHIPMENT_ID"] = "²äåíòèô³êàòîð â³äâàíòàæåííÿ";
-$MESS["SALE_DELIVERY_REQ_DRS_F_EXTERNAL_ID"] = "Çîâí³øí³é ³äåíòèô³êàòîð";
-$MESS["SALE_DELIVERY_REQ_DRS_F_DELIVERY_ID"] = "Ñëóæáà äîñòàâêè";
-$MESS["SALE_DELIVERY_REQ_DRS_CONTENT"] = "Çì³ñò";
-$MESS["SALE_DELIVERY_REQ_DRS_DEL"] = "Âèäàëèòè";
-$MESS["SALE_DELIVERY_REQ_DRS_DEL_CONFIRM"] = "Âè âïåâíåí³, ùî õî÷åòå âèäàëèòè â³äâàíòàæåííÿ ç òðàíñïîðòíî¿ çàÿâêè?";
-$MESS["SALE_DELIVERY_REQ_DRS_ERROR"] = "Ïîìèëêà";
-$MESS["SALE_DELIVERY_REQ_DRS_DEL_SHIPMENT_SUCCESS"] = "Â³äâàíòàæåííÿ c ³äåíòèô³êàòîðîì \"#SHIPMENT_ID#\" óñï³øíî âèäàëåíå ç òðàíñïîðòíî¿ çàÿâêè \"#REQUEST_ID#\"";
+$MESS["SALE_DELIVERY_REQ_DRS_WRONG_ID"] = "ÐÐµÐ²Ñ–Ñ€Ð½Ð¸Ð¹ Ñ–Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÐ°Ñ‚Ð¾Ñ€ Ð·Ð°ÑÐ²ÐºÐ¸";
+$MESS["SALE_DELIVERY_REQ_DRS_WRONG_SHP_ID"] = "ÐÐµÐ²Ñ–Ñ€Ð½Ð¸Ð¹ Ñ–Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÐ°Ñ‚Ð¾Ñ€ Ð²Ñ–Ð´Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ";
+$MESS["SALE_DELIVERY_REQ_DRS_LIST"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½ÑŒ Ð´Ð»Ñ Ð·Ð°ÑÐ²ÐºÐ¸";
+$MESS["SALE_DELIVERY_REQ_DRS_F_ID"] = "Ð†Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÐ°Ñ‚Ð¾Ñ€";
+$MESS["SALE_DELIVERY_REQ_DRS_F_ORDER_NUMBER"] = "ÐÐ¾Ð¼ÐµÑ€ Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ";
+$MESS["SALE_DELIVERY_REQ_DRS_F_ORDER_DATE"] = "Ð”Ð°Ñ‚Ð° Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ";
+$MESS["SALE_DELIVERY_REQ_DRS_F_SHIPMENT_ID"] = "Ð†Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÐ°Ñ‚Ð¾Ñ€ Ð²Ñ–Ð´Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ";
+$MESS["SALE_DELIVERY_REQ_DRS_F_EXTERNAL_ID"] = "Ð—Ð¾Ð²Ð½Ñ–ÑˆÐ½Ñ–Ð¹ Ñ–Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÐ°Ñ‚Ð¾Ñ€";
+$MESS["SALE_DELIVERY_REQ_DRS_F_DELIVERY_ID"] = "Ð¡Ð»ÑƒÐ¶Ð±Ð° Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸";
+$MESS["SALE_DELIVERY_REQ_DRS_CONTENT"] = "Ð—Ð¼Ñ–ÑÑ‚";
+$MESS["SALE_DELIVERY_REQ_DRS_DEL"] = "Ð’Ð¸Ð´Ð°Ð»Ð¸Ñ‚Ð¸";
+$MESS["SALE_DELIVERY_REQ_DRS_DEL_CONFIRM"] = "Ð’Ð¸ Ð²Ð¿ÐµÐ²Ð½ÐµÐ½Ñ–, Ñ‰Ð¾ Ñ…Ð¾Ñ‡ÐµÑ‚Ðµ Ð²Ð¸Ð´Ð°Ð»Ð¸Ñ‚Ð¸ Ð²Ñ–Ð´Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ Ð· Ñ‚Ñ€Ð°Ð½ÑÐ¿Ð¾Ñ€Ñ‚Ð½Ð¾Ñ— Ð·Ð°ÑÐ²ÐºÐ¸?";
+$MESS["SALE_DELIVERY_REQ_DRS_ERROR"] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ°";
+$MESS["SALE_DELIVERY_REQ_DRS_DEL_SHIPMENT_SUCCESS"] = "Ð’Ñ–Ð´Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ c Ñ–Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÐ°Ñ‚Ð¾Ñ€Ð¾Ð¼ \"#SHIPMENT_ID#\" ÑƒÑÐ¿Ñ–ÑˆÐ½Ð¾ Ð²Ð¸Ð´Ð°Ð»ÐµÐ½Ðµ Ð· Ñ‚Ñ€Ð°Ð½ÑÐ¿Ð¾Ñ€Ñ‚Ð½Ð¾Ñ— Ð·Ð°ÑÐ²ÐºÐ¸ \"#REQUEST_ID#\"";
 ?>

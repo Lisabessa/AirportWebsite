@@ -1,8 +1,8 @@
 <?
-$MESS["SCOM_INSTALL_NAME"] = "Èíôîðìàöèîííûé ïîðòàë";
-$MESS["SCOM_INSTALL_DESCRIPTION"] = "Ìàñòåð ñîçäàíèÿ èíôîðìàöèîííîãî ïîðòàëà";
-$MESS["SCOM_INSTALL_TITLE"] = "Óñòàíîâêà ìîäóëÿ";
-$MESS["SCOM_UNINSTALL_TITLE"] = "Óäàëåíèå ìîäóëÿ";
-$MESS["SPER_PARTNER"] = "1Ñ-Áèòðèêñ";
+$MESS["SCOM_INSTALL_NAME"] = "Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ñ‹Ð¹ Ð¿Ð¾Ñ€Ñ‚Ð°Ð»";
+$MESS["SCOM_INSTALL_DESCRIPTION"] = "ÐœÐ°ÑÑ‚ÐµÑ€ ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð¾Ð³Ð¾ Ð¿Ð¾Ñ€Ñ‚Ð°Ð»Ð°";
+$MESS["SCOM_INSTALL_TITLE"] = "Ð£ÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ° Ð¼Ð¾Ð´ÑƒÐ»Ñ";
+$MESS["SCOM_UNINSTALL_TITLE"] = "Ð£Ð´Ð°Ð»ÐµÐ½Ð¸Ðµ Ð¼Ð¾Ð´ÑƒÐ»Ñ";
+$MESS["SPER_PARTNER"] = "1Ð¡-Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ";
 $MESS["PARTNER_URI"] = "http://www.1c-bitrix.ru";
 ?>

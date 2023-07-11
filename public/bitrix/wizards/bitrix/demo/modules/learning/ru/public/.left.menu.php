@@ -1,7 +1,7 @@
 <?
 $aMenuLinks = Array(
   Array(
-    "Êàòàëîã êóðñîâ", 
+    "ÐšÐ°Ñ‚Ð°Ð»Ð¾Ð³ ÐºÑƒÑ€ÑÐ¾Ð²", 
     "index.php",
     Array(), 
     Array(), 
@@ -9,7 +9,7 @@ $aMenuLinks = Array(
   ),
 
   Array(
-    "Ìîè êóðñû",
+    "ÐœÐ¾Ð¸ ÐºÑƒÑ€ÑÑ‹",
     "mycourses.php",
     Array(), 
     Array(), 
@@ -18,7 +18,7 @@ $aMenuLinks = Array(
 
 
   Array(
-    "Æóðíàë îáó÷åíèÿ",
+    "Ð–ÑƒÑ€Ð½Ð°Ð» Ð¾Ð±ÑƒÑ‡ÐµÐ½Ð¸Ñ",
     "gradebook.php",
     Array(), 
     Array(), 
@@ -26,7 +26,7 @@ $aMenuLinks = Array(
   ),
 
   Array(
-    "Àíêåòà ñïåöèàëèñòà",
+    "ÐÐ½ÐºÐµÑ‚Ð° ÑÐ¿ÐµÑ†Ð¸Ð°Ð»Ð¸ÑÑ‚Ð°",
     "profile.php",
     Array(), 
     Array(), 

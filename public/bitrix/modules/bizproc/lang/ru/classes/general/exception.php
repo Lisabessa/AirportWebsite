@@ -1,7 +1,7 @@
 <?
-$MESS ['BPCGERR_INVALID_TYPE1'] = "Àðãóìåíò '#PARAM#' äîëæåí èìåòü òèï '#VALUE#'";
-$MESS ['BPCGERR_INVALID_ARG1'] = "Àðãóìåíò '#PARAM#' èìååò íåäîïóñòèìîå çíà÷åíèå '#VALUE#'";
-$MESS ['BPCGERR_INVALID_ARG'] = "Àðãóìåíò '#PARAM#' èìååò íåäîïóñòèìîå çíà÷åíèå";
-$MESS ['BPCGERR_NULL_ARG'] = "Àðãóìåíò '#PARAM#' íå îïðåäåëåí";
-$MESS ['BPCGERR_INVALID_TYPE'] = "Àðãóìåíò '#PARAM#' èìååò íåäîïóñòèìûé òèï";
+$MESS ['BPCGERR_INVALID_TYPE1'] = "ÐÑ€Ð³ÑƒÐ¼ÐµÐ½Ñ‚ '#PARAM#' Ð´Ð¾Ð»Ð¶ÐµÐ½ Ð¸Ð¼ÐµÑ‚ÑŒ Ñ‚Ð¸Ð¿ '#VALUE#'";
+$MESS ['BPCGERR_INVALID_ARG1'] = "ÐÑ€Ð³ÑƒÐ¼ÐµÐ½Ñ‚ '#PARAM#' Ð¸Ð¼ÐµÐµÑ‚ Ð½ÐµÐ´Ð¾Ð¿ÑƒÑÑ‚Ð¸Ð¼Ð¾Ðµ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ '#VALUE#'";
+$MESS ['BPCGERR_INVALID_ARG'] = "ÐÑ€Ð³ÑƒÐ¼ÐµÐ½Ñ‚ '#PARAM#' Ð¸Ð¼ÐµÐµÑ‚ Ð½ÐµÐ´Ð¾Ð¿ÑƒÑÑ‚Ð¸Ð¼Ð¾Ðµ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ";
+$MESS ['BPCGERR_NULL_ARG'] = "ÐÑ€Ð³ÑƒÐ¼ÐµÐ½Ñ‚ '#PARAM#' Ð½Ðµ Ð¾Ð¿Ñ€ÐµÐ´ÐµÐ»ÐµÐ½";
+$MESS ['BPCGERR_INVALID_TYPE'] = "ÐÑ€Ð³ÑƒÐ¼ÐµÐ½Ñ‚ '#PARAM#' Ð¸Ð¼ÐµÐµÑ‚ Ð½ÐµÐ´Ð¾Ð¿ÑƒÑÑ‚Ð¸Ð¼Ñ‹Ð¹ Ñ‚Ð¸Ð¿";
 ?>

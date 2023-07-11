@@ -1,12 +1,12 @@
 <?
-$MESS["DEFAULT_SITE_NAME"] = "Ñàéò ïî óìîë÷àíèþ";
-$MESS["REGISTERED_GROUP_NAME"] = "Çàðåãèñòðèðîâàííûå ïîëüçîâàòåëè";
-$MESS["CONTROL_PANEL_GROUP_NAME"] = "Ïîëüçîâàòåëè ïàíåëè óïðàâëåíèÿ";
-$MESS["LEFT_MENU_NAME"] = "Ìåíþ ðàçäåëà";
-$MESS["TOP_MENU_NAME"] = "Ãëàâíîå ìåíþ";
+$MESS["DEFAULT_SITE_NAME"] = "Ð¡Ð°Ð¹Ñ‚ Ð¿Ð¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ";
+$MESS["REGISTERED_GROUP_NAME"] = "Ð—Ð°Ñ€ÐµÐ³Ð¸ÑÑ‚Ñ€Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ñ‹Ðµ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ð¸";
+$MESS["CONTROL_PANEL_GROUP_NAME"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ð¸ Ð¿Ð°Ð½ÐµÐ»Ð¸ ÑƒÐ¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ñ";
+$MESS["LEFT_MENU_NAME"] = "ÐœÐµÐ½ÑŽ Ñ€Ð°Ð·Ð´ÐµÐ»Ð°";
+$MESS["TOP_MENU_NAME"] = "Ð“Ð»Ð°Ð²Ð½Ð¾Ðµ Ð¼ÐµÐ½ÑŽ";
 $MESS["MAIN_SETTINGS_GADGETS"] = 'a:1:{s:7:"GADGETS";a:5:{s:15:"RSSREADER@12333";a:5:{s:6:"COLUMN";i:0;s:3:"ROW";i:0;s:8:"USERDATA";N;s:4:"HIDE";s:1:"N";s:8:"SETTINGS";a:2:{s:3:"CNT";s:2:"10";s:7:"RSS_URL";s:44:"http://www.1c-bitrix.ru/about/life/news/rss/";}}s:15:"HTML_AREA@24648";a:4:{s:6:"COLUMN";i:1;s:3:"ROW";i:0;s:8:"USERDATA";N;s:4:"HIDE";s:1:"N";}s:15:"FAVORITES@20837";a:4:{s:6:"COLUMN";i:1;s:3:"ROW";i:1;s:8:"USERDATA";a:1:{s:5:"LINKS";a:1:{i:0;a:2:{s:4:"NAME";s:0:"";s:3:"URL";s:24:"http://www.1c-bitrix.ru/";}}}s:4:"HIDE";s:1:"N";}s:12:"PROBKI@28450";a:4:{s:6:"COLUMN";i:2;s:3:"ROW";i:0;s:8:"USERDATA";N;s:4:"HIDE";s:1:"N";}s:13:"WEATHER@23987";a:4:{s:6:"COLUMN";i:2;s:3:"ROW";i:1;s:8:"USERDATA";N;s:4:"HIDE";s:1:"N";}}}';
-$MESS["MAIN_OPT_DESCRIPTION"] = "Îïèñàíèå ñòðàíèöû";
-$MESS["MAIN_OPT_KEYWORDS"] = "Êëþ÷åâûå ñëîâà";
-$MESS["MAIN_OPT_TITLE"] = "Çàãîëîâîê îêíà áðàóçåðà";
-$MESS["MAIN_OPT_KEYWORDS_INNER"] = "Ïðîäâèãàåìûå ñëîâà";
+$MESS["MAIN_OPT_DESCRIPTION"] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹";
+$MESS["MAIN_OPT_KEYWORDS"] = "ÐšÐ»ÑŽÑ‡ÐµÐ²Ñ‹Ðµ ÑÐ»Ð¾Ð²Ð°";
+$MESS["MAIN_OPT_TITLE"] = "Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº Ð¾ÐºÐ½Ð° Ð±Ñ€Ð°ÑƒÐ·ÐµÑ€Ð°";
+$MESS["MAIN_OPT_KEYWORDS_INNER"] = "ÐŸÑ€Ð¾Ð´Ð²Ð¸Ð³Ð°ÐµÐ¼Ñ‹Ðµ ÑÐ»Ð¾Ð²Ð°";
 ?>

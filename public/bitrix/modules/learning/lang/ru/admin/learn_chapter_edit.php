@@ -1,11 +1,11 @@
 <?
-$MESS ['LEARNING_ADMIN_TAB1'] = "Ãëàâà";
-$MESS ['LEARNING_ADMIN_TAB1_EX'] = "Ïàðàìåòðû ãëàâû";
-$MESS ['LEARNING_ADMIN_TAB3'] = "Ñîäåðæàíèå";
-$MESS ['LEARNING_ADMIN_TAB3_EX'] = "Îïèñàíèå äëÿ äåòàëüíîãî ïðîñìîòðà";
-$MESS ['LEARNING_ADMIN_TAB2'] = "Àíîíñ";
-$MESS ['LEARNING_ADMIN_TAB2_EX'] = "Îïèñàíèå äëÿ àíîíñà";
-$MESS ['LEARNING_ERROR'] = "Îøèáêà ïðè ñîõðàíåíèè ãëàâû";
-$MESS ['LEARNING_CONFIRM_DEL_MESSAGE'] = "Âû óâåðåíû, ÷òî õîòèòå óäàëèòü äàííóþ ãëàâó?";
-$MESS ['LEARNING_PREVIEW_TEXT'] = "Àíîíñ";
+$MESS ['LEARNING_ADMIN_TAB1'] = "Ð“Ð»Ð°Ð²Ð°";
+$MESS ['LEARNING_ADMIN_TAB1_EX'] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ Ð³Ð»Ð°Ð²Ñ‹";
+$MESS ['LEARNING_ADMIN_TAB3'] = "Ð¡Ð¾Ð´ÐµÑ€Ð¶Ð°Ð½Ð¸Ðµ";
+$MESS ['LEARNING_ADMIN_TAB3_EX'] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ Ð´Ð»Ñ Ð´ÐµÑ‚Ð°Ð»ÑŒÐ½Ð¾Ð³Ð¾ Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð°";
+$MESS ['LEARNING_ADMIN_TAB2'] = "ÐÐ½Ð¾Ð½Ñ";
+$MESS ['LEARNING_ADMIN_TAB2_EX'] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ Ð´Ð»Ñ Ð°Ð½Ð¾Ð½ÑÐ°";
+$MESS ['LEARNING_ERROR'] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð¸Ð¸ Ð³Ð»Ð°Ð²Ñ‹";
+$MESS ['LEARNING_CONFIRM_DEL_MESSAGE'] = "Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹, Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ Ð´Ð°Ð½Ð½ÑƒÑŽ Ð³Ð»Ð°Ð²Ñƒ?";
+$MESS ['LEARNING_PREVIEW_TEXT'] = "ÐÐ½Ð¾Ð½Ñ";
 ?>

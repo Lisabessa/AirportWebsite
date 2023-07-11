@@ -1,50 +1,50 @@
 <?php
 
-$MESS["BLOCK_EDITOR_BLOCK_DYNAMIC_CONTENT"] = "Äèíàìè÷åñêèé êîíòåíò";
-$MESS["BLOCK_EDITOR_BLOCK_COMPONENT_BASKET_NAME"] = "Êîðçèíà";
-$MESS["BLOCK_EDITOR_BLOCK_COMPONENT_ORDER_NAME"] = "Çàêàç";
-$MESS["BLOCK_EDITOR_BLOCK_COMPONENT_CATALOG_NAME"] = "Êàòàëîã";
-$MESS["BLOCK_EDITOR_BLOCK_COMPONENT_COUPON_NAME"] = "Êóïîí";
+$MESS["BLOCK_EDITOR_BLOCK_DYNAMIC_CONTENT"] = "Ð”Ð¸Ð½Ð°Ð¼Ð¸Ñ‡ÐµÑÐºÐ¸Ð¹ ÐºÐ¾Ð½Ñ‚ÐµÐ½Ñ‚";
+$MESS["BLOCK_EDITOR_BLOCK_COMPONENT_BASKET_NAME"] = "ÐšÐ¾Ñ€Ð·Ð¸Ð½Ð°";
+$MESS["BLOCK_EDITOR_BLOCK_COMPONENT_ORDER_NAME"] = "Ð—Ð°ÐºÐ°Ð·";
+$MESS["BLOCK_EDITOR_BLOCK_COMPONENT_CATALOG_NAME"] = "ÐšÐ°Ñ‚Ð°Ð»Ð¾Ð³";
+$MESS["BLOCK_EDITOR_BLOCK_COMPONENT_COUPON_NAME"] = "ÐšÑƒÐ¿Ð¾Ð½";
 $MESS["BLOCK_EDITOR_BLOCK_COMPONENT_BIGDATA_NAME"] = "BigData";
 
-$MESS["BLOCK_EDITOR_BLOCK_TEXT_NAME"] = "Òåêñò";
-$MESS["BLOCK_EDITOR_BLOCK_TEXT_DESC"] = "Ýòî áëîê òåêñòà.";
-$MESS["BLOCK_EDITOR_BLOCK_TEXT_EXAMPLE"] = "Òåêñòîâûé áëîê. Çäåñü âû ìîæåòå íàïèñàòü ñîáñòâåííûé òåêñò.";
+$MESS["BLOCK_EDITOR_BLOCK_TEXT_NAME"] = "Ð¢ÐµÐºÑÑ‚";
+$MESS["BLOCK_EDITOR_BLOCK_TEXT_DESC"] = "Ð­Ñ‚Ð¾ Ð±Ð»Ð¾Ðº Ñ‚ÐµÐºÑÑ‚Ð°.";
+$MESS["BLOCK_EDITOR_BLOCK_TEXT_EXAMPLE"] = "Ð¢ÐµÐºÑÑ‚Ð¾Ð²Ñ‹Ð¹ Ð±Ð»Ð¾Ðº. Ð—Ð´ÐµÑÑŒ Ð²Ñ‹ Ð¼Ð¾Ð¶ÐµÑ‚Ðµ Ð½Ð°Ð¿Ð¸ÑÐ°Ñ‚ÑŒ ÑÐ¾Ð±ÑÑ‚Ð²ÐµÐ½Ð½Ñ‹Ð¹ Ñ‚ÐµÐºÑÑ‚.";
 
-$MESS["BLOCK_EDITOR_BLOCK_BOXEDTEXT_NAME"] = "Òåêñò â ðàìêå";
-$MESS["BLOCK_EDITOR_BLOCK_BOXEDTEXT_DESC"] = "Ýòî áëîê òåêñòà â ðàìêå.";
-$MESS["BLOCK_EDITOR_BLOCK_BOXEDTEXT_EXAMPLE"] = "Òåêñòîâûé áëîê â ðàìêå. Çäåñü âû ìîæåòå íàïèñàòü ñîáñòâåííûé òåêñò.";
+$MESS["BLOCK_EDITOR_BLOCK_BOXEDTEXT_NAME"] = "Ð¢ÐµÐºÑÑ‚ Ð² Ñ€Ð°Ð¼ÐºÐµ";
+$MESS["BLOCK_EDITOR_BLOCK_BOXEDTEXT_DESC"] = "Ð­Ñ‚Ð¾ Ð±Ð»Ð¾Ðº Ñ‚ÐµÐºÑÑ‚Ð° Ð² Ñ€Ð°Ð¼ÐºÐµ.";
+$MESS["BLOCK_EDITOR_BLOCK_BOXEDTEXT_EXAMPLE"] = "Ð¢ÐµÐºÑÑ‚Ð¾Ð²Ñ‹Ð¹ Ð±Ð»Ð¾Ðº Ð² Ñ€Ð°Ð¼ÐºÐµ. Ð—Ð´ÐµÑÑŒ Ð²Ñ‹ Ð¼Ð¾Ð¶ÐµÑ‚Ðµ Ð½Ð°Ð¿Ð¸ÑÐ°Ñ‚ÑŒ ÑÐ¾Ð±ÑÑ‚Ð²ÐµÐ½Ð½Ñ‹Ð¹ Ñ‚ÐµÐºÑÑ‚.";
 
-$MESS["BLOCK_EDITOR_BLOCK_LINE_NAME"] = "Ðàçäåëèòåëü";
-$MESS["BLOCK_EDITOR_BLOCK_LINE_DESC"] = "Ýòî áëîê ðàçäåëèòåëüíîé ëèíèè.";
+$MESS["BLOCK_EDITOR_BLOCK_LINE_NAME"] = "Ð Ð°Ð·Ð´ÐµÐ»Ð¸Ñ‚ÐµÐ»ÑŒ";
+$MESS["BLOCK_EDITOR_BLOCK_LINE_DESC"] = "Ð­Ñ‚Ð¾ Ð±Ð»Ð¾Ðº Ñ€Ð°Ð·Ð´ÐµÐ»Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾Ð¹ Ð»Ð¸Ð½Ð¸Ð¸.";
 
-$MESS["BLOCK_EDITOR_BLOCK_IMAGE_NAME"] = "Êàðòèíêà";
-$MESS["BLOCK_EDITOR_BLOCK_IMAGE_DESC"] = "Ýòî áëîê êàðòèíêè.";
+$MESS["BLOCK_EDITOR_BLOCK_IMAGE_NAME"] = "ÐšÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ°";
+$MESS["BLOCK_EDITOR_BLOCK_IMAGE_DESC"] = "Ð­Ñ‚Ð¾ Ð±Ð»Ð¾Ðº ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ¸.";
 
-$MESS["BLOCK_EDITOR_BLOCK_IMAGEGROUP_NAME"] = "Ãðóïïà êàðòèíîê";
-$MESS["BLOCK_EDITOR_BLOCK_IMAGEGROUP_DESC"] = "Ýòî áëîê ãðóïïû íåñêîëüêèõ êàðòèíîê";
+$MESS["BLOCK_EDITOR_BLOCK_IMAGEGROUP_NAME"] = "Ð“Ñ€ÑƒÐ¿Ð¿Ð° ÐºÐ°Ñ€Ñ‚Ð¸Ð½Ð¾Ðº";
+$MESS["BLOCK_EDITOR_BLOCK_IMAGEGROUP_DESC"] = "Ð­Ñ‚Ð¾ Ð±Ð»Ð¾Ðº Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹ Ð½ÐµÑÐºÐ¾Ð»ÑŒÐºÐ¸Ñ… ÐºÐ°Ñ€Ñ‚Ð¸Ð½Ð¾Ðº";
 
-$MESS["BLOCK_EDITOR_BLOCK_BOXEDIMAGE_NAME"] = "Êàðòî÷êà";
-$MESS["BLOCK_EDITOR_BLOCK_BOXEDIMAGE_DESC"] = "Ýòî áëîê êàðòèíêè è òåêñòà â ðàìêå.";
+$MESS["BLOCK_EDITOR_BLOCK_BOXEDIMAGE_NAME"] = "ÐšÐ°Ñ€Ñ‚Ð¾Ñ‡ÐºÐ°";
+$MESS["BLOCK_EDITOR_BLOCK_BOXEDIMAGE_DESC"] = "Ð­Ñ‚Ð¾ Ð±Ð»Ð¾Ðº ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ¸ Ð¸ Ñ‚ÐµÐºÑÑ‚Ð° Ð² Ñ€Ð°Ð¼ÐºÐµ.";
 
-$MESS["BLOCK_EDITOR_BLOCK_IMAGETEXT_NAME"] = "Êàðòèíêà + Òåêñò";
-$MESS["BLOCK_EDITOR_BLOCK_IMAGETEXT_DESC"] = "Ýòî áëîê êàðòèíêè è òåêñòà";
+$MESS["BLOCK_EDITOR_BLOCK_IMAGETEXT_NAME"] = "ÐšÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ° + Ð¢ÐµÐºÑÑ‚";
+$MESS["BLOCK_EDITOR_BLOCK_IMAGETEXT_DESC"] = "Ð­Ñ‚Ð¾ Ð±Ð»Ð¾Ðº ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ¸ Ð¸ Ñ‚ÐµÐºÑÑ‚Ð°";
 
-$MESS["BLOCK_EDITOR_BLOCK_BUTTON_NAME"] = "Êíîïêà";
-$MESS["BLOCK_EDITOR_BLOCK_BUTTON_DESC"] = "Ýòî áëîê êíîïêè.";
-$MESS["BLOCK_EDITOR_BLOCK_BUTTON_EXAMPLE"] = "Ïåðåéòè íà ñàéò";
+$MESS["BLOCK_EDITOR_BLOCK_BUTTON_NAME"] = "ÐšÐ½Ð¾Ð¿ÐºÐ°";
+$MESS["BLOCK_EDITOR_BLOCK_BUTTON_DESC"] = "Ð­Ñ‚Ð¾ Ð±Ð»Ð¾Ðº ÐºÐ½Ð¾Ð¿ÐºÐ¸.";
+$MESS["BLOCK_EDITOR_BLOCK_BUTTON_EXAMPLE"] = "ÐŸÐµÑ€ÐµÐ¹Ñ‚Ð¸ Ð½Ð° ÑÐ°Ð¹Ñ‚";
 
-$MESS["BLOCK_EDITOR_BLOCK_CODE_NAME"] = "Êîä";
-$MESS["BLOCK_EDITOR_BLOCK_CODE_DESC"] = "Äîáàâüòå ýòîò áëîê, åñëè õîòèòå âñòàâèòü êóñî÷åê html-êîäà.";
-$MESS["BLOCK_EDITOR_BLOCK_CODE_EXAMPLE"] = "Çäåñü âû ìîæåòå íàïèñàòü html-êîä";
+$MESS["BLOCK_EDITOR_BLOCK_CODE_NAME"] = "ÐšÐ¾Ð´";
+$MESS["BLOCK_EDITOR_BLOCK_CODE_DESC"] = "Ð”Ð¾Ð±Ð°Ð²ÑŒÑ‚Ðµ ÑÑ‚Ð¾Ñ‚ Ð±Ð»Ð¾Ðº, ÐµÑÐ»Ð¸ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ Ð²ÑÑ‚Ð°Ð²Ð¸Ñ‚ÑŒ ÐºÑƒÑÐ¾Ñ‡ÐµÐº html-ÐºÐ¾Ð´Ð°.";
+$MESS["BLOCK_EDITOR_BLOCK_CODE_EXAMPLE"] = "Ð—Ð´ÐµÑÑŒ Ð²Ñ‹ Ð¼Ð¾Ð¶ÐµÑ‚Ðµ Ð½Ð°Ð¿Ð¸ÑÐ°Ñ‚ÑŒ html-ÐºÐ¾Ð´";
 
-$MESS["BLOCK_EDITOR_BLOCK_FOOTER_NAME"] = "Ôóòåð";
-$MESS["BLOCK_EDITOR_BLOCK_FOOTER_DESC"] = "Ýòî áëîê îòïèñêè.";
-$MESS["BLOCK_EDITOR_BLOCK_FOOTER_EXAMPLE"] = "Îòïèñàòüñÿ";
+$MESS["BLOCK_EDITOR_BLOCK_FOOTER_NAME"] = "Ð¤ÑƒÑ‚ÐµÑ€";
+$MESS["BLOCK_EDITOR_BLOCK_FOOTER_DESC"] = "Ð­Ñ‚Ð¾ Ð±Ð»Ð¾Ðº Ð¾Ñ‚Ð¿Ð¸ÑÐºÐ¸.";
+$MESS["BLOCK_EDITOR_BLOCK_FOOTER_EXAMPLE"] = "ÐžÑ‚Ð¿Ð¸ÑÐ°Ñ‚ÑŒÑÑ";
 
-$MESS["BLOCK_EDITOR_BLOCK_SOCIAL_NAME"] = "Ñîöñåòè";
-$MESS["BLOCK_EDITOR_BLOCK_SOCIAL_DESC"] = "Ýòî áëîê ññûëîê íà ñòðàíèöû â ñîöñåòÿõ.";
+$MESS["BLOCK_EDITOR_BLOCK_SOCIAL_NAME"] = "Ð¡Ð¾Ñ†ÑÐµÑ‚Ð¸";
+$MESS["BLOCK_EDITOR_BLOCK_SOCIAL_DESC"] = "Ð­Ñ‚Ð¾ Ð±Ð»Ð¾Ðº ÑÑÑ‹Ð»Ð¾Ðº Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹ Ð² ÑÐ¾Ñ†ÑÐµÑ‚ÑÑ….";
 $MESS["BLOCK_EDITOR_BLOCK_SOCIAL_FACEBOOK"] = "facebook";
-$MESS["BLOCK_EDITOR_BLOCK_SOCIAL_VK"] = "âêîíòàêòå";
+$MESS["BLOCK_EDITOR_BLOCK_SOCIAL_VK"] = "Ð²ÐºÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ðµ";
 $MESS["BLOCK_EDITOR_BLOCK_SOCIAL_TWITTER"] = "twitter";
 $MESS["BLOCK_EDITOR_BLOCK_SOCIAL_INSTAGRAM"] = "instagram";

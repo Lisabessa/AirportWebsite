@@ -1,24 +1,24 @@
 <?
-$MESS ['VOTE_CHANNEL'] = "Ãðóïïà:";
-$MESS ['VOTE_VOTE'] = "Îïðîñ:";
-$MESS ['VOTE_PAGE_TITLE'] = "Ãîëîñîâàíèå # #ID#";
-$MESS ['VOTE_RESULTS_LIST'] = "Ðåçóëüòàòû îïðîñà";
-$MESS ['VOTE_GUEST'] = "Ïîñåòèòåëü:";
-$MESS ['VOTE_RESULT_NOT_FOUND'] = "Ðåçóëüòàò ãîëîñîâàíèÿ íå íàéäåí";
-$MESS ['VOTE_EDIT_USER'] = "Ïðîôàéë ïîëüçîâàòåëÿ";
-$MESS ['VOTE_NOT_AUTHORIZED'] = "íå àâòîðèçîâàí";
-$MESS ['VOTE_DATE'] = "Äàòà:";
-$MESS ['VOTE_SESSION'] = "Ñåññèÿ:";
-$MESS ['VOTE_VALID'] = "Âàëèäíî:";
-$MESS ['VOTE_PARAMS'] = "Ïàðàìåòðû";
-$MESS ['VOTE_PARAMS_TITE'] = "Íàñòðîéêà ïàðàìåòðîâ";
-$MESS ['VOTE_F_IP'] = "IP àäðåñ:";
-$MESS ['VOTE_VOTES'] = "Âñåãî ãîëîñîâ:";
-$MESS ['VOTE_ENLARGE'] = "Óâåëè÷èòü";
-$MESS ['VOTE_START_DATE'] = "Äàòà íà÷àëà:";
-$MESS ['VOTE_END_DATE'] = "Äàòà îêîí÷àíèÿ:";
-$MESS ['VOTE_ACTUALITY'] = "Àêòóàëüíîñòü:";
-$MESS ['VOTE_ANSWERS'] = "Îòâåòû:";
-$MESS ['VOTE_VOTE1'] = "Îïðîñ";
+$MESS ['VOTE_CHANNEL'] = "Ð“Ñ€ÑƒÐ¿Ð¿Ð°:";
+$MESS ['VOTE_VOTE'] = "ÐžÐ¿Ñ€Ð¾Ñ:";
+$MESS ['VOTE_PAGE_TITLE'] = "Ð“Ð¾Ð»Ð¾ÑÐ¾Ð²Ð°Ð½Ð¸Ðµ # #ID#";
+$MESS ['VOTE_RESULTS_LIST'] = "Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ñ‹ Ð¾Ð¿Ñ€Ð¾ÑÐ°";
+$MESS ['VOTE_GUEST'] = "ÐŸÐ¾ÑÐµÑ‚Ð¸Ñ‚ÐµÐ»ÑŒ:";
+$MESS ['VOTE_RESULT_NOT_FOUND'] = "Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚ Ð³Ð¾Ð»Ð¾ÑÐ¾Ð²Ð°Ð½Ð¸Ñ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
+$MESS ['VOTE_EDIT_USER'] = "ÐŸÑ€Ð¾Ñ„Ð°Ð¹Ð» Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
+$MESS ['VOTE_NOT_AUTHORIZED'] = "Ð½Ðµ Ð°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·Ð¾Ð²Ð°Ð½";
+$MESS ['VOTE_DATE'] = "Ð”Ð°Ñ‚Ð°:";
+$MESS ['VOTE_SESSION'] = "Ð¡ÐµÑÑÐ¸Ñ:";
+$MESS ['VOTE_VALID'] = "Ð’Ð°Ð»Ð¸Ð´Ð½Ð¾:";
+$MESS ['VOTE_PARAMS'] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹";
+$MESS ['VOTE_PARAMS_TITE'] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð¾Ð²";
+$MESS ['VOTE_F_IP'] = "IP Ð°Ð´Ñ€ÐµÑ:";
+$MESS ['VOTE_VOTES'] = "Ð’ÑÐµÐ³Ð¾ Ð³Ð¾Ð»Ð¾ÑÐ¾Ð²:";
+$MESS ['VOTE_ENLARGE'] = "Ð£Ð²ÐµÐ»Ð¸Ñ‡Ð¸Ñ‚ÑŒ";
+$MESS ['VOTE_START_DATE'] = "Ð”Ð°Ñ‚Ð° Ð½Ð°Ñ‡Ð°Ð»Ð°:";
+$MESS ['VOTE_END_DATE'] = "Ð”Ð°Ñ‚Ð° Ð¾ÐºÐ¾Ð½Ñ‡Ð°Ð½Ð¸Ñ:";
+$MESS ['VOTE_ACTUALITY'] = "ÐÐºÑ‚ÑƒÐ°Ð»ÑŒÐ½Ð¾ÑÑ‚ÑŒ:";
+$MESS ['VOTE_ANSWERS'] = "ÐžÑ‚Ð²ÐµÑ‚Ñ‹:";
+$MESS ['VOTE_VOTE1'] = "ÐžÐ¿Ñ€Ð¾Ñ";
 
 ?>

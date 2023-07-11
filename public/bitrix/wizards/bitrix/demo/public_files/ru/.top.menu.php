@@ -2,7 +2,7 @@
 $aMenuLinks = Array(
 
 	Array(
-		"Главная", 
+		"Р“Р»Р°РІРЅР°СЏ", 
 		"/", 
 		Array(), 
 		Array(), 
@@ -10,7 +10,7 @@ $aMenuLinks = Array(
 	),
 
 	Array(
-		"Профиль", 
+		"РџСЂРѕС„РёР»СЊ", 
 		"/personal/", 
 		Array(), 
 		Array(), 

@@ -1,3 +1,3 @@
 <?
-$MESS["SHARE_ERROR_EMPTY_SERVER"] = "Íå çàäàí URL ñàéòà";
+$MESS["SHARE_ERROR_EMPTY_SERVER"] = "ÐÐµ Ð·Ð°Ð´Ð°Ð½ URL ÑÐ°Ð¹Ñ‚Ð°";
 ?>

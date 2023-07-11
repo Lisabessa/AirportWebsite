@@ -1,8 +1,8 @@
 <?php
-$MESS["UI_BUTTONS_SAVE_BTN_TEXT"] = "Ñîõðàíèòü";
-$MESS["UI_BUTTONS_CREATE_BTN_TEXT"] = "Ñîçäàòü";
-$MESS["UI_BUTTONS_ADD_BTN_TEXT"] = "Äîáàâèòü";
-$MESS["UI_BUTTONS_SEND_BTN_TEXT"] = "Îòïðàâèòü";
-$MESS["UI_BUTTONS_CANCEL_BTN_TEXT"] = "Îòìåíèòü";
-$MESS["UI_BUTTONS_CLOSE_BTN_TEXT"] = "Çàêðûòü";
-$MESS["UI_BUTTONS_APPLY_BTN_TEXT"] = "Ïðèìåíèòü";
+$MESS["UI_BUTTONS_SAVE_BTN_TEXT"] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ";
+$MESS["UI_BUTTONS_CREATE_BTN_TEXT"] = "Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ";
+$MESS["UI_BUTTONS_ADD_BTN_TEXT"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ";
+$MESS["UI_BUTTONS_SEND_BTN_TEXT"] = "ÐžÑ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÑŒ";
+$MESS["UI_BUTTONS_CANCEL_BTN_TEXT"] = "ÐžÑ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
+$MESS["UI_BUTTONS_CLOSE_BTN_TEXT"] = "Ð—Ð°ÐºÑ€Ñ‹Ñ‚ÑŒ";
+$MESS["UI_BUTTONS_APPLY_BTN_TEXT"] = "ÐŸÑ€Ð¸Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";

@@ -1,14 +1,14 @@
 <?
-$MESS["SALE_MODULE_ACCES_DENIED"] = "Äîñòóï ê ìîäóëþ çàïðåù¸í";
-$MESS["SALE_LOCATION_E_ITEM_EDIT"] = "Èçáðàííûå ìåñòîïîëîæåíèÿ: #ITEM_NAME#";
-$MESS["SALE_LOCATION_E_CANNOT_UPDATE_ITEM"] = "Îøèáêà îáíîâëåíèÿ ãðóïïû";
-$MESS["SALE_LOCATION_E_MAIN_TAB"] = "Ìåñòîïîëîæåíèÿ";
-$MESS["SALE_LOCATION_E_MAIN_TAB_TITLE"] = "Âûáîð ìåñòîïîëîæåíèé";
-$MESS["SALE_LOCATION_E_ITEM_NOT_FOUND"] = "Ñàéò íå íàéäåí";
-$MESS["SALE_LOCATION_E_GO_BACK"] = "Âåðíóòüñÿ ê ñïèñêó";
-$MESS["SALE_LOCATION_E_ITEM_NEW"] = "Èçáðàííûå ìåñòîïîëîæåíèÿ";
-$MESS["SALE_LOCATION_E_HEADER_LOC_REMOVE"] = "Óäàë.";
-$MESS["SALE_LOCATION_E_HEADER_LOC_LOCATION"] = "Ìåñòîïîëîæåíèå";
-$MESS["SALE_LOCATION_E_HEADER_LOC_MORE"] = "Åù¸";
-$MESS["SALE_LOCATION_E_HEADER_LOC_SORT"] = "Ñîðòèðîâêà";
+$MESS["SALE_MODULE_ACCES_DENIED"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ðº Ð¼Ð¾Ð´ÑƒÐ»ÑŽ Ð·Ð°Ð¿Ñ€ÐµÑ‰Ñ‘Ð½";
+$MESS["SALE_LOCATION_E_ITEM_EDIT"] = "Ð˜Ð·Ð±Ñ€Ð°Ð½Ð½Ñ‹Ðµ Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ: #ITEM_NAME#";
+$MESS["SALE_LOCATION_E_CANNOT_UPDATE_ITEM"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ñ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
+$MESS["SALE_LOCATION_E_MAIN_TAB"] = "ÐœÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ";
+$MESS["SALE_LOCATION_E_MAIN_TAB_TITLE"] = "Ð’Ñ‹Ð±Ð¾Ñ€ Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹";
+$MESS["SALE_LOCATION_E_ITEM_NOT_FOUND"] = "Ð¡Ð°Ð¹Ñ‚ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
+$MESS["SALE_LOCATION_E_GO_BACK"] = "Ð’ÐµÑ€Ð½ÑƒÑ‚ÑŒÑÑ Ðº ÑÐ¿Ð¸ÑÐºÑƒ";
+$MESS["SALE_LOCATION_E_ITEM_NEW"] = "Ð˜Ð·Ð±Ñ€Ð°Ð½Ð½Ñ‹Ðµ Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ";
+$MESS["SALE_LOCATION_E_HEADER_LOC_REMOVE"] = "Ð£Ð´Ð°Ð».";
+$MESS["SALE_LOCATION_E_HEADER_LOC_LOCATION"] = "ÐœÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ";
+$MESS["SALE_LOCATION_E_HEADER_LOC_MORE"] = "Ð•Ñ‰Ñ‘";
+$MESS["SALE_LOCATION_E_HEADER_LOC_SORT"] = "Ð¡Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²ÐºÐ°";
 ?>

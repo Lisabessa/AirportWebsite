@@ -1,17 +1,17 @@
 <?
-$MESS ['FM_ML_ACCESS_TITLE'] = "Ïðàâà äîñòóïà äëÿ êîëëåêöèé ìåäèàáèáëèîòåêè";
-$MESS ['FM_ML_TAB_NAME'] = "Ïðàâà íà äîñòóï";
-$MESS ['FM_ML_TAB_TITLE'] = "Óñòàíîâêà ïðàâ íà äîñòóï ê êîëëåêöèÿì ìåäèàáèáëèîòåêè";
-$MESS ['ML_SELECT_COLLECTION'] = "Âûáåðèòå êîëëåêöèþ èç ñïèñêà";
-$MESS ['ML_ACCESS_FOR_ALL'] = "Îáùèé äîñòóï äëÿ âñåõ êîëëåêöèé";
-$MESS ['ML_ACCESS_GROUP'] = "Ãðóïïà";
-$MESS ['ML_ACCESS_TASK'] = "Óðîâåíü äîñòóïà";
-$MESS ['ML_TASK_INHERIT'] = "Íàñëåäîâàòü";
-$MESS ['ML_TASK_MEDIALIB_DENIED'] = "Çàïðåùåí";
-$MESS ['ML_TASK_MEDIALIB_VIEW'] = "Ïðîñìîòð";
-$MESS ['ML_TASK_MEDIALIB_ONLY_NEW'] = "Ñîçäàâàòü íîâûå";
-$MESS ['ML_TASK_MEDIALIB_EDIT_ITEMS'] = "Ðåäàêòèðîâàòü òîëüêî ýëåìåíòû";
-$MESS ['ML_TASK_MEDIALIB_EDITOR'] = "Ðåäàêòèðîâàòü";
-$MESS ['ML_TASK_MEDIALIB_FULL'] = "Ïîëíûé äîñòóï";
-$MESS ['FM_ML_BACK_IN_ML'] = "Âåðíóòüñÿ â ìåäèàáèáëèîòåêó";
+$MESS ['FM_ML_ACCESS_TITLE'] = "ÐŸÑ€Ð°Ð²Ð° Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð° Ð´Ð»Ñ ÐºÐ¾Ð»Ð»ÐµÐºÑ†Ð¸Ð¹ Ð¼ÐµÐ´Ð¸Ð°Ð±Ð¸Ð±Ð»Ð¸Ð¾Ñ‚ÐµÐºÐ¸";
+$MESS ['FM_ML_TAB_NAME'] = "ÐŸÑ€Ð°Ð²Ð° Ð½Ð° Ð´Ð¾ÑÑ‚ÑƒÐ¿";
+$MESS ['FM_ML_TAB_TITLE'] = "Ð£ÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ° Ð¿Ñ€Ð°Ð² Ð½Ð° Ð´Ð¾ÑÑ‚ÑƒÐ¿ Ðº ÐºÐ¾Ð»Ð»ÐµÐºÑ†Ð¸ÑÐ¼ Ð¼ÐµÐ´Ð¸Ð°Ð±Ð¸Ð±Ð»Ð¸Ð¾Ñ‚ÐµÐºÐ¸";
+$MESS ['ML_SELECT_COLLECTION'] = "Ð’Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ ÐºÐ¾Ð»Ð»ÐµÐºÑ†Ð¸ÑŽ Ð¸Ð· ÑÐ¿Ð¸ÑÐºÐ°";
+$MESS ['ML_ACCESS_FOR_ALL'] = "ÐžÐ±Ñ‰Ð¸Ð¹ Ð´Ð¾ÑÑ‚ÑƒÐ¿ Ð´Ð»Ñ Ð²ÑÐµÑ… ÐºÐ¾Ð»Ð»ÐµÐºÑ†Ð¸Ð¹";
+$MESS ['ML_ACCESS_GROUP'] = "Ð“Ñ€ÑƒÐ¿Ð¿Ð°";
+$MESS ['ML_ACCESS_TASK'] = "Ð£Ñ€Ð¾Ð²ÐµÐ½ÑŒ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð°";
+$MESS ['ML_TASK_INHERIT'] = "ÐÐ°ÑÐ»ÐµÐ´Ð¾Ð²Ð°Ñ‚ÑŒ";
+$MESS ['ML_TASK_MEDIALIB_DENIED'] = "Ð—Ð°Ð¿Ñ€ÐµÑ‰ÐµÐ½";
+$MESS ['ML_TASK_MEDIALIB_VIEW'] = "ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€";
+$MESS ['ML_TASK_MEDIALIB_ONLY_NEW'] = "Ð¡Ð¾Ð·Ð´Ð°Ð²Ð°Ñ‚ÑŒ Ð½Ð¾Ð²Ñ‹Ðµ";
+$MESS ['ML_TASK_MEDIALIB_EDIT_ITEMS'] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ñ‚Ð¾Ð»ÑŒÐºÐ¾ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ñ‹";
+$MESS ['ML_TASK_MEDIALIB_EDITOR'] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ";
+$MESS ['ML_TASK_MEDIALIB_FULL'] = "ÐŸÐ¾Ð»Ð½Ñ‹Ð¹ Ð´Ð¾ÑÑ‚ÑƒÐ¿";
+$MESS ['FM_ML_BACK_IN_ML'] = "Ð’ÐµÑ€Ð½ÑƒÑ‚ÑŒÑÑ Ð² Ð¼ÐµÐ´Ð¸Ð°Ð±Ð¸Ð±Ð»Ð¸Ð¾Ñ‚ÐµÐºÑƒ";
 ?>

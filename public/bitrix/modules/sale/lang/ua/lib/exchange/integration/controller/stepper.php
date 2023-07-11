@@ -1,17 +1,17 @@
 <?
-$MESS["SALE_ORDER_APP_REST_SENDER_ORDER_ERROR"] = "Ïîìèëêà âèâàíòàæåííÿ çàìîâëåííÿ:";
-$MESS["SALE_ORDER_APP_REST_SENDER_Y"] = "ðàí³øå âæå áóëî âèâàíòàæåíî";
-$MESS["SALE_ORDER_APP_REST_SUBJECT"] = "Çîâí³øí³é ID çàìîâëåííÿ (#ID#)";
-$MESS["SALE_ORDER_REQUEST_BACK"] = "Ïîâåðíóòèñÿ";
-$MESS["SALE_ORDER_REQUEST_ENTITY_ID_EMPTY"] = "Ïîìèëêà â³äïðàâêè êîìàíäè - ID äîêóìåíòà äëÿ ïðèâ'ÿçêè íå âêàçàíî. Áóäü ëàñêà, ïîâòîð³òü ñïðîáó âèâàíòàæåííÿ";
-$MESS["SALE_ORDER_REQUEST_ENTITY_TYPE_ID_EMPTY"] = "Ïîìèëêà â³äïðàâêè êîìàíäè - ID òèïó äîêóìåíòà íå âêàçàíî. Áóäü ëàñêà, ïîâòîð³òü ñïðîáó âèâàíòàæåííÿ";
-$MESS["SALE_ORDER_REQUEST_ENTITY_TYPE_ID_UNKNOW"] = "Ïîìèëêà â³äïðàâêè êîìàíäè - Íåâ³äîìèé òèï çîâí³øíüî¿ ñóòíîñò³";
-$MESS["SALE_ORDER_REQUEST_LIST"] = "Ñïèñîê çàìîâëåíü";
-$MESS["SALE_ORDER_REQUEST_ORDER_IDS_EMPTY"] = "Ñïèñîê çàìîâëåíü, ùî âèâàíòàæóþòüñÿ, ïóñòèé";
-$MESS["SALE_ORDER_REQUEST_ORDER_IDS_OK"] = "Âèâàíòàæåííÿ çàâåðøåíå";
-$MESS["SALE_ORDER_REQUEST_ORDER_TRIGGER_OK"] = "Ñòâîðåí³ òðèãåðè äëÿ ñòàòóñ³â çàìîâëåííÿ. Òåïåð âè ìîæåòå íàëàøòóâàòè ðîáîò³â âàøîãî Á24";
-$MESS["SALE_ORDER_REQUEST_SEND"] = "Âèâàíòàæåííÿ çàìîâëåíü";
-$MESS["SALE_ORDER_REQUEST_STATUS"] = "Ñòàòóñ";
-$MESS["SALE_ORDER_REQUEST_STATUS_PROCESS"] = "Âèâàíòàæåííÿ îáðàíèõ çàìîâëåíü";
-$MESS["SALE_ORDER_REQUEST_TRIGGER_PROCESS"] = "ñòâîðåííÿ òðèãåð³â ó Á24";
+$MESS["SALE_ORDER_APP_REST_SENDER_ORDER_ERROR"] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ° Ð²Ð¸Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ:";
+$MESS["SALE_ORDER_APP_REST_SENDER_Y"] = "Ñ€Ð°Ð½Ñ–ÑˆÐµ Ð²Ð¶Ðµ Ð±ÑƒÐ»Ð¾ Ð²Ð¸Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð¾";
+$MESS["SALE_ORDER_APP_REST_SUBJECT"] = "Ð—Ð¾Ð²Ð½Ñ–ÑˆÐ½Ñ–Ð¹ ID Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ (#ID#)";
+$MESS["SALE_ORDER_REQUEST_BACK"] = "ÐŸÐ¾Ð²ÐµÑ€Ð½ÑƒÑ‚Ð¸ÑÑ";
+$MESS["SALE_ORDER_REQUEST_ENTITY_ID_EMPTY"] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ° Ð²Ñ–Ð´Ð¿Ñ€Ð°Ð²ÐºÐ¸ ÐºÐ¾Ð¼Ð°Ð½Ð´Ð¸ - ID Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð° Ð´Ð»Ñ Ð¿Ñ€Ð¸Ð²'ÑÐ·ÐºÐ¸ Ð½Ðµ Ð²ÐºÐ°Ð·Ð°Ð½Ð¾. Ð‘ÑƒÐ´ÑŒ Ð»Ð°ÑÐºÐ°, Ð¿Ð¾Ð²Ñ‚Ð¾Ñ€Ñ–Ñ‚ÑŒ ÑÐ¿Ñ€Ð¾Ð±Ñƒ Ð²Ð¸Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ";
+$MESS["SALE_ORDER_REQUEST_ENTITY_TYPE_ID_EMPTY"] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ° Ð²Ñ–Ð´Ð¿Ñ€Ð°Ð²ÐºÐ¸ ÐºÐ¾Ð¼Ð°Ð½Ð´Ð¸ - ID Ñ‚Ð¸Ð¿Ñƒ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð° Ð½Ðµ Ð²ÐºÐ°Ð·Ð°Ð½Ð¾. Ð‘ÑƒÐ´ÑŒ Ð»Ð°ÑÐºÐ°, Ð¿Ð¾Ð²Ñ‚Ð¾Ñ€Ñ–Ñ‚ÑŒ ÑÐ¿Ñ€Ð¾Ð±Ñƒ Ð²Ð¸Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ";
+$MESS["SALE_ORDER_REQUEST_ENTITY_TYPE_ID_UNKNOW"] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ° Ð²Ñ–Ð´Ð¿Ñ€Ð°Ð²ÐºÐ¸ ÐºÐ¾Ð¼Ð°Ð½Ð´Ð¸ - ÐÐµÐ²Ñ–Ð´Ð¾Ð¼Ð¸Ð¹ Ñ‚Ð¸Ð¿ Ð·Ð¾Ð²Ð½Ñ–ÑˆÐ½ÑŒÐ¾Ñ— ÑÑƒÑ‚Ð½Ð¾ÑÑ‚Ñ–";
+$MESS["SALE_ORDER_REQUEST_LIST"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½ÑŒ";
+$MESS["SALE_ORDER_REQUEST_ORDER_IDS_EMPTY"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½ÑŒ, Ñ‰Ð¾ Ð²Ð¸Ð²Ð°Ð½Ñ‚Ð°Ð¶ÑƒÑŽÑ‚ÑŒÑÑ, Ð¿ÑƒÑÑ‚Ð¸Ð¹";
+$MESS["SALE_ORDER_REQUEST_ORDER_IDS_OK"] = "Ð’Ð¸Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ Ð·Ð°Ð²ÐµÑ€ÑˆÐµÐ½Ðµ";
+$MESS["SALE_ORDER_REQUEST_ORDER_TRIGGER_OK"] = "Ð¡Ñ‚Ð²Ð¾Ñ€ÐµÐ½Ñ– Ñ‚Ñ€Ð¸Ð³ÐµÑ€Ð¸ Ð´Ð»Ñ ÑÑ‚Ð°Ñ‚ÑƒÑÑ–Ð² Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ. Ð¢ÐµÐ¿ÐµÑ€ Ð²Ð¸ Ð¼Ð¾Ð¶ÐµÑ‚Ðµ Ð½Ð°Ð»Ð°ÑˆÑ‚ÑƒÐ²Ð°Ñ‚Ð¸ Ñ€Ð¾Ð±Ð¾Ñ‚Ñ–Ð² Ð²Ð°ÑˆÐ¾Ð³Ð¾ Ð‘24";
+$MESS["SALE_ORDER_REQUEST_SEND"] = "Ð’Ð¸Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½ÑŒ";
+$MESS["SALE_ORDER_REQUEST_STATUS"] = "Ð¡Ñ‚Ð°Ñ‚ÑƒÑ";
+$MESS["SALE_ORDER_REQUEST_STATUS_PROCESS"] = "Ð’Ð¸Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ Ð¾Ð±Ñ€Ð°Ð½Ð¸Ñ… Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½ÑŒ";
+$MESS["SALE_ORDER_REQUEST_TRIGGER_PROCESS"] = "ÑÑ‚Ð²Ð¾Ñ€ÐµÐ½Ð½Ñ Ñ‚Ñ€Ð¸Ð³ÐµÑ€Ñ–Ð² Ñƒ Ð‘24";
 ?>

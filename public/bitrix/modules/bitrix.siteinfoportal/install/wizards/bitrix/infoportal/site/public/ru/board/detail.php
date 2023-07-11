@@ -1,8 +1,8 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Объявление детально");
+$APPLICATION->SetTitle("РћР±СЉСЏРІР»РµРЅРёРµ РґРµС‚Р°Р»СЊРЅРѕ");
 ?>
-<h4><a href="/content/board/my/?edit=Y">Добавить объявление</a> | <a href="/content/board/my/">Мои объявления</a></h4>
+<h4><a href="/content/board/my/?edit=Y">Р”РѕР±Р°РІРёС‚СЊ РѕР±СЉСЏРІР»РµРЅРёРµ</a> | <a href="/content/board/my/">РњРѕРё РѕР±СЉСЏРІР»РµРЅРёСЏ</a></h4>
 
 <?$APPLICATION->IncludeComponent("bitrix:catalog.element", "board", array(
 	"IBLOCK_TYPE" => "services",

@@ -63,6 +63,6 @@ if (CModule::IncludeModule("socialnetwork"))
 
 	$aMenuLinks = array_merge($aMenuLinks, $aMenuLinksAdd);
 
-	$aMenuLinks[] = array("Àðõèâ", str_replace("#subject_id#", -1, $strGroupSubjectLinkTemplate), array(), array(), "");
+	$aMenuLinks[] = array("ÐÑ€Ñ…Ð¸Ð²", str_replace("#subject_id#", -1, $strGroupSubjectLinkTemplate), array(), array(), "");
 }
 ?>

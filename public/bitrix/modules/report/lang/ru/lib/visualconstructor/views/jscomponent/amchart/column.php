@@ -1,2 +1,2 @@
 <?php
-$MESS['REPORT_COLUMN_VIEW_LABEL'] = 'Ãèñòîãðàììà';
+$MESS['REPORT_COLUMN_VIEW_LABEL'] = 'Ð“Ð¸ÑÑ‚Ð¾Ð³Ñ€Ð°Ð¼Ð¼Ð°';

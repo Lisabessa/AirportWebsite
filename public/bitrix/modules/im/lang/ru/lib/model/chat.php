@@ -1,16 +1,16 @@
 <?
 $MESS["CHAT_ENTITY_ID_FIELD"] = "ID";
-$MESS["CHAT_ENTITY_TYPE_FIELD"] = "Òèï ÷àòà";
-$MESS["CHAT_ENTITY_EXTRANET_FIELD"] = "Ýêñòðàíåò";
-$MESS["CHAT_ENTITY_TITLE_FIELD"] = "Çàãîëîâîê ÷àòà";
-$MESS["CHAT_ENTITY_DESCRIPTION_FIELD"] = "Îïèñàíèå ÷àòà";
-$MESS["CHAT_ENTITY_AUTHOR_ID_FIELD"] = "ID àâòîðà ÷àòà";
-$MESS["CHAT_ENTITY_CALL_TYPE_FIELD"] = "Òèï çâîíêà";
-$MESS["CHAT_ENTITY_CALL_NUMBER_FIELD"] = "Íîìåð äëÿ çâîíêà";
-$MESS["CHAT_ENTITY_ENTITY_TYPE_FIELD"] = "Ñóùíîñòü";
-$MESS["CHAT_ENTITY_ENTITY_ID_FIELD"] = "ID ñóùíîñòè";
-$MESS["CHAT_ENTITY_ENTITY_DATA_1_FIELD"] = "Äàííûå ñóùíîñòè 1";
-$MESS["CHAT_ENTITY_ENTITY_DATA_2_FIELD"] = "Äàííûå ñóùíîñòè 2";
-$MESS["CHAT_ENTITY_ENTITY_DATA_3_FIELD"] = "Äàííûå ñóùíîñòè 3";
-$MESS["CHAT_ENTITY_COLOR_FIELD"] = "Öâåò ÷àòà";
+$MESS["CHAT_ENTITY_TYPE_FIELD"] = "Ð¢Ð¸Ð¿ Ñ‡Ð°Ñ‚Ð°";
+$MESS["CHAT_ENTITY_EXTRANET_FIELD"] = "Ð­ÐºÑÑ‚Ñ€Ð°Ð½ÐµÑ‚";
+$MESS["CHAT_ENTITY_TITLE_FIELD"] = "Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº Ñ‡Ð°Ñ‚Ð°";
+$MESS["CHAT_ENTITY_DESCRIPTION_FIELD"] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ Ñ‡Ð°Ñ‚Ð°";
+$MESS["CHAT_ENTITY_AUTHOR_ID_FIELD"] = "ID Ð°Ð²Ñ‚Ð¾Ñ€Ð° Ñ‡Ð°Ñ‚Ð°";
+$MESS["CHAT_ENTITY_CALL_TYPE_FIELD"] = "Ð¢Ð¸Ð¿ Ð·Ð²Ð¾Ð½ÐºÐ°";
+$MESS["CHAT_ENTITY_CALL_NUMBER_FIELD"] = "ÐÐ¾Ð¼ÐµÑ€ Ð´Ð»Ñ Ð·Ð²Ð¾Ð½ÐºÐ°";
+$MESS["CHAT_ENTITY_ENTITY_TYPE_FIELD"] = "Ð¡ÑƒÑ‰Ð½Ð¾ÑÑ‚ÑŒ";
+$MESS["CHAT_ENTITY_ENTITY_ID_FIELD"] = "ID ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸";
+$MESS["CHAT_ENTITY_ENTITY_DATA_1_FIELD"] = "Ð”Ð°Ð½Ð½Ñ‹Ðµ ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸ 1";
+$MESS["CHAT_ENTITY_ENTITY_DATA_2_FIELD"] = "Ð”Ð°Ð½Ð½Ñ‹Ðµ ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸ 2";
+$MESS["CHAT_ENTITY_ENTITY_DATA_3_FIELD"] = "Ð”Ð°Ð½Ð½Ñ‹Ðµ ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸ 3";
+$MESS["CHAT_ENTITY_COLOR_FIELD"] = "Ð¦Ð²ÐµÑ‚ Ñ‡Ð°Ñ‚Ð°";
 ?>

@@ -1,4 +1,4 @@
 <?
-$MESS ['FLOW_ACCESS_DENIED_PHP_DOWNLOAD'] = "Ó âàñ íåäîñòàòî÷íî ïðàâ äëÿ ñêà÷èâàíèÿ èñïîëíÿåìûõ ôàéëîâ.";
-$MESS ['FLOW_DOWNLOAD_FILE_TITLE'] = "Ñêà÷èâàíèå ôàéëà ";
+$MESS ['FLOW_ACCESS_DENIED_PHP_DOWNLOAD'] = "Ð£ Ð²Ð°Ñ Ð½ÐµÐ´Ð¾ÑÑ‚Ð°Ñ‚Ð¾Ñ‡Ð½Ð¾ Ð¿Ñ€Ð°Ð² Ð´Ð»Ñ ÑÐºÐ°Ñ‡Ð¸Ð²Ð°Ð½Ð¸Ñ Ð¸ÑÐ¿Ð¾Ð»Ð½ÑÐµÐ¼Ñ‹Ñ… Ñ„Ð°Ð¹Ð»Ð¾Ð².";
+$MESS ['FLOW_DOWNLOAD_FILE_TITLE'] = "Ð¡ÐºÐ°Ñ‡Ð¸Ð²Ð°Ð½Ð¸Ðµ Ñ„Ð°Ð¹Ð»Ð° ";
 ?>

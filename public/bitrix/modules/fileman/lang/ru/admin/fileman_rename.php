@@ -1,16 +1,16 @@
 <?
-$MESS["FILEMAN_RENAME_TITLE2"] = "Ïåðåèìåíîâàíèå ôàéëà";
-$MESS["FILEMAN_RENAME_SAVE"] = "Ïåðåèìåíîâàòü";
-$MESS["FILEMAN_RENAME_RESET"] = "Ñáðîñèòü";
-$MESS["FILEMAN_RENAME_LIST_EMPTY"] = "Ñïèñîê ôàéëîâ äëÿ ïåðåèìåíîâàíèÿ ïóñò";
-$MESS["FILEMAN_RENAME_ACCESS_DENIED"] = "Íåäîñòàòî÷íî ïðàâ äëÿ èçìåíåíèÿ ïàðàìåòðîâ äîñòóïà ê";
-$MESS["FILEMAN_RENAME_NEW_NAME"] = "Ââåäèòå íîâîå íàçâàíèå äëÿ";
-$MESS["FILEMAN_RENAME_ACCESS_ERROR"] = "Íåäîñòàòî÷íî ïðàâ äîñòóïà äëÿ ïåðåèìåíîâàíèÿ!";
-$MESS["FILEMAN_RENAME_FILE"] = "Ôàéë (ïàïêà)";
-$MESS["FILEMAN_RENAME_ERROR"] = "Îøèáêà ïðè ïåðåèìåíîâàíèè";
-$MESS["FILEMAN_RENAME_IN"] = "â";
-$MESS["FILEMAN_RENAME_NOT_FOUND"] = "íå íàéäåí(à)";
-$MESS["FILEMAN_RENAME_TOPHPFILE_ERROR"] = "Íåäîñòàòî÷íî ïðàâ äëÿ ïåðåèìåíîâàíèÿ èç íåèñïîëíÿåìîãî ôàéëà â ôàéë PHP.";
-$MESS["FILEMAN_RENAME_FROMPHPFILE_ERROR"] = "Íåäîñòàòî÷íî ïðàâ äëÿ ïåðåèìåíîâàíèÿ èç PHP ôàéëà â íåèñïîëíÿåìûé ôàéë.";
-$MESS["FILEMAN_RENAME_FILE_EXISTS"] = "Ôàéë ñ òàêèì èìåíåì óæå ñóùåñòâóåò!";
+$MESS["FILEMAN_RENAME_TITLE2"] = "ÐŸÐµÑ€ÐµÐ¸Ð¼ÐµÐ½Ð¾Ð²Ð°Ð½Ð¸Ðµ Ñ„Ð°Ð¹Ð»Ð°";
+$MESS["FILEMAN_RENAME_SAVE"] = "ÐŸÐµÑ€ÐµÐ¸Ð¼ÐµÐ½Ð¾Ð²Ð°Ñ‚ÑŒ";
+$MESS["FILEMAN_RENAME_RESET"] = "Ð¡Ð±Ñ€Ð¾ÑÐ¸Ñ‚ÑŒ";
+$MESS["FILEMAN_RENAME_LIST_EMPTY"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ñ„Ð°Ð¹Ð»Ð¾Ð² Ð´Ð»Ñ Ð¿ÐµÑ€ÐµÐ¸Ð¼ÐµÐ½Ð¾Ð²Ð°Ð½Ð¸Ñ Ð¿ÑƒÑÑ‚";
+$MESS["FILEMAN_RENAME_ACCESS_DENIED"] = "ÐÐµÐ´Ð¾ÑÑ‚Ð°Ñ‚Ð¾Ñ‡Ð½Ð¾ Ð¿Ñ€Ð°Ð² Ð´Ð»Ñ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð¾Ð² Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð° Ðº";
+$MESS["FILEMAN_RENAME_NEW_NAME"] = "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð½Ð¾Ð²Ð¾Ðµ Ð½Ð°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð´Ð»Ñ";
+$MESS["FILEMAN_RENAME_ACCESS_ERROR"] = "ÐÐµÐ´Ð¾ÑÑ‚Ð°Ñ‚Ð¾Ñ‡Ð½Ð¾ Ð¿Ñ€Ð°Ð² Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð° Ð´Ð»Ñ Ð¿ÐµÑ€ÐµÐ¸Ð¼ÐµÐ½Ð¾Ð²Ð°Ð½Ð¸Ñ!";
+$MESS["FILEMAN_RENAME_FILE"] = "Ð¤Ð°Ð¹Ð» (Ð¿Ð°Ð¿ÐºÐ°)";
+$MESS["FILEMAN_RENAME_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ Ð¿ÐµÑ€ÐµÐ¸Ð¼ÐµÐ½Ð¾Ð²Ð°Ð½Ð¸Ð¸";
+$MESS["FILEMAN_RENAME_IN"] = "Ð²";
+$MESS["FILEMAN_RENAME_NOT_FOUND"] = "Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½(Ð°)";
+$MESS["FILEMAN_RENAME_TOPHPFILE_ERROR"] = "ÐÐµÐ´Ð¾ÑÑ‚Ð°Ñ‚Ð¾Ñ‡Ð½Ð¾ Ð¿Ñ€Ð°Ð² Ð´Ð»Ñ Ð¿ÐµÑ€ÐµÐ¸Ð¼ÐµÐ½Ð¾Ð²Ð°Ð½Ð¸Ñ Ð¸Ð· Ð½ÐµÐ¸ÑÐ¿Ð¾Ð»Ð½ÑÐµÐ¼Ð¾Ð³Ð¾ Ñ„Ð°Ð¹Ð»Ð° Ð² Ñ„Ð°Ð¹Ð» PHP.";
+$MESS["FILEMAN_RENAME_FROMPHPFILE_ERROR"] = "ÐÐµÐ´Ð¾ÑÑ‚Ð°Ñ‚Ð¾Ñ‡Ð½Ð¾ Ð¿Ñ€Ð°Ð² Ð´Ð»Ñ Ð¿ÐµÑ€ÐµÐ¸Ð¼ÐµÐ½Ð¾Ð²Ð°Ð½Ð¸Ñ Ð¸Ð· PHP Ñ„Ð°Ð¹Ð»Ð° Ð² Ð½ÐµÐ¸ÑÐ¿Ð¾Ð»Ð½ÑÐµÐ¼Ñ‹Ð¹ Ñ„Ð°Ð¹Ð».";
+$MESS["FILEMAN_RENAME_FILE_EXISTS"] = "Ð¤Ð°Ð¹Ð» Ñ Ñ‚Ð°ÐºÐ¸Ð¼ Ð¸Ð¼ÐµÐ½ÐµÐ¼ ÑƒÐ¶Ðµ ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÐµÑ‚!";
 ?>

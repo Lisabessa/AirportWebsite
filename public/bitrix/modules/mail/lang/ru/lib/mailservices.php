@@ -1,17 +1,17 @@
 <?php
 
-$MESS["mail_mailservice_entity_site_field"] = "Ñàéò";
-$MESS["mail_mailservice_entity_name_field"] = "Íàçâàíèå";
-$MESS["mail_mailservice_entity_icon_field"] = "Ëîãîòèï";
-$MESS["mail_mailservice_entity_active_field"] = "Àêòèâíîñòü";
-$MESS["mail_mailservice_entity_server_field"] = "Àäðåñ ñåðâåðà";
-$MESS["mail_mailservice_entity_port_field"] = "Ïîðò";
-$MESS["mail_mailservice_entity_encryption_field"] = "Çàùèùåííîå ñîåäèíåíèå";
-$MESS["mail_mailservice_entity_link_field"] = "Àäðåñ âåá-èíòåðôåéñà";
-$MESS["mail_mailservice_entity_sort_field"] = "Ñîðòèðîâêà";
-$MESS["mail_mailservice_entity_type_field"] = "Òèï";
-$MESS["mail_mailservice_entity_token_field"] = "Òîêåí";
-$MESS["mail_mailservice_entity_flags_field"] = "Ôëàãè";
-$MESS["mail_mailservice_not_found"] = "Ïî÷òîâûé ñåðâèñ íå íàéäåí";
+$MESS["mail_mailservice_entity_site_field"] = "Ð¡Ð°Ð¹Ñ‚";
+$MESS["mail_mailservice_entity_name_field"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
+$MESS["mail_mailservice_entity_icon_field"] = "Ð›Ð¾Ð³Ð¾Ñ‚Ð¸Ð¿";
+$MESS["mail_mailservice_entity_active_field"] = "ÐÐºÑ‚Ð¸Ð²Ð½Ð¾ÑÑ‚ÑŒ";
+$MESS["mail_mailservice_entity_server_field"] = "ÐÐ´Ñ€ÐµÑ ÑÐµÑ€Ð²ÐµÑ€Ð°";
+$MESS["mail_mailservice_entity_port_field"] = "ÐŸÐ¾Ñ€Ñ‚";
+$MESS["mail_mailservice_entity_encryption_field"] = "Ð—Ð°Ñ‰Ð¸Ñ‰ÐµÐ½Ð½Ð¾Ðµ ÑÐ¾ÐµÐ´Ð¸Ð½ÐµÐ½Ð¸Ðµ";
+$MESS["mail_mailservice_entity_link_field"] = "ÐÐ´Ñ€ÐµÑ Ð²ÐµÐ±-Ð¸Ð½Ñ‚ÐµÑ€Ñ„ÐµÐ¹ÑÐ°";
+$MESS["mail_mailservice_entity_sort_field"] = "Ð¡Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²ÐºÐ°";
+$MESS["mail_mailservice_entity_type_field"] = "Ð¢Ð¸Ð¿";
+$MESS["mail_mailservice_entity_token_field"] = "Ð¢Ð¾ÐºÐµÐ½";
+$MESS["mail_mailservice_entity_flags_field"] = "Ð¤Ð»Ð°Ð³Ð¸";
+$MESS["mail_mailservice_not_found"] = "ÐŸÐ¾Ñ‡Ñ‚Ð¾Ð²Ñ‹Ð¹ ÑÐµÑ€Ð²Ð¸Ñ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
 
 $MESS["mail_mailservice_bitrix24_icon"] = "post-bitrix24-icon-ru.png";

@@ -1,6 +1,6 @@
 <?
-$MESS["KGP_EMPTY_PRODUCT"] = "Íå óêàçàí êîä òîâàðà";
-$MESS["KGP_EMPTY_CATALOG_GROUP"] = "Íå óêàçàí òèï öåíû";
-$MESS["KGP_EMPTY_CURRENCY"] = "Íå óêàçàíà âàëþòà";
-$MESS["KGP_NO_CURRENCY"] = "Âàëþòà ñ êîäîì #ID# íå íàéäåíà";
+$MESS["KGP_EMPTY_PRODUCT"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ ÐºÐ¾Ð´ Ñ‚Ð¾Ð²Ð°Ñ€Ð°";
+$MESS["KGP_EMPTY_CATALOG_GROUP"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ñ‚Ð¸Ð¿ Ñ†ÐµÐ½Ñ‹";
+$MESS["KGP_EMPTY_CURRENCY"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð° Ð²Ð°Ð»ÑŽÑ‚Ð°";
+$MESS["KGP_NO_CURRENCY"] = "Ð’Ð°Ð»ÑŽÑ‚Ð° Ñ ÐºÐ¾Ð´Ð¾Ð¼ #ID# Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð°";
 ?>

@@ -1,3 +1,3 @@
 <?
-$MESS ['LEARNING_MODULE_TITLE'] = "Модуль обучения";
+$MESS ['LEARNING_MODULE_TITLE'] = "РњРѕРґСѓР»СЊ РѕР±СѓС‡РµРЅРёСЏ";
 ?>

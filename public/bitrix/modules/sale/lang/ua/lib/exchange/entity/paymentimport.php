@@ -1,4 +1,4 @@
 <?
-$MESS["SALE_EXCHANGE_ENTITY_PAYMENT_PAYMENT_SYSTEM_IS_NOT_AVAILABLE_ERROR"] = "Ïëàò³æíà ñèñòåìà íå äîñòóïíà";
-$MESS["SALE_EXCHANGE_ENTITY_PAYMENT_ORDER_IS_NOT_LOADED_ERROR"] = "Îá'ºêò çàìîâëåííÿ íå çàâàíòàæåíèé";
+$MESS["SALE_EXCHANGE_ENTITY_PAYMENT_PAYMENT_SYSTEM_IS_NOT_AVAILABLE_ERROR"] = "ÐŸÐ»Ð°Ñ‚Ñ–Ð¶Ð½Ð° ÑÐ¸ÑÑ‚ÐµÐ¼Ð° Ð½Ðµ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ð°";
+$MESS["SALE_EXCHANGE_ENTITY_PAYMENT_ORDER_IS_NOT_LOADED_ERROR"] = "ÐžÐ±'Ñ”ÐºÑ‚ Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ Ð½Ðµ Ð·Ð°Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð¸Ð¹";
 ?>

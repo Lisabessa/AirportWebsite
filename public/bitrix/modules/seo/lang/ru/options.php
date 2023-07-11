@@ -1,18 +1,18 @@
 <?
-$MESS ['SEO_OPT_PROP_WINDOW_TITLE'] = "Çàãîëîâîê îêíà áðàóçåðà";
-$MESS ['SEO_OPT_PROP_DESCRIPTION'] = "Îïèñàíèå ñòðàíèöû";
-$MESS ['SEO_OPT_PROP_KEYWORDS'] = "Ïóáëè÷íûå êëþ÷åâûå ñëîâà ñòðàíèöû";
-$MESS ['SEO_OPT_PROP_INTERNAL_KEYWORDS'] = "Ïðîäâèãàåìûå êëþ÷åâûå ñëîâà";
-$MESS ['SEO_OPT_TAB_PROP'] = "Ñâîéñòâà ñòðàíèö";
-$MESS ['SEO_OPT_TAB_PROP_TITLE'] = "Êîäû ñâîéñòâ ñòðàíèö";
-$MESS ['SEO_OPT_TAB_SEARCHERS'] = "Èíñòðóìåíòû";
-$MESS ['SEO_OPT_TAB_SEARCHERS_TITLE'] = "Íàñòðîéêà èíñòðóìåíòîâ îïòèìèçàöèè";
-$MESS ['SEO_OPT_TAB_CLOUDADV'] = "Ðåãèñòðàöèîííûå äàííûå";
-$MESS ['SEO_OPT_TAB_CLOUDADV_TITLE'] = "Ðåãèñòðàöèîííûå äàííûå ñàéòà";
-$MESS ['SEO_OPT_TAB_CLOUDADV_CLEAR'] = "Î÷èñòèòü ðåãèñòðàöèîííûå äàííûå ñàéòà";
-$MESS ['SEO_OPT_TAB_CLOUDADV_CLEAR_CONFIRM'] = "Âû äåéñòâèòåëüíî õîòèòå ðåãèñòðàöèîííûå äàííûå ñàéòà?";
-$MESS ['SEO_OPT_COUNTERS'] = "Îòîáðàæàåìûå ñ÷åò÷èêè";
-$MESS ['SEO_OPT_SEARCHERS'] = "Ïîèñêîâûå ñèñòåìû, èñïîëüçóåìûå äëÿ àíàëèçà";
-$MESS ['SEO_OPT_SEARCHERS_SELECTED'] = "Ñåé÷àñ âûáðàíî";
-$MESS ['SEO_OPT_ERR_NO_STATS'] = "Ýòà ôóíêöèÿ íåäîñòóïíà áåç ìîäóëÿ Âåá-àíàëèòèêè";
+$MESS ['SEO_OPT_PROP_WINDOW_TITLE'] = "Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº Ð¾ÐºÐ½Ð° Ð±Ñ€Ð°ÑƒÐ·ÐµÑ€Ð°";
+$MESS ['SEO_OPT_PROP_DESCRIPTION'] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹";
+$MESS ['SEO_OPT_PROP_KEYWORDS'] = "ÐŸÑƒÐ±Ð»Ð¸Ñ‡Ð½Ñ‹Ðµ ÐºÐ»ÑŽÑ‡ÐµÐ²Ñ‹Ðµ ÑÐ»Ð¾Ð²Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹";
+$MESS ['SEO_OPT_PROP_INTERNAL_KEYWORDS'] = "ÐŸÑ€Ð¾Ð´Ð²Ð¸Ð³Ð°ÐµÐ¼Ñ‹Ðµ ÐºÐ»ÑŽÑ‡ÐµÐ²Ñ‹Ðµ ÑÐ»Ð¾Ð²Ð°";
+$MESS ['SEO_OPT_TAB_PROP'] = "Ð¡Ð²Ð¾Ð¹ÑÑ‚Ð²Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†";
+$MESS ['SEO_OPT_TAB_PROP_TITLE'] = "ÐšÐ¾Ð´Ñ‹ ÑÐ²Ð¾Ð¹ÑÑ‚Ð² ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†";
+$MESS ['SEO_OPT_TAB_SEARCHERS'] = "Ð˜Ð½ÑÑ‚Ñ€ÑƒÐ¼ÐµÐ½Ñ‚Ñ‹";
+$MESS ['SEO_OPT_TAB_SEARCHERS_TITLE'] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° Ð¸Ð½ÑÑ‚Ñ€ÑƒÐ¼ÐµÐ½Ñ‚Ð¾Ð² Ð¾Ð¿Ñ‚Ð¸Ð¼Ð¸Ð·Ð°Ñ†Ð¸Ð¸";
+$MESS ['SEO_OPT_TAB_CLOUDADV'] = "Ð ÐµÐ³Ð¸ÑÑ‚Ñ€Ð°Ñ†Ð¸Ð¾Ð½Ð½Ñ‹Ðµ Ð´Ð°Ð½Ð½Ñ‹Ðµ";
+$MESS ['SEO_OPT_TAB_CLOUDADV_TITLE'] = "Ð ÐµÐ³Ð¸ÑÑ‚Ñ€Ð°Ñ†Ð¸Ð¾Ð½Ð½Ñ‹Ðµ Ð´Ð°Ð½Ð½Ñ‹Ðµ ÑÐ°Ð¹Ñ‚Ð°";
+$MESS ['SEO_OPT_TAB_CLOUDADV_CLEAR'] = "ÐžÑ‡Ð¸ÑÑ‚Ð¸Ñ‚ÑŒ Ñ€ÐµÐ³Ð¸ÑÑ‚Ñ€Ð°Ñ†Ð¸Ð¾Ð½Ð½Ñ‹Ðµ Ð´Ð°Ð½Ð½Ñ‹Ðµ ÑÐ°Ð¹Ñ‚Ð°";
+$MESS ['SEO_OPT_TAB_CLOUDADV_CLEAR_CONFIRM'] = "Ð’Ñ‹ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ Ñ€ÐµÐ³Ð¸ÑÑ‚Ñ€Ð°Ñ†Ð¸Ð¾Ð½Ð½Ñ‹Ðµ Ð´Ð°Ð½Ð½Ñ‹Ðµ ÑÐ°Ð¹Ñ‚Ð°?";
+$MESS ['SEO_OPT_COUNTERS'] = "ÐžÑ‚Ð¾Ð±Ñ€Ð°Ð¶Ð°ÐµÐ¼Ñ‹Ðµ ÑÑ‡ÐµÑ‚Ñ‡Ð¸ÐºÐ¸";
+$MESS ['SEO_OPT_SEARCHERS'] = "ÐŸÐ¾Ð¸ÑÐºÐ¾Ð²Ñ‹Ðµ ÑÐ¸ÑÑ‚ÐµÐ¼Ñ‹, Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐµÐ¼Ñ‹Ðµ Ð´Ð»Ñ Ð°Ð½Ð°Ð»Ð¸Ð·Ð°";
+$MESS ['SEO_OPT_SEARCHERS_SELECTED'] = "Ð¡ÐµÐ¹Ñ‡Ð°Ñ Ð²Ñ‹Ð±Ñ€Ð°Ð½Ð¾";
+$MESS ['SEO_OPT_ERR_NO_STATS'] = "Ð­Ñ‚Ð° Ñ„ÑƒÐ½ÐºÑ†Ð¸Ñ Ð½ÐµÐ´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ð° Ð±ÐµÐ· Ð¼Ð¾Ð´ÑƒÐ»Ñ Ð’ÐµÐ±-Ð°Ð½Ð°Ð»Ð¸Ñ‚Ð¸ÐºÐ¸";
 ?>

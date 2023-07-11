@@ -1,3 +1,3 @@
 <?
-$MESS['SEARCH_TAGS_SORTING_TIP'] = "Ñîðòèðîâàòü ïî èìåíè";
+$MESS['SEARCH_TAGS_SORTING_TIP'] = "Ð¡Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ð¿Ð¾ Ð¸Ð¼ÐµÐ½Ð¸";
 ?>

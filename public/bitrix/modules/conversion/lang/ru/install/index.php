@@ -1,7 +1,7 @@
 <?
-$MESS["CONVERSION_MODULE_NAME"] = "Êîíâåðñèÿ";
-$MESS["CONVERSION_MODULE_DESC"] = "Êîíâåðñèÿ (â èíòåðíåò-ìàðêåòèíãå)";
-$MESS["CONVERSION_INSTALL_TITLE"] = "Óñòàíîâêà ìîäóëÿ êîíâåðñèè";
-$MESS["CONVERSION_UNINSTALL_TITLE"] = "Óäàëåíèå ìîäóëÿ êîíâåðñèè";
-$MESS["CONVERSION_GENERATE_INITIAL_DATA"] = "Óñòàíîâèòü äåìî-äàííûå";
+$MESS["CONVERSION_MODULE_NAME"] = "ÐšÐ¾Ð½Ð²ÐµÑ€ÑÐ¸Ñ";
+$MESS["CONVERSION_MODULE_DESC"] = "ÐšÐ¾Ð½Ð²ÐµÑ€ÑÐ¸Ñ (Ð² Ð¸Ð½Ñ‚ÐµÑ€Ð½ÐµÑ‚-Ð¼Ð°Ñ€ÐºÐµÑ‚Ð¸Ð½Ð³Ðµ)";
+$MESS["CONVERSION_INSTALL_TITLE"] = "Ð£ÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ° Ð¼Ð¾Ð´ÑƒÐ»Ñ ÐºÐ¾Ð½Ð²ÐµÑ€ÑÐ¸Ð¸";
+$MESS["CONVERSION_UNINSTALL_TITLE"] = "Ð£Ð´Ð°Ð»ÐµÐ½Ð¸Ðµ Ð¼Ð¾Ð´ÑƒÐ»Ñ ÐºÐ¾Ð½Ð²ÐµÑ€ÑÐ¸Ð¸";
+$MESS["CONVERSION_GENERATE_INITIAL_DATA"] = "Ð£ÑÑ‚Ð°Ð½Ð¾Ð²Ð¸Ñ‚ÑŒ Ð´ÐµÐ¼Ð¾-Ð´Ð°Ð½Ð½Ñ‹Ðµ";
 ?>

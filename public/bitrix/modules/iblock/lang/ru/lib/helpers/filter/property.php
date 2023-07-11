@@ -1,15 +1,15 @@
 <?
-$MESS["CRM_ENTITY_SEL_BTN"] = "Âûáðàòü";
-$MESS["CRM_ENTITY_SEL_SEARCH"] = "Ïîèñê";
-$MESS["CRM_SEL_SEARCH_NO_RESULT"] = "Íè÷åãî íå íàéäåíî.";
-$MESS["CRM_ENTITY_SEL_LAST"] = "Ïîñëåäíèå";
-$MESS["CRM_CONTACT_SELECTOR_TITLE"] = "Âûáåðèòå êîíòàêòû";
-$MESS["CRM_COMPANY_SELECTOR_TITLE"] = "Âûáåðèòå êîìïàíèþ";
-$MESS["CRM_DEAL_SELECTOR_TITLE"] = "Âûáåðèòå ñäåëêè";
-$MESS["CRM_LEAD_SELECTOR_TITLE"] = "Âûáåðèòå ëèäû";
-$MESS["FIP_CRM_FF_LEAD"] = "Ëèäû";
-$MESS["FIP_CRM_FF_CONTACT"] = "Êîíòàêòû";
-$MESS["FIP_CRM_FF_COMPANY"] = "Êîìïàíèè";
-$MESS["FIP_CRM_FF_DEAL"] = "Ñäåëêè";
-$MESS["FIP_CRM_FF_QUOTE"] = "Ïðåäëîæåíèÿ";
+$MESS["CRM_ENTITY_SEL_BTN"] = "Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ";
+$MESS["CRM_ENTITY_SEL_SEARCH"] = "ÐŸÐ¾Ð¸ÑÐº";
+$MESS["CRM_SEL_SEARCH_NO_RESULT"] = "ÐÐ¸Ñ‡ÐµÐ³Ð¾ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾.";
+$MESS["CRM_ENTITY_SEL_LAST"] = "ÐŸÐ¾ÑÐ»ÐµÐ´Ð½Ð¸Ðµ";
+$MESS["CRM_CONTACT_SELECTOR_TITLE"] = "Ð’Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ ÐºÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ñ‹";
+$MESS["CRM_COMPANY_SELECTOR_TITLE"] = "Ð’Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸ÑŽ";
+$MESS["CRM_DEAL_SELECTOR_TITLE"] = "Ð’Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ ÑÐ´ÐµÐ»ÐºÐ¸";
+$MESS["CRM_LEAD_SELECTOR_TITLE"] = "Ð’Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ Ð»Ð¸Ð´Ñ‹";
+$MESS["FIP_CRM_FF_LEAD"] = "Ð›Ð¸Ð´Ñ‹";
+$MESS["FIP_CRM_FF_CONTACT"] = "ÐšÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ñ‹";
+$MESS["FIP_CRM_FF_COMPANY"] = "ÐšÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸";
+$MESS["FIP_CRM_FF_DEAL"] = "Ð¡Ð´ÐµÐ»ÐºÐ¸";
+$MESS["FIP_CRM_FF_QUOTE"] = "ÐŸÑ€ÐµÐ´Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ";
 ?>

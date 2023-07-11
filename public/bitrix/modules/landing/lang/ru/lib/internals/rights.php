@@ -1,6 +1,6 @@
 <?php
-$MESS['LANDING_TABLE_FIELD_RIGHT_ENTITY_ID'] = 'Èäåíòèôèêàòîð ñóùíîñòè';
-$MESS['LANDING_TABLE_FIELD_RIGHT_ENTITY_TYPE'] = 'Òèï ñóùíîñòè';
-$MESS['LANDING_TABLE_FIELD_RIGHT_TASK_ID'] = 'Èäåíòèôèêàòîð îïåðàöèè äîñòóïà';
-$MESS['LANDING_TABLE_FIELD_RIGHT_ACCESS_CODE'] = 'Ñèìâîëüíûé êîä äîñòóïà';
-$MESS['LANDING_TABLE_FIELD_BY_ROLE_ID'] = 'Îòíîñèòñÿ ê ðîëè';
+$MESS['LANDING_TABLE_FIELD_RIGHT_ENTITY_ID'] = 'Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸';
+$MESS['LANDING_TABLE_FIELD_RIGHT_ENTITY_TYPE'] = 'Ð¢Ð¸Ð¿ ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸';
+$MESS['LANDING_TABLE_FIELD_RIGHT_TASK_ID'] = 'Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¾Ð¿ÐµÑ€Ð°Ñ†Ð¸Ð¸ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð°';
+$MESS['LANDING_TABLE_FIELD_RIGHT_ACCESS_CODE'] = 'Ð¡Ð¸Ð¼Ð²Ð¾Ð»ÑŒÐ½Ñ‹Ð¹ ÐºÐ¾Ð´ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð°';
+$MESS['LANDING_TABLE_FIELD_BY_ROLE_ID'] = 'ÐžÑ‚Ð½Ð¾ÑÐ¸Ñ‚ÑÑ Ðº Ñ€Ð¾Ð»Ð¸';

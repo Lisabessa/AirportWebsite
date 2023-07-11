@@ -1,2 +1,2 @@
 <?
-$MESS["REPORT_SHARING_REQUIRED_PARAMETERS"] = "Íå óêàçàí îáÿçàòåëüíûé ïàðàìåòð \"#parameter#\"";
+$MESS["REPORT_SHARING_REQUIRED_PARAMETERS"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ð¾Ð±ÑÐ·Ð°Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ð¹ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€ \"#parameter#\"";

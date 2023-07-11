@@ -1,14 +1,14 @@
 <?
 $MESS["SALE_HPS_LIQPAY_MERCHANT_ID"] = "Merchant ID";
-$MESS["SALE_HPS_LIQPAY_SIGN"] = "Ïîäïèñü";
-$MESS["SALE_HPS_LIQPAY_PATH_TO_SERVER_URL"] = "Ïóòü ê ôàéëó-îáðàáîò÷èêó ðåçóëüòàòà";
-$MESS["SALE_HPS_LIQPAY_PATH_TO_RESULT_URL"] = "Ïóòü ê ôàéëó äëÿ âîçâðàòà ïîêóïàòåëÿ íà ñàéò";
-$MESS["SALE_HPS_LIQPAY_PATH_TO_RESULT_URL_DESC"] = "Îñòàâüòå ïóñòûì äëÿ àâòîìàòè÷åñêîãî îïðåäåëåíèÿ àäðåñà, êëèåíò âåðíåòñÿ íà ñòðàíèöó ñ êîòîðîé áûë âûïîëíåí ïåðåõîä íà îïëàòó";
-$MESS["SALE_HPS_LIQPAY_ORDER_ID"] = "Íîìåð îïëàòû";
-$MESS["SALE_HPS_LIQPAY_CURRENCY"] = "Âàëþòà ñ÷åòà";
-$MESS["SALE_HPS_LIQPAY_SHOULD_PAY"] = "Ê îïëàòå";
-$MESS["SALE_HPS_LIQPAY_PAYMENT_PM"] = "Ñïîñîá îïëàòû";
-$MESS["SALE_HPS_LIQPAY_PHONE"] = "Òåëåôîí êëèåíòà";
-$MESS["SALE_HPS_LIQPAY_PAYMENT_DESCRIPTION"] = "Íàçíà÷åíèå ïëàòåæà";
-$MESS["SALE_HPS_LIQPAY_PAYMENT_DESCRIPTION_DESC"] = "Òåêñò ìîæåò ñîäåðæàòü ìåòêè: #PAYMENT_ID# - ID îïëàòû, #ORDER_ID# - ID çàêàçà, #PAYMENT_NUMBER# - íîìåð îïëàòû, #ORDER_NUMBER# - íîìåð çàêàçà, #USER_EMAIL# - Email ïîêóïàòåëÿ";
-$MESS["SALE_HPS_LIQPAY_PAYMENT_DESCRIPTION_TEMPLATE"] = "Îïëàòà ¹#PAYMENT_NUMBER# çàêàçà ¹#ORDER_NUMBER# äëÿ #USER_EMAIL#";
+$MESS["SALE_HPS_LIQPAY_SIGN"] = "ÐŸÐ¾Ð´Ð¿Ð¸ÑÑŒ";
+$MESS["SALE_HPS_LIQPAY_PATH_TO_SERVER_URL"] = "ÐŸÑƒÑ‚ÑŒ Ðº Ñ„Ð°Ð¹Ð»Ñƒ-Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚Ñ‡Ð¸ÐºÑƒ Ñ€ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ð°";
+$MESS["SALE_HPS_LIQPAY_PATH_TO_RESULT_URL"] = "ÐŸÑƒÑ‚ÑŒ Ðº Ñ„Ð°Ð¹Ð»Ñƒ Ð´Ð»Ñ Ð²Ð¾Ð·Ð²Ñ€Ð°Ñ‚Ð° Ð¿Ð¾ÐºÑƒÐ¿Ð°Ñ‚ÐµÐ»Ñ Ð½Ð° ÑÐ°Ð¹Ñ‚";
+$MESS["SALE_HPS_LIQPAY_PATH_TO_RESULT_URL_DESC"] = "ÐžÑÑ‚Ð°Ð²ÑŒÑ‚Ðµ Ð¿ÑƒÑÑ‚Ñ‹Ð¼ Ð´Ð»Ñ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¾Ð³Ð¾ Ð¾Ð¿Ñ€ÐµÐ´ÐµÐ»ÐµÐ½Ð¸Ñ Ð°Ð´Ñ€ÐµÑÐ°, ÐºÐ»Ð¸ÐµÐ½Ñ‚ Ð²ÐµÑ€Ð½ÐµÑ‚ÑÑ Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ Ñ ÐºÐ¾Ñ‚Ð¾Ñ€Ð¾Ð¹ Ð±Ñ‹Ð» Ð²Ñ‹Ð¿Ð¾Ð»Ð½ÐµÐ½ Ð¿ÐµÑ€ÐµÑ…Ð¾Ð´ Ð½Ð° Ð¾Ð¿Ð»Ð°Ñ‚Ñƒ";
+$MESS["SALE_HPS_LIQPAY_ORDER_ID"] = "ÐÐ¾Ð¼ÐµÑ€ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹";
+$MESS["SALE_HPS_LIQPAY_CURRENCY"] = "Ð’Ð°Ð»ÑŽÑ‚Ð° ÑÑ‡ÐµÑ‚Ð°";
+$MESS["SALE_HPS_LIQPAY_SHOULD_PAY"] = "Ðš Ð¾Ð¿Ð»Ð°Ñ‚Ðµ";
+$MESS["SALE_HPS_LIQPAY_PAYMENT_PM"] = "Ð¡Ð¿Ð¾ÑÐ¾Ð± Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹";
+$MESS["SALE_HPS_LIQPAY_PHONE"] = "Ð¢ÐµÐ»ÐµÑ„Ð¾Ð½ ÐºÐ»Ð¸ÐµÐ½Ñ‚Ð°";
+$MESS["SALE_HPS_LIQPAY_PAYMENT_DESCRIPTION"] = "ÐÐ°Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ð°";
+$MESS["SALE_HPS_LIQPAY_PAYMENT_DESCRIPTION_DESC"] = "Ð¢ÐµÐºÑÑ‚ Ð¼Ð¾Ð¶ÐµÑ‚ ÑÐ¾Ð´ÐµÑ€Ð¶Ð°Ñ‚ÑŒ Ð¼ÐµÑ‚ÐºÐ¸: #PAYMENT_ID# - ID Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹, #ORDER_ID# - ID Ð·Ð°ÐºÐ°Ð·Ð°, #PAYMENT_NUMBER# - Ð½Ð¾Ð¼ÐµÑ€ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹, #ORDER_NUMBER# - Ð½Ð¾Ð¼ÐµÑ€ Ð·Ð°ÐºÐ°Ð·Ð°, #USER_EMAIL# - Email Ð¿Ð¾ÐºÑƒÐ¿Ð°Ñ‚ÐµÐ»Ñ";
+$MESS["SALE_HPS_LIQPAY_PAYMENT_DESCRIPTION_TEMPLATE"] = "ÐžÐ¿Ð»Ð°Ñ‚Ð° â„–#PAYMENT_NUMBER# Ð·Ð°ÐºÐ°Ð·Ð° â„–#ORDER_NUMBER# Ð´Ð»Ñ #USER_EMAIL#";

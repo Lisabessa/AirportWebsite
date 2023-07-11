@@ -1,8 +1,8 @@
 <?
-$MESS["SALE_MODULE_ACCES_DENIED"] = "Äîñòóï ê ìîäóëþ çàïðåù¸í";
-$MESS["SALE_LOCATION_L_ITEM_NOT_FOUND"] = "Ïðèâÿçêà ñ óêçàííûì èäåíòèôèêàòîðîì íå íàéäåíà";
-$MESS["SALE_LOCATION_L_PAGES"] = "Ïðèâÿçêè ê ñàéòó";
-$MESS["SALE_LOCATION_L_EDIT_ITEM"] = "Ðåäàêòèðîâàòü ñïèñîê ìåñòîïîëîæåíèé";
-$MESS["SALE_LOCATION_L_EDIT_PAGE_TITLE"] = "Èçáðàííûå ìåñòîïîëîæåíèÿ";
-$MESS["SALE_LOCATION_L_ITEM"] = "Ìåñòîïîëîæåíèÿ";
+$MESS["SALE_MODULE_ACCES_DENIED"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ðº Ð¼Ð¾Ð´ÑƒÐ»ÑŽ Ð·Ð°Ð¿Ñ€ÐµÑ‰Ñ‘Ð½";
+$MESS["SALE_LOCATION_L_ITEM_NOT_FOUND"] = "ÐŸÑ€Ð¸Ð²ÑÐ·ÐºÐ° Ñ ÑƒÐºÐ·Ð°Ð½Ð½Ñ‹Ð¼ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€Ð¾Ð¼ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð°";
+$MESS["SALE_LOCATION_L_PAGES"] = "ÐŸÑ€Ð¸Ð²ÑÐ·ÐºÐ¸ Ðº ÑÐ°Ð¹Ñ‚Ñƒ";
+$MESS["SALE_LOCATION_L_EDIT_ITEM"] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ ÑÐ¿Ð¸ÑÐ¾Ðº Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹";
+$MESS["SALE_LOCATION_L_EDIT_PAGE_TITLE"] = "Ð˜Ð·Ð±Ñ€Ð°Ð½Ð½Ñ‹Ðµ Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ";
+$MESS["SALE_LOCATION_L_ITEM"] = "ÐœÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ";
 ?>

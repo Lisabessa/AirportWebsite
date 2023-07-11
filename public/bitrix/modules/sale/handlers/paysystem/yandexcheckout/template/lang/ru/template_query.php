@@ -1,9 +1,9 @@
 <?php
-$MESS["SALE_HANDLERS_PAY_SYSTEM_YANDEX_CHECKOUT_DESCRIPTION"] = "Услугу предоставляет сервис онлайн-платежей <b>&laquo;ЮKassa&raquo;</b>.";
-$MESS["SALE_HANDLERS_PAY_SYSTEM_YANDEX_CHECKOUT_DESCRIPTION_SUM"] = "Сумма к оплате по счету: ";
-$MESS["SALE_HANDLERS_PAY_SYSTEM_YANDEX_CHECKOUT_BUTTON_NEXT"] = "Далее";
-$MESS["SALE_HANDLERS_PAY_SYSTEM_YANDEX_CHECKOUT_QIWI_PHONE"] = "Введите номер телефона в формате <b>79xxxxxxxxx</b>";
-$MESS["SALE_HANDLERS_PAY_SYSTEM_YANDEX_CHECKOUT_SBERBANK_SMS_PHONE"] = "Введите номер телефона, привязанный к Сбербанк Онлайн";
-$MESS["SALE_HANDLERS_PAY_SYSTEM_YANDEX_CHECKOUT_ALFABANK_LOGIN"] = "Введите логин в Альфа-Клике";
-$MESS["SALE_HANDLERS_PAY_SYSTEM_YANDEX_CHECKOUT_ERROR_MESSAGE_HEADER"] = "К сожалению, произошла ошибка.";
-$MESS["SALE_HANDLERS_PAY_SYSTEM_YANDEX_CHECKOUT_ERROR_MESSAGE_FOOTER"] = "Выберите другой способ оплаты или обратитесь к менеджеру компании.";
+$MESS["SALE_HANDLERS_PAY_SYSTEM_YANDEX_CHECKOUT_DESCRIPTION"] = "РЈСЃР»СѓРіСѓ РїСЂРµРґРѕСЃС‚Р°РІР»СЏРµС‚ СЃРµСЂРІРёСЃ РѕРЅР»Р°Р№РЅ-РїР»Р°С‚РµР¶РµР№ <b>&laquo;Р®Kassa&raquo;</b>.";
+$MESS["SALE_HANDLERS_PAY_SYSTEM_YANDEX_CHECKOUT_DESCRIPTION_SUM"] = "РЎСѓРјРјР° Рє РѕРїР»Р°С‚Рµ РїРѕ СЃС‡РµС‚Сѓ: ";
+$MESS["SALE_HANDLERS_PAY_SYSTEM_YANDEX_CHECKOUT_BUTTON_NEXT"] = "Р”Р°Р»РµРµ";
+$MESS["SALE_HANDLERS_PAY_SYSTEM_YANDEX_CHECKOUT_QIWI_PHONE"] = "Р’РІРµРґРёС‚Рµ РЅРѕРјРµСЂ С‚РµР»РµС„РѕРЅР° РІ С„РѕСЂРјР°С‚Рµ <b>79xxxxxxxxx</b>";
+$MESS["SALE_HANDLERS_PAY_SYSTEM_YANDEX_CHECKOUT_SBERBANK_SMS_PHONE"] = "Р’РІРµРґРёС‚Рµ РЅРѕРјРµСЂ С‚РµР»РµС„РѕРЅР°, РїСЂРёРІСЏР·Р°РЅРЅС‹Р№ Рє РЎР±РµСЂР±Р°РЅРє РћРЅР»Р°Р№РЅ";
+$MESS["SALE_HANDLERS_PAY_SYSTEM_YANDEX_CHECKOUT_ALFABANK_LOGIN"] = "Р’РІРµРґРёС‚Рµ Р»РѕРіРёРЅ РІ РђР»СЊС„Р°-РљР»РёРєРµ";
+$MESS["SALE_HANDLERS_PAY_SYSTEM_YANDEX_CHECKOUT_ERROR_MESSAGE_HEADER"] = "Рљ СЃРѕР¶Р°Р»РµРЅРёСЋ, РїСЂРѕРёР·РѕС€Р»Р° РѕС€РёР±РєР°.";
+$MESS["SALE_HANDLERS_PAY_SYSTEM_YANDEX_CHECKOUT_ERROR_MESSAGE_FOOTER"] = "Р’С‹Р±РµСЂРёС‚Рµ РґСЂСѓРіРѕР№ СЃРїРѕСЃРѕР± РѕРїР»Р°С‚С‹ РёР»Рё РѕР±СЂР°С‚РёС‚РµСЃСЊ Рє РјРµРЅРµРґР¶РµСЂСѓ РєРѕРјРїР°РЅРёРё.";

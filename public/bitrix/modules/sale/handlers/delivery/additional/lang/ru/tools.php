@@ -1,2 +1,2 @@
 <?
-$MESS["SALE_DLVRS_ADDT_SP_NOT_SELECTED"] = "Òî÷êà ñäà÷è íå âûáðàíà";
+$MESS["SALE_DLVRS_ADDT_SP_NOT_SELECTED"] = "Ð¢Ð¾Ñ‡ÐºÐ° ÑÐ´Ð°Ñ‡Ð¸ Ð½Ðµ Ð²Ñ‹Ð±Ñ€Ð°Ð½Ð°";

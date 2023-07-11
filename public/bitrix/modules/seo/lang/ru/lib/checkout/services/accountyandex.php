@@ -1,2 +1,2 @@
 <?php
-$MESS['SEO_CHECKOUT_SERVICE_ACCOUNT_YANDEX_ERROR_SCHEME_CALLBACK_URL'] = "Ðåãèñòðàöèÿ âõîäÿùèõ óâåäîìëåíèé î ñîáûòèÿõ äîñòóïíà òîëüêî äëÿ https ïðîòîêîëà";
+$MESS['SEO_CHECKOUT_SERVICE_ACCOUNT_YANDEX_ERROR_SCHEME_CALLBACK_URL'] = "Ð ÐµÐ³Ð¸ÑÑ‚Ñ€Ð°Ñ†Ð¸Ñ Ð²Ñ…Ð¾Ð´ÑÑ‰Ð¸Ñ… ÑƒÐ²ÐµÐ´Ð¾Ð¼Ð»ÐµÐ½Ð¸Ð¹ Ð¾ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸ÑÑ… Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ð° Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð´Ð»Ñ https Ð¿Ñ€Ð¾Ñ‚Ð¾ÐºÐ¾Ð»Ð°";

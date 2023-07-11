@@ -1,11 +1,11 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Каталог ресурсов");
+$APPLICATION->SetTitle("РљР°С‚Р°Р»РѕРі СЂРµСЃСѓСЂСЃРѕРІ");
 ?><?$APPLICATION->IncludeComponent("bitrix:iblock.element.add", ".default", array(
 	"NAV_ON_PAGE" => "10",
 	"USE_CAPTCHA" => "N",
-	"USER_MESSAGE_ADD" => "Сайт успешно добавлен",
-	"USER_MESSAGE_EDIT" => "Изменения успешно сохранены",
+	"USER_MESSAGE_ADD" => "РЎР°Р№С‚ СѓСЃРїРµС€РЅРѕ РґРѕР±Р°РІР»РµРЅ",
+	"USER_MESSAGE_EDIT" => "РР·РјРµРЅРµРЅРёСЏ СѓСЃРїРµС€РЅРѕ СЃРѕС…СЂР°РЅРµРЅС‹",
 	"DEFAULT_INPUT_SIZE" => "30",
 	"RESIZE_IMAGES" => "N",
 	"IBLOCK_TYPE" => "services",
@@ -44,18 +44,18 @@ $APPLICATION->SetTitle("Каталог ресурсов");
 	"AJAX_OPTION_JUMP" => "N",
 	"AJAX_OPTION_STYLE" => "Y",
 	"AJAX_OPTION_HISTORY" => "N",
-	"CUSTOM_TITLE_NAME" => "Название сайта",
+	"CUSTOM_TITLE_NAME" => "РќР°Р·РІР°РЅРёРµ СЃР°Р№С‚Р°",
 	"CUSTOM_TITLE_TAGS" => "",
 	"CUSTOM_TITLE_DATE_ACTIVE_FROM" => "",
 	"CUSTOM_TITLE_DATE_ACTIVE_TO" => "",
-	"CUSTOM_TITLE_IBLOCK_SECTION" => "Категория",
-	"CUSTOM_TITLE_PREVIEW_TEXT" => "Краткое описание сайта",
+	"CUSTOM_TITLE_IBLOCK_SECTION" => "РљР°С‚РµРіРѕСЂРёСЏ",
+	"CUSTOM_TITLE_PREVIEW_TEXT" => "РљСЂР°С‚РєРѕРµ РѕРїРёСЃР°РЅРёРµ СЃР°Р№С‚Р°",
 	"CUSTOM_TITLE_PREVIEW_PICTURE" => "",
-	"CUSTOM_TITLE_DETAIL_TEXT" => "Полное описание сайта",
+	"CUSTOM_TITLE_DETAIL_TEXT" => "РџРѕР»РЅРѕРµ РѕРїРёСЃР°РЅРёРµ СЃР°Р№С‚Р°",
 	"CUSTOM_TITLE_DETAIL_PICTURE" => "",
 	"SEND_EMAIL" => "Y",
 	"EMAIL_TO" => "#EMAIL_TO#",
-	"SUBJECT" => "Добавлен новый ресурс",
+	"SUBJECT" => "Р”РѕР±Р°РІР»РµРЅ РЅРѕРІС‹Р№ СЂРµСЃСѓСЂСЃ",
 	"EVENT_MESSAGE_ID" => array(),
 	"AJAX_OPTION_ADDITIONAL" => ""
 	),

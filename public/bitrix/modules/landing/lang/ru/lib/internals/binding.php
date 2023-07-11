@@ -1,5 +1,5 @@
 <?php
-$MESS['LANDING_TABLE_FIELD_ENTITY_ID'] = 'ID ñóùíîñòè';
-$MESS['LANDING_TABLE_FIELD_ENTITY_TYPE'] = 'Òèï ñóùíîñòè';
-$MESS['LANDING_TABLE_FIELD_BINDING_ID'] = 'ID ïðèâÿçêè';
-$MESS['LANDING_TABLE_FIELD_BINDING_TYPE'] = 'Òèï ïðèâÿçêè';
+$MESS['LANDING_TABLE_FIELD_ENTITY_ID'] = 'ID ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸';
+$MESS['LANDING_TABLE_FIELD_ENTITY_TYPE'] = 'Ð¢Ð¸Ð¿ ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸';
+$MESS['LANDING_TABLE_FIELD_BINDING_ID'] = 'ID Ð¿Ñ€Ð¸Ð²ÑÐ·ÐºÐ¸';
+$MESS['LANDING_TABLE_FIELD_BINDING_TYPE'] = 'Ð¢Ð¸Ð¿ Ð¿Ñ€Ð¸Ð²ÑÐ·ÐºÐ¸';

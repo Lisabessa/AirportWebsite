@@ -1,16 +1,16 @@
 <?
-$MESS["SENDER_POSTING_PERSONALIZE_FIELD_NAME"] = "Èìÿ";
-$MESS["SENDER_POSTING_PERSONALIZE_FIELD_NAME_DESC"] = "Èìÿ ïîëó÷àòåëÿ. Åñëè èìåíè íåò, òî ÷àñòü åìàéëà äî çíàêà @";
-$MESS["SENDER_POSTING_PERSONALIZE_FIELD_USER_ID"] = "Êîä ïîëüçîâàòåëÿ";
-$MESS["SENDER_POSTING_PERSONALIZE_FIELD_USER_ID_DESC"] = "Êîä ïîëüçîâàòåëÿ, åñëè óñòàíîâëåí. Åãî ìîæíî èñïîëüçîâàòü â êà÷åñòâå ïàðàìåòðà êîìïîíåíòîâ";
-$MESS["SENDER_POSTING_PERSONALIZE_FIELD_SITE_NAME"] = "Íàçâàíèå ñàéòà";
-$MESS["SENDER_POSTING_PERSONALIZE_FIELD_SITE_NAME_DESC"] = "Íàçâàíèå ñàéòà, ê êîòîðîìó ïðèâÿçàíà ðàññûëêà";
+$MESS["SENDER_POSTING_PERSONALIZE_FIELD_NAME"] = "Ð˜Ð¼Ñ";
+$MESS["SENDER_POSTING_PERSONALIZE_FIELD_NAME_DESC"] = "Ð˜Ð¼Ñ Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ. Ð•ÑÐ»Ð¸ Ð¸Ð¼ÐµÐ½Ð¸ Ð½ÐµÑ‚, Ñ‚Ð¾ Ñ‡Ð°ÑÑ‚ÑŒ ÐµÐ¼Ð°Ð¹Ð»Ð° Ð´Ð¾ Ð·Ð½Ð°ÐºÐ° @";
+$MESS["SENDER_POSTING_PERSONALIZE_FIELD_USER_ID"] = "ÐšÐ¾Ð´ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
+$MESS["SENDER_POSTING_PERSONALIZE_FIELD_USER_ID_DESC"] = "ÐšÐ¾Ð´ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ, ÐµÑÐ»Ð¸ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½. Ð•Ð³Ð¾ Ð¼Ð¾Ð¶Ð½Ð¾ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ Ð² ÐºÐ°Ñ‡ÐµÑÑ‚Ð²Ðµ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð° ÐºÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚Ð¾Ð²";
+$MESS["SENDER_POSTING_PERSONALIZE_FIELD_SITE_NAME"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ ÑÐ°Ð¹Ñ‚Ð°";
+$MESS["SENDER_POSTING_PERSONALIZE_FIELD_SITE_NAME_DESC"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ ÑÐ°Ð¹Ñ‚Ð°, Ðº ÐºÐ¾Ñ‚Ð¾Ñ€Ð¾Ð¼Ñƒ Ð¿Ñ€Ð¸Ð²ÑÐ·Ð°Ð½Ð° Ñ€Ð°ÑÑÑ‹Ð»ÐºÐ°";
 $MESS["SENDER_POSTING_PERSONALIZE_FIELD_EMAIL"] = "Email";
-$MESS["SENDER_POSTING_PERSONALIZE_FIELD_EMAIL_DESC"] = "Email-àäðåñ ïîëó÷àòåëÿ, íà êîòîðûé áóäåò îòïðàâëåíî ïèñüìî";
-$MESS["SENDER_POSTING_PERSONALIZE_FIELD_SENDER_CHAIN_ID"] = "Êîä âûïóñêà ðàññûëêè";
-$MESS["SENDER_POSTING_PERSONALIZE_FIELD_SENDER_CHAIN_ID_DESC"] = "Óíèêàëüíûé èäåíòèôèêàòîð âûïóñêà ðàññûëêè";
-$MESS["SENDER_POSTING_RECIPIENT_STATUS_N"] = "Íå îòïðàâëÿëîñü";
-$MESS["SENDER_POSTING_RECIPIENT_STATUS_S"] = "Îòïðàâëåíî";
-$MESS["SENDER_POSTING_RECIPIENT_STATUS_E"] = "Ñ îøèáêàìè";
-$MESS["SENDER_POSTING_RECIPIENT_STATUS_D"] = "Îñòàíîâëåíî";
+$MESS["SENDER_POSTING_PERSONALIZE_FIELD_EMAIL_DESC"] = "Email-Ð°Ð´Ñ€ÐµÑ Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ, Ð½Ð° ÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ð¹ Ð±ÑƒÐ´ÐµÑ‚ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¾ Ð¿Ð¸ÑÑŒÐ¼Ð¾";
+$MESS["SENDER_POSTING_PERSONALIZE_FIELD_SENDER_CHAIN_ID"] = "ÐšÐ¾Ð´ Ð²Ñ‹Ð¿ÑƒÑÐºÐ° Ñ€Ð°ÑÑÑ‹Ð»ÐºÐ¸";
+$MESS["SENDER_POSTING_PERSONALIZE_FIELD_SENDER_CHAIN_ID_DESC"] = "Ð£Ð½Ð¸ÐºÐ°Ð»ÑŒÐ½Ñ‹Ð¹ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð²Ñ‹Ð¿ÑƒÑÐºÐ° Ñ€Ð°ÑÑÑ‹Ð»ÐºÐ¸";
+$MESS["SENDER_POSTING_RECIPIENT_STATUS_N"] = "ÐÐµ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð»ÑÐ»Ð¾ÑÑŒ";
+$MESS["SENDER_POSTING_RECIPIENT_STATUS_S"] = "ÐžÑ‚Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¾";
+$MESS["SENDER_POSTING_RECIPIENT_STATUS_E"] = "Ð¡ Ð¾ÑˆÐ¸Ð±ÐºÐ°Ð¼Ð¸";
+$MESS["SENDER_POSTING_RECIPIENT_STATUS_D"] = "ÐžÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð¾";
 ?>

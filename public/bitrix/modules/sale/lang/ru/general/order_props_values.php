@@ -1,7 +1,7 @@
 <?
-$MESS["SKGOPV_EMPTY_ORDER_ID"]="Íå óñòàíîâëåí êîä çàêàçà";
-$MESS["SKGOPV_EMPTY_PROP_ID"]="Íå óñòàíîâëåí êîä ñâîéñòâà";
-$MESS["SKGOPV_NO_ORDER_ID"]="Çàêàç ñ êîäîì #ID# íå íàéäåí";
-$MESS["SKGOPV_NO_PROP_ID"]="Ñâîéñòâî ñ êîäîì #ID# íå íàéäåíî";
-$MESS["SKGOPV_DUPLICATE_PROP_ID"]="Çíà÷åíèå ñâîéñòâà ñ êîäîì #ID# äëÿ çàêàçà ¹#ORDER_ID# óæå çàäàíî";
+$MESS["SKGOPV_EMPTY_ORDER_ID"]="ÐÐµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½ ÐºÐ¾Ð´ Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["SKGOPV_EMPTY_PROP_ID"]="ÐÐµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½ ÐºÐ¾Ð´ ÑÐ²Ð¾Ð¹ÑÑ‚Ð²Ð°";
+$MESS["SKGOPV_NO_ORDER_ID"]="Ð—Ð°ÐºÐ°Ð· Ñ ÐºÐ¾Ð´Ð¾Ð¼ #ID# Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
+$MESS["SKGOPV_NO_PROP_ID"]="Ð¡Ð²Ð¾Ð¹ÑÑ‚Ð²Ð¾ Ñ ÐºÐ¾Ð´Ð¾Ð¼ #ID# Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾";
+$MESS["SKGOPV_DUPLICATE_PROP_ID"]="Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ ÑÐ²Ð¾Ð¹ÑÑ‚Ð²Ð° Ñ ÐºÐ¾Ð´Ð¾Ð¼ #ID# Ð´Ð»Ñ Ð·Ð°ÐºÐ°Ð·Ð° â„–#ORDER_ID# ÑƒÐ¶Ðµ Ð·Ð°Ð´Ð°Ð½Ð¾";
 ?>

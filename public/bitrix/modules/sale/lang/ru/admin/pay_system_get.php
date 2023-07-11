@@ -1,11 +1,11 @@
 <?
-$MESS ['SPSG_ACT_PROP'] = "Ñâîéñòâà îáðàáîò÷èêà";
-$MESS ['SPSG_TYPE'] = "Òèï";
-$MESS ['SPSG_OTHER'] = "Äðóãîå çíà÷åíèå";
-$MESS ['SPSG_FROM_USER'] = "Ïàðàìåòð ïîëüçîâàòåëÿ";
-$MESS ['SPSG_FROM_ORDER'] = "Ïàðàìåòð çàêàçà";
-$MESS ['SPSG_FROM_PROPS'] = "Ñâîéñòâî çàêàçà";
-$MESS ['SPSG_VALUE'] = "Çíà÷åíèå";
-$MESS ['SPSG_DEL'] = "Óäàëèòü ôàéë";
-$MESS ['SPSG_TARIFS'] = "Òàðèôû";
+$MESS ['SPSG_ACT_PROP'] = "Ð¡Ð²Ð¾Ð¹ÑÑ‚Ð²Ð° Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚Ñ‡Ð¸ÐºÐ°";
+$MESS ['SPSG_TYPE'] = "Ð¢Ð¸Ð¿";
+$MESS ['SPSG_OTHER'] = "Ð”Ñ€ÑƒÐ³Ð¾Ðµ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ";
+$MESS ['SPSG_FROM_USER'] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
+$MESS ['SPSG_FROM_ORDER'] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€ Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS ['SPSG_FROM_PROPS'] = "Ð¡Ð²Ð¾Ð¹ÑÑ‚Ð²Ð¾ Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS ['SPSG_VALUE'] = "Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ";
+$MESS ['SPSG_DEL'] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ Ñ„Ð°Ð¹Ð»";
+$MESS ['SPSG_TARIFS'] = "Ð¢Ð°Ñ€Ð¸Ñ„Ñ‹";
 ?>

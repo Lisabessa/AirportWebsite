@@ -1,20 +1,20 @@
 <?
-$MESS["TYPE_PRESET_MAILBLOCK_PERSONALISE"] = "Ïåðñîíàëèçàöèÿ";
-$MESS["TYPE_PRESET_MAILBLOCK_BASE"] = "Áàçîâûå áëîêè";
-$MESS["TYPE_PRESET_MAILBLOCK_SOCIAL"] = "Ñîöèàëüíûå ñåòè";
+$MESS["TYPE_PRESET_MAILBLOCK_PERSONALISE"] = "ÐŸÐµÑ€ÑÐ¾Ð½Ð°Ð»Ð¸Ð·Ð°Ñ†Ð¸Ñ";
+$MESS["TYPE_PRESET_MAILBLOCK_BASE"] = "Ð‘Ð°Ð·Ð¾Ð²Ñ‹Ðµ Ð±Ð»Ð¾ÐºÐ¸";
+$MESS["TYPE_PRESET_MAILBLOCK_SOCIAL"] = "Ð¡Ð¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ñ‹Ðµ ÑÐµÑ‚Ð¸";
 
-$MESS["PRESET_MAILBLOCK_NAME"] = "Èìÿ";
-$MESS["PRESET_MAILBLOCK_unsub"] = "Îòïèñêà îò ðàññûëêè";
-$MESS["PRESET_MAILBLOCK_unsub_TEXT_UNSUB_LINK"] = "ññûëêå";
-$MESS["PRESET_MAILBLOCK_unsub_TEXT_UNSUB_TEXT"] = "Äëÿ òîãî, ÷òîáû îòïèñàòüñÿ îò ýòîé ðàññûëêè, ïåðåéäèòå ïî ";
-$MESS["PRESET_MAILBLOCK_image"] = "Èçîáðàæåíèå";
-$MESS["PRESET_MAILBLOCK_text"] = "Òåêñò";
-$MESS["PRESET_MAILBLOCK_line"] = "Ëèíèÿ";
-$MESS["PRESET_MAILBLOCK_image_text"] = "Èçîáðàæåíèå è òåêñò";
-$MESS["PRESET_MAILBLOCK_text_image"] = "Òåêñò è èçîáðàæåíèå";
-$MESS["PRESET_MAILBLOCK_text2"] = "Äâà òåêñòà";
-$MESS["PRESET_MAILBLOCK_text3"] = "Òðè òåêñòà";
-$MESS["PRESET_MAILBLOCK_image2"] = "Äâà èçîáðàæåíèÿ";
-$MESS["PRESET_MAILBLOCK_image3"] = "Òðè èçîáðàæåíèÿ";
+$MESS["PRESET_MAILBLOCK_NAME"] = "Ð˜Ð¼Ñ";
+$MESS["PRESET_MAILBLOCK_unsub"] = "ÐžÑ‚Ð¿Ð¸ÑÐºÐ° Ð¾Ñ‚ Ñ€Ð°ÑÑÑ‹Ð»ÐºÐ¸";
+$MESS["PRESET_MAILBLOCK_unsub_TEXT_UNSUB_LINK"] = "ÑÑÑ‹Ð»ÐºÐµ";
+$MESS["PRESET_MAILBLOCK_unsub_TEXT_UNSUB_TEXT"] = "Ð”Ð»Ñ Ñ‚Ð¾Ð³Ð¾, Ñ‡Ñ‚Ð¾Ð±Ñ‹ Ð¾Ñ‚Ð¿Ð¸ÑÐ°Ñ‚ÑŒÑÑ Ð¾Ñ‚ ÑÑ‚Ð¾Ð¹ Ñ€Ð°ÑÑÑ‹Ð»ÐºÐ¸, Ð¿ÐµÑ€ÐµÐ¹Ð´Ð¸Ñ‚Ðµ Ð¿Ð¾ ";
+$MESS["PRESET_MAILBLOCK_image"] = "Ð˜Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ðµ";
+$MESS["PRESET_MAILBLOCK_text"] = "Ð¢ÐµÐºÑÑ‚";
+$MESS["PRESET_MAILBLOCK_line"] = "Ð›Ð¸Ð½Ð¸Ñ";
+$MESS["PRESET_MAILBLOCK_image_text"] = "Ð˜Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ðµ Ð¸ Ñ‚ÐµÐºÑÑ‚";
+$MESS["PRESET_MAILBLOCK_text_image"] = "Ð¢ÐµÐºÑÑ‚ Ð¸ Ð¸Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ðµ";
+$MESS["PRESET_MAILBLOCK_text2"] = "Ð”Ð²Ð° Ñ‚ÐµÐºÑÑ‚Ð°";
+$MESS["PRESET_MAILBLOCK_text3"] = "Ð¢Ñ€Ð¸ Ñ‚ÐµÐºÑÑ‚Ð°";
+$MESS["PRESET_MAILBLOCK_image2"] = "Ð”Ð²Ð° Ð¸Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ñ";
+$MESS["PRESET_MAILBLOCK_image3"] = "Ð¢Ñ€Ð¸ Ð¸Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ñ";
 $MESS["PRESET_MAILBLOCK_facebook"] = "Facebook";
 ?>

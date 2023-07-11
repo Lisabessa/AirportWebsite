@@ -1,4 +1,4 @@
 <?
-$MESS["S_PHONE"] = "òåë:";
-$MESS["S_SCHEDULE"] = "ãðàôèê:";
+$MESS["S_PHONE"] = "Ñ‚ÐµÐ»:";
+$MESS["S_SCHEDULE"] = "Ð³Ñ€Ð°Ñ„Ð¸Ðº:";
 ?>

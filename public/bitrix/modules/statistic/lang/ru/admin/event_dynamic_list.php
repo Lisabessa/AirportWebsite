@@ -1,12 +1,12 @@
 <?
-$MESS ['STAT_RECORDS_LIST'] = "Äèíàìèêà òèïà ñîáûòèÿ ïî äíÿì";
-$MESS ['STAT_F_EVENT_ID'] = "Òèï ñîáûòèÿ:";
-$MESS ['STAT_F_PERIOD'] = "Ïåðèîä";
-$MESS ['STAT_GRAPH'] = "Ãðàôèê òèïà ñîáûòèé ïî äíÿì";
-$MESS ['STAT_EVENT_DYN_PAGES'] = "Çàïèñè";
-$MESS ['STAT_DATE'] = "Äàòà";
-$MESS ['STAT_COUNTER'] = "Êîëè÷åñòâî";
-$MESS ['STAT_TOTAL_TIME'] = "Âñåãî äíåé:";
-$MESS ['STAT_MNU_GRAPH'] = "Ãðàôèê";
-$MESS ['STAT_CHOOSE_BTN'] = "Âûáðàòü...";
+$MESS ['STAT_RECORDS_LIST'] = "Ð”Ð¸Ð½Ð°Ð¼Ð¸ÐºÐ° Ñ‚Ð¸Ð¿Ð° ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ Ð¿Ð¾ Ð´Ð½ÑÐ¼";
+$MESS ['STAT_F_EVENT_ID'] = "Ð¢Ð¸Ð¿ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ:";
+$MESS ['STAT_F_PERIOD'] = "ÐŸÐµÑ€Ð¸Ð¾Ð´";
+$MESS ['STAT_GRAPH'] = "Ð“Ñ€Ð°Ñ„Ð¸Ðº Ñ‚Ð¸Ð¿Ð° ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ð¹ Ð¿Ð¾ Ð´Ð½ÑÐ¼";
+$MESS ['STAT_EVENT_DYN_PAGES'] = "Ð—Ð°Ð¿Ð¸ÑÐ¸";
+$MESS ['STAT_DATE'] = "Ð”Ð°Ñ‚Ð°";
+$MESS ['STAT_COUNTER'] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾";
+$MESS ['STAT_TOTAL_TIME'] = "Ð’ÑÐµÐ³Ð¾ Ð´Ð½ÐµÐ¹:";
+$MESS ['STAT_MNU_GRAPH'] = "Ð“Ñ€Ð°Ñ„Ð¸Ðº";
+$MESS ['STAT_CHOOSE_BTN'] = "Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ...";
 ?>

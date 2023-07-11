@@ -1,6 +1,6 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Ôîðóì");
+$APPLICATION->SetTitle("Ð¤Ð¾Ñ€ÑƒÐ¼");
 ?><?$APPLICATION->IncludeComponent("bitrix:forum", ".default", array(
 	"THEME" => COption::GetOptionString("main","wizard_".SITE_TEMPLATE_ID."_forum_theme_id","gray", SITE_ID),
 	"SHOW_TAGS" => "Y",

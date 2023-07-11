@@ -1,2 +1,2 @@
 <?
-$MESS["CUSTOM_FIELDS_CONTROLLER_ERROR_INCORRECT_ENTITY_ID"] = "Íåêîððåêòíûé èäåíòèôèêàòîð ñóùíîñòè";
+$MESS["CUSTOM_FIELDS_CONTROLLER_ERROR_INCORRECT_ENTITY_ID"] = "ÐÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ñ‹Ð¹ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸";

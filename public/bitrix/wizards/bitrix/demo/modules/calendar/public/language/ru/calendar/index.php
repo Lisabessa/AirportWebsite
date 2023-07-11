@@ -1,7 +1,7 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Êàëåíäàðü ñîáûòèé");
-?>  <?$APPLICATION->IncludeComponent(
+$APPLICATION->SetTitle("ÐšÐ°Ð»ÐµÐ½Ð´Ð°Ñ€ÑŒ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ð¹");
+?>Â  <?$APPLICATION->IncludeComponent(
 	"bitrix:calendar.grid",
 	"",
 	Array(

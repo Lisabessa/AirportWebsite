@@ -1,7 +1,7 @@
 <?
-$MESS["SALE_ORDER_MARKER_BLOCK_ORDER_PROBLEM"] = "Ïðîáëåìè ³ç çàìîâëåííÿì";
-$MESS["SALE_ORDER_MARKER_BLOCK_SHIPMENT_PROBLEM"] = "Ïðîáëåìè ç â³äâàíòàæåííÿì(¹#ENTITY_ID#)";
-$MESS["SALE_ORDER_MARKER_FIX"] = "Âèïðàâèòè";
-$MESS["SALE_ORDER_MARKER_CLOSE"] = "Âèäàëèòè ì³òêó";
-$MESS["SALE_ORDER_MARKER_BLOCK_PAYMENT_PROBLEM"] = "Ïðîáëåìè ç îïëàòîþ(¹#ENTITY_ID#)";
+$MESS["SALE_ORDER_MARKER_BLOCK_ORDER_PROBLEM"] = "ÐŸÑ€Ð¾Ð±Ð»ÐµÐ¼Ð¸ Ñ–Ð· Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½ÑÐ¼";
+$MESS["SALE_ORDER_MARKER_BLOCK_SHIPMENT_PROBLEM"] = "ÐŸÑ€Ð¾Ð±Ð»ÐµÐ¼Ð¸ Ð· Ð²Ñ–Ð´Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½ÑÐ¼(â„–#ENTITY_ID#)";
+$MESS["SALE_ORDER_MARKER_FIX"] = "Ð’Ð¸Ð¿Ñ€Ð°Ð²Ð¸Ñ‚Ð¸";
+$MESS["SALE_ORDER_MARKER_CLOSE"] = "Ð’Ð¸Ð´Ð°Ð»Ð¸Ñ‚Ð¸ Ð¼Ñ–Ñ‚ÐºÑƒ";
+$MESS["SALE_ORDER_MARKER_BLOCK_PAYMENT_PROBLEM"] = "ÐŸÑ€Ð¾Ð±Ð»ÐµÐ¼Ð¸ Ð· Ð¾Ð¿Ð»Ð°Ñ‚Ð¾ÑŽ(â„–#ENTITY_ID#)";
 ?>

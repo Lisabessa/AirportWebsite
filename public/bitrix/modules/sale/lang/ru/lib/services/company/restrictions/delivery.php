@@ -1,4 +1,4 @@
 <?php
-$MESS['SALE_COMPANY_RULES_BY_DLV'] = 'Ñëóæáû äîñòàâêè';
-$MESS['SALE_COMPANY_RULES_BY_DLV_TITLE'] = 'ïî ñëóæáàì äîñòàâêè';
-$MESS['SALE_COMPANY_RULES_BY_DLV_DESC'] = 'ïî ñëóæáàì äîñòàâêè';
+$MESS['SALE_COMPANY_RULES_BY_DLV'] = 'Ð¡Ð»ÑƒÐ¶Ð±Ñ‹ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸';
+$MESS['SALE_COMPANY_RULES_BY_DLV_TITLE'] = 'Ð¿Ð¾ ÑÐ»ÑƒÐ¶Ð±Ð°Ð¼ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸';
+$MESS['SALE_COMPANY_RULES_BY_DLV_DESC'] = 'Ð¿Ð¾ ÑÐ»ÑƒÐ¶Ð±Ð°Ð¼ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸';

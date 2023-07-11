@@ -12,18 +12,18 @@ $MESS["BLOG_DEMO_BLOG_NAME"] = "Blog des Administrator's ";
 $MESS["BLOG_DEMO_CATEGORY_1"] = "Hinweise";
 $MESS["BLOG_DEMO_CATEGORY_2"] = "Tipps";
 $MESS["BLOG_DEMO_MESSAGE_TITLE_1"] = "Wie erstellt man eine neue Seite";
-$MESS["BLOG_DEMO_MESSAGE_BODY_1"] = "Mit Hilfe des eingebauten System-Editors können Sie neue Internetseiten erstellen.  
-Die Webseiten können beides, statische und dynamische Informationen enthalten. 
+$MESS["BLOG_DEMO_MESSAGE_BODY_1"] = "Mit Hilfe des eingebauten System-Editors kÑ†nnen Sie neue Internetseiten erstellen.  
+Die Webseiten kÑ†nnen beides, statische und dynamische Informationen enthalten. 
 
 [LIST]
-[*][B]Statische Informationen[/B] bleiben über die Zeit hin unverändert. Dies ist zum Beispiel bei Werbung, Informationen zur Unternehmensgeschichte oder Kontaktinformationen der Fall. Diese Art von Informationen können nur von Benutzern bearbeitet werden, die Seitenbearbeitungrechte besitzen. ;
-[*] Nun kann es aber sein, dass es erforderlich wird, gelegentlich wechselnde Informationen (dynamische Informationen) zu ändern.  [B]Dynamische Informationen[/B] werden im Hauptteil der Seite angezeigt und können mit Hilfe der System-Tools. Beispiele für dynamische Inhalte sind: aktuelle Firmennews, Produkt- und Dienstleistungskatalog, Photoalben, Zufallsfoto, Banner etc.
+[*][B]Statische Informationen[/B] bleiben ÑŒber die Zeit hin unverÐ´ndert. Dies ist zum Beispiel bei Werbung, Informationen zur Unternehmensgeschichte oder Kontaktinformationen der Fall. Diese Art von Informationen kÑ†nnen nur von Benutzern bearbeitet werden, die Seitenbearbeitungrechte besitzen. ;
+[*] Nun kann es aber sein, dass es erforderlich wird, gelegentlich wechselnde Informationen (dynamische Informationen) zu Ð´ndern.  [B]Dynamische Informationen[/B] werden im Hauptteil der Seite angezeigt und kÑ†nnen mit Hilfe der System-Tools. Beispiele fÑŒr dynamische Inhalte sind: aktuelle Firmennews, Produkt- und Dienstleistungskatalog, Photoalben, Zufallsfoto, Banner etc.
 [/LIST]
 
-Für Nutzer ohne Programmiererfahrungen ist es leichter Internetseiten über den visuellen HTML-Editor zu erstellen, da hier die Bedienung der von Microsoft Word sehr ähnlich ist. Außerdem zeigt der HTML-Editor die Seite praktischerweise gleich so an, wie sie auch nach der Veröffentlichung aussehen würde.
+FÑŒr Nutzer ohne Programmiererfahrungen ist es leichter Internetseiten ÑŒber den visuellen HTML-Editor zu erstellen, da hier die Bedienung der von Microsoft Word sehr Ð´hnlich ist. AuÐ¯erdem zeigt der HTML-Editor die Seite praktischerweise gleich so an, wie sie auch nach der VerÑ†ffentlichung aussehen wÑŒrde.
 
 [IMG ID=1][CUT]
-Währenddessen Sie mit dem HTML-Editor eine Seite verändern, können Sie auch Verlinkungen einfügen. Um das zu tun, öffnen sie den Menü-Tab, spezifizieren Sie ein Item und wählen Sie den Menütyp aus, wo dieses Item erstellt werden soll.
+WÐ´hrenddessen Sie mit dem HTML-Editor eine Seite verÐ´ndern, kÑ†nnen Sie auch Verlinkungen einfÑŒgen. Um das zu tun, Ñ†ffnen sie den MenÑŒ-Tab, spezifizieren Sie ein Item und wÐ´hlen Sie den MenÑŒtyp aus, wo dieses Item erstellt werden soll.
 
 [video width=400 height=324]/upload/new_page.flv[/video]
 

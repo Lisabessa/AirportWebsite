@@ -1,6 +1,6 @@
 <?
-$MESS["SALE_BASKET_COMPATIBLE_BASKET_ITEM_NOT_FOUND"] = "Åëåìåíò êîøèêà íå çíàéäåíî";
-$MESS["SALE_BASKET_COMPATIBLE_BASKET_ITEM_PROPS_NOT_FOUND"] = "Åëåìåíò êîøèêà ç äàíèìè âëàñòèâîñòÿìè íå çíàéäåíî";
-$MESS["SALE_BASKET_COMPATIBLE_BASKET_COLLECTION_NOT_FOUND"] = "Êîøèê íå çíàéäåíî";
-$MESS["SALE_BASKET_COMPATIBLE_BASKET_ITEM_ERROR_BIND_TO_ORDER"] = "Òîâàð âæå ïðèâ'ÿçàíèé äî çàìîâëåííÿ";
+$MESS["SALE_BASKET_COMPATIBLE_BASKET_ITEM_NOT_FOUND"] = "Ð•Ð»ÐµÐ¼ÐµÐ½Ñ‚ ÐºÐ¾ÑˆÐ¸ÐºÐ° Ð½Ðµ Ð·Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾";
+$MESS["SALE_BASKET_COMPATIBLE_BASKET_ITEM_PROPS_NOT_FOUND"] = "Ð•Ð»ÐµÐ¼ÐµÐ½Ñ‚ ÐºÐ¾ÑˆÐ¸ÐºÐ° Ð· Ð´Ð°Ð½Ð¸Ð¼Ð¸ Ð²Ð»Ð°ÑÑ‚Ð¸Ð²Ð¾ÑÑ‚ÑÐ¼Ð¸ Ð½Ðµ Ð·Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾";
+$MESS["SALE_BASKET_COMPATIBLE_BASKET_COLLECTION_NOT_FOUND"] = "ÐšÐ¾ÑˆÐ¸Ðº Ð½Ðµ Ð·Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾";
+$MESS["SALE_BASKET_COMPATIBLE_BASKET_ITEM_ERROR_BIND_TO_ORDER"] = "Ð¢Ð¾Ð²Ð°Ñ€ Ð²Ð¶Ðµ Ð¿Ñ€Ð¸Ð²'ÑÐ·Ð°Ð½Ð¸Ð¹ Ð´Ð¾ Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ";
 ?>

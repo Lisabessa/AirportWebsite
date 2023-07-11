@@ -1,6 +1,6 @@
 <?
 $MESS["GROUP_LANG_ENTITY_ID_FIELD"] = "ID";
-$MESS["GROUP_LANG_ENTITY_CATALOG_GROUP_ID_FIELD"] = "Èäåíòèôèêàòîð òèïà öåíû";
-$MESS["GROUP_LANG_ENTITY_LANG_FIELD"] = "Èäåíòèôèêàòîð ÿçûêà";
-$MESS["GROUP_LANG_ENTITY_NAME_FIELD"] = "Íàçâàíèå";
+$MESS["GROUP_LANG_ENTITY_CATALOG_GROUP_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ñ‚Ð¸Ð¿Ð° Ñ†ÐµÐ½Ñ‹";
+$MESS["GROUP_LANG_ENTITY_LANG_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÐ·Ñ‹ÐºÐ°";
+$MESS["GROUP_LANG_ENTITY_NAME_FIELD"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
 ?>

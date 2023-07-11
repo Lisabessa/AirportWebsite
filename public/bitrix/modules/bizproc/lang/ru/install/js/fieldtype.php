@@ -1,7 +1,7 @@
 <?
-$MESS["BIZPROC_JS_BP_FIELD_TYPE_YES"] = "Äà";
-$MESS["BIZPROC_JS_BP_FIELD_TYPE_NO"] = "Íåò";
-$MESS["BIZPROC_JS_BP_FIELD_TYPE_NOT_SELECTED"] = "[íå óñòàíîâëåíî]";
-$MESS["BIZPROC_JS_BP_FIELD_TYPE_ADD"] = "äîáàâèòü";
-$MESS["BIZPROC_JS_BP_FIELD_TYPE_CHOOSE_FILE"] = "Âûáðàòü ôàéë";
+$MESS["BIZPROC_JS_BP_FIELD_TYPE_YES"] = "Ð”Ð°";
+$MESS["BIZPROC_JS_BP_FIELD_TYPE_NO"] = "ÐÐµÑ‚";
+$MESS["BIZPROC_JS_BP_FIELD_TYPE_NOT_SELECTED"] = "[Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð¾]";
+$MESS["BIZPROC_JS_BP_FIELD_TYPE_ADD"] = "Ð´Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ";
+$MESS["BIZPROC_JS_BP_FIELD_TYPE_CHOOSE_FILE"] = "Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ Ñ„Ð°Ð¹Ð»";
 ?>

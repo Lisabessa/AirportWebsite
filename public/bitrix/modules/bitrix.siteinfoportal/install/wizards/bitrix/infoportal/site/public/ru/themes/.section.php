@@ -1,5 +1,5 @@
 <?
-$sSectionName = "Òåìû";
+$sSectionName = "Ð¢ÐµÐ¼Ñ‹";
 $arDirProperties = Array(
 
 );

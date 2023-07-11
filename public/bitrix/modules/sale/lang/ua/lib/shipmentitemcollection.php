@@ -1,3 +1,3 @@
 <?
-$MESS["SALE_SHIPMENT_ITEM_COLLECTION_BASKET_ITEM_NOT_FOUND"] = "Â³äñóòíÿ ïîâ'ÿçàíà ç åëåìåíòîì â³äâàíòàæåííÿ ##SHIPMENT_ID# ïîçèö³ÿ â êîøèêó ##BASKET_ITEM_ID#.";
+$MESS["SALE_SHIPMENT_ITEM_COLLECTION_BASKET_ITEM_NOT_FOUND"] = "Ð’Ñ–Ð´ÑÑƒÑ‚Ð½Ñ Ð¿Ð¾Ð²'ÑÐ·Ð°Ð½Ð° Ð· ÐµÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð¼ Ð²Ñ–Ð´Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ ##SHIPMENT_ID# Ð¿Ð¾Ð·Ð¸Ñ†Ñ–Ñ Ð² ÐºÐ¾ÑˆÐ¸ÐºÑƒ ##BASKET_ITEM_ID#.";
 ?>

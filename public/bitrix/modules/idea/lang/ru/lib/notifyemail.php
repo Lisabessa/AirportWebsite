@@ -1,6 +1,6 @@
 <?
 $MESS["IDEA_NOTIFY_EMAIL_USER_ID"] = "";
-$MESS["IDEA_NOTIFY_EMAIL_SUBSCRIBE_TYPE"] = "Òèï ïîäïèñêè";
-$MESS["IDEA_NOTIFY_EMAIL_ENTITY_TYPE"] = "Ñóùíîñòü ïîäïèñêè";
-$MESS["IDEA_NOTIFY_EMAIL_ENTITY_CODE"] = "Êîä ñóùíîñòè ïîäïèñêè";
+$MESS["IDEA_NOTIFY_EMAIL_SUBSCRIBE_TYPE"] = "Ð¢Ð¸Ð¿ Ð¿Ð¾Ð´Ð¿Ð¸ÑÐºÐ¸";
+$MESS["IDEA_NOTIFY_EMAIL_ENTITY_TYPE"] = "Ð¡ÑƒÑ‰Ð½Ð¾ÑÑ‚ÑŒ Ð¿Ð¾Ð´Ð¿Ð¸ÑÐºÐ¸";
+$MESS["IDEA_NOTIFY_EMAIL_ENTITY_CODE"] = "ÐšÐ¾Ð´ ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸ Ð¿Ð¾Ð´Ð¿Ð¸ÑÐºÐ¸";
 ?>

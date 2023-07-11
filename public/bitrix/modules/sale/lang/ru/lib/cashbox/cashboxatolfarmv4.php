@@ -1,8 +1,8 @@
 <?
-$MESS["SALE_CASHBOX_ATOL_FARM_V4_TITLE"] = "Àòîë.Îíëàéí v4";
-$MESS["SALE_CASHBOX_ATOL_FARM_SETTINGS_SERVICE_EMAIL_LABEL"] = "Email îðãàíèçàöèè";
+$MESS["SALE_CASHBOX_ATOL_FARM_V4_TITLE"] = "ÐÑ‚Ð¾Ð».ÐžÐ½Ð»Ð°Ð¹Ð½ v4";
+$MESS["SALE_CASHBOX_ATOL_FARM_SETTINGS_SERVICE_EMAIL_LABEL"] = "Email Ð¾Ñ€Ð³Ð°Ð½Ð¸Ð·Ð°Ñ†Ð¸Ð¸";
 
-$MESS["SALE_CASHBOX_ATOL_FARM_SETTINGS_INTERACTION"] = "Íàñòðîéêè âçàèìîäåéñòâèÿ";
-$MESS["SALE_CASHBOX_ATOL_FARM_SETTINGS_MODE_HANDLER_LABEL"] = "Ðåæèì ðàáîòû êàññû";
-$MESS["SALE_CASHBOX_ATOL_FARM_MODE_TEST"] = "òåñòîâûé";
-$MESS["SALE_CASHBOX_ATOL_FARM_MODE_ACTIVE"] = "áîåâîé";
+$MESS["SALE_CASHBOX_ATOL_FARM_SETTINGS_INTERACTION"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð²Ð·Ð°Ð¸Ð¼Ð¾Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ";
+$MESS["SALE_CASHBOX_ATOL_FARM_SETTINGS_MODE_HANDLER_LABEL"] = "Ð ÐµÐ¶Ð¸Ð¼ Ñ€Ð°Ð±Ð¾Ñ‚Ñ‹ ÐºÐ°ÑÑÑ‹";
+$MESS["SALE_CASHBOX_ATOL_FARM_MODE_TEST"] = "Ñ‚ÐµÑÑ‚Ð¾Ð²Ñ‹Ð¹";
+$MESS["SALE_CASHBOX_ATOL_FARM_MODE_ACTIVE"] = "Ð±Ð¾ÐµÐ²Ð¾Ð¹";

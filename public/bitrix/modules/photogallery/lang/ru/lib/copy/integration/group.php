@@ -1,4 +1,4 @@
 <?php
-$MESS["GROUP_FEATURE_SECTION_NAME_PREFIX"] = "Ãðóïïà: ";
-$MESS["GROUP_STEPPER_PROGRESS_TITLE"] = "Êîïèðîâàíèå àëüáîìîâ";
-$MESS["GROUP_STEPPER_PROGRESS_ERROR"] = "Íå óäàëîñü ñêîïèðîâàòü àëüáîìû ñ èäåíòèôèêàòîðàìè: ";
+$MESS["GROUP_FEATURE_SECTION_NAME_PREFIX"] = "Ð“Ñ€ÑƒÐ¿Ð¿Ð°: ";
+$MESS["GROUP_STEPPER_PROGRESS_TITLE"] = "ÐšÐ¾Ð¿Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð°Ð»ÑŒÐ±Ð¾Ð¼Ð¾Ð²";
+$MESS["GROUP_STEPPER_PROGRESS_ERROR"] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ ÑÐºÐ¾Ð¿Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ð°Ð»ÑŒÐ±Ð¾Ð¼Ñ‹ Ñ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€Ð°Ð¼Ð¸: ";

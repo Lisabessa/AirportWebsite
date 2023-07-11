@@ -1,2 +1,2 @@
 <?php
-$MESS["ACCESS_PERMISSION_PARENT_VALIDATE_ERROR"] = "Ïðè ñîõðàíåíèè íàñòðîåê ïðîèçîøëà îøèáêà.";
+$MESS["ACCESS_PERMISSION_PARENT_VALIDATE_ERROR"] = "ÐŸÑ€Ð¸ ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð¸Ð¸ Ð½Ð°ÑÑ‚Ñ€Ð¾ÐµÐº Ð¿Ñ€Ð¾Ð¸Ð·Ð¾ÑˆÐ»Ð° Ð¾ÑˆÐ¸Ð±ÐºÐ°.";

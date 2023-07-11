@@ -1,3 +1,3 @@
 <?
-$MESS["MAIN_UI_SELECTOR_ACCESSRIGHT_DIRECTOR"] = "Ðóêîâîäèòåëÿì";
+$MESS["MAIN_UI_SELECTOR_ACCESSRIGHT_DIRECTOR"] = "Ð ÑƒÐºÐ¾Ð²Ð¾Ð´Ð¸Ñ‚ÐµÐ»ÑÐ¼";
 ?>

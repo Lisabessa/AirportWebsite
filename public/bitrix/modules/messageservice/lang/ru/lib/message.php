@@ -1,7 +1,7 @@
 <?php
-$MESS["MESSAGESERVICE_MESSAGE_ERROR_SENDER"] = "Íå óêàçàíà ñëóæáà îòïðàâêè ñîîáùåíèÿ";
-$MESS["MESSAGESERVICE_MESSAGE_ERROR_SENDER_CAN_USE"] = "Ñëóæáà îòïðàâêè íå ãîòîâà ê èñïîëüçîâàíèþ";
-$MESS["MESSAGESERVICE_MESSAGE_ERROR_TYPE"] = "Óêàçàííàÿ ñëóæáà îòïðàâêè íå ïîääåðæèâàåò äàííûé òèï ñîîáùåíèé";
-$MESS["MESSAGESERVICE_MESSAGE_ERROR_FROM"] = "Íåêîððåêòíîå ïîëå Îòïðàâèòåëü ñîîáùåíèÿ";
-$MESS["MESSAGESERVICE_MESSAGE_ERROR_LIMITATION"] = "Ïðåâûøåí äíåâíîé ëèìèò îòïðàâêè ñîîáùåíèé ÷åðåç äàííûé ñåðâèñ";
+$MESS["MESSAGESERVICE_MESSAGE_ERROR_SENDER"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð° ÑÐ»ÑƒÐ¶Ð±Ð° Ð¾Ñ‚Ð¿Ñ€Ð°Ð²ÐºÐ¸ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
+$MESS["MESSAGESERVICE_MESSAGE_ERROR_SENDER_CAN_USE"] = "Ð¡Ð»ÑƒÐ¶Ð±Ð° Ð¾Ñ‚Ð¿Ñ€Ð°Ð²ÐºÐ¸ Ð½Ðµ Ð³Ð¾Ñ‚Ð¾Ð²Ð° Ðº Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð¸ÑŽ";
+$MESS["MESSAGESERVICE_MESSAGE_ERROR_TYPE"] = "Ð£ÐºÐ°Ð·Ð°Ð½Ð½Ð°Ñ ÑÐ»ÑƒÐ¶Ð±Ð° Ð¾Ñ‚Ð¿Ñ€Ð°Ð²ÐºÐ¸ Ð½Ðµ Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶Ð¸Ð²Ð°ÐµÑ‚ Ð´Ð°Ð½Ð½Ñ‹Ð¹ Ñ‚Ð¸Ð¿ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ð¹";
+$MESS["MESSAGESERVICE_MESSAGE_ERROR_FROM"] = "ÐÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ð¾Ðµ Ð¿Ð¾Ð»Ðµ ÐžÑ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»ÑŒ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
+$MESS["MESSAGESERVICE_MESSAGE_ERROR_LIMITATION"] = "ÐŸÑ€ÐµÐ²Ñ‹ÑˆÐµÐ½ Ð´Ð½ÐµÐ²Ð½Ð¾Ð¹ Ð»Ð¸Ð¼Ð¸Ñ‚ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²ÐºÐ¸ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ð¹ Ñ‡ÐµÑ€ÐµÐ· Ð´Ð°Ð½Ð½Ñ‹Ð¹ ÑÐµÑ€Ð²Ð¸Ñ";
 ?>

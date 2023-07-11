@@ -1,7 +1,7 @@
 <?
-$MESS["SALE_DLVR_RSTR_BY_DIMENSIONS_NAME"] = "nach maximalem Ausmaß";
-$MESS["SALE_DLVR_RSTR_BY_DIMENSIONS_DESCRIPT"] = "Verwendung des Lieferservices nach maximalem Ausmaß einschränken";
-$MESS["SALE_DLVR_RSTR_BY_DIMENSIONS_LENGTH"] = "Länge maximal (mm)";
+$MESS["SALE_DLVR_RSTR_BY_DIMENSIONS_NAME"] = "nach maximalem AusmaÃŸ";
+$MESS["SALE_DLVR_RSTR_BY_DIMENSIONS_DESCRIPT"] = "Verwendung des Lieferservices nach maximalem AusmaÃŸ einschrÃ¤nken";
+$MESS["SALE_DLVR_RSTR_BY_DIMENSIONS_LENGTH"] = "LÃ¤nge maximal (mm)";
 $MESS["SALE_DLVR_RSTR_BY_DIMENSIONS_WIDTH"] = "Breite maximal (mm)";
-$MESS["SALE_DLVR_RSTR_BY_DIMENSIONS_HEIGHT"] = "Höhe maximal (mm)";
+$MESS["SALE_DLVR_RSTR_BY_DIMENSIONS_HEIGHT"] = "HÃ¶he maximal (mm)";
 ?>

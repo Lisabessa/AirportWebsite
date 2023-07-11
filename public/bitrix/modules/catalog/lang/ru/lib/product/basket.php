@@ -1,13 +1,13 @@
 <?
-$MESS["BX_CATALOG_PRODUCT_BASKET_ERR_SEARCHER"] = "Ïîèñêîâàÿ ñèñòåìà íå ìîæåò áûòü ïîêóïàòåëåì";
-$MESS["BX_CATALOG_PRODUCT_BASKET_ERR_NO_PRODUCT"] = "Òîâàð íå íàéäåí";
-$MESS["BX_CATALOG_PRODUCT_BASKET_ERR_NO_SALE"] = "Íå óñòàíîâëåí ìîäóëü Èíòåðíåò-ìàãàçèíà";
-$MESS["BX_CATALOG_PRODUCT_BASKET_ERR_NO_IBLOCK_ELEMENT"] = "Íå íàéäåí ýëåìåíò èíôîáëîêà";
-$MESS["BX_CATALOG_PRODUCT_BASKET_ERR_UNKNOWN"] = "Îòñóòñòâóåò èíôîðìàöèÿ î äîáàâëåíèè òîâàðà â êîðçèíó";
-$MESS["BX_CATALOG_PRODUCT_BASKET_ERR_CANNOT_ADD_SKU"] = "Íåëüçÿ äîáàâèòü â êîðçèíó òîâàð ñ òîðãîâûìè ïðåäëîæåíèÿìè - òîëüêî êîíêðåòíîå ïðåäëîæåíèå";
-$MESS["BX_CATALOG_PRODUCT_BASKET_ERR_PRODUCT_RUN_OUT"] = "Òîâàð îòñóòñòâóåò";
-$MESS["BX_CATALOG_PRODUCT_BASKET_ERR_PRODUCT_BAD_TYPE"] = "Íåâåðíûé òèï òîâàðà";
-$MESS["BX_CATALOG_PRODUCT_BASKET_ERR_NO_PRODUCT_SET"] = "Íå íàéäåí ñîñòàâ êîìïëåêòà";
-$MESS["BX_CATALOG_PRODUCT_BASKET_ERR_NO_PRODUCT_SET_ITEMS"] = "Íå íàéäåíû òîâàðû, âõîäÿùèå â êîìïëåêò";
-$MESS["BX_CATALOG_PRODUCT_BASKET_ERR_EMPTY_QUANTITY"] = "Íå óêàçàíî êîëè÷åñòâî òîâàðà äëÿ äîáàâëåíèÿ â êîðçèíó";
+$MESS["BX_CATALOG_PRODUCT_BASKET_ERR_SEARCHER"] = "ÐŸÐ¾Ð¸ÑÐºÐ¾Ð²Ð°Ñ ÑÐ¸ÑÑ‚ÐµÐ¼Ð° Ð½Ðµ Ð¼Ð¾Ð¶ÐµÑ‚ Ð±Ñ‹Ñ‚ÑŒ Ð¿Ð¾ÐºÑƒÐ¿Ð°Ñ‚ÐµÐ»ÐµÐ¼";
+$MESS["BX_CATALOG_PRODUCT_BASKET_ERR_NO_PRODUCT"] = "Ð¢Ð¾Ð²Ð°Ñ€ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
+$MESS["BX_CATALOG_PRODUCT_BASKET_ERR_NO_SALE"] = "ÐÐµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½ Ð¼Ð¾Ð´ÑƒÐ»ÑŒ Ð˜Ð½Ñ‚ÐµÑ€Ð½ÐµÑ‚-Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ð°";
+$MESS["BX_CATALOG_PRODUCT_BASKET_ERR_NO_IBLOCK_ELEMENT"] = "ÐÐµ Ð½Ð°Ð¹Ð´ÐµÐ½ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚ Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ°";
+$MESS["BX_CATALOG_PRODUCT_BASKET_ERR_UNKNOWN"] = "ÐžÑ‚ÑÑƒÑ‚ÑÑ‚Ð²ÑƒÐµÑ‚ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ñ Ð¾ Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ð¸ Ñ‚Ð¾Ð²Ð°Ñ€Ð° Ð² ÐºÐ¾Ñ€Ð·Ð¸Ð½Ñƒ";
+$MESS["BX_CATALOG_PRODUCT_BASKET_ERR_CANNOT_ADD_SKU"] = "ÐÐµÐ»ÑŒÐ·Ñ Ð´Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð² ÐºÐ¾Ñ€Ð·Ð¸Ð½Ñƒ Ñ‚Ð¾Ð²Ð°Ñ€ Ñ Ñ‚Ð¾Ñ€Ð³Ð¾Ð²Ñ‹Ð¼Ð¸ Ð¿Ñ€ÐµÐ´Ð»Ð¾Ð¶ÐµÐ½Ð¸ÑÐ¼Ð¸ - Ñ‚Ð¾Ð»ÑŒÐºÐ¾ ÐºÐ¾Ð½ÐºÑ€ÐµÑ‚Ð½Ð¾Ðµ Ð¿Ñ€ÐµÐ´Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ";
+$MESS["BX_CATALOG_PRODUCT_BASKET_ERR_PRODUCT_RUN_OUT"] = "Ð¢Ð¾Ð²Ð°Ñ€ Ð¾Ñ‚ÑÑƒÑ‚ÑÑ‚Ð²ÑƒÐµÑ‚";
+$MESS["BX_CATALOG_PRODUCT_BASKET_ERR_PRODUCT_BAD_TYPE"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ñ‚Ð¸Ð¿ Ñ‚Ð¾Ð²Ð°Ñ€Ð°";
+$MESS["BX_CATALOG_PRODUCT_BASKET_ERR_NO_PRODUCT_SET"] = "ÐÐµ Ð½Ð°Ð¹Ð´ÐµÐ½ ÑÐ¾ÑÑ‚Ð°Ð² ÐºÐ¾Ð¼Ð¿Ð»ÐµÐºÑ‚Ð°";
+$MESS["BX_CATALOG_PRODUCT_BASKET_ERR_NO_PRODUCT_SET_ITEMS"] = "ÐÐµ Ð½Ð°Ð¹Ð´ÐµÐ½Ñ‹ Ñ‚Ð¾Ð²Ð°Ñ€Ñ‹, Ð²Ñ…Ð¾Ð´ÑÑ‰Ð¸Ðµ Ð² ÐºÐ¾Ð¼Ð¿Ð»ÐµÐºÑ‚";
+$MESS["BX_CATALOG_PRODUCT_BASKET_ERR_EMPTY_QUANTITY"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾ ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ñ‚Ð¾Ð²Ð°Ñ€Ð° Ð´Ð»Ñ Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ñ Ð² ÐºÐ¾Ñ€Ð·Ð¸Ð½Ñƒ";
 ?>

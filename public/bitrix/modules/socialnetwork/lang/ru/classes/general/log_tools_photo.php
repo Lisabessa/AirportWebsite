@@ -1,13 +1,13 @@
 <?
-$MESS["SONET_PHOTO_LOG_GUEST"] = "Ãîñòü";
-$MESS["SONET_PHOTOPHOTO_LOG_1"] = "#AUTHOR_NAME# äîáàâèë(à) ôîòîãðàôèþ #TITLE#";
-$MESS["SONET_PHOTO_IM_COMMENT"] = "Ïðîêîììåíòèðîâàë âàøå ôîòî \"#photo_title#\" â àëüáîìå \"#album_title#\"";
-$MESS["SONET_PHOTO_ADD_COMMENT_SOURCE_ERROR"] = "Íå óäàëîñü äîáàâèòü êîììåíòàðèé ê èñòî÷íèêó ñîáûòèÿ";
-$MESS["SONET_PHOTO_UPDATE_COMMENT_SOURCE_ERROR"] = "Íå óäàëîñü èçìåíèòü êîììåíòàðèé ê èñòî÷íèêó ñîáûòèÿ";
-$MESS["SONET_PHOTO_DELETE_COMMENT_SOURCE_ERROR"] = "Íå óäàëîñü óäàëèòü êîììåíòàðèé ê èñòî÷íèêó ñîáûòèÿ";
-$MESS["SONET_PHOTO_LOG_1"] = "#AUTHOR_NAME# äîáàâèë(à) ôîòîãðàôèè";
-$MESS["SONET_PHOTO_LOG_2"] = "ôîòîãðàôèè (#COUNT#)";
-$MESS["SONET_PHOTO_LOG_MAIL_TEXT"] = "Â àëüáîì \"#TITLE#\" çàãðóæåíû íîâûå ôîòîãðàôèè";
-$MESS["SONET_IM_NEW_PHOTO"] = "Çàãðóæåíî íîâîå ôîòî â àëüáîì \"#title#\" â ãðóïïå \"#group_name#\".";
-$MESS["SONET_PHOTOALBUM_IM_COMMENT"] = "Ïðîêîììåíòèðîâàë âàø àëüáîì \"#album_title#\"";
+$MESS["SONET_PHOTO_LOG_GUEST"] = "Ð“Ð¾ÑÑ‚ÑŒ";
+$MESS["SONET_PHOTOPHOTO_LOG_1"] = "#AUTHOR_NAME# Ð´Ð¾Ð±Ð°Ð²Ð¸Ð»(Ð°) Ñ„Ð¾Ñ‚Ð¾Ð³Ñ€Ð°Ñ„Ð¸ÑŽ #TITLE#";
+$MESS["SONET_PHOTO_IM_COMMENT"] = "ÐŸÑ€Ð¾ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ð» Ð²Ð°ÑˆÐµ Ñ„Ð¾Ñ‚Ð¾ \"#photo_title#\" Ð² Ð°Ð»ÑŒÐ±Ð¾Ð¼Ðµ \"#album_title#\"";
+$MESS["SONET_PHOTO_ADD_COMMENT_SOURCE_ERROR"] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ Ð´Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹ Ðº Ð¸ÑÑ‚Ð¾Ñ‡Ð½Ð¸ÐºÑƒ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ";
+$MESS["SONET_PHOTO_UPDATE_COMMENT_SOURCE_ERROR"] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ Ð¸Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹ Ðº Ð¸ÑÑ‚Ð¾Ñ‡Ð½Ð¸ÐºÑƒ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ";
+$MESS["SONET_PHOTO_DELETE_COMMENT_SOURCE_ERROR"] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹ Ðº Ð¸ÑÑ‚Ð¾Ñ‡Ð½Ð¸ÐºÑƒ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ";
+$MESS["SONET_PHOTO_LOG_1"] = "#AUTHOR_NAME# Ð´Ð¾Ð±Ð°Ð²Ð¸Ð»(Ð°) Ñ„Ð¾Ñ‚Ð¾Ð³Ñ€Ð°Ñ„Ð¸Ð¸";
+$MESS["SONET_PHOTO_LOG_2"] = "Ñ„Ð¾Ñ‚Ð¾Ð³Ñ€Ð°Ñ„Ð¸Ð¸ (#COUNT#)";
+$MESS["SONET_PHOTO_LOG_MAIL_TEXT"] = "Ð’ Ð°Ð»ÑŒÐ±Ð¾Ð¼ \"#TITLE#\" Ð·Ð°Ð³Ñ€ÑƒÐ¶ÐµÐ½Ñ‹ Ð½Ð¾Ð²Ñ‹Ðµ Ñ„Ð¾Ñ‚Ð¾Ð³Ñ€Ð°Ñ„Ð¸Ð¸";
+$MESS["SONET_IM_NEW_PHOTO"] = "Ð—Ð°Ð³Ñ€ÑƒÐ¶ÐµÐ½Ð¾ Ð½Ð¾Ð²Ð¾Ðµ Ñ„Ð¾Ñ‚Ð¾ Ð² Ð°Ð»ÑŒÐ±Ð¾Ð¼ \"#title#\" Ð² Ð³Ñ€ÑƒÐ¿Ð¿Ðµ \"#group_name#\".";
+$MESS["SONET_PHOTOALBUM_IM_COMMENT"] = "ÐŸÑ€Ð¾ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ð» Ð²Ð°Ñˆ Ð°Ð»ÑŒÐ±Ð¾Ð¼ \"#album_title#\"";
 ?>

@@ -1,5 +1,5 @@
 <?
-$MESS ['IBLOCK_ELEMENT_ADD_FORM_NAME'] = "Ôîðìà äîáàâëåíèÿ / ðåäàêòèðîâàíèÿ";
-$MESS ['IBLOCK_ELEMENT_ADD_FORM_DESCRIPTION'] = "Ôîðìà äîáàâëåíèÿ / ðåäàêòèðîâàíèÿ ýëåìåíòà èíôîáëîêà";
-$MESS ['T_IBLOCK_DESC_ELEMENT_ADD'] = "Äîáàâëåíèå ýëåìåíòîâ";
+$MESS ['IBLOCK_ELEMENT_ADD_FORM_NAME'] = "Ð¤Ð¾Ñ€Ð¼Ð° Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ñ / Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ";
+$MESS ['IBLOCK_ELEMENT_ADD_FORM_DESCRIPTION'] = "Ð¤Ð¾Ñ€Ð¼Ð° Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ñ / Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð° Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ°";
+$MESS ['T_IBLOCK_DESC_ELEMENT_ADD'] = "Ð”Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð²";
 ?>

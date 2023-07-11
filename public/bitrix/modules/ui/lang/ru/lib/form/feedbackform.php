@@ -1,2 +1,2 @@
 <?php
-$MESS['UI_FEEDBACK_FORM_BUTTON'] = 'Îáðàòíàÿ ñâÿçü';
+$MESS['UI_FEEDBACK_FORM_BUTTON'] = 'ÐžÐ±Ñ€Ð°Ñ‚Ð½Ð°Ñ ÑÐ²ÑÐ·ÑŒ';

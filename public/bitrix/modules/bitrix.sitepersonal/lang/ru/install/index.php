@@ -1,8 +1,8 @@
 <?
-$MESS["SPER_INSTALL_NAME"] = "Ïåðñîíàëüíûé ñàéò";
-$MESS["SPER_INSTALL_DESCRIPTION"] = "Ïåðñîíàëüíûé ñàéò";
-$MESS["SPER_INSTALL_TITLE"] = "Óñòàíîâêà ìîäóëÿ";
-$MESS["SPER_UNINSTALL_TITLE"] = "Óäàëåíèå ìîäóëÿ";
-$MESS["SPER_PARTNER"] = "1Ñ-Áèòðèêñ";
+$MESS["SPER_INSTALL_NAME"] = "ÐŸÐµÑ€ÑÐ¾Ð½Ð°Ð»ÑŒÐ½Ñ‹Ð¹ ÑÐ°Ð¹Ñ‚";
+$MESS["SPER_INSTALL_DESCRIPTION"] = "ÐŸÐµÑ€ÑÐ¾Ð½Ð°Ð»ÑŒÐ½Ñ‹Ð¹ ÑÐ°Ð¹Ñ‚";
+$MESS["SPER_INSTALL_TITLE"] = "Ð£ÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ° Ð¼Ð¾Ð´ÑƒÐ»Ñ";
+$MESS["SPER_UNINSTALL_TITLE"] = "Ð£Ð´Ð°Ð»ÐµÐ½Ð¸Ðµ Ð¼Ð¾Ð´ÑƒÐ»Ñ";
+$MESS["SPER_PARTNER"] = "1Ð¡-Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ";
 $MESS["PARTNER_URI"] = "http://www.1c-bitrix.ru";
 ?>

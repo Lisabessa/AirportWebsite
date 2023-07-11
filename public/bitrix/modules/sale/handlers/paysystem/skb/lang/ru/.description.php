@@ -1,14 +1,14 @@
 <?php
-$MESS["SALE_HPS_SKB"] = "ÑÊÁ-áàíê";
-$MESS["SALE_HPS_SKB_LOGIN"] = "Ëîãèí";
-$MESS["SALE_HPS_SKB_LOGIN_DESC"] = "Ëîãèí ÒÑÏ â ñèñòåìå áûñòðûõ ïëàòåæåé";
-$MESS["SALE_HPS_SKB_PASSWORD"] = "Ïàðîëü";
-$MESS["SALE_HPS_SKB_PASSWORD_DESC"] = "Ïàðîëü ÒÑÏ â ñèñòåìå áûñòðûõ ïëàòåæåé";
-$MESS["SALE_HPS_SKB_MERCHANT_ID"] = "Èäåíòèôèêàòîð ÒÑÏ";
-$MESS["SALE_HPS_SKB_SECRET_KEY"] = "Ñåêðåòíûé êëþ÷";
-$MESS["SALE_HPS_SKB_ADDITIONAL_INFO"] = "Äîïîëíèòåëüíàÿ èíôîðìàöèÿ";
-$MESS["SALE_HPS_SKB_ADDITIONAL_INFO_DESC"] = "Äîïîëíèòåëüíàÿ èíôîðìàöèÿ (íå áîëåå 140 ñèìâîëîâ). Òåêñò ìîæåò ñîäåðæàòü ìåòêè: #PAYMENT_ID# - ID îïëàòû, #ORDER_ID# - ID çàêàçà, #PAYMENT_NUMBER# - íîìåð îïëàòû, #ORDER_NUMBER# - íîìåð çàêàçà, #USER_EMAIL# - Email ïîêóïàòåëÿ";
-$MESS["SALE_HPS_SKB_ADDITIONAL_INFO_TEMPLATE"] = "Îïëàòà ¹#PAYMENT_NUMBER# çàêàçà ¹#ORDER_NUMBER# äëÿ #USER_EMAIL#";
-$MESS["SALE_HPS_SKB_TEST_MODE"] = "Òåñòîâûé ðåæèì";
-$MESS["SALE_HPS_SKB_CHANGE_STATUS_PAY"] = "Àâòîìàòè÷åñêè îïëà÷èâàòü çàêàç ïðè ïîëó÷åíèè óñïåøíîãî ñòàòóñà îïëàòû";
-$MESS["SALE_HPS_SKB_DESCRIPTION_MAIN"] = "Ïðèíèìàéòå ïëàòåæè ÷åðåç QR-êîä. Âàøè êëèåíòû ñìîãóò îïëàòèòü ïîêóïêè â ïðèëîæåíèè ëþáîãî áàíêà, êîòîðîå ïîääåðæèâàåò ãîñóäàðñòâåííóþ ñèñòåìó áûñòðûõ ïëàòåæåé.";
+$MESS["SALE_HPS_SKB"] = "Ð¡ÐšÐ‘-Ð±Ð°Ð½Ðº";
+$MESS["SALE_HPS_SKB_LOGIN"] = "Ð›Ð¾Ð³Ð¸Ð½";
+$MESS["SALE_HPS_SKB_LOGIN_DESC"] = "Ð›Ð¾Ð³Ð¸Ð½ Ð¢Ð¡ÐŸ Ð² ÑÐ¸ÑÑ‚ÐµÐ¼Ðµ Ð±Ñ‹ÑÑ‚Ñ€Ñ‹Ñ… Ð¿Ð»Ð°Ñ‚ÐµÐ¶ÐµÐ¹";
+$MESS["SALE_HPS_SKB_PASSWORD"] = "ÐŸÐ°Ñ€Ð¾Ð»ÑŒ";
+$MESS["SALE_HPS_SKB_PASSWORD_DESC"] = "ÐŸÐ°Ñ€Ð¾Ð»ÑŒ Ð¢Ð¡ÐŸ Ð² ÑÐ¸ÑÑ‚ÐµÐ¼Ðµ Ð±Ñ‹ÑÑ‚Ñ€Ñ‹Ñ… Ð¿Ð»Ð°Ñ‚ÐµÐ¶ÐµÐ¹";
+$MESS["SALE_HPS_SKB_MERCHANT_ID"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¢Ð¡ÐŸ";
+$MESS["SALE_HPS_SKB_SECRET_KEY"] = "Ð¡ÐµÐºÑ€ÐµÑ‚Ð½Ñ‹Ð¹ ÐºÐ»ÑŽÑ‡";
+$MESS["SALE_HPS_SKB_ADDITIONAL_INFO"] = "Ð”Ð¾Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð°Ñ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ñ";
+$MESS["SALE_HPS_SKB_ADDITIONAL_INFO_DESC"] = "Ð”Ð¾Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð°Ñ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ñ (Ð½Ðµ Ð±Ð¾Ð»ÐµÐµ 140 ÑÐ¸Ð¼Ð²Ð¾Ð»Ð¾Ð²). Ð¢ÐµÐºÑÑ‚ Ð¼Ð¾Ð¶ÐµÑ‚ ÑÐ¾Ð´ÐµÑ€Ð¶Ð°Ñ‚ÑŒ Ð¼ÐµÑ‚ÐºÐ¸: #PAYMENT_ID# - ID Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹, #ORDER_ID# - ID Ð·Ð°ÐºÐ°Ð·Ð°, #PAYMENT_NUMBER# - Ð½Ð¾Ð¼ÐµÑ€ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹, #ORDER_NUMBER# - Ð½Ð¾Ð¼ÐµÑ€ Ð·Ð°ÐºÐ°Ð·Ð°, #USER_EMAIL# - Email Ð¿Ð¾ÐºÑƒÐ¿Ð°Ñ‚ÐµÐ»Ñ";
+$MESS["SALE_HPS_SKB_ADDITIONAL_INFO_TEMPLATE"] = "ÐžÐ¿Ð»Ð°Ñ‚Ð° â„–#PAYMENT_NUMBER# Ð·Ð°ÐºÐ°Ð·Ð° â„–#ORDER_NUMBER# Ð´Ð»Ñ #USER_EMAIL#";
+$MESS["SALE_HPS_SKB_TEST_MODE"] = "Ð¢ÐµÑÑ‚Ð¾Ð²Ñ‹Ð¹ Ñ€ÐµÐ¶Ð¸Ð¼";
+$MESS["SALE_HPS_SKB_CHANGE_STATUS_PAY"] = "ÐÐ²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸ Ð¾Ð¿Ð»Ð°Ñ‡Ð¸Ð²Ð°Ñ‚ÑŒ Ð·Ð°ÐºÐ°Ð· Ð¿Ñ€Ð¸ Ð¿Ð¾Ð»ÑƒÑ‡ÐµÐ½Ð¸Ð¸ ÑƒÑÐ¿ÐµÑˆÐ½Ð¾Ð³Ð¾ ÑÑ‚Ð°Ñ‚ÑƒÑÐ° Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹";
+$MESS["SALE_HPS_SKB_DESCRIPTION_MAIN"] = "ÐŸÑ€Ð¸Ð½Ð¸Ð¼Ð°Ð¹Ñ‚Ðµ Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ð¸ Ñ‡ÐµÑ€ÐµÐ· QR-ÐºÐ¾Ð´. Ð’Ð°ÑˆÐ¸ ÐºÐ»Ð¸ÐµÐ½Ñ‚Ñ‹ ÑÐ¼Ð¾Ð³ÑƒÑ‚ Ð¾Ð¿Ð»Ð°Ñ‚Ð¸Ñ‚ÑŒ Ð¿Ð¾ÐºÑƒÐ¿ÐºÐ¸ Ð² Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¸ Ð»ÑŽÐ±Ð¾Ð³Ð¾ Ð±Ð°Ð½ÐºÐ°, ÐºÐ¾Ñ‚Ð¾Ñ€Ð¾Ðµ Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶Ð¸Ð²Ð°ÐµÑ‚ Ð³Ð¾ÑÑƒÐ´Ð°Ñ€ÑÑ‚Ð²ÐµÐ½Ð½ÑƒÑŽ ÑÐ¸ÑÑ‚ÐµÐ¼Ñƒ Ð±Ñ‹ÑÑ‚Ñ€Ñ‹Ñ… Ð¿Ð»Ð°Ñ‚ÐµÐ¶ÐµÐ¹.";

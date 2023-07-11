@@ -1,6 +1,6 @@
 <?
-$MESS["BX_SALE_DCL_ERR_BAD_MODE"] = "Íåâåðíûé ðåæèì ñîõðàíåíèÿ ñêèäîê";
-$MESS["BX_SALE_DCL_ERR_SITE_ABSENT"] = "Íå óêàçàí ñàéò";
-$MESS["BX_SALE_DCL_ERR_CURRENCY_ABSENT"] = "Íå óêàçàíà âàëþòà";
-$MESS["BX_SALE_DCL_ERR_ORDER_ID_ABSENT"] = "Íå óêàçàí èäåíòèôèêàòîð çàêàçà";
+$MESS["BX_SALE_DCL_ERR_BAD_MODE"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ñ€ÐµÐ¶Ð¸Ð¼ ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð¸Ñ ÑÐºÐ¸Ð´Ð¾Ðº";
+$MESS["BX_SALE_DCL_ERR_SITE_ABSENT"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ ÑÐ°Ð¹Ñ‚";
+$MESS["BX_SALE_DCL_ERR_CURRENCY_ABSENT"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð° Ð²Ð°Ð»ÑŽÑ‚Ð°";
+$MESS["BX_SALE_DCL_ERR_ORDER_ID_ABSENT"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð·Ð°ÐºÐ°Ð·Ð°";
 ?>

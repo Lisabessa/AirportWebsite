@@ -1,6 +1,6 @@
 <?if(!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true)die();?>
 
-<a href="/" title="Ãëàâíàÿ"><img width="12" height="11" src="<?=BX_PERSONAL_ROOT?>/templates/xml_catalog/images/icons/home.gif" alt="Ãëàâíàÿ" border="0" /></a>
-<a href="/search/" title="Ïîèñê"><img width="12" height="12" src="<?=BX_PERSONAL_ROOT?>/templates/xml_catalog/images/icons/search.gif" alt="Ïîèñê" border="0" /></a>
-<a href="/search/map.php" title="Êàðòà ñàéòà"><img width="14" height="9" src="<?=BX_PERSONAL_ROOT?>/templates/xml_catalog/images/icons/map.gif" alt="Êàðòà ñàéòà" border="0" /></a>
-<a href="<?=htmlspecialchars($APPLICATION->GetCurUri("print=Y"));?>" title="Âåðñèÿ äëÿ ïå÷àòè" rel="nofollow"><img width="12" height="12" src="<?=BX_PERSONAL_ROOT?>/templates/xml_catalog/images/icons/printer.gif" alt="Âåðñèÿ äëÿ ïå÷àòè" border="0" /></a>
+<a href="/" title="Ð“Ð»Ð°Ð²Ð½Ð°Ñ"><img width="12" height="11" src="<?=BX_PERSONAL_ROOT?>/templates/xml_catalog/images/icons/home.gif" alt="Ð“Ð»Ð°Ð²Ð½Ð°Ñ" border="0" /></a>
+<a href="/search/" title="ÐŸÐ¾Ð¸ÑÐº"><img width="12" height="12" src="<?=BX_PERSONAL_ROOT?>/templates/xml_catalog/images/icons/search.gif" alt="ÐŸÐ¾Ð¸ÑÐº" border="0" /></a>
+<a href="/search/map.php" title="ÐšÐ°Ñ€Ñ‚Ð° ÑÐ°Ð¹Ñ‚Ð°"><img width="14" height="9" src="<?=BX_PERSONAL_ROOT?>/templates/xml_catalog/images/icons/map.gif" alt="ÐšÐ°Ñ€Ñ‚Ð° ÑÐ°Ð¹Ñ‚Ð°" border="0" /></a>
+<a href="<?=htmlspecialchars($APPLICATION->GetCurUri("print=Y"));?>" title="Ð’ÐµÑ€ÑÐ¸Ñ Ð´Ð»Ñ Ð¿ÐµÑ‡Ð°Ñ‚Ð¸" rel="nofollow"><img width="12" height="12" src="<?=BX_PERSONAL_ROOT?>/templates/xml_catalog/images/icons/printer.gif" alt="Ð’ÐµÑ€ÑÐ¸Ñ Ð´Ð»Ñ Ð¿ÐµÑ‡Ð°Ñ‚Ð¸" border="0" /></a>

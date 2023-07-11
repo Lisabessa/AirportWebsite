@@ -1,13 +1,13 @@
 <?
-$MESS["PRICE_ENTITY_ID_FIELD"] = "Èäåíòèôèêàòîð öåíîâîãî ïðåäëîæåíèÿ";
-$MESS["PRICE_ENTITY_PRODUCT_ID_FIELD"] = "Èäåíòèôèêàòîð òîâàðà";
-$MESS["PRICE_ENTITY_EXTRA_ID_FIELD"] = "Èäåíòèôèêàòîð íàöåíêè";
-$MESS["PRICE_ENTITY_CATALOG_GROUP_ID_FIELD"] = "Èäåíòèôèêàòîð òèïà öåíû";
-$MESS["PRICE_ENTITY_PRICE_FIELD"] = "Öåíà";
-$MESS["PRICE_ENTITY_CURRENCY_FIELD"] = "Âàëþòà";
-$MESS["PRICE_ENTITY_TIMESTAMP_X_FIELD"] = "Äàòà èçìåíåíèÿ";
-$MESS["PRICE_ENTITY_QUANTITY_FROM_FIELD"] = "Ìèíèìàëüíîå êîëè÷åñòâî òîâàðà";
-$MESS["PRICE_ENTITY_QUANTITY_TO_FIELD"] = "Ìàêñèìàëüíîå êîëè÷åñòâî òîâàðà";
-$MESS["PRICE_ENTITY_TMP_ID_FIELD"] = "Âðåìåííûé êîä";
-$MESS["PRICE_ENTITY_PRICE_SCALE_FIELD"] = "Öåíà â áàçîâîé âàëþòå";
+$MESS["PRICE_ENTITY_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ñ†ÐµÐ½Ð¾Ð²Ð¾Ð³Ð¾ Ð¿Ñ€ÐµÐ´Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ";
+$MESS["PRICE_ENTITY_PRODUCT_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ñ‚Ð¾Ð²Ð°Ñ€Ð°";
+$MESS["PRICE_ENTITY_EXTRA_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð½Ð°Ñ†ÐµÐ½ÐºÐ¸";
+$MESS["PRICE_ENTITY_CATALOG_GROUP_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ñ‚Ð¸Ð¿Ð° Ñ†ÐµÐ½Ñ‹";
+$MESS["PRICE_ENTITY_PRICE_FIELD"] = "Ð¦ÐµÐ½Ð°";
+$MESS["PRICE_ENTITY_CURRENCY_FIELD"] = "Ð’Ð°Ð»ÑŽÑ‚Ð°";
+$MESS["PRICE_ENTITY_TIMESTAMP_X_FIELD"] = "Ð”Ð°Ñ‚Ð° Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ";
+$MESS["PRICE_ENTITY_QUANTITY_FROM_FIELD"] = "ÐœÐ¸Ð½Ð¸Ð¼Ð°Ð»ÑŒÐ½Ð¾Ðµ ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ñ‚Ð¾Ð²Ð°Ñ€Ð°";
+$MESS["PRICE_ENTITY_QUANTITY_TO_FIELD"] = "ÐœÐ°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ð¾Ðµ ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ñ‚Ð¾Ð²Ð°Ñ€Ð°";
+$MESS["PRICE_ENTITY_TMP_ID_FIELD"] = "Ð’Ñ€ÐµÐ¼ÐµÐ½Ð½Ñ‹Ð¹ ÐºÐ¾Ð´";
+$MESS["PRICE_ENTITY_PRICE_SCALE_FIELD"] = "Ð¦ÐµÐ½Ð° Ð² Ð±Ð°Ð·Ð¾Ð²Ð¾Ð¹ Ð²Ð°Ð»ÑŽÑ‚Ðµ";
 ?>

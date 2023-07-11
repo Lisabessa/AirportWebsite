@@ -1,8 +1,8 @@
 <?php
-$MESS['LEARNING_USER_SELECTOR_WAIT'] = 'Æäèòå...';
-$MESS['LEARNING_USER_SELECTOR_USER_PROFILE'] = 'Ïðîôèëü ïîëüçîâàòåëÿ';
-$MESS['LEARNING_USER_SELECTOR_ADD'] = 'Äîáàâèòü';
-$MESS['LEARNING_USER_SELECTOR_NOT_FOUND'] = 'Íå íàéäåíî';
-$MESS['LEARNING_USER_SELECTOR_NONE'] = 'Íåò';
-$MESS['LEARNING_USER_SELECTOR_CURRENT'] = 'Òåêóùèé';
-$MESS['LEARNING_USER_SELECTOR_OTHER'] = 'Âûáðàòü';
+$MESS['LEARNING_USER_SELECTOR_WAIT'] = 'Ð–Ð´Ð¸Ñ‚Ðµ...';
+$MESS['LEARNING_USER_SELECTOR_USER_PROFILE'] = 'ÐŸÑ€Ð¾Ñ„Ð¸Ð»ÑŒ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ';
+$MESS['LEARNING_USER_SELECTOR_ADD'] = 'Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ';
+$MESS['LEARNING_USER_SELECTOR_NOT_FOUND'] = 'ÐÐµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾';
+$MESS['LEARNING_USER_SELECTOR_NONE'] = 'ÐÐµÑ‚';
+$MESS['LEARNING_USER_SELECTOR_CURRENT'] = 'Ð¢ÐµÐºÑƒÑ‰Ð¸Ð¹';
+$MESS['LEARNING_USER_SELECTOR_OTHER'] = 'Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ';

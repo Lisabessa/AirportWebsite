@@ -1,5 +1,5 @@
 <?php
 
-$MESS['SALE_CONVERSION_RATE_CART_NAME'] = 'Äîáàâëåíî â êîðçèíó';
-$MESS['SALE_CONVERSION_RATE_ORDER_NAME'] = 'Îôîðìëåíî çàêàçîâ';
-$MESS['SALE_CONVERSION_RATE_PAYMENT_NAME'] = 'Îïëà÷åíî çàêàçîâ';
+$MESS['SALE_CONVERSION_RATE_CART_NAME'] = 'Ð”Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¾ Ð² ÐºÐ¾Ñ€Ð·Ð¸Ð½Ñƒ';
+$MESS['SALE_CONVERSION_RATE_ORDER_NAME'] = 'ÐžÑ„Ð¾Ñ€Ð¼Ð»ÐµÐ½Ð¾ Ð·Ð°ÐºÐ°Ð·Ð¾Ð²';
+$MESS['SALE_CONVERSION_RATE_PAYMENT_NAME'] = 'ÐžÐ¿Ð»Ð°Ñ‡ÐµÐ½Ð¾ Ð·Ð°ÐºÐ°Ð·Ð¾Ð²';

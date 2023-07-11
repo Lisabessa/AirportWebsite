@@ -1,11 +1,11 @@
 <?
-$MESS["LISTS_SOCNET_TAB"] = "Ñïèñêè";
-$MESS["LISTS_SOCNET_LOG_GROUP"] = "Ñïèñêè";
-$MESS["LISTS_DEL_SOCNET_LOG_GROUP"] = "Ñïèñêè (óäàëåíèå)";
-$MESS["LISTS_SOCNET_LOG_GROUP_SETTINGS"] = "Âñå èçìåíåíèÿ â ñïèñêàõ ýòîé ãðóïïû";
-$MESS["LISTS_SOCNET_LOG_TITLE"] = "Äîáàâëåí èëè èçìåíåí ýëåìåíò ñïèñêà \"#TITLE#\"";
-$MESS["LISTS_SOCNET_LOG_TITLE_MAIL"] = "Â ãðóïïå \"#ENTITY#\" äîáàâëåí èëè èçìåíåí ýëåìåíò ñïèñêà \"#TITLE#\"";
-$MESS["LISTS_DEL_SOCNET_LOG_TITLE"] = "Óäàëåí ýëåìåíò ñïèñêà \"#TITLE#\"";
-$MESS["LISTS_DEL_SOCNET_LOG_TITLE_MAIL"] = "Â ãðóïïå \"#ENTITY#\" óäàëåí ýëåìåíò ñïèñêà \"#TITLE#\"";
-$MESS["LISTS_STEPPER_PROGRESS_TITLE"] = "Êîïèðîâàíèå ñïèñêîâ";
-$MESS["LISTS_STEPPER_PROGRESS_ERROR"] = "Íå óäàëîñü ñêîïèðîâàòü ñïèñêè ñ èäåíòèôèêàòîðàìè: ";
+$MESS["LISTS_SOCNET_TAB"] = "Ð¡Ð¿Ð¸ÑÐºÐ¸";
+$MESS["LISTS_SOCNET_LOG_GROUP"] = "Ð¡Ð¿Ð¸ÑÐºÐ¸";
+$MESS["LISTS_DEL_SOCNET_LOG_GROUP"] = "Ð¡Ð¿Ð¸ÑÐºÐ¸ (ÑƒÐ´Ð°Ð»ÐµÐ½Ð¸Ðµ)";
+$MESS["LISTS_SOCNET_LOG_GROUP_SETTINGS"] = "Ð’ÑÐµ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ Ð² ÑÐ¿Ð¸ÑÐºÐ°Ñ… ÑÑ‚Ð¾Ð¹ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
+$MESS["LISTS_SOCNET_LOG_TITLE"] = "Ð”Ð¾Ð±Ð°Ð²Ð»ÐµÐ½ Ð¸Ð»Ð¸ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚ ÑÐ¿Ð¸ÑÐºÐ° \"#TITLE#\"";
+$MESS["LISTS_SOCNET_LOG_TITLE_MAIL"] = "Ð’ Ð³Ñ€ÑƒÐ¿Ð¿Ðµ \"#ENTITY#\" Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½ Ð¸Ð»Ð¸ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚ ÑÐ¿Ð¸ÑÐºÐ° \"#TITLE#\"";
+$MESS["LISTS_DEL_SOCNET_LOG_TITLE"] = "Ð£Ð´Ð°Ð»ÐµÐ½ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚ ÑÐ¿Ð¸ÑÐºÐ° \"#TITLE#\"";
+$MESS["LISTS_DEL_SOCNET_LOG_TITLE_MAIL"] = "Ð’ Ð³Ñ€ÑƒÐ¿Ð¿Ðµ \"#ENTITY#\" ÑƒÐ´Ð°Ð»ÐµÐ½ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚ ÑÐ¿Ð¸ÑÐºÐ° \"#TITLE#\"";
+$MESS["LISTS_STEPPER_PROGRESS_TITLE"] = "ÐšÐ¾Ð¿Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ ÑÐ¿Ð¸ÑÐºÐ¾Ð²";
+$MESS["LISTS_STEPPER_PROGRESS_ERROR"] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ ÑÐºÐ¾Ð¿Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ ÑÐ¿Ð¸ÑÐºÐ¸ Ñ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€Ð°Ð¼Ð¸: ";

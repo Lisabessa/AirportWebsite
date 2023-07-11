@@ -1,16 +1,16 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Ïðîñìîòð àíêåòû");
+$APPLICATION->SetTitle("ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ Ð°Ð½ÐºÐµÑ‚Ñ‹");
 ?>
 <?
 $APPLICATION->IncludeFile("form/result_view/default.php", array(
-	"RESULT_ID"				=> $_REQUEST["RESULT_ID"],	// ID ðåçóëüòàòà
-	"SHOW_ADDITIONAL"		=> "N",						// ïîêàçàòü äîïîëíèòåëüíûå ïîëÿ âåá-ôîðìû ?
-	"SHOW_ANSWER_VALUE"		=> "N",						// ïîêàçàòü çíà÷åíèå ïàðàìåòðà ANSWER_VALUE ?
-	"SHOW_STATUS"			=> "Y",						// ïîêàçàòü òåêóùèé ñòàòóñ ðåçóëüòàòà ?
-	"EDIT_URL"				=> "result_edit.php",		// ñòðàíèöà ðåäàêòèðîâàíèÿ ðåçóëüòàòà
-	"CHAIN_ITEM_TEXT"		=> "Ñïèñîê àíêåò",			// äîïîëíèòåëüíûé ïóíêò â íàâèãàöèîííóþ öåïî÷êó
-	"CHAIN_ITEM_LINK"		=> "result_list.php?WEB_FORM_ID=".$_REQUEST["WEB_FORM_ID"], // ññûëêà íà äîï. ïóíêòå â íàâèãàöèîííîé öåïî÷êå
+	"RESULT_ID"				=> $_REQUEST["RESULT_ID"],	// ID Ñ€ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ð°
+	"SHOW_ADDITIONAL"		=> "N",						// Ð¿Ð¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ Ð´Ð¾Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ðµ Ð¿Ð¾Ð»Ñ Ð²ÐµÐ±-Ñ„Ð¾Ñ€Ð¼Ñ‹ ?
+	"SHOW_ANSWER_VALUE"		=> "N",						// Ð¿Ð¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð° ANSWER_VALUE ?
+	"SHOW_STATUS"			=> "Y",						// Ð¿Ð¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ Ñ‚ÐµÐºÑƒÑ‰Ð¸Ð¹ ÑÑ‚Ð°Ñ‚ÑƒÑ Ñ€ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ð° ?
+	"EDIT_URL"				=> "result_edit.php",		// ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ Ñ€ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ð°
+	"CHAIN_ITEM_TEXT"		=> "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð°Ð½ÐºÐµÑ‚",			// Ð´Ð¾Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ð¹ Ð¿ÑƒÐ½ÐºÑ‚ Ð² Ð½Ð°Ð²Ð¸Ð³Ð°Ñ†Ð¸Ð¾Ð½Ð½ÑƒÑŽ Ñ†ÐµÐ¿Ð¾Ñ‡ÐºÑƒ
+	"CHAIN_ITEM_LINK"		=> "result_list.php?WEB_FORM_ID=".$_REQUEST["WEB_FORM_ID"], // ÑÑÑ‹Ð»ÐºÐ° Ð½Ð° Ð´Ð¾Ð¿. Ð¿ÑƒÐ½ÐºÑ‚Ðµ Ð² Ð½Ð°Ð²Ð¸Ð³Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð¾Ð¹ Ñ†ÐµÐ¿Ð¾Ñ‡ÐºÐµ
 	));
 ?>
 <?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

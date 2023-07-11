@@ -1,4 +1,4 @@
 <?php
-$MESS["SALE_DLVR_RSTR_BY_PC_NAME"] = "ïî êàòåãîðèè òîâàðà";
-$MESS["SALE_DLVR_RSTR_BY_PC_DESCRIPT"] = "Îãðàíè÷åíèå èñïîëüçîâàíèÿ ñëóæáû äîñòàâêè ïî êàòåãîðèÿì òîâàðîâ";
-$MESS["SALE_DLVR_RSTR_BY_PC_CATEGORIES"] = "Êàòåãîðèè òîâàðîâ";
+$MESS["SALE_DLVR_RSTR_BY_PC_NAME"] = "Ð¿Ð¾ ÐºÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ð¸ Ñ‚Ð¾Ð²Ð°Ñ€Ð°";
+$MESS["SALE_DLVR_RSTR_BY_PC_DESCRIPT"] = "ÐžÐ³Ñ€Ð°Ð½Ð¸Ñ‡ÐµÐ½Ð¸Ðµ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð¸Ñ ÑÐ»ÑƒÐ¶Ð±Ñ‹ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸ Ð¿Ð¾ ÐºÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸ÑÐ¼ Ñ‚Ð¾Ð²Ð°Ñ€Ð¾Ð²";
+$MESS["SALE_DLVR_RSTR_BY_PC_CATEGORIES"] = "ÐšÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ð¸ Ñ‚Ð¾Ð²Ð°Ñ€Ð¾Ð²";

@@ -1,6 +1,6 @@
 <?php
-$MESS['LANDING_BLOCK_EMPTY_CATLOG_TITLE'] = 'Не настроен каталог';
-$MESS['LANDING_BLOCK_EMPTY_CATLOG_DESC'] = 'Вам необходимо сначала выбрать источник каталога.';
-$MESS['LANDING_BLOCK_EMPTY_CATLOG_LINK'] = 'Настроить';
-$MESS['LANDING_BLOCK_CATALOG_CONFIG'] = 'Перейти в торговый каталог';
-$MESS['LANDING_BLOCK_CATALOG_CONFIG_FEATURE'] = 'В настройках модуля Инфоблоков необходимо включить режим &laquo;Использовать параметры свойств в компонентах и формах&raquo;. После этого обязательно необходимо настроить свойства согласно <a href="https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=42&LESSON_ID=1986" target="_blank">документации</a>.';
+$MESS['LANDING_BLOCK_EMPTY_CATLOG_TITLE'] = 'РќРµ РЅР°СЃС‚СЂРѕРµРЅ РєР°С‚Р°Р»РѕРі';
+$MESS['LANDING_BLOCK_EMPTY_CATLOG_DESC'] = 'Р’Р°Рј РЅРµРѕР±С…РѕРґРёРјРѕ СЃРЅР°С‡Р°Р»Р° РІС‹Р±СЂР°С‚СЊ РёСЃС‚РѕС‡РЅРёРє РєР°С‚Р°Р»РѕРіР°.';
+$MESS['LANDING_BLOCK_EMPTY_CATLOG_LINK'] = 'РќР°СЃС‚СЂРѕРёС‚СЊ';
+$MESS['LANDING_BLOCK_CATALOG_CONFIG'] = 'РџРµСЂРµР№С‚Рё РІ С‚РѕСЂРіРѕРІС‹Р№ РєР°С‚Р°Р»РѕРі';
+$MESS['LANDING_BLOCK_CATALOG_CONFIG_FEATURE'] = 'Р’ РЅР°СЃС‚СЂРѕР№РєР°С… РјРѕРґСѓР»СЏ РРЅС„РѕР±Р»РѕРєРѕРІ РЅРµРѕР±С…РѕРґРёРјРѕ РІРєР»СЋС‡РёС‚СЊ СЂРµР¶РёРј &laquo;РСЃРїРѕР»СЊР·РѕРІР°С‚СЊ РїР°СЂР°РјРµС‚СЂС‹ СЃРІРѕР№СЃС‚РІ РІ РєРѕРјРїРѕРЅРµРЅС‚Р°С… Рё С„РѕСЂРјР°С…&raquo;. РџРѕСЃР»Рµ СЌС‚РѕРіРѕ РѕР±СЏР·Р°С‚РµР»СЊРЅРѕ РЅРµРѕР±С…РѕРґРёРјРѕ РЅР°СЃС‚СЂРѕРёС‚СЊ СЃРІРѕР№СЃС‚РІР° СЃРѕРіР»Р°СЃРЅРѕ <a href="https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=42&LESSON_ID=1986" target="_blank">РґРѕРєСѓРјРµРЅС‚Р°С†РёРё</a>.';

@@ -1,22 +1,22 @@
 <?
-$MESS["SALE_VK_TITLE"] = "Îáìåí òîâàðîâ ñ ÂÊîíòàêòå - ñïèñîê ïðîôèëåé";
+$MESS["SALE_VK_TITLE"] = "ÐžÐ±Ð¼ÐµÐ½ Ñ‚Ð¾Ð²Ð°Ñ€Ð¾Ð² Ñ Ð’ÐšÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ðµ - ÑÐ¿Ð¸ÑÐ¾Ðº Ð¿Ñ€Ð¾Ñ„Ð¸Ð»ÐµÐ¹";
 
 $MESS["SALE_VK_TABLE__ID"] = "ID";
-$MESS["SALE_VK_TABLE__DESCRIPTION"] = "Íàçâàíèå";
-$MESS["SALE_VK_TABLE__INTERVAL"] = "Ïåðèîäè÷íîñòü (÷àñû)";
-$MESS["SALE_VK_TABLE__ACTIVE"] = "Àêòèâíîñòü";
-$MESS["SALE_VK_TABLE__ACTIVE_NO"] = "Íå íàñòðîåí";
-$MESS["SALE_VK_TABLE__NEW_EXPORT"] = "Íîâûé ýêñïîðò";
-$MESS["SALE_VK_TABLE__NEW_EXPORT_ALT"] = "Äîáàâèòü íîâûé ïðîôèëü ýêñïîðòà";
+$MESS["SALE_VK_TABLE__DESCRIPTION"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
+$MESS["SALE_VK_TABLE__INTERVAL"] = "ÐŸÐµÑ€Ð¸Ð¾Ð´Ð¸Ñ‡Ð½Ð¾ÑÑ‚ÑŒ (Ñ‡Ð°ÑÑ‹)";
+$MESS["SALE_VK_TABLE__ACTIVE"] = "ÐÐºÑ‚Ð¸Ð²Ð½Ð¾ÑÑ‚ÑŒ";
+$MESS["SALE_VK_TABLE__ACTIVE_NO"] = "ÐÐµ Ð½Ð°ÑÑ‚Ñ€Ð¾ÐµÐ½";
+$MESS["SALE_VK_TABLE__NEW_EXPORT"] = "ÐÐ¾Ð²Ñ‹Ð¹ ÑÐºÑÐ¿Ð¾Ñ€Ñ‚";
+$MESS["SALE_VK_TABLE__NEW_EXPORT_ALT"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð½Ð¾Ð²Ñ‹Ð¹ Ð¿Ñ€Ð¾Ñ„Ð¸Ð»ÑŒ ÑÐºÑÐ¿Ð¾Ñ€Ñ‚Ð°";
 
-$MESS["SALE_VK_TABLE__EDIT"] = "Èçìåíèòü";
-$MESS["SALE_VK_TABLE__DELETE"] = "Óäàëèòü";
+$MESS["SALE_VK_TABLE__EDIT"] = "Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
+$MESS["SALE_VK_TABLE__DELETE"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";
 
-$MESS["SALE_VK_TABLE__NOT_INTERVAL"] = "Çàïóñê òîëüêî âðó÷íóþ";
-$MESS["SALE_VK_TABLE__YES"] = "Äà";
-$MESS["SALE_VK_TABLE__NO"] = "Íåò";
+$MESS["SALE_VK_TABLE__NOT_INTERVAL"] = "Ð—Ð°Ð¿ÑƒÑÐº Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð²Ñ€ÑƒÑ‡Ð½ÑƒÑŽ";
+$MESS["SALE_VK_TABLE__YES"] = "Ð”Ð°";
+$MESS["SALE_VK_TABLE__NO"] = "ÐÐµÑ‚";
 
-$MESS["SALE_VK_TABLE__DELETE_ALERT"] = "Ïðîôèëü è âñå íàñòðîéêè áóäóò óäàëåíû. Âû óâåðåíû?";
-$MESS["SALE_VK_TABLE__ACTIVATE"] = "Àêòèâèðîâàòü";
-$MESS["SALE_VK_TABLE__DEACTIVATE"] = "Äåàêòèâèðîâàòü";
+$MESS["SALE_VK_TABLE__DELETE_ALERT"] = "ÐŸÑ€Ð¾Ñ„Ð¸Ð»ÑŒ Ð¸ Ð²ÑÐµ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð±ÑƒÐ´ÑƒÑ‚ ÑƒÐ´Ð°Ð»ÐµÐ½Ñ‹. Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹?";
+$MESS["SALE_VK_TABLE__ACTIVATE"] = "ÐÐºÑ‚Ð¸Ð²Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ";
+$MESS["SALE_VK_TABLE__DEACTIVATE"] = "Ð”ÐµÐ°ÐºÑ‚Ð¸Ð²Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ";
 ?>

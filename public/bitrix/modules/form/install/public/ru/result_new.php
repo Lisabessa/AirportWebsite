@@ -1,14 +1,14 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Çàïîëíåíèå àíêåòû");
+$APPLICATION->SetTitle("Ð—Ð°Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¸Ðµ Ð°Ð½ÐºÐµÑ‚Ñ‹");
 ?>
 <?
 $APPLICATION->IncludeFile("form/result_new/default.php", array(
-	"WEB_FORM_ID"		=> $_REQUEST["WEB_FORM_ID"],		// ID âåá-ôîðìû
-	"LIST_URL"			=> "result_list.php",				// ñòðàíèöà ñïèñêà ðåçóëüòàòîâ
-	"EDIT_URL"			=> "result_edit.php",				// ñòðàíèöà ðåäàêòèðîâàíèÿ ðåçóëüòàòà
-	"CHAIN_ITEM_TEXT"	=> "Ñïèñîê àíêåò",					// äîïîëíèòåëüíûé ïóíêò â íàâèãàöèîííóþ öåïî÷êó
-	"CHAIN_ITEM_LINK"	=> "result_list.php?WEB_FORM_ID=".$_REQUEST["WEB_FORM_ID"], // ññûëêà íà äîï. ïóíêòå â íàâèãàöèîííîé öåïî÷êå
+	"WEB_FORM_ID"		=> $_REQUEST["WEB_FORM_ID"],		// ID Ð²ÐµÐ±-Ñ„Ð¾Ñ€Ð¼Ñ‹
+	"LIST_URL"			=> "result_list.php",				// ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° ÑÐ¿Ð¸ÑÐºÐ° Ñ€ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ð¾Ð²
+	"EDIT_URL"			=> "result_edit.php",				// ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ Ñ€ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ð°
+	"CHAIN_ITEM_TEXT"	=> "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð°Ð½ÐºÐµÑ‚",					// Ð´Ð¾Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ð¹ Ð¿ÑƒÐ½ÐºÑ‚ Ð² Ð½Ð°Ð²Ð¸Ð³Ð°Ñ†Ð¸Ð¾Ð½Ð½ÑƒÑŽ Ñ†ÐµÐ¿Ð¾Ñ‡ÐºÑƒ
+	"CHAIN_ITEM_LINK"	=> "result_list.php?WEB_FORM_ID=".$_REQUEST["WEB_FORM_ID"], // ÑÑÑ‹Ð»ÐºÐ° Ð½Ð° Ð´Ð¾Ð¿. Ð¿ÑƒÐ½ÐºÑ‚Ðµ Ð² Ð½Ð°Ð²Ð¸Ð³Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð¾Ð¹ Ñ†ÐµÐ¿Ð¾Ñ‡ÐºÐµ
 	));
 ?>
 <?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

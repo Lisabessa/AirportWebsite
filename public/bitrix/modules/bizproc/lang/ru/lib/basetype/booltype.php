@@ -1,5 +1,5 @@
 <?php
-$MESS['BPDT_BOOL_YES'] = 'Äà';
-$MESS['BPDT_BOOL_NO'] = 'Íåò';
-$MESS['BPDT_BOOL_NOT_SET'] = 'Íå óñòàíîâëåíî';
-$MESS['BPDT_BOOL_INVALID'] = 'Çíà÷åíèå ïîëÿ íå ÿâëÿåòñÿ êîððåêòíûì çíà÷åíèåì Äà/Íåò.';
+$MESS['BPDT_BOOL_YES'] = 'Ð”Ð°';
+$MESS['BPDT_BOOL_NO'] = 'ÐÐµÑ‚';
+$MESS['BPDT_BOOL_NOT_SET'] = 'ÐÐµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð¾';
+$MESS['BPDT_BOOL_INVALID'] = 'Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð¿Ð¾Ð»Ñ Ð½Ðµ ÑÐ²Ð»ÑÐµÑ‚ÑÑ ÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ñ‹Ð¼ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸ÐµÐ¼ Ð”Ð°/ÐÐµÑ‚.';

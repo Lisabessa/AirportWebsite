@@ -1,8 +1,8 @@
 <?
-$MESS["BLG_GCT_EMPTY_POST_ID"] = "Íå óêàçàíî ñîîáùåíèå òåãà";
-$MESS["BLG_GCT_EMPTY_BLOG_ID"] = "Íå óêàçàí áëîã òåãà";
-$MESS["BLG_GCT_EMPTY_CATEGORY_ID"] = "Íå óêàçàí ÈÄ òåãà";
-$MESS["BLG_GCT_ERROR_NO_BLOG"] = "Áëîã ñ êîäîì '#ID#' íå íàéäåí";
-$MESS["BLG_GCT_ERROR_NO_POST"] = "Ñîîáùåíèå ñ êîäîì '#ID#' íå íàéäåíî";
-$MESS["BLG_GCT_ERROR_NO_CATEGORY"] = "Òåã ñ êîäîì '#ID#' íå íàéäåí";
+$MESS["BLG_GCT_EMPTY_POST_ID"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ Ñ‚ÐµÐ³Ð°";
+$MESS["BLG_GCT_EMPTY_BLOG_ID"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ð±Ð»Ð¾Ð³ Ñ‚ÐµÐ³Ð°";
+$MESS["BLG_GCT_EMPTY_CATEGORY_ID"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ð˜Ð” Ñ‚ÐµÐ³Ð°";
+$MESS["BLG_GCT_ERROR_NO_BLOG"] = "Ð‘Ð»Ð¾Ð³ Ñ ÐºÐ¾Ð´Ð¾Ð¼ '#ID#' Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
+$MESS["BLG_GCT_ERROR_NO_POST"] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ Ñ ÐºÐ¾Ð´Ð¾Ð¼ '#ID#' Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾";
+$MESS["BLG_GCT_ERROR_NO_CATEGORY"] = "Ð¢ÐµÐ³ Ñ ÐºÐ¾Ð´Ð¾Ð¼ '#ID#' Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
 ?>

@@ -1,9 +1,9 @@
 <?
-$MESS ['SEO_TOOL_TAB_local'] = "Ñëîâà äëÿ ñòðàíèöû";
-$MESS ['SEO_TOOL_TAB_section'] = "Ñëîâà äëÿ ðàçäåëà";
-$MESS ['SEO_PAGE_STAT_TOTAL_LENGTH'] = "Ðàçìåð (áàéò)";
-$MESS ['SEO_PAGE_STAT_TOTAL_WORDS_COUNT'] = "Êîëè÷åñòâî ñëîâ";
-$MESS ['SEO_PAGE_STAT_UNIQUE_WORDS_COUNT'] = "Êîëè÷åñòâî óíèêàëüíûõ ñëîâ";
-$MESS ['SEO_PAGE_STAT_META_DESCRIPTION'] = "META-òåã \"Îïèñàíèå\" (DESCRIPTION)";
-$MESS ['SEO_PAGE_STAT_META_KEYWORDS'] = "META-òåã \"Êëþ÷åâûå ñëîâà\" (KEYWORDS)";
+$MESS ['SEO_TOOL_TAB_local'] = "Ð¡Ð»Ð¾Ð²Ð° Ð´Ð»Ñ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹";
+$MESS ['SEO_TOOL_TAB_section'] = "Ð¡Ð»Ð¾Ð²Ð° Ð´Ð»Ñ Ñ€Ð°Ð·Ð´ÐµÐ»Ð°";
+$MESS ['SEO_PAGE_STAT_TOTAL_LENGTH'] = "Ð Ð°Ð·Ð¼ÐµÑ€ (Ð±Ð°Ð¹Ñ‚)";
+$MESS ['SEO_PAGE_STAT_TOTAL_WORDS_COUNT'] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ ÑÐ»Ð¾Ð²";
+$MESS ['SEO_PAGE_STAT_UNIQUE_WORDS_COUNT'] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ ÑƒÐ½Ð¸ÐºÐ°Ð»ÑŒÐ½Ñ‹Ñ… ÑÐ»Ð¾Ð²";
+$MESS ['SEO_PAGE_STAT_META_DESCRIPTION'] = "META-Ñ‚ÐµÐ³ \"ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ\" (DESCRIPTION)";
+$MESS ['SEO_PAGE_STAT_META_KEYWORDS'] = "META-Ñ‚ÐµÐ³ \"ÐšÐ»ÑŽÑ‡ÐµÐ²Ñ‹Ðµ ÑÐ»Ð¾Ð²Ð°\" (KEYWORDS)";
 ?>

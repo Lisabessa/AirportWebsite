@@ -1,3 +1,3 @@
 <?
-$MESS["SALE_DELIVERY_INP_DELETE"] = "Óäàëèòü";
-$MESS["SALE_DELIVERY_INP_ADD"] = "Äîáàâèòü";
+$MESS["SALE_DELIVERY_INP_DELETE"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";
+$MESS["SALE_DELIVERY_INP_ADD"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ";

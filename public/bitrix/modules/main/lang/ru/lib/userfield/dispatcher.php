@@ -1,5 +1,5 @@
 <?php
-$MESS['MAIN_UF_DISPATCHER_ERROR_FORMAT'] = 'Íåâåðíûé ôîðìàò îïèñàíèÿ ïîëÿ';
-$MESS['MAIN_UF_DISPATCHER_ERROR_SIGNATURE'] = 'Îøèáêà âàëèäàöèè ïîäïèñè äàííûõ';
-$MESS['MAIN_UF_DISPATCHER_ERROR_FIELD_NOT_FOUND'] = 'Ïîëå íå íàéäåíî';
-$MESS['MAIN_UF_DISPATCHER_EXCEPTION_VIEW'] = 'Íå çàäàí îáúåêò âûâîäà';
+$MESS['MAIN_UF_DISPATCHER_ERROR_FORMAT'] = 'ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚ Ð¾Ð¿Ð¸ÑÐ°Ð½Ð¸Ñ Ð¿Ð¾Ð»Ñ';
+$MESS['MAIN_UF_DISPATCHER_ERROR_SIGNATURE'] = 'ÐžÑˆÐ¸Ð±ÐºÐ° Ð²Ð°Ð»Ð¸Ð´Ð°Ñ†Ð¸Ð¸ Ð¿Ð¾Ð´Ð¿Ð¸ÑÐ¸ Ð´Ð°Ð½Ð½Ñ‹Ñ…';
+$MESS['MAIN_UF_DISPATCHER_ERROR_FIELD_NOT_FOUND'] = 'ÐŸÐ¾Ð»Ðµ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾';
+$MESS['MAIN_UF_DISPATCHER_EXCEPTION_VIEW'] = 'ÐÐµ Ð·Ð°Ð´Ð°Ð½ Ð¾Ð±ÑŠÐµÐºÑ‚ Ð²Ñ‹Ð²Ð¾Ð´Ð°';

@@ -1,3 +1,3 @@
 <?
-$MESS ['SUP_ADD_MESSAGE_TO_TECHSUPPORT'] = "äîáàâëåíèå ñîîáùåíèÿ â òåõïîääåðæêó";
+$MESS ['SUP_ADD_MESSAGE_TO_TECHSUPPORT'] = "Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ Ð² Ñ‚ÐµÑ…Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÑƒ";
 ?>

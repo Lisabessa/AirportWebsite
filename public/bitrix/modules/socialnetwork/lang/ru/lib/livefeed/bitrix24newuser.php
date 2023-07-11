@@ -1,3 +1,3 @@
 <?
-$MESS["SONET_LIVEFEED_BITRIX24_NEW_USER_TITLE"] = "Запись о приеме на работу сотрудника #USER_NAME#";
+$MESS["SONET_LIVEFEED_BITRIX24_NEW_USER_TITLE"] = "Р—Р°РїРёСЃСЊ Рѕ РїСЂРёРµРјРµ РЅР° СЂР°Р±РѕС‚Сѓ СЃРѕС‚СЂСѓРґРЅРёРєР° #USER_NAME#";
 ?>

@@ -1,2 +1,2 @@
 <?php
-$MESS['SALE_INTERNALS_STORE_PRODUCT_ENTITY_AMOUNT_FIELD'] = 'Îñòàòîê òîâàðà';
+$MESS['SALE_INTERNALS_STORE_PRODUCT_ENTITY_AMOUNT_FIELD'] = 'ÐžÑÑ‚Ð°Ñ‚Ð¾Ðº Ñ‚Ð¾Ð²Ð°Ñ€Ð°';

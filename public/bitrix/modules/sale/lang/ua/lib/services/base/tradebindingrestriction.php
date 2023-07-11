@@ -1,4 +1,4 @@
 <?
-$MESS["SALE_SRV_RSTR_BY_TRADE_BINDING_LIST"] = "Äæåðåëî çàìîâëåííÿ";
-$MESS["SALE_SRV_RSTR_BY_TRADE_BINDING_NAME"] = "çà äæåðåëîì çàìîâëåííÿ";
+$MESS["SALE_SRV_RSTR_BY_TRADE_BINDING_LIST"] = "Ð”Ð¶ÐµÑ€ÐµÐ»Ð¾ Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ";
+$MESS["SALE_SRV_RSTR_BY_TRADE_BINDING_NAME"] = "Ð·Ð° Ð´Ð¶ÐµÑ€ÐµÐ»Ð¾Ð¼ Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ";
 ?>

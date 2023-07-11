@@ -1,186 +1,186 @@
 <?
 // common
-$MESS['SALE_REPORT_GROUP_NOT_FOUND'] = 'Группа не найдена';
-$MESS['SALE_REPORT_USER_NOT_AUTH'] = '<не авторизован>';
-$MESS["USER_MALE"] = "Мужской";
-$MESS["USER_FEMALE"] = "Женский";
-$MESS["REPORT_IGNORE_FILTER_VALUE"] = "Не учитывать";
-$MESS ['SALE_REPORT_CONSTRUCT_CATALOG_NAME_LABEL'] = "Каталог";
+$MESS['SALE_REPORT_GROUP_NOT_FOUND'] = 'Р“СЂСѓРїРїР° РЅРµ РЅР°Р№РґРµРЅР°';
+$MESS['SALE_REPORT_USER_NOT_AUTH'] = '<РЅРµ Р°РІС‚РѕСЂРёР·РѕРІР°РЅ>';
+$MESS["USER_MALE"] = "РњСѓР¶СЃРєРѕР№";
+$MESS["USER_FEMALE"] = "Р–РµРЅСЃРєРёР№";
+$MESS["REPORT_IGNORE_FILTER_VALUE"] = "РќРµ СѓС‡РёС‚С‹РІР°С‚СЊ";
+$MESS ['SALE_REPORT_CONSTRUCT_CATALOG_NAME_LABEL'] = "РљР°С‚Р°Р»РѕРі";
 
 
 
 
 // default reports
-$MESS['SALE_REPORT_DEFAULT_LEFT_BASKETS'] = 'Брошенные корзины';
-$MESS['SALE_REPORT_DEFAULT_LEFT_BASKETS_DESCR'] = 'Отчет показывает список брошенных корзин магазина, упорядоченный по'.
-	' убыванию стоимости корзины. Отчет предназначен для менеджеров по работе с клиентами для получения списка '.
-	'клиентов, с которыми можно поработать.';
-$MESS['SALE_REPORT_DEFAULT_LEFT_BASKETS_ALIAS_4'] = 'Дата создания';
-$MESS['SALE_REPORT_DEFAULT_LEFT_BASKETS_ALIAS_5'] = 'Дата изменения';
-$MESS['SALE_REPORT_DEFAULT_LEFT_BASKETS_ALIAS_6'] = 'Кол-во товаров';
-$MESS['SALE_REPORT_DEFAULT_LEFT_BASKETS_ALIAS_7'] = 'Стоимость корзины';
+$MESS['SALE_REPORT_DEFAULT_LEFT_BASKETS'] = 'Р‘СЂРѕС€РµРЅРЅС‹Рµ РєРѕСЂР·РёРЅС‹';
+$MESS['SALE_REPORT_DEFAULT_LEFT_BASKETS_DESCR'] = 'РћС‚С‡РµС‚ РїРѕРєР°Р·С‹РІР°РµС‚ СЃРїРёСЃРѕРє Р±СЂРѕС€РµРЅРЅС‹С… РєРѕСЂР·РёРЅ РјР°РіР°Р·РёРЅР°, СѓРїРѕСЂСЏРґРѕС‡РµРЅРЅС‹Р№ РїРѕ'.
+	' СѓР±С‹РІР°РЅРёСЋ СЃС‚РѕРёРјРѕСЃС‚Рё РєРѕСЂР·РёРЅС‹. РћС‚С‡РµС‚ РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅ РґР»СЏ РјРµРЅРµРґР¶РµСЂРѕРІ РїРѕ СЂР°Р±РѕС‚Рµ СЃ РєР»РёРµРЅС‚Р°РјРё РґР»СЏ РїРѕР»СѓС‡РµРЅРёСЏ СЃРїРёСЃРєР° '.
+	'РєР»РёРµРЅС‚РѕРІ, СЃ РєРѕС‚РѕСЂС‹РјРё РјРѕР¶РЅРѕ РїРѕСЂР°Р±РѕС‚Р°С‚СЊ.';
+$MESS['SALE_REPORT_DEFAULT_LEFT_BASKETS_ALIAS_4'] = 'Р”Р°С‚Р° СЃРѕР·РґР°РЅРёСЏ';
+$MESS['SALE_REPORT_DEFAULT_LEFT_BASKETS_ALIAS_5'] = 'Р”Р°С‚Р° РёР·РјРµРЅРµРЅРёСЏ';
+$MESS['SALE_REPORT_DEFAULT_LEFT_BASKETS_ALIAS_6'] = 'РљРѕР»-РІРѕ С‚РѕРІР°СЂРѕРІ';
+$MESS['SALE_REPORT_DEFAULT_LEFT_BASKETS_ALIAS_7'] = 'РЎС‚РѕРёРјРѕСЃС‚СЊ РєРѕСЂР·РёРЅС‹';
 
-$MESS['SALE_REPORT_DEFAULT_GOODS_PROFIT'] = 'Доходность по товарам';
-$MESS['SALE_REPORT_DEFAULT_GOODS_PROFIT_DESCR'] = 'Отчет показывает список товаров магазина, продажа которых принесла '.
-	'максимальный доход, за отчетный период.';
-$MESS['SALE_REPORT_DEFAULT_GOODS_PROFIT_ALIAS_3'] = 'Кол-во заказов';
-$MESS['SALE_REPORT_DEFAULT_GOODS_PROFIT_ALIAS_4'] = 'Средняя цена товара';
-$MESS['SALE_REPORT_DEFAULT_GOODS_PROFIT_ALIAS_5'] = 'Проданное количество';
-$MESS['SALE_REPORT_DEFAULT_GOODS_PROFIT_ALIAS_6'] = 'Сумма';
-$MESS['SALE_REPORT_DEFAULT_GOODS_PROFIT_ALIAS_14'] = 'Остаток товара';
+$MESS['SALE_REPORT_DEFAULT_GOODS_PROFIT'] = 'Р”РѕС…РѕРґРЅРѕСЃС‚СЊ РїРѕ С‚РѕРІР°СЂР°Рј';
+$MESS['SALE_REPORT_DEFAULT_GOODS_PROFIT_DESCR'] = 'РћС‚С‡РµС‚ РїРѕРєР°Р·С‹РІР°РµС‚ СЃРїРёСЃРѕРє С‚РѕРІР°СЂРѕРІ РјР°РіР°Р·РёРЅР°, РїСЂРѕРґР°Р¶Р° РєРѕС‚РѕСЂС‹С… РїСЂРёРЅРµСЃР»Р° '.
+	'РјР°РєСЃРёРјР°Р»СЊРЅС‹Р№ РґРѕС…РѕРґ, Р·Р° РѕС‚С‡РµС‚РЅС‹Р№ РїРµСЂРёРѕРґ.';
+$MESS['SALE_REPORT_DEFAULT_GOODS_PROFIT_ALIAS_3'] = 'РљРѕР»-РІРѕ Р·Р°РєР°Р·РѕРІ';
+$MESS['SALE_REPORT_DEFAULT_GOODS_PROFIT_ALIAS_4'] = 'РЎСЂРµРґРЅСЏСЏ С†РµРЅР° С‚РѕРІР°СЂР°';
+$MESS['SALE_REPORT_DEFAULT_GOODS_PROFIT_ALIAS_5'] = 'РџСЂРѕРґР°РЅРЅРѕРµ РєРѕР»РёС‡РµСЃС‚РІРѕ';
+$MESS['SALE_REPORT_DEFAULT_GOODS_PROFIT_ALIAS_6'] = 'РЎСѓРјРјР°';
+$MESS['SALE_REPORT_DEFAULT_GOODS_PROFIT_ALIAS_14'] = 'РћСЃС‚Р°С‚РѕРє С‚РѕРІР°СЂР°';
 
-$MESS['SALE_REPORT_DEFAULT_GOODS_INVENTORIES'] = 'Запасы товаров';
-$MESS['SALE_REPORT_DEFAULT_GOODS_INVENTORIES_DESCR'] = 'Отчет показывает, сколько какого товара и на какую сумму '.
-	'находится на складе. Отчет предназначен для анализа содержания склада и предназначен для менеджеров по'.
-	' управлению запасами.';
-$MESS['SALE_REPORT_DEFAULT_GOODS_INVENTORIES_ALIAS_1'] = 'Остаток';
-$MESS['SALE_REPORT_DEFAULT_GOODS_INVENTORIES_ALIAS_3'] = 'Цена';
-$MESS['SALE_REPORT_DEFAULT_GOODS_INVENTORIES_ALIAS_5'] = 'Общая стоимость';
+$MESS['SALE_REPORT_DEFAULT_GOODS_INVENTORIES'] = 'Р—Р°РїР°СЃС‹ С‚РѕРІР°СЂРѕРІ';
+$MESS['SALE_REPORT_DEFAULT_GOODS_INVENTORIES_DESCR'] = 'РћС‚С‡РµС‚ РїРѕРєР°Р·С‹РІР°РµС‚, СЃРєРѕР»СЊРєРѕ РєР°РєРѕРіРѕ С‚РѕРІР°СЂР° Рё РЅР° РєР°РєСѓСЋ СЃСѓРјРјСѓ '.
+	'РЅР°С…РѕРґРёС‚СЃСЏ РЅР° СЃРєР»Р°РґРµ. РћС‚С‡РµС‚ РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅ РґР»СЏ Р°РЅР°Р»РёР·Р° СЃРѕРґРµСЂР¶Р°РЅРёСЏ СЃРєР»Р°РґР° Рё РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅ РґР»СЏ РјРµРЅРµРґР¶РµСЂРѕРІ РїРѕ'.
+	' СѓРїСЂР°РІР»РµРЅРёСЋ Р·Р°РїР°СЃР°РјРё.';
+$MESS['SALE_REPORT_DEFAULT_GOODS_INVENTORIES_ALIAS_1'] = 'РћСЃС‚Р°С‚РѕРє';
+$MESS['SALE_REPORT_DEFAULT_GOODS_INVENTORIES_ALIAS_3'] = 'Р¦РµРЅР°';
+$MESS['SALE_REPORT_DEFAULT_GOODS_INVENTORIES_ALIAS_5'] = 'РћР±С‰Р°СЏ СЃС‚РѕРёРјРѕСЃС‚СЊ';
 
-$MESS['SALE_REPORT_DEFAULT_BEST_CLIENTS'] = 'Лучшие клиенты';
-$MESS['SALE_REPORT_DEFAULT_BEST_CLIENTS_DESCR'] = 'Отчет выводит список клиентов вашего магазина, упорядоченный по '.
-	'сумме доходов от покупок, которые они совершили, за отчетный промежуток времени. Отчет предназначен для '.
-	'менеджеров по работе с клиентами, для выделения лучших клиентов, дальнейшего их изучения и работы с ними.';
-$MESS['SALE_REPORT_DEFAULT_BEST_CLIENTS_ALIAS_0'] = 'Кол-во заказов';
-$MESS['SALE_REPORT_DEFAULT_BEST_CLIENTS_ALIAS_2'] = 'Кол-во товаров';
-$MESS['SALE_REPORT_DEFAULT_BEST_CLIENTS_ALIAS_3'] = 'Скидка на сумму';
-$MESS['SALE_REPORT_DEFAULT_BEST_CLIENTS_ALIAS_5'] = 'Заказов на сумму';
-$MESS['SALE_REPORT_DEFAULT_BEST_CLIENTS_ALIAS_14'] = 'Средний заказ';
+$MESS['SALE_REPORT_DEFAULT_BEST_CLIENTS'] = 'Р›СѓС‡С€РёРµ РєР»РёРµРЅС‚С‹';
+$MESS['SALE_REPORT_DEFAULT_BEST_CLIENTS_DESCR'] = 'РћС‚С‡РµС‚ РІС‹РІРѕРґРёС‚ СЃРїРёСЃРѕРє РєР»РёРµРЅС‚РѕРІ РІР°С€РµРіРѕ РјР°РіР°Р·РёРЅР°, СѓРїРѕСЂСЏРґРѕС‡РµРЅРЅС‹Р№ РїРѕ '.
+	'СЃСѓРјРјРµ РґРѕС…РѕРґРѕРІ РѕС‚ РїРѕРєСѓРїРѕРє, РєРѕС‚РѕСЂС‹Рµ РѕРЅРё СЃРѕРІРµСЂС€РёР»Рё, Р·Р° РѕС‚С‡РµС‚РЅС‹Р№ РїСЂРѕРјРµР¶СѓС‚РѕРє РІСЂРµРјРµРЅРё. РћС‚С‡РµС‚ РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅ РґР»СЏ '.
+	'РјРµРЅРµРґР¶РµСЂРѕРІ РїРѕ СЂР°Р±РѕС‚Рµ СЃ РєР»РёРµРЅС‚Р°РјРё, РґР»СЏ РІС‹РґРµР»РµРЅРёСЏ Р»СѓС‡С€РёС… РєР»РёРµРЅС‚РѕРІ, РґР°Р»СЊРЅРµР№С€РµРіРѕ РёС… РёР·СѓС‡РµРЅРёСЏ Рё СЂР°Р±РѕС‚С‹ СЃ РЅРёРјРё.';
+$MESS['SALE_REPORT_DEFAULT_BEST_CLIENTS_ALIAS_0'] = 'РљРѕР»-РІРѕ Р·Р°РєР°Р·РѕРІ';
+$MESS['SALE_REPORT_DEFAULT_BEST_CLIENTS_ALIAS_2'] = 'РљРѕР»-РІРѕ С‚РѕРІР°СЂРѕРІ';
+$MESS['SALE_REPORT_DEFAULT_BEST_CLIENTS_ALIAS_3'] = 'РЎРєРёРґРєР° РЅР° СЃСѓРјРјСѓ';
+$MESS['SALE_REPORT_DEFAULT_BEST_CLIENTS_ALIAS_5'] = 'Р—Р°РєР°Р·РѕРІ РЅР° СЃСѓРјРјСѓ';
+$MESS['SALE_REPORT_DEFAULT_BEST_CLIENTS_ALIAS_14'] = 'РЎСЂРµРґРЅРёР№ Р·Р°РєР°Р·';
 
-$MESS['SALE_REPORT_DEFAULT_NEW_CLIENTS'] = 'Новые клиенты';
-$MESS['SALE_REPORT_DEFAULT_NEW_CLIENTS_DESCR'] = 'Отчет выводит информацию о количестве новых клиентов, '.
-	'зарегистрировавшихся в магазине, в разрезе дней, сколько заказов они сделали. Отчет предназначен для '.
-	'маркетологов для оценки динамики появления новых клиентов и активности новых клиентов.';
-$MESS['SALE_REPORT_DEFAULT_NEW_CLIENTS_ALIAS_0'] = 'Кол-во регистраций';
-$MESS['SALE_REPORT_DEFAULT_NEW_CLIENTS_ALIAS_3'] = 'Кол-во заказов';
-$MESS['SALE_REPORT_DEFAULT_NEW_CLIENTS_ALIAS_4'] = 'Скидка на сумму';
-$MESS['SALE_REPORT_DEFAULT_NEW_CLIENTS_ALIAS_5'] = 'Заказов на сумму';
-$MESS['SALE_REPORT_DEFAULT_NEW_CLIENTS_ALIAS_6'] = 'Оплачено';
-$MESS['SALE_REPORT_DEFAULT_NEW_CLIENTS_ALIAS_9'] = 'Средний заказ';
+$MESS['SALE_REPORT_DEFAULT_NEW_CLIENTS'] = 'РќРѕРІС‹Рµ РєР»РёРµРЅС‚С‹';
+$MESS['SALE_REPORT_DEFAULT_NEW_CLIENTS_DESCR'] = 'РћС‚С‡РµС‚ РІС‹РІРѕРґРёС‚ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ РєРѕР»РёС‡РµСЃС‚РІРµ РЅРѕРІС‹С… РєР»РёРµРЅС‚РѕРІ, '.
+	'Р·Р°СЂРµРіРёСЃС‚СЂРёСЂРѕРІР°РІС€РёС…СЃСЏ РІ РјР°РіР°Р·РёРЅРµ, РІ СЂР°Р·СЂРµР·Рµ РґРЅРµР№, СЃРєРѕР»СЊРєРѕ Р·Р°РєР°Р·РѕРІ РѕРЅРё СЃРґРµР»Р°Р»Рё. РћС‚С‡РµС‚ РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅ РґР»СЏ '.
+	'РјР°СЂРєРµС‚РѕР»РѕРіРѕРІ РґР»СЏ РѕС†РµРЅРєРё РґРёРЅР°РјРёРєРё РїРѕСЏРІР»РµРЅРёСЏ РЅРѕРІС‹С… РєР»РёРµРЅС‚РѕРІ Рё Р°РєС‚РёРІРЅРѕСЃС‚Рё РЅРѕРІС‹С… РєР»РёРµРЅС‚РѕРІ.';
+$MESS['SALE_REPORT_DEFAULT_NEW_CLIENTS_ALIAS_0'] = 'РљРѕР»-РІРѕ СЂРµРіРёСЃС‚СЂР°С†РёР№';
+$MESS['SALE_REPORT_DEFAULT_NEW_CLIENTS_ALIAS_3'] = 'РљРѕР»-РІРѕ Р·Р°РєР°Р·РѕРІ';
+$MESS['SALE_REPORT_DEFAULT_NEW_CLIENTS_ALIAS_4'] = 'РЎРєРёРґРєР° РЅР° СЃСѓРјРјСѓ';
+$MESS['SALE_REPORT_DEFAULT_NEW_CLIENTS_ALIAS_5'] = 'Р—Р°РєР°Р·РѕРІ РЅР° СЃСѓРјРјСѓ';
+$MESS['SALE_REPORT_DEFAULT_NEW_CLIENTS_ALIAS_6'] = 'РћРїР»Р°С‡РµРЅРѕ';
+$MESS['SALE_REPORT_DEFAULT_NEW_CLIENTS_ALIAS_9'] = 'РЎСЂРµРґРЅРёР№ Р·Р°РєР°Р·';
 
-$MESS['SALE_REPORT_DEFAULT_SALES'] = 'Продажи';
-$MESS['SALE_REPORT_DEFAULT_SALES_DESCR'] = 'Отчет выводит информацию по продажам, совершенным за отчетный период. '.
-	'Предназначен для владельцев магазинов, для оценки количества продаж, доходов и других характеристик выполненных '.
-	'заказов, сгруппированных по дням, неделям, месяцам, кварталам или годам.';
-$MESS['SALE_REPORT_DEFAULT_SALES_ALIAS_0'] = 'Кол-во заказов';
-$MESS['SALE_REPORT_DEFAULT_SALES_ALIAS_1'] = 'Дата';
-$MESS['SALE_REPORT_DEFAULT_SALES_ALIAS_2'] = 'Налоги';
-$MESS['SALE_REPORT_DEFAULT_SALES_ALIAS_3'] = 'Доставка';
-$MESS['SALE_REPORT_DEFAULT_SALES_ALIAS_4'] = 'Скидка';
-$MESS['SALE_REPORT_DEFAULT_SALES_ALIAS_5'] = 'Заказов на сумму';
-$MESS['SALE_REPORT_DEFAULT_SALES_ALIAS_6'] = 'Оплачено';
-$MESS['SALE_REPORT_DEFAULT_SALES_ALIAS_13'] = 'Кол-во товара';
+$MESS['SALE_REPORT_DEFAULT_SALES'] = 'РџСЂРѕРґР°Р¶Рё';
+$MESS['SALE_REPORT_DEFAULT_SALES_DESCR'] = 'РћС‚С‡РµС‚ РІС‹РІРѕРґРёС‚ РёРЅС„РѕСЂРјР°С†РёСЋ РїРѕ РїСЂРѕРґР°Р¶Р°Рј, СЃРѕРІРµСЂС€РµРЅРЅС‹Рј Р·Р° РѕС‚С‡РµС‚РЅС‹Р№ РїРµСЂРёРѕРґ. '.
+	'РџСЂРµРґРЅР°Р·РЅР°С‡РµРЅ РґР»СЏ РІР»Р°РґРµР»СЊС†РµРІ РјР°РіР°Р·РёРЅРѕРІ, РґР»СЏ РѕС†РµРЅРєРё РєРѕР»РёС‡РµСЃС‚РІР° РїСЂРѕРґР°Р¶, РґРѕС…РѕРґРѕРІ Рё РґСЂСѓРіРёС… С…Р°СЂР°РєС‚РµСЂРёСЃС‚РёРє РІС‹РїРѕР»РЅРµРЅРЅС‹С… '.
+	'Р·Р°РєР°Р·РѕРІ, СЃРіСЂСѓРїРїРёСЂРѕРІР°РЅРЅС‹С… РїРѕ РґРЅСЏРј, РЅРµРґРµР»СЏРј, РјРµСЃСЏС†Р°Рј, РєРІР°СЂС‚Р°Р»Р°Рј РёР»Рё РіРѕРґР°Рј.';
+$MESS['SALE_REPORT_DEFAULT_SALES_ALIAS_0'] = 'РљРѕР»-РІРѕ Р·Р°РєР°Р·РѕРІ';
+$MESS['SALE_REPORT_DEFAULT_SALES_ALIAS_1'] = 'Р”Р°С‚Р°';
+$MESS['SALE_REPORT_DEFAULT_SALES_ALIAS_2'] = 'РќР°Р»РѕРіРё';
+$MESS['SALE_REPORT_DEFAULT_SALES_ALIAS_3'] = 'Р”РѕСЃС‚Р°РІРєР°';
+$MESS['SALE_REPORT_DEFAULT_SALES_ALIAS_4'] = 'РЎРєРёРґРєР°';
+$MESS['SALE_REPORT_DEFAULT_SALES_ALIAS_5'] = 'Р—Р°РєР°Р·РѕРІ РЅР° СЃСѓРјРјСѓ';
+$MESS['SALE_REPORT_DEFAULT_SALES_ALIAS_6'] = 'РћРїР»Р°С‡РµРЅРѕ';
+$MESS['SALE_REPORT_DEFAULT_SALES_ALIAS_13'] = 'РљРѕР»-РІРѕ С‚РѕРІР°СЂР°';
 
-$MESS['SALE_REPORT_DEFAULT_MOST_EXPECTED_GOODS'] = 'Самые ожидаемые товары';
-$MESS['SALE_REPORT_DEFAULT_MOST_EXPECTED_GOODS_DESCR'] = 'Отчет показывает товары, появление которых на складе '.
-	'ожидается наибольшим количеством клиентов магазина. Отчет предназначен для определения наиболее ценных товаров '.
-	'для поставки в магазин и предназначен для менеджеров по закупкам.';
-$MESS['SALE_REPORT_DEFAULT_MOST_EXPECTED_GOODS_ALIAS_0'] = 'ID товара';
-$MESS['SALE_REPORT_DEFAULT_MOST_EXPECTED_GOODS_ALIAS_1'] = 'Наименование товара';
-$MESS['SALE_REPORT_DEFAULT_MOST_EXPECTED_GOODS_ALIAS_5'] = 'Кол-во подписок';
-$MESS['SALE_REPORT_DEFAULT_MOST_EXPECTED_GOODS_ALIAS_8'] = 'Возможный доход';
+$MESS['SALE_REPORT_DEFAULT_MOST_EXPECTED_GOODS'] = 'РЎР°РјС‹Рµ РѕР¶РёРґР°РµРјС‹Рµ С‚РѕРІР°СЂС‹';
+$MESS['SALE_REPORT_DEFAULT_MOST_EXPECTED_GOODS_DESCR'] = 'РћС‚С‡РµС‚ РїРѕРєР°Р·С‹РІР°РµС‚ С‚РѕРІР°СЂС‹, РїРѕСЏРІР»РµРЅРёРµ РєРѕС‚РѕСЂС‹С… РЅР° СЃРєР»Р°РґРµ '.
+	'РѕР¶РёРґР°РµС‚СЃСЏ РЅР°РёР±РѕР»СЊС€РёРј РєРѕР»РёС‡РµСЃС‚РІРѕРј РєР»РёРµРЅС‚РѕРІ РјР°РіР°Р·РёРЅР°. РћС‚С‡РµС‚ РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅ РґР»СЏ РѕРїСЂРµРґРµР»РµРЅРёСЏ РЅР°РёР±РѕР»РµРµ С†РµРЅРЅС‹С… С‚РѕРІР°СЂРѕРІ '.
+	'РґР»СЏ РїРѕСЃС‚Р°РІРєРё РІ РјР°РіР°Р·РёРЅ Рё РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅ РґР»СЏ РјРµРЅРµРґР¶РµСЂРѕРІ РїРѕ Р·Р°РєСѓРїРєР°Рј.';
+$MESS['SALE_REPORT_DEFAULT_MOST_EXPECTED_GOODS_ALIAS_0'] = 'ID С‚РѕРІР°СЂР°';
+$MESS['SALE_REPORT_DEFAULT_MOST_EXPECTED_GOODS_ALIAS_1'] = 'РќР°РёРјРµРЅРѕРІР°РЅРёРµ С‚РѕРІР°СЂР°';
+$MESS['SALE_REPORT_DEFAULT_MOST_EXPECTED_GOODS_ALIAS_5'] = 'РљРѕР»-РІРѕ РїРѕРґРїРёСЃРѕРє';
+$MESS['SALE_REPORT_DEFAULT_MOST_EXPECTED_GOODS_ALIAS_8'] = 'Р’РѕР·РјРѕР¶РЅС‹Р№ РґРѕС…РѕРґ';
 
-$MESS['SALE_REPORT_DEFAULT_MOST_VIEWED_GOODS'] = 'Самые просматриваемые товары';
-$MESS['SALE_REPORT_DEFAULT_MOST_VIEWED_GOODS_DESCR'] = 'Отчет показывает список товаров, которые просматривались '.
-	'пользователями чаще всего за отчетный период. Отчет предназначен для анализа товаров с точки зрения популярности '.
-	'у клиентов и конверсии просмотров товара в продажи.';
-$MESS['SALE_REPORT_DEFAULT_MOST_VIEWED_GOODS_ALIAS_5'] = 'Цена за единицу';
-$MESS['SALE_REPORT_DEFAULT_MOST_VIEWED_GOODS_ALIAS_7'] = 'Просмотров';
-$MESS['SALE_REPORT_DEFAULT_MOST_VIEWED_GOODS_ALIAS_8'] = 'Оплаченных заказов';
-$MESS['SALE_REPORT_DEFAULT_MOST_VIEWED_GOODS_ALIAS_12'] = 'Продано';
+$MESS['SALE_REPORT_DEFAULT_MOST_VIEWED_GOODS'] = 'РЎР°РјС‹Рµ РїСЂРѕСЃРјР°С‚СЂРёРІР°РµРјС‹Рµ С‚РѕРІР°СЂС‹';
+$MESS['SALE_REPORT_DEFAULT_MOST_VIEWED_GOODS_DESCR'] = 'РћС‚С‡РµС‚ РїРѕРєР°Р·С‹РІР°РµС‚ СЃРїРёСЃРѕРє С‚РѕРІР°СЂРѕРІ, РєРѕС‚РѕСЂС‹Рµ РїСЂРѕСЃРјР°С‚СЂРёРІР°Р»РёСЃСЊ '.
+	'РїРѕР»СЊР·РѕРІР°С‚РµР»СЏРјРё С‡Р°С‰Рµ РІСЃРµРіРѕ Р·Р° РѕС‚С‡РµС‚РЅС‹Р№ РїРµСЂРёРѕРґ. РћС‚С‡РµС‚ РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅ РґР»СЏ Р°РЅР°Р»РёР·Р° С‚РѕРІР°СЂРѕРІ СЃ С‚РѕС‡РєРё Р·СЂРµРЅРёСЏ РїРѕРїСѓР»СЏСЂРЅРѕСЃС‚Рё '.
+	'Сѓ РєР»РёРµРЅС‚РѕРІ Рё РєРѕРЅРІРµСЂСЃРёРё РїСЂРѕСЃРјРѕС‚СЂРѕРІ С‚РѕРІР°СЂР° РІ РїСЂРѕРґР°Р¶Рё.';
+$MESS['SALE_REPORT_DEFAULT_MOST_VIEWED_GOODS_ALIAS_5'] = 'Р¦РµРЅР° Р·Р° РµРґРёРЅРёС†Сѓ';
+$MESS['SALE_REPORT_DEFAULT_MOST_VIEWED_GOODS_ALIAS_7'] = 'РџСЂРѕСЃРјРѕС‚СЂРѕРІ';
+$MESS['SALE_REPORT_DEFAULT_MOST_VIEWED_GOODS_ALIAS_8'] = 'РћРїР»Р°С‡РµРЅРЅС‹С… Р·Р°РєР°Р·РѕРІ';
+$MESS['SALE_REPORT_DEFAULT_MOST_VIEWED_GOODS_ALIAS_12'] = 'РџСЂРѕРґР°РЅРѕ';
 
 // default reports 12.5
-$MESS['SALE_REPORT_DEFAULT_GOODS_INVENTORIES__12_5'] = 'Запасы товаров';
-$MESS['SALE_REPORT_DEFAULT_GOODS_INVENTORIES__12_5_ALIAS_2'] = 'Категория';
-$MESS['SALE_REPORT_DEFAULT_GOODS_INVENTORIES__12_5_ALIAS_12'] = 'Приход';
-$MESS['SALE_REPORT_DEFAULT_GOODS_INVENTORIES__12_5_ALIAS_6'] = 'Расход';
-$MESS['SALE_REPORT_DEFAULT_GOODS_INVENTORIES__12_5_ALIAS_3'] = 'Конечный остаток';
+$MESS['SALE_REPORT_DEFAULT_GOODS_INVENTORIES__12_5'] = 'Р—Р°РїР°СЃС‹ С‚РѕРІР°СЂРѕРІ';
+$MESS['SALE_REPORT_DEFAULT_GOODS_INVENTORIES__12_5_ALIAS_2'] = 'РљР°С‚РµРіРѕСЂРёСЏ';
+$MESS['SALE_REPORT_DEFAULT_GOODS_INVENTORIES__12_5_ALIAS_12'] = 'РџСЂРёС…РѕРґ';
+$MESS['SALE_REPORT_DEFAULT_GOODS_INVENTORIES__12_5_ALIAS_6'] = 'Р Р°СЃС…РѕРґ';
+$MESS['SALE_REPORT_DEFAULT_GOODS_INVENTORIES__12_5_ALIAS_3'] = 'РљРѕРЅРµС‡РЅС‹Р№ РѕСЃС‚Р°С‚РѕРє';
 
-$MESS['SALE_REPORT_DEFAULT_GOODS_INVENTORIES_MOB__12_5'] = 'Запасы товаров (мобильный)';
-$MESS['SALE_REPORT_DEFAULT_GOODS_INVENTORIES_MOB__12_5_ALIAS_2'] = 'Категория';
-$MESS['SALE_REPORT_DEFAULT_GOODS_INVENTORIES_MOB__12_5_ALIAS_3'] = 'Конечный остаток';
+$MESS['SALE_REPORT_DEFAULT_GOODS_INVENTORIES_MOB__12_5'] = 'Р—Р°РїР°СЃС‹ С‚РѕРІР°СЂРѕРІ (РјРѕР±РёР»СЊРЅС‹Р№)';
+$MESS['SALE_REPORT_DEFAULT_GOODS_INVENTORIES_MOB__12_5_ALIAS_2'] = 'РљР°С‚РµРіРѕСЂРёСЏ';
+$MESS['SALE_REPORT_DEFAULT_GOODS_INVENTORIES_MOB__12_5_ALIAS_3'] = 'РљРѕРЅРµС‡РЅС‹Р№ РѕСЃС‚Р°С‚РѕРє';
 
-$MESS['SALE_REPORT_DEFAULT_PRICE_LIST__12_5'] = 'Прайс-лист';
-$MESS['SALE_REPORT_DEFAULT_PRICE_LIST__12_5_ALIAS_4'] = 'Категория';
+$MESS['SALE_REPORT_DEFAULT_PRICE_LIST__12_5'] = 'РџСЂР°Р№СЃ-Р»РёСЃС‚';
+$MESS['SALE_REPORT_DEFAULT_PRICE_LIST__12_5_ALIAS_4'] = 'РљР°С‚РµРіРѕСЂРёСЏ';
 
-$MESS['SALE_REPORT_DEFAULT_PRICE_LIST_MOB__12_5'] = 'Прайс-лист (мобильный)';
-$MESS['SALE_REPORT_DEFAULT_PRICE_LIST_MOB__12_5_ALIAS_4'] = 'Категория';
+$MESS['SALE_REPORT_DEFAULT_PRICE_LIST_MOB__12_5'] = 'РџСЂР°Р№СЃ-Р»РёСЃС‚ (РјРѕР±РёР»СЊРЅС‹Р№)';
+$MESS['SALE_REPORT_DEFAULT_PRICE_LIST_MOB__12_5_ALIAS_4'] = 'РљР°С‚РµРіРѕСЂРёСЏ';
 
-$MESS['SALE_REPORT_DEFAULT_GOODS_PROFIT__12_5'] = 'Доходность по товарам';
-$MESS['SALE_REPORT_DEFAULT_GOODS_PROFIT__12_5_ALIAS_7'] = 'Количество';
-$MESS['SALE_REPORT_DEFAULT_GOODS_PROFIT__12_5_ALIAS_5'] = 'Стоимость продаж';
-$MESS['SALE_REPORT_DEFAULT_GOODS_PROFIT__12_5_ALIAS_9'] = 'Себестоимость';
-$MESS['SALE_REPORT_DEFAULT_GOODS_PROFIT__12_5_ALIAS_10'] = 'Валовая прибыль';
-$MESS['SALE_REPORT_DEFAULT_GOODS_PROFIT__12_5_ALIAS_11'] = 'Рентабельность (%)';
+$MESS['SALE_REPORT_DEFAULT_GOODS_PROFIT__12_5'] = 'Р”РѕС…РѕРґРЅРѕСЃС‚СЊ РїРѕ С‚РѕРІР°СЂР°Рј';
+$MESS['SALE_REPORT_DEFAULT_GOODS_PROFIT__12_5_ALIAS_7'] = 'РљРѕР»РёС‡РµСЃС‚РІРѕ';
+$MESS['SALE_REPORT_DEFAULT_GOODS_PROFIT__12_5_ALIAS_5'] = 'РЎС‚РѕРёРјРѕСЃС‚СЊ РїСЂРѕРґР°Р¶';
+$MESS['SALE_REPORT_DEFAULT_GOODS_PROFIT__12_5_ALIAS_9'] = 'РЎРµР±РµСЃС‚РѕРёРјРѕСЃС‚СЊ';
+$MESS['SALE_REPORT_DEFAULT_GOODS_PROFIT__12_5_ALIAS_10'] = 'Р’Р°Р»РѕРІР°СЏ РїСЂРёР±С‹Р»СЊ';
+$MESS['SALE_REPORT_DEFAULT_GOODS_PROFIT__12_5_ALIAS_11'] = 'Р РµРЅС‚Р°Р±РµР»СЊРЅРѕСЃС‚СЊ (%)';
 
-$MESS['SALE_REPORT_DEFAULT_CLIENTS_PROFIT__12_5'] = 'Доходность по клиентам';
-$MESS['SALE_REPORT_DEFAULT_CLIENTS_PROFIT__12_5_ALIAS_7'] = 'Количество';
-$MESS['SALE_REPORT_DEFAULT_CLIENTS_PROFIT__12_5_ALIAS_5'] = 'Стоимость продаж';
-$MESS['SALE_REPORT_DEFAULT_CLIENTS_PROFIT__12_5_ALIAS_15'] = 'Себестоимость';
-$MESS['SALE_REPORT_DEFAULT_CLIENTS_PROFIT__12_5_ALIAS_13'] = 'Валовая прибыль';
-$MESS['SALE_REPORT_DEFAULT_CLIENTS_PROFIT__12_5_ALIAS_14'] = 'Рентабельность (%)';
+$MESS['SALE_REPORT_DEFAULT_CLIENTS_PROFIT__12_5'] = 'Р”РѕС…РѕРґРЅРѕСЃС‚СЊ РїРѕ РєР»РёРµРЅС‚Р°Рј';
+$MESS['SALE_REPORT_DEFAULT_CLIENTS_PROFIT__12_5_ALIAS_7'] = 'РљРѕР»РёС‡РµСЃС‚РІРѕ';
+$MESS['SALE_REPORT_DEFAULT_CLIENTS_PROFIT__12_5_ALIAS_5'] = 'РЎС‚РѕРёРјРѕСЃС‚СЊ РїСЂРѕРґР°Р¶';
+$MESS['SALE_REPORT_DEFAULT_CLIENTS_PROFIT__12_5_ALIAS_15'] = 'РЎРµР±РµСЃС‚РѕРёРјРѕСЃС‚СЊ';
+$MESS['SALE_REPORT_DEFAULT_CLIENTS_PROFIT__12_5_ALIAS_13'] = 'Р’Р°Р»РѕРІР°СЏ РїСЂРёР±С‹Р»СЊ';
+$MESS['SALE_REPORT_DEFAULT_CLIENTS_PROFIT__12_5_ALIAS_14'] = 'Р РµРЅС‚Р°Р±РµР»СЊРЅРѕСЃС‚СЊ (%)';
 
 // default reports 12.5.1
-$MESS['SALE_REPORT_DEFAULT_GOODS_INVENTORIES_BY_STORE__12_5_1'] = 'Запасы товаров (по складам)';
-$MESS['SALE_REPORT_DEFAULT_GOODS_INVENTORIES_BY_STORE__12_5_1_ALIAS_2'] = 'Категория';
-$MESS['SALE_REPORT_DEFAULT_GOODS_INVENTORIES_BY_STORE__12_5_1_ALIAS_23'] = 'Конечный остаток';
-$MESS['SALE_REPORT_DEFAULT_GOODS_INVENTORIES_BY_STORE__12_5_1_ALIAS_25'] = 'Приход';
-$MESS['SALE_REPORT_DEFAULT_GOODS_INVENTORIES_BY_STORE__12_5_1_ALIAS_26'] = 'Расход';
+$MESS['SALE_REPORT_DEFAULT_GOODS_INVENTORIES_BY_STORE__12_5_1'] = 'Р—Р°РїР°СЃС‹ С‚РѕРІР°СЂРѕРІ (РїРѕ СЃРєР»Р°РґР°Рј)';
+$MESS['SALE_REPORT_DEFAULT_GOODS_INVENTORIES_BY_STORE__12_5_1_ALIAS_2'] = 'РљР°С‚РµРіРѕСЂРёСЏ';
+$MESS['SALE_REPORT_DEFAULT_GOODS_INVENTORIES_BY_STORE__12_5_1_ALIAS_23'] = 'РљРѕРЅРµС‡РЅС‹Р№ РѕСЃС‚Р°С‚РѕРє';
+$MESS['SALE_REPORT_DEFAULT_GOODS_INVENTORIES_BY_STORE__12_5_1_ALIAS_25'] = 'РџСЂРёС…РѕРґ';
+$MESS['SALE_REPORT_DEFAULT_GOODS_INVENTORIES_BY_STORE__12_5_1_ALIAS_26'] = 'Р Р°СЃС…РѕРґ';
 
 
 
 // helpers names
-$MESS['SALE_REPORT_HELPER_NAME_sale_SaleOrder'] = 'Заказ';
-$MESS['SALE_REPORT_HELPER_NAME_sale_User'] = 'Покупатель';
-$MESS['SALE_REPORT_HELPER_NAME_sale_SaleBasket'] = 'Корзина';
-$MESS['SALE_REPORT_HELPER_NAME_sale_SaleProduct'] = 'Товар';
+$MESS['SALE_REPORT_HELPER_NAME_sale_SaleOrder'] = 'Р—Р°РєР°Р·';
+$MESS['SALE_REPORT_HELPER_NAME_sale_User'] = 'РџРѕРєСѓРїР°С‚РµР»СЊ';
+$MESS['SALE_REPORT_HELPER_NAME_sale_SaleBasket'] = 'РљРѕСЂР·РёРЅР°';
+$MESS['SALE_REPORT_HELPER_NAME_sale_SaleProduct'] = 'РўРѕРІР°СЂ';
 
 // SaleOrder helper
-$MESS['REPORT_sale_SaleOrder_Basket:ORDER'] = 'Состав заказа';
-$MESS['REPORT_sale_SaleOrder_STATUS'] = 'Статус';
-$MESS['REPORT_sale_SaleOrder_PAY_SYSTEM'] = 'Платёжная система';
-$MESS['REPORT_sale_SaleOrder_USER'] = 'Покупатель';
-$MESS['REPORT_sale_SaleOrder_USER.UserGroup:USER.GROUP'] = 'Группа покупателя';
+$MESS['REPORT_sale_SaleOrder_Basket:ORDER'] = 'РЎРѕСЃС‚Р°РІ Р·Р°РєР°Р·Р°';
+$MESS['REPORT_sale_SaleOrder_STATUS'] = 'РЎС‚Р°С‚СѓСЃ';
+$MESS['REPORT_sale_SaleOrder_PAY_SYSTEM'] = 'РџР»Р°С‚С‘Р¶РЅР°СЏ СЃРёСЃС‚РµРјР°';
+$MESS['REPORT_sale_SaleOrder_USER'] = 'РџРѕРєСѓРїР°С‚РµР»СЊ';
+$MESS['REPORT_sale_SaleOrder_USER.UserGroup:USER.GROUP'] = 'Р“СЂСѓРїРїР° РїРѕРєСѓРїР°С‚РµР»СЏ';
 $MESS['REPORT_sale_SaleOrder_USER.UserGroup:USER.GROUP.ID'] = 'ID';
-$MESS['REPORT_sale_SaleOrder_USER.UserGroup:USER.GROUP.NAME'] = 'Наименование';
-$MESS['REPORT_sale_SaleOrder_Basket:ORDER.PRODUCT.QUANTITY'] = 'Остаток товара';
-$MESS['REPORT_sale_SaleOrder_Basket:ORDER.PRODUCT.GoodsSection:PRODUCT.SECT'] = 'Категория товара';
-$MESS['REPORT_sale_SaleOrder_Payment:ORDER'] = 'Оплата';
-$MESS['REPORT_sale_SaleOrder_Shipment:REPS_ORDER'] = 'Отгрузка';
+$MESS['REPORT_sale_SaleOrder_USER.UserGroup:USER.GROUP.NAME'] = 'РќР°РёРјРµРЅРѕРІР°РЅРёРµ';
+$MESS['REPORT_sale_SaleOrder_Basket:ORDER.PRODUCT.QUANTITY'] = 'РћСЃС‚Р°С‚РѕРє С‚РѕРІР°СЂР°';
+$MESS['REPORT_sale_SaleOrder_Basket:ORDER.PRODUCT.GoodsSection:PRODUCT.SECT'] = 'РљР°С‚РµРіРѕСЂРёСЏ С‚РѕРІР°СЂР°';
+$MESS['REPORT_sale_SaleOrder_Payment:ORDER'] = 'РћРїР»Р°С‚Р°';
+$MESS['REPORT_sale_SaleOrder_Shipment:REPS_ORDER'] = 'РћС‚РіСЂСѓР·РєР°';
 
 // User helper
-$MESS['REPORT_sale_User_Bitrix\Sale\Internals\Order:USER'] = 'Заказ';
-$MESS['REPORT_sale_User_Bitrix\Sale\Internals\Order:USER.STATUS'] = 'Статус';
-$MESS['REPORT_sale_User_LID'] = 'Магазин';
-$MESS['REPORT_sale_User_UserGroup:USER.GROUP'] = 'Группа покупателя';
+$MESS['REPORT_sale_User_Bitrix\Sale\Internals\Order:USER'] = 'Р—Р°РєР°Р·';
+$MESS['REPORT_sale_User_Bitrix\Sale\Internals\Order:USER.STATUS'] = 'РЎС‚Р°С‚СѓСЃ';
+$MESS['REPORT_sale_User_LID'] = 'РњР°РіР°Р·РёРЅ';
+$MESS['REPORT_sale_User_UserGroup:USER.GROUP'] = 'Р“СЂСѓРїРїР° РїРѕРєСѓРїР°С‚РµР»СЏ';
 $MESS['REPORT_sale_User_UserGroup:USER.GROUP.ID'] = 'ID';
-$MESS['REPORT_sale_User_UserGroup:USER.GROUP.NAME'] = 'Наименование';
+$MESS['REPORT_sale_User_UserGroup:USER.GROUP.NAME'] = 'РќР°РёРјРµРЅРѕРІР°РЅРёРµ';
 
 // SaleFuser helper
-$MESS['REPORT_sale_SaleFuser_USER'] = 'Регистрационные данные';
-$MESS['REPORT_sale_SaleFuser_Basket:FUSER'] = 'Состав корзины';
-$MESS['REPORT_sale_SaleFuser_Order:FUSER'] = 'Заказ';
-$MESS['REPORT_sale_SaleFuser_USER.UserGroup:USER.GROUP'] = 'Группа покупателя';
-$MESS['REPORT_sale_SaleFuser_USER.UserGroup:USER.GROUP.NAME'] = 'Наименование';
+$MESS['REPORT_sale_SaleFuser_USER'] = 'Р РµРіРёСЃС‚СЂР°С†РёРѕРЅРЅС‹Рµ РґР°РЅРЅС‹Рµ';
+$MESS['REPORT_sale_SaleFuser_Basket:FUSER'] = 'РЎРѕСЃС‚Р°РІ РєРѕСЂР·РёРЅС‹';
+$MESS['REPORT_sale_SaleFuser_Order:FUSER'] = 'Р—Р°РєР°Р·';
+$MESS['REPORT_sale_SaleFuser_USER.UserGroup:USER.GROUP'] = 'Р“СЂСѓРїРїР° РїРѕРєСѓРїР°С‚РµР»СЏ';
+$MESS['REPORT_sale_SaleFuser_USER.UserGroup:USER.GROUP.NAME'] = 'РќР°РёРјРµРЅРѕРІР°РЅРёРµ';
 
 // SaleBasket helper
-$MESS['REPORT_sale_SaleBasket_ORDER'] = 'Заказ';
-$MESS['REPORT_sale_SaleBasket_ORDER.STATUS'] = 'Статус';
-$MESS['REPORT_sale_SaleBasket_ORDER.PAY_SYSTEM'] = 'Платёжная система';
-$MESS['REPORT_sale_SaleBasket_ORDER.USER'] = 'Покупатель';
-$MESS['REPORT_sale_SaleBasket_PRODUCT.ACTIVE'] = 'Товар активен';
-$MESS['REPORT_sale_SaleBasket_PRODUCT.GoodsSection:PRODUCT.SECT'] = 'Категория товара';
+$MESS['REPORT_sale_SaleBasket_ORDER'] = 'Р—Р°РєР°Р·';
+$MESS['REPORT_sale_SaleBasket_ORDER.STATUS'] = 'РЎС‚Р°С‚СѓСЃ';
+$MESS['REPORT_sale_SaleBasket_ORDER.PAY_SYSTEM'] = 'РџР»Р°С‚С‘Р¶РЅР°СЏ СЃРёСЃС‚РµРјР°';
+$MESS['REPORT_sale_SaleBasket_ORDER.USER'] = 'РџРѕРєСѓРїР°С‚РµР»СЊ';
+$MESS['REPORT_sale_SaleBasket_PRODUCT.ACTIVE'] = 'РўРѕРІР°СЂ Р°РєС‚РёРІРµРЅ';
+$MESS['REPORT_sale_SaleBasket_PRODUCT.GoodsSection:PRODUCT.SECT'] = 'РљР°С‚РµРіРѕСЂРёСЏ С‚РѕРІР°СЂР°';
 $MESS['REPORT_sale_SaleBasket_PRODUCT.GoodsSection:PRODUCT.SECT.ID'] = 'ID';
-$MESS['REPORT_sale_SaleBasket_PRODUCT.GoodsSection:PRODUCT.SECT.NAME'] = 'Наименование';
-$MESS['REPORT_sale_SaleBasket_FUSER.USER.UserGroup:USER.GROUP'] = 'Группа покупателя';
+$MESS['REPORT_sale_SaleBasket_PRODUCT.GoodsSection:PRODUCT.SECT.NAME'] = 'РќР°РёРјРµРЅРѕРІР°РЅРёРµ';
+$MESS['REPORT_sale_SaleBasket_FUSER.USER.UserGroup:USER.GROUP'] = 'Р“СЂСѓРїРїР° РїРѕРєСѓРїР°С‚РµР»СЏ';
 $MESS['REPORT_sale_SaleBasket_FUSER.USER.UserGroup:USER.GROUP.ID'] = 'ID';
-$MESS['REPORT_sale_SaleBasket_FUSER.USER.UserGroup:USER.GROUP.NAME'] = 'Наименование';
-$MESS['REPORT_sale_SaleBasket_ORDER.Payment:ORDER'] = 'Оплата';
-$MESS['REPORT_sale_SaleBasket_ORDER.Shipment:REPS_ORDER'] = 'Отгрузка';
+$MESS['REPORT_sale_SaleBasket_FUSER.USER.UserGroup:USER.GROUP.NAME'] = 'РќР°РёРјРµРЅРѕРІР°РЅРёРµ';
+$MESS['REPORT_sale_SaleBasket_ORDER.Payment:ORDER'] = 'РћРїР»Р°С‚Р°';
+$MESS['REPORT_sale_SaleBasket_ORDER.Shipment:REPS_ORDER'] = 'РћС‚РіСЂСѓР·РєР°';
 
 // SaleProduct helper
-$MESS['REPORT_sale_SaleProduct_PRICE_SITECURR'] = 'Цена';
-$MESS['REPORT_sale_SaleProduct_SUMM_SITECURR'] = 'Стоимость';
-$MESS['REPORT_sale_SaleProduct_IBLOCK.SectionElement:IBLOCK_ELEMENT.IBLOCK_SECTION'] = 'Категория';
-$MESS['REPORT_sale_SaleProduct_StoreProduct:SALE_PRODUCT'] = 'Склад';
+$MESS['REPORT_sale_SaleProduct_PRICE_SITECURR'] = 'Р¦РµРЅР°';
+$MESS['REPORT_sale_SaleProduct_SUMM_SITECURR'] = 'РЎС‚РѕРёРјРѕСЃС‚СЊ';
+$MESS['REPORT_sale_SaleProduct_IBLOCK.SectionElement:IBLOCK_ELEMENT.IBLOCK_SECTION'] = 'РљР°С‚РµРіРѕСЂРёСЏ';
+$MESS['REPORT_sale_SaleProduct_StoreProduct:SALE_PRODUCT'] = 'РЎРєР»Р°Рґ';
 ?>

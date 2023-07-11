@@ -1,2 +1,2 @@
 <?php
-$MESS['SALE_CASHBOX_PREPAYMENT_RETURN_NAME'] = 'Возврат частичной предоплаты безналичными';
+$MESS['SALE_CASHBOX_PREPAYMENT_RETURN_NAME'] = 'Р’РѕР·РІСЂР°С‚ С‡Р°СЃС‚РёС‡РЅРѕР№ РїСЂРµРґРѕРїР»Р°С‚С‹ Р±РµР·РЅР°Р»РёС‡РЅС‹РјРё';

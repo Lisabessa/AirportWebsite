@@ -1,9 +1,9 @@
 <?
-$MESS["SKGOUP_EMPTY_PERS_TYPE"]="Íå óñòàíîâëåí òèï ïëàòåëüùèêà";
-$MESS["SKGOUP_UNAUTH"]="Âû íå àâòîðèçîâàíû";
-$MESS["SKGOUP_NO_USER_ID"]="Íå óêàçàí êîä ïîëüçîâàòåëÿ";
-$MESS['SKGOUP_PROFILE_NOT_FOUND'] = "Ïðîôèëü íå íàéäåí";
-$MESS['SKGOUP_PARRAMS_ERROR'] = "Ïàðàìåòðû âûçîâà ìåòîäà íå êîððåêòíû";
-$MESS['SOA_PROFILE'] = "Ïðîôèëü";
-$MESS['SKGOUP_PROFILE_CREATE_ERROR'] = "Íå óäàëîñü ñîçäàòü ïðîôèëü ïîêóïàòåëÿ";
+$MESS["SKGOUP_EMPTY_PERS_TYPE"]="ÐÐµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½ Ñ‚Ð¸Ð¿ Ð¿Ð»Ð°Ñ‚ÐµÐ»ÑŒÑ‰Ð¸ÐºÐ°";
+$MESS["SKGOUP_UNAUTH"]="Ð’Ñ‹ Ð½Ðµ Ð°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·Ð¾Ð²Ð°Ð½Ñ‹";
+$MESS["SKGOUP_NO_USER_ID"]="ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ ÐºÐ¾Ð´ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
+$MESS['SKGOUP_PROFILE_NOT_FOUND'] = "ÐŸÑ€Ð¾Ñ„Ð¸Ð»ÑŒ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
+$MESS['SKGOUP_PARRAMS_ERROR'] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ Ð²Ñ‹Ð·Ð¾Ð²Ð° Ð¼ÐµÑ‚Ð¾Ð´Ð° Ð½Ðµ ÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ñ‹";
+$MESS['SOA_PROFILE'] = "ÐŸÑ€Ð¾Ñ„Ð¸Ð»ÑŒ";
+$MESS['SKGOUP_PROFILE_CREATE_ERROR'] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ ÑÐ¾Ð·Ð´Ð°Ñ‚ÑŒ Ð¿Ñ€Ð¾Ñ„Ð¸Ð»ÑŒ Ð¿Ð¾ÐºÑƒÐ¿Ð°Ñ‚ÐµÐ»Ñ";
 ?>

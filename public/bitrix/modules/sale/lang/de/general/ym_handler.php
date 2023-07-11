@@ -52,6 +52,6 @@ $MESS["SALE_YMH_DESCRIPTION"] = " ";
 $MESS["SALE_YMH_SHT"] = " ";
 $MESS["SALE_YMH_ADMIN_NOTIFY_SEND_STATUS_ERROR_403"] = " ";
 $MESS["SALE_YMH_LOG_TYPE_ORDER_CREATE_ERROR"] = "Fehler beim Erstellen einer Bestellung.";
-$MESS["SALE_YMARKET_ORDER_PRICE_CHANGED"] = "Achtung! Bestellbetrag hat sich geändert, während der Kunde seine Bestellung platzierte.";
+$MESS["SALE_YMARKET_ORDER_PRICE_CHANGED"] = "Achtung! Bestellbetrag hat sich geÃ¤ndert, wÃ¤hrend der Kunde seine Bestellung platzierte.";
 $MESS["SALE_YMH_MARK_BUYER_WAITING"] = "Informationen zum Kunden werden erwartet";
 ?>

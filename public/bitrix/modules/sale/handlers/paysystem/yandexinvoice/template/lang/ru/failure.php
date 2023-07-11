@@ -1,2 +1,2 @@
 <?php
-$MESS['SALE_HPS_YANDEX_INVOICE_FAILURE'] = 'Îøèáêà ïðè âûñòàâëåíèè ñ÷åòà ¹#PAYMENT_ID#';
+$MESS['SALE_HPS_YANDEX_INVOICE_FAILURE'] = 'ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ Ð²Ñ‹ÑÑ‚Ð°Ð²Ð»ÐµÐ½Ð¸Ð¸ ÑÑ‡ÐµÑ‚Ð° â„–#PAYMENT_ID#';

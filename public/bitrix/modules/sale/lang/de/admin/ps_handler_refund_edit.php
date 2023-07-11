@@ -1,3 +1,3 @@
 <?
-$MESS["SALE_REFUND_HANDLERS_TITLE"] = "Rückgaben konfigurieren";
+$MESS["SALE_REFUND_HANDLERS_TITLE"] = "RÃ¼ckgaben konfigurieren";
 ?>

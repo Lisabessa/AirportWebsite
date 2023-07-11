@@ -1,11 +1,11 @@
 <?
-$MESS["IM_CALL_INTEGRATION_CHAT_CALL_STARTED"] = "Начат звонок № #ID#";
-$MESS["IM_CALL_INTEGRATION_CHAT_CALL_STARTED_M"] = "#NAME# начал звонок";
-$MESS["IM_CALL_INTEGRATION_CHAT_CALL_STARTED_F"] = "#NAME# начала звонок";
-$MESS["IM_CALL_INTEGRATION_CHAT_CALL_FINISHED"] = "Звонок завершен";
-$MESS["IM_CALL_INTEGRATION_CHAT_CALL_MISSED_M"] = "Пропущен звонок от #NAME#";
-$MESS["IM_CALL_INTEGRATION_CHAT_CALL_MISSED_F"] = "Пропущен звонок от #NAME#";
-$MESS["IM_CALL_INTEGRATION_CHAT_CALL_USER_BUSY_M"] = "#NAME# занят другим звонком";
-$MESS["IM_CALL_INTEGRATION_CHAT_CALL_USER_BUSY_F"] = "#NAME# занята другим звонком";
-$MESS["IM_CALL_INTEGRATION_CHAT_CALL_USER_DECLINED_M"] = "#NAME# отклонил звонок";
-$MESS["IM_CALL_INTEGRATION_CHAT_CALL_USER_DECLINED_F"] = "#NAME# отклонила звонок";
+$MESS["IM_CALL_INTEGRATION_CHAT_CALL_STARTED"] = "РќР°С‡Р°С‚ Р·РІРѕРЅРѕРє в„– #ID#";
+$MESS["IM_CALL_INTEGRATION_CHAT_CALL_STARTED_M"] = "#NAME# РЅР°С‡Р°Р» Р·РІРѕРЅРѕРє";
+$MESS["IM_CALL_INTEGRATION_CHAT_CALL_STARTED_F"] = "#NAME# РЅР°С‡Р°Р»Р° Р·РІРѕРЅРѕРє";
+$MESS["IM_CALL_INTEGRATION_CHAT_CALL_FINISHED"] = "Р—РІРѕРЅРѕРє Р·Р°РІРµСЂС€РµРЅ";
+$MESS["IM_CALL_INTEGRATION_CHAT_CALL_MISSED_M"] = "РџСЂРѕРїСѓС‰РµРЅ Р·РІРѕРЅРѕРє РѕС‚ #NAME#";
+$MESS["IM_CALL_INTEGRATION_CHAT_CALL_MISSED_F"] = "РџСЂРѕРїСѓС‰РµРЅ Р·РІРѕРЅРѕРє РѕС‚ #NAME#";
+$MESS["IM_CALL_INTEGRATION_CHAT_CALL_USER_BUSY_M"] = "#NAME# Р·Р°РЅСЏС‚ РґСЂСѓРіРёРј Р·РІРѕРЅРєРѕРј";
+$MESS["IM_CALL_INTEGRATION_CHAT_CALL_USER_BUSY_F"] = "#NAME# Р·Р°РЅСЏС‚Р° РґСЂСѓРіРёРј Р·РІРѕРЅРєРѕРј";
+$MESS["IM_CALL_INTEGRATION_CHAT_CALL_USER_DECLINED_M"] = "#NAME# РѕС‚РєР»РѕРЅРёР» Р·РІРѕРЅРѕРє";
+$MESS["IM_CALL_INTEGRATION_CHAT_CALL_USER_DECLINED_F"] = "#NAME# РѕС‚РєР»РѕРЅРёР»Р° Р·РІРѕРЅРѕРє";

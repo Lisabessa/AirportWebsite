@@ -1,1 +1,1 @@
-<?$MESS["REPORT_COLUMN_VIEW_LABEL_HISTOGRAM_LOGARITHMIC"] = "Ãèñòîãðàììà (ëîãàðèôìè÷åñêàÿ øêàëà)";
+<?$MESS["REPORT_COLUMN_VIEW_LABEL_HISTOGRAM_LOGARITHMIC"] = "Ð“Ð¸ÑÑ‚Ð¾Ð³Ñ€Ð°Ð¼Ð¼Ð° (Ð»Ð¾Ð³Ð°Ñ€Ð¸Ñ„Ð¼Ð¸Ñ‡ÐµÑÐºÐ°Ñ ÑˆÐºÐ°Ð»Ð°)";

@@ -1,4 +1,4 @@
 <?
-$MESS["NEWS_COMMENTS"] = "êîììåíòàðèåâ";
-$MESS["NEWS_RATING"] = "Ðåéòèíã";
+$MESS["NEWS_COMMENTS"] = "ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸ÐµÐ²";
+$MESS["NEWS_RATING"] = "Ð ÐµÐ¹Ñ‚Ð¸Ð½Ð³";
 ?>

@@ -1,2 +1,2 @@
 <?
-$MESS["SALE_TREE_ENTITY_NODE_NOT_FOUND_EXCEPTION"] = "Óêàçàííûé óçåë íå íàéäåí";
+$MESS["SALE_TREE_ENTITY_NODE_NOT_FOUND_EXCEPTION"] = "Ð£ÐºÐ°Ð·Ð°Ð½Ð½Ñ‹Ð¹ ÑƒÐ·ÐµÐ» Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";

@@ -1,5 +1,5 @@
 <?
-$MESS ['SEARCH_ERROR_SERVER_NAME'] = "Â íàñòðîéêàõ ñàéòà (#SITE_ID#) íå óêàçàí URL ñåðâåðà.";
-$MESS ['SEARCH_ERROR_OPEN_FILE'] = "Îøèáêà ïðè îòêðûòèè ôàéëà";
-$MESS ['SEARCH_ERROR_SITE_ID'] = "Ñàéò íå íàéäåí";
+$MESS ['SEARCH_ERROR_SERVER_NAME'] = "Ð’ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ°Ñ… ÑÐ°Ð¹Ñ‚Ð° (#SITE_ID#) Ð½Ðµ ÑƒÐºÐ°Ð·Ð°Ð½ URL ÑÐµÑ€Ð²ÐµÑ€Ð°.";
+$MESS ['SEARCH_ERROR_OPEN_FILE'] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ Ð¾Ñ‚ÐºÑ€Ñ‹Ñ‚Ð¸Ð¸ Ñ„Ð°Ð¹Ð»Ð°";
+$MESS ['SEARCH_ERROR_SITE_ID'] = "Ð¡Ð°Ð¹Ñ‚ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
 ?>

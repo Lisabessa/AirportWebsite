@@ -1,18 +1,18 @@
 <?
-$MESS ['F_FORUMS'] = "Ôîðóìû";
-$MESS ['F_FORUM_NAME'] = "Íàçâàíèå ôîðóìà";
-$MESS ['F_TOPICS'] = "Òåìû";
-$MESS ['F_POSTS'] = "Ñîîáùåíèÿ";
-$MESS ['F_LAST_POST'] = "Îáíîâëåíèå";
-$MESS ['F_HAVE_NEW_MESS'] = "Åñòü íîâûå ñîîáùåíèÿ";
-$MESS ['F_NO_NEW_MESS'] = "Íåò íîâûõ ñîîáùåíèé";
-$MESS ['F_NOT_APPROVED'] = "Îæèäàþùèõ";
-$MESS ['F_NOT_APPROVED_TOPICS'] = "òåì";
-$MESS ['F_NOT_APPROVED_POSTS'] = "ñîîáùåíèé";
-$MESS ['F_SUBSCRIBE_TO_NEW_TOPICS'] = "Ïîäïèñàòüñÿ íà íîâûå òåìû";
-$MESS ['F_SET_FORUMS_READ'] = "Îòìåòèòü ôîðóìû ïðî÷èòàííûìè";
-$MESS ['F_NOT_ACTIVE_FORUM'] = "Íåàêòèâíûé ôîðóì";
-$MESS ['F_EMPTY_FORUMS'] = "Íåò íè îäíîãî äîñòóïíîãî ôîðóìà.";
-$MESS ['F_SUBFORUMS'] = "Ïîäôîðóìû: ";
-$MESS ['F_SUBGROUPS'] = "Ïîäãðóïïû: ";
+$MESS ['F_FORUMS'] = "Ð¤Ð¾Ñ€ÑƒÐ¼Ñ‹";
+$MESS ['F_FORUM_NAME'] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ñ„Ð¾Ñ€ÑƒÐ¼Ð°";
+$MESS ['F_TOPICS'] = "Ð¢ÐµÐ¼Ñ‹";
+$MESS ['F_POSTS'] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
+$MESS ['F_LAST_POST'] = "ÐžÐ±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ðµ";
+$MESS ['F_HAVE_NEW_MESS'] = "Ð•ÑÑ‚ÑŒ Ð½Ð¾Ð²Ñ‹Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
+$MESS ['F_NO_NEW_MESS'] = "ÐÐµÑ‚ Ð½Ð¾Ð²Ñ‹Ñ… ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ð¹";
+$MESS ['F_NOT_APPROVED'] = "ÐžÐ¶Ð¸Ð´Ð°ÑŽÑ‰Ð¸Ñ…";
+$MESS ['F_NOT_APPROVED_TOPICS'] = "Ñ‚ÐµÐ¼";
+$MESS ['F_NOT_APPROVED_POSTS'] = "ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ð¹";
+$MESS ['F_SUBSCRIBE_TO_NEW_TOPICS'] = "ÐŸÐ¾Ð´Ð¿Ð¸ÑÐ°Ñ‚ÑŒÑÑ Ð½Ð° Ð½Ð¾Ð²Ñ‹Ðµ Ñ‚ÐµÐ¼Ñ‹";
+$MESS ['F_SET_FORUMS_READ'] = "ÐžÑ‚Ð¼ÐµÑ‚Ð¸Ñ‚ÑŒ Ñ„Ð¾Ñ€ÑƒÐ¼Ñ‹ Ð¿Ñ€Ð¾Ñ‡Ð¸Ñ‚Ð°Ð½Ð½Ñ‹Ð¼Ð¸";
+$MESS ['F_NOT_ACTIVE_FORUM'] = "ÐÐµÐ°ÐºÑ‚Ð¸Ð²Ð½Ñ‹Ð¹ Ñ„Ð¾Ñ€ÑƒÐ¼";
+$MESS ['F_EMPTY_FORUMS'] = "ÐÐµÑ‚ Ð½Ð¸ Ð¾Ð´Ð½Ð¾Ð³Ð¾ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ð¾Ð³Ð¾ Ñ„Ð¾Ñ€ÑƒÐ¼Ð°.";
+$MESS ['F_SUBFORUMS'] = "ÐŸÐ¾Ð´Ñ„Ð¾Ñ€ÑƒÐ¼Ñ‹: ";
+$MESS ['F_SUBGROUPS'] = "ÐŸÐ¾Ð´Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹: ";
 ?>

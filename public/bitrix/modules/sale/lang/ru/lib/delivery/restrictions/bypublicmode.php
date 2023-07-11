@@ -1,4 +1,4 @@
 <?php
-$MESS["SALE_DLVR_RSTR_BY_PUBLIC_MODE_NAME"] = "ïî ïóáëè÷íîé ÷àñòè";
-$MESS["SALE_DLVR_RSTR_BY_PUBLIC_MODE_DESCRIPT"] = "Îãðàíè÷åíèå èñïîëüçîâàíèÿ ñëóæáû äîñòàâêè ïî ïóáëè÷íîé ÷àñòè";
-$MESS["SALE_DLVR_RSTR_BY_PUBLIC_MODE_SHOW"] = "Îòîáðàæåíèå â ïóáëè÷íîé ÷àñòè";
+$MESS["SALE_DLVR_RSTR_BY_PUBLIC_MODE_NAME"] = "Ð¿Ð¾ Ð¿ÑƒÐ±Ð»Ð¸Ñ‡Ð½Ð¾Ð¹ Ñ‡Ð°ÑÑ‚Ð¸";
+$MESS["SALE_DLVR_RSTR_BY_PUBLIC_MODE_DESCRIPT"] = "ÐžÐ³Ñ€Ð°Ð½Ð¸Ñ‡ÐµÐ½Ð¸Ðµ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð¸Ñ ÑÐ»ÑƒÐ¶Ð±Ñ‹ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸ Ð¿Ð¾ Ð¿ÑƒÐ±Ð»Ð¸Ñ‡Ð½Ð¾Ð¹ Ñ‡Ð°ÑÑ‚Ð¸";
+$MESS["SALE_DLVR_RSTR_BY_PUBLIC_MODE_SHOW"] = "ÐžÑ‚Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ðµ Ð² Ð¿ÑƒÐ±Ð»Ð¸Ñ‡Ð½Ð¾Ð¹ Ñ‡Ð°ÑÑ‚Ð¸";

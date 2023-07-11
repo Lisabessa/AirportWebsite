@@ -1,15 +1,15 @@
 <?
-$MESS["CURRENCY_LANG_ENTITY_CURRENCY_FIELD"] = "Âàëþòà";
-$MESS["CURRENCY_LANG_ENTITY_LID_FIELD"] = "ßçûê";
-$MESS["CURRENCY_LANG_ENTITY_FORMAT_STRING_FIELD"] = "Ñòðîêà ôîðìàòà äëÿ âûâîäà âàëþòû";
-$MESS["CURRENCY_LANG_ENTITY_FULL_NAME_FIELD"] = "Íàçâàíèå";
-$MESS["CURRENCY_LANG_ENTITY_DEC_POINT_FIELD"] = "Äåñÿòè÷íàÿ òî÷êà ïðè âûâîäå";
-$MESS["CURRENCY_LANG_ENTITY_THOUSANDS_SEP_FIELD"] = "Ïîëüçîâàòåëüñêèé ðàçäåëèòåëü òûñÿ÷ ïðè âûâîäå";
-$MESS["CURRENCY_LANG_ENTITY_DECIMALS_FIELD"] = "Êîëè÷åñòâî äåñÿòè÷íûõ çíàêîâ";
-$MESS["CURRENCY_LANG_ENTITY_THOUSANDS_VARIANT_FIELD"] = "Ðàçäåëèòåëü òûñÿ÷ ïðè âûâîäå";
-$MESS["CURRENCY_LANG_ENTITY_HIDE_ZERO_FIELD"] = "Â ïóáëè÷íîé ÷àñòè íå ïîêàçûâàòü íåçíà÷àùèå íóëè â äðîáíîé ÷àñòè öåíû";
-$MESS["CURRENCY_LANG_ENTITY_CREATED_BY_FIELD"] = "Êåì ñîçäàíà";
-$MESS["CURRENCY_LANG_ENTITY_DATE_CREATE_FIELD"] = "Äàòà ñîçäàíèÿ";
-$MESS["CURRENCY_LANG_ENTITY_MODIFIED_BY_FIELD"] = "Êåì èçìåíåíà";
-$MESS["CURRENCY_LANG_ENTITY_TIMESTAMP_X_FIELD"] = "Äàòà èçìåíåíèÿ";
+$MESS["CURRENCY_LANG_ENTITY_CURRENCY_FIELD"] = "Ð’Ð°Ð»ÑŽÑ‚Ð°";
+$MESS["CURRENCY_LANG_ENTITY_LID_FIELD"] = "Ð¯Ð·Ñ‹Ðº";
+$MESS["CURRENCY_LANG_ENTITY_FORMAT_STRING_FIELD"] = "Ð¡Ñ‚Ñ€Ð¾ÐºÐ° Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚Ð° Ð´Ð»Ñ Ð²Ñ‹Ð²Ð¾Ð´Ð° Ð²Ð°Ð»ÑŽÑ‚Ñ‹";
+$MESS["CURRENCY_LANG_ENTITY_FULL_NAME_FIELD"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
+$MESS["CURRENCY_LANG_ENTITY_DEC_POINT_FIELD"] = "Ð”ÐµÑÑÑ‚Ð¸Ñ‡Ð½Ð°Ñ Ñ‚Ð¾Ñ‡ÐºÐ° Ð¿Ñ€Ð¸ Ð²Ñ‹Ð²Ð¾Ð´Ðµ";
+$MESS["CURRENCY_LANG_ENTITY_THOUSANDS_SEP_FIELD"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒÑÐºÐ¸Ð¹ Ñ€Ð°Ð·Ð´ÐµÐ»Ð¸Ñ‚ÐµÐ»ÑŒ Ñ‚Ñ‹ÑÑÑ‡ Ð¿Ñ€Ð¸ Ð²Ñ‹Ð²Ð¾Ð´Ðµ";
+$MESS["CURRENCY_LANG_ENTITY_DECIMALS_FIELD"] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ð´ÐµÑÑÑ‚Ð¸Ñ‡Ð½Ñ‹Ñ… Ð·Ð½Ð°ÐºÐ¾Ð²";
+$MESS["CURRENCY_LANG_ENTITY_THOUSANDS_VARIANT_FIELD"] = "Ð Ð°Ð·Ð´ÐµÐ»Ð¸Ñ‚ÐµÐ»ÑŒ Ñ‚Ñ‹ÑÑÑ‡ Ð¿Ñ€Ð¸ Ð²Ñ‹Ð²Ð¾Ð´Ðµ";
+$MESS["CURRENCY_LANG_ENTITY_HIDE_ZERO_FIELD"] = "Ð’ Ð¿ÑƒÐ±Ð»Ð¸Ñ‡Ð½Ð¾Ð¹ Ñ‡Ð°ÑÑ‚Ð¸ Ð½Ðµ Ð¿Ð¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ð½ÐµÐ·Ð½Ð°Ñ‡Ð°Ñ‰Ð¸Ðµ Ð½ÑƒÐ»Ð¸ Ð² Ð´Ñ€Ð¾Ð±Ð½Ð¾Ð¹ Ñ‡Ð°ÑÑ‚Ð¸ Ñ†ÐµÐ½Ñ‹";
+$MESS["CURRENCY_LANG_ENTITY_CREATED_BY_FIELD"] = "ÐšÐµÐ¼ ÑÐ¾Ð·Ð´Ð°Ð½Ð°";
+$MESS["CURRENCY_LANG_ENTITY_DATE_CREATE_FIELD"] = "Ð”Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ";
+$MESS["CURRENCY_LANG_ENTITY_MODIFIED_BY_FIELD"] = "ÐšÐµÐ¼ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð°";
+$MESS["CURRENCY_LANG_ENTITY_TIMESTAMP_X_FIELD"] = "Ð”Ð°Ñ‚Ð° Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ";
 ?>

@@ -1,4 +1,4 @@
 <?
-$MESS["SALE_LOCATION_GROUP_ENTITY_SORT_FIELD"] = "Ñîðòèðîâêà";
-$MESS["SALE_LOCATION_GROUP_ENTITY_CODE_FIELD"] = "Ñèìâîëüíûé êîä";
+$MESS["SALE_LOCATION_GROUP_ENTITY_SORT_FIELD"] = "Ð¡Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²ÐºÐ°";
+$MESS["SALE_LOCATION_GROUP_ENTITY_CODE_FIELD"] = "Ð¡Ð¸Ð¼Ð²Ð¾Ð»ÑŒÐ½Ñ‹Ð¹ ÐºÐ¾Ð´";
 ?>

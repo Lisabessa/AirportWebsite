@@ -1,5 +1,5 @@
 <?php
-$MESS["SALE_DLVR_RSTR_BY_WEIGHT_NAME"] = "ïî âåñó";
-$MESS["SALE_DLVR_RSTR_BY_WEIGHT_DESCRIPT"] = "Îãðàíè÷åíèå èñïîëüçîâàíèÿ ñëóæáû äîñòàâêè ïî âåñó çàêàçà";
-$MESS["SALE_DLVR_RSTR_BY_WEIGHT_MIN_WEIGHT"] = "Ìèíèìàëüíûé âåñ (ãðàìì)";
-$MESS["SALE_DLVR_RSTR_BY_WEIGHT_MAX_WEIGHT"] = "Ìàêñèìàëüíûé âåñ (ãðàìì)";
+$MESS["SALE_DLVR_RSTR_BY_WEIGHT_NAME"] = "Ð¿Ð¾ Ð²ÐµÑÑƒ";
+$MESS["SALE_DLVR_RSTR_BY_WEIGHT_DESCRIPT"] = "ÐžÐ³Ñ€Ð°Ð½Ð¸Ñ‡ÐµÐ½Ð¸Ðµ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð¸Ñ ÑÐ»ÑƒÐ¶Ð±Ñ‹ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸ Ð¿Ð¾ Ð²ÐµÑÑƒ Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["SALE_DLVR_RSTR_BY_WEIGHT_MIN_WEIGHT"] = "ÐœÐ¸Ð½Ð¸Ð¼Ð°Ð»ÑŒÐ½Ñ‹Ð¹ Ð²ÐµÑ (Ð³Ñ€Ð°Ð¼Ð¼)";
+$MESS["SALE_DLVR_RSTR_BY_WEIGHT_MAX_WEIGHT"] = "ÐœÐ°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ñ‹Ð¹ Ð²ÐµÑ (Ð³Ñ€Ð°Ð¼Ð¼)";

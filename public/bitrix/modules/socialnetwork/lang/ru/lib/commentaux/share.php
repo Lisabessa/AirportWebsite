@@ -1,5 +1,5 @@
 <?
-$MESS["SONET_COMMENTAUX_SHARE_TEXT"] = "Íîâûé ïîëó÷àòåëü: #SHARE_LIST#";
-$MESS["SONET_COMMENTAUX_SHARE_TEXT_1"] = "Íîâûå ïîëó÷àòåëè: #SHARE_LIST#";
-$MESS["SONET_COMMENTAUX_SHARE_HIDDEN"] = "Ñêðûòûé ïîëó÷àòåëü";
+$MESS["SONET_COMMENTAUX_SHARE_TEXT"] = "ÐÐ¾Ð²Ñ‹Ð¹ Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»ÑŒ: #SHARE_LIST#";
+$MESS["SONET_COMMENTAUX_SHARE_TEXT_1"] = "ÐÐ¾Ð²Ñ‹Ðµ Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ð¸: #SHARE_LIST#";
+$MESS["SONET_COMMENTAUX_SHARE_HIDDEN"] = "Ð¡ÐºÑ€Ñ‹Ñ‚Ñ‹Ð¹ Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»ÑŒ";
 ?>

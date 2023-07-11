@@ -1,3 +1,3 @@
 <?
-$MESS ['DEMO_IBLOCK_CONTENT_LINKS_MY_SECTION_NAME'] = "Ìîè ñàéòû";
+$MESS ['DEMO_IBLOCK_CONTENT_LINKS_MY_SECTION_NAME'] = "ÐœÐ¾Ð¸ ÑÐ°Ð¹Ñ‚Ñ‹";
 ?>

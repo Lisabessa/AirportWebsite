@@ -1,9 +1,9 @@
 <?php
 
-$MESS["SALE_EVENT_COMPATIBILITY_WRONG_ORDER"] = "Ïîëó÷åí íåêîððåêòíûé îáúåêò çàêàçà";
-$MESS["SALE_EVENT_COMPATIBILITY_WRONG_SHIPMENT"] = "Ïîëó÷åí íåêîððåêòíûé îáúåêò îòãðóçêè";
-$MESS["SALE_EVENT_COMPATIBILITY_WRONG_BASKET"] = "Ïîëó÷åí íåêîððåêòíûé îáúåêò êîðçèíû";
-$MESS["SALE_EVENT_COMPATIBILITY_WRONG_BASKET_ITEM"] = "Ïîëó÷åí íåêîððåêòíûé îáúåêò ýëåìåíòà êîðçèíû";
-$MESS["SALE_EVENT_COMPATIBILITY_WRONG_VALUES"] = "Ïîëó÷åíû íåêîððåêòíûå äàííûå";
-$MESS["SALE_EVENT_COMPATIBILITY_WRONG_ID"] = "Ïîëó÷åí íåêîððåêòíûé ID";
+$MESS["SALE_EVENT_COMPATIBILITY_WRONG_ORDER"] = "ÐŸÐ¾Ð»ÑƒÑ‡ÐµÐ½ Ð½ÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ñ‹Ð¹ Ð¾Ð±ÑŠÐµÐºÑ‚ Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["SALE_EVENT_COMPATIBILITY_WRONG_SHIPMENT"] = "ÐŸÐ¾Ð»ÑƒÑ‡ÐµÐ½ Ð½ÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ñ‹Ð¹ Ð¾Ð±ÑŠÐµÐºÑ‚ Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸";
+$MESS["SALE_EVENT_COMPATIBILITY_WRONG_BASKET"] = "ÐŸÐ¾Ð»ÑƒÑ‡ÐµÐ½ Ð½ÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ñ‹Ð¹ Ð¾Ð±ÑŠÐµÐºÑ‚ ÐºÐ¾Ñ€Ð·Ð¸Ð½Ñ‹";
+$MESS["SALE_EVENT_COMPATIBILITY_WRONG_BASKET_ITEM"] = "ÐŸÐ¾Ð»ÑƒÑ‡ÐµÐ½ Ð½ÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ñ‹Ð¹ Ð¾Ð±ÑŠÐµÐºÑ‚ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð° ÐºÐ¾Ñ€Ð·Ð¸Ð½Ñ‹";
+$MESS["SALE_EVENT_COMPATIBILITY_WRONG_VALUES"] = "ÐŸÐ¾Ð»ÑƒÑ‡ÐµÐ½Ñ‹ Ð½ÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ñ‹Ðµ Ð´Ð°Ð½Ð½Ñ‹Ðµ";
+$MESS["SALE_EVENT_COMPATIBILITY_WRONG_ID"] = "ÐŸÐ¾Ð»ÑƒÑ‡ÐµÐ½ Ð½ÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ñ‹Ð¹ ID";
 

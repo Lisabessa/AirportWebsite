@@ -1,16 +1,16 @@
 <?
-$MESS["MAIN_UNDO_ESCAPE_CHANGES"] = "Îòìåíèòü èçìåíåíèÿ";
-$MESS["MAIN_UNDO_ESCAPE_CHANGES_TITLE"] = "Îòìåíèòü ïîñëåäíåå âíåñåííîå èçìåíåíèå";
-$MESS["MAIN_UNDO_ESCAPE_ERROR"] = "Â ïðîöåññå îòìåíû èçìåíåíèé ïðîèçîøëà îøèáêà!";
-$MESS["MAIN_UNDO_ESCAPE_CHANGES_CONFIRM"] = "Âû äåéñòâèòåëüíî õîòèòå îòìåíèòü ïîñëåäíèå èçìåíåíèÿ?";
-$MESS["MAIN_UNDO_TYPE_NEW_FILE"] = "Ñòðàíèöà óñïåøíî ñîçäàíà.";
-$MESS["MAIN_UNDO_TYPE_NEW_SECTION"] = "Ðàçäåë óñïåøíî ñîçäàí.";
-$MESS["MAIN_UNDO_TYPE_EDIT_FILE"] = "Ñòðàíèöà óñïåøíî èçìåíåíà.";
-$MESS["MAIN_UNDO_TYPE_EDIT_SECTION"] = "Ñâîéñòâà ðàçäåëà óñïåøíî èçìåíåíû.";
-$MESS["MAIN_UNDO_TYPE_EDIT_MENU"] = "Ìåíþ óñïåøíî èçìåíåíî.";
-$MESS["MAIN_UNDO_TYPE_EDIT_COMPONENT_PROPS"] = "Ïàðàìåòðû êîìïîíåíòà óñïåøíî èçìåíåíû.";
-$MESS["MAIN_UNDO_TYPE_DISABLE_COMPONENT"] = "Êîìïîíåíò óñïåøíî îòêëþ÷åí.";
-$MESS["MAIN_UNDO_TYPE_ENABLE_COMPONENT"] = "Êîìïîíåíò óñïåøíî âêëþ÷åí.";
-$MESS["MAIN_UNDO_TYPE_DELETE_FILE"] = "Ñòðàíèöà óñïåøíî óäàëåíà.";
-$MESS["MAIN_UNDO_TYPE_DELETE_MENU"] = "Ôàéë ìåíþ óñïåøíî óäàëåí.";
+$MESS["MAIN_UNDO_ESCAPE_CHANGES"] = "ÐžÑ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ";
+$MESS["MAIN_UNDO_ESCAPE_CHANGES_TITLE"] = "ÐžÑ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ð¿Ð¾ÑÐ»ÐµÐ´Ð½ÐµÐµ Ð²Ð½ÐµÑÐµÐ½Ð½Ð¾Ðµ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ";
+$MESS["MAIN_UNDO_ESCAPE_ERROR"] = "Ð’ Ð¿Ñ€Ð¾Ñ†ÐµÑÑÐµ Ð¾Ñ‚Ð¼ÐµÐ½Ñ‹ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ð¹ Ð¿Ñ€Ð¾Ð¸Ð·Ð¾ÑˆÐ»Ð° Ð¾ÑˆÐ¸Ð±ÐºÐ°!";
+$MESS["MAIN_UNDO_ESCAPE_CHANGES_CONFIRM"] = "Ð’Ñ‹ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ Ð¾Ñ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ð¿Ð¾ÑÐ»ÐµÐ´Ð½Ð¸Ðµ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ?";
+$MESS["MAIN_UNDO_TYPE_NEW_FILE"] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° ÑƒÑÐ¿ÐµÑˆÐ½Ð¾ ÑÐ¾Ð·Ð´Ð°Ð½Ð°.";
+$MESS["MAIN_UNDO_TYPE_NEW_SECTION"] = "Ð Ð°Ð·Ð´ÐµÐ» ÑƒÑÐ¿ÐµÑˆÐ½Ð¾ ÑÐ¾Ð·Ð´Ð°Ð½.";
+$MESS["MAIN_UNDO_TYPE_EDIT_FILE"] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° ÑƒÑÐ¿ÐµÑˆÐ½Ð¾ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð°.";
+$MESS["MAIN_UNDO_TYPE_EDIT_SECTION"] = "Ð¡Ð²Ð¾Ð¹ÑÑ‚Ð²Ð° Ñ€Ð°Ð·Ð´ÐµÐ»Ð° ÑƒÑÐ¿ÐµÑˆÐ½Ð¾ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ñ‹.";
+$MESS["MAIN_UNDO_TYPE_EDIT_MENU"] = "ÐœÐµÐ½ÑŽ ÑƒÑÐ¿ÐµÑˆÐ½Ð¾ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¾.";
+$MESS["MAIN_UNDO_TYPE_EDIT_COMPONENT_PROPS"] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ ÐºÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚Ð° ÑƒÑÐ¿ÐµÑˆÐ½Ð¾ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ñ‹.";
+$MESS["MAIN_UNDO_TYPE_DISABLE_COMPONENT"] = "ÐšÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚ ÑƒÑÐ¿ÐµÑˆÐ½Ð¾ Ð¾Ñ‚ÐºÐ»ÑŽÑ‡ÐµÐ½.";
+$MESS["MAIN_UNDO_TYPE_ENABLE_COMPONENT"] = "ÐšÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚ ÑƒÑÐ¿ÐµÑˆÐ½Ð¾ Ð²ÐºÐ»ÑŽÑ‡ÐµÐ½.";
+$MESS["MAIN_UNDO_TYPE_DELETE_FILE"] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° ÑƒÑÐ¿ÐµÑˆÐ½Ð¾ ÑƒÐ´Ð°Ð»ÐµÐ½Ð°.";
+$MESS["MAIN_UNDO_TYPE_DELETE_MENU"] = "Ð¤Ð°Ð¹Ð» Ð¼ÐµÐ½ÑŽ ÑƒÑÐ¿ÐµÑˆÐ½Ð¾ ÑƒÐ´Ð°Ð»ÐµÐ½.";
 ?>

@@ -1,11 +1,11 @@
 <?
-$MESS["BT_MOD_SALE_ACT_IBLOCK_CONTROLGROUP_LABEL"] = "Ïîëÿ è õàðàêòåðèñòèêè òîâàðà â èíôîáëîêå";
-$MESS["BT_MOD_SALE_ACT_CATALOG_PRICE_TYPE_LABEL"] = "Òèï öåí";
-$MESS["BT_MOD_SALE_ACT_CATALOG_PRICE_TYPE_PREFIX"] = "Òèï öåí òîâàðà â êàòàëîãå";
-$MESS["BT_MOD_SALE_ACT_CATALOG_PRICE_TYPE_LOGIC_EQ_LABEL"] = "ðàâåí";
-$MESS["BT_MOD_SALE_ACT_CATALOG_PRICE_TYPE_LOGIC_NOT_EQ_LABEL"] = "íå ðàâåí";
-$MESS["BT_MOD_SALE_ACT_IBLOCK_ELEMENT_ID_LABEL"] = "Òîâàð";
-$MESS["BT_MOD_SALE_ACT_IBLOCK_ELEMENT_ID_PREFIX"] = "ïîëå Òîâàð";
-$MESS["BT_MOD_SALE_ACT_IBLOCK_SECTION_ID_LABEL"] = "Ðàçäåë";
-$MESS["BT_MOD_SALE_ACT_IBLOCK_SECTION_ID_PREFIX"] = "ïîëå Ðàçäåë";
+$MESS["BT_MOD_SALE_ACT_IBLOCK_CONTROLGROUP_LABEL"] = "ÐŸÐ¾Ð»Ñ Ð¸ Ñ…Ð°Ñ€Ð°ÐºÑ‚ÐµÑ€Ð¸ÑÑ‚Ð¸ÐºÐ¸ Ñ‚Ð¾Ð²Ð°Ñ€Ð° Ð² Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐµ";
+$MESS["BT_MOD_SALE_ACT_CATALOG_PRICE_TYPE_LABEL"] = "Ð¢Ð¸Ð¿ Ñ†ÐµÐ½";
+$MESS["BT_MOD_SALE_ACT_CATALOG_PRICE_TYPE_PREFIX"] = "Ð¢Ð¸Ð¿ Ñ†ÐµÐ½ Ñ‚Ð¾Ð²Ð°Ñ€Ð° Ð² ÐºÐ°Ñ‚Ð°Ð»Ð¾Ð³Ðµ";
+$MESS["BT_MOD_SALE_ACT_CATALOG_PRICE_TYPE_LOGIC_EQ_LABEL"] = "Ñ€Ð°Ð²ÐµÐ½";
+$MESS["BT_MOD_SALE_ACT_CATALOG_PRICE_TYPE_LOGIC_NOT_EQ_LABEL"] = "Ð½Ðµ Ñ€Ð°Ð²ÐµÐ½";
+$MESS["BT_MOD_SALE_ACT_IBLOCK_ELEMENT_ID_LABEL"] = "Ð¢Ð¾Ð²Ð°Ñ€";
+$MESS["BT_MOD_SALE_ACT_IBLOCK_ELEMENT_ID_PREFIX"] = "Ð¿Ð¾Ð»Ðµ Ð¢Ð¾Ð²Ð°Ñ€";
+$MESS["BT_MOD_SALE_ACT_IBLOCK_SECTION_ID_LABEL"] = "Ð Ð°Ð·Ð´ÐµÐ»";
+$MESS["BT_MOD_SALE_ACT_IBLOCK_SECTION_ID_PREFIX"] = "Ð¿Ð¾Ð»Ðµ Ð Ð°Ð·Ð´ÐµÐ»";
 ?>

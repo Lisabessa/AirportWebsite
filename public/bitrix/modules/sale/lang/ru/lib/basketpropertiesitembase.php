@@ -1,2 +1,2 @@
 <?php
-$MESS['SALE_BASKET_ITEM_PROPERTY_MAX_LENGTH_ERROR'] = "Ó ñâîéñòâà êîðçèíû \"#PROPERTY_NAME#\" ïîëå \"#FIELD_TITLE#\" ïðåâûøàåò ìàêñèìàëüíóþ äëèíó: #MAX_LENGTH#.";
+$MESS['SALE_BASKET_ITEM_PROPERTY_MAX_LENGTH_ERROR'] = "Ð£ ÑÐ²Ð¾Ð¹ÑÑ‚Ð²Ð° ÐºÐ¾Ñ€Ð·Ð¸Ð½Ñ‹ \"#PROPERTY_NAME#\" Ð¿Ð¾Ð»Ðµ \"#FIELD_TITLE#\" Ð¿Ñ€ÐµÐ²Ñ‹ÑˆÐ°ÐµÑ‚ Ð¼Ð°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½ÑƒÑŽ Ð´Ð»Ð¸Ð½Ñƒ: #MAX_LENGTH#.";

@@ -1,6 +1,6 @@
 <?
-$MESS["LISTS_FIELD_NO_VALUE"] = "(íå óñòàíîâëåíî)";
-$MESS["LISTS_FIELD_FILE_DOWNLOAD"] = "Ñêà÷àòü";
-$MESS["LISTS_FIELD_NOT_DATA"] = "Íåò äàííûõ";
-$MESS["LISTS_FIELD_ADD_BUTTON"] = "Äîáàâèòü";
+$MESS["LISTS_FIELD_NO_VALUE"] = "(Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð¾)";
+$MESS["LISTS_FIELD_FILE_DOWNLOAD"] = "Ð¡ÐºÐ°Ñ‡Ð°Ñ‚ÑŒ";
+$MESS["LISTS_FIELD_NOT_DATA"] = "ÐÐµÑ‚ Ð´Ð°Ð½Ð½Ñ‹Ñ…";
+$MESS["LISTS_FIELD_ADD_BUTTON"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ";
 ?>

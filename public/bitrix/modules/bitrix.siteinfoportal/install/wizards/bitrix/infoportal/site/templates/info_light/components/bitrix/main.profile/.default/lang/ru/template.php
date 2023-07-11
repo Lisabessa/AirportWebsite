@@ -1,10 +1,10 @@
 <?
-$MESS ['PROFILE_DATA_SAVED'] = "Èçìåíåíèÿ ñîõðàíåíû";
-$MESS ['NAME'] = "Èìÿ";
-$MESS ['LAST_NAME'] = "Ôàìèëèÿ";
-$MESS ['SECOND_NAME'] = "Îò÷åñòâî";
-$MESS ['NEW_PASSWORD_CONFIRM'] = "Ïîäòâåðæäåíèå ïàðîëÿ";
-$MESS ['NEW_PASSWORD_REQ'] = "Íîâûé ïàðîëü";
-$MESS ['MAIN_SAVE'] = "Ñîõðàíèòü íàñòðîéêè ïðîôèëÿ";
-$MESS ['MAIN_PSWD'] = "Ïàðîëü";
+$MESS ['PROFILE_DATA_SAVED'] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ñ‹";
+$MESS ['NAME'] = "Ð˜Ð¼Ñ";
+$MESS ['LAST_NAME'] = "Ð¤Ð°Ð¼Ð¸Ð»Ð¸Ñ";
+$MESS ['SECOND_NAME'] = "ÐžÑ‚Ñ‡ÐµÑÑ‚Ð²Ð¾";
+$MESS ['NEW_PASSWORD_CONFIRM'] = "ÐŸÐ¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð¸Ðµ Ð¿Ð°Ñ€Ð¾Ð»Ñ";
+$MESS ['NEW_PASSWORD_REQ'] = "ÐÐ¾Ð²Ñ‹Ð¹ Ð¿Ð°Ñ€Ð¾Ð»ÑŒ";
+$MESS ['MAIN_SAVE'] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð¿Ñ€Ð¾Ñ„Ð¸Ð»Ñ";
+$MESS ['MAIN_PSWD'] = "ÐŸÐ°Ñ€Ð¾Ð»ÑŒ";
 ?>

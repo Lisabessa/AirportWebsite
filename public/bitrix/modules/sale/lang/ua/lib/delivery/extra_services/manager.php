@@ -1,4 +1,4 @@
 <?
-$MESS["DELIVERY_SERVICE_MANAGER_ES_NAME"] = "Ñêëàäè ñàìîâèâîçó";
-$MESS["DELIVERY_SERVICE_MANAGER_ES_DESCRIPTION"] = "Ñêëàäè ç ÿêèõ ïîêóïåöü ìîæå çàáðàòè òîâàð ñàìîñò³éíî";
+$MESS["DELIVERY_SERVICE_MANAGER_ES_NAME"] = "Ð¡ÐºÐ»Ð°Ð´Ð¸ ÑÐ°Ð¼Ð¾Ð²Ð¸Ð²Ð¾Ð·Ñƒ";
+$MESS["DELIVERY_SERVICE_MANAGER_ES_DESCRIPTION"] = "Ð¡ÐºÐ»Ð°Ð´Ð¸ Ð· ÑÐºÐ¸Ñ… Ð¿Ð¾ÐºÑƒÐ¿ÐµÑ†ÑŒ Ð¼Ð¾Ð¶Ðµ Ð·Ð°Ð±Ñ€Ð°Ñ‚Ð¸ Ñ‚Ð¾Ð²Ð°Ñ€ ÑÐ°Ð¼Ð¾ÑÑ‚Ñ–Ð¹Ð½Ð¾";
 ?>

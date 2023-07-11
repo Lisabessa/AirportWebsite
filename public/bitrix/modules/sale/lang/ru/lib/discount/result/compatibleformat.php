@@ -1,5 +1,5 @@
 <?
-$MESS["BX_SALE_DISCOUNT_MESS_SIMPLE_DESCRIPTION_BASKET"] = "Èçìåíåíèå ñòîèìîñòè êîðçèíû";
-$MESS["BX_SALE_DISCOUNT_MESS_SIMPLE_DESCRIPTION_DELIVERY"] = "Èçìåíåíèå ñòîèìîñòè äîñòàâêè";
-$MESS["BX_SALE_DISCOUNT_MESS_SIMPLE_DESCRIPTION_UNKNOWN"] = "Íåèçâåñòíîå ïðàâèëî";
+$MESS["BX_SALE_DISCOUNT_MESS_SIMPLE_DESCRIPTION_BASKET"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ ÑÑ‚Ð¾Ð¸Ð¼Ð¾ÑÑ‚Ð¸ ÐºÐ¾Ñ€Ð·Ð¸Ð½Ñ‹";
+$MESS["BX_SALE_DISCOUNT_MESS_SIMPLE_DESCRIPTION_DELIVERY"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ ÑÑ‚Ð¾Ð¸Ð¼Ð¾ÑÑ‚Ð¸ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸";
+$MESS["BX_SALE_DISCOUNT_MESS_SIMPLE_DESCRIPTION_UNKNOWN"] = "ÐÐµÐ¸Ð·Ð²ÐµÑÑ‚Ð½Ð¾Ðµ Ð¿Ñ€Ð°Ð²Ð¸Ð»Ð¾";
 ?>

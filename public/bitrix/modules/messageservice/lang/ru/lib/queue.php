@@ -1,3 +1,3 @@
 <?
-$MESS["MESSAGESERVICE_QUEUE_SENDER_NOT_FOUND"] = "Ñëóæáà îòïðàâêè íå íàéäåíà";
-$MESS["MESSAGESERVICE_QUEUE_MESSAGE_TYPE_ERROR"] = "Íåïîääåðæèâàåìûé òèï ñîîáùåíèÿ";
+$MESS["MESSAGESERVICE_QUEUE_SENDER_NOT_FOUND"] = "Ð¡Ð»ÑƒÐ¶Ð±Ð° Ð¾Ñ‚Ð¿Ñ€Ð°Ð²ÐºÐ¸ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð°";
+$MESS["MESSAGESERVICE_QUEUE_MESSAGE_TYPE_ERROR"] = "ÐÐµÐ¿Ð¾Ð´Ð´ÐµÑ€Ð¶Ð¸Ð²Ð°ÐµÐ¼Ñ‹Ð¹ Ñ‚Ð¸Ð¿ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";

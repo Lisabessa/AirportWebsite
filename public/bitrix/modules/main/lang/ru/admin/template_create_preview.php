@@ -1,6 +1,6 @@
 <?
-$MESS ['MAIN_TP_ERROR_WORK_AREA'] = "Îøèáêà! Óñòàíîâèòå â øàáëîíå ðàçäåëèòåëü #WORK_AREA#.";
-$MESS ['MAIN_TP_ERROR_SAVE_FILE'] = "Îøèáêà ñîõðàíåíèÿ ôàéëà \"#FILE#\"";
-$MESS ['templ_create_err'] = "Øàáëîí ñ ID=#ID# íå íàéäåí.";
-$MESS ['templ_create_err1'] = "Îòñóòñòâóåò ID.";
+$MESS ['MAIN_TP_ERROR_WORK_AREA'] = "ÐžÑˆÐ¸Ð±ÐºÐ°! Ð£ÑÑ‚Ð°Ð½Ð¾Ð²Ð¸Ñ‚Ðµ Ð² ÑˆÐ°Ð±Ð»Ð¾Ð½Ðµ Ñ€Ð°Ð·Ð´ÐµÐ»Ð¸Ñ‚ÐµÐ»ÑŒ #WORK_AREA#.";
+$MESS ['MAIN_TP_ERROR_SAVE_FILE'] = "ÐžÑˆÐ¸Ð±ÐºÐ° ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð¸Ñ Ñ„Ð°Ð¹Ð»Ð° \"#FILE#\"";
+$MESS ['templ_create_err'] = "Ð¨Ð°Ð±Ð»Ð¾Ð½ Ñ ID=#ID# Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½.";
+$MESS ['templ_create_err1'] = "ÐžÑ‚ÑÑƒÑ‚ÑÑ‚Ð²ÑƒÐµÑ‚ ID.";
 ?>

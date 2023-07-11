@@ -1,5 +1,5 @@
 <?
-$MESS["main_incl_file_sec"] = "с";
-$MESS["main_incl_file_sql_stat"] = "Посмотреть статистику запросов";
-$MESS["main_incl_file_sql"] = "Запросов:";
-$MESS["main_incl_cache_stat"] = "кеш:";
+$MESS["main_incl_file_sec"] = "СЃ";
+$MESS["main_incl_file_sql_stat"] = "РџРѕСЃРјРѕС‚СЂРµС‚СЊ СЃС‚Р°С‚РёСЃС‚РёРєСѓ Р·Р°РїСЂРѕСЃРѕРІ";
+$MESS["main_incl_file_sql"] = "Р—Р°РїСЂРѕСЃРѕРІ:";
+$MESS["main_incl_cache_stat"] = "РєРµС€:";

@@ -1,18 +1,18 @@
 <?
-$MESS["SALE_LOCATION_L_ADD_ITEM"] = "Standort hinzufügen";
+$MESS["SALE_LOCATION_L_ADD_ITEM"] = "Standort hinzufÃ¼gen";
 $MESS["SALE_LOCATION_L_ANY"] = "beliebig";
-$MESS["SALE_LOCATION_L_CONFIRM_DELETE_ITEM"] = "Möchten Sie diesen Standort wirklich löschen? Alle untergeordneten Standorte werden somit auch gelöscht.";
+$MESS["SALE_LOCATION_L_CONFIRM_DELETE_ITEM"] = "MÃ¶chten Sie diesen Standort wirklich lÃ¶schen? Alle untergeordneten Standorte werden somit auch gelÃ¶scht.";
 $MESS["SALE_LOCATION_L_COPY_ITEM"] = "Standort kopieren";
 $MESS["SALE_LOCATION_L_CURRENT"] = "Nur aktuellen";
 $MESS["SALE_LOCATION_L_CURRENT_AND_LOWER"] = "Aktuellen und weitere unten bearbeiten";
-$MESS["SALE_LOCATION_L_DELETE_ITEM"] = "Standort löschen";
+$MESS["SALE_LOCATION_L_DELETE_ITEM"] = "Standort lÃ¶schen";
 $MESS["SALE_LOCATION_L_EDIT_CURRENT"] = "Aktuellen bearbeiten";
 $MESS["SALE_LOCATION_L_EDIT_ITEM"] = "Standort bearbeiten";
 $MESS["SALE_LOCATION_L_EDIT_PAGE_TITLE"] = "Standorte";
 $MESS["SALE_LOCATION_L_ERROR"] = "Der Import der Standorte ist evtl. fehlgeschlagen. Bitte importieren Sie Standorte erneut.";
 $MESS["SALE_LOCATION_L_FROM_AND_TO"] = "mit";
 $MESS["SALE_LOCATION_L_ITEM"] = "Standort";
-$MESS["SALE_LOCATION_L_ITEM_DELETE_ERROR"] = "Fehler beim Löschen des Standortes";
+$MESS["SALE_LOCATION_L_ITEM_DELETE_ERROR"] = "Fehler beim LÃ¶schen des Standortes";
 $MESS["SALE_LOCATION_L_ITEM_NOT_FOUND"] = "Der Standort mit angegebener ID wurde nicht gefunden.";
 $MESS["SALE_LOCATION_L_ITEM_SAVE_ERROR"] = "Der Standort #ITEM# konnte nicht aktualisiert werden.";
 $MESS["SALE_LOCATION_L_LEVEL"] = "Level";

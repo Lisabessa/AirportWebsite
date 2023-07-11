@@ -1,14 +1,14 @@
 <?
-$MESS["MAIN_WIZARD_ADMIN_TITLE"] = "Ñïèñîê ìàñòåðîâ";
-$MESS["MAIN_WIZARD_ADMIN_NAME"] = "Íàçâàíèå";
-$MESS["MAIN_WIZARD_ADMIN_DESC"] = "Îïèñàíèå";
-$MESS["MAIN_WIZARD_ADMIN_VERSION"] = "Âåðñèÿ";
-$MESS["MAIN_WIZARD_ADMIN_INSTALL"] = "Óñòàíîâèòü";
-$MESS["MAIN_WIZARD_ADMIN_LOAD"] = "Çàãðóçèòü ìàñòåð";
-$MESS["MAIN_WIZARD_ADMIN_LOAD_TITLE"] = "Èìïîðòèðîâàòü ìàñòåð èç øàáëîíà";
-$MESS["MAIN_ADMIN_MENU_DELETE_CONF"] = "Âû óâåðåíû ÷òî õîòèòå óäàëèòü äàííûé ìàñòåð?";
-$MESS["PAGES"] = "Ìàñòåðà";
-$MESS["MAIN_WIZARD_ADMIN_DOWNLOAD"] = "Ñêà÷àòü";
-$MESS["MAIN_WIZARD_DELETE_ERROR"] = "Îøèáêà óäàëåíèÿ ìàñòåðà";
-$MESS["MAIN_ADMIN_MENU_DELETE"] = "Óäàëèòü";
+$MESS["MAIN_WIZARD_ADMIN_TITLE"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð¼Ð°ÑÑ‚ÐµÑ€Ð¾Ð²";
+$MESS["MAIN_WIZARD_ADMIN_NAME"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
+$MESS["MAIN_WIZARD_ADMIN_DESC"] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ";
+$MESS["MAIN_WIZARD_ADMIN_VERSION"] = "Ð’ÐµÑ€ÑÐ¸Ñ";
+$MESS["MAIN_WIZARD_ADMIN_INSTALL"] = "Ð£ÑÑ‚Ð°Ð½Ð¾Ð²Ð¸Ñ‚ÑŒ";
+$MESS["MAIN_WIZARD_ADMIN_LOAD"] = "Ð—Ð°Ð³Ñ€ÑƒÐ·Ð¸Ñ‚ÑŒ Ð¼Ð°ÑÑ‚ÐµÑ€";
+$MESS["MAIN_WIZARD_ADMIN_LOAD_TITLE"] = "Ð˜Ð¼Ð¿Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ð¼Ð°ÑÑ‚ÐµÑ€ Ð¸Ð· ÑˆÐ°Ð±Ð»Ð¾Ð½Ð°";
+$MESS["MAIN_ADMIN_MENU_DELETE_CONF"] = "Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹ Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ Ð´Ð°Ð½Ð½Ñ‹Ð¹ Ð¼Ð°ÑÑ‚ÐµÑ€?";
+$MESS["PAGES"] = "ÐœÐ°ÑÑ‚ÐµÑ€Ð°";
+$MESS["MAIN_WIZARD_ADMIN_DOWNLOAD"] = "Ð¡ÐºÐ°Ñ‡Ð°Ñ‚ÑŒ";
+$MESS["MAIN_WIZARD_DELETE_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° ÑƒÐ´Ð°Ð»ÐµÐ½Ð¸Ñ Ð¼Ð°ÑÑ‚ÐµÑ€Ð°";
+$MESS["MAIN_ADMIN_MENU_DELETE"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";
 ?>

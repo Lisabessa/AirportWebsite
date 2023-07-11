@@ -1,10 +1,10 @@
 <?php
 $MESS['SALE_HPS_PLATON'] = 'Platon';
-$MESS['SALE_HPS_PLATON_API_KEY'] = 'Êëþ÷ API';
-$MESS['SALE_HPS_PLATON_API_KEY_DESCRIPTION'] = 'Êëþ÷ ïðåäîñòàâëÿåòñÿ íà ïî÷òó ìåð÷àíòó';
-$MESS['SALE_HPS_PLATON_PASSWORD'] = 'Ïàðîëü API';
-$MESS['SALE_HPS_PLATON_PAYMENT_DESCRIPTION'] = 'Îïèñàíèå ïëàòåæà';
-$MESS['SALE_HPS_PLATON_PAYMENT_DESCRIPTION_DESCRIPTION'] = 'Òåêñò ìîæåò ñîäåðæàòü ìåòêè: #PAYMENT_ID# - ID îïëàòû, #ORDER_ID# - ID çàêàçà, #PAYMENT_NUMBER# - íîìåð îïëàòû, #ORDER_NUMBER# - íîìåð çàêàçà, #USER_EMAIL# - Email ïîêóïàòåëÿ';
-$MESS['SALE_HPS_PLATON_INVOICE_DESCRIPTION_DEFAULT_TEMPLATE'] = 'Îïëàòà ¹#PAYMENT_NUMBER# çàêàçà ¹#ORDER_NUMBER# äëÿ #USER_EMAIL#';
-$MESS['SALE_HPS_PLATON_SUCCESS_URL'] = 'Àäðåñ, ïî êîòîðîìó áóäåò ïåðåíàïðàâëåí ïëàòåëüùèê ïîñëå óñïåøíîé îïëàòû';
-$MESS['SALE_HPS_PLATON_SUCCESS_URL_DESCRIPTION'] = 'Àäðåñ äîëæåí áûòü óêàçàí ïîëíîñòüþ, âêëþ÷àÿ èñïîëüçóåìûé ïðîòîêîë. Îñòàâüòå ïóñòûì äëÿ àâòîìàòè÷åñêîãî îïðåäåëåíèÿ àäðåñà (êëèåíò âåðíåòñÿ íà ñòðàíèöó, ñ êîòîðîé áûë âûïîëíåí ïåðåõîä íà îïëàòó)';
+$MESS['SALE_HPS_PLATON_API_KEY'] = 'ÐšÐ»ÑŽÑ‡ API';
+$MESS['SALE_HPS_PLATON_API_KEY_DESCRIPTION'] = 'ÐšÐ»ÑŽÑ‡ Ð¿Ñ€ÐµÐ´Ð¾ÑÑ‚Ð°Ð²Ð»ÑÐµÑ‚ÑÑ Ð½Ð° Ð¿Ð¾Ñ‡Ñ‚Ñƒ Ð¼ÐµÑ€Ñ‡Ð°Ð½Ñ‚Ñƒ';
+$MESS['SALE_HPS_PLATON_PASSWORD'] = 'ÐŸÐ°Ñ€Ð¾Ð»ÑŒ API';
+$MESS['SALE_HPS_PLATON_PAYMENT_DESCRIPTION'] = 'ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ð°';
+$MESS['SALE_HPS_PLATON_PAYMENT_DESCRIPTION_DESCRIPTION'] = 'Ð¢ÐµÐºÑÑ‚ Ð¼Ð¾Ð¶ÐµÑ‚ ÑÐ¾Ð´ÐµÑ€Ð¶Ð°Ñ‚ÑŒ Ð¼ÐµÑ‚ÐºÐ¸: #PAYMENT_ID# - ID Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹, #ORDER_ID# - ID Ð·Ð°ÐºÐ°Ð·Ð°, #PAYMENT_NUMBER# - Ð½Ð¾Ð¼ÐµÑ€ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹, #ORDER_NUMBER# - Ð½Ð¾Ð¼ÐµÑ€ Ð·Ð°ÐºÐ°Ð·Ð°, #USER_EMAIL# - Email Ð¿Ð¾ÐºÑƒÐ¿Ð°Ñ‚ÐµÐ»Ñ';
+$MESS['SALE_HPS_PLATON_INVOICE_DESCRIPTION_DEFAULT_TEMPLATE'] = 'ÐžÐ¿Ð»Ð°Ñ‚Ð° â„–#PAYMENT_NUMBER# Ð·Ð°ÐºÐ°Ð·Ð° â„–#ORDER_NUMBER# Ð´Ð»Ñ #USER_EMAIL#';
+$MESS['SALE_HPS_PLATON_SUCCESS_URL'] = 'ÐÐ´Ñ€ÐµÑ, Ð¿Ð¾ ÐºÐ¾Ñ‚Ð¾Ñ€Ð¾Ð¼Ñƒ Ð±ÑƒÐ´ÐµÑ‚ Ð¿ÐµÑ€ÐµÐ½Ð°Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½ Ð¿Ð»Ð°Ñ‚ÐµÐ»ÑŒÑ‰Ð¸Ðº Ð¿Ð¾ÑÐ»Ðµ ÑƒÑÐ¿ÐµÑˆÐ½Ð¾Ð¹ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹';
+$MESS['SALE_HPS_PLATON_SUCCESS_URL_DESCRIPTION'] = 'ÐÐ´Ñ€ÐµÑ Ð´Ð¾Ð»Ð¶ÐµÐ½ Ð±Ñ‹Ñ‚ÑŒ ÑƒÐºÐ°Ð·Ð°Ð½ Ð¿Ð¾Ð»Ð½Ð¾ÑÑ‚ÑŒÑŽ, Ð²ÐºÐ»ÑŽÑ‡Ð°Ñ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐµÐ¼Ñ‹Ð¹ Ð¿Ñ€Ð¾Ñ‚Ð¾ÐºÐ¾Ð». ÐžÑÑ‚Ð°Ð²ÑŒÑ‚Ðµ Ð¿ÑƒÑÑ‚Ñ‹Ð¼ Ð´Ð»Ñ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¾Ð³Ð¾ Ð¾Ð¿Ñ€ÐµÐ´ÐµÐ»ÐµÐ½Ð¸Ñ Ð°Ð´Ñ€ÐµÑÐ° (ÐºÐ»Ð¸ÐµÐ½Ñ‚ Ð²ÐµÑ€Ð½ÐµÑ‚ÑÑ Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ, Ñ ÐºÐ¾Ñ‚Ð¾Ñ€Ð¾Ð¹ Ð±Ñ‹Ð» Ð²Ñ‹Ð¿Ð¾Ð»Ð½ÐµÐ½ Ð¿ÐµÑ€ÐµÑ…Ð¾Ð´ Ð½Ð° Ð¾Ð¿Ð»Ð°Ñ‚Ñƒ)';

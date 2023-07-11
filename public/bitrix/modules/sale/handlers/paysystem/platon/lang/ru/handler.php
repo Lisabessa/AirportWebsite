@@ -1,13 +1,13 @@
 <?php
-$MESS['SALE_HPS_PLATON_TRANSACTION_DESCRIPTION'] = 'Òðàíçàêöèÿ #ID#, íîìåð ïëàòåæà #PAYMENT_NUMBER#';
-$MESS['SALE_HPS_PLATON_SUM_MISMATCH'] = 'Ñóììà ïëàòåæà íå ñîâïàäàåò ñ ñóììîé îïëàòû';
-$MESS['SALE_HPS_PLATON_SIGNATURE_MISMATCH'] = 'Îøèáêà ïðîâåðêè ïîäëèííîñòè óâåäîìëåíèÿ.';
-$MESS['SALE_HPS_PLATON_RESPONSE_ERROR'] = 'Ïðè îáðàáîòêå çàïðîñà ïðîèçîøëà îøèáêà. Îòâåò ïëàò¸æíîé ñèñòåìû: #PS_RESPONSE#';
-$MESS['SALE_HPS_PLATON_REFUND_ERROR'] = 'Ïðè îáðàáîòêå çàïðîñà íà âîçâðàò ïðîèçîøëà îøèáêà.';
-$MESS['SALE_HPS_PLATON_ERROR_CARD_NOT_FOUND'] = 'Íîìåð êàðòû íå íàéäåí';
-$MESS['SALE_HPS_PLATON_REFUND_IN_PROCESS'] = '(â ïðîöåññå âîçâðàòà)';
-$MESS['SALE_HPS_PLATON_REQUEST_ERROR'] = 'Îøèáêà îáðàáîòêè çàïðîñà îò ñåðâèñà';
-$MESS['SALE_HPS_PLATON_MODE_CARD'] = 'Îïëàòà êàðòîé';
-$MESS['SALE_HPS_PLATON_MODE_APPLE_PAY'] = 'Îïëàòà Apple Pay';
-$MESS['SALE_HPS_PLATON_MODE_GOOGLE_PAY'] = 'Îïëàòà Google Pay';
-$MESS['SALE_HPS_PLATON_MODE_PRIVAT24'] = 'Îïëàòà Ïðèâàò24';
+$MESS['SALE_HPS_PLATON_TRANSACTION_DESCRIPTION'] = 'Ð¢Ñ€Ð°Ð½Ð·Ð°ÐºÑ†Ð¸Ñ #ID#, Ð½Ð¾Ð¼ÐµÑ€ Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ð° #PAYMENT_NUMBER#';
+$MESS['SALE_HPS_PLATON_SUM_MISMATCH'] = 'Ð¡ÑƒÐ¼Ð¼Ð° Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ð° Ð½Ðµ ÑÐ¾Ð²Ð¿Ð°Ð´Ð°ÐµÑ‚ Ñ ÑÑƒÐ¼Ð¼Ð¾Ð¹ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹';
+$MESS['SALE_HPS_PLATON_SIGNATURE_MISMATCH'] = 'ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¾Ð²ÐµÑ€ÐºÐ¸ Ð¿Ð¾Ð´Ð»Ð¸Ð½Ð½Ð¾ÑÑ‚Ð¸ ÑƒÐ²ÐµÐ´Ð¾Ð¼Ð»ÐµÐ½Ð¸Ñ.';
+$MESS['SALE_HPS_PLATON_RESPONSE_ERROR'] = 'ÐŸÑ€Ð¸ Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐµ Ð·Ð°Ð¿Ñ€Ð¾ÑÐ° Ð¿Ñ€Ð¾Ð¸Ð·Ð¾ÑˆÐ»Ð° Ð¾ÑˆÐ¸Ð±ÐºÐ°. ÐžÑ‚Ð²ÐµÑ‚ Ð¿Ð»Ð°Ñ‚Ñ‘Ð¶Ð½Ð¾Ð¹ ÑÐ¸ÑÑ‚ÐµÐ¼Ñ‹: #PS_RESPONSE#';
+$MESS['SALE_HPS_PLATON_REFUND_ERROR'] = 'ÐŸÑ€Ð¸ Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐµ Ð·Ð°Ð¿Ñ€Ð¾ÑÐ° Ð½Ð° Ð²Ð¾Ð·Ð²Ñ€Ð°Ñ‚ Ð¿Ñ€Ð¾Ð¸Ð·Ð¾ÑˆÐ»Ð° Ð¾ÑˆÐ¸Ð±ÐºÐ°.';
+$MESS['SALE_HPS_PLATON_ERROR_CARD_NOT_FOUND'] = 'ÐÐ¾Ð¼ÐµÑ€ ÐºÐ°Ñ€Ñ‚Ñ‹ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½';
+$MESS['SALE_HPS_PLATON_REFUND_IN_PROCESS'] = '(Ð² Ð¿Ñ€Ð¾Ñ†ÐµÑÑÐµ Ð²Ð¾Ð·Ð²Ñ€Ð°Ñ‚Ð°)';
+$MESS['SALE_HPS_PLATON_REQUEST_ERROR'] = 'ÐžÑˆÐ¸Ð±ÐºÐ° Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ¸ Ð·Ð°Ð¿Ñ€Ð¾ÑÐ° Ð¾Ñ‚ ÑÐµÑ€Ð²Ð¸ÑÐ°';
+$MESS['SALE_HPS_PLATON_MODE_CARD'] = 'ÐžÐ¿Ð»Ð°Ñ‚Ð° ÐºÐ°Ñ€Ñ‚Ð¾Ð¹';
+$MESS['SALE_HPS_PLATON_MODE_APPLE_PAY'] = 'ÐžÐ¿Ð»Ð°Ñ‚Ð° Apple Pay';
+$MESS['SALE_HPS_PLATON_MODE_GOOGLE_PAY'] = 'ÐžÐ¿Ð»Ð°Ñ‚Ð° Google Pay';
+$MESS['SALE_HPS_PLATON_MODE_PRIVAT24'] = 'ÐžÐ¿Ð»Ð°Ñ‚Ð° ÐŸÑ€Ð¸Ð²Ð°Ñ‚24';

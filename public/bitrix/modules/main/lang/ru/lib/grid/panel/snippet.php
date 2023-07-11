@@ -1,10 +1,10 @@
 <?
-$MESS["REMOVE_BUTTON_TITLE"] = "Óäàëèòü îòìå÷åííûå ýëåìåíòû";
-$MESS["EDIT_BUTTON_TITLE"] = "Ðåäàêòèðîâàòü îòìå÷åííûå ýëåìåíòû";
-$MESS["EDIT_ACTION_NAME"] = "Ðåäàêòèðîâàòü";
-$MESS["REMOVE_ACTION_NAME"] = "Óäàëèòü";
-$MESS["CONFIRM_APPLY_REMOVE_BUTTON_TEXT"] = "Óäàëèòü";
-$MESS["CONFIRM_CANCEL_BUTTON_TEXT"] = "Îòìåíèòü";
-$MESS["SAVE_BUTTON_TEXT"] = "Ñîõðàíèòü";
-$MESS["CANCEL_BUTTON_TEXT"] = "Îòìåíèòü";
-$MESS["APPLY_BUTTON_TEXT"] = "Ïðèìåíèòü";
+$MESS["REMOVE_BUTTON_TITLE"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ Ð¾Ñ‚Ð¼ÐµÑ‡ÐµÐ½Ð½Ñ‹Ðµ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ñ‹";
+$MESS["EDIT_BUTTON_TITLE"] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ð¾Ñ‚Ð¼ÐµÑ‡ÐµÐ½Ð½Ñ‹Ðµ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ñ‹";
+$MESS["EDIT_ACTION_NAME"] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ";
+$MESS["REMOVE_ACTION_NAME"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";
+$MESS["CONFIRM_APPLY_REMOVE_BUTTON_TEXT"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";
+$MESS["CONFIRM_CANCEL_BUTTON_TEXT"] = "ÐžÑ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
+$MESS["SAVE_BUTTON_TEXT"] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ";
+$MESS["CANCEL_BUTTON_TEXT"] = "ÐžÑ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
+$MESS["APPLY_BUTTON_TEXT"] = "ÐŸÑ€Ð¸Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";

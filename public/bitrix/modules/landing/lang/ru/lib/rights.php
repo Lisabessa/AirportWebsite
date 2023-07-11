@@ -1,4 +1,4 @@
 <?php
-$MESS['LANDING_RIGHTS_R_MENU24'] = 'Ïîêàç ïóíêòà â ìåíþ';
-$MESS['LANDING_RIGHTS_R_CREATE'] = 'Ñîçäàíèå íîâûõ ñàéòîâ';
-$MESS['LANDING_RIGHTS_R_KNOWLEDGE24'] = 'Ñîçäàíèå íîâûõ áàç çíàíèé';
+$MESS['LANDING_RIGHTS_R_MENU24'] = 'ÐŸÐ¾ÐºÐ°Ð· Ð¿ÑƒÐ½ÐºÑ‚Ð° Ð² Ð¼ÐµÐ½ÑŽ';
+$MESS['LANDING_RIGHTS_R_CREATE'] = 'Ð¡Ð¾Ð·Ð´Ð°Ð½Ð¸Ðµ Ð½Ð¾Ð²Ñ‹Ñ… ÑÐ°Ð¹Ñ‚Ð¾Ð²';
+$MESS['LANDING_RIGHTS_R_KNOWLEDGE24'] = 'Ð¡Ð¾Ð·Ð´Ð°Ð½Ð¸Ðµ Ð½Ð¾Ð²Ñ‹Ñ… Ð±Ð°Ð· Ð·Ð½Ð°Ð½Ð¸Ð¹';

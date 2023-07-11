@@ -1,6 +1,6 @@
 <?
-$MESS ['STAT_CITY_GEOIP_MOD_DESCR'] = "Модуль apache <a href=\"http://www.maxmind.com/app/mod_geoip\" target=\"_blank\">mod_geoip</a>. Требуется версия старше или равная 1.2.5.";
-$MESS ['STAT_CITY_GEOIP_MOD_CONTINENT'] = "Континент";
-$MESS ['STAT_CITY_GEOIP_MOD_LONGITUDE'] = "Долгота";
-$MESS ['STAT_CITY_GEOIP_MOD_LATITUDE'] = "Широта";
+$MESS ['STAT_CITY_GEOIP_MOD_DESCR'] = "РњРѕРґСѓР»СЊ apache <a href=\"http://www.maxmind.com/app/mod_geoip\" target=\"_blank\">mod_geoip</a>. РўСЂРµР±СѓРµС‚СЃСЏ РІРµСЂСЃРёСЏ СЃС‚Р°СЂС€Рµ РёР»Рё СЂР°РІРЅР°СЏ 1.2.5.";
+$MESS ['STAT_CITY_GEOIP_MOD_CONTINENT'] = "РљРѕРЅС‚РёРЅРµРЅС‚";
+$MESS ['STAT_CITY_GEOIP_MOD_LONGITUDE'] = "Р”РѕР»РіРѕС‚Р°";
+$MESS ['STAT_CITY_GEOIP_MOD_LATITUDE'] = "РЁРёСЂРѕС‚Р°";
 ?>

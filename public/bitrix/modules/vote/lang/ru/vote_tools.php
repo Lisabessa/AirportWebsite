@@ -1,6 +1,6 @@
 <?
-$MESS ['VOTE_PUBLIC_ICON_TEMPLATE'] = "Ðåäàêòèðîâàòü øàáëîí";
-$MESS ['VOTE_PUBLIC_ICON_HANDLER'] = "Ðåäàêòèðîâàòü òåêóùèé ôàéë";
-$MESS ['VOTE_PUBLIC_ICON_SETTINGS'] = "Íàñòðîéêè îïðîñà";
+$MESS ['VOTE_PUBLIC_ICON_TEMPLATE'] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ ÑˆÐ°Ð±Ð»Ð¾Ð½";
+$MESS ['VOTE_PUBLIC_ICON_HANDLER'] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ñ‚ÐµÐºÑƒÑ‰Ð¸Ð¹ Ñ„Ð°Ð¹Ð»";
+$MESS ['VOTE_PUBLIC_ICON_SETTINGS'] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð¾Ð¿Ñ€Ð¾ÑÐ°";
 
 ?>

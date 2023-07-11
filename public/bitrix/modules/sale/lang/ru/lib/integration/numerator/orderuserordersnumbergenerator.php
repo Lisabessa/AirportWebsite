@@ -1,2 +1,2 @@
 <?
-$MESS["BITRIX_SALE_INTEGRATION_NUMERATOR_ORDERUSERORDERSNUMBERGENERATOR_WORD_USER_ID_ORDERS_COUNT"] = "Èäåíòèôèêàòîð è íîìåð çàêàçà ïîëüçîâàòåëÿ";
+$MESS["BITRIX_SALE_INTEGRATION_NUMERATOR_ORDERUSERORDERSNUMBERGENERATOR_WORD_USER_ID_ORDERS_COUNT"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¸ Ð½Ð¾Ð¼ÐµÑ€ Ð·Ð°ÐºÐ°Ð·Ð° Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";

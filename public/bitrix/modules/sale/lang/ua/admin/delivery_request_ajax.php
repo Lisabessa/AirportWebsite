@@ -1,16 +1,16 @@
 <?
-$MESS["SALE_DELIVERY_REQ_AJAX_CREATE"] = "Ñòâîðåííÿ òðàíñïîðòíî¿ çàÿâêè";
-$MESS["SALE_DELIVERY_REQ_AJAX_DELIVERY_NOT_FOUND"] = "Ñëóæáó äîñòàâêè ç ³äåíòèô³êàòîðîì \"#DELIVERY_ID#\" çíàéòè íå âäàëîñÿ";
-$MESS["SALE_DELIVERY_REQ_AJAX_NOT_SUPPORT"] = "Ñëóæáà äîñòàâêè ç ³äåíòèô³êàòîðîì \"#DELIVERY_ID#\" íå ï³äòðèìóº òðàíñïîðòí³ çàÿâêè";
-$MESS["SALE_DELIVERY_REQ_AJAX_REQUEST_NUMBER"] = "Íîìåð çàÿâêè";
-$MESS["SALE_DELIVERY_REQ_AJAX_NO_REQUESTS"] = "Íåìàº æîäíî¿ â³äïîâ³äíî¿ çàÿâêè";
-$MESS["SALE_DELIVERY_REQ_AJAX_SHIPMENTS_ADD"] = "Äîäàâàííÿ â³äâàíòàæåíü â òðàíñïîðòíó çàÿâêó";
-$MESS["SALE_DELIVERY_REQ_AJAX_FILE_SAVE_ERROR"] = "Ïîìèëêà çáåðåæåííÿ ôàéëó";
-$MESS["SALE_DELIVERY_REQ_AJAX_ACTION_DONE"] = "Ä³ÿ \"#ACTION_NAME#\" óñï³øíî âèêîíàíà";
-$MESS["SALE_DELIVERY_REQ_AJAX_ACTION"] = "Ä³ÿ";
-$MESS["SALE_DELIVERY_REQ_AJAX_SLIST_EMPTY"] = "Ñïèñîê ³äåíòèô³êàòîð³â â³äâàíòàæåíü ïîðîæí³é";
-$MESS["SALE_DELIVERY_REQ_AJAX_DELETE_SHIPMENT"] = "Âèäàëåííÿ â³äâàíòàæåíü ç òðàíñïîðòíî¿ çàÿâêè";
-$MESS["SALE_DELIVERY_REQ_AJAX_UPDATE_SHIPMENT"] = "Îíîâëåííÿ â³äâàíòàæåíü â òðàíñïîðòí³é çàÿâö³";
-$MESS["SALE_DELIVERY_REQ_AJAX_UPDATE_SHIPMENT_SUCCESS"] = "Â³äâàíòàæåííÿ c ³äåíòèô³êàòîðîì #SHIPMENT_ID# óñï³øíî îíîâëåíå";
-$MESS["SALE_DELIVERY_REQ_AJAX_DEL_SHIPMENT_SUCCESS"] = "Â³äâàíòàæåííÿ c ³äåíòèô³êàòîðîì \"#SHIPMENT_ID#\" óñï³øíî âèäàëåíå ç òðàíñïîðòíî¿ çàÿâêè \"#REQUEST_ID#\"";
+$MESS["SALE_DELIVERY_REQ_AJAX_CREATE"] = "Ð¡Ñ‚Ð²Ð¾Ñ€ÐµÐ½Ð½Ñ Ñ‚Ñ€Ð°Ð½ÑÐ¿Ð¾Ñ€Ñ‚Ð½Ð¾Ñ— Ð·Ð°ÑÐ²ÐºÐ¸";
+$MESS["SALE_DELIVERY_REQ_AJAX_DELIVERY_NOT_FOUND"] = "Ð¡Ð»ÑƒÐ¶Ð±Ñƒ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸ Ð· Ñ–Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÐ°Ñ‚Ð¾Ñ€Ð¾Ð¼ \"#DELIVERY_ID#\" Ð·Ð½Ð°Ð¹Ñ‚Ð¸ Ð½Ðµ Ð²Ð´Ð°Ð»Ð¾ÑÑ";
+$MESS["SALE_DELIVERY_REQ_AJAX_NOT_SUPPORT"] = "Ð¡Ð»ÑƒÐ¶Ð±Ð° Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸ Ð· Ñ–Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÐ°Ñ‚Ð¾Ñ€Ð¾Ð¼ \"#DELIVERY_ID#\" Ð½Ðµ Ð¿Ñ–Ð´Ñ‚Ñ€Ð¸Ð¼ÑƒÑ” Ñ‚Ñ€Ð°Ð½ÑÐ¿Ð¾Ñ€Ñ‚Ð½Ñ– Ð·Ð°ÑÐ²ÐºÐ¸";
+$MESS["SALE_DELIVERY_REQ_AJAX_REQUEST_NUMBER"] = "ÐÐ¾Ð¼ÐµÑ€ Ð·Ð°ÑÐ²ÐºÐ¸";
+$MESS["SALE_DELIVERY_REQ_AJAX_NO_REQUESTS"] = "ÐÐµÐ¼Ð°Ñ” Ð¶Ð¾Ð´Ð½Ð¾Ñ— Ð²Ñ–Ð´Ð¿Ð¾Ð²Ñ–Ð´Ð½Ð¾Ñ— Ð·Ð°ÑÐ²ÐºÐ¸";
+$MESS["SALE_DELIVERY_REQ_AJAX_SHIPMENTS_ADD"] = "Ð”Ð¾Ð´Ð°Ð²Ð°Ð½Ð½Ñ Ð²Ñ–Ð´Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½ÑŒ Ð² Ñ‚Ñ€Ð°Ð½ÑÐ¿Ð¾Ñ€Ñ‚Ð½Ñƒ Ð·Ð°ÑÐ²ÐºÑƒ";
+$MESS["SALE_DELIVERY_REQ_AJAX_FILE_SAVE_ERROR"] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ° Ð·Ð±ÐµÑ€ÐµÐ¶ÐµÐ½Ð½Ñ Ñ„Ð°Ð¹Ð»Ñƒ";
+$MESS["SALE_DELIVERY_REQ_AJAX_ACTION_DONE"] = "Ð”Ñ–Ñ \"#ACTION_NAME#\" ÑƒÑÐ¿Ñ–ÑˆÐ½Ð¾ Ð²Ð¸ÐºÐ¾Ð½Ð°Ð½Ð°";
+$MESS["SALE_DELIVERY_REQ_AJAX_ACTION"] = "Ð”Ñ–Ñ";
+$MESS["SALE_DELIVERY_REQ_AJAX_SLIST_EMPTY"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ñ–Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÐ°Ñ‚Ð¾Ñ€Ñ–Ð² Ð²Ñ–Ð´Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½ÑŒ Ð¿Ð¾Ñ€Ð¾Ð¶Ð½Ñ–Ð¹";
+$MESS["SALE_DELIVERY_REQ_AJAX_DELETE_SHIPMENT"] = "Ð’Ð¸Ð´Ð°Ð»ÐµÐ½Ð½Ñ Ð²Ñ–Ð´Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½ÑŒ Ð· Ñ‚Ñ€Ð°Ð½ÑÐ¿Ð¾Ñ€Ñ‚Ð½Ð¾Ñ— Ð·Ð°ÑÐ²ÐºÐ¸";
+$MESS["SALE_DELIVERY_REQ_AJAX_UPDATE_SHIPMENT"] = "ÐžÐ½Ð¾Ð²Ð»ÐµÐ½Ð½Ñ Ð²Ñ–Ð´Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½ÑŒ Ð² Ñ‚Ñ€Ð°Ð½ÑÐ¿Ð¾Ñ€Ñ‚Ð½Ñ–Ð¹ Ð·Ð°ÑÐ²Ñ†Ñ–";
+$MESS["SALE_DELIVERY_REQ_AJAX_UPDATE_SHIPMENT_SUCCESS"] = "Ð’Ñ–Ð´Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ c Ñ–Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÐ°Ñ‚Ð¾Ñ€Ð¾Ð¼ #SHIPMENT_ID# ÑƒÑÐ¿Ñ–ÑˆÐ½Ð¾ Ð¾Ð½Ð¾Ð²Ð»ÐµÐ½Ðµ";
+$MESS["SALE_DELIVERY_REQ_AJAX_DEL_SHIPMENT_SUCCESS"] = "Ð’Ñ–Ð´Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ c Ñ–Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÐ°Ñ‚Ð¾Ñ€Ð¾Ð¼ \"#SHIPMENT_ID#\" ÑƒÑÐ¿Ñ–ÑˆÐ½Ð¾ Ð²Ð¸Ð´Ð°Ð»ÐµÐ½Ðµ Ð· Ñ‚Ñ€Ð°Ð½ÑÐ¿Ð¾Ñ€Ñ‚Ð½Ð¾Ñ— Ð·Ð°ÑÐ²ÐºÐ¸ \"#REQUEST_ID#\"";
 ?>

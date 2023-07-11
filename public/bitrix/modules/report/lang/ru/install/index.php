@@ -1,6 +1,6 @@
 <?php
-$MESS['REPORT_MODULE_NAME'] = 'Êîíñòðóêòîð îò÷åòîâ';
-$MESS['REPORT_MODULE_DESC'] = 'Ñîçäàíèå è ãåíåðàöèÿ îò÷åòîâ';
-$MESS['REPORT_INSTALL_TITLE'] = 'Óñòàíîâêà êîíñòðóêòîðà îò÷åòîâ';
-$MESS['REPORT_UNINSTALL_TITLE'] = 'Óäàëåíèå êîíñòðóêòîðà îò÷åòîâ';
+$MESS['REPORT_MODULE_NAME'] = 'ÐšÐ¾Ð½ÑÑ‚Ñ€ÑƒÐºÑ‚Ð¾Ñ€ Ð¾Ñ‚Ñ‡ÐµÑ‚Ð¾Ð²';
+$MESS['REPORT_MODULE_DESC'] = 'Ð¡Ð¾Ð·Ð´Ð°Ð½Ð¸Ðµ Ð¸ Ð³ÐµÐ½ÐµÑ€Ð°Ñ†Ð¸Ñ Ð¾Ñ‚Ñ‡ÐµÑ‚Ð¾Ð²';
+$MESS['REPORT_INSTALL_TITLE'] = 'Ð£ÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ° ÐºÐ¾Ð½ÑÑ‚Ñ€ÑƒÐºÑ‚Ð¾Ñ€Ð° Ð¾Ñ‚Ñ‡ÐµÑ‚Ð¾Ð²';
+$MESS['REPORT_UNINSTALL_TITLE'] = 'Ð£Ð´Ð°Ð»ÐµÐ½Ð¸Ðµ ÐºÐ¾Ð½ÑÑ‚Ñ€ÑƒÐºÑ‚Ð¾Ñ€Ð° Ð¾Ñ‚Ñ‡ÐµÑ‚Ð¾Ð²';
 ?>

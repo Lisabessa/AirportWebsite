@@ -1,3 +1,3 @@
 <?php
-$MESS["SALE_PS_AJAX_PARAMS_ERROR"] = "Îøèáêà âõîäíûõ ïàðàìåòðîâ";
-$MESS["SALE_PS_AJAX_ORDER_PAID_ERROR"] = "Çàêàç íåäîñòóïåí äëÿ îïëàòû";
+$MESS["SALE_PS_AJAX_PARAMS_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð²Ñ…Ð¾Ð´Ð½Ñ‹Ñ… Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð¾Ð²";
+$MESS["SALE_PS_AJAX_ORDER_PAID_ERROR"] = "Ð—Ð°ÐºÐ°Ð· Ð½ÐµÐ´Ð¾ÑÑ‚ÑƒÐ¿ÐµÐ½ Ð´Ð»Ñ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹";

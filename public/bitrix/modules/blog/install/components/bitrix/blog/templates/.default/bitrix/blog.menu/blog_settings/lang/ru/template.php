@@ -1,6 +1,6 @@
 <?
-$MESS ['BLOG_MENU_USER_SETTINGS'] = "Íàñòðîéêà ïîëüçîâàòåëåé";
-$MESS ['BLOG_MENU_USER_SETTINGS_TITLE'] = "Íàñòðîéêà ïîëüçîâàòåëåé ìîåãî áëîãà";
-$MESS ['BLOG_MENU_BLOG_EDIT'] = "Íàñòðîéêà áëîãà";
-$MESS ['BLOG_MENU_BLOG_EDIT_TITLE'] = "Íàñòðîéêà ìîåãî áëîãà";
+$MESS ['BLOG_MENU_USER_SETTINGS'] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÐµÐ¹";
+$MESS ['BLOG_MENU_USER_SETTINGS_TITLE'] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÐµÐ¹ Ð¼Ð¾ÐµÐ³Ð¾ Ð±Ð»Ð¾Ð³Ð°";
+$MESS ['BLOG_MENU_BLOG_EDIT'] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° Ð±Ð»Ð¾Ð³Ð°";
+$MESS ['BLOG_MENU_BLOG_EDIT_TITLE'] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° Ð¼Ð¾ÐµÐ³Ð¾ Ð±Ð»Ð¾Ð³Ð°";
 ?>

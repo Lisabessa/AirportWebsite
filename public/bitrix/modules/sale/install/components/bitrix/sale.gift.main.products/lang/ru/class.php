@@ -1,4 +1,4 @@
 <?
-$MESS["CVP_CATALOG_MODULE_NOT_INSTALLED"] = "Модуль Каталогов не установлен";
-$MESS["CVP_SALE_MODULE_NOT_INSTALLED"] = "Модуль магазина не установлен";
+$MESS["CVP_CATALOG_MODULE_NOT_INSTALLED"] = "РњРѕРґСѓР»СЊ РљР°С‚Р°Р»РѕРіРѕРІ РЅРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅ";
+$MESS["CVP_SALE_MODULE_NOT_INSTALLED"] = "РњРѕРґСѓР»СЊ РјР°РіР°Р·РёРЅР° РЅРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅ";
 ?>

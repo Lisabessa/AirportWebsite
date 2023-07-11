@@ -1,13 +1,13 @@
 <?
-$MESS["DEMO_ADV_TOP_TYPE"] = "Âåðõíèé áàííåð";
-$MESS["DEMO_ADV_LEFT1_TYPE"] = "Âåðõíèé ëåâûé áàíåð";
-$MESS["DEMO_ADV_LEFT2_TYPE"] = "Íèæíèé ëåâûé áàíåð";
-$MESS["DEMO_ADV_TOP_NAME"] = "Âåðõíèé áàííåð";
-$MESS["DEMO_ADV_LEFT_1_NAME"] = "Ðàçìåñòèòå ñâîå îáúÿâëåíèå";
-$MESS["DEMO_ADV_LEFT_2_NAME"] = "Íåçàáûâàåìûé îòäûõ â íàøåé ãîñòèíèöå";
-$MESS["CONTRACT_DESC"] = "Âñå áàíåðû èíôîðìàöèîííîãî ïîðòàëà";
-$MESS["DEMO_ADV_980_1_NAME"] = "Îòêðîé ãîðîä äëÿ ñåáÿ! Òû æèòåëü ýòîãî ãîðîäà";
-$MESS["DEMO_ADV_980_2_NAME"] = "Óïðàâëåíèå ñàéòîì";
+$MESS["DEMO_ADV_TOP_TYPE"] = "Ð’ÐµÑ€Ñ…Ð½Ð¸Ð¹ Ð±Ð°Ð½Ð½ÐµÑ€";
+$MESS["DEMO_ADV_LEFT1_TYPE"] = "Ð’ÐµÑ€Ñ…Ð½Ð¸Ð¹ Ð»ÐµÐ²Ñ‹Ð¹ Ð±Ð°Ð½ÐµÑ€";
+$MESS["DEMO_ADV_LEFT2_TYPE"] = "ÐÐ¸Ð¶Ð½Ð¸Ð¹ Ð»ÐµÐ²Ñ‹Ð¹ Ð±Ð°Ð½ÐµÑ€";
+$MESS["DEMO_ADV_TOP_NAME"] = "Ð’ÐµÑ€Ñ…Ð½Ð¸Ð¹ Ð±Ð°Ð½Ð½ÐµÑ€";
+$MESS["DEMO_ADV_LEFT_1_NAME"] = "Ð Ð°Ð·Ð¼ÐµÑÑ‚Ð¸Ñ‚Ðµ ÑÐ²Ð¾Ðµ Ð¾Ð±ÑŠÑÐ²Ð»ÐµÐ½Ð¸Ðµ";
+$MESS["DEMO_ADV_LEFT_2_NAME"] = "ÐÐµÐ·Ð°Ð±Ñ‹Ð²Ð°ÐµÐ¼Ñ‹Ð¹ Ð¾Ñ‚Ð´Ñ‹Ñ… Ð² Ð½Ð°ÑˆÐµÐ¹ Ð³Ð¾ÑÑ‚Ð¸Ð½Ð¸Ñ†Ðµ";
+$MESS["CONTRACT_DESC"] = "Ð’ÑÐµ Ð±Ð°Ð½ÐµÑ€Ñ‹ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð¾Ð³Ð¾ Ð¿Ð¾Ñ€Ñ‚Ð°Ð»Ð°";
+$MESS["DEMO_ADV_980_1_NAME"] = "ÐžÑ‚ÐºÑ€Ð¾Ð¹ Ð³Ð¾Ñ€Ð¾Ð´ Ð´Ð»Ñ ÑÐµÐ±Ñ! Ð¢Ñ‹ Ð¶Ð¸Ñ‚ÐµÐ»ÑŒ ÑÑ‚Ð¾Ð³Ð¾ Ð³Ð¾Ñ€Ð¾Ð´Ð°";
+$MESS["DEMO_ADV_980_2_NAME"] = "Ð£Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ ÑÐ°Ð¹Ñ‚Ð¾Ð¼";
 $MESS["DEMO_ADV_BANNER_URL1"] = "http://www.1c-bitrix.ru";
 $MESS["DEMO_ADV_BANNER_URL2"] = "http://www.1c-bitrix.ru";
 $MESS["DEMO_ADV_BANNER_URL3"] = "http://www.1c-bitrix.ru";

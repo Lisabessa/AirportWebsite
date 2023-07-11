@@ -1,10 +1,10 @@
 <?
-$MESS ['SENDER_MODULE_NAME'] = "Email-ìàðêåòèíã";
-$MESS ['SENDER_MODULE_DESC'] = "Ìîäóëü äëÿ îðãàíèçàöèè ðàáîòû Email-ìàðêåòèíãà.";
-$MESS ['SENDER_MODULE_INST_TITLE'] = "Óñòàíîâêà ìîäóëÿ Email-ìàðêåòèíãà";
-$MESS ['SENDER_MODULE_UNINST_TITLE'] = "Óäàëåíèå ìîäóëÿ Email-ìàðêåòèíãà";
-$MESS ['SENDER_MODULE_NAME1'] = "Ìàðêåòèíã 24";
-$MESS ['SENDER_MODULE_DESC1'] = "Ìîäóëü äëÿ îðãàíèçàöèè ðàáîòû c Email è SMS ðàññûëêàìè, ðåêëàìîé â ñîöñåòÿõ.";
-$MESS ['SENDER_MODULE_INST_TITLE1'] = "Óñòàíîâêà ìîäóëÿ Ìàðêåòèíã 24";
-$MESS ['SENDER_MODULE_UNINST_TITLE1'] = "Óäàëåíèå ìîäóëÿ Ìàðêåòèíã 24";
+$MESS ['SENDER_MODULE_NAME'] = "Email-Ð¼Ð°Ñ€ÐºÐµÑ‚Ð¸Ð½Ð³";
+$MESS ['SENDER_MODULE_DESC'] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð´Ð»Ñ Ð¾Ñ€Ð³Ð°Ð½Ð¸Ð·Ð°Ñ†Ð¸Ð¸ Ñ€Ð°Ð±Ð¾Ñ‚Ñ‹ Email-Ð¼Ð°Ñ€ÐºÐµÑ‚Ð¸Ð½Ð³Ð°.";
+$MESS ['SENDER_MODULE_INST_TITLE'] = "Ð£ÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ° Ð¼Ð¾Ð´ÑƒÐ»Ñ Email-Ð¼Ð°Ñ€ÐºÐµÑ‚Ð¸Ð½Ð³Ð°";
+$MESS ['SENDER_MODULE_UNINST_TITLE'] = "Ð£Ð´Ð°Ð»ÐµÐ½Ð¸Ðµ Ð¼Ð¾Ð´ÑƒÐ»Ñ Email-Ð¼Ð°Ñ€ÐºÐµÑ‚Ð¸Ð½Ð³Ð°";
+$MESS ['SENDER_MODULE_NAME1'] = "ÐœÐ°Ñ€ÐºÐµÑ‚Ð¸Ð½Ð³ 24";
+$MESS ['SENDER_MODULE_DESC1'] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð´Ð»Ñ Ð¾Ñ€Ð³Ð°Ð½Ð¸Ð·Ð°Ñ†Ð¸Ð¸ Ñ€Ð°Ð±Ð¾Ñ‚Ñ‹ c Email Ð¸ SMS Ñ€Ð°ÑÑÑ‹Ð»ÐºÐ°Ð¼Ð¸, Ñ€ÐµÐºÐ»Ð°Ð¼Ð¾Ð¹ Ð² ÑÐ¾Ñ†ÑÐµÑ‚ÑÑ….";
+$MESS ['SENDER_MODULE_INST_TITLE1'] = "Ð£ÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ° Ð¼Ð¾Ð´ÑƒÐ»Ñ ÐœÐ°Ñ€ÐºÐµÑ‚Ð¸Ð½Ð³ 24";
+$MESS ['SENDER_MODULE_UNINST_TITLE1'] = "Ð£Ð´Ð°Ð»ÐµÐ½Ð¸Ðµ Ð¼Ð¾Ð´ÑƒÐ»Ñ ÐœÐ°Ñ€ÐºÐµÑ‚Ð¸Ð½Ð³ 24";
 ?>

@@ -1,3 +1,3 @@
 <?
-$MESS["sender_trigger_user_auth_name"] = "Çàõîä íà ñàéò";
+$MESS["sender_trigger_user_auth_name"] = "Ð—Ð°Ñ…Ð¾Ð´ Ð½Ð° ÑÐ°Ð¹Ñ‚";
 ?>

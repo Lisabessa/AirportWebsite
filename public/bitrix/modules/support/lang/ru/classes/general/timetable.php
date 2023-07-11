@@ -1,6 +1,6 @@
 <?
-$MESS ['SUP_ERROR_EMPTY_NAME'] = "Íàçâàíèå ðàñïèñàíèÿ íå çàïîëíåíî!";
-$MESS ['SUP_ERROR_DB_ERROR'] = "Îøèáêà áàçû äàííûõ!";
-$MESS ['SUP_ERROR_ACCESS_DENIED'] = "Äîñòóï çàïðåùåí!";
-$MESS ['SUP_ERROR_TIMETABLE_HAS_SLA'] = "Â óðîâíÿõ ïîääåðæêè åñòü ññûëêè íà ýòî ðàñïèñàíèå!";
+$MESS ['SUP_ERROR_EMPTY_NAME'] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ñ€Ð°ÑÐ¿Ð¸ÑÐ°Ð½Ð¸Ñ Ð½Ðµ Ð·Ð°Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¾!";
+$MESS ['SUP_ERROR_DB_ERROR'] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð±Ð°Ð·Ñ‹ Ð´Ð°Ð½Ð½Ñ‹Ñ…!";
+$MESS ['SUP_ERROR_ACCESS_DENIED'] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ð·Ð°Ð¿Ñ€ÐµÑ‰ÐµÐ½!";
+$MESS ['SUP_ERROR_TIMETABLE_HAS_SLA'] = "Ð’ ÑƒÑ€Ð¾Ð²Ð½ÑÑ… Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ¸ ÐµÑÑ‚ÑŒ ÑÑÑ‹Ð»ÐºÐ¸ Ð½Ð° ÑÑ‚Ð¾ Ñ€Ð°ÑÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ!";
 ?>

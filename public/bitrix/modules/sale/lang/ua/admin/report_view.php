@@ -1,9 +1,9 @@
 <?
-$MESS["SALE_REPORT_VIEW_TITLE"] = "Ïåðåãëÿä çâ³òó";
-$MESS["SALE_REPORT_VIEW_ERROR"] = "Ïîìèëêà ïðè ôîðìóâàíí³ çâ³òó";
-$MESS["SALE_REPORT_VIEW_REPORT_TAB"] = "Ïåðåãëÿä çâ³òó";
-$MESS["SALE_REPORT_VIEW_ERROR_VIEW_REP"] = "Ïîìèëêà ïðè ôîðìóâàíí³ çâ³òó";
-$MESS["SALE_REPORT_VIEW_BUTTON_CANCEL_LABEL"] = "Ïîâåðíóòèñÿ";
-$MESS["SALE_REPORT_VIEW_BUTTON_CANCEL_TITLE"] = "Ïîâåðíóòèñÿ äî ñïèñêó çâ³ò³â";
-$MESS["SALE_REPORT_VIEW_CATALOG_NAME_LABEL"] = "Êàòàëîã";
+$MESS["SALE_REPORT_VIEW_TITLE"] = "ÐŸÐµÑ€ÐµÐ³Ð»ÑÐ´ Ð·Ð²Ñ–Ñ‚Ñƒ";
+$MESS["SALE_REPORT_VIEW_ERROR"] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ° Ð¿Ñ€Ð¸ Ñ„Ð¾Ñ€Ð¼ÑƒÐ²Ð°Ð½Ð½Ñ– Ð·Ð²Ñ–Ñ‚Ñƒ";
+$MESS["SALE_REPORT_VIEW_REPORT_TAB"] = "ÐŸÐµÑ€ÐµÐ³Ð»ÑÐ´ Ð·Ð²Ñ–Ñ‚Ñƒ";
+$MESS["SALE_REPORT_VIEW_ERROR_VIEW_REP"] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ° Ð¿Ñ€Ð¸ Ñ„Ð¾Ñ€Ð¼ÑƒÐ²Ð°Ð½Ð½Ñ– Ð·Ð²Ñ–Ñ‚Ñƒ";
+$MESS["SALE_REPORT_VIEW_BUTTON_CANCEL_LABEL"] = "ÐŸÐ¾Ð²ÐµÑ€Ð½ÑƒÑ‚Ð¸ÑÑ";
+$MESS["SALE_REPORT_VIEW_BUTTON_CANCEL_TITLE"] = "ÐŸÐ¾Ð²ÐµÑ€Ð½ÑƒÑ‚Ð¸ÑÑ Ð´Ð¾ ÑÐ¿Ð¸ÑÐºÑƒ Ð·Ð²Ñ–Ñ‚Ñ–Ð²";
+$MESS["SALE_REPORT_VIEW_CATALOG_NAME_LABEL"] = "ÐšÐ°Ñ‚Ð°Ð»Ð¾Ð³";
 ?>

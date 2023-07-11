@@ -1,13 +1,13 @@
 <?
-$MESS["CURRENCY_ENTITY_CURRENCY_FIELD"] = "Âàëþòà";
-$MESS["CURRENCY_ENTITY_AMOUNT_CNT_FIELD"] = "Íîìèíàë";
-$MESS["CURRENCY_ENTITY_AMOUNT_FIELD"] = "Êóðñ ïî óìîë÷àíèþ";
-$MESS["CURRENCY_ENTITY_SORT_FIELD"] = "Èíäåêñ ñîðòèðîâêè";
-$MESS["CURRENCY_ENTITY_DATE_UPDATE_FIELD"] = "Äàòà èçìåíåíèÿ";
-$MESS["CURRENCY_ENTITY_BASE_FIELD"] = "Áàçîâàÿ âàëþòà";
-$MESS["CURRENCY_ENTITY_CREATED_BY_FIELD"] = "Êåì ñîçäàíà";
-$MESS["CURRENCY_ENTITY_DATE_CREATE_FIELD"] = "Äàòà ñîçäàíèÿ";
-$MESS["CURRENCY_ENTITY_MODIFIED_BY_FIELD"] = "Êåì èçìåíåíà";
-$MESS["CURRENCY_ENTITY_CURRENT_BASE_RATE_FIELD"] = "Òåêóùèé êóðñ";
-$MESS["CURRENCY_ENTITY_NUMERIC_CODE_FIELD"] = "Öèôðîâîé êîä";
+$MESS["CURRENCY_ENTITY_CURRENCY_FIELD"] = "Ð’Ð°Ð»ÑŽÑ‚Ð°";
+$MESS["CURRENCY_ENTITY_AMOUNT_CNT_FIELD"] = "ÐÐ¾Ð¼Ð¸Ð½Ð°Ð»";
+$MESS["CURRENCY_ENTITY_AMOUNT_FIELD"] = "ÐšÑƒÑ€Ñ Ð¿Ð¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ";
+$MESS["CURRENCY_ENTITY_SORT_FIELD"] = "Ð˜Ð½Ð´ÐµÐºÑ ÑÐ¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²ÐºÐ¸";
+$MESS["CURRENCY_ENTITY_DATE_UPDATE_FIELD"] = "Ð”Ð°Ñ‚Ð° Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ";
+$MESS["CURRENCY_ENTITY_BASE_FIELD"] = "Ð‘Ð°Ð·Ð¾Ð²Ð°Ñ Ð²Ð°Ð»ÑŽÑ‚Ð°";
+$MESS["CURRENCY_ENTITY_CREATED_BY_FIELD"] = "ÐšÐµÐ¼ ÑÐ¾Ð·Ð´Ð°Ð½Ð°";
+$MESS["CURRENCY_ENTITY_DATE_CREATE_FIELD"] = "Ð”Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ";
+$MESS["CURRENCY_ENTITY_MODIFIED_BY_FIELD"] = "ÐšÐµÐ¼ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð°";
+$MESS["CURRENCY_ENTITY_CURRENT_BASE_RATE_FIELD"] = "Ð¢ÐµÐºÑƒÑ‰Ð¸Ð¹ ÐºÑƒÑ€Ñ";
+$MESS["CURRENCY_ENTITY_NUMERIC_CODE_FIELD"] = "Ð¦Ð¸Ñ„Ñ€Ð¾Ð²Ð¾Ð¹ ÐºÐ¾Ð´";
 ?>

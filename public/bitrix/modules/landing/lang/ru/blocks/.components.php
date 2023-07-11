@@ -1,5 +1,5 @@
 <?php
-$MESS['LD_COMP_SECTION_ID'] = 'Âûáåðèòå ðàçäåë êàòàëîãà';
-$MESS['LD_COMP_FILTER'] = 'Îòáîð òîâàðîâ ïî ôèëüòðó';
-$MESS['LD_COMP_FB_APP_ID'] = 'Êîììåíòàðèè Facebook (APP_ID)';
-$MESS['LD_COMP_VK_API_ID'] = 'Êîììåíòàðèè ÂÊîíòàêòå (API_ID)';
+$MESS['LD_COMP_SECTION_ID'] = 'Ð’Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ Ñ€Ð°Ð·Ð´ÐµÐ» ÐºÐ°Ñ‚Ð°Ð»Ð¾Ð³Ð°';
+$MESS['LD_COMP_FILTER'] = 'ÐžÑ‚Ð±Ð¾Ñ€ Ñ‚Ð¾Ð²Ð°Ñ€Ð¾Ð² Ð¿Ð¾ Ñ„Ð¸Ð»ÑŒÑ‚Ñ€Ñƒ';
+$MESS['LD_COMP_FB_APP_ID'] = 'ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¸ Facebook (APP_ID)';
+$MESS['LD_COMP_VK_API_ID'] = 'ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¸ Ð’ÐšÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ðµ (API_ID)';

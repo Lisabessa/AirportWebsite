@@ -1,4 +1,4 @@
 <?
-$MESS ['VOTE_FORGOT_MESSAGE'] = "Íå óêàçàí òåêñò îòâåòà.";
-$MESS ['VOTE_FORGOT_QUESTION_ID'] = "Íå óêàçàí ID âîïðîñà.";
+$MESS ['VOTE_FORGOT_MESSAGE'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ñ‚ÐµÐºÑÑ‚ Ð¾Ñ‚Ð²ÐµÑ‚Ð°.";
+$MESS ['VOTE_FORGOT_QUESTION_ID'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ ID Ð²Ð¾Ð¿Ñ€Ð¾ÑÐ°.";
 ?>

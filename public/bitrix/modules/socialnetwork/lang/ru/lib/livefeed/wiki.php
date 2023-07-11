@@ -1,4 +1,4 @@
 <?
-$MESS["SONET_LIVEFEED_WIKI_PINNED_TITLE"] = "Ñîîáùåíèå Wiki: #TITLE#";
-$MESS["SONET_LIVEFEED_WIKI_DELETED_PINNED_TITLE"] = "Óäàëåíî ñîîáùåíèå Wiki \"#TITLE#\"";
+$MESS["SONET_LIVEFEED_WIKI_PINNED_TITLE"] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ Wiki: #TITLE#";
+$MESS["SONET_LIVEFEED_WIKI_DELETED_PINNED_TITLE"] = "Ð£Ð´Ð°Ð»ÐµÐ½Ð¾ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ Wiki \"#TITLE#\"";
 ?>

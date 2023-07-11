@@ -1,6 +1,6 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Çàêàçû");
+$APPLICATION->SetTitle("Ð—Ð°ÐºÐ°Ð·Ñ‹");
 ?><?$APPLICATION->IncludeComponent("bitrix:sale.order.full", ".default", Array(
 	"ALLOW_PAY_FROM_ACCOUNT"	=>	"Y",
 	"SHOW_MENU"	=>	"Y",

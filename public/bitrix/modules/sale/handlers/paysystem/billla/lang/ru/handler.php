@@ -1,6 +1,6 @@
 <?
-$MESS["SALE_HPS_BILL_LA_COMMENT"] = "Êîììåíòàðèé ê ñ÷åòó";
-$MESS["SALE_HPS_BILL_LA_COMMENT_ADD"] = "Äîïîëíèòåëüíûé êîììåíòàðèé ê ñ÷åòó";
-$MESS['SALE_HPS_BILL_LA_BANK_CITY'] = 'Áàðñåëîíà';
-$MESS['SALE_HPS_BILL_LA_BANK_ADDRESS'] = 'Èñïàíèÿ';
-$MESS['SALE_HPS_BILL_LA_BUYER_COMPANY_ADDRESS'] = 'Áàðñåëîíà';
+$MESS["SALE_HPS_BILL_LA_COMMENT"] = "ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹ Ðº ÑÑ‡ÐµÑ‚Ñƒ";
+$MESS["SALE_HPS_BILL_LA_COMMENT_ADD"] = "Ð”Ð¾Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ð¹ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹ Ðº ÑÑ‡ÐµÑ‚Ñƒ";
+$MESS['SALE_HPS_BILL_LA_BANK_CITY'] = 'Ð‘Ð°Ñ€ÑÐµÐ»Ð¾Ð½Ð°';
+$MESS['SALE_HPS_BILL_LA_BANK_ADDRESS'] = 'Ð˜ÑÐ¿Ð°Ð½Ð¸Ñ';
+$MESS['SALE_HPS_BILL_LA_BUYER_COMPANY_ADDRESS'] = 'Ð‘Ð°Ñ€ÑÐµÐ»Ð¾Ð½Ð°';

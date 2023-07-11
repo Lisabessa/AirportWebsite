@@ -1,6 +1,6 @@
 <?php
-$MESS['REPORT_TIME_PERIOD_MARK_TEXT'] = 'Îò÷åòíûé ïåðèîä';
-$MESS['REPORT_DEFAULT_TITLE'] = 'Áåç íàçâàíèÿ';
-$MESS['BACKGROUND_COLOR_OF_WIDGET'] = 'Öâåò ôîíà âèäæåòà:';
-$MESS['REPORT_CALCULATION_PERIOD'] = 'Îò÷åòíûé Ïåðèîä:';
-$MESS['REPORT_WIDGET_DEFAULT_TITLE'] = 'Áåç íàçâàíèÿ';
+$MESS['REPORT_TIME_PERIOD_MARK_TEXT'] = 'ÐžÑ‚Ñ‡ÐµÑ‚Ð½Ñ‹Ð¹ Ð¿ÐµÑ€Ð¸Ð¾Ð´';
+$MESS['REPORT_DEFAULT_TITLE'] = 'Ð‘ÐµÐ· Ð½Ð°Ð·Ð²Ð°Ð½Ð¸Ñ';
+$MESS['BACKGROUND_COLOR_OF_WIDGET'] = 'Ð¦Ð²ÐµÑ‚ Ñ„Ð¾Ð½Ð° Ð²Ð¸Ð´Ð¶ÐµÑ‚Ð°:';
+$MESS['REPORT_CALCULATION_PERIOD'] = 'ÐžÑ‚Ñ‡ÐµÑ‚Ð½Ñ‹Ð¹ ÐŸÐµÑ€Ð¸Ð¾Ð´:';
+$MESS['REPORT_WIDGET_DEFAULT_TITLE'] = 'Ð‘ÐµÐ· Ð½Ð°Ð·Ð²Ð°Ð½Ð¸Ñ';

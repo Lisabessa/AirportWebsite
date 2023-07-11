@@ -1,2 +1,2 @@
 <?php
-$MESS['SALE_PS_BASE_SERVICE_TEMPLATE_ERROR'] = 'Îøèáêà ïðè ïîäêëþ÷åíèè øàáëîíà';
+$MESS['SALE_PS_BASE_SERVICE_TEMPLATE_ERROR'] = 'ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ Ð¿Ð¾Ð´ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¸Ð¸ ÑˆÐ°Ð±Ð»Ð¾Ð½Ð°';

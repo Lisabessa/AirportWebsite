@@ -1,11 +1,11 @@
 <?
-$MESS["LISTS_LF_ADD_COMMENT_SOURCE_ERROR"] = "Íå óäàëîñü äîáàâèòü êîììåíòàðèé ê èñòî÷íèêó ñîáûòèÿ.";
-$MESS["LISTS_LF_MOBILE_DESTINATION"] = "Êîìó";
-$MESS["LISTS_LF_COMMENT_MESSAGE_ADD"] = "Äîáàâèë(à) êîììåíòàðèé ê ïðîöåññó \"#PROCESS#\"";
-$MESS["LISTS_LF_COMMENT_MESSAGE_ADD_F"] = "Äîáàâèëà êîììåíòàðèé ê ïðîöåññó \"#PROCESS#\"";
-$MESS["LISTS_LF_COMMENT_MESSAGE_ADD_M"] = "Äîáàâèë êîììåíòàðèé ê ïðîöåññó \"#PROCESS#\"";
-$MESS["LISTS_LF_COMMENT_MENTION_M"] = "Óïîìÿíóë âàñ â êîììåíòàðèè ê ïðîöåññó #title#";
-$MESS["LISTS_LF_COMMENT_MENTION_F"] = "Óïîìÿíóëà âàñ â êîììåíòàðèè ê ïðîöåññó #title#";
-$MESS["LISTS_LF_COMMENT_MENTION"] = "Óïîìÿíóë(à) âàñ â êîììåíòàðèè #title#";
+$MESS["LISTS_LF_ADD_COMMENT_SOURCE_ERROR"] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ Ð´Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹ Ðº Ð¸ÑÑ‚Ð¾Ñ‡Ð½Ð¸ÐºÑƒ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ.";
+$MESS["LISTS_LF_MOBILE_DESTINATION"] = "ÐšÐ¾Ð¼Ñƒ";
+$MESS["LISTS_LF_COMMENT_MESSAGE_ADD"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ð»(Ð°) ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹ Ðº Ð¿Ñ€Ð¾Ñ†ÐµÑÑÑƒ \"#PROCESS#\"";
+$MESS["LISTS_LF_COMMENT_MESSAGE_ADD_F"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ð»Ð° ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹ Ðº Ð¿Ñ€Ð¾Ñ†ÐµÑÑÑƒ \"#PROCESS#\"";
+$MESS["LISTS_LF_COMMENT_MESSAGE_ADD_M"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ð» ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹ Ðº Ð¿Ñ€Ð¾Ñ†ÐµÑÑÑƒ \"#PROCESS#\"";
+$MESS["LISTS_LF_COMMENT_MENTION_M"] = "Ð£Ð¿Ð¾Ð¼ÑÐ½ÑƒÐ» Ð²Ð°Ñ Ð² ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¸ Ðº Ð¿Ñ€Ð¾Ñ†ÐµÑÑÑƒ #title#";
+$MESS["LISTS_LF_COMMENT_MENTION_F"] = "Ð£Ð¿Ð¾Ð¼ÑÐ½ÑƒÐ»Ð° Ð²Ð°Ñ Ð² ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¸ Ðº Ð¿Ñ€Ð¾Ñ†ÐµÑÑÑƒ #title#";
+$MESS["LISTS_LF_COMMENT_MENTION"] = "Ð£Ð¿Ð¾Ð¼ÑÐ½ÑƒÐ»(Ð°) Ð²Ð°Ñ Ð² ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¸ #title#";
 $MESS["LISTS_LF_COMMENT_MENTION_TITLE"] = "\"#PROCESS#\"";
 ?>

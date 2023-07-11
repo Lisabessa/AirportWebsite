@@ -1,16 +1,16 @@
 <?
-$MESS["IBLOCK_REINDEX_IN_PROGRESS"] = "Ïåðåèíäåêñàöèÿ...";
-$MESS["IBLOCK_REINDEX_TOTAL"] = "Ïðîèíäåêñèðîâàíî ýëåìåíòîâ:";
-$MESS["IBLOCK_REINDEX_COMPLETE"] = "Ñîçäàíèå èíäåêñîâ çàâåðøåíî.";
-$MESS["IBLOCK_REINDEX_TITLE"] = "Ôàñåòíûå èíäåêñû èíôîáëîêîâ";
-$MESS["IBLOCK_REINDEX_TAB"] = "Ñîçäàíèå";
-$MESS["IBLOCK_REINDEX_TAB_TITLE"] = "Ïàðàìåòðû";
-$MESS["IBLOCK_REINDEX_IBLOCK"] = "Èíôîðìàöèîííûé áëîê:";
-$MESS["IBLOCK_REINDEX_STEP"] = "Øàã:";
-$MESS["IBLOCK_REINDEX_STEP_SEC"] = "ñåêóíä";
-$MESS["IBLOCK_REINDEX_START_BUTTON"] = "Íà÷àòü";
-$MESS["IBLOCK_REINDEX_CONTINUE_BUTTON"] = "Ïðîäîëæèòü";
-$MESS["IBLOCK_REINDEX_STOP_BUTTON"] = "Îñòàíîâèòü";
-$MESS["IBLOCK_REINDEX_TOTAL_COMPLETE"] = "Âñå èíäåêñû ñîçäàíû.";
-$MESS["IBLOCK_REINDEX_DEACTIVE"] = "äåàêòèâèðîâàí";
+$MESS["IBLOCK_REINDEX_IN_PROGRESS"] = "ÐŸÐµÑ€ÐµÐ¸Ð½Ð´ÐµÐºÑÐ°Ñ†Ð¸Ñ...";
+$MESS["IBLOCK_REINDEX_TOTAL"] = "ÐŸÑ€Ð¾Ð¸Ð½Ð´ÐµÐºÑÐ¸Ñ€Ð¾Ð²Ð°Ð½Ð¾ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð²:";
+$MESS["IBLOCK_REINDEX_COMPLETE"] = "Ð¡Ð¾Ð·Ð´Ð°Ð½Ð¸Ðµ Ð¸Ð½Ð´ÐµÐºÑÐ¾Ð² Ð·Ð°Ð²ÐµÑ€ÑˆÐµÐ½Ð¾.";
+$MESS["IBLOCK_REINDEX_TITLE"] = "Ð¤Ð°ÑÐµÑ‚Ð½Ñ‹Ðµ Ð¸Ð½Ð´ÐµÐºÑÑ‹ Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ¾Ð²";
+$MESS["IBLOCK_REINDEX_TAB"] = "Ð¡Ð¾Ð·Ð´Ð°Ð½Ð¸Ðµ";
+$MESS["IBLOCK_REINDEX_TAB_TITLE"] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹";
+$MESS["IBLOCK_REINDEX_IBLOCK"] = "Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ñ‹Ð¹ Ð±Ð»Ð¾Ðº:";
+$MESS["IBLOCK_REINDEX_STEP"] = "Ð¨Ð°Ð³:";
+$MESS["IBLOCK_REINDEX_STEP_SEC"] = "ÑÐµÐºÑƒÐ½Ð´";
+$MESS["IBLOCK_REINDEX_START_BUTTON"] = "ÐÐ°Ñ‡Ð°Ñ‚ÑŒ";
+$MESS["IBLOCK_REINDEX_CONTINUE_BUTTON"] = "ÐŸÑ€Ð¾Ð´Ð¾Ð»Ð¶Ð¸Ñ‚ÑŒ";
+$MESS["IBLOCK_REINDEX_STOP_BUTTON"] = "ÐžÑÑ‚Ð°Ð½Ð¾Ð²Ð¸Ñ‚ÑŒ";
+$MESS["IBLOCK_REINDEX_TOTAL_COMPLETE"] = "Ð’ÑÐµ Ð¸Ð½Ð´ÐµÐºÑÑ‹ ÑÐ¾Ð·Ð´Ð°Ð½Ñ‹.";
+$MESS["IBLOCK_REINDEX_DEACTIVE"] = "Ð´ÐµÐ°ÐºÑ‚Ð¸Ð²Ð¸Ñ€Ð¾Ð²Ð°Ð½";
 ?>

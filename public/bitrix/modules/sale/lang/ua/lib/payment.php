@@ -1,9 +1,9 @@
 <?
-$MESS["SALE_ORDER_PAYMENT_RETURN_NO_SUPPORTED"] = "Ïëàò³æíà ñèñòåìà íå ï³äòðèìóº ïîâåðíåííÿ êîøò³â";
-$MESS["SALE_ORDER_PAYMENT_RETURN_PAID"] = "Íåìîæëèâî ñêàñóâàòè ïîâåðíåííÿ ñïëà÷åíî¿ ÷àñòêîâî¿ îïëàòè";
-$MESS["SALE_PAYMENT_ALREADY_PAID"] = "Îïëàòà âæå ñïëà÷åíà";
-$MESS["SALE_PAYMENT_DELETE_EXIST_PAID"] = "Îïëàòà ñïëà÷åíà. Â³äì³í³òü îïëàòó";
-$MESS["SALE_PAYMENT_NOT_ALLOWED_CHANGE_SUM"] = "Íåìîæëèâî çì³íèòè ñóìó ñïëà÷åíî¿ îïëàòè";
-$MESS["SALE_PAYMENT_PAYMENT_SERVICE_EMPTY"] = "Íå âêàçàíà ïëàò³æíà ñèñòåìà";
-$MESS["SALE_PAYMENT_WRONG_PAYMENT_SERVICE"] = "Âêàçàíà íåâ³ðíà ïëàò³æíà ñèñòåìà";
+$MESS["SALE_ORDER_PAYMENT_RETURN_NO_SUPPORTED"] = "ÐŸÐ»Ð°Ñ‚Ñ–Ð¶Ð½Ð° ÑÐ¸ÑÑ‚ÐµÐ¼Ð° Ð½Ðµ Ð¿Ñ–Ð´Ñ‚Ñ€Ð¸Ð¼ÑƒÑ” Ð¿Ð¾Ð²ÐµÑ€Ð½ÐµÐ½Ð½Ñ ÐºÐ¾ÑˆÑ‚Ñ–Ð²";
+$MESS["SALE_ORDER_PAYMENT_RETURN_PAID"] = "ÐÐµÐ¼Ð¾Ð¶Ð»Ð¸Ð²Ð¾ ÑÐºÐ°ÑÑƒÐ²Ð°Ñ‚Ð¸ Ð¿Ð¾Ð²ÐµÑ€Ð½ÐµÐ½Ð½Ñ ÑÐ¿Ð»Ð°Ñ‡ÐµÐ½Ð¾Ñ— Ñ‡Ð°ÑÑ‚ÐºÐ¾Ð²Ð¾Ñ— Ð¾Ð¿Ð»Ð°Ñ‚Ð¸";
+$MESS["SALE_PAYMENT_ALREADY_PAID"] = "ÐžÐ¿Ð»Ð°Ñ‚Ð° Ð²Ð¶Ðµ ÑÐ¿Ð»Ð°Ñ‡ÐµÐ½Ð°";
+$MESS["SALE_PAYMENT_DELETE_EXIST_PAID"] = "ÐžÐ¿Ð»Ð°Ñ‚Ð° ÑÐ¿Ð»Ð°Ñ‡ÐµÐ½Ð°. Ð’Ñ–Ð´Ð¼Ñ–Ð½Ñ–Ñ‚ÑŒ Ð¾Ð¿Ð»Ð°Ñ‚Ñƒ";
+$MESS["SALE_PAYMENT_NOT_ALLOWED_CHANGE_SUM"] = "ÐÐµÐ¼Ð¾Ð¶Ð»Ð¸Ð²Ð¾ Ð·Ð¼Ñ–Ð½Ð¸Ñ‚Ð¸ ÑÑƒÐ¼Ñƒ ÑÐ¿Ð»Ð°Ñ‡ÐµÐ½Ð¾Ñ— Ð¾Ð¿Ð»Ð°Ñ‚Ð¸";
+$MESS["SALE_PAYMENT_PAYMENT_SERVICE_EMPTY"] = "ÐÐµ Ð²ÐºÐ°Ð·Ð°Ð½Ð° Ð¿Ð»Ð°Ñ‚Ñ–Ð¶Ð½Ð° ÑÐ¸ÑÑ‚ÐµÐ¼Ð°";
+$MESS["SALE_PAYMENT_WRONG_PAYMENT_SERVICE"] = "Ð’ÐºÐ°Ð·Ð°Ð½Ð° Ð½ÐµÐ²Ñ–Ñ€Ð½Ð° Ð¿Ð»Ð°Ñ‚Ñ–Ð¶Ð½Ð° ÑÐ¸ÑÑ‚ÐµÐ¼Ð°";
 ?>

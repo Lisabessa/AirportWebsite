@@ -1,11 +1,11 @@
 <?
 $MESS['REST_MODULE_NAME'] = "REST API";
-$MESS['REST_MODULE_DESCRIPTION'] = "Ïðîãðàììíûé èíòåðôåéñ äëÿ âíåøíèõ è âíóòðåííèõ ïðèëîæåíèé";
-$MESS['REST_INSTALL_TITLE'] = "Óñòàíîâêà ìîäóëÿ \"REST API\"";
-$MESS['REST_UNINSTALL_TITLE'] = "Óäàëåíèå ìîäóëÿ \"REST API\"";
-$MESS['REST_DB_NOT_SUPPORTED'] = "Ìîäóëü ïîääåðæèâàåò ðàáîòó òîëüêî ñ ÑÓÁÄ MySQL";
-$MESS['REST_MOD_REWRITE_ERROR'] = "Äëÿ êîððåêòíîé ðàáîòû ìîäóëÿ ïîä Apache òðåáóåòñÿ íàëè÷èå ìîäóëÿ mod_rewrite!";
-$MESS['REST_IBLOCK_NAME_2'] = "Õðàíèëèùå äàííûõ äëÿ ïðèëîæåíèé";
-$MESS['REST_IBLOCK_SECTION_NAME'] = "Ðàçäåëû";
-$MESS['REST_IBLOCK_ELEMENT_NAME'] = "Ýëåìåíòû";
+$MESS['REST_MODULE_DESCRIPTION'] = "ÐŸÑ€Ð¾Ð³Ñ€Ð°Ð¼Ð¼Ð½Ñ‹Ð¹ Ð¸Ð½Ñ‚ÐµÑ€Ñ„ÐµÐ¹Ñ Ð´Ð»Ñ Ð²Ð½ÐµÑˆÐ½Ð¸Ñ… Ð¸ Ð²Ð½ÑƒÑ‚Ñ€ÐµÐ½Ð½Ð¸Ñ… Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹";
+$MESS['REST_INSTALL_TITLE'] = "Ð£ÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ° Ð¼Ð¾Ð´ÑƒÐ»Ñ \"REST API\"";
+$MESS['REST_UNINSTALL_TITLE'] = "Ð£Ð´Ð°Ð»ÐµÐ½Ð¸Ðµ Ð¼Ð¾Ð´ÑƒÐ»Ñ \"REST API\"";
+$MESS['REST_DB_NOT_SUPPORTED'] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶Ð¸Ð²Ð°ÐµÑ‚ Ñ€Ð°Ð±Ð¾Ñ‚Ñƒ Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ñ Ð¡Ð£Ð‘Ð” MySQL";
+$MESS['REST_MOD_REWRITE_ERROR'] = "Ð”Ð»Ñ ÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ð¾Ð¹ Ñ€Ð°Ð±Ð¾Ñ‚Ñ‹ Ð¼Ð¾Ð´ÑƒÐ»Ñ Ð¿Ð¾Ð´ Apache Ñ‚Ñ€ÐµÐ±ÑƒÐµÑ‚ÑÑ Ð½Ð°Ð»Ð¸Ñ‡Ð¸Ðµ Ð¼Ð¾Ð´ÑƒÐ»Ñ mod_rewrite!";
+$MESS['REST_IBLOCK_NAME_2'] = "Ð¥Ñ€Ð°Ð½Ð¸Ð»Ð¸Ñ‰Ðµ Ð´Ð°Ð½Ð½Ñ‹Ñ… Ð´Ð»Ñ Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹";
+$MESS['REST_IBLOCK_SECTION_NAME'] = "Ð Ð°Ð·Ð´ÐµÐ»Ñ‹";
+$MESS['REST_IBLOCK_ELEMENT_NAME'] = "Ð­Ð»ÐµÐ¼ÐµÐ½Ñ‚Ñ‹";
 ?>

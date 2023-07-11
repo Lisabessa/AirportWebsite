@@ -1,10 +1,10 @@
 <?
 $MESS["TP_VK_PROFILE_ID_FIELD"] = "ID";
-$MESS["TP_VK_PROFILE_DESCRIPTION_FIELD"] = "Íàçâà";
-$MESS["TP_VK_PROFILE_PLATFORM_ID_FIELD"] = "ID òîðãîâî¿ ïëàòôîðìè";
-$MESS["TP_VK_PROFILE_VK_SETTINGS_FIELD"] = "Íàëàøòóâàííÿ ÂÊîíòàêò³";
-$MESS["TP_VK_PROFILE_OAUTH_SETTINGS_FIELD"] = "Íàëàøòóâàííà àóòåíòèô³êàö³¿";
-$MESS["TP_VK_PROFILE_EXPORT_SETTINGS_FIELD"] = "Íàëàøòóâàííÿ åêñïîðòó";
-$MESS["TP_VK_PROFILE_PROCESS_FIELD"] = "Ïàðàìåòðè ïîòî÷íîãî ïðîöåñó åêñïîðòó";
-$MESS["TP_VK_PROFILE_JOURNAL_FIELD"] = "Æóðíàë çàïóñê³â îáì³íó";
+$MESS["TP_VK_PROFILE_DESCRIPTION_FIELD"] = "ÐÐ°Ð·Ð²Ð°";
+$MESS["TP_VK_PROFILE_PLATFORM_ID_FIELD"] = "ID Ñ‚Ð¾Ñ€Ð³Ð¾Ð²Ð¾Ñ— Ð¿Ð»Ð°Ñ‚Ñ„Ð¾Ñ€Ð¼Ð¸";
+$MESS["TP_VK_PROFILE_VK_SETTINGS_FIELD"] = "ÐÐ°Ð»Ð°ÑˆÑ‚ÑƒÐ²Ð°Ð½Ð½Ñ Ð’ÐšÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ñ–";
+$MESS["TP_VK_PROFILE_OAUTH_SETTINGS_FIELD"] = "ÐÐ°Ð»Ð°ÑˆÑ‚ÑƒÐ²Ð°Ð½Ð½Ð° Ð°ÑƒÑ‚ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÐ°Ñ†Ñ–Ñ—";
+$MESS["TP_VK_PROFILE_EXPORT_SETTINGS_FIELD"] = "ÐÐ°Ð»Ð°ÑˆÑ‚ÑƒÐ²Ð°Ð½Ð½Ñ ÐµÐºÑÐ¿Ð¾Ñ€Ñ‚Ñƒ";
+$MESS["TP_VK_PROFILE_PROCESS_FIELD"] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð¸ Ð¿Ð¾Ñ‚Ð¾Ñ‡Ð½Ð¾Ð³Ð¾ Ð¿Ñ€Ð¾Ñ†ÐµÑÑƒ ÐµÐºÑÐ¿Ð¾Ñ€Ñ‚Ñƒ";
+$MESS["TP_VK_PROFILE_JOURNAL_FIELD"] = "Ð–ÑƒÑ€Ð½Ð°Ð» Ð·Ð°Ð¿ÑƒÑÐºÑ–Ð² Ð¾Ð±Ð¼Ñ–Ð½Ñƒ";
 ?>

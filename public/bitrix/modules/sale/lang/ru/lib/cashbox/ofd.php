@@ -1,3 +1,3 @@
 <?php
-$MESS['SALE_CASHBOX_OFD_SETTINGS'] = 'Ðåæèì ðàáîòû';
-$MESS["SALE_CASHBOX_OFD_TEST_MODE"] = "Òåñòîâûé ðåæèì ðàáîòû ÎÔÄ";
+$MESS['SALE_CASHBOX_OFD_SETTINGS'] = 'Ð ÐµÐ¶Ð¸Ð¼ Ñ€Ð°Ð±Ð¾Ñ‚Ñ‹';
+$MESS["SALE_CASHBOX_OFD_TEST_MODE"] = "Ð¢ÐµÑÑ‚Ð¾Ð²Ñ‹Ð¹ Ñ€ÐµÐ¶Ð¸Ð¼ Ñ€Ð°Ð±Ð¾Ñ‚Ñ‹ ÐžÐ¤Ð”";

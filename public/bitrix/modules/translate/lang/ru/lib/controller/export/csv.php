@@ -1,6 +1,6 @@
 <?
-$MESS["TR_EXPORT_COMPLETED"] = "Ôîðìèðîâàíèå ôàéëà ýêñïîðòà çàâåðøåíî.";
-$MESS["TR_EXPORT_ACTION_EXPORT"] = "Âûãðóæåíî ôðàç: #TOTAL_PHRASES#. Ðàçìåð ôàéëà: #FILE_SIZE_FORMAT#.";
-$MESS["TR_EXPORT_FILE_DROPPED"] = "Ôàéë ýêñïîðòà óäàë¸í";
-$MESS["TR_EXPORT_ACTION_CANCEL"] = "Âûãðóçêà äàííûõ îòìåíåíà.";
-$MESS["TR_EXPORT_VOID"] = "Îòñóòñòâóþò äàííûå äëÿ ýêñïîðòà";
+$MESS["TR_EXPORT_COMPLETED"] = "Ð¤Ð¾Ñ€Ð¼Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ñ„Ð°Ð¹Ð»Ð° ÑÐºÑÐ¿Ð¾Ñ€Ñ‚Ð° Ð·Ð°Ð²ÐµÑ€ÑˆÐµÐ½Ð¾.";
+$MESS["TR_EXPORT_ACTION_EXPORT"] = "Ð’Ñ‹Ð³Ñ€ÑƒÐ¶ÐµÐ½Ð¾ Ñ„Ñ€Ð°Ð·: #TOTAL_PHRASES#. Ð Ð°Ð·Ð¼ÐµÑ€ Ñ„Ð°Ð¹Ð»Ð°: #FILE_SIZE_FORMAT#.";
+$MESS["TR_EXPORT_FILE_DROPPED"] = "Ð¤Ð°Ð¹Ð» ÑÐºÑÐ¿Ð¾Ñ€Ñ‚Ð° ÑƒÐ´Ð°Ð»Ñ‘Ð½";
+$MESS["TR_EXPORT_ACTION_CANCEL"] = "Ð’Ñ‹Ð³Ñ€ÑƒÐ·ÐºÐ° Ð´Ð°Ð½Ð½Ñ‹Ñ… Ð¾Ñ‚Ð¼ÐµÐ½ÐµÐ½Ð°.";
+$MESS["TR_EXPORT_VOID"] = "ÐžÑ‚ÑÑƒÑ‚ÑÑ‚Ð²ÑƒÑŽÑ‚ Ð´Ð°Ð½Ð½Ñ‹Ðµ Ð´Ð»Ñ ÑÐºÑÐ¿Ð¾Ñ€Ñ‚Ð°";

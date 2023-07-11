@@ -1,4 +1,4 @@
 <?
-$MESS["MOBILEAPP_APP_DESIGNER_TITLE"] = "Êîíñòðóêòîð ìîáèëüíîãî ïðèëîæåíèÿ";
-$MESS["MOBILEAPP_WRONG_BROWSER"] = "Íåïîäõîäÿùèé áðàóçåð";
-$MESS["MOBILEAPP_WRONG_BROWSER_DETAIL"] = "Äëÿ ðàáîòû ñ êîíñòðóêòîðîì ìîáèëüíûõ ïðèëîæåíèé òðåáóåòñÿ Microsoft Internet Explorer âåðñèè 9 èëè íîâåå";
+$MESS["MOBILEAPP_APP_DESIGNER_TITLE"] = "ÐšÐ¾Ð½ÑÑ‚Ñ€ÑƒÐºÑ‚Ð¾Ñ€ Ð¼Ð¾Ð±Ð¸Ð»ÑŒÐ½Ð¾Ð³Ð¾ Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ";
+$MESS["MOBILEAPP_WRONG_BROWSER"] = "ÐÐµÐ¿Ð¾Ð´Ñ…Ð¾Ð´ÑÑ‰Ð¸Ð¹ Ð±Ñ€Ð°ÑƒÐ·ÐµÑ€";
+$MESS["MOBILEAPP_WRONG_BROWSER_DETAIL"] = "Ð”Ð»Ñ Ñ€Ð°Ð±Ð¾Ñ‚Ñ‹ Ñ ÐºÐ¾Ð½ÑÑ‚Ñ€ÑƒÐºÑ‚Ð¾Ñ€Ð¾Ð¼ Ð¼Ð¾Ð±Ð¸Ð»ÑŒÐ½Ñ‹Ñ… Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹ Ñ‚Ñ€ÐµÐ±ÑƒÐµÑ‚ÑÑ Microsoft Internet Explorer Ð²ÐµÑ€ÑÐ¸Ð¸ 9 Ð¸Ð»Ð¸ Ð½Ð¾Ð²ÐµÐµ";

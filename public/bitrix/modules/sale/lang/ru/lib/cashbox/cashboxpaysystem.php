@@ -1,4 +1,4 @@
 <?php
-$MESS['SALE_CASHBOX_PAYSYSTEM_PAYSYSTEM_NOT_SUPPORT_PRINT_CHECK'] = 'Ïëàò¸æíàÿ ñèñòåìà #PAY_SYSTEM_NAME# íå ïîääåðæèâàåò ïå÷àòü ÷åêîâ';
-$MESS['SALE_CASHBOX_PAYSYSTEM_PAYSYSTEM_CANT_PRINT_CHECK_SELF'] = 'Äëÿ ïëàò¸æíîé ñèñòåìû #PAY_SYSTEM_NAME# íå âêëþ÷åíà ïå÷àòü ÷åêîâ';
-$MESS['SALE_CASHBOX_PAYSYSTEM_PAYMENT_NOT_FOUND'] = 'Îïëàòà íå íàéäåíà';
+$MESS['SALE_CASHBOX_PAYSYSTEM_PAYSYSTEM_NOT_SUPPORT_PRINT_CHECK'] = 'ÐŸÐ»Ð°Ñ‚Ñ‘Ð¶Ð½Ð°Ñ ÑÐ¸ÑÑ‚ÐµÐ¼Ð° #PAY_SYSTEM_NAME# Ð½Ðµ Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶Ð¸Ð²Ð°ÐµÑ‚ Ð¿ÐµÑ‡Ð°Ñ‚ÑŒ Ñ‡ÐµÐºÐ¾Ð²';
+$MESS['SALE_CASHBOX_PAYSYSTEM_PAYSYSTEM_CANT_PRINT_CHECK_SELF'] = 'Ð”Ð»Ñ Ð¿Ð»Ð°Ñ‚Ñ‘Ð¶Ð½Ð¾Ð¹ ÑÐ¸ÑÑ‚ÐµÐ¼Ñ‹ #PAY_SYSTEM_NAME# Ð½Ðµ Ð²ÐºÐ»ÑŽÑ‡ÐµÐ½Ð° Ð¿ÐµÑ‡Ð°Ñ‚ÑŒ Ñ‡ÐµÐºÐ¾Ð²';
+$MESS['SALE_CASHBOX_PAYSYSTEM_PAYMENT_NOT_FOUND'] = 'ÐžÐ¿Ð»Ð°Ñ‚Ð° Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð°';

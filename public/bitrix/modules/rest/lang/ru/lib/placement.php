@@ -1,2 +1,2 @@
 <?php
-$MESS["REST_PLACEMENT_DEFAULT_TITLE"] = "Ðàñøèðåíèå ¹#ID#";
+$MESS["REST_PLACEMENT_DEFAULT_TITLE"] = "Ð Ð°ÑÑˆÐ¸Ñ€ÐµÐ½Ð¸Ðµ â„–#ID#";

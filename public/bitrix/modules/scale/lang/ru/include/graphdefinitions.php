@@ -1,5 +1,5 @@
 <?
-$MESS ['SCALE_GDEF_CATEGORY_DISC'] = "Äèñêè";
-$MESS ['SCALE_GDEF_CATEGORY_NET'] = "Ñåòü";
-$MESS ['SCALE_GDEF_CATEGORY_PROCESSES'] = "Ïðîöåññû";
-$MESS ['SCALE_GDEF_CATEGORY_SYSTEM'] = "Ñèñòåìà";
+$MESS ['SCALE_GDEF_CATEGORY_DISC'] = "Ð”Ð¸ÑÐºÐ¸";
+$MESS ['SCALE_GDEF_CATEGORY_NET'] = "Ð¡ÐµÑ‚ÑŒ";
+$MESS ['SCALE_GDEF_CATEGORY_PROCESSES'] = "ÐŸÑ€Ð¾Ñ†ÐµÑÑÑ‹";
+$MESS ['SCALE_GDEF_CATEGORY_SYSTEM'] = "Ð¡Ð¸ÑÑ‚ÐµÐ¼Ð°";

@@ -1,15 +1,15 @@
 <?
-$MESS["OP_NAME_CALENDAR_TYPE_VIEW"] = "Ïðîñìîòð êàëåíäàðåé è ñîáûòèé äàííîãî òèïà";
-$MESS["OP_NAME_CALENDAR_TYPE_ADD"] = "Äîáàâëåíèå íîâûõ ñîáûòèé äàííîãî òèïà";
-$MESS["OP_NAME_CALENDAR_TYPE_EDIT"] = "Ðåäàêòðîâàíèå ñîáûòèé äàííîãî òèïà";
-$MESS["OP_NAME_CALENDAR_TYPE_EDIT_ACCESS"] = "Ðåäàêòðîâàíèå êàëåíäàðåé è ñîáûòèé äàííîãî òèïà";
-$MESS["OP_NAME_CALENDAR_TYPE_EDIT_SECTION"] = "Íàñòðîéêà ïðàâ äîñòóïà äëÿ äàííîãî òèïà";
+$MESS["OP_NAME_CALENDAR_TYPE_VIEW"] = "ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ ÐºÐ°Ð»ÐµÐ½Ð´Ð°Ñ€ÐµÐ¹ Ð¸ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ð¹ Ð´Ð°Ð½Ð½Ð¾Ð³Ð¾ Ñ‚Ð¸Ð¿Ð°";
+$MESS["OP_NAME_CALENDAR_TYPE_ADD"] = "Ð”Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ð½Ð¾Ð²Ñ‹Ñ… ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ð¹ Ð´Ð°Ð½Ð½Ð¾Ð³Ð¾ Ñ‚Ð¸Ð¿Ð°";
+$MESS["OP_NAME_CALENDAR_TYPE_EDIT"] = "Ð ÐµÐ´Ð°ÐºÑ‚Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ð¹ Ð´Ð°Ð½Ð½Ð¾Ð³Ð¾ Ñ‚Ð¸Ð¿Ð°";
+$MESS["OP_NAME_CALENDAR_TYPE_EDIT_ACCESS"] = "Ð ÐµÐ´Ð°ÐºÑ‚Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ ÐºÐ°Ð»ÐµÐ½Ð´Ð°Ñ€ÐµÐ¹ Ð¸ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ð¹ Ð´Ð°Ð½Ð½Ð¾Ð³Ð¾ Ñ‚Ð¸Ð¿Ð°";
+$MESS["OP_NAME_CALENDAR_TYPE_EDIT_SECTION"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° Ð¿Ñ€Ð°Ð² Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð° Ð´Ð»Ñ Ð´Ð°Ð½Ð½Ð¾Ð³Ð¾ Ñ‚Ð¸Ð¿Ð°";
 
-$MESS["OP_NAME_CALENDAR_ADD"] = "Äîáàâëåíèå ñîáûòèé";
-$MESS["OP_NAME_CALENDAR_EDIT"] = "Ðåäàêòðîâíèå ñîáûòèé";
-$MESS["OP_NAME_CALENDAR_EDIT_SECTION"] = "Ðåäàêòèðîâíàèå êàëåíäàðåé";
-$MESS["OP_NAME_CALENDAR_VIEW_FULL"] = "Ïðîñìîòð ñîáûòèé";
-$MESS["OP_NAME_CALENDAR_VIEW_TIME"] = "Ïðîñìîòð òîëüêî çàíÿòîñòè";
-$MESS["OP_NAME_CALENDAR_VIEW_TITLE"] = "Ïðîñìîòð çàíÿòîñòè è íàçâàíèé";
-$MESS["OP_NAME_CALENDAR_EDIT_ACCESS"] = "Óïðàâëåíèå ïðàâàìè äîñòóïà";
+$MESS["OP_NAME_CALENDAR_ADD"] = "Ð”Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ð¹";
+$MESS["OP_NAME_CALENDAR_EDIT"] = "Ð ÐµÐ´Ð°ÐºÑ‚Ñ€Ð¾Ð²Ð½Ð¸Ðµ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ð¹";
+$MESS["OP_NAME_CALENDAR_EDIT_SECTION"] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð½Ð°Ð¸Ðµ ÐºÐ°Ð»ÐµÐ½Ð´Ð°Ñ€ÐµÐ¹";
+$MESS["OP_NAME_CALENDAR_VIEW_FULL"] = "ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ð¹";
+$MESS["OP_NAME_CALENDAR_VIEW_TIME"] = "ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð·Ð°Ð½ÑÑ‚Ð¾ÑÑ‚Ð¸";
+$MESS["OP_NAME_CALENDAR_VIEW_TITLE"] = "ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ Ð·Ð°Ð½ÑÑ‚Ð¾ÑÑ‚Ð¸ Ð¸ Ð½Ð°Ð·Ð²Ð°Ð½Ð¸Ð¹";
+$MESS["OP_NAME_CALENDAR_EDIT_ACCESS"] = "Ð£Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ð¿Ñ€Ð°Ð²Ð°Ð¼Ð¸ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð°";
 ?>

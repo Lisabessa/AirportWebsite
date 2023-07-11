@@ -1,5 +1,5 @@
 <?
-$MESS["SALE_HLP_ORDERBUILDER_QUANTITY_ERROR"] = "Ê³ëüê³ñòü òîâàðó \"#PRODUCT_NAME#\" ïîâèííà áóòè á³ëüøå íóëÿ";
-$MESS["SALE_HLP_ORDERBUILDER_PRICE_ERROR"] = "Ö³íà òîâàðó \"#PRODUCT_NAME#\" ïîâèííà áóòè íåíåãàòèâíîþ";
-$MESS["SALE_HLP_ORDERBUILDER_PRODUCT_NOT_AVILABLE"] = "Òîâàð \"#NAME#\" íåäîñòóïíèé";
+$MESS["SALE_HLP_ORDERBUILDER_QUANTITY_ERROR"] = "ÐšÑ–Ð»ÑŒÐºÑ–ÑÑ‚ÑŒ Ñ‚Ð¾Ð²Ð°Ñ€Ñƒ \"#PRODUCT_NAME#\" Ð¿Ð¾Ð²Ð¸Ð½Ð½Ð° Ð±ÑƒÑ‚Ð¸ Ð±Ñ–Ð»ÑŒÑˆÐµ Ð½ÑƒÐ»Ñ";
+$MESS["SALE_HLP_ORDERBUILDER_PRICE_ERROR"] = "Ð¦Ñ–Ð½Ð° Ñ‚Ð¾Ð²Ð°Ñ€Ñƒ \"#PRODUCT_NAME#\" Ð¿Ð¾Ð²Ð¸Ð½Ð½Ð° Ð±ÑƒÑ‚Ð¸ Ð½ÐµÐ½ÐµÐ³Ð°Ñ‚Ð¸Ð²Ð½Ð¾ÑŽ";
+$MESS["SALE_HLP_ORDERBUILDER_PRODUCT_NOT_AVILABLE"] = "Ð¢Ð¾Ð²Ð°Ñ€ \"#NAME#\" Ð½ÐµÐ´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ð¸Ð¹";
 ?>

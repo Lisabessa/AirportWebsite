@@ -1,4 +1,4 @@
 <?
-$MESS['MAIN_ENTITY_VALIDATOR_RANGE_MAX'] = "Значение поля \"#FIELD_TITLE#\" превысило максимально допустимое: #MAX#.";
-$MESS['MAIN_ENTITY_VALIDATOR_RANGE_MIN'] = "Минимально допустимое значение поля \"#FIELD_TITLE#\": #MIN#.";
+$MESS['MAIN_ENTITY_VALIDATOR_RANGE_MAX'] = "Р—РЅР°С‡РµРЅРёРµ РїРѕР»СЏ \"#FIELD_TITLE#\" РїСЂРµРІС‹СЃРёР»Рѕ РјР°РєСЃРёРјР°Р»СЊРЅРѕ РґРѕРїСѓСЃС‚РёРјРѕРµ: #MAX#.";
+$MESS['MAIN_ENTITY_VALIDATOR_RANGE_MIN'] = "РњРёРЅРёРјР°Р»СЊРЅРѕ РґРѕРїСѓСЃС‚РёРјРѕРµ Р·РЅР°С‡РµРЅРёРµ РїРѕР»СЏ \"#FIELD_TITLE#\": #MIN#.";
 ?>

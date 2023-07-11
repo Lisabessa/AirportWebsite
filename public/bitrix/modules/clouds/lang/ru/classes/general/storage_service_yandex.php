@@ -1,6 +1,6 @@
 <?
-$MESS["CLO_STORAGE_YANDEX_EMPTY_ACCESS_KEY"] = "Íå çàäàí êëþ÷ äîñòóïà.";
-$MESS["CLO_STORAGE_YANDEX_EMPTY_SECRET_KEY"] = "Íå çàäàí ñåêðåòíûé êëþ÷.";
-$MESS["CLO_STORAGE_YANDEX_EDIT_ACCESS_KEY"] = "Êëþ÷ äîñòóïà";
-$MESS["CLO_STORAGE_YANDEX_EDIT_SECRET_KEY"] = "Ñåêðåòíûé êëþ÷";
+$MESS["CLO_STORAGE_YANDEX_EMPTY_ACCESS_KEY"] = "ÐÐµ Ð·Ð°Ð´Ð°Ð½ ÐºÐ»ÑŽÑ‡ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð°.";
+$MESS["CLO_STORAGE_YANDEX_EMPTY_SECRET_KEY"] = "ÐÐµ Ð·Ð°Ð´Ð°Ð½ ÑÐµÐºÑ€ÐµÑ‚Ð½Ñ‹Ð¹ ÐºÐ»ÑŽÑ‡.";
+$MESS["CLO_STORAGE_YANDEX_EDIT_ACCESS_KEY"] = "ÐšÐ»ÑŽÑ‡ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð°";
+$MESS["CLO_STORAGE_YANDEX_EDIT_SECRET_KEY"] = "Ð¡ÐµÐºÑ€ÐµÑ‚Ð½Ñ‹Ð¹ ÐºÐ»ÑŽÑ‡";
 ?>

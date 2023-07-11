@@ -1,5 +1,5 @@
 <?php
-$MESS['LANDING_HOOK_MAPCODE_USE'] = 'Google Êàðòû';
-$MESS['LANDING_HOOK_MAPCODE'] = 'Google Êàðòû';
-$MESS['LANDING_HOOK_MAPCODE_PLACEHOLDER'] = 'Ââåäèòå êëþ÷';
-$MESS['LANDING_HOOK_MAPCODE_HELP'] = 'Êàê ïîëó÷èòü êëþ÷?';
+$MESS['LANDING_HOOK_MAPCODE_USE'] = 'Google ÐšÐ°Ñ€Ñ‚Ñ‹';
+$MESS['LANDING_HOOK_MAPCODE'] = 'Google ÐšÐ°Ñ€Ñ‚Ñ‹';
+$MESS['LANDING_HOOK_MAPCODE_PLACEHOLDER'] = 'Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ ÐºÐ»ÑŽÑ‡';
+$MESS['LANDING_HOOK_MAPCODE_HELP'] = 'ÐšÐ°Ðº Ð¿Ð¾Ð»ÑƒÑ‡Ð¸Ñ‚ÑŒ ÐºÐ»ÑŽÑ‡?';

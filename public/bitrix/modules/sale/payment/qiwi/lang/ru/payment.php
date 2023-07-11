@@ -1,8 +1,8 @@
 <?php
 global $MESS;
-$MESS["SALE_QH_COMMENT"] = "Îïëàòà òðàíçàêöèè ##ID#";
-$MESS["SALE_QH_INPUT_PHONE"] = "Ââåäèòå íîìåð òåëåôîíà â ôîðìàòå: +7";
-$MESS["SALE_QH_INCORRECT_PHONE_NUMBER"] = "Íåâåðíî ââåäåí íîìåð òåëåôîíà";
+$MESS["SALE_QH_COMMENT"] = "ÐžÐ¿Ð»Ð°Ñ‚Ð° Ñ‚Ñ€Ð°Ð½Ð·Ð°ÐºÑ†Ð¸Ð¸ ##ID#";
+$MESS["SALE_QH_INPUT_PHONE"] = "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð½Ð¾Ð¼ÐµÑ€ Ñ‚ÐµÐ»ÐµÑ„Ð¾Ð½Ð° Ð² Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚Ðµ: +7";
+$MESS["SALE_QH_INCORRECT_PHONE_NUMBER"] = "ÐÐµÐ²ÐµÑ€Ð½Ð¾ Ð²Ð²ÐµÐ´ÐµÐ½ Ð½Ð¾Ð¼ÐµÑ€ Ñ‚ÐµÐ»ÐµÑ„Ð¾Ð½Ð°";
 $MESS["SALE_QH_SEND_PHONE"] = "Ok";
-$MESS["SALE_QH_DO_BILL"] = "Îïëàòèòü";
-$MESS["SALE_QH_SUMM_TO_PAY"] = "Ñóììà ê îïëàòå";
+$MESS["SALE_QH_DO_BILL"] = "ÐžÐ¿Ð»Ð°Ñ‚Ð¸Ñ‚ÑŒ";
+$MESS["SALE_QH_SUMM_TO_PAY"] = "Ð¡ÑƒÐ¼Ð¼Ð° Ðº Ð¾Ð¿Ð»Ð°Ñ‚Ðµ";

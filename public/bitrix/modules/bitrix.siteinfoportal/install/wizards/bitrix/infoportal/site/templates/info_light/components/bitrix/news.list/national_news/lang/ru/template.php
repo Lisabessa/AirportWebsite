@@ -1,4 +1,4 @@
 <?
-$MESS["SHOW_COUNTER_TITLE"] = "Просмотров: ";
-$MESS["NATIONAL_NEWS_ADD"] = "добавить новость";
+$MESS["SHOW_COUNTER_TITLE"] = "РџСЂРѕСЃРјРѕС‚СЂРѕРІ: ";
+$MESS["NATIONAL_NEWS_ADD"] = "РґРѕР±Р°РІРёС‚СЊ РЅРѕРІРѕСЃС‚СЊ";
 ?>

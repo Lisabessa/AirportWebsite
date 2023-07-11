@@ -1,6 +1,6 @@
 <?
-$MESS ['BLOG_BLOG_M_TITLE_BLOG'] = "Ïðîñìîòðåòü áëîã ïîëüçîâàòåëÿ";
-$MESS ['BLOG_BLOG_M_NUM_COMMENTS'] = "Êîììåíòàðèåâ";
-$MESS ['BLOG_BLOG_M_VIEWS'] = "Ïðîñìîòðîâ";
-$MESS ['BLOG_BLOG_M_DATE'] = "Âðåìÿ ïóáëèêàöèè";
+$MESS ['BLOG_BLOG_M_TITLE_BLOG'] = "ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ÐµÑ‚ÑŒ Ð±Ð»Ð¾Ð³ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
+$MESS ['BLOG_BLOG_M_NUM_COMMENTS'] = "ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸ÐµÐ²";
+$MESS ['BLOG_BLOG_M_VIEWS'] = "ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð¾Ð²";
+$MESS ['BLOG_BLOG_M_DATE'] = "Ð’Ñ€ÐµÐ¼Ñ Ð¿ÑƒÐ±Ð»Ð¸ÐºÐ°Ñ†Ð¸Ð¸";
 ?>

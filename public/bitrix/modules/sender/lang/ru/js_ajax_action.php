@@ -1,10 +1,10 @@
 <?
-$MESS ['MAIN_AJAX_ACTION_CONFIRM_DELETE'] = "Ïîäòâåðäèòå, âûïîëíèòü óäàëåíèå \"%name%\"?";
-$MESS ['MAIN_AJAX_ACTION_DELETE'] = "Óäàëèòü";
-$MESS ['MAIN_AJAX_ACTION_APPLY'] = "Âûïîëíèòü";
-$MESS ['MAIN_AJAX_ACTION_CANCEL'] = "Îòìåíèòü";
-$MESS ['MAIN_AJAX_ACTION_CLOSE'] = "Çàêðûòü";
-$MESS ['MAIN_AJAX_ACTION_CONFIRM'] = "Ïîäòâåðäèòå, âûïîëíèòü ýòî äåéñòâèå?";
-$MESS ['MAIN_AJAX_ACTION_ERROR'] = "Âî âðåìÿ âûïîëíåíèÿ ïðîèçîøëà îøèáêà. Ïîïðîáóéòå åùå ðàç.";
-$MESS ['MAIN_AJAX_ACTION_SUCCESS'] = "Óñïåøíî âûïîëíåíî!";
+$MESS ['MAIN_AJAX_ACTION_CONFIRM_DELETE'] = "ÐŸÐ¾Ð´Ñ‚Ð²ÐµÑ€Ð´Ð¸Ñ‚Ðµ, Ð²Ñ‹Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÑŒ ÑƒÐ´Ð°Ð»ÐµÐ½Ð¸Ðµ \"%name%\"?";
+$MESS ['MAIN_AJAX_ACTION_DELETE'] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";
+$MESS ['MAIN_AJAX_ACTION_APPLY'] = "Ð’Ñ‹Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÑŒ";
+$MESS ['MAIN_AJAX_ACTION_CANCEL'] = "ÐžÑ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
+$MESS ['MAIN_AJAX_ACTION_CLOSE'] = "Ð—Ð°ÐºÑ€Ñ‹Ñ‚ÑŒ";
+$MESS ['MAIN_AJAX_ACTION_CONFIRM'] = "ÐŸÐ¾Ð´Ñ‚Ð²ÐµÑ€Ð´Ð¸Ñ‚Ðµ, Ð²Ñ‹Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÑŒ ÑÑ‚Ð¾ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ðµ?";
+$MESS ['MAIN_AJAX_ACTION_ERROR'] = "Ð’Ð¾ Ð²Ñ€ÐµÐ¼Ñ Ð²Ñ‹Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¸Ñ Ð¿Ñ€Ð¾Ð¸Ð·Ð¾ÑˆÐ»Ð° Ð¾ÑˆÐ¸Ð±ÐºÐ°. ÐŸÐ¾Ð¿Ñ€Ð¾Ð±ÑƒÐ¹Ñ‚Ðµ ÐµÑ‰Ðµ Ñ€Ð°Ð·.";
+$MESS ['MAIN_AJAX_ACTION_SUCCESS'] = "Ð£ÑÐ¿ÐµÑˆÐ½Ð¾ Ð²Ñ‹Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¾!";
 ?>

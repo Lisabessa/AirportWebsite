@@ -1,8 +1,8 @@
 <?
-$MESS['MYMS_TPL_SEARCH'] = 'Ïîèñê ïî àäðåñó';
-$MESS['MYMS_TPL_SUBMIT'] = 'Èñêàòü';
-$MESS['MYMS_TPL_JS_ERROR'] = 'Îøèáêà';
-$MESS['MYMS_TPL_JS_SEARCH'] = 'Ðåçóëüòàòû ïîèñêà';
-$MESS['MYMS_TPL_JS_RESULTS'] = 'ðåçóëüòàòîâ íàéäåíî';
-$MESS['MYMS_TPL_JS_RESULTS_EMPTY'] = 'Íè÷åãî íå íàéäåíî';
+$MESS['MYMS_TPL_SEARCH'] = 'ÐŸÐ¾Ð¸ÑÐº Ð¿Ð¾ Ð°Ð´Ñ€ÐµÑÑƒ';
+$MESS['MYMS_TPL_SUBMIT'] = 'Ð˜ÑÐºÐ°Ñ‚ÑŒ';
+$MESS['MYMS_TPL_JS_ERROR'] = 'ÐžÑˆÐ¸Ð±ÐºÐ°';
+$MESS['MYMS_TPL_JS_SEARCH'] = 'Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ñ‹ Ð¿Ð¾Ð¸ÑÐºÐ°';
+$MESS['MYMS_TPL_JS_RESULTS'] = 'Ñ€ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ð¾Ð² Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾';
+$MESS['MYMS_TPL_JS_RESULTS_EMPTY'] = 'ÐÐ¸Ñ‡ÐµÐ³Ð¾ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾';
 ?>

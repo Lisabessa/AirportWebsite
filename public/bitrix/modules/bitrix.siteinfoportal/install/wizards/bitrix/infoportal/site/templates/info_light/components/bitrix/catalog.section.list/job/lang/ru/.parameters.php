@@ -1,3 +1,3 @@
 <?
-$MESS["IBLOCK_TITLE"] = "Заголовок";
+$MESS["IBLOCK_TITLE"] = "Р—Р°РіРѕР»РѕРІРѕРє";
 ?>

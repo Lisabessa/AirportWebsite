@@ -1,12 +1,12 @@
 <?
-$MESS["COMMAND_ENTITY_ID_FIELD"] = "Èäåíòèôèêàòîð êîìàíäû";
-$MESS["COMMAND_ENTITY_BOT_ID_FIELD"] = "Èäåíòèôèêàòîð ÷àò-áîòà";
-$MESS["COMMAND_ENTITY_COMMAND_FIELD"] = "Êîìàíäà";
-$MESS["COMMAND_ENTITY_COMMON_FIELD"] = "Ñòàòóñ ãëîáàëüíîñòè êîìàíäû";
-$MESS["COMMAND_ENTITY_HIDDEN_FIELD"] = "Ñòàòóñ ñêðûòèÿ êîìàíäû";
-$MESS["COMMAND_ENTITY_SONET_SUPPORT_FIELD"] = "Ñòàòóñ ïîääåðæêè ðàçäåëà íîâîñòè";
-$MESS["COMMAND_ENTITY_CLASS_FIELD"] = "Êëàññ îáðàáîò÷èê êîìàíäû";
-$MESS["COMMAND_ENTITY_METHOD_COMMAND_ADD_FIELD"] = "Ìåòîä êëàññà äëÿ îáðàáîòêè âõîäÿùåé êîìàíäû";
-$MESS["COMMAND_ENTITY_METHOD_LANG_GET_FIELD"] = "Ìåòîä êëàññà äëÿ ïîëó÷åíèÿ ëîêàëèçàöèé";
-$MESS["COMMAND_ENTITY_APP_ID_FIELD"] = "Èäåíòèôèêàòîð REST ïðèëîæåíèÿ";
-$MESS["COMMAND_ENTITY_MODULE_ID_FIELD"] = "Èäåíòèôèêàòîð ìîäóëÿ";
+$MESS["COMMAND_ENTITY_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÐºÐ¾Ð¼Ð°Ð½Ð´Ñ‹";
+$MESS["COMMAND_ENTITY_BOT_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ñ‡Ð°Ñ‚-Ð±Ð¾Ñ‚Ð°";
+$MESS["COMMAND_ENTITY_COMMAND_FIELD"] = "ÐšÐ¾Ð¼Ð°Ð½Ð´Ð°";
+$MESS["COMMAND_ENTITY_COMMON_FIELD"] = "Ð¡Ñ‚Ð°Ñ‚ÑƒÑ Ð³Ð»Ð¾Ð±Ð°Ð»ÑŒÐ½Ð¾ÑÑ‚Ð¸ ÐºÐ¾Ð¼Ð°Ð½Ð´Ñ‹";
+$MESS["COMMAND_ENTITY_HIDDEN_FIELD"] = "Ð¡Ñ‚Ð°Ñ‚ÑƒÑ ÑÐºÑ€Ñ‹Ñ‚Ð¸Ñ ÐºÐ¾Ð¼Ð°Ð½Ð´Ñ‹";
+$MESS["COMMAND_ENTITY_SONET_SUPPORT_FIELD"] = "Ð¡Ñ‚Ð°Ñ‚ÑƒÑ Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ¸ Ñ€Ð°Ð·Ð´ÐµÐ»Ð° Ð½Ð¾Ð²Ð¾ÑÑ‚Ð¸";
+$MESS["COMMAND_ENTITY_CLASS_FIELD"] = "ÐšÐ»Ð°ÑÑ Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚Ñ‡Ð¸Ðº ÐºÐ¾Ð¼Ð°Ð½Ð´Ñ‹";
+$MESS["COMMAND_ENTITY_METHOD_COMMAND_ADD_FIELD"] = "ÐœÐµÑ‚Ð¾Ð´ ÐºÐ»Ð°ÑÑÐ° Ð´Ð»Ñ Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ¸ Ð²Ñ…Ð¾Ð´ÑÑ‰ÐµÐ¹ ÐºÐ¾Ð¼Ð°Ð½Ð´Ñ‹";
+$MESS["COMMAND_ENTITY_METHOD_LANG_GET_FIELD"] = "ÐœÐµÑ‚Ð¾Ð´ ÐºÐ»Ð°ÑÑÐ° Ð´Ð»Ñ Ð¿Ð¾Ð»ÑƒÑ‡ÐµÐ½Ð¸Ñ Ð»Ð¾ÐºÐ°Ð»Ð¸Ð·Ð°Ñ†Ð¸Ð¹";
+$MESS["COMMAND_ENTITY_APP_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ REST Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ";
+$MESS["COMMAND_ENTITY_MODULE_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¼Ð¾Ð´ÑƒÐ»Ñ";

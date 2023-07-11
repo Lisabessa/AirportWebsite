@@ -1,20 +1,20 @@
 <?
-$MESS['SALE_DH_EMS_CONFIG_CATEGORY'] = "Категорія відправлення (для міжнародної доставки)";
-$MESS['SALE_DH_EMS_CONFIG_CATEGORY_att'] = "товарні вкладення";
-$MESS['SALE_DH_EMS_CONFIG_CATEGORY_doc'] = "документи (до 2 кг)";
-$MESS['SALE_DH_EMS_CONFIG_TITLE'] = "Параметри";
-$MESS['SALE_DH_EMS_CORRECT_CITIES'] = "Оновлення списку міст.";
-$MESS['SALE_DH_EMS_CORRECT_COUNTRIES'] = "Оновлення списку країн.";
-$MESS['SALE_DH_EMS_CORRECT_REGIONS'] = "Оновлення списку регіонів.";
-$MESS['SALE_DH_EMS_DAYS'] = "днів";
-$MESS['SALE_DH_EMS_DELIVERY_TITLE'] = "експрес-доставка";
-$MESS['SALE_DH_EMS_DESCRIPTION'] = "Експрес-доставка";
-$MESS['SALE_DH_EMS_DESCRIPTION_INNER'] = "Оброблювач служби доставки «EMS Пошта Росії». Доставка тільки з Росії. Працює на основі <a href=\"http://www.emspost.ru/service/online/api\" target=\"_blank\">публічного API служби</a>.<br />Необхідне встановлення адреси магазину у <a href=\"/bitrix/admin/settings.php?mid=sale&lang=ru\">налаштуваннях модуля</a>.";
-$MESS['SALE_DH_EMS_ERROR_CONNECT'] = "Не вдалося розрахувати вартість доставки: помилка з'єднання.";
-$MESS['SALE_DH_EMS_ERROR_NO_CITY_FROM'] = "Служба не має доставки з міста #CITY#.";
-$MESS['SALE_DH_EMS_ERROR_NO_CITY_TO'] = "Служба не має доставки в місто #CITY#.";
-$MESS['SALE_DH_EMS_ERROR_NO_COUNTRY_TO'] = "Служба не має доставки в країну #COUNTRY#.";
-$MESS['SALE_DH_EMS_ERROR_NO_LOCATION_TO'] = "Служба не здійснює доставки в дане місцезнаходження";
-$MESS['SALE_DH_EMS_ERROR_RESPONSE'] = "Не вдалось розрахувати вартість доставки: невірна відповідь сервера";
-$MESS['SALE_DH_EMS_NAME'] = "EMS Пошта Росії";
+$MESS['SALE_DH_EMS_CONFIG_CATEGORY'] = "РљР°С‚РµРіРѕСЂС–СЏ РІС–РґРїСЂР°РІР»РµРЅРЅСЏ (РґР»СЏ РјС–Р¶РЅР°СЂРѕРґРЅРѕС— РґРѕСЃС‚Р°РІРєРё)";
+$MESS['SALE_DH_EMS_CONFIG_CATEGORY_att'] = "С‚РѕРІР°СЂРЅС– РІРєР»Р°РґРµРЅРЅСЏ";
+$MESS['SALE_DH_EMS_CONFIG_CATEGORY_doc'] = "РґРѕРєСѓРјРµРЅС‚Рё (РґРѕ 2 РєРі)";
+$MESS['SALE_DH_EMS_CONFIG_TITLE'] = "РџР°СЂР°РјРµС‚СЂРё";
+$MESS['SALE_DH_EMS_CORRECT_CITIES'] = "РћРЅРѕРІР»РµРЅРЅСЏ СЃРїРёСЃРєСѓ РјС–СЃС‚.";
+$MESS['SALE_DH_EMS_CORRECT_COUNTRIES'] = "РћРЅРѕРІР»РµРЅРЅСЏ СЃРїРёСЃРєСѓ РєСЂР°С—РЅ.";
+$MESS['SALE_DH_EMS_CORRECT_REGIONS'] = "РћРЅРѕРІР»РµРЅРЅСЏ СЃРїРёСЃРєСѓ СЂРµРіС–РѕРЅС–РІ.";
+$MESS['SALE_DH_EMS_DAYS'] = "РґРЅС–РІ";
+$MESS['SALE_DH_EMS_DELIVERY_TITLE'] = "РµРєСЃРїСЂРµСЃ-РґРѕСЃС‚Р°РІРєР°";
+$MESS['SALE_DH_EMS_DESCRIPTION'] = "Р•РєСЃРїСЂРµСЃ-РґРѕСЃС‚Р°РІРєР°";
+$MESS['SALE_DH_EMS_DESCRIPTION_INNER'] = "РћР±СЂРѕР±Р»СЋРІР°С‡ СЃР»СѓР¶Р±Рё РґРѕСЃС‚Р°РІРєРё В«EMS РџРѕС€С‚Р° Р РѕСЃС–С—В». Р”РѕСЃС‚Р°РІРєР° С‚С–Р»СЊРєРё Р· Р РѕСЃС–С—. РџСЂР°С†СЋС” РЅР° РѕСЃРЅРѕРІС– <a href=\"http://www.emspost.ru/service/online/api\" target=\"_blank\">РїСѓР±Р»С–С‡РЅРѕРіРѕ API СЃР»СѓР¶Р±Рё</a>.<br />РќРµРѕР±С…С–РґРЅРµ РІСЃС‚Р°РЅРѕРІР»РµРЅРЅСЏ Р°РґСЂРµСЃРё РјР°РіР°Р·РёРЅСѓ Сѓ <a href=\"/bitrix/admin/settings.php?mid=sale&lang=ru\">РЅР°Р»Р°С€С‚СѓРІР°РЅРЅСЏС… РјРѕРґСѓР»СЏ</a>.";
+$MESS['SALE_DH_EMS_ERROR_CONNECT'] = "РќРµ РІРґР°Р»РѕСЃСЏ СЂРѕР·СЂР°С…СѓРІР°С‚Рё РІР°СЂС‚С–СЃС‚СЊ РґРѕСЃС‚Р°РІРєРё: РїРѕРјРёР»РєР° Р·'С”РґРЅР°РЅРЅСЏ.";
+$MESS['SALE_DH_EMS_ERROR_NO_CITY_FROM'] = "РЎР»СѓР¶Р±Р° РЅРµ РјР°С” РґРѕСЃС‚Р°РІРєРё Р· РјС–СЃС‚Р° #CITY#.";
+$MESS['SALE_DH_EMS_ERROR_NO_CITY_TO'] = "РЎР»СѓР¶Р±Р° РЅРµ РјР°С” РґРѕСЃС‚Р°РІРєРё РІ РјС–СЃС‚Рѕ #CITY#.";
+$MESS['SALE_DH_EMS_ERROR_NO_COUNTRY_TO'] = "РЎР»СѓР¶Р±Р° РЅРµ РјР°С” РґРѕСЃС‚Р°РІРєРё РІ РєСЂР°С—РЅСѓ #COUNTRY#.";
+$MESS['SALE_DH_EMS_ERROR_NO_LOCATION_TO'] = "РЎР»СѓР¶Р±Р° РЅРµ Р·РґС–Р№СЃРЅСЋС” РґРѕСЃС‚Р°РІРєРё РІ РґР°РЅРµ РјС–СЃС†РµР·РЅР°С…РѕРґР¶РµРЅРЅСЏ";
+$MESS['SALE_DH_EMS_ERROR_RESPONSE'] = "РќРµ РІРґР°Р»РѕСЃСЊ СЂРѕР·СЂР°С…СѓРІР°С‚Рё РІР°СЂС‚С–СЃС‚СЊ РґРѕСЃС‚Р°РІРєРё: РЅРµРІС–СЂРЅР° РІС–РґРїРѕРІС–РґСЊ СЃРµСЂРІРµСЂР°";
+$MESS['SALE_DH_EMS_NAME'] = "EMS РџРѕС€С‚Р° Р РѕСЃС–С—";
 ?>

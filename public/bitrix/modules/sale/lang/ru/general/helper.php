@@ -1,3 +1,3 @@
 <?
-$MESS ['SALE_HELPER_DELETE'] = "Óäàëèòü";
+$MESS ['SALE_HELPER_DELETE'] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";
 ?>

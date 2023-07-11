@@ -1,8 +1,8 @@
 <?
-$MESS["SALE_ORDER_ENTITY_NOT_FOUND"] = "Çàìîâëåííÿ íå çíàéäåíî";
-$MESS["SALE_ORDER_PAYMENT_CANCELLED_PAID"] = "Ïîìèëêà ïðè ñêàñóâàíí³ îïëàòè";
-$MESS["SALE_ORDER_SHIPMENT_ORDER_CANCELED"] = "Íåìîæëèâî â³äâàíòàæèòè ñêàñîâàíå çàìîâëåííÿ";
-$MESS["SALE_ORDER_ALLOW_DELIVERY_ORDER_CANCELED"] = "Íåìîæëèâî çì³íèòè äîçâ³ë â³äâàíòàæåííÿ ó ñêàñîâàíîãî çàìîâëåííÿ";
-$MESS["SALE_ORDER_PAID_ORDER_CANCELED"] = "Íåìîæëèâî îïëàòèòè ñêàñîâàíå çàìîâëåííÿ";
-$MESS["SALE_ORDER_PRICE_DELIVERY_ORDER_CANCELED"] = "Íåìîæëèâî çì³íèòè âàðò³ñòü â³äâàíòàæåííÿ ñêàñîâàíîãî çàìîâëåííÿ";
-$MESS["SALE_ORDER_WRONG_ID"] = "Íåêîðåêòíèé ID çàìîâëåííÿ";
+$MESS["SALE_ORDER_ENTITY_NOT_FOUND"] = "Ð—Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ Ð½Ðµ Ð·Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾";
+$MESS["SALE_ORDER_PAYMENT_CANCELLED_PAID"] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ° Ð¿Ñ€Ð¸ ÑÐºÐ°ÑÑƒÐ²Ð°Ð½Ð½Ñ– Ð¾Ð¿Ð»Ð°Ñ‚Ð¸";
+$MESS["SALE_ORDER_SHIPMENT_ORDER_CANCELED"] = "ÐÐµÐ¼Ð¾Ð¶Ð»Ð¸Ð²Ð¾ Ð²Ñ–Ð´Ð²Ð°Ð½Ñ‚Ð°Ð¶Ð¸Ñ‚Ð¸ ÑÐºÐ°ÑÐ¾Ð²Ð°Ð½Ðµ Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ";
+$MESS["SALE_ORDER_ALLOW_DELIVERY_ORDER_CANCELED"] = "ÐÐµÐ¼Ð¾Ð¶Ð»Ð¸Ð²Ð¾ Ð·Ð¼Ñ–Ð½Ð¸Ñ‚Ð¸ Ð´Ð¾Ð·Ð²Ñ–Ð» Ð²Ñ–Ð´Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ Ñƒ ÑÐºÐ°ÑÐ¾Ð²Ð°Ð½Ð¾Ð³Ð¾ Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ";
+$MESS["SALE_ORDER_PAID_ORDER_CANCELED"] = "ÐÐµÐ¼Ð¾Ð¶Ð»Ð¸Ð²Ð¾ Ð¾Ð¿Ð»Ð°Ñ‚Ð¸Ñ‚Ð¸ ÑÐºÐ°ÑÐ¾Ð²Ð°Ð½Ðµ Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ";
+$MESS["SALE_ORDER_PRICE_DELIVERY_ORDER_CANCELED"] = "ÐÐµÐ¼Ð¾Ð¶Ð»Ð¸Ð²Ð¾ Ð·Ð¼Ñ–Ð½Ð¸Ñ‚Ð¸ Ð²Ð°Ñ€Ñ‚Ñ–ÑÑ‚ÑŒ Ð²Ñ–Ð´Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ ÑÐºÐ°ÑÐ¾Ð²Ð°Ð½Ð¾Ð³Ð¾ Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ";
+$MESS["SALE_ORDER_WRONG_ID"] = "ÐÐµÐºÐ¾Ñ€ÐµÐºÑ‚Ð½Ð¸Ð¹ ID Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ";

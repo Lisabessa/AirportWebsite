@@ -1,8 +1,8 @@
 <?
-$MESS["VAT_ENTITY_ID_FIELD"] = "Èäåíòèôèêàòîð íàöåíêè";
-$MESS["VAT_ENTITY_TIMESTAMP_X_FIELD"] = "Âðåìÿ èçìåíåíèÿ";
-$MESS["VAT_ENTITY_ACTIVE_FIELD"] = "Àêòèâíîñòü";
-$MESS["VAT_ENTITY_SORT_FIELD"] = "Ñîðòèðîâêà";
-$MESS["VAT_ENTITY_NAME_FIELD"] = "Íàçâàíèå";
-$MESS["VAT_ENTITY_RATE_FIELD"] = "Âåëè÷èíà";
+$MESS["VAT_ENTITY_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð½Ð°Ñ†ÐµÐ½ÐºÐ¸";
+$MESS["VAT_ENTITY_TIMESTAMP_X_FIELD"] = "Ð’Ñ€ÐµÐ¼Ñ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ";
+$MESS["VAT_ENTITY_ACTIVE_FIELD"] = "ÐÐºÑ‚Ð¸Ð²Ð½Ð¾ÑÑ‚ÑŒ";
+$MESS["VAT_ENTITY_SORT_FIELD"] = "Ð¡Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²ÐºÐ°";
+$MESS["VAT_ENTITY_NAME_FIELD"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
+$MESS["VAT_ENTITY_RATE_FIELD"] = "Ð’ÐµÐ»Ð¸Ñ‡Ð¸Ð½Ð°";
 ?>

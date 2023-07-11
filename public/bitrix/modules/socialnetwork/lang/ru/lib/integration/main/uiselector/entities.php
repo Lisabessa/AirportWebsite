@@ -1,4 +1,4 @@
 <?
-$MESS["MPF_DESTINATION_3"] = "Âñåì ñîòðóäíèêàì";
-$MESS["MPF_DESTINATION_4"] = "Âñåì ïîëüçîâàòåëÿì";
+$MESS["MPF_DESTINATION_3"] = "Ð’ÑÐµÐ¼ ÑÐ¾Ñ‚Ñ€ÑƒÐ´Ð½Ð¸ÐºÐ°Ð¼";
+$MESS["MPF_DESTINATION_4"] = "Ð’ÑÐµÐ¼ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑÐ¼";
 ?>

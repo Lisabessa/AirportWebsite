@@ -1,11 +1,11 @@
 <?
-$MESS["CLO_STORAGE_S3_XML_PARSE_ERROR"] = "íåðàñïîçíàííûé îòâåò ñëóæáû (îøèáêà ##errno#)";
-$MESS["CLO_STORAGE_S3_XML_ERROR"] = "îøèáêà ñëóæáû: #errmsg#";
-$MESS["CLO_STORAGE_S3_EMPTY_HOST"] = "Íå çàäàíî èìÿ ñåðâåðà.";
-$MESS["CLO_STORAGE_S3_EMPTY_ACCESS_KEY"] = "Íå çàäàí êëþ÷ äîñòóïà.";
-$MESS["CLO_STORAGE_S3_EMPTY_SECRET_KEY"] = "Íå çàäàí ñåêðåòíûé êëþ÷.";
-$MESS["CLO_STORAGE_S3_EDIT_ACCESS_KEY"] = "Êëþ÷ äîñòóïà";
-$MESS["CLO_STORAGE_S3_EDIT_SECRET_KEY"] = "Ñåêðåòíûé êëþ÷";
-$MESS["CLO_STORAGE_S3_EDIT_HOST"] = "Èìÿ ñåðâåðà (API host)";
-$MESS["CLO_STORAGE_S3_EDIT_USE_HTTPS"] = "Ïîäêëþ÷àòüñÿ ñ èñïîëüçîâàíèåì https";
+$MESS["CLO_STORAGE_S3_XML_PARSE_ERROR"] = "Ð½ÐµÑ€Ð°ÑÐ¿Ð¾Ð·Ð½Ð°Ð½Ð½Ñ‹Ð¹ Ð¾Ñ‚Ð²ÐµÑ‚ ÑÐ»ÑƒÐ¶Ð±Ñ‹ (Ð¾ÑˆÐ¸Ð±ÐºÐ° ##errno#)";
+$MESS["CLO_STORAGE_S3_XML_ERROR"] = "Ð¾ÑˆÐ¸Ð±ÐºÐ° ÑÐ»ÑƒÐ¶Ð±Ñ‹: #errmsg#";
+$MESS["CLO_STORAGE_S3_EMPTY_HOST"] = "ÐÐµ Ð·Ð°Ð´Ð°Ð½Ð¾ Ð¸Ð¼Ñ ÑÐµÑ€Ð²ÐµÑ€Ð°.";
+$MESS["CLO_STORAGE_S3_EMPTY_ACCESS_KEY"] = "ÐÐµ Ð·Ð°Ð´Ð°Ð½ ÐºÐ»ÑŽÑ‡ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð°.";
+$MESS["CLO_STORAGE_S3_EMPTY_SECRET_KEY"] = "ÐÐµ Ð·Ð°Ð´Ð°Ð½ ÑÐµÐºÑ€ÐµÑ‚Ð½Ñ‹Ð¹ ÐºÐ»ÑŽÑ‡.";
+$MESS["CLO_STORAGE_S3_EDIT_ACCESS_KEY"] = "ÐšÐ»ÑŽÑ‡ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð°";
+$MESS["CLO_STORAGE_S3_EDIT_SECRET_KEY"] = "Ð¡ÐµÐºÑ€ÐµÑ‚Ð½Ñ‹Ð¹ ÐºÐ»ÑŽÑ‡";
+$MESS["CLO_STORAGE_S3_EDIT_HOST"] = "Ð˜Ð¼Ñ ÑÐµÑ€Ð²ÐµÑ€Ð° (API host)";
+$MESS["CLO_STORAGE_S3_EDIT_USE_HTTPS"] = "ÐŸÐ¾Ð´ÐºÐ»ÑŽÑ‡Ð°Ñ‚ÑŒÑÑ Ñ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð¸ÐµÐ¼ https";
 ?>

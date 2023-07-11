@@ -1,4 +1,4 @@
 <?php
-$MESS['SALE_HPS_QIWI_COMMENT'] = 'Îïëàòà ¹#ID#';
-$MESS['SALE_HPS_QIWI_DO_BILL'] = 'Îïëàòèòü';
-$MESS["SALE_HPS_QIWI_SUMM_TO_PAY"] = "Ñóììà ê îïëàòå";
+$MESS['SALE_HPS_QIWI_COMMENT'] = 'ÐžÐ¿Ð»Ð°Ñ‚Ð° â„–#ID#';
+$MESS['SALE_HPS_QIWI_DO_BILL'] = 'ÐžÐ¿Ð»Ð°Ñ‚Ð¸Ñ‚ÑŒ';
+$MESS["SALE_HPS_QIWI_SUMM_TO_PAY"] = "Ð¡ÑƒÐ¼Ð¼Ð° Ðº Ð¾Ð¿Ð»Ð°Ñ‚Ðµ";

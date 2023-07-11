@@ -1,3 +1,3 @@
 <?php
-$MESS['LANDING_TABLE_FIELD_FILTER_ID'] = 'Èäåíòèôèêàòîð ôèëüòðà';
-$MESS['LANDING_TABLE_FIELD_BLOCK_ID'] = 'Èäåíòèôèêàòîð áëîêà';
+$MESS['LANDING_TABLE_FIELD_FILTER_ID'] = 'Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ñ„Ð¸Ð»ÑŒÑ‚Ñ€Ð°';
+$MESS['LANDING_TABLE_FIELD_BLOCK_ID'] = 'Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð±Ð»Ð¾ÐºÐ°';

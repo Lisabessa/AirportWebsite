@@ -1,11 +1,11 @@
 <?
-$MESS["SALE_ROUTER_INTERNAL_ERROR"] = "Сталася внутрішня помилка застосунку";
-$MESS["SALE_ROUTER_INTERNAL_ERROR_TITLE"] = "Увага! Щось пішло не так";
-$MESS["SALE_ROUTER_INTERNAL_SERVER_ERROR"] = "Помилка застосунку: #ERROR#";
-$MESS["SALE_ROUTER_INTERNAL_SERVER_ERROR_AUHORIZATION"] = "Помилка сервера авторизації: #DESCRIPTION# (#ERROR#)";
-$MESS["SALE_ROUTER_INTERNAL_SERVER_ERROR_TOKEN_IS_COMPROMISED"] = "Помилка застосунку: Токен скомпроментований. Виконайте переустановку застосунку";
-$MESS["SALE_ROUTER_INTERNAL_SERVER_ERROR_TOKEN_IS_NULL"] = "Помилка застосунку: Токен відсутній";
-$MESS["SALE_ROUTER_INTERNAL_SERVER_ERROR_WRONG_RESPONSE"] = "Помилка сервера застосунку";
-$MESS["SALE_ROUTER_ORDER_NOT_FOUND"] = "<p>Прив'язка справи до замовлення втратила актуальність. Можливо замовлення було видалене або прив'язане до іншої угоди.</p><p>Для синхронізації угоди із замовленням необхідно: видалити справу&nbsp;<b>#PLACEMENT_ENTITY_ID#</b>, а потім з угоди викликати майстера імпорту замовлення в угоду</p>";
-$MESS["SALE_ROUTER_PAGE_NOT_FOUND"] = "Невідомий тип запиту";
+$MESS["SALE_ROUTER_INTERNAL_ERROR"] = "РЎС‚Р°Р»Р°СЃСЏ РІРЅСѓС‚СЂС–С€РЅСЏ РїРѕРјРёР»РєР° Р·Р°СЃС‚РѕСЃСѓРЅРєСѓ";
+$MESS["SALE_ROUTER_INTERNAL_ERROR_TITLE"] = "РЈРІР°РіР°! Р©РѕСЃСЊ РїС–С€Р»Рѕ РЅРµ С‚Р°Рє";
+$MESS["SALE_ROUTER_INTERNAL_SERVER_ERROR"] = "РџРѕРјРёР»РєР° Р·Р°СЃС‚РѕСЃСѓРЅРєСѓ: #ERROR#";
+$MESS["SALE_ROUTER_INTERNAL_SERVER_ERROR_AUHORIZATION"] = "РџРѕРјРёР»РєР° СЃРµСЂРІРµСЂР° Р°РІС‚РѕСЂРёР·Р°С†С–С—: #DESCRIPTION# (#ERROR#)";
+$MESS["SALE_ROUTER_INTERNAL_SERVER_ERROR_TOKEN_IS_COMPROMISED"] = "РџРѕРјРёР»РєР° Р·Р°СЃС‚РѕСЃСѓРЅРєСѓ: РўРѕРєРµРЅ СЃРєРѕРјРїСЂРѕРјРµРЅС‚РѕРІР°РЅРёР№. Р’РёРєРѕРЅР°Р№С‚Рµ РїРµСЂРµСѓСЃС‚Р°РЅРѕРІРєСѓ Р·Р°СЃС‚РѕСЃСѓРЅРєСѓ";
+$MESS["SALE_ROUTER_INTERNAL_SERVER_ERROR_TOKEN_IS_NULL"] = "РџРѕРјРёР»РєР° Р·Р°СЃС‚РѕСЃСѓРЅРєСѓ: РўРѕРєРµРЅ РІС–РґСЃСѓС‚РЅС–Р№";
+$MESS["SALE_ROUTER_INTERNAL_SERVER_ERROR_WRONG_RESPONSE"] = "РџРѕРјРёР»РєР° СЃРµСЂРІРµСЂР° Р·Р°СЃС‚РѕСЃСѓРЅРєСѓ";
+$MESS["SALE_ROUTER_ORDER_NOT_FOUND"] = "<p>РџСЂРёРІ'СЏР·РєР° СЃРїСЂР°РІРё РґРѕ Р·Р°РјРѕРІР»РµРЅРЅСЏ РІС‚СЂР°С‚РёР»Р° Р°РєС‚СѓР°Р»СЊРЅС–СЃС‚СЊ. РњРѕР¶Р»РёРІРѕ Р·Р°РјРѕРІР»РµРЅРЅСЏ Р±СѓР»Рѕ РІРёРґР°Р»РµРЅРµ Р°Р±Рѕ РїСЂРёРІ'СЏР·Р°РЅРµ РґРѕ С–РЅС€РѕС— СѓРіРѕРґРё.</p><p>Р”Р»СЏ СЃРёРЅС…СЂРѕРЅС–Р·Р°С†С–С— СѓРіРѕРґРё С–Р· Р·Р°РјРѕРІР»РµРЅРЅСЏРј РЅРµРѕР±С…С–РґРЅРѕ: РІРёРґР°Р»РёС‚Рё СЃРїСЂР°РІСѓ&nbsp;<b>#PLACEMENT_ENTITY_ID#</b>, Р° РїРѕС‚С–Рј Р· СѓРіРѕРґРё РІРёРєР»РёРєР°С‚Рё РјР°Р№СЃС‚РµСЂР° С–РјРїРѕСЂС‚Сѓ Р·Р°РјРѕРІР»РµРЅРЅСЏ РІ СѓРіРѕРґСѓ</p>";
+$MESS["SALE_ROUTER_PAGE_NOT_FOUND"] = "РќРµРІС–РґРѕРјРёР№ С‚РёРї Р·Р°РїРёС‚Сѓ";
 ?>

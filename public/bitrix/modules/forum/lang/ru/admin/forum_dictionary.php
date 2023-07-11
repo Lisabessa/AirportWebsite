@@ -1,16 +1,16 @@
 <?
-$MESS["FLT_TITLE_"] = "Ñëîâàðü";
-$MESS["FLT_TITLE"] = "Ñëîâàðè";
-$MESS["FLT_HEAD_TITLE"] = "Íàçâàíèå";
-$MESS["FLT_ACT_ADD"] = "Äîáàâèòü";
-$MESS["FLT_ACT_EDIT"] = "Èçìåíèòü";
-$MESS["FLT_ACT_DEL"] = "Óäàëèòü";
-$MESS["FLT_ACT_DEL_CONFIRM"] = "Ñëîâàðü áóäåò óäàëåí âìåñòå ñ åãî ñîäåðæèìûì! Âû äåéñòâèòåëüíî õîòèòå óäàëèòü ñëîâàðü?";
-$MESS["FLT_NOT_UPDATE"] = "Èçìåíåíèÿ íå ñîõðàíåíû";
-$MESS["FLT_ACT_GEN_CONFIRM"] = "&nbsp;äëÿ&nbsp;";
-$MESS["FLT_ACT_GEN"] = "Ñãåíåðèðîâàòü øàáëîíû";
-$MESS["FLT_TITLE_W"] = "Ñëîâàðü íåöåíçóðíûõ ñëîâ";
-$MESS["FLT_TITLE_T"] = "Ñëîâàðü òðàíñëèòà";
-$MESS["MAIN_ADMIN_LIST_SELECTED"] = "Âûáðàíî:";
-$MESS["MAIN_ADMIN_LIST_CHECKED"] = "Îòìå÷åíî:";
+$MESS["FLT_TITLE_"] = "Ð¡Ð»Ð¾Ð²Ð°Ñ€ÑŒ";
+$MESS["FLT_TITLE"] = "Ð¡Ð»Ð¾Ð²Ð°Ñ€Ð¸";
+$MESS["FLT_HEAD_TITLE"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
+$MESS["FLT_ACT_ADD"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ";
+$MESS["FLT_ACT_EDIT"] = "Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
+$MESS["FLT_ACT_DEL"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";
+$MESS["FLT_ACT_DEL_CONFIRM"] = "Ð¡Ð»Ð¾Ð²Ð°Ñ€ÑŒ Ð±ÑƒÐ´ÐµÑ‚ ÑƒÐ´Ð°Ð»ÐµÐ½ Ð²Ð¼ÐµÑÑ‚Ðµ Ñ ÐµÐ³Ð¾ ÑÐ¾Ð´ÐµÑ€Ð¶Ð¸Ð¼Ñ‹Ð¼! Ð’Ñ‹ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ ÑÐ»Ð¾Ð²Ð°Ñ€ÑŒ?";
+$MESS["FLT_NOT_UPDATE"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ Ð½Ðµ ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ñ‹";
+$MESS["FLT_ACT_GEN_CONFIRM"] = "&nbsp;Ð´Ð»Ñ&nbsp;";
+$MESS["FLT_ACT_GEN"] = "Ð¡Ð³ÐµÐ½ÐµÑ€Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ ÑˆÐ°Ð±Ð»Ð¾Ð½Ñ‹";
+$MESS["FLT_TITLE_W"] = "Ð¡Ð»Ð¾Ð²Ð°Ñ€ÑŒ Ð½ÐµÑ†ÐµÐ½Ð·ÑƒÑ€Ð½Ñ‹Ñ… ÑÐ»Ð¾Ð²";
+$MESS["FLT_TITLE_T"] = "Ð¡Ð»Ð¾Ð²Ð°Ñ€ÑŒ Ñ‚Ñ€Ð°Ð½ÑÐ»Ð¸Ñ‚Ð°";
+$MESS["MAIN_ADMIN_LIST_SELECTED"] = "Ð’Ñ‹Ð±Ñ€Ð°Ð½Ð¾:";
+$MESS["MAIN_ADMIN_LIST_CHECKED"] = "ÐžÑ‚Ð¼ÐµÑ‡ÐµÐ½Ð¾:";
 ?>

@@ -1,2 +1,2 @@
 <?
-$MESS["SALE_DLVRS_RELIABILITY_TITLE"] = "Ïðåöåäåíòû íåâûêóïà (Ïî÷òà Ðîññèè)";
+$MESS["SALE_DLVRS_RELIABILITY_TITLE"] = "ÐŸÑ€ÐµÑ†ÐµÐ´ÐµÐ½Ñ‚Ñ‹ Ð½ÐµÐ²Ñ‹ÐºÑƒÐ¿Ð° (ÐŸÐ¾Ñ‡Ñ‚Ð° Ð Ð¾ÑÑÐ¸Ð¸)";

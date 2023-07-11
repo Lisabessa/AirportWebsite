@@ -1,9 +1,9 @@
 <?php
 $MESS["SALE_CHECK_PRINT_ERROR_HTML_SUB_TITLE"] = "Hallo!";
 $MESS["SALE_CHECK_PRINT_ERROR_HTML_TEXT"] = "
-Der Kassenzettel ##CHECK_ID# für die Bestellung ##ORDER_ACCOUNT_NUMBER# vom #ORDER_DATE# kann nicht gedruckt werden.
+Der Kassenzettel ##CHECK_ID# fÃ¼r die Bestellung ##ORDER_ACCOUNT_NUMBER# vom #ORDER_DATE# kann nicht gedruckt werden.
 
-Klicken Sie hier, um das Problem zu lösen:
+Klicken Sie hier, um das Problem zu lÃ¶sen:
 http://#SERVER_NAME#/bitrix/admin/sale_order_view.php?ID=#ORDER_ID#
 ";
 $MESS["SALE_CHECK_PRINT_ERROR_HTML_TITLE"] = "Fehler beim Drucken des Kassenzettels";
@@ -13,7 +13,7 @@ $MESS["SALE_CHECK_PRINT_ERROR_TYPE_DESC"] = "#ORDER_ACCOUNT_NUMBER# - ID der Bes
 #ORDER_ID# - ID der Bestellung
 #CHECK_ID# - ID des Kassenzettels
 ";
-$MESS["SALE_CHECK_PRINT_ERROR_TYPE_NAME"] = "Benachrichtigung über einen Fehler beim Ausdrucken vom Kassenzettel";
+$MESS["SALE_CHECK_PRINT_ERROR_TYPE_NAME"] = "Benachrichtigung Ã¼ber einen Fehler beim Ausdrucken vom Kassenzettel";
 $MESS["SALE_CHECK_PRINT_HTML_SUB_TITLE"] = "Liebe(r) #ORDER_USER#,";
 $MESS["SALE_CHECK_PRINT_HTML_TEXT"] = "
 Ihre Zahlung wurde verarbeitet und ein entsprechender Kassenzettel wurde erstellt. Um den Kassenzettel anzuzeigen, nutzen Sie den Link:
@@ -22,19 +22,19 @@ Ihre Zahlung wurde verarbeitet und ein entsprechender Kassenzettel wurde erstell
 
 Um weitere Details zu Ihrer Bestellung ##ORDER_ID# vom #ORDER_DATE# zu bekommen, nutzen Sie bitte folgenden Link: http://#SERVER_NAME#/personal/order/detail/#ORDER_ACCOUNT_NUMBER_ENCODE#/
 ";
-$MESS["SALE_CHECK_PRINT_HTML_TITLE"] = "Ihre Zahlung für Bestellung mit #SITE_NAME#";
+$MESS["SALE_CHECK_PRINT_HTML_TITLE"] = "Ihre Zahlung fÃ¼r Bestellung mit #SITE_NAME#";
 $MESS["SALE_CHECK_PRINT_SUBJECT"] = "Link zum Kassenzettel";
 $MESS["SALE_CHECK_PRINT_TYPE_DESC"] = "#ORDER_ID# - ID der Bestellung
 #ORDER_DATE# - Bestelldatum
 #ORDER_USER# - Kunde
 #ORDER_ACCOUNT_NUMBER_ENCODE# - Bestell-ID zur Nutzung in Links
-#ORDER_PUBLIC_URL# - Link zur Bestellansicht für nicht autorisierte Nutzer (Konfiguration in den Einstellungen des Moduls Onlineshop ist erforderlich)
+#ORDER_PUBLIC_URL# - Link zur Bestellansicht fÃ¼r nicht autorisierte Nutzer (Konfiguration in den Einstellungen des Moduls Onlineshop ist erforderlich)
 #CHECK_LINK# - Link zum Kassenzettel
 ";
-$MESS["SALE_CHECK_PRINT_TYPE_NAME"] = "Benachrichtigungen über Ausdrucken von Kassenzetteln";
+$MESS["SALE_CHECK_PRINT_TYPE_NAME"] = "Benachrichtigungen Ã¼ber Ausdrucken von Kassenzetteln";
 $MESS["SALE_CHECK_VALIDATION_ERROR_HTML_SUB_TITLE"] = "Guten Tag";
 $MESS["SALE_CHECK_VALIDATION_ERROR_HTML_TEXT"] = "
-Es gab ein Problem beim Erstellen des Kassenbons für die Bestellung ##ORDER_ACCOUNT_NUMBER# vom #ORDER_DATE#!
+Es gab ein Problem beim Erstellen des Kassenbons fÃ¼r die Bestellung ##ORDER_ACCOUNT_NUMBER# vom #ORDER_DATE#!
 
 Folgen Sie diesem Link, um das Problem zu beseitigen:
 #LINK_URL#
@@ -44,7 +44,7 @@ $MESS["SALE_CHECK_VALIDATION_ERROR_SUBJECT"] = "Fehler bei der Kassenbonerstellu
 $MESS["SALE_CHECK_VALIDATION_ERROR_TYPE_DESC"] = "#ORDER_ACCOUNT_NUMBER# - Bestellung Nr.
 #ORDER_DATE# - Bestelldatum
 #ORDER_ID# - ID der Bestellung";
-$MESS["SALE_CHECK_VALIDATION_ERROR_TYPE_NAME"] = "Benachrichtigung über den Fehler der Kassenbonerstellung";
+$MESS["SALE_CHECK_VALIDATION_ERROR_TYPE_NAME"] = "Benachrichtigung Ã¼ber den Fehler der Kassenbonerstellung";
 $MESS["SALE_MAIL_EVENT_TEMPLATE"] = "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\">
 <html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">
 <head>
@@ -89,7 +89,7 @@ $MESS["SALE_MAIL_EVENT_TEMPLATE"] = "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.
 </body>
 </html>";
 $MESS["SALE_NEW_ORDER_DESC"] = "#ORDER_ID# - ID der Bestellung
-#ORDER_ACCOUNT_NUMBER_ENCODE# - ID der Bestellung (für URL)
+#ORDER_ACCOUNT_NUMBER_ENCODE# - ID der Bestellung (fÃ¼r URL)
 #ORDER_REAL_ID# - wirkliche ID der Bestellung
 #ORDER_DATE# - Bestelldatum
 #ORDER_USER# - Kunde
@@ -97,7 +97,7 @@ $MESS["SALE_NEW_ORDER_DESC"] = "#ORDER_ID# - ID der Bestellung
 #EMAIL# - E-Mail des Kunden
 #BCC# - BCC der E-Mail
 #ORDER_LIST# - Inhalte der Bestellung
-#ORDER_PUBLIC_URL# - Link zur Bestellansicht für nicht autorisierte Nutzer (Konfiguration in den Einstellungen des Moduls Onlineshop ist erforderlich)
+#ORDER_PUBLIC_URL# - Link zur Bestellansicht fÃ¼r nicht autorisierte Nutzer (Konfiguration in den Einstellungen des Moduls Onlineshop ist erforderlich)
 #SALE_EMAIL# - E-Mail der Vertriebsabteilung
 ";
 $MESS["SALE_NEW_ORDER_HTML_SUB_TITLE"] = "Liebe(r) #ORDER_USER#,";
@@ -108,13 +108,13 @@ Gesamtbetrag der Bestellung: #PRICE#.
 Bestellte Produkte:
 #ORDER_LIST#
 
-Sie können den Status Ihrer Bestellung nach erfolgtem Login auf #SITE_NAME# in Ihrem persönlichen Kundenbereich jederzeit einsehen. Sie werden dabei den Login und das Passwort angeben müssen, mit denen Sie sich auf #SITE_NAME# angemeldet haben.
+Sie kÃ¶nnen den Status Ihrer Bestellung nach erfolgtem Login auf #SITE_NAME# in Ihrem persÃ¶nlichen Kundenbereich jederzeit einsehen. Sie werden dabei den Login und das Passwort angeben mÃ¼ssen, mit denen Sie sich auf #SITE_NAME# angemeldet haben.
 
-Falls Sie diese Bestellung stornieren möchten, können Sie dies ebenfalls im persönlichen Kundenbereich auf #SITE_NAME# tun.
+Falls Sie diese Bestellung stornieren mÃ¶chten, kÃ¶nnen Sie dies ebenfalls im persÃ¶nlichen Kundenbereich auf #SITE_NAME# tun.
 
-Halten Sie Ihre Bestellnummer (##ORDER_ID#) bereit, wenn Sie uns bezüglich Ihrer Bestellung kontaktieren.
+Halten Sie Ihre Bestellnummer (##ORDER_ID#) bereit, wenn Sie uns bezÃ¼glich Ihrer Bestellung kontaktieren.
 
-Vielen Dank für Ihre Bestellung!
+Vielen Dank fÃ¼r Ihre Bestellung!
 ";
 $MESS["SALE_NEW_ORDER_HTML_TITLE"] = "Sie haben Ihre Bestellung auf #SITE_NAME# platziert";
 $MESS["SALE_NEW_ORDER_MESSAGE"] = "Informationsnachricht von #SITE_NAME#
@@ -129,21 +129,21 @@ Summe: #PRICE#.
 Ihre Bestellung:
 #ORDER_LIST#
 
-In Ihrem persönlichen Bereich auf der Seite #SITE_NAME# können Sie 
+In Ihrem persÃ¶nlichen Bereich auf der Seite #SITE_NAME# kÃ¶nnen Sie 
 den Status Ihrer Bestellung verfolgen.
 
-Um in Ihren persönlichen Bereich zu gelangen, müssen Sie sich 
+Um in Ihren persÃ¶nlichen Bereich zu gelangen, mÃ¼ssen Sie sich 
 mit Ihrem Loginnamen und Passwort auf der Seite #SITE_NAME# autorisieren.
 
 Um die Bestellung zu stornieren, benutzen Sie die Funktionen
-in Ihrem persönlichen Bereich auf der Seite #SITE_NAME#.
+in Ihrem persÃ¶nlichen Bereich auf der Seite #SITE_NAME#.
 
 Wir bitten Sie bei allen Fragen die Bestellnummer #ORDER_ID# anzugeben.
 
-Vielen Dank für Ihre Bestellung!";
+Vielen Dank fÃ¼r Ihre Bestellung!";
 $MESS["SALE_NEW_ORDER_NAME"] = "Neue Bestellung";
 $MESS["SALE_NEW_ORDER_RECURRING_DESC"] = "#ORDER_ID# - ID der Bestellung
-#ORDER_ACCOUNT_NUMBER_ENCODE# - ID der Bestellung (für URL)
+#ORDER_ACCOUNT_NUMBER_ENCODE# - ID der Bestellung (fÃ¼r URL)
 #ORDER_REAL_ID# - wirkliche ID der Bestellung
 #ORDER_DATE# - Bestelldatum
 #ORDER_USER# - Kunde
@@ -165,29 +165,29 @@ Summe: #PRICE#.
 Ihre Bestellung:
 #ORDER_LIST#
 
-In Ihrem persönlichen Bereich auf der Seite #SITE_NAME# können Sie 
+In Ihrem persÃ¶nlichen Bereich auf der Seite #SITE_NAME# kÃ¶nnen Sie 
 den Status Ihrer Bestellung verfolgen.
 
-Um in Ihren persönlichen Bereich zu gelangen, müssen Sie sich 
+Um in Ihren persÃ¶nlichen Bereich zu gelangen, mÃ¼ssen Sie sich 
 mit Ihrem Loginnamen und Passwort auf der Seite #SITE_NAME# autorisieren.
 
 Um die Bestellung zu stornieren, benutzen Sie die Funktionen
-in Ihrem persönlichen Bereich auf der Seite #SITE_NAME#.
+in Ihrem persÃ¶nlichen Bereich auf der Seite #SITE_NAME#.
 
 Wir bitten Sie bei allen Fragen die Bestellnummer #ORDER_ID# anzugeben.
 
-Vielen Dank für Ihre Bestellung!";
-$MESS["SALE_NEW_ORDER_RECURRING_NAME"] = "Neue Bestellung für Verlängerung des Abonnements";
-$MESS["SALE_NEW_ORDER_RECURRING_SUBJECT"] = "#SITE_NAME#: Neue Bestellung Nr. #ORDER_ID# für die Verlängerung des Abonnements";
+Vielen Dank fÃ¼r Ihre Bestellung!";
+$MESS["SALE_NEW_ORDER_RECURRING_NAME"] = "Neue Bestellung fÃ¼r VerlÃ¤ngerung des Abonnements";
+$MESS["SALE_NEW_ORDER_RECURRING_SUBJECT"] = "#SITE_NAME#: Neue Bestellung Nr. #ORDER_ID# fÃ¼r die VerlÃ¤ngerung des Abonnements";
 $MESS["SALE_NEW_ORDER_SUBJECT"] = "#SITE_NAME#: Neue Bestellung Nr. #ORDER#";
 $MESS["SALE_ORDER_CANCEL_DESC"] = "#ORDER_ID# - ID der Bestellung
-#ORDER_ACCOUNT_NUMBER_ENCODE# - ID der Bestellung (für URL)
+#ORDER_ACCOUNT_NUMBER_ENCODE# - ID der Bestellung (fÃ¼r URL)
 #ORDER_REAL_ID# - wirkliche ID der Bestellung
 #ORDER_DATE# - Bestelldatum
 #EMAIL# - E-Mail des Kunden
 #ORDER_LIST# - Inhalte der Bestellung
-#ORDER_CANCEL_DESCRIPTION# - Grund für Stornierung
-#ORDER_PUBLIC_URL# - Link zur Bestellansicht für nicht autorisierte Nutzer (Konfiguration in den Einstellungen des Moduls Onlineshop ist erforderlich)
+#ORDER_CANCEL_DESCRIPTION# - Grund fÃ¼r Stornierung
+#ORDER_PUBLIC_URL# - Link zur Bestellansicht fÃ¼r nicht autorisierte Nutzer (Konfiguration in den Einstellungen des Moduls Onlineshop ist erforderlich)
 #SALE_EMAIL# - E-Mail der Vertriebsabteilung
 ";
 $MESS["SALE_ORDER_CANCEL_HTML_SUB_TITLE"] = "Bestellung ##ORDER_ID# vom #ORDER_DATE# wurde storniert.";
@@ -208,11 +208,11 @@ Die Bestellung Nr. #ORDER_ID# vom #ORDER_DATE# wurde storniert.
 $MESS["SALE_ORDER_CANCEL_NAME"] = "Bestellung stornieren";
 $MESS["SALE_ORDER_CANCEL_SUBJECT"] = "#SITE_NAME#: Die Bestellung Nr. #ORDER# wurde storniert";
 $MESS["SALE_ORDER_DELIVERY_DESC"] = "#ORDER_ID# - ID der Bestellung
-#ORDER_ACCOUNT_NUMBER_ENCODE# - ID der Bestellung (für URL)
+#ORDER_ACCOUNT_NUMBER_ENCODE# - ID der Bestellung (fÃ¼r URL)
 #ORDER_REAL_ID# - wirkliche ID der Bestellung
 #ORDER_DATE# - Bestelldatum
 #EMAIL# - E-Mail des Kunden
-#ORDER_PUBLIC_URL# - Link zur Bestellansicht für nicht autorisierte Nutzer (Konfiguration in den Einstellungen des Moduls Onlineshop ist erforderlich)
+#ORDER_PUBLIC_URL# - Link zur Bestellansicht fÃ¼r nicht autorisierte Nutzer (Konfiguration in den Einstellungen des Moduls Onlineshop ist erforderlich)
 #SALE_EMAIL# - E-Mail der Vertriebsabteilung
 ";
 $MESS["SALE_ORDER_DELIVERY_HTML_SUB_TITLE"] = "Die Lieferung der Bestellung ##ORDER_ID# vom #ORDER_DATE# wurde freigegeben.";
@@ -228,16 +228,16 @@ Der Versand der Bestellung Nr. #ORDER_ID# vom #ORDER_DATE# wurde freigegeben.
 $MESS["SALE_ORDER_DELIVERY_NAME"] = "Der Versand wurde freigegeben";
 $MESS["SALE_ORDER_DELIVERY_SUBJECT"] = "#SITE_NAME#: Der Versand der Bestellug Nr. #ORDER# wurde freigegeben";
 $MESS["SALE_ORDER_PAID_DESC"] = "#ORDER_ID# - ID der Bestellung
-#ORDER_ACCOUNT_NUMBER_ENCODE# - ID der Bestellung (für URL)
+#ORDER_ACCOUNT_NUMBER_ENCODE# - ID der Bestellung (fÃ¼r URL)
 #ORDER_REAL_ID# - wirkliche ID der Bestellung
 #ORDER_DATE# - Bestelldatum
 #EMAIL# - E-Mail des Kunden
-#ORDER_PUBLIC_URL# - Link zur Bestellansicht für nicht autorisierte Nutzer (Konfiguration in den Einstellungen des Moduls Onlineshop ist erforderlich)
+#ORDER_PUBLIC_URL# - Link zur Bestellansicht fÃ¼r nicht autorisierte Nutzer (Konfiguration in den Einstellungen des Moduls Onlineshop ist erforderlich)
 #SALE_EMAIL# - E-Mail der Vertriebsabteilung
 ";
 $MESS["SALE_ORDER_PAID_HTML_SUB_TITLE"] = "Ihre Bestellung ##ORDER_ID# vom #ORDER_DATE# wurde bezahlt.";
 $MESS["SALE_ORDER_PAID_HTML_TEXT"] = "Um Details der Bestellung anzuzeigen, klicken Sie bitte hier: http://#SERVER_NAME#/personal/order/#ORDER_ID#/";
-$MESS["SALE_ORDER_PAID_HTML_TITLE"] = "Ihre Bezahlung für die Bestellung auf #SITE_NAME#";
+$MESS["SALE_ORDER_PAID_HTML_TITLE"] = "Ihre Bezahlung fÃ¼r die Bestellung auf #SITE_NAME#";
 $MESS["SALE_ORDER_PAID_MESSAGE"] = "Informationsnachricht von #SITE_NAME#
 ------------------------------------------
 
@@ -248,7 +248,7 @@ Die Bestellung Nr.#ORDER_ID# vom #ORDER_DATE# wurde bezahlt.
 $MESS["SALE_ORDER_PAID_NAME"] = "Die Bestellung wurde bezahlt";
 $MESS["SALE_ORDER_PAID_SUBJECT"] = "#SITE_NAME#: Die Bestellung Nr. #ORDER# wurde bezahlt";
 $MESS["SALE_ORDER_REMIND_PAYMENT_DESC"] = "#ORDER_ID# - ID der Bestellung
-#ORDER_ACCOUNT_NUMBER_ENCODE# - ID der Bestellung (für URL)
+#ORDER_ACCOUNT_NUMBER_ENCODE# - ID der Bestellung (fÃ¼r URL)
 #ORDER_REAL_ID# - wirkliche ID der Bestellung
 #ORDER_DATE# - Bestelldatum
 #ORDER_USER# - Kunde
@@ -256,22 +256,22 @@ $MESS["SALE_ORDER_REMIND_PAYMENT_DESC"] = "#ORDER_ID# - ID der Bestellung
 #EMAIL# - E-Mail des Kunden
 #BCC# - BCC der E-Mail
 #ORDER_LIST# - Inhalte der Bestellung
-#ORDER_PUBLIC_URL# - Link zur Bestellansicht für nicht autorisierte Nutzer (Konfiguration in den Einstellungen des Moduls Onlineshop ist erforderlich)
+#ORDER_PUBLIC_URL# - Link zur Bestellansicht fÃ¼r nicht autorisierte Nutzer (Konfiguration in den Einstellungen des Moduls Onlineshop ist erforderlich)
 #SALE_EMAIL# - E-Mail der Vertriebsabteilung
 ";
 $MESS["SALE_ORDER_REMIND_PAYMENT_HTML_SUB_TITLE"] = "Liebe(r) #ORDER_USER#,";
-$MESS["SALE_ORDER_REMIND_PAYMENT_HTML_TEXT"] = "Sie haben eine Bestellung ##ORDER_ID# für #PRICE# am #ORDER_DATE# platziert.
+$MESS["SALE_ORDER_REMIND_PAYMENT_HTML_TEXT"] = "Sie haben eine Bestellung ##ORDER_ID# fÃ¼r #PRICE# am #ORDER_DATE# platziert.
 
 Leider haben wir Ihre Bezahlung noch nicht erhalten. 
 
-Sie können den Status Ihrer Bestellung nach erfolgtem Login auf #SITE_NAME# in Ihrem persönlichen Kundenbereich jederzeit einsehen. Sie werden dabei den Login und das Passwort angeben müssen, mit denen Sie sich auf #SITE_NAME# angemeldet haben.
+Sie kÃ¶nnen den Status Ihrer Bestellung nach erfolgtem Login auf #SITE_NAME# in Ihrem persÃ¶nlichen Kundenbereich jederzeit einsehen. Sie werden dabei den Login und das Passwort angeben mÃ¼ssen, mit denen Sie sich auf #SITE_NAME# angemeldet haben.
 
 
-Falls Sie Ihre Bestellung stornieren möchten, können Sie dies ebenfalls im persönlichen Kundenbereich auf #SITE_NAME# tun.
+Falls Sie Ihre Bestellung stornieren mÃ¶chten, kÃ¶nnen Sie dies ebenfalls im persÃ¶nlichen Kundenbereich auf #SITE_NAME# tun.
 
-Halten Sie Ihre Bestellnummer (##ORDER_ID#) bereit, wenn Sie uns bezüglich Ihrer Bestellung kontaktieren.
+Halten Sie Ihre Bestellnummer (##ORDER_ID#) bereit, wenn Sie uns bezÃ¼glich Ihrer Bestellung kontaktieren.
 
-Vielen Dank für Ihre Bestellung!
+Vielen Dank fÃ¼r Ihre Bestellung!
 ";
 $MESS["SALE_ORDER_REMIND_PAYMENT_HTML_TITLE"] = "Vergessen Sie bitte nicht, Ihre Bestellung auf #SITE_NAME# zu bezahlen";
 $MESS["SALE_ORDER_REMIND_PAYMENT_MESSAGE"] = "Informationsnachricht von #SITE_NAME#
@@ -279,24 +279,24 @@ $MESS["SALE_ORDER_REMIND_PAYMENT_MESSAGE"] = "Informationsnachricht von #SITE_NA
 
 Sehr geehrte(r) #ORDER_Nutzer#,
 
-Ihre Bestellung Nr. #ORDER_ID# vom #ORDER_DATE# für #PRICE# ist bei uns eingegangen.
+Ihre Bestellung Nr. #ORDER_ID# vom #ORDER_DATE# fÃ¼r #PRICE# ist bei uns eingegangen.
 
-In Ihrem persönlichen Bereich auf der Seite #SITE_NAME# können Sie 
+In Ihrem persÃ¶nlichen Bereich auf der Seite #SITE_NAME# kÃ¶nnen Sie 
 den Status Ihrer Bestellung verfolgen.
 
-Um in Ihren persönlichen Bereich zu gelangen, müssen Sie sich 
+Um in Ihren persÃ¶nlichen Bereich zu gelangen, mÃ¼ssen Sie sich 
 mit Ihrem Loginnamen und Passwort auf der Seite #SITE_NAME# autorisieren.
 
 Um die Bestellung zu stornieren, benutzen Sie die Funktionen
-in Ihrem persönlichen Bereich auf der Seite #SITE_NAME#.
+in Ihrem persÃ¶nlichen Bereich auf der Seite #SITE_NAME#.
 
 Wir bitten Sie bei allen Fragen die Bestellnummer #ORDER_ID# anzugeben.
 
-Vielen Dank für Ihre Bestellung!";
+Vielen Dank fÃ¼r Ihre Bestellung!";
 $MESS["SALE_ORDER_REMIND_PAYMENT_NAME"] = "Erinnerung an die Bezahlung";
 $MESS["SALE_ORDER_REMIND_PAYMENT_SUBJECT"] = "#SITE_NAME#: Erinnerung an die Bezahlung der Bestellung Nr. #ORDER_ID# ";
 $MESS["SALE_ORDER_SHIPMENT_STATUS_CHANGED_HTML_SUB_TITLE"] = "Liebe(r)  #ORDER_USER#,";
-$MESS["SALE_ORDER_SHIPMENT_STATUS_CHANGED_HTML_TEXT"] = "Status Ihrer Lieferung für Bestellung ##ORDER_NO# vom #ORDER_DATE# wurde aktualisiert auf 
+$MESS["SALE_ORDER_SHIPMENT_STATUS_CHANGED_HTML_TEXT"] = "Status Ihrer Lieferung fÃ¼r Bestellung ##ORDER_NO# vom #ORDER_DATE# wurde aktualisiert auf 
 
 \"#STATUS_NAME#\" (#STATUS_DESCRIPTION#).
 
@@ -319,9 +319,9 @@ $MESS["SALE_ORDER_SHIPMENT_STATUS_CHANGED_TYPE_DESC"] = "#SHIPMENT_NO# - ID der 
 #BCC# - Kopie senden an Adresse
 #ORDER_USER# - Kunde
 #DELIVERY_NAME# - Name des Lieferservices
-#DELIVERY_TRACKING_URL# - Website des Lieferservices für weitere Informationen zum Verfolgen
-#ORDER_ACCOUNT_NUMBER_ENCODE# - ID der Bestellung (für Links)
-#ORDER_PUBLIC_URL# - Link zur Bestellansicht für nicht autorisierte Nutzer (Konfiguration in den Einstellungen des Moduls Onlineshop ist erforderlich)
+#DELIVERY_TRACKING_URL# - Website des Lieferservices fÃ¼r weitere Informationen zum Verfolgen
+#ORDER_ACCOUNT_NUMBER_ENCODE# - ID der Bestellung (fÃ¼r Links)
+#ORDER_PUBLIC_URL# - Link zur Bestellansicht fÃ¼r nicht autorisierte Nutzer (Konfiguration in den Einstellungen des Moduls Onlineshop ist erforderlich)
 #ORDER_DETAIL_URL# - URL der Bestelldetails
 ";
 $MESS["SALE_ORDER_SHIPMENT_STATUS_CHANGED_TYPE_NAME"] = "Aktualisierung des Verpackungsstatus";
@@ -330,38 +330,38 @@ $MESS["SALE_ORDER_TRACKING_NUMBER_HTML_TEXT"] = "Ihre Bestellung #ORDER_ID# vom 
 
 Die Auftragsnummer ist: #ORDER_TRACKING_NUMBER#.
 
-Detaillierte Informationen über die Bestellung finden Sie hier: http://#SERVER_NAME#/personal/order/detail/#ORDER_ID#/
+Detaillierte Informationen Ã¼ber die Bestellung finden Sie hier: http://#SERVER_NAME#/personal/order/detail/#ORDER_ID#/
 
 E-Mail: #SALE_EMAIL#
 ";
-$MESS["SALE_ORDER_TRACKING_NUMBER_HTML_TITLE"] = "Die Lieferscheinnummer für Ihre Bestellung auf #SITE_NAME#";
+$MESS["SALE_ORDER_TRACKING_NUMBER_HTML_TITLE"] = "Die Lieferscheinnummer fÃ¼r Ihre Bestellung auf #SITE_NAME#";
 $MESS["SALE_ORDER_TRACKING_NUMBER_MESSAGE"] = "Bestellung Nr. #ORDER_ID# vom #ORDER_DATE# wurde per Post ausgeliefert.
 
 Die Auftragsnummer ist: #ORDER_TRACKING_NUMBER#.
 
-Informationen über Ihre Bestellung finden Sie hier: http://#SERVER_NAME#/personal/order/detail/#ORDER_ID#/
+Informationen Ã¼ber Ihre Bestellung finden Sie hier: http://#SERVER_NAME#/personal/order/detail/#ORDER_ID#/
 
 E-Mail: #SALE_EMAIL#
 ";
-$MESS["SALE_ORDER_TRACKING_NUMBER_SUBJECT"] = "Auftragsnummer für Ihre Bestellung auf #SITE_NAME#";
+$MESS["SALE_ORDER_TRACKING_NUMBER_SUBJECT"] = "Auftragsnummer fÃ¼r Ihre Bestellung auf #SITE_NAME#";
 $MESS["SALE_ORDER_TRACKING_NUMBER_TYPE_DESC"] = "#ORDER_ID# - ID der Bestellung
-#ORDER_ACCOUNT_NUMBER_ENCODE# - ID der Bestellung (für URL)
+#ORDER_ACCOUNT_NUMBER_ENCODE# - ID der Bestellung (fÃ¼r URL)
 #ORDER_REAL_ID# - wirkliche ID der Bestellung
 #ORDER_DATE# - Bestelldatum
 #ORDER_USER# - Kunde
 #ORDER_TRACKING_NUMBER# - Nummer zum Verfolgen
-#ORDER_PUBLIC_URL# - Link zur Bestellansicht für nicht autorisierte Nutzer (Konfiguration in den Einstellungen des Moduls Onlineshop ist erforderlich)
+#ORDER_PUBLIC_URL# - Link zur Bestellansicht fÃ¼r nicht autorisierte Nutzer (Konfiguration in den Einstellungen des Moduls Onlineshop ist erforderlich)
 #EMAIL# - E-Mail des Kunden
 #BCC# - BCC der E-Mail
 #SALE_EMAIL# - E-Mail der Vertriebsabteilung
 ";
-$MESS["SALE_ORDER_TRACKING_NUMBER_TYPE_NAME"] = "Benachrichtigung über Änderung in der Auftragsnummer ";
+$MESS["SALE_ORDER_TRACKING_NUMBER_TYPE_NAME"] = "Benachrichtigung Ã¼ber Ã„nderung in der Auftragsnummer ";
 $MESS["SALE_RECURRING_CANCEL_DESC"] = "#ORDER_ID# - ID der Bestellung
-#ORDER_ACCOUNT_NUMBER_ENCODE# - ID der Bestellung (für URL)
+#ORDER_ACCOUNT_NUMBER_ENCODE# - ID der Bestellung (fÃ¼r URL)
 #ORDER_REAL_ID# - wirkliche ID der Bestellung
 #ORDER_DATE# - Bestelldatum
 #EMAIL# - E-Mail des Kunden
-#CANCELED_REASON# - Grund für Stornierung
+#CANCELED_REASON# - Grund fÃ¼r Stornierung
 #SALE_EMAIL# - E-Mail der Vertriebsabteilung
 ";
 $MESS["SALE_RECURRING_CANCEL_MESSAGE"] = "Informationsnachricht von #SITE_NAME#
@@ -375,7 +375,7 @@ Die Wiederkehrende Zahlung wurde storniert.
 $MESS["SALE_RECURRING_CANCEL_NAME"] = "Das Abonnement wurde abgemeldet";
 $MESS["SALE_RECURRING_CANCEL_SUBJECT"] = "#SITE_NAME#: Das Abonnement wurde abbestellt";
 $MESS["SALE_SUBSCRIBE_PRODUCT_HTML_SUB_TITLE"] = "Liebe(r) #USER_NAME#!";
-$MESS["SALE_SUBSCRIBE_PRODUCT_HTML_TEXT"] = "\"#NAME#\" (#PAGE_URL#) ist wieder vorrätig.
+$MESS["SALE_SUBSCRIBE_PRODUCT_HTML_TEXT"] = "\"#NAME#\" (#PAGE_URL#) ist wieder vorrÃ¤tig.
 
 Klicken Sie bitte hier, um jetzt zu bestellen: http://#SERVER_NAME#/personal/cart/
 
@@ -384,29 +384,29 @@ Vergessen Sie bitte nicht, sich vor der Bestellung anzumelden.
 Sie haben diese Nachricht erhalten, weil Sie uns gebeten haben, Sie zu informieren.
 Diese Nachricht wurde automatisch erzeugt, bitte antworten Sie nicht darauf.
 
-Vielen Dank für Ihre Bestellung!
+Vielen Dank fÃ¼r Ihre Bestellung!
 ";
-$MESS["SALE_SUBSCRIBE_PRODUCT_HTML_TITLE"] = "Produkt ist auf #SITE_NAME# wieder vorrätig.";
-$MESS["SALE_SUBSCRIBE_PRODUCT_SUBJECT"] = "#SITE_NAME#: Produkt ist wieder vorrätig";
+$MESS["SALE_SUBSCRIBE_PRODUCT_HTML_TITLE"] = "Produkt ist auf #SITE_NAME# wieder vorrÃ¤tig.";
+$MESS["SALE_SUBSCRIBE_PRODUCT_SUBJECT"] = "#SITE_NAME#: Produkt ist wieder vorrÃ¤tig";
 $MESS["SKGS_STATUS_MAIL_HTML_TITLE"] = "Bestellung aktualisiert auf #SITE_NAME#";
-$MESS["SMAIL_FOOTER_BR"] = "Mit freundlichen Grüßen,<br />Support-Team.";
+$MESS["SMAIL_FOOTER_BR"] = "Mit freundlichen GrÃ¼ÃŸen,<br />Support-Team.";
 $MESS["SMAIL_FOOTER_SHOP"] = "Online-Shop";
 $MESS["UP_MESSAGE"] = "Meldung von #SITE_NAME#
 ------------------------------------------
 
 Liebe(r) #USER_NAME#,
 
-das Produkt, für welches Sie sich interessiert haben, \"#NAME#\" (#PAGE_URL#) ist jetzt wieder vorrätig.
-Wir empfehlen Ihnen, Ihre Bestellung (http://#SERVER_NAME#/personal/cart/) so schnell wie möglich zu senden.
+das Produkt, fÃ¼r welches Sie sich interessiert haben, \"#NAME#\" (#PAGE_URL#) ist jetzt wieder vorrÃ¤tig.
+Wir empfehlen Ihnen, Ihre Bestellung (http://#SERVER_NAME#/personal/cart/) so schnell wie mÃ¶glich zu senden.
 
-Sie erhalten diese Nachricht, weil Sie benachrichtigt werden wollten, wenn das Produkt wieder verfügbar ist.
+Sie erhalten diese Nachricht, weil Sie benachrichtigt werden wollten, wenn das Produkt wieder verfÃ¼gbar ist.
 
-Mit freundlichen Grüßen
+Mit freundlichen GrÃ¼ÃŸen
 
 Kundenservice von #SITE_NAME#
 ";
-$MESS["UP_SUBJECT"] = "#SITE_NAME#: Produkt ist wieder vorrätig";
-$MESS["UP_TYPE_SUBJECT"] = "Benachrichtigung über Wieder-Vorrätig-Status";
+$MESS["UP_SUBJECT"] = "#SITE_NAME#: Produkt ist wieder vorrÃ¤tig";
+$MESS["UP_TYPE_SUBJECT"] = "Benachrichtigung Ã¼ber Wieder-VorrÃ¤tig-Status";
 $MESS["UP_TYPE_SUBJECT_DESC"] = "#USER_NAME# - Nutzername
 #EMAIL# - Nutzer-E-Mail 
 #NAME# - Produktname

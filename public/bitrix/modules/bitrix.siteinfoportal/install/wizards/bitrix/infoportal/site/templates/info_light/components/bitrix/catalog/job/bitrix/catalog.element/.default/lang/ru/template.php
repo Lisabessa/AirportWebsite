@@ -1,7 +1,7 @@
 <?
-$MESS["CATALOG_DOWNLOAD"] = "Ñêà÷àòü";
-$MESS["CATALOG_BACK"] = "Íàçàä â ðàçäåë";
-$MESS["JOB_REQUIREMENTS"] = "Òðåáîâàíèÿ";
-$MESS["JOB_EMPLOYER"] = "Ðàáîòîäàòåëü";
-$MESS["JOB_DESCRIPTION"] = "Îïèñàíèå";
+$MESS["CATALOG_DOWNLOAD"] = "Ð¡ÐºÐ°Ñ‡Ð°Ñ‚ÑŒ";
+$MESS["CATALOG_BACK"] = "ÐÐ°Ð·Ð°Ð´ Ð² Ñ€Ð°Ð·Ð´ÐµÐ»";
+$MESS["JOB_REQUIREMENTS"] = "Ð¢Ñ€ÐµÐ±Ð¾Ð²Ð°Ð½Ð¸Ñ";
+$MESS["JOB_EMPLOYER"] = "Ð Ð°Ð±Ð¾Ñ‚Ð¾Ð´Ð°Ñ‚ÐµÐ»ÑŒ";
+$MESS["JOB_DESCRIPTION"] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ";
 ?>

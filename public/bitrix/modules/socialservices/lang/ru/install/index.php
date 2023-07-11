@@ -1,6 +1,6 @@
 <?
-$MESS["socialservices_install_name"] = "Ñîöèàëüíûå ñåðâèñû";
-$MESS["socialservices_install_desc"] = "Èíòåãðàöèÿ ñ âíåøíèìè ñîöèàëüíûìè ñåòÿìè è ñåðâèñàìè.";
-$MESS["socialservices_install_title_inst"] = "Óñòàíîâêà ìîäóëÿ \"Ñîöèàëüíûå ñåðâèñû\"";
-$MESS["socialservices_install_title_unitst"] = "Óäàëåíèå ìîäóëÿ \"Ñîöèàëüíûå ñåðâèñû\"";
+$MESS["socialservices_install_name"] = "Ð¡Ð¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ñ‹Ðµ ÑÐµÑ€Ð²Ð¸ÑÑ‹";
+$MESS["socialservices_install_desc"] = "Ð˜Ð½Ñ‚ÐµÐ³Ñ€Ð°Ñ†Ð¸Ñ Ñ Ð²Ð½ÐµÑˆÐ½Ð¸Ð¼Ð¸ ÑÐ¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ñ‹Ð¼Ð¸ ÑÐµÑ‚ÑÐ¼Ð¸ Ð¸ ÑÐµÑ€Ð²Ð¸ÑÐ°Ð¼Ð¸.";
+$MESS["socialservices_install_title_inst"] = "Ð£ÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ° Ð¼Ð¾Ð´ÑƒÐ»Ñ \"Ð¡Ð¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ñ‹Ðµ ÑÐµÑ€Ð²Ð¸ÑÑ‹\"";
+$MESS["socialservices_install_title_unitst"] = "Ð£Ð´Ð°Ð»ÐµÐ½Ð¸Ðµ Ð¼Ð¾Ð´ÑƒÐ»Ñ \"Ð¡Ð¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ñ‹Ðµ ÑÐµÑ€Ð²Ð¸ÑÑ‹\"";
 ?>

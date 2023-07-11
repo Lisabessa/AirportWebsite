@@ -1,6 +1,6 @@
 <?
-$MESS ['DEMO_IBLOCK_CONTENT_LINKS_TITLE'] = "Êàòàëîã ðåñóðñîâ";
-$MESS ['DEMO_IBLOCK_CONTENT_LINKS_PAGER_TITLE'] = "Ñàéòû";
-$MESS ['DEMO_IBLOCK_CONTENT_LINKS_ADD_SITE'] = "Äîáàâèòü ñâîé ñàéò";
-$MESS ['DEMO_IBLOCK_CONTENT_LINKS_MY_SITES'] = "Ìîè ñàéòû";
+$MESS ['DEMO_IBLOCK_CONTENT_LINKS_TITLE'] = "ÐšÐ°Ñ‚Ð°Ð»Ð¾Ð³ Ñ€ÐµÑÑƒÑ€ÑÐ¾Ð²";
+$MESS ['DEMO_IBLOCK_CONTENT_LINKS_PAGER_TITLE'] = "Ð¡Ð°Ð¹Ñ‚Ñ‹";
+$MESS ['DEMO_IBLOCK_CONTENT_LINKS_ADD_SITE'] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ ÑÐ²Ð¾Ð¹ ÑÐ°Ð¹Ñ‚";
+$MESS ['DEMO_IBLOCK_CONTENT_LINKS_MY_SITES'] = "ÐœÐ¾Ð¸ ÑÐ°Ð¹Ñ‚Ñ‹";
 ?>

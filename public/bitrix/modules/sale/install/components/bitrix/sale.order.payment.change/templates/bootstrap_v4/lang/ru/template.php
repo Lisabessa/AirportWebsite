@@ -1,9 +1,9 @@
 <?php
-$MESS["SOPC_TPL_BILL"] = "Счет";
-$MESS["SOPC_TPL_NUMBER_SIGN"] = "№";
-$MESS["SOPC_TPL_FROM_DATE"] = "от";
-$MESS["SOPC_TPL_NOTPAID"] = "Не оплачено";
-$MESS["SOPC_TPL_PAID"] = "Оплачено";
-$MESS["SOPC_TPL_SUM_TO_PAID"] = "Сумма к оплате по счету";
-$MESS["SOPC_TPL_RESTRICTED_PAID"] = "На проверке менеджером";
-$MESS["SOPC_TPL_RESTRICTED_PAID_MESSAGE"] = "<b>Обратите внимание:</b> оплата заказа будет доступна после подтверждения менеджером";
+$MESS["SOPC_TPL_BILL"] = "РЎС‡РµС‚";
+$MESS["SOPC_TPL_NUMBER_SIGN"] = "в„–";
+$MESS["SOPC_TPL_FROM_DATE"] = "РѕС‚";
+$MESS["SOPC_TPL_NOTPAID"] = "РќРµ РѕРїР»Р°С‡РµРЅРѕ";
+$MESS["SOPC_TPL_PAID"] = "РћРїР»Р°С‡РµРЅРѕ";
+$MESS["SOPC_TPL_SUM_TO_PAID"] = "РЎСѓРјРјР° Рє РѕРїР»Р°С‚Рµ РїРѕ СЃС‡РµС‚Сѓ";
+$MESS["SOPC_TPL_RESTRICTED_PAID"] = "РќР° РїСЂРѕРІРµСЂРєРµ РјРµРЅРµРґР¶РµСЂРѕРј";
+$MESS["SOPC_TPL_RESTRICTED_PAID_MESSAGE"] = "<b>РћР±СЂР°С‚РёС‚Рµ РІРЅРёРјР°РЅРёРµ:</b> РѕРїР»Р°С‚Р° Р·Р°РєР°Р·Р° Р±СѓРґРµС‚ РґРѕСЃС‚СѓРїРЅР° РїРѕСЃР»Рµ РїРѕРґС‚РІРµСЂР¶РґРµРЅРёСЏ РјРµРЅРµРґР¶РµСЂРѕРј";

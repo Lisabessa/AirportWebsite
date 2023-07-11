@@ -1,11 +1,11 @@
 <?php
-$MESS["SALE_DLVR_HANDL_AUT_NAME"] = "Àâòîìàòèçèðîâàííàÿ ñëóæáà äîñòàâêè";
-$MESS["SALE_DLVR_HANDL_AUT_DESCRIPTION"] = "Àâòîìàòèçèðîâàííàÿ ñëóæáà äîñòàâêè äëÿ ñîâìåñòèìîñòè ñî ñòàðûìè ñëóæáàìè äîñòàâêè.";
-$MESS["SALE_DLVR_HANDL_AUT_HANDLER_SETTINGS"] = "Íàñòðîéêè îáðàáîò÷èêà";
-$MESS["SALE_DLVR_HANDL_AUT_HANDLER_SETTINGS_DSCR"] = "Íàñòðîéêè îáðàáîò÷èêà ñëóæáû äîñòàâêè";
-$MESS["SALE_DLVR_HANDL_AUT_HANDLER_CHOOSE"] = "Ñëóæáà äîñòàâêè";
-$MESS["SALE_DLVR_HANDL_AUT_ERROR_HANDLER"] = "Íå âûáðàí òèï äîñòàâêè";
-$MESS["SALE_DLVR_HANDL_AUT_ERROR_CALCULATION"] = "Íå óäàëîñü âû÷èñëèòü ñòîèìîñòü äîñòàâêè";
-$MESS["SALE_DLVR_HANDL_AUT_MARGIN_VALUE"] = "Íàöåíêà";
-$MESS["SALE_DLVR_HANDL_AUT_MARGIN_TYPE"] = "Òèï íàöåíêè";
-$MESS["SALE_DLVR_HANDL_AUT_DESCRIPTION_INNER"] = "Îïèñàíèå";
+$MESS["SALE_DLVR_HANDL_AUT_NAME"] = "ÐÐ²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ð·Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ð°Ñ ÑÐ»ÑƒÐ¶Ð±Ð° Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸";
+$MESS["SALE_DLVR_HANDL_AUT_DESCRIPTION"] = "ÐÐ²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ð·Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ð°Ñ ÑÐ»ÑƒÐ¶Ð±Ð° Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸ Ð´Ð»Ñ ÑÐ¾Ð²Ð¼ÐµÑÑ‚Ð¸Ð¼Ð¾ÑÑ‚Ð¸ ÑÐ¾ ÑÑ‚Ð°Ñ€Ñ‹Ð¼Ð¸ ÑÐ»ÑƒÐ¶Ð±Ð°Ð¼Ð¸ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸.";
+$MESS["SALE_DLVR_HANDL_AUT_HANDLER_SETTINGS"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚Ñ‡Ð¸ÐºÐ°";
+$MESS["SALE_DLVR_HANDL_AUT_HANDLER_SETTINGS_DSCR"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚Ñ‡Ð¸ÐºÐ° ÑÐ»ÑƒÐ¶Ð±Ñ‹ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸";
+$MESS["SALE_DLVR_HANDL_AUT_HANDLER_CHOOSE"] = "Ð¡Ð»ÑƒÐ¶Ð±Ð° Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸";
+$MESS["SALE_DLVR_HANDL_AUT_ERROR_HANDLER"] = "ÐÐµ Ð²Ñ‹Ð±Ñ€Ð°Ð½ Ñ‚Ð¸Ð¿ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸";
+$MESS["SALE_DLVR_HANDL_AUT_ERROR_CALCULATION"] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ Ð²Ñ‹Ñ‡Ð¸ÑÐ»Ð¸Ñ‚ÑŒ ÑÑ‚Ð¾Ð¸Ð¼Ð¾ÑÑ‚ÑŒ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸";
+$MESS["SALE_DLVR_HANDL_AUT_MARGIN_VALUE"] = "ÐÐ°Ñ†ÐµÐ½ÐºÐ°";
+$MESS["SALE_DLVR_HANDL_AUT_MARGIN_TYPE"] = "Ð¢Ð¸Ð¿ Ð½Ð°Ñ†ÐµÐ½ÐºÐ¸";
+$MESS["SALE_DLVR_HANDL_AUT_DESCRIPTION_INNER"] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ";

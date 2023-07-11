@@ -1,13 +1,13 @@
 <?
-$MESS["USER_TYPE_STRINGFMT_DESCRIPTION"] = "Øàáëîí";
-$MESS["USER_TYPE_STRINGFMT_PATTERN"] = "Øàáëîí âûâîäà (#VALUE# - çíà÷åíèå)";
-$MESS["USER_TYPE_STRINGFMT_REGEXP"] = "Ðåãóëÿðíîå âûðàæåíèå äëÿ ïðîâåðêè";
-$MESS["USER_TYPE_STRINGFMT_SIZE"] = "Ðàçìåð ïîëÿ ââîäà äëÿ îòîáðàæåíèÿ";
-$MESS["USER_TYPE_STRINGFMT_ROWS"] = "Êîëè÷åñòâî ñòðî÷åê ïîëÿ ââîäà";
-$MESS["USER_TYPE_STRINGFMT_MIN_LEGTH"] = "Ìèíèìàëüíàÿ äëèíà ñòðîêè (0 - íå ïðîâåðÿòü)";
-$MESS["USER_TYPE_STRINGFMT_MAX_LENGTH"] = "Ìàêñèìàëüíàÿ äëèíà ñòðîêè (0 - íå ïðîâåðÿòü)";
-$MESS["USER_TYPE_STRINGFMT_MIN_LEGTH_ERROR"] = "Äëèíà ïîëÿ \"#FIELD_NAME#\" äîëæíà áûòü íå ìåíåå #MIN_LENGTH# ñèìâîëîâ.";
-$MESS["USER_TYPE_STRINGFMT_MAX_LEGTH_ERROR"] = "Äëèíà ïîëÿ \"#FIELD_NAME#\" äîëæíà áûòü íå áîëåå #MAX_LENGTH# ñèìâîëîâ.";
-$MESS["USER_TYPE_STRINGFMT_REGEXP_ERROR"] = "Ïîëå \"#FIELD_NAME#\" íå óäîâëåòâîðÿåò ïðîâåðî÷íîìó ðåãóëÿðíîìó âûðàæåíèþ.";
-$MESS["USER_TYPE_STRINGFMT_DEFAULT_VALUE"] = "Çíà÷åíèå ïî óìîë÷àíèþ";
+$MESS["USER_TYPE_STRINGFMT_DESCRIPTION"] = "Ð¨Ð°Ð±Ð»Ð¾Ð½";
+$MESS["USER_TYPE_STRINGFMT_PATTERN"] = "Ð¨Ð°Ð±Ð»Ð¾Ð½ Ð²Ñ‹Ð²Ð¾Ð´Ð° (#VALUE# - Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ)";
+$MESS["USER_TYPE_STRINGFMT_REGEXP"] = "Ð ÐµÐ³ÑƒÐ»ÑÑ€Ð½Ð¾Ðµ Ð²Ñ‹Ñ€Ð°Ð¶ÐµÐ½Ð¸Ðµ Ð´Ð»Ñ Ð¿Ñ€Ð¾Ð²ÐµÑ€ÐºÐ¸";
+$MESS["USER_TYPE_STRINGFMT_SIZE"] = "Ð Ð°Ð·Ð¼ÐµÑ€ Ð¿Ð¾Ð»Ñ Ð²Ð²Ð¾Ð´Ð° Ð´Ð»Ñ Ð¾Ñ‚Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ñ";
+$MESS["USER_TYPE_STRINGFMT_ROWS"] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ ÑÑ‚Ñ€Ð¾Ñ‡ÐµÐº Ð¿Ð¾Ð»Ñ Ð²Ð²Ð¾Ð´Ð°";
+$MESS["USER_TYPE_STRINGFMT_MIN_LEGTH"] = "ÐœÐ¸Ð½Ð¸Ð¼Ð°Ð»ÑŒÐ½Ð°Ñ Ð´Ð»Ð¸Ð½Ð° ÑÑ‚Ñ€Ð¾ÐºÐ¸ (0 - Ð½Ðµ Ð¿Ñ€Ð¾Ð²ÐµÑ€ÑÑ‚ÑŒ)";
+$MESS["USER_TYPE_STRINGFMT_MAX_LENGTH"] = "ÐœÐ°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ð°Ñ Ð´Ð»Ð¸Ð½Ð° ÑÑ‚Ñ€Ð¾ÐºÐ¸ (0 - Ð½Ðµ Ð¿Ñ€Ð¾Ð²ÐµÑ€ÑÑ‚ÑŒ)";
+$MESS["USER_TYPE_STRINGFMT_MIN_LEGTH_ERROR"] = "Ð”Ð»Ð¸Ð½Ð° Ð¿Ð¾Ð»Ñ \"#FIELD_NAME#\" Ð´Ð¾Ð»Ð¶Ð½Ð° Ð±Ñ‹Ñ‚ÑŒ Ð½Ðµ Ð¼ÐµÐ½ÐµÐµ #MIN_LENGTH# ÑÐ¸Ð¼Ð²Ð¾Ð»Ð¾Ð².";
+$MESS["USER_TYPE_STRINGFMT_MAX_LEGTH_ERROR"] = "Ð”Ð»Ð¸Ð½Ð° Ð¿Ð¾Ð»Ñ \"#FIELD_NAME#\" Ð´Ð¾Ð»Ð¶Ð½Ð° Ð±Ñ‹Ñ‚ÑŒ Ð½Ðµ Ð±Ð¾Ð»ÐµÐµ #MAX_LENGTH# ÑÐ¸Ð¼Ð²Ð¾Ð»Ð¾Ð².";
+$MESS["USER_TYPE_STRINGFMT_REGEXP_ERROR"] = "ÐŸÐ¾Ð»Ðµ \"#FIELD_NAME#\" Ð½Ðµ ÑƒÐ´Ð¾Ð²Ð»ÐµÑ‚Ð²Ð¾Ñ€ÑÐµÑ‚ Ð¿Ñ€Ð¾Ð²ÐµÑ€Ð¾Ñ‡Ð½Ð¾Ð¼Ñƒ Ñ€ÐµÐ³ÑƒÐ»ÑÑ€Ð½Ð¾Ð¼Ñƒ Ð²Ñ‹Ñ€Ð°Ð¶ÐµÐ½Ð¸ÑŽ.";
+$MESS["USER_TYPE_STRINGFMT_DEFAULT_VALUE"] = "Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð¿Ð¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ";
 ?>

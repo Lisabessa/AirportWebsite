@@ -1,5 +1,5 @@
 <?
-$MESS["SALE_ORDER_CANCEL_SHIPMENT_EXIST_SHIPPED"] = "Ó çàêàçà åñòü îòãðóæåííûå òîâàðû";
-$MESS["SALE_ORDER_SYSTEM_SHIPMENT_LESS_QUANTITY"] = "Òîâàð \"#PRODUCT_NAME#\" ðàñïðåäåëåí ïî îòãðóçêàì â êîëè÷åñòâå #BASKET_ITEM_QUANTITY# #BASKET_ITEM_MEASURE#. Äëÿ òîãî, ÷òîáû óìåíüøèòü êîëè÷åñòâî òîâàðà â çàêàçå, íåîáõîäèìî óìåíüøèòü åãî êîëè÷åñòâî â îòãðóçêàõ êàê ìèíèìóì íà #QUANTITY# #BASKET_ITEM_MEASURE#.";
-$MESS["SALE_ORDER_SHIPMENT_WRONG_DELIVERY_PRICE"] = "Íåêîððåêòíàÿ öåíà äîñòàâêè";
+$MESS["SALE_ORDER_CANCEL_SHIPMENT_EXIST_SHIPPED"] = "Ð£ Ð·Ð°ÐºÐ°Ð·Ð° ÐµÑÑ‚ÑŒ Ð¾Ñ‚Ð³Ñ€ÑƒÐ¶ÐµÐ½Ð½Ñ‹Ðµ Ñ‚Ð¾Ð²Ð°Ñ€Ñ‹";
+$MESS["SALE_ORDER_SYSTEM_SHIPMENT_LESS_QUANTITY"] = "Ð¢Ð¾Ð²Ð°Ñ€ \"#PRODUCT_NAME#\" Ñ€Ð°ÑÐ¿Ñ€ÐµÐ´ÐµÐ»ÐµÐ½ Ð¿Ð¾ Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ°Ð¼ Ð² ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ðµ #BASKET_ITEM_QUANTITY# #BASKET_ITEM_MEASURE#. Ð”Ð»Ñ Ñ‚Ð¾Ð³Ð¾, Ñ‡Ñ‚Ð¾Ð±Ñ‹ ÑƒÐ¼ÐµÐ½ÑŒÑˆÐ¸Ñ‚ÑŒ ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ñ‚Ð¾Ð²Ð°Ñ€Ð° Ð² Ð·Ð°ÐºÐ°Ð·Ðµ, Ð½ÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ð¾ ÑƒÐ¼ÐµÐ½ÑŒÑˆÐ¸Ñ‚ÑŒ ÐµÐ³Ð¾ ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ð² Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ°Ñ… ÐºÐ°Ðº Ð¼Ð¸Ð½Ð¸Ð¼ÑƒÐ¼ Ð½Ð° #QUANTITY# #BASKET_ITEM_MEASURE#.";
+$MESS["SALE_ORDER_SHIPMENT_WRONG_DELIVERY_PRICE"] = "ÐÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ð°Ñ Ñ†ÐµÐ½Ð° Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸";
 ?>

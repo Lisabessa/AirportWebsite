@@ -1,3 +1,3 @@
 <?php
-$MESS['LANDING_DEMO_REGISTER_ERROR_DATA'] = 'Äàííûå ïóñòû èëè íåêîððåêòíû';
-$MESS['LANDING_DEMO_CONTENT_IS_BAD'] = 'Ñîäåðæèìîå îïðåäåëåíî êàê íåáåçîïàñíîå. Îïðåäåëèòü íåáåçîïàñíûå ÷àñòè ìîæíî ÷åðåç ìåòîä landing.repo.checkcontent';
+$MESS['LANDING_DEMO_REGISTER_ERROR_DATA'] = 'Ð”Ð°Ð½Ð½Ñ‹Ðµ Ð¿ÑƒÑÑ‚Ñ‹ Ð¸Ð»Ð¸ Ð½ÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ñ‹';
+$MESS['LANDING_DEMO_CONTENT_IS_BAD'] = 'Ð¡Ð¾Ð´ÐµÑ€Ð¶Ð¸Ð¼Ð¾Ðµ Ð¾Ð¿Ñ€ÐµÐ´ÐµÐ»ÐµÐ½Ð¾ ÐºÐ°Ðº Ð½ÐµÐ±ÐµÐ·Ð¾Ð¿Ð°ÑÐ½Ð¾Ðµ. ÐžÐ¿Ñ€ÐµÐ´ÐµÐ»Ð¸Ñ‚ÑŒ Ð½ÐµÐ±ÐµÐ·Ð¾Ð¿Ð°ÑÐ½Ñ‹Ðµ Ñ‡Ð°ÑÑ‚Ð¸ Ð¼Ð¾Ð¶Ð½Ð¾ Ñ‡ÐµÑ€ÐµÐ· Ð¼ÐµÑ‚Ð¾Ð´ landing.repo.checkcontent';

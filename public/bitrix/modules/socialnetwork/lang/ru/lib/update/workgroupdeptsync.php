@@ -1,3 +1,3 @@
 <?
-$MESS["FUPD_WORKGROUP_DEPT_SYNC_TITLE"] = "Ñèíõðîíèçàöèÿ ñîñòàâà ðàáî÷èõ ãðóïï";
+$MESS["FUPD_WORKGROUP_DEPT_SYNC_TITLE"] = "Ð¡Ð¸Ð½Ñ…Ñ€Ð¾Ð½Ð¸Ð·Ð°Ñ†Ð¸Ñ ÑÐ¾ÑÑ‚Ð°Ð²Ð° Ñ€Ð°Ð±Ð¾Ñ‡Ð¸Ñ… Ð³Ñ€ÑƒÐ¿Ð¿";
 ?>

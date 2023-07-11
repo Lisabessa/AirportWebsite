@@ -1,6 +1,6 @@
 <?
-$MESS["ORDER_ROUND_ENTITY_ID_FIELD"] = "Èäåíòèôèêàòîð çàïèñè";
-$MESS["ORDER_ROUND_ENTITY_ORDER_ID_FIELD"] = "Èäåíòèôèêàòîð çàêàçà";
+$MESS["ORDER_ROUND_ENTITY_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð·Ð°Ð¿Ð¸ÑÐ¸";
+$MESS["ORDER_ROUND_ENTITY_ORDER_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð·Ð°ÐºÐ°Ð·Ð°";
 $MESS["ORDER_ROUND_ENTITY_ORDER_ROUND_FIELD"] = "";
 $MESS["ORDER_ROUND_ENTITY_ENTITY_TYPE_FIELD"] = "";
 $MESS["ORDER_ROUND_ENTITY_ENTITY_ID_FIELD"] = "";

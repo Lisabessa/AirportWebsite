@@ -1,8 +1,8 @@
 <?
-$MESS['CONTROLLER_ERROR_PERSON_TYPE_ID_FIELD_EMPTY'] = 'Íå ïåðåäàíî çíà÷åíèå òèïà ïëàòåëüùèêà';
-$MESS['CONTROLLER_ERROR_NAME_FIELD_EMPTY'] = 'Íå ïåðåäàíî íàçâàíèå ãðóïïû';
-$MESS['CONTROLLER_ERROR_ADD_PROPS_GROUP'] = 'Îøèáêà ñîçäàíèÿ ãðóïïû';
-$MESS['CONTROLLER_ERROR_UPDATE_PROPS_GROUP'] = 'Îøèáêà îáíîâëåíèÿ ãðóïïû. [#ID#]';
-$MESS['CONTROLLER_ERROR_DELETE_PROPS_GROUP'] = 'Îøèáêà óäàëåíèÿ ãðóïïû. [#ID#]';
-$MESS['CONTROLLER_ERROR_PROPS_GROUP_NOT_EXISTS'] = 'Ãðóïïà íå ñóùåñòâóåò. [#ID#]';
+$MESS['CONTROLLER_ERROR_PERSON_TYPE_ID_FIELD_EMPTY'] = 'ÐÐµ Ð¿ÐµÑ€ÐµÐ´Ð°Ð½Ð¾ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ñ‚Ð¸Ð¿Ð° Ð¿Ð»Ð°Ñ‚ÐµÐ»ÑŒÑ‰Ð¸ÐºÐ°';
+$MESS['CONTROLLER_ERROR_NAME_FIELD_EMPTY'] = 'ÐÐµ Ð¿ÐµÑ€ÐµÐ´Ð°Ð½Ð¾ Ð½Ð°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹';
+$MESS['CONTROLLER_ERROR_ADD_PROPS_GROUP'] = 'ÐžÑˆÐ¸Ð±ÐºÐ° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹';
+$MESS['CONTROLLER_ERROR_UPDATE_PROPS_GROUP'] = 'ÐžÑˆÐ¸Ð±ÐºÐ° Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ñ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹. [#ID#]';
+$MESS['CONTROLLER_ERROR_DELETE_PROPS_GROUP'] = 'ÐžÑˆÐ¸Ð±ÐºÐ° ÑƒÐ´Ð°Ð»ÐµÐ½Ð¸Ñ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹. [#ID#]';
+$MESS['CONTROLLER_ERROR_PROPS_GROUP_NOT_EXISTS'] = 'Ð“Ñ€ÑƒÐ¿Ð¿Ð° Ð½Ðµ ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÐµÑ‚. [#ID#]';
 ?>

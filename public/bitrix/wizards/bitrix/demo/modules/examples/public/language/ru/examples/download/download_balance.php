@@ -1,5 +1,5 @@
 <?
-// хосты для распределения нагрузки скачиваний с вероятностью выбора: 70, 50
+// С…РѕСЃС‚С‹ РґР»СЏ СЂР°СЃРїСЂРµРґРµР»РµРЅРёСЏ РЅР°РіСЂСѓР·РєРё СЃРєР°С‡РёРІР°РЅРёР№ СЃ РІРµСЂРѕСЏС‚РЅРѕСЃС‚СЊСЋ РІС‹Р±РѕСЂР°: 70, 50
 /*
 $arrHOSTS = array(
 	"70" => "http://download1.bitrixsoft.ru",
@@ -7,8 +7,8 @@ $arrHOSTS = array(
 );
 */
 
-// интервал в течении которого не будут регистрироваться события скачивания от одного посетителя сайта
-$DOWNLOAD_EVENT_INTERVAL = 21600; // сек.
+// РёРЅС‚РµСЂРІР°Р» РІ С‚РµС‡РµРЅРёРё РєРѕС‚РѕСЂРѕРіРѕ РЅРµ Р±СѓРґСѓС‚ СЂРµРіРёСЃС‚СЂРёСЂРѕРІР°С‚СЊСЃСЏ СЃРѕР±С‹С‚РёСЏ СЃРєР°С‡РёРІР°РЅРёСЏ РѕС‚ РѕРґРЅРѕРіРѕ РїРѕСЃРµС‚РёС‚РµР»СЏ СЃР°Р№С‚Р°
+$DOWNLOAD_EVENT_INTERVAL = 21600; // СЃРµРє.
 
 $sCurUrl = urldecode($_SERVER["REQUEST_URI"]);
 $sCurUrl = str_replace("\0", "", $sCurUrl);
@@ -47,7 +47,7 @@ if(file_exists($filename) && is_file($filename))
 	include($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/main/include/prolog_before.php");
 	if(CModule::IncludeModule("statistic"))
 	{
-		if($cur_pos<=0) // проверим скачивается ли с самого начала
+		if($cur_pos<=0) // РїСЂРѕРІРµСЂРёРј СЃРєР°С‡РёРІР°РµС‚СЃСЏ Р»Рё СЃ СЃР°РјРѕРіРѕ РЅР°С‡Р°Р»Р°
 		{
 			if(strlen($event1)<=0 && strlen($event2)<=0)
 			{
@@ -55,12 +55,12 @@ if(file_exists($filename) && is_file($filename))
 				$event2 = $file;
 			}
 			$e = $event1."/".$event2."/".$event3;
-			if(!in_array($e, $_SESSION["DOWNLOAD_EVENTS"])) // проверим не скачивался ли в данной сессии
+			if(!in_array($e, $_SESSION["DOWNLOAD_EVENTS"])) // РїСЂРѕРІРµСЂРёРј РЅРµ СЃРєР°С‡РёРІР°Р»СЃСЏ Р»Рё РІ РґР°РЅРЅРѕР№ СЃРµСЃСЃРёРё
 			{
 				$w = CStatEvent::GetByEvents($event1, $event2);
 				$wr = $w->Fetch();
 				$z = CStatEvent::GetEventsByGuest($_SESSION["SESS_GUEST_ID"], $wr["EVENT_ID"], $event3, $DOWNLOAD_EVENT_INTERVAL);
-				if(!($zr=$z->Fetch())) // проверим не скачивал ли посетитель за последние 6 часов
+				if(!($zr=$z->Fetch())) // РїСЂРѕРІРµСЂРёРј РЅРµ СЃРєР°С‡РёРІР°Р» Р»Рё РїРѕСЃРµС‚РёС‚РµР»СЊ Р·Р° РїРѕСЃР»РµРґРЅРёРµ 6 С‡Р°СЃРѕРІ
 				{
 					CStatistic::Set_Event($event1, $event2, $event3);
 					$_SESSION["DOWNLOAD_EVENTS"][] = $e;

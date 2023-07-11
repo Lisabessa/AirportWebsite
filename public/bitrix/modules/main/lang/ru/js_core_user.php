@@ -1,4 +1,4 @@
 <?
-$MESS["U_STATUS_ONLINE"] = "Â ñåòè";
-$MESS["U_STATUS_OFFLINE"] = "Íå â ñåòè";
+$MESS["U_STATUS_ONLINE"] = "Ð’ ÑÐµÑ‚Ð¸";
+$MESS["U_STATUS_OFFLINE"] = "ÐÐµ Ð² ÑÐµÑ‚Ð¸";
 ?>

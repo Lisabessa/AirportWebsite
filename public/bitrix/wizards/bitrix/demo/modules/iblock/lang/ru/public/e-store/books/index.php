@@ -1,4 +1,4 @@
 <?
-$MESS ['DEMO_IBLOCK_ESTORE_BOOKS_TITLE'] = "Êàòàëîã êíèã";
-$MESS ['DEMO_IBLOCK_ESTORE_BOOKS_PAGER_TITLE'] = "Êíèãè";
+$MESS ['DEMO_IBLOCK_ESTORE_BOOKS_TITLE'] = "ÐšÐ°Ñ‚Ð°Ð»Ð¾Ð³ ÐºÐ½Ð¸Ð³";
+$MESS ['DEMO_IBLOCK_ESTORE_BOOKS_PAGER_TITLE'] = "ÐšÐ½Ð¸Ð³Ð¸";
 ?>

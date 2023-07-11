@@ -1,18 +1,18 @@
 <?
-$MESS ['SUP_ERROR_ACCESS_DENIED'] = "Äîñòóï çàïðåùåí.";
-$MESS ['SUP_FILTER_ERROR'] = "Îøèáêà â ôèëüòðå.";
-$MESS ['SUP_ERROR_ATTACH_NOT_FOUND'] = "Ôàéë íå íàéäåí.";
-$MESS ['SUP_ERROR_INCORRECT_DATE_MODIFY_1'] = "Íåâåðíàÿ äàòà ìîäèôèêàöèè \"ñ\".";
-$MESS ['SUP_ERROR_INCORRECT_DATE_MODIFY_2'] = "Íåâåðíàÿ äàòà ìîäèôèêàöèè \"ïî\".";
-$MESS ['SUP_ERROR_INCORRECT_DATE_CREATE_1'] = "Íåâåðíàÿ äàòà ñîçäàíèÿ \"ñ\".";
-$MESS ['SUP_ERROR_INCORRECT_DATE_CREATE_2'] = "Íåâåðíàÿ äàòà ñîçäàíèÿ \"ïî\".";
-$MESS ['SUP_ERROR_INCORRECT_DATE_CREATE'] = "Íåâåðíàÿ äàòà ñîçäàíèÿ.";
-$MESS ['SUP_ERROR_INCORRECT_DATE_MODIFY'] = "Íåâåðíàÿ äàòà ìîäèôèêàöèè.";
-$MESS ['SUP_ERROR_INCORRECT_EMAIL'] = "Íåâåðíûé EMail.";
-$MESS ['SUP_ERROR_REQUIRED_NAME'] = "Íå óêàçàíî íàçâàíèå.";
-$MESS ['SUP_ERROR_REQUIRED_TIMETABLE_ID'] = "Íå óêàçàíî ðàñïèñàíèå";
-$MESS ['SUP_ERROR_DELETE'] = "Îøèáêà óäàëåíèÿ.";
-$MESS ['SUP_ERROR_SAVE'] = "Îøèáêà èçìåíåíèÿ çàïèñè ##ID#";
-$MESS ['SUP_ERROR_SLA_HAS_TICKET'] = "Ïåðåä óäàëåíèåì SLA # #ID# íåîáõîäèìî óáåäèòüñÿ, ÷òî íåò íè îäíîãî îáðàùåíèÿ ñ äàííûì SLA.";
-$MESS ['SUP_ERROR_SLA_1'] = "SLA # 1 íåëüçÿ óäàëèòü ïî òåõíè÷åñêèì ïðè÷èíàì.";
+$MESS ['SUP_ERROR_ACCESS_DENIED'] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ð·Ð°Ð¿Ñ€ÐµÑ‰ÐµÐ½.";
+$MESS ['SUP_FILTER_ERROR'] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð² Ñ„Ð¸Ð»ÑŒÑ‚Ñ€Ðµ.";
+$MESS ['SUP_ERROR_ATTACH_NOT_FOUND'] = "Ð¤Ð°Ð¹Ð» Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½.";
+$MESS ['SUP_ERROR_INCORRECT_DATE_MODIFY_1'] = "ÐÐµÐ²ÐµÑ€Ð½Ð°Ñ Ð´Ð°Ñ‚Ð° Ð¼Ð¾Ð´Ð¸Ñ„Ð¸ÐºÐ°Ñ†Ð¸Ð¸ \"Ñ\".";
+$MESS ['SUP_ERROR_INCORRECT_DATE_MODIFY_2'] = "ÐÐµÐ²ÐµÑ€Ð½Ð°Ñ Ð´Ð°Ñ‚Ð° Ð¼Ð¾Ð´Ð¸Ñ„Ð¸ÐºÐ°Ñ†Ð¸Ð¸ \"Ð¿Ð¾\".";
+$MESS ['SUP_ERROR_INCORRECT_DATE_CREATE_1'] = "ÐÐµÐ²ÐµÑ€Ð½Ð°Ñ Ð´Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ \"Ñ\".";
+$MESS ['SUP_ERROR_INCORRECT_DATE_CREATE_2'] = "ÐÐµÐ²ÐµÑ€Ð½Ð°Ñ Ð´Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ \"Ð¿Ð¾\".";
+$MESS ['SUP_ERROR_INCORRECT_DATE_CREATE'] = "ÐÐµÐ²ÐµÑ€Ð½Ð°Ñ Ð´Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ.";
+$MESS ['SUP_ERROR_INCORRECT_DATE_MODIFY'] = "ÐÐµÐ²ÐµÑ€Ð½Ð°Ñ Ð´Ð°Ñ‚Ð° Ð¼Ð¾Ð´Ð¸Ñ„Ð¸ÐºÐ°Ñ†Ð¸Ð¸.";
+$MESS ['SUP_ERROR_INCORRECT_EMAIL'] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ EMail.";
+$MESS ['SUP_ERROR_REQUIRED_NAME'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾ Ð½Ð°Ð·Ð²Ð°Ð½Ð¸Ðµ.";
+$MESS ['SUP_ERROR_REQUIRED_TIMETABLE_ID'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾ Ñ€Ð°ÑÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ";
+$MESS ['SUP_ERROR_DELETE'] = "ÐžÑˆÐ¸Ð±ÐºÐ° ÑƒÐ´Ð°Ð»ÐµÐ½Ð¸Ñ.";
+$MESS ['SUP_ERROR_SAVE'] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ Ð·Ð°Ð¿Ð¸ÑÐ¸ ##ID#";
+$MESS ['SUP_ERROR_SLA_HAS_TICKET'] = "ÐŸÐµÑ€ÐµÐ´ ÑƒÐ´Ð°Ð»ÐµÐ½Ð¸ÐµÐ¼ SLA # #ID# Ð½ÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ð¾ ÑƒÐ±ÐµÐ´Ð¸Ñ‚ÑŒÑÑ, Ñ‡Ñ‚Ð¾ Ð½ÐµÑ‚ Ð½Ð¸ Ð¾Ð´Ð½Ð¾Ð³Ð¾ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ Ñ Ð´Ð°Ð½Ð½Ñ‹Ð¼ SLA.";
+$MESS ['SUP_ERROR_SLA_1'] = "SLA # 1 Ð½ÐµÐ»ÑŒÐ·Ñ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ Ð¿Ð¾ Ñ‚ÐµÑ…Ð½Ð¸Ñ‡ÐµÑÐºÐ¸Ð¼ Ð¿Ñ€Ð¸Ñ‡Ð¸Ð½Ð°Ð¼.";
 ?>

@@ -1,12 +1,12 @@
 <?
-$MESS["BCL_MON_MOB_MENU_TITLE"] = "Îáëàêî 1Ñ-Áèòðèêñ";
-$MESS["BCL_MON_MOB_MENU_IPAGE"] = "Èíôîðìàöèÿ èíñïåêòîðà";
-$MESS["BCL_MON_MOB_TEST_LICENSE"] = "Ñðîê èñòå÷åíèÿ ëèöåíçèè 1Ñ-Áèòðèêñ";
-$MESS["BCL_MON_MOB_IS_HTTPS"] = "Èíñïåêòèðîâàòü äîìåí ïî https";
-$MESS["BCL_MON_MOB_TEST_SSL_CERT_VALIDITY"] = "Ñðîê äåéñòâèÿ SSL ñåðòèôèêàòà";
-$MESS["BCL_MON_MOB_TEST_DOMAIN_REGISTRATION"] = "Ñðîê ðåãèñòðàöèè äîìåíà";
-$MESS["BCL_MON_MOB_TEST_HTTP_RESPONSE_TIME"] = "Ðàáîòîñïîñîáíîñòü ñàéòà";
-$MESS["BCL_MON_MOB_INSPECTOR"] = "Èíñïåêòîð ñàéòîâ";
-$MESS["BCL_MON_MOB_SUBSCRIBE"] = "Ïîëó÷àòü óâåäîìëåíèÿ";
-$MESS["BCL_MON_MOB_MENU_PUSH"] = "Íàñòðîéêà PUSH óâåäîìëåíèé";
+$MESS["BCL_MON_MOB_MENU_TITLE"] = "ÐžÐ±Ð»Ð°ÐºÐ¾ 1Ð¡-Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ";
+$MESS["BCL_MON_MOB_MENU_IPAGE"] = "Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ñ Ð¸Ð½ÑÐ¿ÐµÐºÑ‚Ð¾Ñ€Ð°";
+$MESS["BCL_MON_MOB_TEST_LICENSE"] = "Ð¡Ñ€Ð¾Ðº Ð¸ÑÑ‚ÐµÑ‡ÐµÐ½Ð¸Ñ Ð»Ð¸Ñ†ÐµÐ½Ð·Ð¸Ð¸ 1Ð¡-Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ";
+$MESS["BCL_MON_MOB_IS_HTTPS"] = "Ð˜Ð½ÑÐ¿ÐµÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ð´Ð¾Ð¼ÐµÐ½ Ð¿Ð¾ https";
+$MESS["BCL_MON_MOB_TEST_SSL_CERT_VALIDITY"] = "Ð¡Ñ€Ð¾Ðº Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ SSL ÑÐµÑ€Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð°";
+$MESS["BCL_MON_MOB_TEST_DOMAIN_REGISTRATION"] = "Ð¡Ñ€Ð¾Ðº Ñ€ÐµÐ³Ð¸ÑÑ‚Ñ€Ð°Ñ†Ð¸Ð¸ Ð´Ð¾Ð¼ÐµÐ½Ð°";
+$MESS["BCL_MON_MOB_TEST_HTTP_RESPONSE_TIME"] = "Ð Ð°Ð±Ð¾Ñ‚Ð¾ÑÐ¿Ð¾ÑÐ¾Ð±Ð½Ð¾ÑÑ‚ÑŒ ÑÐ°Ð¹Ñ‚Ð°";
+$MESS["BCL_MON_MOB_INSPECTOR"] = "Ð˜Ð½ÑÐ¿ÐµÐºÑ‚Ð¾Ñ€ ÑÐ°Ð¹Ñ‚Ð¾Ð²";
+$MESS["BCL_MON_MOB_SUBSCRIBE"] = "ÐŸÐ¾Ð»ÑƒÑ‡Ð°Ñ‚ÑŒ ÑƒÐ²ÐµÐ´Ð¾Ð¼Ð»ÐµÐ½Ð¸Ñ";
+$MESS["BCL_MON_MOB_MENU_PUSH"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° PUSH ÑƒÐ²ÐµÐ´Ð¾Ð¼Ð»ÐµÐ½Ð¸Ð¹";
 ?>

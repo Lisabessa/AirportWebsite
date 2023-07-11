@@ -1,12 +1,12 @@
 <?
-$MESS["sender_connector_recipient_name"] = "Email-ìàðêåòèíã - Ïîëó÷àòåëè ðàññûëîê";
-$MESS["sender_connector_recipient_name1"] = "Ïîëó÷àòåëè ðàññûëîê";
-$MESS["sender_connector_recipient_all"] = "Ëþáîå";
-$MESS["sender_connector_recipient_y"] = "Äà";
-$MESS["sender_connector_recipient_n"] = "Íåò";
-$MESS["sender_connector_recipient_mailing"] = "Ðàññûëêà:";
-$MESS["sender_connector_recipient_sent"] = "Îòïðàâëåíî:";
-$MESS["sender_connector_recipient_read"] = "Ïðî÷èòàíî:";
-$MESS["sender_connector_recipient_click"] = "Ïåðåõîä ïî ññûëêå:";
-$MESS["sender_connector_recipient_unsub"] = "Îòïèñàëèñü:";
+$MESS["sender_connector_recipient_name"] = "Email-Ð¼Ð°Ñ€ÐºÐµÑ‚Ð¸Ð½Ð³ - ÐŸÐ¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ð¸ Ñ€Ð°ÑÑÑ‹Ð»Ð¾Ðº";
+$MESS["sender_connector_recipient_name1"] = "ÐŸÐ¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ð¸ Ñ€Ð°ÑÑÑ‹Ð»Ð¾Ðº";
+$MESS["sender_connector_recipient_all"] = "Ð›ÑŽÐ±Ð¾Ðµ";
+$MESS["sender_connector_recipient_y"] = "Ð”Ð°";
+$MESS["sender_connector_recipient_n"] = "ÐÐµÑ‚";
+$MESS["sender_connector_recipient_mailing"] = "Ð Ð°ÑÑÑ‹Ð»ÐºÐ°:";
+$MESS["sender_connector_recipient_sent"] = "ÐžÑ‚Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¾:";
+$MESS["sender_connector_recipient_read"] = "ÐŸÑ€Ð¾Ñ‡Ð¸Ñ‚Ð°Ð½Ð¾:";
+$MESS["sender_connector_recipient_click"] = "ÐŸÐµÑ€ÐµÑ…Ð¾Ð´ Ð¿Ð¾ ÑÑÑ‹Ð»ÐºÐµ:";
+$MESS["sender_connector_recipient_unsub"] = "ÐžÑ‚Ð¿Ð¸ÑÐ°Ð»Ð¸ÑÑŒ:";
 ?>

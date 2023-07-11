@@ -1,6 +1,6 @@
 <?php
-$MESS["SALE_DELIVERY_REST_HANDLER_NAME"] = "Rest äîñòàâêà";
-$MESS["SALE_DELIVERY_REST_HANDLER_DESCRIPTION"] = "Íàáîð rest äîñòàâîê";
-$MESS["SALE_DELIVERY_REST_HANDLER_SETTING_TITLE"] = "Íàñòðîéêà";
-$MESS["SALE_DELIVERY_REST_HANDLER_SETTING_DESCRIPTION"] = "Íàñòðîéêà rest-îáðàáîò÷èêà";
-$MESS["SALE_DELIVERY_REST_HANDLER_SETTING_REST_CODE"] = "Rest-îáðàáîò÷èê";
+$MESS["SALE_DELIVERY_REST_HANDLER_NAME"] = "Rest Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ°";
+$MESS["SALE_DELIVERY_REST_HANDLER_DESCRIPTION"] = "ÐÐ°Ð±Ð¾Ñ€ rest Ð´Ð¾ÑÑ‚Ð°Ð²Ð¾Ðº";
+$MESS["SALE_DELIVERY_REST_HANDLER_SETTING_TITLE"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ°";
+$MESS["SALE_DELIVERY_REST_HANDLER_SETTING_DESCRIPTION"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° rest-Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚Ñ‡Ð¸ÐºÐ°";
+$MESS["SALE_DELIVERY_REST_HANDLER_SETTING_REST_CODE"] = "Rest-Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚Ñ‡Ð¸Ðº";

@@ -1,6 +1,6 @@
 <?
-$MESS ['STAT_CITY_GEOIP_PHP_DESCR'] = "Модуль доступа к базе данных geoip, написанный на php. Рекомендуется загрузить <a href=\"http://www.maxmind.com/app/php\" target=\"_blank\">самую свежую</a> версию. В файле dbconn.php требуется определить константу GEOIP_DATABASE_FILE с полным путем к базе данных.";
-$MESS ['STAT_CITY_GEOIP_PHP_POSTAL_CODE'] = "Почтовый индекс";
-$MESS ['STAT_CITY_GEOIP_PHP_LONGITUDE'] = "Долгота";
-$MESS ['STAT_CITY_GEOIP_PHP_LATITUDE'] = "Широта";
+$MESS ['STAT_CITY_GEOIP_PHP_DESCR'] = "РњРѕРґСѓР»СЊ РґРѕСЃС‚СѓРїР° Рє Р±Р°Р·Рµ РґР°РЅРЅС‹С… geoip, РЅР°РїРёСЃР°РЅРЅС‹Р№ РЅР° php. Р РµРєРѕРјРµРЅРґСѓРµС‚СЃСЏ Р·Р°РіСЂСѓР·РёС‚СЊ <a href=\"http://www.maxmind.com/app/php\" target=\"_blank\">СЃР°РјСѓСЋ СЃРІРµР¶СѓСЋ</a> РІРµСЂСЃРёСЋ. Р’ С„Р°Р№Р»Рµ dbconn.php С‚СЂРµР±СѓРµС‚СЃСЏ РѕРїСЂРµРґРµР»РёС‚СЊ РєРѕРЅСЃС‚Р°РЅС‚Сѓ GEOIP_DATABASE_FILE СЃ РїРѕР»РЅС‹Рј РїСѓС‚РµРј Рє Р±Р°Р·Рµ РґР°РЅРЅС‹С….";
+$MESS ['STAT_CITY_GEOIP_PHP_POSTAL_CODE'] = "РџРѕС‡С‚РѕРІС‹Р№ РёРЅРґРµРєСЃ";
+$MESS ['STAT_CITY_GEOIP_PHP_LONGITUDE'] = "Р”РѕР»РіРѕС‚Р°";
+$MESS ['STAT_CITY_GEOIP_PHP_LATITUDE'] = "РЁРёСЂРѕС‚Р°";
 ?>

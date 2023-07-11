@@ -1,11 +1,11 @@
 <?
-$MESS["IBLOCK_ACTIVE"] = "Çàïèñü àêòèâíà:";
-$MESS["IBLOCK_CODE"] = "Ñèìâîëüíûé êîä:";
-$MESS["IBLOCK_CONTENT"] = "Âåðõíèé óðîâåíü";
-$MESS["IBLOCK_DELETE"] = "Óäàëèòü";
-$MESS["IBLOCK_EXTERNAL_CODE"] = "Âíåøíèé êîä:";
-$MESS["IBLOCK_NAME"] = "Íàçâàíèå:";
-$MESS["IBLOCK_SORT"] = "Èíäåêñ ñîðòèðîâêè:";
-$MESS["IBLOCK_TAGS"] = "Òåãè:";
-$MESS["IBLOCK_WF_STATUS"] = "Ñòàòóñ:";
+$MESS["IBLOCK_ACTIVE"] = "Ð—Ð°Ð¿Ð¸ÑÑŒ Ð°ÐºÑ‚Ð¸Ð²Ð½Ð°:";
+$MESS["IBLOCK_CODE"] = "Ð¡Ð¸Ð¼Ð²Ð¾Ð»ÑŒÐ½Ñ‹Ð¹ ÐºÐ¾Ð´:";
+$MESS["IBLOCK_CONTENT"] = "Ð’ÐµÑ€Ñ…Ð½Ð¸Ð¹ ÑƒÑ€Ð¾Ð²ÐµÐ½ÑŒ";
+$MESS["IBLOCK_DELETE"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";
+$MESS["IBLOCK_EXTERNAL_CODE"] = "Ð’Ð½ÐµÑˆÐ½Ð¸Ð¹ ÐºÐ¾Ð´:";
+$MESS["IBLOCK_NAME"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ:";
+$MESS["IBLOCK_SORT"] = "Ð˜Ð½Ð´ÐµÐºÑ ÑÐ¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²ÐºÐ¸:";
+$MESS["IBLOCK_TAGS"] = "Ð¢ÐµÐ³Ð¸:";
+$MESS["IBLOCK_WF_STATUS"] = "Ð¡Ñ‚Ð°Ñ‚ÑƒÑ:";
 ?>

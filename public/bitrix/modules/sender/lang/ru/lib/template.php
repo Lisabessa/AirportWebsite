@@ -1,13 +1,13 @@
 <?
-$MESS["SENDER_TEMPLATE_EDITOR_MAILBLOCK"] = "Почтовые блоки";
-$MESS["SENDER_TEMPLATE_EDITOR_MAILBLOCK_SEARCH"] = "Поиск почтовых блоков...";
-$MESS["SENDER_TEMPLATE_EDITOR_PLACEHOLDER"] = "Персонализация";
-$MESS["SENDER_TEMPLATE_EDITOR_SAVE"] = "Сохранить в мои шаблоны";
-$MESS["SENDER_TEMPLATE_EDITOR_SAVE_NAME"] = "с названием";
-$MESS["SENDER_ENTITY_TEMPLATE_FIELD_TITLE_NAME"] = "Название";
-$MESS["SENDER_ENTITY_TEMPLATE_FIELD_TITLE_CONTENT"] = "Текст шаблона";
-$MESS["SENDER_ENTITY_TEMPLATE_NOTE_OLD_EDITOR"] = "Чтобы использовать визуальный редактор, %LINK_START%включите настройку%LINK_END% \"Использовать новый визуальный редактор\".
-<br>В теле письма доступны тэги персонализации. Они перечислены рядом с полем \"Тема письма\".";
-$MESS["SENDER_ENTITY_TEMPLATE_DELETE_ERROR_TEMPLATE"] = "Шаблон \"#NAME#\" используется в следующих выпусках:";
-$MESS["SENDER_ENTITY_TEMPLATE_DELETE_ERROR_MAILING"] = "Рассылка \"#NAME#\":";
+$MESS["SENDER_TEMPLATE_EDITOR_MAILBLOCK"] = "РџРѕС‡С‚РѕРІС‹Рµ Р±Р»РѕРєРё";
+$MESS["SENDER_TEMPLATE_EDITOR_MAILBLOCK_SEARCH"] = "РџРѕРёСЃРє РїРѕС‡С‚РѕРІС‹С… Р±Р»РѕРєРѕРІ...";
+$MESS["SENDER_TEMPLATE_EDITOR_PLACEHOLDER"] = "РџРµСЂСЃРѕРЅР°Р»РёР·Р°С†РёСЏ";
+$MESS["SENDER_TEMPLATE_EDITOR_SAVE"] = "РЎРѕС…СЂР°РЅРёС‚СЊ РІ РјРѕРё С€Р°Р±Р»РѕРЅС‹";
+$MESS["SENDER_TEMPLATE_EDITOR_SAVE_NAME"] = "СЃ РЅР°Р·РІР°РЅРёРµРј";
+$MESS["SENDER_ENTITY_TEMPLATE_FIELD_TITLE_NAME"] = "РќР°Р·РІР°РЅРёРµ";
+$MESS["SENDER_ENTITY_TEMPLATE_FIELD_TITLE_CONTENT"] = "РўРµРєСЃС‚ С€Р°Р±Р»РѕРЅР°";
+$MESS["SENDER_ENTITY_TEMPLATE_NOTE_OLD_EDITOR"] = "Р§С‚РѕР±С‹ РёСЃРїРѕР»СЊР·РѕРІР°С‚СЊ РІРёР·СѓР°Р»СЊРЅС‹Р№ СЂРµРґР°РєС‚РѕСЂ, %LINK_START%РІРєР»СЋС‡РёС‚Рµ РЅР°СЃС‚СЂРѕР№РєСѓ%LINK_END% \"РСЃРїРѕР»СЊР·РѕРІР°С‚СЊ РЅРѕРІС‹Р№ РІРёР·СѓР°Р»СЊРЅС‹Р№ СЂРµРґР°РєС‚РѕСЂ\".
+<br>Р’ С‚РµР»Рµ РїРёСЃСЊРјР° РґРѕСЃС‚СѓРїРЅС‹ С‚СЌРіРё РїРµСЂСЃРѕРЅР°Р»РёР·Р°С†РёРё. РћРЅРё РїРµСЂРµС‡РёСЃР»РµРЅС‹ СЂСЏРґРѕРј СЃ РїРѕР»РµРј \"РўРµРјР° РїРёСЃСЊРјР°\".";
+$MESS["SENDER_ENTITY_TEMPLATE_DELETE_ERROR_TEMPLATE"] = "РЁР°Р±Р»РѕРЅ \"#NAME#\" РёСЃРїРѕР»СЊР·СѓРµС‚СЃСЏ РІ СЃР»РµРґСѓСЋС‰РёС… РІС‹РїСѓСЃРєР°С…:";
+$MESS["SENDER_ENTITY_TEMPLATE_DELETE_ERROR_MAILING"] = "Р Р°СЃСЃС‹Р»РєР° \"#NAME#\":";
 ?>

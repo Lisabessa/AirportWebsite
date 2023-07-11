@@ -1,11 +1,11 @@
 <?
-$MESS["public_file_edit_edit_cp"] = "Ðåäàêòèðîâàòü ôàéë â ïàíåëè óïðàâëåíèÿ";
-$MESS["FILEMAN_FILEEDIT_FILE_EXISTS"] = "Ôàéë ñ òàêèì èìåíåì óæå ñóùåñòâóåò!";
-$MESS["FILEMAN_FILEEDIT_FILENAME_EMPTY"] = "Èìÿ ôàéëà íå çàäàíî";
-$MESS["FILEMAN_FILEEDIT_FOLDER_EXISTS"] = "Ñ òàêèì èìåíåì îïðåäåëåíà ïàïêà!";
-$MESS["FILEMAN_SESSION_EXPIRED"] = "Âàøà ñåññèÿ èñòåêëà. Ïîæàëóéñòà, ïåðåñîõðàíèòå äîêóìåíò åùå ðàç.";
-$MESS["FILEMAN_FILEEDIT_NAME"] = "Èìÿ ôàéëà:";
-$MESS["FILEMAN_FILEEDIT_PAGE_TITLE"] = "Ðåäàêòèðîâàíèå ôàéëà";
-$MESS["FILEMAN_NEWFILEEDIT_TITLE"] = "Ñîçäàíèå íîâîãî ôàéëà";
-$MESS["pub_src_edit_err"] = "Îøèáêà ñîõðàíåíèÿ ôàéëà.";
+$MESS["public_file_edit_edit_cp"] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ñ„Ð°Ð¹Ð» Ð² Ð¿Ð°Ð½ÐµÐ»Ð¸ ÑƒÐ¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ñ";
+$MESS["FILEMAN_FILEEDIT_FILE_EXISTS"] = "Ð¤Ð°Ð¹Ð» Ñ Ñ‚Ð°ÐºÐ¸Ð¼ Ð¸Ð¼ÐµÐ½ÐµÐ¼ ÑƒÐ¶Ðµ ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÐµÑ‚!";
+$MESS["FILEMAN_FILEEDIT_FILENAME_EMPTY"] = "Ð˜Ð¼Ñ Ñ„Ð°Ð¹Ð»Ð° Ð½Ðµ Ð·Ð°Ð´Ð°Ð½Ð¾";
+$MESS["FILEMAN_FILEEDIT_FOLDER_EXISTS"] = "Ð¡ Ñ‚Ð°ÐºÐ¸Ð¼ Ð¸Ð¼ÐµÐ½ÐµÐ¼ Ð¾Ð¿Ñ€ÐµÐ´ÐµÐ»ÐµÐ½Ð° Ð¿Ð°Ð¿ÐºÐ°!";
+$MESS["FILEMAN_SESSION_EXPIRED"] = "Ð’Ð°ÑˆÐ° ÑÐµÑÑÐ¸Ñ Ð¸ÑÑ‚ÐµÐºÐ»Ð°. ÐŸÐ¾Ð¶Ð°Ð»ÑƒÐ¹ÑÑ‚Ð°, Ð¿ÐµÑ€ÐµÑÐ¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚Ðµ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚ ÐµÑ‰Ðµ Ñ€Ð°Ð·.";
+$MESS["FILEMAN_FILEEDIT_NAME"] = "Ð˜Ð¼Ñ Ñ„Ð°Ð¹Ð»Ð°:";
+$MESS["FILEMAN_FILEEDIT_PAGE_TITLE"] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ñ„Ð°Ð¹Ð»Ð°";
+$MESS["FILEMAN_NEWFILEEDIT_TITLE"] = "Ð¡Ð¾Ð·Ð´Ð°Ð½Ð¸Ðµ Ð½Ð¾Ð²Ð¾Ð³Ð¾ Ñ„Ð°Ð¹Ð»Ð°";
+$MESS["pub_src_edit_err"] = "ÐžÑˆÐ¸Ð±ÐºÐ° ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð¸Ñ Ñ„Ð°Ð¹Ð»Ð°.";
 ?>

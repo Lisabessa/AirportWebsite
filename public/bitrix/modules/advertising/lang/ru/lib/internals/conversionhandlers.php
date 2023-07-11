@@ -1,3 +1,3 @@
 <?php
 
-$MESS['ADVERTISING_CONVERSION_RATE_BANNER_CLICK_TITLE'] = 'Áàííåðû: êëèêè';
+$MESS['ADVERTISING_CONVERSION_RATE_BANNER_CLICK_TITLE'] = 'Ð‘Ð°Ð½Ð½ÐµÑ€Ñ‹: ÐºÐ»Ð¸ÐºÐ¸';

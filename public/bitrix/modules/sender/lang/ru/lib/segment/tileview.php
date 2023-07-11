@@ -1,7 +1,7 @@
 <?
-$MESS["SENDER_SEGMENT_TILEVIEW_SECTION_LAST"] = "Ïîñëåäíèå";
-$MESS["SENDER_SEGMENT_TILEVIEW_SECTION_FREQ"] = "Ïîïóëÿðíûå";
-$MESS["SENDER_SEGMENT_TILEVIEW_SECTION_SYSTEM"] = "Ïðåäóñòàíîâëåííûå";
-$MESS["SENDER_SEGMENT_TILEVIEW_SECTION_CASE"] = "Áèçíåñ-ñöåíàðèè";
-$MESS["SENDER_SEGMENT_TILEVIEW_SECTION_MY"] = "Ìîè ñåãìåíòû";
+$MESS["SENDER_SEGMENT_TILEVIEW_SECTION_LAST"] = "ÐŸÐ¾ÑÐ»ÐµÐ´Ð½Ð¸Ðµ";
+$MESS["SENDER_SEGMENT_TILEVIEW_SECTION_FREQ"] = "ÐŸÐ¾Ð¿ÑƒÐ»ÑÑ€Ð½Ñ‹Ðµ";
+$MESS["SENDER_SEGMENT_TILEVIEW_SECTION_SYSTEM"] = "ÐŸÑ€ÐµÐ´ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð½Ñ‹Ðµ";
+$MESS["SENDER_SEGMENT_TILEVIEW_SECTION_CASE"] = "Ð‘Ð¸Ð·Ð½ÐµÑ-ÑÑ†ÐµÐ½Ð°Ñ€Ð¸Ð¸";
+$MESS["SENDER_SEGMENT_TILEVIEW_SECTION_MY"] = "ÐœÐ¾Ð¸ ÑÐµÐ³Ð¼ÐµÐ½Ñ‚Ñ‹";
 ?>

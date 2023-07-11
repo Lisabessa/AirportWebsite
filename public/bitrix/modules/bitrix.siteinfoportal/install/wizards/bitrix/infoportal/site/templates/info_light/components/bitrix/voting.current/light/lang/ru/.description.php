@@ -1,4 +1,4 @@
 <?
-$MESS ['VOTE_MAIN_PAGE_BLUE_NAME'] = "Простой шаблон";
-$MESS ['VOTE_MAIN_PAGE_BLUE_DESC'] = "Простой шаблон";
+$MESS ['VOTE_MAIN_PAGE_BLUE_NAME'] = "РџСЂРѕСЃС‚РѕР№ С€Р°Р±Р»РѕРЅ";
+$MESS ['VOTE_MAIN_PAGE_BLUE_DESC'] = "РџСЂРѕСЃС‚РѕР№ С€Р°Р±Р»РѕРЅ";
 ?>

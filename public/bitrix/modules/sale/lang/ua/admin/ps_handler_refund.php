@@ -1,9 +1,9 @@
 <?
-$MESS["ACCESS_DENIED"] = "Äîñòóï çàáîðîíåíî";
-$MESS["SALE_REFUND_HANDLERS_TITLE"] = "Íàëàøòóâàííÿ ïîâåðíåíü";
-$MESS["SALE_REFUND_HANDLERS_LIST_EXTERNAL_ID"] = "²äåíòèô³êàòîð ìàãàçèíó â ñèñòåì³";
-$MESS["SALE_REFUND_HANDLERS_LIST_NAME"] = "Íàçâà îáðîáíèêà";
-$MESS["SALE_REFUND_HANDLERS_LIST_CONFIGURED"] = "Ï³äêëþ÷åíèé";
-$MESS["SALE_REFUND_HANDLERS_LIST_CONFIGURED_Y"] = "Òàê";
-$MESS["SALE_REFUND_HANDLERS_LIST_CONFIGURED_N"] = "Í³";
+$MESS["ACCESS_DENIED"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ð·Ð°Ð±Ð¾Ñ€Ð¾Ð½ÐµÐ½Ð¾";
+$MESS["SALE_REFUND_HANDLERS_TITLE"] = "ÐÐ°Ð»Ð°ÑˆÑ‚ÑƒÐ²Ð°Ð½Ð½Ñ Ð¿Ð¾Ð²ÐµÑ€Ð½ÐµÐ½ÑŒ";
+$MESS["SALE_REFUND_HANDLERS_LIST_EXTERNAL_ID"] = "Ð†Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÐ°Ñ‚Ð¾Ñ€ Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ñƒ Ð² ÑÐ¸ÑÑ‚ÐµÐ¼Ñ–";
+$MESS["SALE_REFUND_HANDLERS_LIST_NAME"] = "ÐÐ°Ð·Ð²Ð° Ð¾Ð±Ñ€Ð¾Ð±Ð½Ð¸ÐºÐ°";
+$MESS["SALE_REFUND_HANDLERS_LIST_CONFIGURED"] = "ÐŸÑ–Ð´ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¸Ð¹";
+$MESS["SALE_REFUND_HANDLERS_LIST_CONFIGURED_Y"] = "Ð¢Ð°Ðº";
+$MESS["SALE_REFUND_HANDLERS_LIST_CONFIGURED_N"] = "ÐÑ–";
 ?>

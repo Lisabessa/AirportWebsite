@@ -1,4 +1,4 @@
 <?
-$MESS["IM_CALL_USER_DEFAULT_NAME"] = 'Ãîñòü';
-$MESS["IM_CALL_USER_ERROR_CREATE"] = 'Âî âðåìÿ ðåãèñòðàöèè ïîëüçîâàòåëÿ ïðîèçîøëà îøèáêà.';
+$MESS["IM_CALL_USER_DEFAULT_NAME"] = 'Ð“Ð¾ÑÑ‚ÑŒ';
+$MESS["IM_CALL_USER_ERROR_CREATE"] = 'Ð’Ð¾ Ð²Ñ€ÐµÐ¼Ñ Ñ€ÐµÐ³Ð¸ÑÑ‚Ñ€Ð°Ñ†Ð¸Ð¸ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ Ð¿Ñ€Ð¾Ð¸Ð·Ð¾ÑˆÐ»Ð° Ð¾ÑˆÐ¸Ð±ÐºÐ°.';
 ?>

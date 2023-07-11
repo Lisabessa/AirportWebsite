@@ -2,7 +2,7 @@
 <div class="rounded-block">
 	<div class="corner left-top"></div><div class="corner right-top"></div>
 	<div class="block-content">
-		<h3>Популярные фотографии</h3>
+		<h3>РџРѕРїСѓР»СЏСЂРЅС‹Рµ С„РѕС‚РѕРіСЂР°С„РёРё</h3>
 <?$APPLICATION->IncludeComponent("bitrix:photogallery.detail.list", "ascetic", array(
 	"IBLOCK_TYPE" => "photos",
 	"IBLOCK_ID" => "#PHOTO_USER_IBLOCK_ID#",

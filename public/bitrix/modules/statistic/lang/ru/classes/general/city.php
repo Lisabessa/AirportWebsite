@@ -1,8 +1,8 @@
 <?
-$MESS ['STAT_CITY_IP_ADDR'] = "IP àäðåñ";
-$MESS ['STAT_CITY_COUNTRY_CODE'] = "Êîä ñòðàíû";
-$MESS ['STAT_CITY_COUNTRY_NAME'] = "Íàçâàíèå ñòðàíû";
-$MESS ['STAT_CITY_REGION_NAME'] = "Ðåãèîí";
-$MESS ['STAT_CITY_CITY_NAME'] = "Ãîðîä";
-$MESS ['STAT_CITY_OTHER'] = "Äðóãèå";
+$MESS ['STAT_CITY_IP_ADDR'] = "IP Ð°Ð´Ñ€ÐµÑ";
+$MESS ['STAT_CITY_COUNTRY_CODE'] = "ÐšÐ¾Ð´ ÑÑ‚Ñ€Ð°Ð½Ñ‹";
+$MESS ['STAT_CITY_COUNTRY_NAME'] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ ÑÑ‚Ñ€Ð°Ð½Ñ‹";
+$MESS ['STAT_CITY_REGION_NAME'] = "Ð ÐµÐ³Ð¸Ð¾Ð½";
+$MESS ['STAT_CITY_CITY_NAME'] = "Ð“Ð¾Ñ€Ð¾Ð´";
+$MESS ['STAT_CITY_OTHER'] = "Ð”Ñ€ÑƒÐ³Ð¸Ðµ";
 ?>

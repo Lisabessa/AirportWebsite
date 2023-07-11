@@ -1,6 +1,6 @@
 <?
-$MESS["SALE_PS_RESTRICTIONS_BY_PRICE"] = "ïî ö³í³";
-$MESS["SALE_PS_RESTRICTIONS_BY_PRICE_TYPE_MORE"] = "Ñóìà îïëàòè â³ä";
-$MESS["SALE_PS_RESTRICTIONS_BY_PRICE_TYPE_LESS"] = "Ñóìà äî îïëàòè";
-$MESS["SALE_PS_RESTRICTIONS_BY_PRICE_VALUE"] = "Çíà÷åííÿ";
+$MESS["SALE_PS_RESTRICTIONS_BY_PRICE"] = "Ð¿Ð¾ Ñ†Ñ–Ð½Ñ–";
+$MESS["SALE_PS_RESTRICTIONS_BY_PRICE_TYPE_MORE"] = "Ð¡ÑƒÐ¼Ð° Ð¾Ð¿Ð»Ð°Ñ‚Ð¸ Ð²Ñ–Ð´";
+$MESS["SALE_PS_RESTRICTIONS_BY_PRICE_TYPE_LESS"] = "Ð¡ÑƒÐ¼Ð° Ð´Ð¾ Ð¾Ð¿Ð»Ð°Ñ‚Ð¸";
+$MESS["SALE_PS_RESTRICTIONS_BY_PRICE_VALUE"] = "Ð—Ð½Ð°Ñ‡ÐµÐ½Ð½Ñ";
 ?>

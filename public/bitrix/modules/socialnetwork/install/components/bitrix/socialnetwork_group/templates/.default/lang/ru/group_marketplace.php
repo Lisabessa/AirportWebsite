@@ -1,3 +1,3 @@
 <?
-$MESS["GROUP_MARKETPLACE_TITLE_2"] = "Ìàðêåò";
+$MESS["GROUP_MARKETPLACE_TITLE_2"] = "ÐœÐ°Ñ€ÐºÐµÑ‚";
 ?>

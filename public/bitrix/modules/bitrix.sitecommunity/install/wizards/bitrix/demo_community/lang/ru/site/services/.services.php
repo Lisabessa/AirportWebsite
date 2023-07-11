@@ -1,11 +1,11 @@
 <?
-$MESS ['SERVICE_MAIN_SETTINGS'] = "Íàñòðîéêè ñàéòà";
-$MESS ['SERVICE_IBLOCK'] = "Èíôîðìàöèîííûå áëîêè";
-$MESS ['SERVICE_FORUM'] = "Ôîðóì";
-$MESS ['SERVICE_BLOG'] = "Áëîã";
-$MESS ['SERVICE_SOCIALNETWORK'] = "Ñîöèàëüíàÿ ñåòü";
-$MESS ['SERVICE_FILES'] = "Ôàéëû";
-$MESS ['SERVICE_IBLOCK_DEMO_DATA'] = "Äîáàâëåíèå êàòàëîãîâ";
-$MESS ['SERVICE_IM'] = "Ìãíîâåííûå ñîîáùåíèÿ è óâåäîìëåíèÿ";
-$MESS ['SERVICE_VOTE'] = "Îïðîñû";
+$MESS ['SERVICE_MAIN_SETTINGS'] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ ÑÐ°Ð¹Ñ‚Ð°";
+$MESS ['SERVICE_IBLOCK'] = "Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ñ‹Ðµ Ð±Ð»Ð¾ÐºÐ¸";
+$MESS ['SERVICE_FORUM'] = "Ð¤Ð¾Ñ€ÑƒÐ¼";
+$MESS ['SERVICE_BLOG'] = "Ð‘Ð»Ð¾Ð³";
+$MESS ['SERVICE_SOCIALNETWORK'] = "Ð¡Ð¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð°Ñ ÑÐµÑ‚ÑŒ";
+$MESS ['SERVICE_FILES'] = "Ð¤Ð°Ð¹Ð»Ñ‹";
+$MESS ['SERVICE_IBLOCK_DEMO_DATA'] = "Ð”Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ ÐºÐ°Ñ‚Ð°Ð»Ð¾Ð³Ð¾Ð²";
+$MESS ['SERVICE_IM'] = "ÐœÐ³Ð½Ð¾Ð²ÐµÐ½Ð½Ñ‹Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ Ð¸ ÑƒÐ²ÐµÐ´Ð¾Ð¼Ð»ÐµÐ½Ð¸Ñ";
+$MESS ['SERVICE_VOTE'] = "ÐžÐ¿Ñ€Ð¾ÑÑ‹";
 ?>

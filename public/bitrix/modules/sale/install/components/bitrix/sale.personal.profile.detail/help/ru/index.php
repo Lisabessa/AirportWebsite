@@ -95,8 +95,8 @@ Array
     [~USER_NAME] => Anton
     [~USER_LAST_NAME] => Ezhkov
     [~USER_EMAIL] => anton@bitrixsoft.ru
-    [PRICE_FORMATED] => 12 450.00 ð.
-    [DISCOUNT_VALUE_FORMATED] => 0.00 ð.
+    [PRICE_FORMATED] => 12 450.00 Ñ€.
+    [DISCOUNT_VALUE_FORMATED] => 0.00 Ñ€.
     [CAN_CANCEL] => N
     [URL_TO_LIST] => index.php&filter_history=Y&filter=Y&set_filter=Y
     [SITE_ID] => ru
@@ -105,7 +105,7 @@ Array
             [ID] => F
             [SORT] => 100
             [LID] => ru
-            [NAME] => Äîñòàâëåí
+            [NAME] => Ð”Ð¾ÑÑ‚Ð°Ð²Ð»ÐµÐ½
             [DESCRIPTION] => 
         )
 
@@ -221,7 +221,7 @@ Array
         (
             [ID] => 1
             [LID] => ru
-            [NAME] => Ôèçè÷åñêîå ëèöî
+            [NAME] => Ð¤Ð¸Ð·Ð¸Ñ‡ÐµÑÐºÐ¾Ðµ Ð»Ð¸Ñ†Ð¾
             [SORT] => 0
         )
 
@@ -230,12 +230,12 @@ Array
             [ID] => 1
             [LID] => ru
             [CURRENCY] => RUR
-            [NAME] => Íàëè÷íûå
+            [NAME] => ÐÐ°Ð»Ð¸Ñ‡Ð½Ñ‹Ðµ
             [ACTIVE] => Y
             [SORT] => 100
             [DESCRIPTION] => 
             [PSA_ID] => 1
-            [PSA_NAME] => Íàëè÷íûìè êóðüåðó
+            [PSA_NAME] => ÐÐ°Ð»Ð¸Ñ‡Ð½Ñ‹Ð¼Ð¸ ÐºÑƒÑ€ÑŒÐµÑ€Ñƒ
             [PSA_ACTION_FILE] => c:/projects/siteman/bitrix/modules/sale/payment/cash/payment.php
             [PSA_RESULT_FILE] => 
             [PSA_NEW_WINDOW] => N
@@ -253,24 +253,24 @@ Array
                 (
                     [ID] => 51
                     [DETAIL_PAGE_URL] => 
-                    [NAME] => Áèòðèêñ: Óïðàâëåíèå ñàéòîì - Ìàëûé áèçíåñ (MySQL/OracleXE/MS SQL Express)
+                    [NAME] => Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ: Ð£Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ ÑÐ°Ð¹Ñ‚Ð¾Ð¼ - ÐœÐ°Ð»Ñ‹Ð¹ Ð±Ð¸Ð·Ð½ÐµÑ (MySQL/OracleXE/MS SQL Express)
                     [NOTES] => 
                     [QUANTITY] => 1
                     [PRICE] => 12450.00
                     [CURRENCY] => RUR
                     [~ID] => 51
                     [~DETAIL_PAGE_URL] => 
-                    [~NAME] => Áèòðèêñ: Óïðàâëåíèå ñàéòîì - Ìàëûé áèçíåñ (MySQL/OracleXE/MS SQL Express)
+                    [~NAME] => Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ: Ð£Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ ÑÐ°Ð¹Ñ‚Ð¾Ð¼ - ÐœÐ°Ð»Ñ‹Ð¹ Ð±Ð¸Ð·Ð½ÐµÑ (MySQL/OracleXE/MS SQL Express)
                     [~NOTES] => 
                     [~QUANTITY] => 1
                     [~PRICE] => 12450.00
                     [~CURRENCY] => RUR
-                    [PRICE_FORMATED] => 12 450.00 ð.
+                    [PRICE_FORMATED] => 12 450.00 Ñ€.
                 )
 
         )
 
-    [TAX_VALUE_FORMATED] => 0.00 ð.
-    [PRICE_DELIVERY_FORMATED] => 0.00 ð.
+    [TAX_VALUE_FORMATED] => 0.00 Ñ€.
+    [PRICE_DELIVERY_FORMATED] => 0.00 Ñ€.
 )
 </pre>

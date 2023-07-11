@@ -1,9 +1,9 @@
 <?
-$MESS["SALE_DELIVERY_REQ_DIALOG_CONTENT"] = "Âì³ñò â³äâàíòàæåííÿ";
-$MESS["SALE_DELIVERY_REQ_DIALOG_CLOSE"] = "Çàêðèòè";
-$MESS["SALE_DELIVERY_REQ_ERROR"] = "Ïîìèëêà";
-$MESS["SALE_DELIVERY_REQ_WARNING"] = "Ïîïåðåäæåííÿ";
-$MESS["SALE_DELIVERY_REQ_ERROR_RECEIVING"] = "Ïîìèëêà îòðèìàííÿ ³íôîðìàö³¿ â³ä ñåðâåðà";
-$MESS["SALE_DELIVERY_REQ_ERROR_PROCESSING"] = "Ïîìèëêà îáðîáêè â³äïîâ³ä³ â³ä ñåðâåðà";
-$MESS["SALE_DELIVERY_REQ_DIALOG_NEXT"] = "Äàë³";
+$MESS["SALE_DELIVERY_REQ_DIALOG_CONTENT"] = "Ð’Ð¼Ñ–ÑÑ‚ Ð²Ñ–Ð´Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ";
+$MESS["SALE_DELIVERY_REQ_DIALOG_CLOSE"] = "Ð—Ð°ÐºÑ€Ð¸Ñ‚Ð¸";
+$MESS["SALE_DELIVERY_REQ_ERROR"] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ°";
+$MESS["SALE_DELIVERY_REQ_WARNING"] = "ÐŸÐ¾Ð¿ÐµÑ€ÐµÐ´Ð¶ÐµÐ½Ð½Ñ";
+$MESS["SALE_DELIVERY_REQ_ERROR_RECEIVING"] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ° Ð¾Ñ‚Ñ€Ð¸Ð¼Ð°Ð½Ð½Ñ Ñ–Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ñ–Ñ— Ð²Ñ–Ð´ ÑÐµÑ€Ð²ÐµÑ€Ð°";
+$MESS["SALE_DELIVERY_REQ_ERROR_PROCESSING"] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ° Ð¾Ð±Ñ€Ð¾Ð±ÐºÐ¸ Ð²Ñ–Ð´Ð¿Ð¾Ð²Ñ–Ð´Ñ– Ð²Ñ–Ð´ ÑÐµÑ€Ð²ÐµÑ€Ð°";
+$MESS["SALE_DELIVERY_REQ_DIALOG_NEXT"] = "Ð”Ð°Ð»Ñ–";
 ?>

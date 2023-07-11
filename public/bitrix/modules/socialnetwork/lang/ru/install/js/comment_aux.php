@@ -1,16 +1,16 @@
 <?
-$MESS["SONET_COMMENTAUX_JS_SHARE_TEXT"] = "Íîâûé ïîëó÷àòåëü: #SHARE_LIST#";
-$MESS["SONET_COMMENTAUX_JS_SHARE_TEXT_1"] = "Íîâûå ïîëó÷àòåëè: #SHARE_LIST#";
-$MESS["SONET_COMMENTAUX_JS_CREATETASK_BLOG_POST"] = "Ñîçäàíà çàäà÷à \"#TASK_NAME#\" íà îñíîâàíèè ñîîáùåíèÿ Æèâîé ëåíòû.";
-$MESS["SONET_COMMENTAUX_JS_CREATETASK_BLOG_COMMENT"] = "Ñîçäàíà çàäà÷à \"#TASK_NAME#\" íà îñíîâàíèè #COMMENT_LINK#.";
-$MESS["SONET_COMMENTAUX_JS_CREATETASK_BLOG_COMMENT_LINK"] = "êîììåíòàðèÿ ê ñîîáùåíèþ Æèâîé ëåíòû";
-$MESS["SONET_COMMENTAUX_JS_CREATETASK_FORUM_POST_TASK_LINK"] = "êîììåíòàðèÿ ê çàäà÷å";
-$MESS["SONET_COMMENTAUX_JS_CREATETASK_FORUM_POST_CALENDAR_LINK"] = "êîììåíòàðèÿ ê ñîáûòèþ êàëåíäàðÿ";
-$MESS["SONET_COMMENTAUX_JS_CREATETASK_LOG_COMMENT_LINK"] = "êîììåíòàðèÿ ê çàïèñè Æèâîé ëåíòû";
-$MESS["SONET_COMMENTAUX_JS_FILEVERSION_TEXT"] = "Çàãðóçèë(à) íîâóþ âåðñèþ ôàéëà";
-$MESS["SONET_COMMENTAUX_JS_FILEVERSION_TEXT_M"] = "Çàãðóçèë íîâóþ âåðñèþ ôàéëà";
-$MESS["SONET_COMMENTAUX_JS_FILEVERSION_TEXT_F"] = "Çàãðóçèëà íîâóþ âåðñèþ ôàéëà";
-$MESS["SONET_COMMENTAUX_JS_HEAD_FILEVERSION_TEXT"] = "Îòðåäàêòèðîâàë(à) ôàéë";
-$MESS["SONET_COMMENTAUX_JS_HEAD_FILEVERSION_TEXT_M"] = "Îòðåäàêòèðîâàë ôàéë";
-$MESS["SONET_COMMENTAUX_JS_HEAD_FILEVERSION_TEXT_F"] = "Îòðåäàêòèðîâàëà ôàéë";
+$MESS["SONET_COMMENTAUX_JS_SHARE_TEXT"] = "ÐÐ¾Ð²Ñ‹Ð¹ Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»ÑŒ: #SHARE_LIST#";
+$MESS["SONET_COMMENTAUX_JS_SHARE_TEXT_1"] = "ÐÐ¾Ð²Ñ‹Ðµ Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ð¸: #SHARE_LIST#";
+$MESS["SONET_COMMENTAUX_JS_CREATETASK_BLOG_POST"] = "Ð¡Ð¾Ð·Ð´Ð°Ð½Ð° Ð·Ð°Ð´Ð°Ñ‡Ð° \"#TASK_NAME#\" Ð½Ð° Ð¾ÑÐ½Ð¾Ð²Ð°Ð½Ð¸Ð¸ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ Ð–Ð¸Ð²Ð¾Ð¹ Ð»ÐµÐ½Ñ‚Ñ‹.";
+$MESS["SONET_COMMENTAUX_JS_CREATETASK_BLOG_COMMENT"] = "Ð¡Ð¾Ð·Ð´Ð°Ð½Ð° Ð·Ð°Ð´Ð°Ñ‡Ð° \"#TASK_NAME#\" Ð½Ð° Ð¾ÑÐ½Ð¾Ð²Ð°Ð½Ð¸Ð¸ #COMMENT_LINK#.";
+$MESS["SONET_COMMENTAUX_JS_CREATETASK_BLOG_COMMENT_LINK"] = "ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ñ Ðº ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸ÑŽ Ð–Ð¸Ð²Ð¾Ð¹ Ð»ÐµÐ½Ñ‚Ñ‹";
+$MESS["SONET_COMMENTAUX_JS_CREATETASK_FORUM_POST_TASK_LINK"] = "ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ñ Ðº Ð·Ð°Ð´Ð°Ñ‡Ðµ";
+$MESS["SONET_COMMENTAUX_JS_CREATETASK_FORUM_POST_CALENDAR_LINK"] = "ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ñ Ðº ÑÐ¾Ð±Ñ‹Ñ‚Ð¸ÑŽ ÐºÐ°Ð»ÐµÐ½Ð´Ð°Ñ€Ñ";
+$MESS["SONET_COMMENTAUX_JS_CREATETASK_LOG_COMMENT_LINK"] = "ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ñ Ðº Ð·Ð°Ð¿Ð¸ÑÐ¸ Ð–Ð¸Ð²Ð¾Ð¹ Ð»ÐµÐ½Ñ‚Ñ‹";
+$MESS["SONET_COMMENTAUX_JS_FILEVERSION_TEXT"] = "Ð—Ð°Ð³Ñ€ÑƒÐ·Ð¸Ð»(Ð°) Ð½Ð¾Ð²ÑƒÑŽ Ð²ÐµÑ€ÑÐ¸ÑŽ Ñ„Ð°Ð¹Ð»Ð°";
+$MESS["SONET_COMMENTAUX_JS_FILEVERSION_TEXT_M"] = "Ð—Ð°Ð³Ñ€ÑƒÐ·Ð¸Ð» Ð½Ð¾Ð²ÑƒÑŽ Ð²ÐµÑ€ÑÐ¸ÑŽ Ñ„Ð°Ð¹Ð»Ð°";
+$MESS["SONET_COMMENTAUX_JS_FILEVERSION_TEXT_F"] = "Ð—Ð°Ð³Ñ€ÑƒÐ·Ð¸Ð»Ð° Ð½Ð¾Ð²ÑƒÑŽ Ð²ÐµÑ€ÑÐ¸ÑŽ Ñ„Ð°Ð¹Ð»Ð°";
+$MESS["SONET_COMMENTAUX_JS_HEAD_FILEVERSION_TEXT"] = "ÐžÑ‚Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð»(Ð°) Ñ„Ð°Ð¹Ð»";
+$MESS["SONET_COMMENTAUX_JS_HEAD_FILEVERSION_TEXT_M"] = "ÐžÑ‚Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð» Ñ„Ð°Ð¹Ð»";
+$MESS["SONET_COMMENTAUX_JS_HEAD_FILEVERSION_TEXT_F"] = "ÐžÑ‚Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð»Ð° Ñ„Ð°Ð¹Ð»";
 ?>

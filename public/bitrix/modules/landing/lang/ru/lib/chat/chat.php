@@ -1,3 +1,3 @@
 <?php
-$MESS['LANDING_CHAT_WELCOME_CREATE_MESSAGE'] = 'Ñîçäàí ÷àò äëÿ îáñóæäåíèÿ ñòàòüè áàçû çíàíèé.';
-$MESS['LANDING_CHAT_ERROR_CHAT_UPDATE'] = 'Íåò äîñòóïà íà èçìåíåíèå ÷àòà';
+$MESS['LANDING_CHAT_WELCOME_CREATE_MESSAGE'] = 'Ð¡Ð¾Ð·Ð´Ð°Ð½ Ñ‡Ð°Ñ‚ Ð´Ð»Ñ Ð¾Ð±ÑÑƒÐ¶Ð´ÐµÐ½Ð¸Ñ ÑÑ‚Ð°Ñ‚ÑŒÐ¸ Ð±Ð°Ð·Ñ‹ Ð·Ð½Ð°Ð½Ð¸Ð¹.';
+$MESS['LANDING_CHAT_ERROR_CHAT_UPDATE'] = 'ÐÐµÑ‚ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð° Ð½Ð° Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ Ñ‡Ð°Ñ‚Ð°';

@@ -1,17 +1,17 @@
 <?
-$MESS ['SQL_PAGE_TITLE'] = "SQL çàïðîñ";
-$MESS ['SQL_EXECUTE'] = "Âûïîëíèòü çàïðîñ";
-$MESS ['SQL_CONFIRM_EXECUTE'] = "Âû óâåðåíû ÷òî õîòèòå âûïîëíèòü SQL çàïðîñ ê áàçå?";
-$MESS ['SQL_RESET'] = "Ñáðîñèòü";
-$MESS ['SQL_QUERY_ERROR_1'] = "Îøèáêà âî âðåìÿ âûïîëíåíèÿ çàïðîñà:";
-$MESS ['SQL_QUERY_RESULT'] = "Ðåçóëüòàò:";
-$MESS ['SQL_PAGES'] = "Çàïèñè";
-$MESS ['SQL_SUCCESS_EXECUTE'] = "Çàïðîñ óñïåøíî âûïîëíåí.";
-$MESS ['SQL_AFFECTED_ROWS'] = "Îáðàáîòàíî çàïèñåé: ";
-$MESS ['SQL_EXEC_TIME'] = "Âðåìÿ âûïîëíåíèÿ: ";
-$MESS ['SQL_SEC'] = "ñåê.";
-$MESS ['SQL_TOTAL'] = "Âñåãî çàïèñåé:";
-$MESS ['SQL_ADD_TO_FAVORITES'] = "Äîáàâèòü SQL çàïðîñ â èçáðàííîå";
-$MESS ['SQL_TAB'] = "SQL çàïðîñ";
-$MESS ['SQL_TAB_TITLE'] = "SQL çàïðîñ ê áàçå äàííûõ";
+$MESS ['SQL_PAGE_TITLE'] = "SQL Ð·Ð°Ð¿Ñ€Ð¾Ñ";
+$MESS ['SQL_EXECUTE'] = "Ð’Ñ‹Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÑŒ Ð·Ð°Ð¿Ñ€Ð¾Ñ";
+$MESS ['SQL_CONFIRM_EXECUTE'] = "Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹ Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ Ð²Ñ‹Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÑŒ SQL Ð·Ð°Ð¿Ñ€Ð¾Ñ Ðº Ð±Ð°Ð·Ðµ?";
+$MESS ['SQL_RESET'] = "Ð¡Ð±Ñ€Ð¾ÑÐ¸Ñ‚ÑŒ";
+$MESS ['SQL_QUERY_ERROR_1'] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð²Ð¾ Ð²Ñ€ÐµÐ¼Ñ Ð²Ñ‹Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¸Ñ Ð·Ð°Ð¿Ñ€Ð¾ÑÐ°:";
+$MESS ['SQL_QUERY_RESULT'] = "Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚:";
+$MESS ['SQL_PAGES'] = "Ð—Ð°Ð¿Ð¸ÑÐ¸";
+$MESS ['SQL_SUCCESS_EXECUTE'] = "Ð—Ð°Ð¿Ñ€Ð¾Ñ ÑƒÑÐ¿ÐµÑˆÐ½Ð¾ Ð²Ñ‹Ð¿Ð¾Ð»Ð½ÐµÐ½.";
+$MESS ['SQL_AFFECTED_ROWS'] = "ÐžÐ±Ñ€Ð°Ð±Ð¾Ñ‚Ð°Ð½Ð¾ Ð·Ð°Ð¿Ð¸ÑÐµÐ¹: ";
+$MESS ['SQL_EXEC_TIME'] = "Ð’Ñ€ÐµÐ¼Ñ Ð²Ñ‹Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¸Ñ: ";
+$MESS ['SQL_SEC'] = "ÑÐµÐº.";
+$MESS ['SQL_TOTAL'] = "Ð’ÑÐµÐ³Ð¾ Ð·Ð°Ð¿Ð¸ÑÐµÐ¹:";
+$MESS ['SQL_ADD_TO_FAVORITES'] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ SQL Ð·Ð°Ð¿Ñ€Ð¾Ñ Ð² Ð¸Ð·Ð±Ñ€Ð°Ð½Ð½Ð¾Ðµ";
+$MESS ['SQL_TAB'] = "SQL Ð·Ð°Ð¿Ñ€Ð¾Ñ";
+$MESS ['SQL_TAB_TITLE'] = "SQL Ð·Ð°Ð¿Ñ€Ð¾Ñ Ðº Ð±Ð°Ð·Ðµ Ð´Ð°Ð½Ð½Ñ‹Ñ…";
 ?>

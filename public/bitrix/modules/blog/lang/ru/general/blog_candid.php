@@ -1,6 +1,6 @@
 <?
-$MESS["BLG_GC_EMPTY_BLOG_ID"] = "Не указан блог";
-$MESS["BLG_GB_ERROR_NO_BLOG"] = "Блог с кодом '#ID#' не найден";
-$MESS["BLG_GB_EMPTY_USER_ID"] = "Не указан код пользователя";
-$MESS["BLG_GB_ERROR_NO_USER_ID"] = "Код пользователя указан неверно";
+$MESS["BLG_GC_EMPTY_BLOG_ID"] = "РќРµ СѓРєР°Р·Р°РЅ Р±Р»РѕРі";
+$MESS["BLG_GB_ERROR_NO_BLOG"] = "Р‘Р»РѕРі СЃ РєРѕРґРѕРј '#ID#' РЅРµ РЅР°Р№РґРµРЅ";
+$MESS["BLG_GB_EMPTY_USER_ID"] = "РќРµ СѓРєР°Р·Р°РЅ РєРѕРґ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ";
+$MESS["BLG_GB_ERROR_NO_USER_ID"] = "РљРѕРґ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ СѓРєР°Р·Р°РЅ РЅРµРІРµСЂРЅРѕ";
 ?>

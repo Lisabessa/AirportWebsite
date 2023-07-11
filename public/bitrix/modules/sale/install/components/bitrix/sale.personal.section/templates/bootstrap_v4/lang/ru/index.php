@@ -1,14 +1,14 @@
 <?php
-$MESS["SPS_ACCOUNT_PAGE_NAME"] = "Ëè÷íûé ñ÷åò";
-$MESS["SPS_PERSONAL_PAGE_NAME"] = "Ëè÷íûå äàííûå";
-$MESS["SPS_PROFILE_PAGE_NAME"] = "Ïðîôèëè çàêàçîâ";
-$MESS["SPS_ORDER_PAGE_NAME"] = "Òåêóùèå çàêàçû";
-$MESS["SPS_ORDER_PAGE_HISTORY"] = "Èñòîðèÿ çàêàçîâ";
-$MESS["SPS_SUBSCRIBE_PAGE_NAME"] = "Ïîäïèñêè";
-$MESS["SPS_BASKET_PAGE_NAME"] = "Êîðçèíà";
-$MESS["SPS_CONTACT_PAGE_NAME"] = "Êîíòàêòû";
-$MESS["SPS_ERROR_NOT_CHOSEN_ELEMENT"] = "Îòñóòâóþò âûáðàííûå ýëåìåíòû";
-$MESS["SPS_CHAIN_MAIN"] = "Ìîé êàáèíåò";
-$MESS["SPS_TITLE_MAIN"] = "Ïåðñîíàëüíûé ðàçäåë";
+$MESS["SPS_ACCOUNT_PAGE_NAME"] = "Ð›Ð¸Ñ‡Ð½Ñ‹Ð¹ ÑÑ‡ÐµÑ‚";
+$MESS["SPS_PERSONAL_PAGE_NAME"] = "Ð›Ð¸Ñ‡Ð½Ñ‹Ðµ Ð´Ð°Ð½Ð½Ñ‹Ðµ";
+$MESS["SPS_PROFILE_PAGE_NAME"] = "ÐŸÑ€Ð¾Ñ„Ð¸Ð»Ð¸ Ð·Ð°ÐºÐ°Ð·Ð¾Ð²";
+$MESS["SPS_ORDER_PAGE_NAME"] = "Ð¢ÐµÐºÑƒÑ‰Ð¸Ðµ Ð·Ð°ÐºÐ°Ð·Ñ‹";
+$MESS["SPS_ORDER_PAGE_HISTORY"] = "Ð˜ÑÑ‚Ð¾Ñ€Ð¸Ñ Ð·Ð°ÐºÐ°Ð·Ð¾Ð²";
+$MESS["SPS_SUBSCRIBE_PAGE_NAME"] = "ÐŸÐ¾Ð´Ð¿Ð¸ÑÐºÐ¸";
+$MESS["SPS_BASKET_PAGE_NAME"] = "ÐšÐ¾Ñ€Ð·Ð¸Ð½Ð°";
+$MESS["SPS_CONTACT_PAGE_NAME"] = "ÐšÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ñ‹";
+$MESS["SPS_ERROR_NOT_CHOSEN_ELEMENT"] = "ÐžÑ‚ÑÑƒÑ‚Ð²ÑƒÑŽÑ‚ Ð²Ñ‹Ð±Ñ€Ð°Ð½Ð½Ñ‹Ðµ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ñ‹";
+$MESS["SPS_CHAIN_MAIN"] = "ÐœÐ¾Ð¹ ÐºÐ°Ð±Ð¸Ð½ÐµÑ‚";
+$MESS["SPS_TITLE_MAIN"] = "ÐŸÐµÑ€ÑÐ¾Ð½Ð°Ð»ÑŒÐ½Ñ‹Ð¹ Ñ€Ð°Ð·Ð´ÐµÐ»";
 
 

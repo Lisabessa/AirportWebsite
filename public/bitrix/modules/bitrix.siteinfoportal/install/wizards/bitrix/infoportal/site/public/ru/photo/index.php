@@ -1,6 +1,6 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Ôîòîãàëåðåè");
+$APPLICATION->SetTitle("Ð¤Ð¾Ñ‚Ð¾Ð³Ð°Ð»ÐµÑ€ÐµÐ¸");
 ?><?$APPLICATION->IncludeComponent("bitrix:photogallery_user", ".default", array(
 	"SECTION_PAGE_ELEMENTS" => "15",
 	"ELEMENTS_PAGE_ELEMENTS" => "50",

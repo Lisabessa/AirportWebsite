@@ -1,8 +1,8 @@
 <?
-$MESS ['MAIN_SECTION_NAME'] = "Ãëàâíûé ìîäóëü";
-$MESS ['MAIN_MAP_NAME'] = "Êàðòà ñàéòà";
-$MESS ['MAIN_MAP_TEMPLATE_NAME'] = "Êàðòà ñàéòà (ïî óìîë÷àíèþ)";
-$MESS ['MAIN_MAP_TEMPLATE_DESCRIPTION'] = "Ñòàíäàðòíûé êîìïîíåíò äëÿ âûâîäà êàðòû ñàéòà";
-$MESS ['T_MAIN_PROFILE'] = "Ïàðàìåòðû ïîëüçîâàòåëÿ";
-$MESS ['T_MAIN_PROFILE_DESCRIPTION'] = "Ðåäàêòèðîâàíèå ïðîôèëÿ ïîëüçîâàòåëÿ";
+$MESS ['MAIN_SECTION_NAME'] = "Ð“Ð»Ð°Ð²Ð½Ñ‹Ð¹ Ð¼Ð¾Ð´ÑƒÐ»ÑŒ";
+$MESS ['MAIN_MAP_NAME'] = "ÐšÐ°Ñ€Ñ‚Ð° ÑÐ°Ð¹Ñ‚Ð°";
+$MESS ['MAIN_MAP_TEMPLATE_NAME'] = "ÐšÐ°Ñ€Ñ‚Ð° ÑÐ°Ð¹Ñ‚Ð° (Ð¿Ð¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ)";
+$MESS ['MAIN_MAP_TEMPLATE_DESCRIPTION'] = "Ð¡Ñ‚Ð°Ð½Ð´Ð°Ñ€Ñ‚Ð½Ñ‹Ð¹ ÐºÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚ Ð´Ð»Ñ Ð²Ñ‹Ð²Ð¾Ð´Ð° ÐºÐ°Ñ€Ñ‚Ñ‹ ÑÐ°Ð¹Ñ‚Ð°";
+$MESS ['T_MAIN_PROFILE'] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
+$MESS ['T_MAIN_PROFILE_DESCRIPTION'] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð¿Ñ€Ð¾Ñ„Ð¸Ð»Ñ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
 ?>

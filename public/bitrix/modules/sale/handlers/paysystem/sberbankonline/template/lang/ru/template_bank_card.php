@@ -1,5 +1,5 @@
 <?php
-$MESS["SALE_HANDLERS_PAY_SYSTEM_SBERBANK_DESCRIPTION"] = "Сумма к оплате по счету: ";
-$MESS["SALE_HANDLERS_PAY_SYSTEM_SBERBANK_WARNING_RETURN"] = "<b>Обратите внимание:</b> если вы откажетесь от покупки, для возврата денег вам придется обратиться в магазин.";
-$MESS["SALE_HANDLERS_PAY_SYSTEM_SBERBANK_REDIRECT"] = "Вы будете перенаправлены на страницу оплаты";
-$MESS["SALE_HANDLERS_PAY_SYSTEM_SBERBANK_BUTTON_PAID"] = "Оплатить";
+$MESS["SALE_HANDLERS_PAY_SYSTEM_SBERBANK_DESCRIPTION"] = "РЎСѓРјРјР° Рє РѕРїР»Р°С‚Рµ РїРѕ СЃС‡РµС‚Сѓ: ";
+$MESS["SALE_HANDLERS_PAY_SYSTEM_SBERBANK_WARNING_RETURN"] = "<b>РћР±СЂР°С‚РёС‚Рµ РІРЅРёРјР°РЅРёРµ:</b> РµСЃР»Рё РІС‹ РѕС‚РєР°Р¶РµС‚РµСЃСЊ РѕС‚ РїРѕРєСѓРїРєРё, РґР»СЏ РІРѕР·РІСЂР°С‚Р° РґРµРЅРµРі РІР°Рј РїСЂРёРґРµС‚СЃСЏ РѕР±СЂР°С‚РёС‚СЊСЃСЏ РІ РјР°РіР°Р·РёРЅ.";
+$MESS["SALE_HANDLERS_PAY_SYSTEM_SBERBANK_REDIRECT"] = "Р’С‹ Р±СѓРґРµС‚Рµ РїРµСЂРµРЅР°РїСЂР°РІР»РµРЅС‹ РЅР° СЃС‚СЂР°РЅРёС†Сѓ РѕРїР»Р°С‚С‹";
+$MESS["SALE_HANDLERS_PAY_SYSTEM_SBERBANK_BUTTON_PAID"] = "РћРїР»Р°С‚РёС‚СЊ";

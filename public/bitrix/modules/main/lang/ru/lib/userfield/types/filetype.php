@@ -1,11 +1,11 @@
 <?
-$MESS ['USER_TYPE_FILE_DESCRIPTION'] = "Ôàéë";
-$MESS ['USER_TYPE_FILE_SIZE'] = "Ðàçìåð ïîëÿ ââîäà äëÿ îòîáðàæåíèÿ";
-$MESS ['USER_TYPE_FILE_EXTENSIONS'] = "Ðàñøèðåíèÿ";
-$MESS ['USER_TYPE_FILE_EXTENSIONS_HINT'] = "Ââåäèòå äîïóñòèìûå ðàñøèðåíèÿ ôàéëîâ ÷åðåç çàïÿòóþ";
-$MESS ['USER_TYPE_FILE_WIDTH_AND_HEIGHT'] = "Ìàêñèìàëüíûå øèðèíà è âûñîòà äëÿ îòîáðàæåíèÿ â ñïèñêå";
-$MESS ['USER_TYPE_FILE_MAX_SHOW_SIZE'] = "Ìàêñèìàëüíî äîïóñòèìûé ðàçìåð äëÿ ïîêàçà â ñïèñêå (0 - íå îãðàíè÷èâàòü)";
-$MESS ['USER_TYPE_FILE_MAX_ALLOWED_SIZE'] = "Ìàêñèìàëüíî äîïóñòèìûé ðàçìåð ôàéëà äëÿ çàãðóçêè (0 - íå ïðîâåðÿòü)";
-$MESS ['USER_TYPE_FILE_MAX_SIZE_ERROR'] = "Ðàçìåð ôàéëà äëÿ ïîëÿ \"#FIELD_NAME#\" äîëæåí áûòü íå áîëåå #MAX_ALLOWED_SIZE# áàéò.";
-$MESS ['USER_TYPE_FILE_TARGET_BLANK'] = "Îòêðûâàòü ôàéë â íîâîé âêëàäêå";
+$MESS ['USER_TYPE_FILE_DESCRIPTION'] = "Ð¤Ð°Ð¹Ð»";
+$MESS ['USER_TYPE_FILE_SIZE'] = "Ð Ð°Ð·Ð¼ÐµÑ€ Ð¿Ð¾Ð»Ñ Ð²Ð²Ð¾Ð´Ð° Ð´Ð»Ñ Ð¾Ñ‚Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ñ";
+$MESS ['USER_TYPE_FILE_EXTENSIONS'] = "Ð Ð°ÑÑˆÐ¸Ñ€ÐµÐ½Ð¸Ñ";
+$MESS ['USER_TYPE_FILE_EXTENSIONS_HINT'] = "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð´Ð¾Ð¿ÑƒÑÑ‚Ð¸Ð¼Ñ‹Ðµ Ñ€Ð°ÑÑˆÐ¸Ñ€ÐµÐ½Ð¸Ñ Ñ„Ð°Ð¹Ð»Ð¾Ð² Ñ‡ÐµÑ€ÐµÐ· Ð·Ð°Ð¿ÑÑ‚ÑƒÑŽ";
+$MESS ['USER_TYPE_FILE_WIDTH_AND_HEIGHT'] = "ÐœÐ°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ñ‹Ðµ ÑˆÐ¸Ñ€Ð¸Ð½Ð° Ð¸ Ð²Ñ‹ÑÐ¾Ñ‚Ð° Ð´Ð»Ñ Ð¾Ñ‚Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ñ Ð² ÑÐ¿Ð¸ÑÐºÐµ";
+$MESS ['USER_TYPE_FILE_MAX_SHOW_SIZE'] = "ÐœÐ°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ð¾ Ð´Ð¾Ð¿ÑƒÑÑ‚Ð¸Ð¼Ñ‹Ð¹ Ñ€Ð°Ð·Ð¼ÐµÑ€ Ð´Ð»Ñ Ð¿Ð¾ÐºÐ°Ð·Ð° Ð² ÑÐ¿Ð¸ÑÐºÐµ (0 - Ð½Ðµ Ð¾Ð³Ñ€Ð°Ð½Ð¸Ñ‡Ð¸Ð²Ð°Ñ‚ÑŒ)";
+$MESS ['USER_TYPE_FILE_MAX_ALLOWED_SIZE'] = "ÐœÐ°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ð¾ Ð´Ð¾Ð¿ÑƒÑÑ‚Ð¸Ð¼Ñ‹Ð¹ Ñ€Ð°Ð·Ð¼ÐµÑ€ Ñ„Ð°Ð¹Ð»Ð° Ð´Ð»Ñ Ð·Ð°Ð³Ñ€ÑƒÐ·ÐºÐ¸ (0 - Ð½Ðµ Ð¿Ñ€Ð¾Ð²ÐµÑ€ÑÑ‚ÑŒ)";
+$MESS ['USER_TYPE_FILE_MAX_SIZE_ERROR'] = "Ð Ð°Ð·Ð¼ÐµÑ€ Ñ„Ð°Ð¹Ð»Ð° Ð´Ð»Ñ Ð¿Ð¾Ð»Ñ \"#FIELD_NAME#\" Ð´Ð¾Ð»Ð¶ÐµÐ½ Ð±Ñ‹Ñ‚ÑŒ Ð½Ðµ Ð±Ð¾Ð»ÐµÐµ #MAX_ALLOWED_SIZE# Ð±Ð°Ð¹Ñ‚.";
+$MESS ['USER_TYPE_FILE_TARGET_BLANK'] = "ÐžÑ‚ÐºÑ€Ñ‹Ð²Ð°Ñ‚ÑŒ Ñ„Ð°Ð¹Ð» Ð² Ð½Ð¾Ð²Ð¾Ð¹ Ð²ÐºÐ»Ð°Ð´ÐºÐµ";
 ?>

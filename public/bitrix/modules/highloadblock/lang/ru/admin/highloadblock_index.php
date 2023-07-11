@@ -1,6 +1,6 @@
 <?php
-$MESS['HLBLOCK_ADMIN_ADD_ENTITY_BUTTON'] = 'Äîáàâèòü Highload-áëîê';
-$MESS['HLBLOCK_ADMIN_ROWS_LIST'] = 'Ñïèñîê çàïèñåé';
-$MESS['HLBLOCK_ADMIN_FIELDS_LIST'] = 'Ñïèñîê ïîëåé';
-$MESS['HLBLOCK_ADMIN_ENTITY_TITLE'] = 'Íàçâàíèå';
-$MESS['HLBLOCK_ADMIN_DELETE_ENTITY_CONFIRM'] = 'Óäàëèòü Highload-áëîê è âñå åãî çàïèñè?';
+$MESS['HLBLOCK_ADMIN_ADD_ENTITY_BUTTON'] = 'Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Highload-Ð±Ð»Ð¾Ðº';
+$MESS['HLBLOCK_ADMIN_ROWS_LIST'] = 'Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð·Ð°Ð¿Ð¸ÑÐµÐ¹';
+$MESS['HLBLOCK_ADMIN_FIELDS_LIST'] = 'Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð¿Ð¾Ð»ÐµÐ¹';
+$MESS['HLBLOCK_ADMIN_ENTITY_TITLE'] = 'ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ';
+$MESS['HLBLOCK_ADMIN_DELETE_ENTITY_CONFIRM'] = 'Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ Highload-Ð±Ð»Ð¾Ðº Ð¸ Ð²ÑÐµ ÐµÐ³Ð¾ Ð·Ð°Ð¿Ð¸ÑÐ¸?';

@@ -1,3 +1,3 @@
 <?
-$MESS["socserv_openid_login"] = "Войти";
+$MESS["socserv_openid_login"] = "Р’РѕР№С‚Рё";
 ?>

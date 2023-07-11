@@ -1,17 +1,17 @@
 <?
-$MESS["WZD_OPTION_BOARD_1"] = "Ïóáëèêóåòñÿ íà ñàéòå";
-$MESS["WZD_OPTION_BOARD_2"] = "Íà÷àëî ïóáëèêàöèè ñ";
-$MESS["WZD_OPTION_BOARD_24"] = "Ñðîê ïóáëèêàöèè äî";
-$MESS["WZD_OPTION_BOARD_3"] = "*Çàãîëîâîê";
-$MESS["WZD_OPTION_BOARD_4"] = "*Òåêñò";
-$MESS["WZD_OPTION_BOARD_5"] = "Èçîáðàæåíèå";
+$MESS["WZD_OPTION_BOARD_1"] = "ÐŸÑƒÐ±Ð»Ð¸ÐºÑƒÐµÑ‚ÑÑ Ð½Ð° ÑÐ°Ð¹Ñ‚Ðµ";
+$MESS["WZD_OPTION_BOARD_2"] = "ÐÐ°Ñ‡Ð°Ð»Ð¾ Ð¿ÑƒÐ±Ð»Ð¸ÐºÐ°Ñ†Ð¸Ð¸ Ñ";
+$MESS["WZD_OPTION_BOARD_24"] = "Ð¡Ñ€Ð¾Ðº Ð¿ÑƒÐ±Ð»Ð¸ÐºÐ°Ñ†Ð¸Ð¸ Ð´Ð¾";
+$MESS["WZD_OPTION_BOARD_3"] = "*Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº";
+$MESS["WZD_OPTION_BOARD_4"] = "*Ð¢ÐµÐºÑÑ‚";
+$MESS["WZD_OPTION_BOARD_5"] = "Ð˜Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ðµ";
 $MESS["WZD_OPTION_BOARD_6"] = "E-mail";
-$MESS["WZD_OPTION_BOARD_7"] = "Ñàéò";
-$MESS["WZD_OPTION_BOARD_8"] = "Òåëåôîí";
-$MESS["WZD_OPTION_BOARD_9"] = "Âëàäåëåö îáúÿâëåíèÿ";
-$MESS["WZD_OPTION_BOARD_13"] = "Ðàçäåëû";
-$MESS["WZD_OPTION_BOARD_20"] = "Èçìåíèòü ðàçäåë";
-$MESS["WZD_OPTION_BOARD_21"] = "Íàçâàíèå";
-$MESS["WZD_OPTION_BOARD_22"] = "Ñèìâîëüíûé êîä";
-$MESS["WZD_OPTION_BOARD_23"] = "Ñîðòèðîâêà";
+$MESS["WZD_OPTION_BOARD_7"] = "Ð¡Ð°Ð¹Ñ‚";
+$MESS["WZD_OPTION_BOARD_8"] = "Ð¢ÐµÐ»ÐµÑ„Ð¾Ð½";
+$MESS["WZD_OPTION_BOARD_9"] = "Ð’Ð»Ð°Ð´ÐµÐ»ÐµÑ† Ð¾Ð±ÑŠÑÐ²Ð»ÐµÐ½Ð¸Ñ";
+$MESS["WZD_OPTION_BOARD_13"] = "Ð Ð°Ð·Ð´ÐµÐ»Ñ‹";
+$MESS["WZD_OPTION_BOARD_20"] = "Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ñ€Ð°Ð·Ð´ÐµÐ»";
+$MESS["WZD_OPTION_BOARD_21"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
+$MESS["WZD_OPTION_BOARD_22"] = "Ð¡Ð¸Ð¼Ð²Ð¾Ð»ÑŒÐ½Ñ‹Ð¹ ÐºÐ¾Ð´";
+$MESS["WZD_OPTION_BOARD_23"] = "Ð¡Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²ÐºÐ°";
 ?>

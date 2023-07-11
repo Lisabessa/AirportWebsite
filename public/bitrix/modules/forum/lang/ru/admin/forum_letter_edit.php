@@ -1,12 +1,12 @@
 <?
-$MESS["FLTR_TITLE"] = "Ñëîâàðü òðàíñëèòà";
-$MESS["FLTR_EDIT"] = "Ðåäàêòèðîâàíèå çàïèñè ##";
-$MESS["FLTR_NEW"] = "Íîâàÿ çàïèñü";
-$MESS["FLTR_DICTIONARY"] = "Ñëîâàðü";
-$MESS["FLTR_LETTER"] = "Áóêâà";
-$MESS["FLTR_REPLACEMENT"] = "Çàìåíà";
-$MESS["FLTR_NOT_SAVE"] = "Èçìåíåíèÿ íå ñîõðàíåíû. ";
-$MESS["FLTR_DEL_CONFIRM"] = "Âû äåéñòâèòåëüíî õîòèòå óäàëèòü çàïèñü?";
-$MESS["FLTR_DEL"] = "Óäàëèòü";
-$MESS["FLTR_LIST"] = "Ñïèñîê";
+$MESS["FLTR_TITLE"] = "Ð¡Ð»Ð¾Ð²Ð°Ñ€ÑŒ Ñ‚Ñ€Ð°Ð½ÑÐ»Ð¸Ñ‚Ð°";
+$MESS["FLTR_EDIT"] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð·Ð°Ð¿Ð¸ÑÐ¸ ##";
+$MESS["FLTR_NEW"] = "ÐÐ¾Ð²Ð°Ñ Ð·Ð°Ð¿Ð¸ÑÑŒ";
+$MESS["FLTR_DICTIONARY"] = "Ð¡Ð»Ð¾Ð²Ð°Ñ€ÑŒ";
+$MESS["FLTR_LETTER"] = "Ð‘ÑƒÐºÐ²Ð°";
+$MESS["FLTR_REPLACEMENT"] = "Ð—Ð°Ð¼ÐµÐ½Ð°";
+$MESS["FLTR_NOT_SAVE"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ Ð½Ðµ ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ñ‹. ";
+$MESS["FLTR_DEL_CONFIRM"] = "Ð’Ñ‹ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ Ð·Ð°Ð¿Ð¸ÑÑŒ?";
+$MESS["FLTR_DEL"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";
+$MESS["FLTR_LIST"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº";
 ?>

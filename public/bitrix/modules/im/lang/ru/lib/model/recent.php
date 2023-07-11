@@ -1,8 +1,8 @@
 <?
-$MESS["RECENT_ENTITY_USER_ID_FIELD"] = "Èäåíòèôèêàòîð ïîëüçîâàòåëÿ";
-$MESS["RECENT_ENTITY_ITEM_TYPE_FIELD"] = "Òèï çàïèñè";
-$MESS["RECENT_ENTITY_ITEM_ID_FIELD"] = "Èäåíòèôèêàòîð çàïèñè";
-$MESS["RECENT_ENTITY_ITEM_CID_FIELD"] = "Èäåíòèôèêàòîð ÷àòà";
-$MESS["RECENT_ENTITY_ITEM_RID_FIELD"] = "Èäåíòèôèêàòîð ñâÿçè â ÷àòå";
-$MESS["RECENT_ENTITY_ITEM_MID_FIELD"] = "Èäåíòèôèêàòîð ñîîáùåíèÿ";
+$MESS["RECENT_ENTITY_USER_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
+$MESS["RECENT_ENTITY_ITEM_TYPE_FIELD"] = "Ð¢Ð¸Ð¿ Ð·Ð°Ð¿Ð¸ÑÐ¸";
+$MESS["RECENT_ENTITY_ITEM_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð·Ð°Ð¿Ð¸ÑÐ¸";
+$MESS["RECENT_ENTITY_ITEM_CID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ñ‡Ð°Ñ‚Ð°";
+$MESS["RECENT_ENTITY_ITEM_RID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÐ²ÑÐ·Ð¸ Ð² Ñ‡Ð°Ñ‚Ðµ";
+$MESS["RECENT_ENTITY_ITEM_MID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
 ?>

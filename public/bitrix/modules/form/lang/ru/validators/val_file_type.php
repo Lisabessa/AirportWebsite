@@ -1,10 +1,10 @@
 <?
-$MESS['FORM_VALIDATOR_FILE_TYPE_DESCRIPTION'] = "Òèï ôàéëà";
-$MESS['FORM_VALIDATOR_FILE_TYPE_SETTINGS_EXT'] = "Òèï ôàéëà (ïî ðàñøèðåíèþ)";
-$MESS['FORM_VALIDATOR_FILE_TYPE_SETTINGS_TYPE_EXT_NONE'] = "íå ïðîâåðÿòü";
-$MESS['FORM_VALIDATOR_FILE_TYPE_SETTINGS_EXT_DOCS'] = "òåêñòîâûå äîêóìåíòû";
-$MESS['FORM_VALIDATOR_FILE_TYPE_SETTINGS_EXT_ARCH'] = "àðõèâû";
-$MESS['FORM_VALIDATOR_FILE_TYPE_SETTINGS_EXT_IMG'] = "èçîáðàæåíèÿ";
-$MESS['FORM_VALIDATOR_FILE_TYPE_SETTINGS_EXT_CUSTOM'] = "Äðóãèå äîïóñòèìûå ðàñøèðåíèÿ (÷åðåç çàïÿòóþ)";
-$MESS['FORM_VALIDATOR_FILE_TYPE_ERROR'] = "#FIELD_NAME#: íåâåðíûé òèï ôàéëà";
+$MESS['FORM_VALIDATOR_FILE_TYPE_DESCRIPTION'] = "Ð¢Ð¸Ð¿ Ñ„Ð°Ð¹Ð»Ð°";
+$MESS['FORM_VALIDATOR_FILE_TYPE_SETTINGS_EXT'] = "Ð¢Ð¸Ð¿ Ñ„Ð°Ð¹Ð»Ð° (Ð¿Ð¾ Ñ€Ð°ÑÑˆÐ¸Ñ€ÐµÐ½Ð¸ÑŽ)";
+$MESS['FORM_VALIDATOR_FILE_TYPE_SETTINGS_TYPE_EXT_NONE'] = "Ð½Ðµ Ð¿Ñ€Ð¾Ð²ÐµÑ€ÑÑ‚ÑŒ";
+$MESS['FORM_VALIDATOR_FILE_TYPE_SETTINGS_EXT_DOCS'] = "Ñ‚ÐµÐºÑÑ‚Ð¾Ð²Ñ‹Ðµ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ñ‹";
+$MESS['FORM_VALIDATOR_FILE_TYPE_SETTINGS_EXT_ARCH'] = "Ð°Ñ€Ñ…Ð¸Ð²Ñ‹";
+$MESS['FORM_VALIDATOR_FILE_TYPE_SETTINGS_EXT_IMG'] = "Ð¸Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ñ";
+$MESS['FORM_VALIDATOR_FILE_TYPE_SETTINGS_EXT_CUSTOM'] = "Ð”Ñ€ÑƒÐ³Ð¸Ðµ Ð´Ð¾Ð¿ÑƒÑÑ‚Ð¸Ð¼Ñ‹Ðµ Ñ€Ð°ÑÑˆÐ¸Ñ€ÐµÐ½Ð¸Ñ (Ñ‡ÐµÑ€ÐµÐ· Ð·Ð°Ð¿ÑÑ‚ÑƒÑŽ)";
+$MESS['FORM_VALIDATOR_FILE_TYPE_ERROR'] = "#FIELD_NAME#: Ð½ÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ñ‚Ð¸Ð¿ Ñ„Ð°Ð¹Ð»Ð°";
 ?>

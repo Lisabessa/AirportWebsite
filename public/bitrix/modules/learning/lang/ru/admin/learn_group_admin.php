@@ -1,10 +1,10 @@
 <?php
-$MESS['LEARNING_ADMIN_TITLE'] = "Ñïèñîê ó÷åáíûõ ãðóïï";
-$MESS['LEARNING_ADMIN_GROUPS_ACTIVE'] = "Àêò.";
-$MESS['LEARNING_ADMIN_GROUPS_TITLE'] = "Íàçâàíèå";
-$MESS['LEARNING_ADMIN_GROUPS_CODE'] = "Ñèìâîëè÷åñêîå èìÿ";
-$MESS['LEARNING_ADMIN_GROUPS_SORT'] = "Ñîðò.";
-$MESS['LEARNING_ADMIN_GROUPS_ACTIVE_FROM'] = "Íà÷àëî àêòèâíîñòè";
-$MESS['LEARNING_ADMIN_GROUPS_ACTIVE_TO'] = "Îêîí÷àíèå àêòèâíîñòè";
-$MESS['LEARNING_ADMIN_GROUPS_COURSE_LESSON_ID'] = "ID êóðñà";
-$MESS['LEARNING_ADMIN_GROUPS_COURSE_TITLE'] = "Êóðñ";
+$MESS['LEARNING_ADMIN_TITLE'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº ÑƒÑ‡ÐµÐ±Ð½Ñ‹Ñ… Ð³Ñ€ÑƒÐ¿Ð¿";
+$MESS['LEARNING_ADMIN_GROUPS_ACTIVE'] = "ÐÐºÑ‚.";
+$MESS['LEARNING_ADMIN_GROUPS_TITLE'] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
+$MESS['LEARNING_ADMIN_GROUPS_CODE'] = "Ð¡Ð¸Ð¼Ð²Ð¾Ð»Ð¸Ñ‡ÐµÑÐºÐ¾Ðµ Ð¸Ð¼Ñ";
+$MESS['LEARNING_ADMIN_GROUPS_SORT'] = "Ð¡Ð¾Ñ€Ñ‚.";
+$MESS['LEARNING_ADMIN_GROUPS_ACTIVE_FROM'] = "ÐÐ°Ñ‡Ð°Ð»Ð¾ Ð°ÐºÑ‚Ð¸Ð²Ð½Ð¾ÑÑ‚Ð¸";
+$MESS['LEARNING_ADMIN_GROUPS_ACTIVE_TO'] = "ÐžÐºÐ¾Ð½Ñ‡Ð°Ð½Ð¸Ðµ Ð°ÐºÑ‚Ð¸Ð²Ð½Ð¾ÑÑ‚Ð¸";
+$MESS['LEARNING_ADMIN_GROUPS_COURSE_LESSON_ID'] = "ID ÐºÑƒÑ€ÑÐ°";
+$MESS['LEARNING_ADMIN_GROUPS_COURSE_TITLE'] = "ÐšÑƒÑ€Ñ";

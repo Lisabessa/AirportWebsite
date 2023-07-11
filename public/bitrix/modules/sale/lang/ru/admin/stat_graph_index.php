@@ -1,17 +1,17 @@
 <?
-$MESS ['SALE_DATE'] = "Äàòà";
-$MESS ['SALE_COUNT'] = "Îáùåå êîëè÷åñòâî";
-$MESS ['SALE_PAYED'] = "Îïëà÷åííûå";
-$MESS ['SALE_ALLOW_DELIVERY'] = "Äîñòàâêà ðàçðåøåíà";
-$MESS ['SALE_CANCELED'] = "Îòìåíåííûå";
-$MESS ['SALE_S_DATE'] = "Äàòà çàêàçà";
-$MESS ['SALE_S_BY'] = "Ãðóïïèðîâàòü ïî";
-$MESS ['SALE_S_DAY'] = "äíÿì";
-$MESS ['SALE_S_WEEK'] = "íåäåëÿì";
-$MESS ['SALE_S_MONTH'] = "ìåñÿöàì";
-$MESS ['SALE_S_YEAR'] = "ãîäàì";
-$MESS ['SALE_SECTION_TITLE'] = "Ñòàòèñòèêà ïî çàêàçàì";
-$MESS ['SALE_SHOW'] = "Ïîêàçûâàòü";
-$MESS ['SALE_S_SITE'] = "Ñàéò";
-$MESS ['SALE_S_WEEKDAY'] = "äíÿì íåäåëè";
+$MESS ['SALE_DATE'] = "Ð”Ð°Ñ‚Ð°";
+$MESS ['SALE_COUNT'] = "ÐžÐ±Ñ‰ÐµÐµ ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾";
+$MESS ['SALE_PAYED'] = "ÐžÐ¿Ð»Ð°Ñ‡ÐµÐ½Ð½Ñ‹Ðµ";
+$MESS ['SALE_ALLOW_DELIVERY'] = "Ð”Ð¾ÑÑ‚Ð°Ð²ÐºÐ° Ñ€Ð°Ð·Ñ€ÐµÑˆÐµÐ½Ð°";
+$MESS ['SALE_CANCELED'] = "ÐžÑ‚Ð¼ÐµÐ½ÐµÐ½Ð½Ñ‹Ðµ";
+$MESS ['SALE_S_DATE'] = "Ð”Ð°Ñ‚Ð° Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS ['SALE_S_BY'] = "Ð“Ñ€ÑƒÐ¿Ð¿Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ð¿Ð¾";
+$MESS ['SALE_S_DAY'] = "Ð´Ð½ÑÐ¼";
+$MESS ['SALE_S_WEEK'] = "Ð½ÐµÐ´ÐµÐ»ÑÐ¼";
+$MESS ['SALE_S_MONTH'] = "Ð¼ÐµÑÑÑ†Ð°Ð¼";
+$MESS ['SALE_S_YEAR'] = "Ð³Ð¾Ð´Ð°Ð¼";
+$MESS ['SALE_SECTION_TITLE'] = "Ð¡Ñ‚Ð°Ñ‚Ð¸ÑÑ‚Ð¸ÐºÐ° Ð¿Ð¾ Ð·Ð°ÐºÐ°Ð·Ð°Ð¼";
+$MESS ['SALE_SHOW'] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ";
+$MESS ['SALE_S_SITE'] = "Ð¡Ð°Ð¹Ñ‚";
+$MESS ['SALE_S_WEEKDAY'] = "Ð´Ð½ÑÐ¼ Ð½ÐµÐ´ÐµÐ»Ð¸";
 ?>

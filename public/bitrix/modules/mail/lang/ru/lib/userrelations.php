@@ -1,9 +1,9 @@
 <?
-$MESS["mail_ur_entity_token_field"] = "Òîêåí";
-$MESS["mail_ur_entity_user_id_field"] = "Ïîëüçîâàòåëü";
-$MESS["mail_ur_entity_entity_type_field"] = "Òèï ñóùíîñòè";
-$MESS["mail_ur_entity_entity_id_field"] = "Ñóùíîñòü";
-$MESS["mail_ur_entity_entity_link_field"] = "Ññûëêà";
-$MESS["mail_ur_entity_site_field"] = "Ñàéò";
-$MESS["mail_ur_entity_backurl_field"] = "Ññûëêà";
+$MESS["mail_ur_entity_token_field"] = "Ð¢Ð¾ÐºÐµÐ½";
+$MESS["mail_ur_entity_user_id_field"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ";
+$MESS["mail_ur_entity_entity_type_field"] = "Ð¢Ð¸Ð¿ ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸";
+$MESS["mail_ur_entity_entity_id_field"] = "Ð¡ÑƒÑ‰Ð½Ð¾ÑÑ‚ÑŒ";
+$MESS["mail_ur_entity_entity_link_field"] = "Ð¡ÑÑ‹Ð»ÐºÐ°";
+$MESS["mail_ur_entity_site_field"] = "Ð¡Ð°Ð¹Ñ‚";
+$MESS["mail_ur_entity_backurl_field"] = "Ð¡ÑÑ‹Ð»ÐºÐ°";
 ?>

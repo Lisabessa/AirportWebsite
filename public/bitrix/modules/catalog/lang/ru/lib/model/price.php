@@ -1,14 +1,14 @@
 <?
-$MESS["BX_CATALOG_MODEL_PRICE_ERR_WRONG_PRICE_ID"] = "Не указан ID ценового предложения";
-$MESS["BX_CATALOG_MODEL_PRICE_ERR_WRONG_PRODUCT_ID"] = "Неверный ID товара";
-$MESS["BX_CATALOG_MODEL_PRICE_ERR_WRONG_CATALOG_GROUP_ID"] = "Неверный ID типа цены";
-$MESS["BX_CATALOG_MODEL_PRICE_ERR_WRONG_PRICE"] = "Неверная цена";
-$MESS["BX_CATALOG_MODEL_PRICE_ERR_WRONG_CURRENCY"] = "Неверная валюта";
-$MESS["BX_CATALOG_MODEL_PRICE_ERR_WRONG_QUANTITY_FROM"] = "Неверное значение левой границы ценового диапазона";
-$MESS["BX_CATALOG_MODEL_PRICE_ERR_WRONG_QUANTITY_TO"] = "Неверное значение правой границы ценового диапазона";
-$MESS["BX_CATALOG_MODEL_PRICE_ERR_WRONG_QUANTITY_RANGE_ZERO"] = "Найден диапазон количества 0 - 0.";
-$MESS["BX_CATALOG_MODEL_PRICE_ERR_WRONG_QUANTITY_RANGE_INVERT"] = "Левая граница диапазона количества больше правой: #LEFT# - #RIGHT#";
-$MESS["BX_CATALOG_MODEL_PRICE_ERR_QUANTITY_RANGE_LEFT_BORDER_ONLY"] = "Указана только левая граница диапазона";
-$MESS["BX_CATALOG_MODEL_PRICE_ERR_QUANTITY_RANGE_RIGHT_BORDER_ONLY"] = "Указана только правая граница диапазона";
-$MESS["BX_CATALOG_MODEL_PRICE_ERR_WRONG_EXTRA_ID"] = "Неверный ID наценки";
+$MESS["BX_CATALOG_MODEL_PRICE_ERR_WRONG_PRICE_ID"] = "РќРµ СѓРєР°Р·Р°РЅ ID С†РµРЅРѕРІРѕРіРѕ РїСЂРµРґР»РѕР¶РµРЅРёСЏ";
+$MESS["BX_CATALOG_MODEL_PRICE_ERR_WRONG_PRODUCT_ID"] = "РќРµРІРµСЂРЅС‹Р№ ID С‚РѕРІР°СЂР°";
+$MESS["BX_CATALOG_MODEL_PRICE_ERR_WRONG_CATALOG_GROUP_ID"] = "РќРµРІРµСЂРЅС‹Р№ ID С‚РёРїР° С†РµРЅС‹";
+$MESS["BX_CATALOG_MODEL_PRICE_ERR_WRONG_PRICE"] = "РќРµРІРµСЂРЅР°СЏ С†РµРЅР°";
+$MESS["BX_CATALOG_MODEL_PRICE_ERR_WRONG_CURRENCY"] = "РќРµРІРµСЂРЅР°СЏ РІР°Р»СЋС‚Р°";
+$MESS["BX_CATALOG_MODEL_PRICE_ERR_WRONG_QUANTITY_FROM"] = "РќРµРІРµСЂРЅРѕРµ Р·РЅР°С‡РµРЅРёРµ Р»РµРІРѕР№ РіСЂР°РЅРёС†С‹ С†РµРЅРѕРІРѕРіРѕ РґРёР°РїР°Р·РѕРЅР°";
+$MESS["BX_CATALOG_MODEL_PRICE_ERR_WRONG_QUANTITY_TO"] = "РќРµРІРµСЂРЅРѕРµ Р·РЅР°С‡РµРЅРёРµ РїСЂР°РІРѕР№ РіСЂР°РЅРёС†С‹ С†РµРЅРѕРІРѕРіРѕ РґРёР°РїР°Р·РѕРЅР°";
+$MESS["BX_CATALOG_MODEL_PRICE_ERR_WRONG_QUANTITY_RANGE_ZERO"] = "РќР°Р№РґРµРЅ РґРёР°РїР°Р·РѕРЅ РєРѕР»РёС‡РµСЃС‚РІР° 0 - 0.";
+$MESS["BX_CATALOG_MODEL_PRICE_ERR_WRONG_QUANTITY_RANGE_INVERT"] = "Р›РµРІР°СЏ РіСЂР°РЅРёС†Р° РґРёР°РїР°Р·РѕРЅР° РєРѕР»РёС‡РµСЃС‚РІР° Р±РѕР»СЊС€Рµ РїСЂР°РІРѕР№: #LEFT# - #RIGHT#";
+$MESS["BX_CATALOG_MODEL_PRICE_ERR_QUANTITY_RANGE_LEFT_BORDER_ONLY"] = "РЈРєР°Р·Р°РЅР° С‚РѕР»СЊРєРѕ Р»РµРІР°СЏ РіСЂР°РЅРёС†Р° РґРёР°РїР°Р·РѕРЅР°";
+$MESS["BX_CATALOG_MODEL_PRICE_ERR_QUANTITY_RANGE_RIGHT_BORDER_ONLY"] = "РЈРєР°Р·Р°РЅР° С‚РѕР»СЊРєРѕ РїСЂР°РІР°СЏ РіСЂР°РЅРёС†Р° РґРёР°РїР°Р·РѕРЅР°";
+$MESS["BX_CATALOG_MODEL_PRICE_ERR_WRONG_EXTRA_ID"] = "РќРµРІРµСЂРЅС‹Р№ ID РЅР°С†РµРЅРєРё";
 ?>

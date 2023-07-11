@@ -1,8 +1,8 @@
 <?
 $MESS["DISCOUNT_ENTITIES_ENTITY_ID_FIELD"] = "ID";
-$MESS["DISCOUNT_ENTITIES_ENTITY_DISCOUNT_ID_FIELD"] = "²äåíòèô³êàòîð ïðàâèëà êîøèêà";
-$MESS["DISCOUNT_ENTITIES_ENTITY_MODULE_ID_FIELD"] = "²äåíòèô³êàòîð ìîäóëÿ";
-$MESS["DISCOUNT_ENTITIES_ENTITY_ENTITY_FIELD"] = "Ñóòí³ñòü";
-$MESS["DISCOUNT_ENTITIES_ENTITY_FIELD_ENTITY_FIELD"] = "Ïîëå ñóòíîñò³";
-$MESS["DISCOUNT_ENTITIES_ENTITY_FIELD_TABLE_FIELD"] = "Ïîëå òàáëèö³";
+$MESS["DISCOUNT_ENTITIES_ENTITY_DISCOUNT_ID_FIELD"] = "Ð†Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÐ°Ñ‚Ð¾Ñ€ Ð¿Ñ€Ð°Ð²Ð¸Ð»Ð° ÐºÐ¾ÑˆÐ¸ÐºÐ°";
+$MESS["DISCOUNT_ENTITIES_ENTITY_MODULE_ID_FIELD"] = "Ð†Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÐ°Ñ‚Ð¾Ñ€ Ð¼Ð¾Ð´ÑƒÐ»Ñ";
+$MESS["DISCOUNT_ENTITIES_ENTITY_ENTITY_FIELD"] = "Ð¡ÑƒÑ‚Ð½Ñ–ÑÑ‚ÑŒ";
+$MESS["DISCOUNT_ENTITIES_ENTITY_FIELD_ENTITY_FIELD"] = "ÐŸÐ¾Ð»Ðµ ÑÑƒÑ‚Ð½Ð¾ÑÑ‚Ñ–";
+$MESS["DISCOUNT_ENTITIES_ENTITY_FIELD_TABLE_FIELD"] = "ÐŸÐ¾Ð»Ðµ Ñ‚Ð°Ð±Ð»Ð¸Ñ†Ñ–";
 ?>

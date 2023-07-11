@@ -1,3 +1,3 @@
 <?
-$MESS["SKU_TITLE"] = "Íàçâà";
+$MESS["SKU_TITLE"] = "ÐÐ°Ð·Ð²Ð°";
 ?>

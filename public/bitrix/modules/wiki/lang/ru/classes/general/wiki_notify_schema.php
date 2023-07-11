@@ -1,4 +1,4 @@
 <?
-$MESS["WIKI_NS_COMMENT"] = "Êîììåíòàðèè ê ñòàòüå Wiki";
-$MESS["WIKI_NS_MENTION"] = "Âàñ óïîìÿíóëè â ñòàòüå Wiki";
+$MESS["WIKI_NS_COMMENT"] = "ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¸ Ðº ÑÑ‚Ð°Ñ‚ÑŒÐµ Wiki";
+$MESS["WIKI_NS_MENTION"] = "Ð’Ð°Ñ ÑƒÐ¿Ð¾Ð¼ÑÐ½ÑƒÐ»Ð¸ Ð² ÑÑ‚Ð°Ñ‚ÑŒÐµ Wiki";
 ?>

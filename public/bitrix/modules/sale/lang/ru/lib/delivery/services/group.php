@@ -1,4 +1,4 @@
 <?php
-$MESS["SALE_DLVR_HANDL_GROUP_NAME"] = "Ãðóïïà";
-$MESS["SALE_DLVR_HANDL_GROUP_DESCRIPTION"] = "Ãðóïïà àâòîìàòèçèðîâàííûõ ñëóæá äîñòàâîê";
-$MESS["SALE_DLVR_HANDL_GROUP_ERROR_CALCULATION"] = "Ðàñ÷¸ò äîñòàâêè íåâîçìîæåí";
+$MESS["SALE_DLVR_HANDL_GROUP_NAME"] = "Ð“Ñ€ÑƒÐ¿Ð¿Ð°";
+$MESS["SALE_DLVR_HANDL_GROUP_DESCRIPTION"] = "Ð“Ñ€ÑƒÐ¿Ð¿Ð° Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ð·Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ñ‹Ñ… ÑÐ»ÑƒÐ¶Ð± Ð´Ð¾ÑÑ‚Ð°Ð²Ð¾Ðº";
+$MESS["SALE_DLVR_HANDL_GROUP_ERROR_CALCULATION"] = "Ð Ð°ÑÑ‡Ñ‘Ñ‚ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸ Ð½ÐµÐ²Ð¾Ð·Ð¼Ð¾Ð¶ÐµÐ½";

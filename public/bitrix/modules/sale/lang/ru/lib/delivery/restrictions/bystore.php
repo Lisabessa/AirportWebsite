@@ -1,4 +1,4 @@
 <?php
-$MESS["SALE_DLVR_RSTR_BY_STORE_NAME"] = "ïî ñêëàäàì";
-$MESS["SALE_DLVR_RSTR_BY_STORE_DESCRIPT"] = "Îãðàíè÷åíèå èñïîëüçîâàíèÿ ñëóæáû äîñòàâêè â çàâèñèìîñòè îò âûáðàííîãî ñêëàäà";
-$MESS["SALE_DLVR_RSTR_BY_STORE_STORE_ID"] = "Ñêëàä";
+$MESS["SALE_DLVR_RSTR_BY_STORE_NAME"] = "Ð¿Ð¾ ÑÐºÐ»Ð°Ð´Ð°Ð¼";
+$MESS["SALE_DLVR_RSTR_BY_STORE_DESCRIPT"] = "ÐžÐ³Ñ€Ð°Ð½Ð¸Ñ‡ÐµÐ½Ð¸Ðµ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð¸Ñ ÑÐ»ÑƒÐ¶Ð±Ñ‹ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸ Ð² Ð·Ð°Ð²Ð¸ÑÐ¸Ð¼Ð¾ÑÑ‚Ð¸ Ð¾Ñ‚ Ð²Ñ‹Ð±Ñ€Ð°Ð½Ð½Ð¾Ð³Ð¾ ÑÐºÐ»Ð°Ð´Ð°";
+$MESS["SALE_DLVR_RSTR_BY_STORE_STORE_ID"] = "Ð¡ÐºÐ»Ð°Ð´";

@@ -1,13 +1,13 @@
 <?
-$MESS ['STAT_TITLE_PAGE'] = "Ïîñåùàåìîñòü ñòðàíèöû";
-$MESS ['STAT_TITLE_SECTION'] = "Ïîñåùàåìîñòü ðàçäåëà";
-$MESS ['STAT_HITS'] = "õèòîâ";
-$MESS ['STAT_ENTER_POINTS'] = "òî÷êà âõîäà";
-$MESS ['STAT_EXIT_POINTS'] = "òî÷êà âûõîäà";
-$MESS ['STAT_CREATE_GRAPH'] = "Ïîñòðîèòü ãðàôèê";
-$MESS ['STAT_ADV_LIST'] = "Äàííûå ïî íèæåñëåäóþùèì ðåêëàìíûì êàìïàíèÿì:";
-$MESS ['STAT_ADV_NO_BACK'] = "íà ïðÿìîì çàõîäå";
-$MESS ['STAT_ADV_BACK'] = "íà âîçâðàòå";
-$MESS ['STAT_ADV_SUMMA'] = "ñóììà íà ïðÿìîì è íà âîçâðàòå";
-$MESS ['STAT_GO_LINK'] = "Ïåðåéòè ïî óêàçàííîé ññûëêå";
+$MESS ['STAT_TITLE_PAGE'] = "ÐŸÐ¾ÑÐµÑ‰Ð°ÐµÐ¼Ð¾ÑÑ‚ÑŒ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹";
+$MESS ['STAT_TITLE_SECTION'] = "ÐŸÐ¾ÑÐµÑ‰Ð°ÐµÐ¼Ð¾ÑÑ‚ÑŒ Ñ€Ð°Ð·Ð´ÐµÐ»Ð°";
+$MESS ['STAT_HITS'] = "Ñ…Ð¸Ñ‚Ð¾Ð²";
+$MESS ['STAT_ENTER_POINTS'] = "Ñ‚Ð¾Ñ‡ÐºÐ° Ð²Ñ…Ð¾Ð´Ð°";
+$MESS ['STAT_EXIT_POINTS'] = "Ñ‚Ð¾Ñ‡ÐºÐ° Ð²Ñ‹Ñ…Ð¾Ð´Ð°";
+$MESS ['STAT_CREATE_GRAPH'] = "ÐŸÐ¾ÑÑ‚Ñ€Ð¾Ð¸Ñ‚ÑŒ Ð³Ñ€Ð°Ñ„Ð¸Ðº";
+$MESS ['STAT_ADV_LIST'] = "Ð”Ð°Ð½Ð½Ñ‹Ðµ Ð¿Ð¾ Ð½Ð¸Ð¶ÐµÑÐ»ÐµÐ´ÑƒÑŽÑ‰Ð¸Ð¼ Ñ€ÐµÐºÐ»Ð°Ð¼Ð½Ñ‹Ð¼ ÐºÐ°Ð¼Ð¿Ð°Ð½Ð¸ÑÐ¼:";
+$MESS ['STAT_ADV_NO_BACK'] = "Ð½Ð° Ð¿Ñ€ÑÐ¼Ð¾Ð¼ Ð·Ð°Ñ…Ð¾Ð´Ðµ";
+$MESS ['STAT_ADV_BACK'] = "Ð½Ð° Ð²Ð¾Ð·Ð²Ñ€Ð°Ñ‚Ðµ";
+$MESS ['STAT_ADV_SUMMA'] = "ÑÑƒÐ¼Ð¼Ð° Ð½Ð° Ð¿Ñ€ÑÐ¼Ð¾Ð¼ Ð¸ Ð½Ð° Ð²Ð¾Ð·Ð²Ñ€Ð°Ñ‚Ðµ";
+$MESS ['STAT_GO_LINK'] = "ÐŸÐµÑ€ÐµÐ¹Ñ‚Ð¸ Ð¿Ð¾ ÑƒÐºÐ°Ð·Ð°Ð½Ð½Ð¾Ð¹ ÑÑÑ‹Ð»ÐºÐµ";
 ?>

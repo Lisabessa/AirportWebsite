@@ -1,3 +1,3 @@
 <?
-$MESS ['DEMO_IBLOCK_CONTENT_FAQ_MENU'] = "×àñòî çàäàâàåìûå âîïðîñû";
+$MESS ['DEMO_IBLOCK_CONTENT_FAQ_MENU'] = "Ð§Ð°ÑÑ‚Ð¾ Ð·Ð°Ð´Ð°Ð²Ð°ÐµÐ¼Ñ‹Ðµ Ð²Ð¾Ð¿Ñ€Ð¾ÑÑ‹";
 ?>

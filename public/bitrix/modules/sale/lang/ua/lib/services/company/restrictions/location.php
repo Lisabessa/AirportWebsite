@@ -1,5 +1,5 @@
 <?
-$MESS['SALE_COMPANY_RULES_BY_LOCATION'] = "Ì³ñöåçíàõîäæåííÿ";
-$MESS['SALE_COMPANY_RULES_BY_LOCATION_DESC'] = "çà ì³ñöåçíàõîäæåííÿì";
-$MESS['SALE_COMPANY_RULES_BY_LOCATION_TITLE'] = "çà ì³ñöåçíàõîäæåííÿì";
+$MESS['SALE_COMPANY_RULES_BY_LOCATION'] = "ÐœÑ–ÑÑ†ÐµÐ·Ð½Ð°Ñ…Ð¾Ð´Ð¶ÐµÐ½Ð½Ñ";
+$MESS['SALE_COMPANY_RULES_BY_LOCATION_DESC'] = "Ð·Ð° Ð¼Ñ–ÑÑ†ÐµÐ·Ð½Ð°Ñ…Ð¾Ð´Ð¶ÐµÐ½Ð½ÑÐ¼";
+$MESS['SALE_COMPANY_RULES_BY_LOCATION_TITLE'] = "Ð·Ð° Ð¼Ñ–ÑÑ†ÐµÐ·Ð½Ð°Ñ…Ð¾Ð´Ð¶ÐµÐ½Ð½ÑÐ¼";
 ?>

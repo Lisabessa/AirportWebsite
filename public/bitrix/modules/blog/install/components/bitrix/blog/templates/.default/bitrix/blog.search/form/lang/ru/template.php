@@ -1,4 +1,4 @@
 <?
-$MESS ['BLOG_MAIN_SEARCH_SEARCH'] = "Ïîèñê";
-$MESS ['BLOG_SEARCH_BUTTON'] = "Íàéòè";
+$MESS ['BLOG_MAIN_SEARCH_SEARCH'] = "ÐŸÐ¾Ð¸ÑÐº";
+$MESS ['BLOG_SEARCH_BUTTON'] = "ÐÐ°Ð¹Ñ‚Ð¸";
 ?>

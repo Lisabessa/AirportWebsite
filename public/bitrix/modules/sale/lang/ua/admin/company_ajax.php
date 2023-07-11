@@ -1,6 +1,6 @@
 <?
-$MESS["SALE_COMPANY_RULE_SORT"] = "Ñîðòóâàííÿ";
-$MESS["SALE_COMPANY_ERROR_FIELD"] = "Ïîëå";
-$MESS["SALE_COMPANY_ERROR_PARAMS"] = "Íå âêàçàí³ ïàðàìåòðè îáìåæåííÿ";
-$MESS["SALE_COMPANY_PRICE_INFO"] = "Â ÿêîñò³ âàëþòè âèêîðèñòîâóºòüñÿ âàëþòà çàìîâëåííÿ";
+$MESS["SALE_COMPANY_RULE_SORT"] = "Ð¡Ð¾Ñ€Ñ‚ÑƒÐ²Ð°Ð½Ð½Ñ";
+$MESS["SALE_COMPANY_ERROR_FIELD"] = "ÐŸÐ¾Ð»Ðµ";
+$MESS["SALE_COMPANY_ERROR_PARAMS"] = "ÐÐµ Ð²ÐºÐ°Ð·Ð°Ð½Ñ– Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð¸ Ð¾Ð±Ð¼ÐµÐ¶ÐµÐ½Ð½Ñ";
+$MESS["SALE_COMPANY_PRICE_INFO"] = "Ð’ ÑÐºÐ¾ÑÑ‚Ñ– Ð²Ð°Ð»ÑŽÑ‚Ð¸ Ð²Ð¸ÐºÐ¾Ñ€Ð¸ÑÑ‚Ð¾Ð²ÑƒÑ”Ñ‚ÑŒÑÑ Ð²Ð°Ð»ÑŽÑ‚Ð° Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ";
 ?>

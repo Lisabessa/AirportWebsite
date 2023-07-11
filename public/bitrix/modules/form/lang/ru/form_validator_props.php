@@ -1,9 +1,9 @@
 <?
-$MESS['FORM_VALIDATOR_NOT_FOUND'] = "Âàëèäàòîð íå íàéäåí!";
-$MESS['FORM_MODULE_NOT_INSTALLED'] = "Ìîäóëü âåá-ôîðì íå óñòàíîâëåí!";
-$MESS['FORM_VAL_PROPS_TITLE'] = "Íàñòðîéêè âàëèäàòîðà";
-$MESS['FORM_VAL_PROPS_CLOSE_DIALOG'] = "Çàêðûòü";
-$MESS['FORM_VAL_PROPS_CLOSE_DIALOG_TITLE'] = "Çàêðûòü áåç ñîõðàíåíèÿ";
-$MESS['FORM_VAL_PROPS_SAVE'] = "Ñîõðàíèòü";
-$MESS['FORM_VAL_PROPS_SAVE_TITLE'] = "Çàêðûòü áåç ñîõðàíåíèÿ";
+$MESS['FORM_VALIDATOR_NOT_FOUND'] = "Ð’Ð°Ð»Ð¸Ð´Ð°Ñ‚Ð¾Ñ€ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½!";
+$MESS['FORM_MODULE_NOT_INSTALLED'] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð²ÐµÐ±-Ñ„Ð¾Ñ€Ð¼ Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½!";
+$MESS['FORM_VAL_PROPS_TITLE'] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð²Ð°Ð»Ð¸Ð´Ð°Ñ‚Ð¾Ñ€Ð°";
+$MESS['FORM_VAL_PROPS_CLOSE_DIALOG'] = "Ð—Ð°ÐºÑ€Ñ‹Ñ‚ÑŒ";
+$MESS['FORM_VAL_PROPS_CLOSE_DIALOG_TITLE'] = "Ð—Ð°ÐºÑ€Ñ‹Ñ‚ÑŒ Ð±ÐµÐ· ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð¸Ñ";
+$MESS['FORM_VAL_PROPS_SAVE'] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ";
+$MESS['FORM_VAL_PROPS_SAVE_TITLE'] = "Ð—Ð°ÐºÑ€Ñ‹Ñ‚ÑŒ Ð±ÐµÐ· ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð¸Ñ";
 ?>

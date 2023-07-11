@@ -1,11 +1,11 @@
 <?
-$MESS["SP_DISPLAY_TYPE_A"] = "×èñëî îò-äî, ñ ïîëçóíêîì";
-$MESS["SP_DISPLAY_TYPE_B"] = "×èñëî îò-äî";
-$MESS["SP_DISPLAY_TYPE_F"] = "Ôëàæêè";
-$MESS["SP_DISPLAY_TYPE_G"] = "Ôëàæêè ñ êàðòèíêàìè";
-$MESS["SP_DISPLAY_TYPE_H"] = "Ôëàæêè ñ íàçâàíèÿìè è êàðòèíêàìè";
-$MESS["SP_DISPLAY_TYPE_K"] = "Ðàäèîêíîïêè";
-$MESS["SP_DISPLAY_TYPE_P"] = "Âûïàäàþùèé ñïèñîê";
-$MESS["SP_DISPLAY_TYPE_R"] = "Âûïàäàþùèé ñïèñîê ñ íàçâàíèÿìè è êàðòèíêàìè";
-$MESS["SP_DISPLAY_TYPE_U"] = "Êàëåíäàðü";
+$MESS["SP_DISPLAY_TYPE_A"] = "Ð§Ð¸ÑÐ»Ð¾ Ð¾Ñ‚-Ð´Ð¾, Ñ Ð¿Ð¾Ð»Ð·ÑƒÐ½ÐºÐ¾Ð¼";
+$MESS["SP_DISPLAY_TYPE_B"] = "Ð§Ð¸ÑÐ»Ð¾ Ð¾Ñ‚-Ð´Ð¾";
+$MESS["SP_DISPLAY_TYPE_F"] = "Ð¤Ð»Ð°Ð¶ÐºÐ¸";
+$MESS["SP_DISPLAY_TYPE_G"] = "Ð¤Ð»Ð°Ð¶ÐºÐ¸ Ñ ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ°Ð¼Ð¸";
+$MESS["SP_DISPLAY_TYPE_H"] = "Ð¤Ð»Ð°Ð¶ÐºÐ¸ Ñ Ð½Ð°Ð·Ð²Ð°Ð½Ð¸ÑÐ¼Ð¸ Ð¸ ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ°Ð¼Ð¸";
+$MESS["SP_DISPLAY_TYPE_K"] = "Ð Ð°Ð´Ð¸Ð¾ÐºÐ½Ð¾Ð¿ÐºÐ¸";
+$MESS["SP_DISPLAY_TYPE_P"] = "Ð’Ñ‹Ð¿Ð°Ð´Ð°ÑŽÑ‰Ð¸Ð¹ ÑÐ¿Ð¸ÑÐ¾Ðº";
+$MESS["SP_DISPLAY_TYPE_R"] = "Ð’Ñ‹Ð¿Ð°Ð´Ð°ÑŽÑ‰Ð¸Ð¹ ÑÐ¿Ð¸ÑÐ¾Ðº Ñ Ð½Ð°Ð·Ð²Ð°Ð½Ð¸ÑÐ¼Ð¸ Ð¸ ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ°Ð¼Ð¸";
+$MESS["SP_DISPLAY_TYPE_U"] = "ÐšÐ°Ð»ÐµÐ½Ð´Ð°Ñ€ÑŒ";
 ?>

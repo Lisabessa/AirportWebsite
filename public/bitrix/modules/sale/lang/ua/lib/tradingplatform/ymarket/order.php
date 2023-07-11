@@ -1,5 +1,5 @@
 <?
-$MESS["SALE_YMARKET_ORDER_CURRENCY_NOT_SUPPORTED"] = "Âàëþòà \"#CURRENCY#\" íå ï³äòðèìóºòüñÿ";
-$MESS["SALE_YMARKET_ORDER_PRODUCT_NOT_AVAILABLE"] = "Òîâàð \"#NAME# íåäîñòóïíèé";
-$MESS["SALE_YMARKET_ORDER_PRODUCTS_NOT_AVAILABLE"] = "Äîñòóïí³ òîâàðè â³äñóòí³";
+$MESS["SALE_YMARKET_ORDER_CURRENCY_NOT_SUPPORTED"] = "Ð’Ð°Ð»ÑŽÑ‚Ð° \"#CURRENCY#\" Ð½Ðµ Ð¿Ñ–Ð´Ñ‚Ñ€Ð¸Ð¼ÑƒÑ”Ñ‚ÑŒÑÑ";
+$MESS["SALE_YMARKET_ORDER_PRODUCT_NOT_AVAILABLE"] = "Ð¢Ð¾Ð²Ð°Ñ€ \"#NAME# Ð½ÐµÐ´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ð¸Ð¹";
+$MESS["SALE_YMARKET_ORDER_PRODUCTS_NOT_AVAILABLE"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿Ð½Ñ– Ñ‚Ð¾Ð²Ð°Ñ€Ð¸ Ð²Ñ–Ð´ÑÑƒÑ‚Ð½Ñ–";
 ?>

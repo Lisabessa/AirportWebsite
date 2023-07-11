@@ -1,3 +1,3 @@
 <?
-$MESS ['DEPARTMENT_USER_PROPERTY_NAME'] = "Ïîäðàçäåëåíèÿ";
+$MESS ['DEPARTMENT_USER_PROPERTY_NAME'] = "ÐŸÐ¾Ð´Ñ€Ð°Ð·Ð´ÐµÐ»ÐµÐ½Ð¸Ñ";
 ?>

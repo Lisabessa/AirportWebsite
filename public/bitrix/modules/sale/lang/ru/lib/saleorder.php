@@ -1,15 +1,15 @@
 <?
 $MESS['SALE_ORDER_ENTITY_ID'] = 'ID';
-$MESS['SALE_ORDER_ENTITY_DATE_INSERT'] = 'Äàòà çàêàçà';
-$MESS['SALE_ORDER_ENTITY_DATE_INS'] = 'Äàòà çàêàçà';
-$MESS['SALE_ORDER_ENTITY_PRODUCTS_QUANT'] = 'Êîëè÷åñòâî òîâàðà';
-//$MESS['SALE_ORDER_ENTITY_N_PRODUCTS'] = 'Êîë-âî òîâàðîâ';
-$MESS['SALE_ORDER_ENTITY_TAX_VALUE'] = 'Íàëîãè';
-$MESS['SALE_ORDER_ENTITY_PRICE_DELIVERY'] = 'Äîñòàâêà';
-//$MESS['SALE_ORDER_ENTITY_DISCOUNT_VALUE'] = 'Ñêèäêà çàêàçà';
-$MESS['SALE_ORDER_ENTITY_DISCOUNT_ALL'] = 'Ñêèäêà';
-$MESS['SALE_ORDER_ENTITY_PRICE'] = 'Ñóììà';
-$MESS['SALE_ORDER_ENTITY_PAYED'] = 'Çàêàç îïëà÷åí';
-$MESS['SALE_ORDER_ENTITY_SUM_PAID_FORREP'] = 'Îïëà÷åíî';
-$MESS['SALE_ORDER_ENTITY_LID'] = 'Ìàãàçèí';
+$MESS['SALE_ORDER_ENTITY_DATE_INSERT'] = 'Ð”Ð°Ñ‚Ð° Ð·Ð°ÐºÐ°Ð·Ð°';
+$MESS['SALE_ORDER_ENTITY_DATE_INS'] = 'Ð”Ð°Ñ‚Ð° Ð·Ð°ÐºÐ°Ð·Ð°';
+$MESS['SALE_ORDER_ENTITY_PRODUCTS_QUANT'] = 'ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ñ‚Ð¾Ð²Ð°Ñ€Ð°';
+//$MESS['SALE_ORDER_ENTITY_N_PRODUCTS'] = 'ÐšÐ¾Ð»-Ð²Ð¾ Ñ‚Ð¾Ð²Ð°Ñ€Ð¾Ð²';
+$MESS['SALE_ORDER_ENTITY_TAX_VALUE'] = 'ÐÐ°Ð»Ð¾Ð³Ð¸';
+$MESS['SALE_ORDER_ENTITY_PRICE_DELIVERY'] = 'Ð”Ð¾ÑÑ‚Ð°Ð²ÐºÐ°';
+//$MESS['SALE_ORDER_ENTITY_DISCOUNT_VALUE'] = 'Ð¡ÐºÐ¸Ð´ÐºÐ° Ð·Ð°ÐºÐ°Ð·Ð°';
+$MESS['SALE_ORDER_ENTITY_DISCOUNT_ALL'] = 'Ð¡ÐºÐ¸Ð´ÐºÐ°';
+$MESS['SALE_ORDER_ENTITY_PRICE'] = 'Ð¡ÑƒÐ¼Ð¼Ð°';
+$MESS['SALE_ORDER_ENTITY_PAYED'] = 'Ð—Ð°ÐºÐ°Ð· Ð¾Ð¿Ð»Ð°Ñ‡ÐµÐ½';
+$MESS['SALE_ORDER_ENTITY_SUM_PAID_FORREP'] = 'ÐžÐ¿Ð»Ð°Ñ‡ÐµÐ½Ð¾';
+$MESS['SALE_ORDER_ENTITY_LID'] = 'ÐœÐ°Ð³Ð°Ð·Ð¸Ð½';
 ?>

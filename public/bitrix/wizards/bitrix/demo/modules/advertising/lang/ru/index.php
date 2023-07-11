@@ -1,10 +1,10 @@
 <?
-$MESS["DEMO_ADV_LEFT_TYPE"] = "Ëåâûé áàííåð";
-$MESS["DEMO_ADV_BOTTOM_TYPE"] = "Íèæíèé áàííåð";
-$MESS["DEMO_ADV_100_100_NAME"] = "1C-Áèòðèêñ: Óïðàâëåíèå ñàéòîì";
-$MESS["DEMO_ADV_468_1_NAME"] = "Ïðîäóêò ðåøàåò çàäà÷è 95% ñàéòîâ";
-$MESS["DEMO_ADV_468_2_NAME"] = "Ìåõàíèçì ïðîãðàììíûõ êîìïîíåíòîâ";
-$MESS["DEMO_ADV_468_3_NAME"] = "Áûñòðî. Ïðîñòî. Ýôôåêòèâíî.";
+$MESS["DEMO_ADV_LEFT_TYPE"] = "Ð›ÐµÐ²Ñ‹Ð¹ Ð±Ð°Ð½Ð½ÐµÑ€";
+$MESS["DEMO_ADV_BOTTOM_TYPE"] = "ÐÐ¸Ð¶Ð½Ð¸Ð¹ Ð±Ð°Ð½Ð½ÐµÑ€";
+$MESS["DEMO_ADV_100_100_NAME"] = "1C-Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ: Ð£Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ ÑÐ°Ð¹Ñ‚Ð¾Ð¼";
+$MESS["DEMO_ADV_468_1_NAME"] = "ÐŸÑ€Ð¾Ð´ÑƒÐºÑ‚ Ñ€ÐµÑˆÐ°ÐµÑ‚ Ð·Ð°Ð´Ð°Ñ‡Ð¸ 95% ÑÐ°Ð¹Ñ‚Ð¾Ð²";
+$MESS["DEMO_ADV_468_2_NAME"] = "ÐœÐµÑ…Ð°Ð½Ð¸Ð·Ð¼ Ð¿Ñ€Ð¾Ð³Ñ€Ð°Ð¼Ð¼Ð½Ñ‹Ñ… ÐºÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚Ð¾Ð²";
+$MESS["DEMO_ADV_468_3_NAME"] = "Ð‘Ñ‹ÑÑ‚Ñ€Ð¾. ÐŸÑ€Ð¾ÑÑ‚Ð¾. Ð­Ñ„Ñ„ÐµÐºÑ‚Ð¸Ð²Ð½Ð¾.";
 $MESS["DEMO_ADV_BANNER_URL"] = "http://www.1c-bitrix.ru";
-$MESS["DEMO_ADV_TEMPLATE_TITLE"] = "Ðåêëàìà";
+$MESS["DEMO_ADV_TEMPLATE_TITLE"] = "Ð ÐµÐºÐ»Ð°Ð¼Ð°";
 ?>

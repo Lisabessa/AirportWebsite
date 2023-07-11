@@ -1,13 +1,13 @@
 <?
-$MESS["ERROR_REQUIRED_PARAMATERS"] = "Íå óêàçàí îáÿçàòåëüíûé ïàðàìåòð \"#PARAM#\"";
-$MESS["ERROR_PRODUCT_NOT_FOUND"] = "Íå íàéäåí òîâàð, íà êîòîðûé îñóùåñòâëÿåòñÿ ïîäïèñêà";
-$MESS["ERROR_SUBSCRIBE_DENIED"] = "Ïîäïèñêà çàïðåùåíà";
-$MESS["ERROR_CONTACT_TYPE"] = "Íåâåðíûé òèï êîíòàêòà äëÿ ïîäïèñêè";
-$MESS["ERROR_VALIDATE_FIELDS"] = "Íåâåðíûé ôîðìàò ïîëÿ \"#FIELD#\"";
-$MESS["ERROR_SUBSCRIBE_ALREADY_EXISTS"] = "Âû óæå ïîäïèñàëèñü";
-$MESS["ERROR_SUBSCRIBE_ENTRY_CONFIRMATION_CODE"] = "Îøèáêà çàïèñè êîäà ïîäòâåðæäåíèÿ";
-$MESS["ERROR_AUTHORIZATION_ACCESS_ROW_NOT_FOUND"] = "Îøèáêà àâòîðèçàöèè";
-$MESS["ERROR_ACCESS_DENIDE_DELETE_SUBSCRIBE"] = "Íåò ïðàâ äëÿ óäàëåíèÿ ïîäïèñêè";
-$MESS["ERROR_UNSUBSCRIBE_ALREADY_UNSUBSCRIBE"] = "Âû óæå îòïèñàëèñü";
-$MESS["EMAIL_TEMPLATE_USER_NAME"] = "Êëèåíò";
+$MESS["ERROR_REQUIRED_PARAMATERS"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ð¾Ð±ÑÐ·Ð°Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ð¹ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€ \"#PARAM#\"";
+$MESS["ERROR_PRODUCT_NOT_FOUND"] = "ÐÐµ Ð½Ð°Ð¹Ð´ÐµÐ½ Ñ‚Ð¾Ð²Ð°Ñ€, Ð½Ð° ÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ð¹ Ð¾ÑÑƒÑ‰ÐµÑÑ‚Ð²Ð»ÑÐµÑ‚ÑÑ Ð¿Ð¾Ð´Ð¿Ð¸ÑÐºÐ°";
+$MESS["ERROR_SUBSCRIBE_DENIED"] = "ÐŸÐ¾Ð´Ð¿Ð¸ÑÐºÐ° Ð·Ð°Ð¿Ñ€ÐµÑ‰ÐµÐ½Ð°";
+$MESS["ERROR_CONTACT_TYPE"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ñ‚Ð¸Ð¿ ÐºÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ð° Ð´Ð»Ñ Ð¿Ð¾Ð´Ð¿Ð¸ÑÐºÐ¸";
+$MESS["ERROR_VALIDATE_FIELDS"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚ Ð¿Ð¾Ð»Ñ \"#FIELD#\"";
+$MESS["ERROR_SUBSCRIBE_ALREADY_EXISTS"] = "Ð’Ñ‹ ÑƒÐ¶Ðµ Ð¿Ð¾Ð´Ð¿Ð¸ÑÐ°Ð»Ð¸ÑÑŒ";
+$MESS["ERROR_SUBSCRIBE_ENTRY_CONFIRMATION_CODE"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð·Ð°Ð¿Ð¸ÑÐ¸ ÐºÐ¾Ð´Ð° Ð¿Ð¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð¸Ñ";
+$MESS["ERROR_AUTHORIZATION_ACCESS_ROW_NOT_FOUND"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·Ð°Ñ†Ð¸Ð¸";
+$MESS["ERROR_ACCESS_DENIDE_DELETE_SUBSCRIBE"] = "ÐÐµÑ‚ Ð¿Ñ€Ð°Ð² Ð´Ð»Ñ ÑƒÐ´Ð°Ð»ÐµÐ½Ð¸Ñ Ð¿Ð¾Ð´Ð¿Ð¸ÑÐºÐ¸";
+$MESS["ERROR_UNSUBSCRIBE_ALREADY_UNSUBSCRIBE"] = "Ð’Ñ‹ ÑƒÐ¶Ðµ Ð¾Ñ‚Ð¿Ð¸ÑÐ°Ð»Ð¸ÑÑŒ";
+$MESS["EMAIL_TEMPLATE_USER_NAME"] = "ÐšÐ»Ð¸ÐµÐ½Ñ‚";
 ?>

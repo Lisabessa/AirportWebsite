@@ -1,7 +1,7 @@
 <?
-$MESS["SALE_LOCATION_EXTERNAL_ENTITY_XML_ID_FIELD"] = "Âíåøíèé êîä";
-$MESS["SALE_LOCATION_EXTERNAL_ENTITY_SERVICE_ID_FIELD"] = "Êîä ñåðâèñà";
-$MESS["SALE_LOCATION_EXTERNAL_ENTITY_CANNOT_ADD_DATA_EXCEPTION"] = "Îøèáêà äîáàâëåíèÿ âíåøíèõ äàííûõ";
-$MESS["SALE_LOCATION_EXTERNAL_ENTITY_CANNOT_UPDATE_DATA_EXCEPTION"] = "Îøèáêà îáíîâëåíèÿ âíåøíèõ äàííûõ";
-$MESS["SALE_LOCATION_EXTERNAL_ENTITY_CANNOT_DELETE_DATA_EXCEPTION"] = "Îøèáêà óäàëåíèÿ âíåøíèõ äàííûõ";
+$MESS["SALE_LOCATION_EXTERNAL_ENTITY_XML_ID_FIELD"] = "Ð’Ð½ÐµÑˆÐ½Ð¸Ð¹ ÐºÐ¾Ð´";
+$MESS["SALE_LOCATION_EXTERNAL_ENTITY_SERVICE_ID_FIELD"] = "ÐšÐ¾Ð´ ÑÐµÑ€Ð²Ð¸ÑÐ°";
+$MESS["SALE_LOCATION_EXTERNAL_ENTITY_CANNOT_ADD_DATA_EXCEPTION"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ñ Ð²Ð½ÐµÑˆÐ½Ð¸Ñ… Ð´Ð°Ð½Ð½Ñ‹Ñ…";
+$MESS["SALE_LOCATION_EXTERNAL_ENTITY_CANNOT_UPDATE_DATA_EXCEPTION"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ñ Ð²Ð½ÐµÑˆÐ½Ð¸Ñ… Ð´Ð°Ð½Ð½Ñ‹Ñ…";
+$MESS["SALE_LOCATION_EXTERNAL_ENTITY_CANNOT_DELETE_DATA_EXCEPTION"] = "ÐžÑˆÐ¸Ð±ÐºÐ° ÑƒÐ´Ð°Ð»ÐµÐ½Ð¸Ñ Ð²Ð½ÐµÑˆÐ½Ð¸Ñ… Ð´Ð°Ð½Ð½Ñ‹Ñ…";
 ?>

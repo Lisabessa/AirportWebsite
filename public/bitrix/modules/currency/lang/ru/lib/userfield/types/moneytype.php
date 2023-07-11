@@ -1,3 +1,3 @@
 <?php
-$MESS["USER_TYPE_MONEY_DESCRIPTION"] = "Äåíüãè";
-$MESS["USER_TYPE_MONEY_DEFAULT_VALUE"] = "Çíà÷åíèå ïî óìîë÷àíèþ";
+$MESS["USER_TYPE_MONEY_DESCRIPTION"] = "Ð”ÐµÐ½ÑŒÐ³Ð¸";
+$MESS["USER_TYPE_MONEY_DEFAULT_VALUE"] = "Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð¿Ð¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ";

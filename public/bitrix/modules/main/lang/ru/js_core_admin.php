@@ -1,8 +1,8 @@
 <?
-$MESS["ADMIN_INCLAREA_DBLCLICK"] = "Äâîéíîé ùåë÷îê";
-$MESS["ADMIN_SHOW_MODE_ON"] = "âêëþ÷åí";
-$MESS["ADMIN_SHOW_MODE_OFF"] = "âûêëþ÷åí";
-$MESS["AMDIN_SHOW_MODE_TITLE"] = "Ðåæèì ïðàâêè";
-$MESS["ADMIN_SHOW_MODE_ON_HINT"] = "Ðåæèì ïðàâêè âêëþ÷åí. Íà ñòðàíèöå äîñòóïíû ýëåìåíòû óïðàâëåíèÿ êîìïîíåíòàìè è âêëþ÷àåìûìè îáëàñòÿìè.";
-$MESS["ADMIN_SHOW_MODE_OFF_HINT"] = "Ðåæèì ïðàâêè âûêëþ÷åí";
+$MESS["ADMIN_INCLAREA_DBLCLICK"] = "Ð”Ð²Ð¾Ð¹Ð½Ð¾Ð¹ Ñ‰ÐµÐ»Ñ‡Ð¾Ðº";
+$MESS["ADMIN_SHOW_MODE_ON"] = "Ð²ÐºÐ»ÑŽÑ‡ÐµÐ½";
+$MESS["ADMIN_SHOW_MODE_OFF"] = "Ð²Ñ‹ÐºÐ»ÑŽÑ‡ÐµÐ½";
+$MESS["AMDIN_SHOW_MODE_TITLE"] = "Ð ÐµÐ¶Ð¸Ð¼ Ð¿Ñ€Ð°Ð²ÐºÐ¸";
+$MESS["ADMIN_SHOW_MODE_ON_HINT"] = "Ð ÐµÐ¶Ð¸Ð¼ Ð¿Ñ€Ð°Ð²ÐºÐ¸ Ð²ÐºÐ»ÑŽÑ‡ÐµÐ½. ÐÐ° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ðµ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ñ‹ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ñ‹ ÑƒÐ¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ñ ÐºÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚Ð°Ð¼Ð¸ Ð¸ Ð²ÐºÐ»ÑŽÑ‡Ð°ÐµÐ¼Ñ‹Ð¼Ð¸ Ð¾Ð±Ð»Ð°ÑÑ‚ÑÐ¼Ð¸.";
+$MESS["ADMIN_SHOW_MODE_OFF_HINT"] = "Ð ÐµÐ¶Ð¸Ð¼ Ð¿Ñ€Ð°Ð²ÐºÐ¸ Ð²Ñ‹ÐºÐ»ÑŽÑ‡ÐµÐ½";
 ?>

@@ -17,7 +17,7 @@
    
     <tr><td valign="top" align="right"><?=$FORM->ShowInputCaption("QUESTIONS","")?></td><td><?=$FORM->ShowInput('QUESTIONS')?></td></tr>
    
-    <tr><td valign="top" align="right"><?=$FORM->ShowCaptchaImage()?></td><td>Введите текст на картинке <?=$FORM->ShowRequired()?> 
+    <tr><td valign="top" align="right"><?=$FORM->ShowCaptchaImage()?></td><td>Р’РІРµРґРёС‚Рµ С‚РµРєСЃС‚ РЅР° РєР°СЂС‚РёРЅРєРµ <?=$FORM->ShowRequired()?> 
         <br />
        <?=$FORM->ShowCaptchaField()?></td></tr>
    </tbody>

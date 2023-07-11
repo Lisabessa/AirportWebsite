@@ -1,9 +1,9 @@
 <?
-$MESS["IM_MESSAGE_ICON"] = "èêîíêà";
-$MESS["IM_MESSAGE_SMILE"] = "ñìàéë";
-$MESS["IM_MESSAGE_EMOJI"] = "ýìîäæè";
-$MESS["IM_MESSAGE_ATTACH"] = "Âëîæåíèå";
-$MESS["IM_MESSAGE_RATING"] = "Ðåéòèíã";
-$MESS["IM_MESSAGE_FILE"] = "Ôàéë";
-$MESS["IM_QUOTE"] = "Öèòàòà";
-$MESS["IM_MESSAGE_DELETE"] = "Ýòî ñîîáùåíèå áûëî óäàëåíî.";
+$MESS["IM_MESSAGE_ICON"] = "Ð¸ÐºÐ¾Ð½ÐºÐ°";
+$MESS["IM_MESSAGE_SMILE"] = "ÑÐ¼Ð°Ð¹Ð»";
+$MESS["IM_MESSAGE_EMOJI"] = "ÑÐ¼Ð¾Ð´Ð¶Ð¸";
+$MESS["IM_MESSAGE_ATTACH"] = "Ð’Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ";
+$MESS["IM_MESSAGE_RATING"] = "Ð ÐµÐ¹Ñ‚Ð¸Ð½Ð³";
+$MESS["IM_MESSAGE_FILE"] = "Ð¤Ð°Ð¹Ð»";
+$MESS["IM_QUOTE"] = "Ð¦Ð¸Ñ‚Ð°Ñ‚Ð°";
+$MESS["IM_MESSAGE_DELETE"] = "Ð­Ñ‚Ð¾ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ Ð±Ñ‹Ð»Ð¾ ÑƒÐ´Ð°Ð»ÐµÐ½Ð¾.";

@@ -26,7 +26,7 @@
 	<div id="company_logo"></div>
 
 	<div id="search">
-		&nbsp;Поиск на сайте
+		&nbsp;РџРѕРёСЃРє РЅР° СЃР°Р№С‚Рµ
 		<?$APPLICATION->IncludeComponent("bitrix:search.form", "flat", Array(
 			"PAGE"	=>	"/search/"
 			)
@@ -108,7 +108,7 @@
 			</td>
 		<td class="main-column">
 
-			<div id="printer"><noindex><a href="<?=htmlspecialchars($APPLICATION->GetCurUri("print=Y"));?>" title="Версия для печати" rel="nofollow">версия<br />для печати</a></noindex></div>
+			<div id="printer"><noindex><a href="<?=htmlspecialchars($APPLICATION->GetCurUri("print=Y"));?>" title="Р’РµСЂСЃРёСЏ РґР»СЏ РїРµС‡Р°С‚Рё" rel="nofollow">РІРµСЂСЃРёСЏ<br />РґР»СЏ РїРµС‡Р°С‚Рё</a></noindex></div>
 
 			<div id="navigation"><?$APPLICATION->IncludeComponent(
 				"bitrix:breadcrumb",

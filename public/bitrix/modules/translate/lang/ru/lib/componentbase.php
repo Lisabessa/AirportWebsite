@@ -1,5 +1,5 @@
 <?php
-$MESS["TRANSLATE_FILTER_ERROR_ACCESS_DENIED"] = "Äîñòóï çàïðåùåí";
-$MESS["TRANSLATE_FILTER_ERROR_WRITING_RIGHTS"] = "Íåò ïðàâ íà çàïèñü";
-$MESS["TRANSLATE_FILTER_ERROR_PHP_EDIT_RIGHTS"] = "Íåäîñòàòî÷íî ïðàâ äëÿ ïðîñìîòðà èñïîëíÿåìîãî ôàéëà.";
-$MESS["TRANSLATE_MYSQL_CONFIG_ERROR_REGEXP_TIME_LIMIT"] = "Äëÿ êîððåêòíîé ðàáîòû ïîèñêà ôðàç íåîáõîäèìî óñòàíîâèòü íàñòðîéêó 'regexp_time_limit' â êîíôèãóðàöèè MySQL";
+$MESS["TRANSLATE_FILTER_ERROR_ACCESS_DENIED"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ð·Ð°Ð¿Ñ€ÐµÑ‰ÐµÐ½";
+$MESS["TRANSLATE_FILTER_ERROR_WRITING_RIGHTS"] = "ÐÐµÑ‚ Ð¿Ñ€Ð°Ð² Ð½Ð° Ð·Ð°Ð¿Ð¸ÑÑŒ";
+$MESS["TRANSLATE_FILTER_ERROR_PHP_EDIT_RIGHTS"] = "ÐÐµÐ´Ð¾ÑÑ‚Ð°Ñ‚Ð¾Ñ‡Ð½Ð¾ Ð¿Ñ€Ð°Ð² Ð´Ð»Ñ Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð° Ð¸ÑÐ¿Ð¾Ð»Ð½ÑÐµÐ¼Ð¾Ð³Ð¾ Ñ„Ð°Ð¹Ð»Ð°.";
+$MESS["TRANSLATE_MYSQL_CONFIG_ERROR_REGEXP_TIME_LIMIT"] = "Ð”Ð»Ñ ÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ð¾Ð¹ Ñ€Ð°Ð±Ð¾Ñ‚Ñ‹ Ð¿Ð¾Ð¸ÑÐºÐ° Ñ„Ñ€Ð°Ð· Ð½ÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ð¾ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð¸Ñ‚ÑŒ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÑƒ 'regexp_time_limit' Ð² ÐºÐ¾Ð½Ñ„Ð¸Ð³ÑƒÑ€Ð°Ñ†Ð¸Ð¸ MySQL";

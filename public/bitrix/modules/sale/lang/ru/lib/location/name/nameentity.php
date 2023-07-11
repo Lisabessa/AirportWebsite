@@ -1,5 +1,5 @@
 <?
-$MESS["SALE_LOCATION_NAME_NAME_ENTITY_CANNOT_ADD_NAMES_EXCEPTION"] = "Îøèáêà äîáàâëåíèÿ èìåíè ñóùíîñòè";
-$MESS["SALE_LOCATION_NAME_NAME_ENTITY_CANNOT_UPDATE_NAMES_EXCEPTION"] = "Îøèáêà èçìåíåíèÿ èìåíè ñóùíîñòè";
-$MESS["SALE_LOCATION_NAME_NAME_ENTITY_CANNOT_DELETE_NAMES_EXCEPTION"] = "Îøèáêà óäàëåíèÿ èìåíè ñóùíîñòè";
+$MESS["SALE_LOCATION_NAME_NAME_ENTITY_CANNOT_ADD_NAMES_EXCEPTION"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ñ Ð¸Ð¼ÐµÐ½Ð¸ ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸";
+$MESS["SALE_LOCATION_NAME_NAME_ENTITY_CANNOT_UPDATE_NAMES_EXCEPTION"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ Ð¸Ð¼ÐµÐ½Ð¸ ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸";
+$MESS["SALE_LOCATION_NAME_NAME_ENTITY_CANNOT_DELETE_NAMES_EXCEPTION"] = "ÐžÑˆÐ¸Ð±ÐºÐ° ÑƒÐ´Ð°Ð»ÐµÐ½Ð¸Ñ Ð¸Ð¼ÐµÐ½Ð¸ ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸";
 ?>

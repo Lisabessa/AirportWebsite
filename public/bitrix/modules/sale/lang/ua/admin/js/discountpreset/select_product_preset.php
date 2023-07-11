@@ -1,6 +1,6 @@
 <?
-$MESS["JS_SALE_HANDLERS_DISCOUNTPRESET_SELECT_SECTION"] = "Âèáåð³òü ðîçä³ë";
-$MESS["JS_SALE_HANDLERS_DISCOUNTPRESET_DELETE_PRODUCT"] = "Âèäàëèòè";
-$MESS["SALE_ORDER_BASKET_PROD_EDIT_EMPTY_PROP_ROW"] = "Âëàñòèâîñò³ â³äñóòí³";
-$MESS["SALE_ORDER_BASKET_NO_PICTURE"] = "Íåìàº êàðòèíêè";
+$MESS["JS_SALE_HANDLERS_DISCOUNTPRESET_SELECT_SECTION"] = "Ð’Ð¸Ð±ÐµÑ€Ñ–Ñ‚ÑŒ Ñ€Ð¾Ð·Ð´Ñ–Ð»";
+$MESS["JS_SALE_HANDLERS_DISCOUNTPRESET_DELETE_PRODUCT"] = "Ð’Ð¸Ð´Ð°Ð»Ð¸Ñ‚Ð¸";
+$MESS["SALE_ORDER_BASKET_PROD_EDIT_EMPTY_PROP_ROW"] = "Ð’Ð»Ð°ÑÑ‚Ð¸Ð²Ð¾ÑÑ‚Ñ– Ð²Ñ–Ð´ÑÑƒÑ‚Ð½Ñ–";
+$MESS["SALE_ORDER_BASKET_NO_PICTURE"] = "ÐÐµÐ¼Ð°Ñ” ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ¸";
 ?>

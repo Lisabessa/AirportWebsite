@@ -1,3 +1,3 @@
 <?
-$MESS ['VOTING_INSTALL_TITLE_VOTING_LIST'] = "Список опросов";
+$MESS ['VOTING_INSTALL_TITLE_VOTING_LIST'] = "РЎРїРёСЃРѕРє РѕРїСЂРѕСЃРѕРІ";
 ?>

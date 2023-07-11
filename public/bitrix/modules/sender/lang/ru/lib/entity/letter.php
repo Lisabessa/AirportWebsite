@@ -1,5 +1,5 @@
 <?
-$MESS["SENDER_ENTITY_LETTER_ERROR_NO_SEGMENTS"] = "Íå äîáàâëåí íè îäèí ñåãìåíò ïîëó÷àòåëåé.";
-$MESS["SENDER_ENTITY_LETTER_ERROR_NOT_AVAILABLE"] = "Èíñòðóìåíò äîñòóïåí òîëüêî íà ïëàòíîì òàðèôå.";
-$MESS["SENDER_ENTITY_LETTER_COPY_PREFIX"] = "Êîïèÿ";
+$MESS["SENDER_ENTITY_LETTER_ERROR_NO_SEGMENTS"] = "ÐÐµ Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½ Ð½Ð¸ Ð¾Ð´Ð¸Ð½ ÑÐµÐ³Ð¼ÐµÐ½Ñ‚ Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»ÐµÐ¹.";
+$MESS["SENDER_ENTITY_LETTER_ERROR_NOT_AVAILABLE"] = "Ð˜Ð½ÑÑ‚Ñ€ÑƒÐ¼ÐµÐ½Ñ‚ Ð´Ð¾ÑÑ‚ÑƒÐ¿ÐµÐ½ Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð½Ð° Ð¿Ð»Ð°Ñ‚Ð½Ð¾Ð¼ Ñ‚Ð°Ñ€Ð¸Ñ„Ðµ.";
+$MESS["SENDER_ENTITY_LETTER_COPY_PREFIX"] = "ÐšÐ¾Ð¿Ð¸Ñ";
 ?>

@@ -36,7 +36,7 @@ if(file_exists($filename) && is_file($filename))
 	include($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/main/include/prolog_before.php");
 	if(CModule::IncludeModule("statistic"))
 	{
-		if($cur_pos<=0) // проверим скачивается ли с самого начала
+		if($cur_pos<=0) // РїСЂРѕРІРµСЂРёРј СЃРєР°С‡РёРІР°РµС‚СЃСЏ Р»Рё СЃ СЃР°РјРѕРіРѕ РЅР°С‡Р°Р»Р°
 		{
 			if(strlen($event1)<=0 && strlen($event2)<=0)
 			{
@@ -44,14 +44,14 @@ if(file_exists($filename) && is_file($filename))
 				$event2 = $file;
 			}
 			$e = $event1."/".$event2."/".$event3;
-			if(!in_array($e, $_SESSION["DOWNLOAD_EVENTS"])) // проверим не скачивался ли в данной сессии
+			if(!in_array($e, $_SESSION["DOWNLOAD_EVENTS"])) // РїСЂРѕРІРµСЂРёРј РЅРµ СЃРєР°С‡РёРІР°Р»СЃСЏ Р»Рё РІ РґР°РЅРЅРѕР№ СЃРµСЃСЃРёРё
 			{
 				if (intval($_SESSION["SESS_SEARCHER_ID"]) <= 0) 
 				{
 					$w = CStatEvent::GetByEvents($event1, $event2);
 					$wr = $w->Fetch();
 					$z = CStatEvent::GetEventsByGuest($_SESSION["SESS_GUEST_ID"], $wr["EVENT_ID"], $event3, 21600);
-					if(!($zr=$z->Fetch())) // проверим не скачивал ли посетитель за последние 6 часов
+					if(!($zr=$z->Fetch())) // РїСЂРѕРІРµСЂРёРј РЅРµ СЃРєР°С‡РёРІР°Р» Р»Рё РїРѕСЃРµС‚РёС‚РµР»СЊ Р·Р° РїРѕСЃР»РµРґРЅРёРµ 6 С‡Р°СЃРѕРІ
 					{
 						CStatistic::Set_Event($event1, $event2, $event3);
 						$_SESSION["DOWNLOAD_EVENTS"][] = $e;

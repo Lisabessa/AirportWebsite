@@ -1,20 +1,20 @@
 <?php
-$MESS["RES_ICON"] = "Èêîíêà (#size#)";
-$MESS["RES_GP_PROMO_IMAGE"] = "Çíà÷îê äëÿ ðàçäåëà \"Ðåêîìåíäóåìûå\" â Google Play";
-$MESS["RES_LAUNCH_SCREEN_PORT"] = "Ñòàðòîâûé ýêðàí, ïîðòðåò (#size#)";
-$MESS["RES_LAUNCH_SCREEN_LAND"] = "Ñòàðòîâûé ýêðàí, ïëàíøåò (#size#)";
+$MESS["RES_ICON"] = "Ð˜ÐºÐ¾Ð½ÐºÐ° (#size#)";
+$MESS["RES_GP_PROMO_IMAGE"] = "Ð—Ð½Ð°Ñ‡Ð¾Ðº Ð´Ð»Ñ Ñ€Ð°Ð·Ð´ÐµÐ»Ð° \"Ð ÐµÐºÐ¾Ð¼ÐµÐ½Ð´ÑƒÐµÐ¼Ñ‹Ðµ\" Ð² Google Play";
+$MESS["RES_LAUNCH_SCREEN_PORT"] = "Ð¡Ñ‚Ð°Ñ€Ñ‚Ð¾Ð²Ñ‹Ð¹ ÑÐºÑ€Ð°Ð½, Ð¿Ð¾Ñ€Ñ‚Ñ€ÐµÑ‚ (#size#)";
+$MESS["RES_LAUNCH_SCREEN_LAND"] = "Ð¡Ñ‚Ð°Ñ€Ñ‚Ð¾Ð²Ñ‹Ð¹ ÑÐºÑ€Ð°Ð½, Ð¿Ð»Ð°Ð½ÑˆÐµÑ‚ (#size#)";
 
 $MESS["RES_LSCREEN_IPHONE_INCH_3_5"] = "iPhone Retina 3.5' (4/4s, #size#)";
 $MESS["RES_LSCREEN_IPHONE_INCH_4"] = "iPhone Retina 4' (5/5c/5s, #size#)";
 
-$MESS["RES_LSCREEN_IPAD_NON_RETINA_LAND"] = "iPad, ëàíäøàôò (#size#)";
-$MESS["RES_LSCREEN_IPAD_NON_RETINA_PORT"] = "iPad, ïîðòðåò (#size#)";
-$MESS["RES_LSCREEN_IPAD_RETINA_LAND"] = "iPad Retina, ëàíäøàôò (#size#)";
-$MESS["RES_LSCREEN_IPAD_RETINA_PORT"] = "iPad Retina, ïîðòðåò (#size#)";
+$MESS["RES_LSCREEN_IPAD_NON_RETINA_LAND"] = "iPad, Ð»Ð°Ð½Ð´ÑˆÐ°Ñ„Ñ‚ (#size#)";
+$MESS["RES_LSCREEN_IPAD_NON_RETINA_PORT"] = "iPad, Ð¿Ð¾Ñ€Ñ‚Ñ€ÐµÑ‚ (#size#)";
+$MESS["RES_LSCREEN_IPAD_RETINA_LAND"] = "iPad Retina, Ð»Ð°Ð½Ð´ÑˆÐ°Ñ„Ñ‚ (#size#)";
+$MESS["RES_LSCREEN_IPAD_RETINA_PORT"] = "iPad Retina, Ð¿Ð¾Ñ€Ñ‚Ñ€ÐµÑ‚ (#size#)";
 
-$MESS["RES_LSCREEN_IPHONE_INCH_5_5_PORT"] = "iPhone Retina 5.5', ïîðòðåò (#size#)";
-$MESS["RES_LSCREEN_IPHONE_INCH_5_5_LAND"] = "iPhone Retina 5.5', ëàíäøàôò (#size#)";
+$MESS["RES_LSCREEN_IPHONE_INCH_5_5_PORT"] = "iPhone Retina 5.5', Ð¿Ð¾Ñ€Ñ‚Ñ€ÐµÑ‚ (#size#)";
+$MESS["RES_LSCREEN_IPHONE_INCH_5_5_LAND"] = "iPhone Retina 5.5', Ð»Ð°Ð½Ð´ÑˆÐ°Ñ„Ñ‚ (#size#)";
 
-$MESS["RES_LSCREEN_IPHONE_INCH_4_7_PORT"] = "iPhone Retina 4.7', ïîðòðåò (#size#)";
+$MESS["RES_LSCREEN_IPHONE_INCH_4_7_PORT"] = "iPhone Retina 4.7', Ð¿Ð¾Ñ€Ñ‚Ñ€ÐµÑ‚ (#size#)";
 
 

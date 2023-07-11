@@ -1,3 +1,3 @@
 <?
-$MESS["CALENDAR_SERVICE_NAME"] = "Κΰλενδΰπό Bitrix24";
+$MESS["CALENDAR_SERVICE_NAME"] = "ΠΠ°Π»ΠµΠ½Π΄Π°Ρ€Ρ Bitrix24";
 ?>

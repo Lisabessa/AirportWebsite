@@ -1,3 +1,3 @@
 <?
-$MESS ['EC_CALENDAR_MODULE_NOT_INSTALLED'] = "Модуль календарей не установлен";
+$MESS ['EC_CALENDAR_MODULE_NOT_INSTALLED'] = "РњРѕРґСѓР»СЊ РєР°Р»РµРЅРґР°СЂРµР№ РЅРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅ";
 ?>

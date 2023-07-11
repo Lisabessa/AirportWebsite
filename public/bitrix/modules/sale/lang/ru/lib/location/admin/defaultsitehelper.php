@@ -1,6 +1,6 @@
 <?
-$MESS["SALE_LOCATION_ADMIN_DEFAULT_SITE_HELPER_ENTITY_SITE_NAME_FIELD"] = "Íàçâàíèå ñàéòà";
-$MESS["SALE_LOCATION_ADMIN_DEFAULT_SITE_HELPER_ENTITY_COUNT_FIELD"] = "Êîëè÷åñòâî ìåñòîïîëîæåíèé";
-$MESS["SALE_LOCATION_ADMIN_DEFAULT_SITE_HELPER_ADD_OP_UNSUPPORTED"] = "Îïåðàöèÿ äîáàâëåíèÿ íå ïîääåðæèâàåòñÿ";
-$MESS["SALE_LOCATION_ADMIN_DEFAULT_SITE_HELPER_DELETE_OP_UNSUPPORTED"] = "Îïåðàöèÿ óäàëåíèÿ íå ïîääåðæèâàåòñÿ";
+$MESS["SALE_LOCATION_ADMIN_DEFAULT_SITE_HELPER_ENTITY_SITE_NAME_FIELD"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ ÑÐ°Ð¹Ñ‚Ð°";
+$MESS["SALE_LOCATION_ADMIN_DEFAULT_SITE_HELPER_ENTITY_COUNT_FIELD"] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹";
+$MESS["SALE_LOCATION_ADMIN_DEFAULT_SITE_HELPER_ADD_OP_UNSUPPORTED"] = "ÐžÐ¿ÐµÑ€Ð°Ñ†Ð¸Ñ Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ñ Ð½Ðµ Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶Ð¸Ð²Ð°ÐµÑ‚ÑÑ";
+$MESS["SALE_LOCATION_ADMIN_DEFAULT_SITE_HELPER_DELETE_OP_UNSUPPORTED"] = "ÐžÐ¿ÐµÑ€Ð°Ñ†Ð¸Ñ ÑƒÐ´Ð°Ð»ÐµÐ½Ð¸Ñ Ð½Ðµ Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶Ð¸Ð²Ð°ÐµÑ‚ÑÑ";
 ?>

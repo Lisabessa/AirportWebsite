@@ -1,9 +1,9 @@
 <?
-$MESS["sender_connector_user_name"] = "Ïîëüçîâàòåëè";
-$MESS["sender_connector_user_all"] = "Ëþáîå";
-$MESS["sender_connector_user_y"] = "Äà";
-$MESS["sender_connector_user_n"] = "Íåò";
-$MESS["sender_connector_user_group"] = "Ãðóïïà:";
-$MESS["sender_connector_user_datereg"] = "Äàòà ðåãèñòðàöèè:";
-$MESS["sender_connector_user_active"] = "Àêòèâíîñòü:";
+$MESS["sender_connector_user_name"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ð¸";
+$MESS["sender_connector_user_all"] = "Ð›ÑŽÐ±Ð¾Ðµ";
+$MESS["sender_connector_user_y"] = "Ð”Ð°";
+$MESS["sender_connector_user_n"] = "ÐÐµÑ‚";
+$MESS["sender_connector_user_group"] = "Ð“Ñ€ÑƒÐ¿Ð¿Ð°:";
+$MESS["sender_connector_user_datereg"] = "Ð”Ð°Ñ‚Ð° Ñ€ÐµÐ³Ð¸ÑÑ‚Ñ€Ð°Ñ†Ð¸Ð¸:";
+$MESS["sender_connector_user_active"] = "ÐÐºÑ‚Ð¸Ð²Ð½Ð¾ÑÑ‚ÑŒ:";
 ?>

@@ -1,6 +1,6 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Âàêàíñèè");
+$APPLICATION->SetTitle("Ð’Ð°ÐºÐ°Ð½ÑÐ¸Ð¸");
 ?>
 <?$APPLICATION->IncludeComponent("bitrix:furniture.vacancies", ".default", array(
 	"IBLOCK_TYPE" => "vacancies",

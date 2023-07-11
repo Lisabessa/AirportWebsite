@@ -1,2 +1,2 @@
 <?php
-$MESS["SOA_VAT"] = "ÍÄÑ";
+$MESS["SOA_VAT"] = "ÐÐ”Ð¡";

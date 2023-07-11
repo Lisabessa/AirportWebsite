@@ -1,7 +1,7 @@
 <?
-$MESS["BX_CATALOG_EXPORT_YANDEX_ERR_BAD_SITE"] = "Ñàéò ñ óêàçàííûì ID íå íàéäåí ëèáî äåàêòèâèðîâàí";
-$MESS["BX_CATALOG_EXPORT_YANDEX_ERR_BAD_SERVER_NAME"] = "Íå çàäàíî äîìåííîå èìÿ";
-$MESS["BX_CATALOG_EXPORT_YANDEX_ERR_UNLINK_FILE"] = "Îøèáêà óäàëåíèÿ ôàéëà #FILE#";
-$MESS["BX_CATALOG_EXPORT_YANDEX_ERR_RENAME_FILE"] = "Íåâîçìîæíî ïåðåèìåíîâàòü ôàéë #FILE#, ñîäåðæàùèé âûãðóçêó";
-$MESS["BX_CATALOG_EXPORT_YANDEX_ERR_NO_AVAILABLE_PRICE_TYPES"] = "Íåò òèïîâ öåí, äîñòóïíûõ íåçàðåãèñòðèðîâàííûì ïîëüçîâàòåëÿì";
+$MESS["BX_CATALOG_EXPORT_YANDEX_ERR_BAD_SITE"] = "Ð¡Ð°Ð¹Ñ‚ Ñ ÑƒÐºÐ°Ð·Ð°Ð½Ð½Ñ‹Ð¼ ID Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½ Ð»Ð¸Ð±Ð¾ Ð´ÐµÐ°ÐºÑ‚Ð¸Ð²Ð¸Ñ€Ð¾Ð²Ð°Ð½";
+$MESS["BX_CATALOG_EXPORT_YANDEX_ERR_BAD_SERVER_NAME"] = "ÐÐµ Ð·Ð°Ð´Ð°Ð½Ð¾ Ð´Ð¾Ð¼ÐµÐ½Ð½Ð¾Ðµ Ð¸Ð¼Ñ";
+$MESS["BX_CATALOG_EXPORT_YANDEX_ERR_UNLINK_FILE"] = "ÐžÑˆÐ¸Ð±ÐºÐ° ÑƒÐ´Ð°Ð»ÐµÐ½Ð¸Ñ Ñ„Ð°Ð¹Ð»Ð° #FILE#";
+$MESS["BX_CATALOG_EXPORT_YANDEX_ERR_RENAME_FILE"] = "ÐÐµÐ²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ Ð¿ÐµÑ€ÐµÐ¸Ð¼ÐµÐ½Ð¾Ð²Ð°Ñ‚ÑŒ Ñ„Ð°Ð¹Ð» #FILE#, ÑÐ¾Ð´ÐµÑ€Ð¶Ð°Ñ‰Ð¸Ð¹ Ð²Ñ‹Ð³Ñ€ÑƒÐ·ÐºÑƒ";
+$MESS["BX_CATALOG_EXPORT_YANDEX_ERR_NO_AVAILABLE_PRICE_TYPES"] = "ÐÐµÑ‚ Ñ‚Ð¸Ð¿Ð¾Ð² Ñ†ÐµÐ½, Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ñ‹Ñ… Ð½ÐµÐ·Ð°Ñ€ÐµÐ³Ð¸ÑÑ‚Ñ€Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ñ‹Ð¼ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑÐ¼";
 ?>

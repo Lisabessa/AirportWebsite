@@ -1,36 +1,36 @@
 <?
-$MESS["V_USER_TYPE_DESCRIPTION"] = "Îïðîñ";
-$MESS["V_NEW_CHANNEL"] = "Íîâàÿ ãðóïïà îïðîñîâ";
-$MESS["V_CHANNEL_ID_COLON"] = "Ãðóïïà îïðîñîâ:";
-$MESS["V_CHANNEL_ID_EDIT"] = "èçìåíèòü";
-$MESS["V_CHANNEL_ID_TITLE"] = "Çàãîëîâîê:";
-$MESS["V_CHANNEL_ID_SYMBOLIC_NAME"] = "Ñèìâîëüíûé èäåíòèôèêàòîð:";
-$MESS["V_CHANNEL_ID_USE_CAPTCHA"] = "Èñïîëüçîâàòü CAPTCHA";
-$MESS["V_UNIQUE_SESSION"] = "â îäíîé ñåññèè";
-$MESS["V_UNIQUE_COOKIE_ONLY"] = "ñ îäíèì cookie";
-$MESS["V_UNIQUE_IP_ONLY"] = "ñ îäíîãî IP";
-$MESS["V_UNIQUE_USER_ID_ONLY"] = "ñ îäíèì ID ïîëüçîâàòåëÿ";
-$MESS["V_UNIQUE_IP_DELAY"] = "Íå ãîëîñîâàòü äâàæäû ñ îäíîãî IP â òå÷åíèå:";
-$MESS["V_UNIQUE"] = "Íå ãîëîñîâàòü äâàæäû:";
-$MESS["V_UNIQUE_USER_ID_NEW"] = "Çàïðåòèòü ãîëîñîâàíèå ïîëüçîâàòåëÿì, çàðåãèñòðèðîâàííûì ïîñëå äàòû íà÷àëà îïðîñà";
-$MESS["V_SECONDS"] = "ñåêóíä";
-$MESS["V_MINUTES"] = "ìèíóò";
-$MESS["V_HOURS"] = "÷àñîâ";
-$MESS["V_DAYS"] = "äíåé";
-$MESS["VT_UNKNOWN_ERROR_ADD_VOTE"] = "Íåèçâåñòíàÿ îøèáêà (îïðîñû).";
-$MESS["VOTE_NOTIFY"] = "Îïîâåùàòü àâòîðà îïðîñà î ãîëîñå:";
-$MESS["VOTE_NOTIFY_IM"] = "Äà, ñ ïîìîùüþ ñîîáùåíèÿ (Ìîäóëü \"Âåá-ìåññåíäæåð (im)\")";
-$MESS["VOTE_NOTIFY_EMAIL"] = "Äà, ñ ïîìîùüþ e-mail ïèñüìà";
-$MESS["VOTE_NOTIFY_N"] = "Íåò, íå îïîâåùàòü";
-$MESS["VOTE_VOTES"] = "Ãîëîñîâ: ";
-$MESS["VOTE_EDIT_TITLE"] = "Èçìåíèòü ïàðàìåòðû îïðîñà";
-$MESS["VOTE_ACTIVE_RED_LAMP"] = "Èñòåê ñðîê ïîêàçà. ";
-$MESS["VOTE_NOT_ACTIVE"] = "Îïðîñ íåàêòèâåí.";
-$MESS["VOTE_IS_NOT_EXPECTED"] = "Îïðîñ íå ñîâïàäàåò ñ ñîõðàí¸ííûì.";
-$MESS["VOTE_IS_NOT_FOUND"] = "Îïðîñ íå íàéäåí.";
+$MESS["V_USER_TYPE_DESCRIPTION"] = "ÐžÐ¿Ñ€Ð¾Ñ";
+$MESS["V_NEW_CHANNEL"] = "ÐÐ¾Ð²Ð°Ñ Ð³Ñ€ÑƒÐ¿Ð¿Ð° Ð¾Ð¿Ñ€Ð¾ÑÐ¾Ð²";
+$MESS["V_CHANNEL_ID_COLON"] = "Ð“Ñ€ÑƒÐ¿Ð¿Ð° Ð¾Ð¿Ñ€Ð¾ÑÐ¾Ð²:";
+$MESS["V_CHANNEL_ID_EDIT"] = "Ð¸Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
+$MESS["V_CHANNEL_ID_TITLE"] = "Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº:";
+$MESS["V_CHANNEL_ID_SYMBOLIC_NAME"] = "Ð¡Ð¸Ð¼Ð²Ð¾Ð»ÑŒÐ½Ñ‹Ð¹ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€:";
+$MESS["V_CHANNEL_ID_USE_CAPTCHA"] = "Ð˜ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ CAPTCHA";
+$MESS["V_UNIQUE_SESSION"] = "Ð² Ð¾Ð´Ð½Ð¾Ð¹ ÑÐµÑÑÐ¸Ð¸";
+$MESS["V_UNIQUE_COOKIE_ONLY"] = "Ñ Ð¾Ð´Ð½Ð¸Ð¼ cookie";
+$MESS["V_UNIQUE_IP_ONLY"] = "Ñ Ð¾Ð´Ð½Ð¾Ð³Ð¾ IP";
+$MESS["V_UNIQUE_USER_ID_ONLY"] = "Ñ Ð¾Ð´Ð½Ð¸Ð¼ ID Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
+$MESS["V_UNIQUE_IP_DELAY"] = "ÐÐµ Ð³Ð¾Ð»Ð¾ÑÐ¾Ð²Ð°Ñ‚ÑŒ Ð´Ð²Ð°Ð¶Ð´Ñ‹ Ñ Ð¾Ð´Ð½Ð¾Ð³Ð¾ IP Ð² Ñ‚ÐµÑ‡ÐµÐ½Ð¸Ðµ:";
+$MESS["V_UNIQUE"] = "ÐÐµ Ð³Ð¾Ð»Ð¾ÑÐ¾Ð²Ð°Ñ‚ÑŒ Ð´Ð²Ð°Ð¶Ð´Ñ‹:";
+$MESS["V_UNIQUE_USER_ID_NEW"] = "Ð—Ð°Ð¿Ñ€ÐµÑ‚Ð¸Ñ‚ÑŒ Ð³Ð¾Ð»Ð¾ÑÐ¾Ð²Ð°Ð½Ð¸Ðµ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑÐ¼, Ð·Ð°Ñ€ÐµÐ³Ð¸ÑÑ‚Ñ€Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ñ‹Ð¼ Ð¿Ð¾ÑÐ»Ðµ Ð´Ð°Ñ‚Ñ‹ Ð½Ð°Ñ‡Ð°Ð»Ð° Ð¾Ð¿Ñ€Ð¾ÑÐ°";
+$MESS["V_SECONDS"] = "ÑÐµÐºÑƒÐ½Ð´";
+$MESS["V_MINUTES"] = "Ð¼Ð¸Ð½ÑƒÑ‚";
+$MESS["V_HOURS"] = "Ñ‡Ð°ÑÐ¾Ð²";
+$MESS["V_DAYS"] = "Ð´Ð½ÐµÐ¹";
+$MESS["VT_UNKNOWN_ERROR_ADD_VOTE"] = "ÐÐµÐ¸Ð·Ð²ÐµÑÑ‚Ð½Ð°Ñ Ð¾ÑˆÐ¸Ð±ÐºÐ° (Ð¾Ð¿Ñ€Ð¾ÑÑ‹).";
+$MESS["VOTE_NOTIFY"] = "ÐžÐ¿Ð¾Ð²ÐµÑ‰Ð°Ñ‚ÑŒ Ð°Ð²Ñ‚Ð¾Ñ€Ð° Ð¾Ð¿Ñ€Ð¾ÑÐ° Ð¾ Ð³Ð¾Ð»Ð¾ÑÐµ:";
+$MESS["VOTE_NOTIFY_IM"] = "Ð”Ð°, Ñ Ð¿Ð¾Ð¼Ð¾Ñ‰ÑŒÑŽ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ (ÐœÐ¾Ð´ÑƒÐ»ÑŒ \"Ð’ÐµÐ±-Ð¼ÐµÑÑÐµÐ½Ð´Ð¶ÐµÑ€ (im)\")";
+$MESS["VOTE_NOTIFY_EMAIL"] = "Ð”Ð°, Ñ Ð¿Ð¾Ð¼Ð¾Ñ‰ÑŒÑŽ e-mail Ð¿Ð¸ÑÑŒÐ¼Ð°";
+$MESS["VOTE_NOTIFY_N"] = "ÐÐµÑ‚, Ð½Ðµ Ð¾Ð¿Ð¾Ð²ÐµÑ‰Ð°Ñ‚ÑŒ";
+$MESS["VOTE_VOTES"] = "Ð“Ð¾Ð»Ð¾ÑÐ¾Ð²: ";
+$MESS["VOTE_EDIT_TITLE"] = "Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ Ð¾Ð¿Ñ€Ð¾ÑÐ°";
+$MESS["VOTE_ACTIVE_RED_LAMP"] = "Ð˜ÑÑ‚ÐµÐº ÑÑ€Ð¾Ðº Ð¿Ð¾ÐºÐ°Ð·Ð°. ";
+$MESS["VOTE_NOT_ACTIVE"] = "ÐžÐ¿Ñ€Ð¾Ñ Ð½ÐµÐ°ÐºÑ‚Ð¸Ð²ÐµÐ½.";
+$MESS["VOTE_IS_NOT_EXPECTED"] = "ÐžÐ¿Ñ€Ð¾Ñ Ð½Ðµ ÑÐ¾Ð²Ð¿Ð°Ð´Ð°ÐµÑ‚ Ñ ÑÐ¾Ñ…Ñ€Ð°Ð½Ñ‘Ð½Ð½Ñ‹Ð¼.";
+$MESS["VOTE_IS_NOT_FOUND"] = "ÐžÐ¿Ñ€Ð¾Ñ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½.";
 
-$MESS["VOTE_EDIT_ACCESS_IS_DENIED"] = "Íåò ïðàâ íà èçìåíåíèå îïðîñà.";
-$MESS["VOTE_READ_ACCESS_IS_DENIED"] = "Íåò ïðàâ íà ÷òåíèå îïðîñà.";
+$MESS["VOTE_EDIT_ACCESS_IS_DENIED"] = "ÐÐµÑ‚ Ð¿Ñ€Ð°Ð² Ð½Ð° Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ Ð¾Ð¿Ñ€Ð¾ÑÐ°.";
+$MESS["VOTE_READ_ACCESS_IS_DENIED"] = "ÐÐµÑ‚ Ð¿Ñ€Ð°Ð² Ð½Ð° Ñ‡Ñ‚ÐµÐ½Ð¸Ðµ Ð¾Ð¿Ñ€Ð¾ÑÐ°.";
 
 
 

@@ -1,15 +1,15 @@
 <?
-$MESS ['SONETE_ERROR_SAVING'] = "Îøèáêà ñîõðàíåíèÿ òåìû";
-$MESS ['SONETE_UPDATING'] = "Èçìåíåíèå ïàðàìåòðîâ òåìû";
-$MESS ['SONETE_ADDING'] = "Ñîçäàíèå íîâîé òåìû";
-$MESS ['SONETE_NO_PERMS2ADD'] = "Íå äîñòàòî÷íî ïðàâ äëÿ äîáàâëåíèÿ òåìû";
-$MESS ['SONETE_2FLIST'] = "Ñïèñîê òåì";
-$MESS ['SONETE_NEW_SUBJECT'] = "Íîâàÿ òåìà";
-$MESS ['SONETE_DELETE_SUBJECT'] = "Óäàëèòü òåìó";
-$MESS ['SONETE_DELETE_SUBJECT_CONFIRM'] = "Âû óâåðåíû, ÷òî õîòèòå óäàëèòü ýòó òåìó? Åñëè â òåìå åñòü ãðóïïû, òî òåìà óäàëåíà íå áóäåò.";
-$MESS ['SONETE_TAB_SUBJECT'] = "Òåìà ãðóïï";
-$MESS ['SONETE_TAB_SUBJECT_DESCR'] = "Ïàðàìåòðû òåìû ãðóïï";
-$MESS ['SONETE_NAME'] = "Íàçâàíèå òåìû";
-$MESS ['SONETE_SITE'] = "Ñàéò òåìû";
-$MESS ['SONETE_SORT'] = "Ñîðòèðîâêà";
+$MESS ['SONETE_ERROR_SAVING'] = "ÐžÑˆÐ¸Ð±ÐºÐ° ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð¸Ñ Ñ‚ÐµÐ¼Ñ‹";
+$MESS ['SONETE_UPDATING'] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð¾Ð² Ñ‚ÐµÐ¼Ñ‹";
+$MESS ['SONETE_ADDING'] = "Ð¡Ð¾Ð·Ð´Ð°Ð½Ð¸Ðµ Ð½Ð¾Ð²Ð¾Ð¹ Ñ‚ÐµÐ¼Ñ‹";
+$MESS ['SONETE_NO_PERMS2ADD'] = "ÐÐµ Ð´Ð¾ÑÑ‚Ð°Ñ‚Ð¾Ñ‡Ð½Ð¾ Ð¿Ñ€Ð°Ð² Ð´Ð»Ñ Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ñ Ñ‚ÐµÐ¼Ñ‹";
+$MESS ['SONETE_2FLIST'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ñ‚ÐµÐ¼";
+$MESS ['SONETE_NEW_SUBJECT'] = "ÐÐ¾Ð²Ð°Ñ Ñ‚ÐµÐ¼Ð°";
+$MESS ['SONETE_DELETE_SUBJECT'] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ Ñ‚ÐµÐ¼Ñƒ";
+$MESS ['SONETE_DELETE_SUBJECT_CONFIRM'] = "Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹, Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ ÑÑ‚Ñƒ Ñ‚ÐµÐ¼Ñƒ? Ð•ÑÐ»Ð¸ Ð² Ñ‚ÐµÐ¼Ðµ ÐµÑÑ‚ÑŒ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹, Ñ‚Ð¾ Ñ‚ÐµÐ¼Ð° ÑƒÐ´Ð°Ð»ÐµÐ½Ð° Ð½Ðµ Ð±ÑƒÐ´ÐµÑ‚.";
+$MESS ['SONETE_TAB_SUBJECT'] = "Ð¢ÐµÐ¼Ð° Ð³Ñ€ÑƒÐ¿Ð¿";
+$MESS ['SONETE_TAB_SUBJECT_DESCR'] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ Ñ‚ÐµÐ¼Ñ‹ Ð³Ñ€ÑƒÐ¿Ð¿";
+$MESS ['SONETE_NAME'] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ñ‚ÐµÐ¼Ñ‹";
+$MESS ['SONETE_SITE'] = "Ð¡Ð°Ð¹Ñ‚ Ñ‚ÐµÐ¼Ñ‹";
+$MESS ['SONETE_SORT'] = "Ð¡Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²ÐºÐ°";
 ?>

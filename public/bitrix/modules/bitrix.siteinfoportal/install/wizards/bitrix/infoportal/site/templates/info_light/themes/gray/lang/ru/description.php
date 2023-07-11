@@ -1,3 +1,3 @@
 <?
-$MESS["CPST_GRAY"] = "Ñåðûé";
+$MESS["CPST_GRAY"] = "Ð¡ÐµÑ€Ñ‹Ð¹";
 ?>

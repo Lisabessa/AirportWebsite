@@ -1,12 +1,12 @@
 <?
-$MESS["FORUM_CM_ERR_EMPTY_TEXT"] = "Íå óêàçàí òåêñò êîììåíòàðèÿ.";
-$MESS["FORUM_CM_ERR_EMPTY_AUTHORS_NAME"] = "Íå óêàçàíî èìÿ àâòîðà.";
-$MESS["FORUM_CM_ERR_COMMENT_IS_LOST1"] = "Êîììåíòàðèé äëÿ ðåäàêòèðîâàíèÿ íå íàéäåí.";
-$MESS["FORUM_CM_ERR_COMMENT_IS_LOST2"] = "Êîììåíòàðèé äëÿ óäàëåíèÿ íå íàéäåí.";
-$MESS["FORUM_CM_ERR_COMMENT_IS_LOST3"] = "Êîììåíòàðèé äëÿ ìîäåðèðîâàíèÿ íå íàéäåí.";
-$MESS["FORUM_CM_ERR_COMMENT_IS_LOST4"] = "Êîììåíòàðèé äëÿ ïðîâåðêè ïðàâ íå íàéäåí.";
-$MESS["ACCESS_DENIED"] = "Äîñòóï çàïðåù¸í.";
-$MESS["FORUM_CM_ERR_DELETE"] = "Îøèáêà óäàëåíèÿ êîììåíòàðèÿ.";
-$MESS["FORUM_CM_ERR_MODERATE"] = "Îøèáêà ìîäåðèðîâàíèÿ êîììåíòàðèÿ.";
-$MESS["FORUM_CM_ERR_TYPE_INCORRECT"] = "Íåêîððåêòíûé òèï êîììåíòàðèÿ.";
+$MESS["FORUM_CM_ERR_EMPTY_TEXT"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ñ‚ÐµÐºÑÑ‚ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ñ.";
+$MESS["FORUM_CM_ERR_EMPTY_AUTHORS_NAME"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾ Ð¸Ð¼Ñ Ð°Ð²Ñ‚Ð¾Ñ€Ð°.";
+$MESS["FORUM_CM_ERR_COMMENT_IS_LOST1"] = "ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹ Ð´Ð»Ñ Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½.";
+$MESS["FORUM_CM_ERR_COMMENT_IS_LOST2"] = "ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹ Ð´Ð»Ñ ÑƒÐ´Ð°Ð»ÐµÐ½Ð¸Ñ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½.";
+$MESS["FORUM_CM_ERR_COMMENT_IS_LOST3"] = "ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹ Ð´Ð»Ñ Ð¼Ð¾Ð´ÐµÑ€Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½.";
+$MESS["FORUM_CM_ERR_COMMENT_IS_LOST4"] = "ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹ Ð´Ð»Ñ Ð¿Ñ€Ð¾Ð²ÐµÑ€ÐºÐ¸ Ð¿Ñ€Ð°Ð² Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½.";
+$MESS["ACCESS_DENIED"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ð·Ð°Ð¿Ñ€ÐµÑ‰Ñ‘Ð½.";
+$MESS["FORUM_CM_ERR_DELETE"] = "ÐžÑˆÐ¸Ð±ÐºÐ° ÑƒÐ´Ð°Ð»ÐµÐ½Ð¸Ñ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ñ.";
+$MESS["FORUM_CM_ERR_MODERATE"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¼Ð¾Ð´ÐµÑ€Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ñ.";
+$MESS["FORUM_CM_ERR_TYPE_INCORRECT"] = "ÐÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ñ‹Ð¹ Ñ‚Ð¸Ð¿ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ñ.";
 ?>

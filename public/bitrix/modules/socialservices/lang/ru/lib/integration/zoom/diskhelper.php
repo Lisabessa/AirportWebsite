@@ -1,1 +1,1 @@
-<?$MESS["SOCSERV_ZOOM_RECORDS_ROOT_FOLDER"] = "Zoom âèäåîêîíôåðåíöèè - çàïèñè";
+<?$MESS["SOCSERV_ZOOM_RECORDS_ROOT_FOLDER"] = "Zoom Ð²Ð¸Ð´ÐµÐ¾ÐºÐ¾Ð½Ñ„ÐµÑ€ÐµÐ½Ñ†Ð¸Ð¸ - Ð·Ð°Ð¿Ð¸ÑÐ¸";

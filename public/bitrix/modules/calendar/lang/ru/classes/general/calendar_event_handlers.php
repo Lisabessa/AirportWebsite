@@ -1,4 +1,4 @@
 <?
-$MESS["TM_IN"] = "÷åðåç";
-$MESS["TM_TILL"] = "#today# äî #time#";
+$MESS["TM_IN"] = "Ñ‡ÐµÑ€ÐµÐ·";
+$MESS["TM_TILL"] = "#today# Ð´Ð¾ #time#";
 ?>

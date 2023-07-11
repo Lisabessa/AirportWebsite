@@ -1,11 +1,11 @@
 <?
-$MESS["SALE_TP_EBAY_FDPO_ORDER_PROCESSED"] = "Çàêàç ¹\"#ORDER_ID#\" óñïåøíî îáðàáîòàí";
-$MESS["SALE_TP_EBAY_FDPO_ORDER_ERROR"] = "Îøèáêà îáðàáîòêè çàêàçà ¹\"#ORDER_ID#\"";
-$MESS["SALE_TP_EBAY_FDPO_ORDER_SKIPPED"] = "Çàêàç ¹\"#ORDER_ID#\" íå îáðàáîòàí, òàê êàê åùå íå îïëà÷åí";
-$MESS["SALE_TP_EBAY_FDPO_ORDER_SKIPPED_EXIST"] = "Çàêàç ¹\"#ORDER_ID#\" íå îáðàáîòàí, òàê êàê çàêàç ñ òàêèì íîìåðîì óæå ñóùåñòâóåò";
-$MESS["SALE_TP_EBAY_FDPO_NOT_MAPPED_SHIPPING"] = "Íåâîçìîæíî ñîçäàòü îòãðóçêó â çàêàçå ¹\"#ORDER_ID#\" òàê êàê ñîîòâåòñòâèå äëÿ òèïà äîñòàâêè \"#EBAY_SHIPPING#\" íå óñòàíîâëåíî";
-$MESS["SALE_TP_EBAY_FDPO_ORDER_CANCEL_ERROR"] = "Íå óäàëîñü îòìåíèòü çàêàç ¹\"#ORDER_ID#\"";
-$MESS["SALE_TP_EBAY_FDPO_ORDER_ALLOW_DELIVERY_ERROR"] = "Íå óäàëîñü ðàçðåøèòü äîñòàâêó äëÿ çàêàçà ¹\"#ORDER_ID#\"";
-$MESS["SALE_TP_EBAY_FDPO_ORDER_DEDUCT_ERROR"] = "Íå óäàëîñü ïîìåòèòü çàêàç ¹\"#ORDER_ID#\" îòãðóæåííûì";
-$MESS["SALE_TP_EBAY_FDPO_ORDER_SET_STATUS_ERROR"] = "Çàêàç ¹\"#ORDER_ID#\" íå óäàëîñü ïåðåâåñòè â ñòàòóñ \"#STATUS\"";
-$MESS["SALE_TP_EBAY_FDPO_ORDER_SAVED"] = "Çàêàç ¹\"#ORDER_ID#\" óñïåøíî ñîõðàí¸í";
+$MESS["SALE_TP_EBAY_FDPO_ORDER_PROCESSED"] = "Ð—Ð°ÐºÐ°Ð· â„–\"#ORDER_ID#\" ÑƒÑÐ¿ÐµÑˆÐ½Ð¾ Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚Ð°Ð½";
+$MESS["SALE_TP_EBAY_FDPO_ORDER_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ¸ Ð·Ð°ÐºÐ°Ð·Ð° â„–\"#ORDER_ID#\"";
+$MESS["SALE_TP_EBAY_FDPO_ORDER_SKIPPED"] = "Ð—Ð°ÐºÐ°Ð· â„–\"#ORDER_ID#\" Ð½Ðµ Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚Ð°Ð½, Ñ‚Ð°Ðº ÐºÐ°Ðº ÐµÑ‰Ðµ Ð½Ðµ Ð¾Ð¿Ð»Ð°Ñ‡ÐµÐ½";
+$MESS["SALE_TP_EBAY_FDPO_ORDER_SKIPPED_EXIST"] = "Ð—Ð°ÐºÐ°Ð· â„–\"#ORDER_ID#\" Ð½Ðµ Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚Ð°Ð½, Ñ‚Ð°Ðº ÐºÐ°Ðº Ð·Ð°ÐºÐ°Ð· Ñ Ñ‚Ð°ÐºÐ¸Ð¼ Ð½Ð¾Ð¼ÐµÑ€Ð¾Ð¼ ÑƒÐ¶Ðµ ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÐµÑ‚";
+$MESS["SALE_TP_EBAY_FDPO_NOT_MAPPED_SHIPPING"] = "ÐÐµÐ²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ ÑÐ¾Ð·Ð´Ð°Ñ‚ÑŒ Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÑƒ Ð² Ð·Ð°ÐºÐ°Ð·Ðµ â„–\"#ORDER_ID#\" Ñ‚Ð°Ðº ÐºÐ°Ðº ÑÐ¾Ð¾Ñ‚Ð²ÐµÑ‚ÑÑ‚Ð²Ð¸Ðµ Ð´Ð»Ñ Ñ‚Ð¸Ð¿Ð° Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸ \"#EBAY_SHIPPING#\" Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð¾";
+$MESS["SALE_TP_EBAY_FDPO_ORDER_CANCEL_ERROR"] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ Ð¾Ñ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ð·Ð°ÐºÐ°Ð· â„–\"#ORDER_ID#\"";
+$MESS["SALE_TP_EBAY_FDPO_ORDER_ALLOW_DELIVERY_ERROR"] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ Ñ€Ð°Ð·Ñ€ÐµÑˆÐ¸Ñ‚ÑŒ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÑƒ Ð´Ð»Ñ Ð·Ð°ÐºÐ°Ð·Ð° â„–\"#ORDER_ID#\"";
+$MESS["SALE_TP_EBAY_FDPO_ORDER_DEDUCT_ERROR"] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ Ð¿Ð¾Ð¼ÐµÑ‚Ð¸Ñ‚ÑŒ Ð·Ð°ÐºÐ°Ð· â„–\"#ORDER_ID#\" Ð¾Ñ‚Ð³Ñ€ÑƒÐ¶ÐµÐ½Ð½Ñ‹Ð¼";
+$MESS["SALE_TP_EBAY_FDPO_ORDER_SET_STATUS_ERROR"] = "Ð—Ð°ÐºÐ°Ð· â„–\"#ORDER_ID#\" Ð½Ðµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ Ð¿ÐµÑ€ÐµÐ²ÐµÑÑ‚Ð¸ Ð² ÑÑ‚Ð°Ñ‚ÑƒÑ \"#STATUS\"";
+$MESS["SALE_TP_EBAY_FDPO_ORDER_SAVED"] = "Ð—Ð°ÐºÐ°Ð· â„–\"#ORDER_ID#\" ÑƒÑÐ¿ÐµÑˆÐ½Ð¾ ÑÐ¾Ñ…Ñ€Ð°Ð½Ñ‘Ð½";

@@ -1,2 +1,2 @@
 <?php
-$MESS['LANDING_HOOK_METAKEYWORDS'] = 'Êëþ÷åâûå ñëîâà ñòðàíèöû';
+$MESS['LANDING_HOOK_METAKEYWORDS'] = 'ÐšÐ»ÑŽÑ‡ÐµÐ²Ñ‹Ðµ ÑÐ»Ð¾Ð²Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹';

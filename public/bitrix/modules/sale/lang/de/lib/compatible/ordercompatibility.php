@@ -1,7 +1,7 @@
 <?
-$MESS["SALE_COMPATIBLE_ORDER_CANCEL_NO_PERMISSION"] = "Sie haben nicht genügend Rechte, um Bestellung zu stornieren";
-$MESS["SALE_COMPATIBLE_ORDER_MARKED_NO_PERMISSION"] = "Sie haben nicht genügend Rechte, um diese Bestellung als problematisch zu markieren";
-$MESS["SALE_COMPATIBLE_ORDER_DEDUCT_NO_PERMISSION"] = "Sie haben nicht genügend Rechte, um diese Bestellung auszuliefern";
+$MESS["SALE_COMPATIBLE_ORDER_CANCEL_NO_PERMISSION"] = "Sie haben nicht genÃ¼gend Rechte, um Bestellung zu stornieren";
+$MESS["SALE_COMPATIBLE_ORDER_MARKED_NO_PERMISSION"] = "Sie haben nicht genÃ¼gend Rechte, um diese Bestellung als problematisch zu markieren";
+$MESS["SALE_COMPATIBLE_ORDER_DEDUCT_NO_PERMISSION"] = "Sie haben nicht genÃ¼gend Rechte, um diese Bestellung auszuliefern";
 $MESS["SALE_COMPATIBLE_ORDER_NOT_FOUND"] = "Bestellung nicht gefunden";
 $MESS["SALE_COMPATIBLE_ORDER_ID_NOT_FOUND"] = "Bestell-ID ist nicht angegeben.";
 $MESS["SALE_COMPATIBLE_ORDER_FUSERID_NOT_FOUND"] = "FUSER_ID ist nicht angegeben.";

@@ -1,3 +1,3 @@
 <?
-$MESS["VOTE_CHANNEL_IS_NOT_ACTIVE"] = "Ãðóïïà îïðîñîâ íåàêòèâíà."
+$MESS["VOTE_CHANNEL_IS_NOT_ACTIVE"] = "Ð“Ñ€ÑƒÐ¿Ð¿Ð° Ð¾Ð¿Ñ€Ð¾ÑÐ¾Ð² Ð½ÐµÐ°ÐºÑ‚Ð¸Ð²Ð½Ð°."
 ?>

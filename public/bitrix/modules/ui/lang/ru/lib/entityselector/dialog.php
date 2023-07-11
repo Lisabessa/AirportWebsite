@@ -1,2 +1,2 @@
 <?
-$MESS["UI_SELECTOR_HIDDEN_ITEM_TITLE"] = "Ñêðûòî";
+$MESS["UI_SELECTOR_HIDDEN_ITEM_TITLE"] = "Ð¡ÐºÑ€Ñ‹Ñ‚Ð¾";

@@ -1,5 +1,5 @@
 <?
-$MESS["SALE_ENTITY_MARKER_ORDER_NOT_FOUND"] = "Замовлення не знайдено";
-$MESS["SALE_ENTITY_MARKER_MARKER_NOT_FOUND"] = "Маркер не знайдено";
-$MESS["SALE_ENTITY_MARKER_ENTITY_NOT_FOUND"] = "Проблемна сутність не знайдена";
+$MESS["SALE_ENTITY_MARKER_ORDER_NOT_FOUND"] = "Р—Р°РјРѕРІР»РµРЅРЅСЏ РЅРµ Р·РЅР°Р№РґРµРЅРѕ";
+$MESS["SALE_ENTITY_MARKER_MARKER_NOT_FOUND"] = "РњР°СЂРєРµСЂ РЅРµ Р·РЅР°Р№РґРµРЅРѕ";
+$MESS["SALE_ENTITY_MARKER_ENTITY_NOT_FOUND"] = "РџСЂРѕР±Р»РµРјРЅР° СЃСѓС‚РЅС–СЃС‚СЊ РЅРµ Р·РЅР°Р№РґРµРЅР°";
 ?>

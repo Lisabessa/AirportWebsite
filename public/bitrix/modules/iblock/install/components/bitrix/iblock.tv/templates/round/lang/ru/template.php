@@ -1,10 +1,10 @@
 <?
-$MESS["BITRIXTV_TEMPLATE_DURATION"] = "Äëèòåëüíîñòü: ";
-$MESS["BITRIXTV_TEMPLATE_TITLE"] = "Íàçâàíèå: ";
-$MESS["BITRIXTV_TEMPLATE_DESCRIPTION"] = "Îïèñàíèå: ";
-$MESS["BITRIXTV_TEMPLATE_FILE"] = "Ôàéë: ";
-$MESS["BITRIXTV_TEMPLATE_DOWNLOAD"] = "Ñêà÷àòü";
-$MESS["BITRIXTV_TEMPLATE_BXTV_SIZE_MB"] = " Ìá";
-$MESS["BITRIXTV_TEMPLATE_BXTV_PLAY"] = "Ïîñìîòðåòü";
-$MESS["BITRIXTV_TEMPLATE_BXTV_EDIT"] = "Èçìåíèòü";
+$MESS["BITRIXTV_TEMPLATE_DURATION"] = "Ð”Ð»Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾ÑÑ‚ÑŒ: ";
+$MESS["BITRIXTV_TEMPLATE_TITLE"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ: ";
+$MESS["BITRIXTV_TEMPLATE_DESCRIPTION"] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ: ";
+$MESS["BITRIXTV_TEMPLATE_FILE"] = "Ð¤Ð°Ð¹Ð»: ";
+$MESS["BITRIXTV_TEMPLATE_DOWNLOAD"] = "Ð¡ÐºÐ°Ñ‡Ð°Ñ‚ÑŒ";
+$MESS["BITRIXTV_TEMPLATE_BXTV_SIZE_MB"] = " ÐœÐ±";
+$MESS["BITRIXTV_TEMPLATE_BXTV_PLAY"] = "ÐŸÐ¾ÑÐ¼Ð¾Ñ‚Ñ€ÐµÑ‚ÑŒ";
+$MESS["BITRIXTV_TEMPLATE_BXTV_EDIT"] = "Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
 ?>

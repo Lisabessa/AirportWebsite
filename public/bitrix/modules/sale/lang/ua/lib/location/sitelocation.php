@@ -1,3 +1,3 @@
 <?
-$MESS["SALE_LOCATION_LOCATIONSITE_ENTITY_SITE_NOT_SET_EXCEPTION"] = "Íå âêàçàíèé ñàéò äëÿ çâ'ÿçóâàííÿ";
+$MESS["SALE_LOCATION_LOCATIONSITE_ENTITY_SITE_NOT_SET_EXCEPTION"] = "ÐÐµ Ð²ÐºÐ°Ð·Ð°Ð½Ð¸Ð¹ ÑÐ°Ð¹Ñ‚ Ð´Ð»Ñ Ð·Ð²'ÑÐ·ÑƒÐ²Ð°Ð½Ð½Ñ";
 ?>

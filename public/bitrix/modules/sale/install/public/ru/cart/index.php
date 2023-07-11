@@ -1,6 +1,6 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Êîðçèíà");
+$APPLICATION->SetTitle("ÐšÐ¾Ñ€Ð·Ð¸Ð½Ð°");
 ?><?$APPLICATION->IncludeComponent("bitrix:sale.basket.basket", ".default", Array(
 	"COLUMNS_LIST"	=>	array(
 		0	=>	"NAME",

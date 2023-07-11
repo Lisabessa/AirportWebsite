@@ -1,12 +1,12 @@
 <?php
-$MESS["SALE_PS_SERVICE_ERROR_CONNECT_PS"] = "Ïîìèëêà ï³äêëþ÷åííÿ äî ïëàò³æíî¿ ñèñòåìè";
-$MESS["SALE_PS_SERVICE_ERROR_HOLD_IS_NOT_SUPPORTED"] = "Îáðîáëþâà÷ íå ï³äòðèìóº ðåæèì õîëäóâàííÿ";
-$MESS["SALE_PS_SERVICE_ERROR_PARTIAL_CONFIRM_IS_NOT_SUPPORTED"] = "Îáðîáëþâà÷ íå ï³äòðèìóº ðåæèì õîëäóâàííÿ ç ÷àñòêîâèì ï³äòâåðäæåííÿì ïëàòåæó";
-$MESS["SALE_PS_SERVICE_ORDER_CANCELED"] = "Çàìîâëåííÿ ¹#ORDER_ID# ñêàñîâàíî";
-$MESS["SALE_PS_SERVICE_ORDER_ERROR"] = "Çàìîâëåííÿ ¹#ORDER_ID# íå ³ñíóº";
-$MESS["SALE_PS_SERVICE_ORDER_ID_ERROR"] = "Íåïðàâèëüíèé ORDER ID";
-$MESS["SALE_PS_SERVICE_PAYMENT_ERROR_EMPTY"] = "Íå âêàçàíà ÷àñòêîâà îïëàòà";
-$MESS["SALE_PS_SERVICE_PAYMENT_ID_ERROR"] = "Íåïðàâèëüíèé PAYMENT ID";
-$MESS["SALE_PS_SERVICE_PAYMENT_NOT_PAID"] = "Íåìîæëèâî âèêîíàòè ïîâåðíåííÿ äëÿ íåîïëà÷åíî¿ îïëàòè";
-$MESS["SALE_PS_SERVICE_REQUEST_ERROR"] = "Ïîìèëêà ïðè îòðèìàíí³ âèïèñêè";
-$MESS["SALE_PS_SERVICE_STATUS_ERROR"] = "Ïîìèëêà ïðè çàïèò³ ñòàòóñó ãîòîâíîñò³ âèïèñêè ïî ðàõóíêó";
+$MESS["SALE_PS_SERVICE_ERROR_CONNECT_PS"] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ° Ð¿Ñ–Ð´ÐºÐ»ÑŽÑ‡ÐµÐ½Ð½Ñ Ð´Ð¾ Ð¿Ð»Ð°Ñ‚Ñ–Ð¶Ð½Ð¾Ñ— ÑÐ¸ÑÑ‚ÐµÐ¼Ð¸";
+$MESS["SALE_PS_SERVICE_ERROR_HOLD_IS_NOT_SUPPORTED"] = "ÐžÐ±Ñ€Ð¾Ð±Ð»ÑŽÐ²Ð°Ñ‡ Ð½Ðµ Ð¿Ñ–Ð´Ñ‚Ñ€Ð¸Ð¼ÑƒÑ” Ñ€ÐµÐ¶Ð¸Ð¼ Ñ…Ð¾Ð»Ð´ÑƒÐ²Ð°Ð½Ð½Ñ";
+$MESS["SALE_PS_SERVICE_ERROR_PARTIAL_CONFIRM_IS_NOT_SUPPORTED"] = "ÐžÐ±Ñ€Ð¾Ð±Ð»ÑŽÐ²Ð°Ñ‡ Ð½Ðµ Ð¿Ñ–Ð´Ñ‚Ñ€Ð¸Ð¼ÑƒÑ” Ñ€ÐµÐ¶Ð¸Ð¼ Ñ…Ð¾Ð»Ð´ÑƒÐ²Ð°Ð½Ð½Ñ Ð· Ñ‡Ð°ÑÑ‚ÐºÐ¾Ð²Ð¸Ð¼ Ð¿Ñ–Ð´Ñ‚Ð²ÐµÑ€Ð´Ð¶ÐµÐ½Ð½ÑÐ¼ Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ñƒ";
+$MESS["SALE_PS_SERVICE_ORDER_CANCELED"] = "Ð—Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ â„–#ORDER_ID# ÑÐºÐ°ÑÐ¾Ð²Ð°Ð½Ð¾";
+$MESS["SALE_PS_SERVICE_ORDER_ERROR"] = "Ð—Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ â„–#ORDER_ID# Ð½Ðµ Ñ–ÑÐ½ÑƒÑ”";
+$MESS["SALE_PS_SERVICE_ORDER_ID_ERROR"] = "ÐÐµÐ¿Ñ€Ð°Ð²Ð¸Ð»ÑŒÐ½Ð¸Ð¹ ORDER ID";
+$MESS["SALE_PS_SERVICE_PAYMENT_ERROR_EMPTY"] = "ÐÐµ Ð²ÐºÐ°Ð·Ð°Ð½Ð° Ñ‡Ð°ÑÑ‚ÐºÐ¾Ð²Ð° Ð¾Ð¿Ð»Ð°Ñ‚Ð°";
+$MESS["SALE_PS_SERVICE_PAYMENT_ID_ERROR"] = "ÐÐµÐ¿Ñ€Ð°Ð²Ð¸Ð»ÑŒÐ½Ð¸Ð¹ PAYMENT ID";
+$MESS["SALE_PS_SERVICE_PAYMENT_NOT_PAID"] = "ÐÐµÐ¼Ð¾Ð¶Ð»Ð¸Ð²Ð¾ Ð²Ð¸ÐºÐ¾Ð½Ð°Ñ‚Ð¸ Ð¿Ð¾Ð²ÐµÑ€Ð½ÐµÐ½Ð½Ñ Ð´Ð»Ñ Ð½ÐµÐ¾Ð¿Ð»Ð°Ñ‡ÐµÐ½Ð¾Ñ— Ð¾Ð¿Ð»Ð°Ñ‚Ð¸";
+$MESS["SALE_PS_SERVICE_REQUEST_ERROR"] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ° Ð¿Ñ€Ð¸ Ð¾Ñ‚Ñ€Ð¸Ð¼Ð°Ð½Ð½Ñ– Ð²Ð¸Ð¿Ð¸ÑÐºÐ¸";
+$MESS["SALE_PS_SERVICE_STATUS_ERROR"] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ° Ð¿Ñ€Ð¸ Ð·Ð°Ð¿Ð¸Ñ‚Ñ– ÑÑ‚Ð°Ñ‚ÑƒÑÑƒ Ð³Ð¾Ñ‚Ð¾Ð²Ð½Ð¾ÑÑ‚Ñ– Ð²Ð¸Ð¿Ð¸ÑÐºÐ¸ Ð¿Ð¾ Ñ€Ð°Ñ…ÑƒÐ½ÐºÑƒ";

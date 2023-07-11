@@ -1,14 +1,14 @@
 <?php
-$MESS["ADV_CAMPAIGN_ENTITY_CAMPAIGN_ID_FIELD"] = "ID êàìïàíèè";
-$MESS["ADV_CAMPAIGN_ENTITY_GROUP_ID_FIELD"] = "ID ãðóïïû";
-$MESS["ADV_CAMPAIGN_ENTITY_AUTO_QUANTITY_OFF_FIELD"] = "Àâòîîòêëþ÷åíèå ïðè îêîí÷àíèè òîâàðà";
-$MESS["ADV_CAMPAIGN_ENTITY_AUTO_QUANTITY_ON_FIELD"] = "Àâòîâêëþ÷åíèå ïðè ïîÿâëåíèè òîâàðà";
-$MESS["SEO_BANNER_ERROR_NO_NAME"] = "Íå óêàçàí çàãîëîâîê îáúÿâëåíèÿ";
-$MESS["SEO_BANNER_ERROR_NO_TEXT"] = "Íå óêàçàí òåêñò îáúÿâëåíèÿ";
-$MESS["SEO_BANNER_ERROR_LONG_NAME"] = "Äëèíà çàãîëîâêà îáúÿâëåíèÿ íå äîëæíà ïðåâûøàòü #MAX# ñèìâîëà";
-$MESS["SEO_BANNER_ERROR_LONG_TEXT"] = "Äëèíà òåêñòà îáúÿâëåíèÿ íå äîëæíà ïðåâûøàòü #MAX# ñèìâîëîâ";
-$MESS["SEO_BANNER_ERROR_NO_HREF"] = "Íå óêàçàíà ññûëêà îáúÿâëåíèÿ";
-$MESS["SEO_BANNER_ERROR_NO_GEO"] = "Íå âûáðàí íè îäèí ðåãèîí ãåîãðàôè÷åñêîãî òàðãåòèíãà";
-$MESS["SEO_BANNER_ERROR_NO_PHRASES"] = "Íå óêàçàíû êëþ÷åâûå ôðàçû îáúÿâëåíèÿ";
-$MESS["SEO_CAMPAIGN_ERROR_BANNER_NOT_FOUND"] = "Îáúÿâëåíèå ¹#ID# íå íàéäåíî â ßíäåêñ.Äèðåêò!";
-$MESS["SEO_BANNER_ERROR_CAMPAIGN_NOT_FOUND"] = "Ðåêëàìíàÿ êàìïàíèÿ íå íàéäåíà";
+$MESS["ADV_CAMPAIGN_ENTITY_CAMPAIGN_ID_FIELD"] = "ID ÐºÐ°Ð¼Ð¿Ð°Ð½Ð¸Ð¸";
+$MESS["ADV_CAMPAIGN_ENTITY_GROUP_ID_FIELD"] = "ID Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
+$MESS["ADV_CAMPAIGN_ENTITY_AUTO_QUANTITY_OFF_FIELD"] = "ÐÐ²Ñ‚Ð¾Ð¾Ñ‚ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¸Ðµ Ð¿Ñ€Ð¸ Ð¾ÐºÐ¾Ð½Ñ‡Ð°Ð½Ð¸Ð¸ Ñ‚Ð¾Ð²Ð°Ñ€Ð°";
+$MESS["ADV_CAMPAIGN_ENTITY_AUTO_QUANTITY_ON_FIELD"] = "ÐÐ²Ñ‚Ð¾Ð²ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¸Ðµ Ð¿Ñ€Ð¸ Ð¿Ð¾ÑÐ²Ð»ÐµÐ½Ð¸Ð¸ Ñ‚Ð¾Ð²Ð°Ñ€Ð°";
+$MESS["SEO_BANNER_ERROR_NO_NAME"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ð·Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº Ð¾Ð±ÑŠÑÐ²Ð»ÐµÐ½Ð¸Ñ";
+$MESS["SEO_BANNER_ERROR_NO_TEXT"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ñ‚ÐµÐºÑÑ‚ Ð¾Ð±ÑŠÑÐ²Ð»ÐµÐ½Ð¸Ñ";
+$MESS["SEO_BANNER_ERROR_LONG_NAME"] = "Ð”Ð»Ð¸Ð½Ð° Ð·Ð°Ð³Ð¾Ð»Ð¾Ð²ÐºÐ° Ð¾Ð±ÑŠÑÐ²Ð»ÐµÐ½Ð¸Ñ Ð½Ðµ Ð´Ð¾Ð»Ð¶Ð½Ð° Ð¿Ñ€ÐµÐ²Ñ‹ÑˆÐ°Ñ‚ÑŒ #MAX# ÑÐ¸Ð¼Ð²Ð¾Ð»Ð°";
+$MESS["SEO_BANNER_ERROR_LONG_TEXT"] = "Ð”Ð»Ð¸Ð½Ð° Ñ‚ÐµÐºÑÑ‚Ð° Ð¾Ð±ÑŠÑÐ²Ð»ÐµÐ½Ð¸Ñ Ð½Ðµ Ð´Ð¾Ð»Ð¶Ð½Ð° Ð¿Ñ€ÐµÐ²Ñ‹ÑˆÐ°Ñ‚ÑŒ #MAX# ÑÐ¸Ð¼Ð²Ð¾Ð»Ð¾Ð²";
+$MESS["SEO_BANNER_ERROR_NO_HREF"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð° ÑÑÑ‹Ð»ÐºÐ° Ð¾Ð±ÑŠÑÐ²Ð»ÐµÐ½Ð¸Ñ";
+$MESS["SEO_BANNER_ERROR_NO_GEO"] = "ÐÐµ Ð²Ñ‹Ð±Ñ€Ð°Ð½ Ð½Ð¸ Ð¾Ð´Ð¸Ð½ Ñ€ÐµÐ³Ð¸Ð¾Ð½ Ð³ÐµÐ¾Ð³Ñ€Ð°Ñ„Ð¸Ñ‡ÐµÑÐºÐ¾Ð³Ð¾ Ñ‚Ð°Ñ€Ð³ÐµÑ‚Ð¸Ð½Ð³Ð°";
+$MESS["SEO_BANNER_ERROR_NO_PHRASES"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ñ‹ ÐºÐ»ÑŽÑ‡ÐµÐ²Ñ‹Ðµ Ñ„Ñ€Ð°Ð·Ñ‹ Ð¾Ð±ÑŠÑÐ²Ð»ÐµÐ½Ð¸Ñ";
+$MESS["SEO_CAMPAIGN_ERROR_BANNER_NOT_FOUND"] = "ÐžÐ±ÑŠÑÐ²Ð»ÐµÐ½Ð¸Ðµ â„–#ID# Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾ Ð² Ð¯Ð½Ð´ÐµÐºÑ.Ð”Ð¸Ñ€ÐµÐºÑ‚!";
+$MESS["SEO_BANNER_ERROR_CAMPAIGN_NOT_FOUND"] = "Ð ÐµÐºÐ»Ð°Ð¼Ð½Ð°Ñ ÐºÐ°Ð¼Ð¿Ð°Ð½Ð¸Ñ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð°";

@@ -1,19 +1,19 @@
 <?
-$MESS["SALE_YANDEX_INVOICE_SETTINGS_TITLE"] = "Налаштування безпеки для виставлення рахунків через Яндекс";
-$MESS["SALE_YANDEX_INVOICE_SETTINGS_BY_DEFAULT"] = "За замовчуванням";
-$MESS["SALE_YANDEX_INVOICE_SETTINGS_PT"] = "Тип платника";
-$MESS["SALE_YANDEX_INVOICE_SETTINGS_ERROR_SHOP_ID"] = "Для продовження необхідно заповнити налаштування обробника платіжної системи для даного типу платника:<br> <ul><li>Ідентифікатор магазину в ЦПП (ShopID)</li></ul>";
-$MESS["SPSN_2FLIST"] = "Повернутися до платіжної системи";
-$MESS["SALE_YANDEX_INVOICE_SETTINGS_SUBTITLE"] = "Генерація ключової пари";
-$MESS["SALE_YANDEX_INVOICE_SETTINGS_SAVE"] = "Зберегти";
-$MESS["SALE_YANDEX_INVOICE_SETTINGS_PUB_KEY"] = "Публічний ключ, який необхідно відправити Яндексу";
-$MESS["SALE_YANDEX_INVOICE_SETTINGS_DOWNLOAD"] = "Завантажити";
-$MESS["SALE_YANDEX_INVOICE_SETTINGS_PKEY"] = "Приватний ключ";
-$MESS["SALE_YANDEX_INVOICE_SETTINGS_PKEY_GENERATE"] = "Згенерувати";
-$MESS["SALE_YANDEX_INVOICE_SETTINGS_PUB_KEY_YA"] = "Публічний ключ, отриманий від Яндекса";
-$MESS["SALE_YANDEX_INVOICE_SETTINGS_ERROR_PUBLIC_KEY_LOAD"] = "Помилка при завантаженні публічного ключа";
-$MESS["SALE_YANDEX_INVOICE_SETTINGS_PUBLIC_KEY_OK"] = "Ключ успішно завантажено";
-$MESS["SALE_YANDEX_INVOICE_SETTINGS_DEL"] = "Видалити";
-$MESS["SALE_YANDEX_INVOICE_SETTINGS_RESET_TITLE"] = "Скинути всі налаштування";
-$MESS["SALE_YANDEX_INVOICE_SETTINGS_RESET"] = "Скинути";
+$MESS["SALE_YANDEX_INVOICE_SETTINGS_TITLE"] = "РќР°Р»Р°С€С‚СѓРІР°РЅРЅСЏ Р±РµР·РїРµРєРё РґР»СЏ РІРёСЃС‚Р°РІР»РµРЅРЅСЏ СЂР°С…СѓРЅРєС–РІ С‡РµСЂРµР· РЇРЅРґРµРєСЃ";
+$MESS["SALE_YANDEX_INVOICE_SETTINGS_BY_DEFAULT"] = "Р—Р° Р·Р°РјРѕРІС‡СѓРІР°РЅРЅСЏРј";
+$MESS["SALE_YANDEX_INVOICE_SETTINGS_PT"] = "РўРёРї РїР»Р°С‚РЅРёРєР°";
+$MESS["SALE_YANDEX_INVOICE_SETTINGS_ERROR_SHOP_ID"] = "Р”Р»СЏ РїСЂРѕРґРѕРІР¶РµРЅРЅСЏ РЅРµРѕР±С…С–РґРЅРѕ Р·Р°РїРѕРІРЅРёС‚Рё РЅР°Р»Р°С€С‚СѓРІР°РЅРЅСЏ РѕР±СЂРѕР±РЅРёРєР° РїР»Р°С‚С–Р¶РЅРѕС— СЃРёСЃС‚РµРјРё РґР»СЏ РґР°РЅРѕРіРѕ С‚РёРїСѓ РїР»Р°С‚РЅРёРєР°:<br> <ul><li>Р†РґРµРЅС‚РёС„С–РєР°С‚РѕСЂ РјР°РіР°Р·РёРЅСѓ РІ Р¦РџРџ (ShopID)</li></ul>";
+$MESS["SPSN_2FLIST"] = "РџРѕРІРµСЂРЅСѓС‚РёСЃСЏ РґРѕ РїР»Р°С‚С–Р¶РЅРѕС— СЃРёСЃС‚РµРјРё";
+$MESS["SALE_YANDEX_INVOICE_SETTINGS_SUBTITLE"] = "Р“РµРЅРµСЂР°С†С–СЏ РєР»СЋС‡РѕРІРѕС— РїР°СЂРё";
+$MESS["SALE_YANDEX_INVOICE_SETTINGS_SAVE"] = "Р—Р±РµСЂРµРіС‚Рё";
+$MESS["SALE_YANDEX_INVOICE_SETTINGS_PUB_KEY"] = "РџСѓР±Р»С–С‡РЅРёР№ РєР»СЋС‡, СЏРєРёР№ РЅРµРѕР±С…С–РґРЅРѕ РІС–РґРїСЂР°РІРёС‚Рё РЇРЅРґРµРєСЃСѓ";
+$MESS["SALE_YANDEX_INVOICE_SETTINGS_DOWNLOAD"] = "Р—Р°РІР°РЅС‚Р°Р¶РёС‚Рё";
+$MESS["SALE_YANDEX_INVOICE_SETTINGS_PKEY"] = "РџСЂРёРІР°С‚РЅРёР№ РєР»СЋС‡";
+$MESS["SALE_YANDEX_INVOICE_SETTINGS_PKEY_GENERATE"] = "Р—РіРµРЅРµСЂСѓРІР°С‚Рё";
+$MESS["SALE_YANDEX_INVOICE_SETTINGS_PUB_KEY_YA"] = "РџСѓР±Р»С–С‡РЅРёР№ РєР»СЋС‡, РѕС‚СЂРёРјР°РЅРёР№ РІС–Рґ РЇРЅРґРµРєСЃР°";
+$MESS["SALE_YANDEX_INVOICE_SETTINGS_ERROR_PUBLIC_KEY_LOAD"] = "РџРѕРјРёР»РєР° РїСЂРё Р·Р°РІР°РЅС‚Р°Р¶РµРЅРЅС– РїСѓР±Р»С–С‡РЅРѕРіРѕ РєР»СЋС‡Р°";
+$MESS["SALE_YANDEX_INVOICE_SETTINGS_PUBLIC_KEY_OK"] = "РљР»СЋС‡ СѓСЃРїС–С€РЅРѕ Р·Р°РІР°РЅС‚Р°Р¶РµРЅРѕ";
+$MESS["SALE_YANDEX_INVOICE_SETTINGS_DEL"] = "Р’РёРґР°Р»РёС‚Рё";
+$MESS["SALE_YANDEX_INVOICE_SETTINGS_RESET_TITLE"] = "РЎРєРёРЅСѓС‚Рё РІСЃС– РЅР°Р»Р°С€С‚СѓРІР°РЅРЅСЏ";
+$MESS["SALE_YANDEX_INVOICE_SETTINGS_RESET"] = "РЎРєРёРЅСѓС‚Рё";
 ?>

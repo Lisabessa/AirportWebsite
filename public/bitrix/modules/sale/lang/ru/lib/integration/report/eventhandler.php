@@ -1,1 +1,1 @@
-<?$MESS["SALE_REPORT_INTERNET_SHOP_BATCH_TITLE"] = "Èíòåðíåò-ìàãàçèí";
+<?$MESS["SALE_REPORT_INTERNET_SHOP_BATCH_TITLE"] = "Ð˜Ð½Ñ‚ÐµÑ€Ð½ÐµÑ‚-Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½";

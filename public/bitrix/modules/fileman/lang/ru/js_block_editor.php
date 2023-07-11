@@ -1,14 +1,14 @@
 <?php
 
-$MESS["BLOCK_EDITOR_PLACE_DROP_ZONE"] = "Ïåðåòÿíèòå áëîê ñþäà";
-$MESS["BLOCK_EDITOR_BLOCK_ACTION_MOVE"] = "Ïåðåìåñòèòü";
-$MESS["BLOCK_EDITOR_BLOCK_ACTION_REMOVE"] = "Óäàëèòü";
-$MESS["BLOCK_EDITOR_BLOCK_ACTION_COPY"] = "Êîïèðîâàòü";
-$MESS["BLOCK_EDITOR_BLOCK_ACTION_EDIT"] = "Ðåäàêòèðîâàòü";
+$MESS["BLOCK_EDITOR_PLACE_DROP_ZONE"] = "ÐŸÐµÑ€ÐµÑ‚ÑÐ½Ð¸Ñ‚Ðµ Ð±Ð»Ð¾Ðº ÑÑŽÐ´Ð°";
+$MESS["BLOCK_EDITOR_BLOCK_ACTION_MOVE"] = "ÐŸÐµÑ€ÐµÐ¼ÐµÑÑ‚Ð¸Ñ‚ÑŒ";
+$MESS["BLOCK_EDITOR_BLOCK_ACTION_REMOVE"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";
+$MESS["BLOCK_EDITOR_BLOCK_ACTION_COPY"] = "ÐšÐ¾Ð¿Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ";
+$MESS["BLOCK_EDITOR_BLOCK_ACTION_EDIT"] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ";
 
-$MESS["BLOCK_EDITOR_PLACE_CAPTION_PAGE"] = "Âñ¸ ïèñüìî";
-$MESS["BLOCK_EDITOR_PLACE_CAPTION_HEADER"] = "Õåäåð";
-$MESS["BLOCK_EDITOR_PLACE_CAPTION_BODY"] = "Öåíòð";
-$MESS["BLOCK_EDITOR_PLACE_CAPTION_LEFTCOLUMN"] = "Ëåâàÿ êîëîíêà";
-$MESS["BLOCK_EDITOR_PLACE_CAPTION_RIGHTCOLUMN"] = "Ïðàâàÿ êîëîíêà";
-$MESS["BLOCK_EDITOR_PLACE_CAPTION_FOOTER"] = "Ôóòåð";
+$MESS["BLOCK_EDITOR_PLACE_CAPTION_PAGE"] = "Ð’ÑÑ‘ Ð¿Ð¸ÑÑŒÐ¼Ð¾";
+$MESS["BLOCK_EDITOR_PLACE_CAPTION_HEADER"] = "Ð¥ÐµÐ´ÐµÑ€";
+$MESS["BLOCK_EDITOR_PLACE_CAPTION_BODY"] = "Ð¦ÐµÐ½Ñ‚Ñ€";
+$MESS["BLOCK_EDITOR_PLACE_CAPTION_LEFTCOLUMN"] = "Ð›ÐµÐ²Ð°Ñ ÐºÐ¾Ð»Ð¾Ð½ÐºÐ°";
+$MESS["BLOCK_EDITOR_PLACE_CAPTION_RIGHTCOLUMN"] = "ÐŸÑ€Ð°Ð²Ð°Ñ ÐºÐ¾Ð»Ð¾Ð½ÐºÐ°";
+$MESS["BLOCK_EDITOR_PLACE_CAPTION_FOOTER"] = "Ð¤ÑƒÑ‚ÐµÑ€";

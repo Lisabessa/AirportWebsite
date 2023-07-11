@@ -1,7 +1,7 @@
 <?
-$MESS["SALE_SHIPMENT_EXIST_SHIPPED"] = "Â³äâàíòàæåííÿ âæå â³äâàíòàæåíî. Â³äì³í³òü â³äâàíòàæåííÿ";
-$MESS["SALE_SHIPMENT_WRONG_DELIVERY_SERVICE"] = "Âêàçàíà íåâ³ðíà ñëóæáà äîñòàâêè";
-$MESS["SALE_SHIPMENT_QUANTITY_MISMATCH"] = "Íå â³äïîâ³äàº ê³ëüê³ñòü òîâàðó \"#NAME#: ó â³äâàíòàæåííÿ ïåðåíîñèòüñÿ #QUANTITY#";
-$MESS["SALE_SHIPMENT_SYSTEM_QUANTITY_ERROR"] = "Â ñèñòåìíîìó â³äâàíòàæåíí³ òîâàð #NAME# ïåðåáóâàº â ê³ëüêîñò³ #QUANTITY#, à ê³ëüê³ñòü çìåíøóºòüñÿ íà #DELTA_QUANTITY#";
-$MESS["SALE_SHIPMENT_DELIVERY_SERVICE_EMPTY"] = "Ñëóæáà äîñòàâêè íå âêàçàíà";
+$MESS["SALE_SHIPMENT_EXIST_SHIPPED"] = "Ð’Ñ–Ð´Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ Ð²Ð¶Ðµ Ð²Ñ–Ð´Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð¾. Ð’Ñ–Ð´Ð¼Ñ–Ð½Ñ–Ñ‚ÑŒ Ð²Ñ–Ð´Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ";
+$MESS["SALE_SHIPMENT_WRONG_DELIVERY_SERVICE"] = "Ð’ÐºÐ°Ð·Ð°Ð½Ð° Ð½ÐµÐ²Ñ–Ñ€Ð½Ð° ÑÐ»ÑƒÐ¶Ð±Ð° Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸";
+$MESS["SALE_SHIPMENT_QUANTITY_MISMATCH"] = "ÐÐµ Ð²Ñ–Ð´Ð¿Ð¾Ð²Ñ–Ð´Ð°Ñ” ÐºÑ–Ð»ÑŒÐºÑ–ÑÑ‚ÑŒ Ñ‚Ð¾Ð²Ð°Ñ€Ñƒ \"#NAME#: Ñƒ Ð²Ñ–Ð´Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ Ð¿ÐµÑ€ÐµÐ½Ð¾ÑÐ¸Ñ‚ÑŒÑÑ #QUANTITY#";
+$MESS["SALE_SHIPMENT_SYSTEM_QUANTITY_ERROR"] = "Ð’ ÑÐ¸ÑÑ‚ÐµÐ¼Ð½Ð¾Ð¼Ñƒ Ð²Ñ–Ð´Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ– Ñ‚Ð¾Ð²Ð°Ñ€ #NAME# Ð¿ÐµÑ€ÐµÐ±ÑƒÐ²Ð°Ñ” Ð² ÐºÑ–Ð»ÑŒÐºÐ¾ÑÑ‚Ñ– #QUANTITY#, Ð° ÐºÑ–Ð»ÑŒÐºÑ–ÑÑ‚ÑŒ Ð·Ð¼ÐµÐ½ÑˆÑƒÑ”Ñ‚ÑŒÑÑ Ð½Ð° #DELTA_QUANTITY#";
+$MESS["SALE_SHIPMENT_DELIVERY_SERVICE_EMPTY"] = "Ð¡Ð»ÑƒÐ¶Ð±Ð° Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸ Ð½Ðµ Ð²ÐºÐ°Ð·Ð°Ð½Ð°";
 ?>

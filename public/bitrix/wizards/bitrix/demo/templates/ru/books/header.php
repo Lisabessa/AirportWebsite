@@ -17,7 +17,7 @@
 			Array("MODE"=>"html")
 		);?> </div>
 
-	<a href="/" title="Главная" id="company_logo"></a>
+	<a href="/" title="Р“Р»Р°РІРЅР°СЏ" id="company_logo"></a>
 
   <div id="header_menu"><?$APPLICATION->IncludeFile(
 			$APPLICATION->GetTemplatePath("include_areas/header_icons.php"),
@@ -65,7 +65,7 @@
 	<!-- SOCIALNETWORK -->
 
         <div class="content-block">
-          <div class="content-block-head">Поиск по сайту</div>
+          <div class="content-block-head">РџРѕРёСЃРє РїРѕ СЃР°Р№С‚Сѓ</div>
 
           <div class="content-block-body"><?$APPLICATION->IncludeComponent(
 	"bitrix:search.form",
@@ -77,7 +77,7 @@
         </div>
       
         <div class="content-block">
-          <div class="content-block-head">Авторизация</div>
+          <div class="content-block-head">РђРІС‚РѕСЂРёР·Р°С†РёСЏ</div>
         
           <div class="content-block-body"><?$APPLICATION->IncludeComponent(
 	"bitrix:system.auth.form",

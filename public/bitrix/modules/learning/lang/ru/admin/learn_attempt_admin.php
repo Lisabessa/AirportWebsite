@@ -1,17 +1,17 @@
 <?
-$MESS ['LEARNING_ADMIN_TITLE'] = "Ñïèñîê ïîïûòîê";
-$MESS ['LEARNING_ADMIN_RESULTS'] = "Ïîïûòêè";
-$MESS ['LEARNING_ADMIN_MENU_RESULTS'] = "Ðåçóëüòàòû";
-$MESS ['LEARNING_ERROR'] = "Îøèáêà ïðè ñîõðàíåíèè ïîïûòêè";
-$MESS ['SAVE_ERROR'] = "Îøèáêà ïðè èçìåíåíèè ïîïûòêè #";
-$MESS ['LEARNING_ADMIN_DATE_START'] = "Äàòà íà÷àëà";
-$MESS ['LEARNING_ADMIN_DATE_END'] = "Äàòà êîíöà";
-$MESS ['LEARNING_ADMIN_STUDENT'] = "Ó÷àùèéñÿ";
-$MESS ['LEARNING_ADMIN_STATUS'] = "Ñòàòóñ";
-$MESS ['LEARNING_ADMIN_SCORE'] = "Áàëëîâ";
-$MESS ['LEARNING_ADMIN_MAX_SCORE'] = "Ìàêñ. áàëëîâ";
-$MESS ['LEARNING_ADMIN_TEST'] = "Òåñò";
-$MESS ['LEARNING_ADMIN_QUESTIONS'] = "Âîïðîñîâ";
-$MESS ['LEARNING_ADMIN_COMPLETED'] = "Òåñò ïðîéäåí";
-$MESS ['LEARNING_ADMIN_ATTEMPT_SPEED'] = "Ñðåäíåå âðåìÿ îòâåòà (ñåê.)";
+$MESS ['LEARNING_ADMIN_TITLE'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð¿Ð¾Ð¿Ñ‹Ñ‚Ð¾Ðº";
+$MESS ['LEARNING_ADMIN_RESULTS'] = "ÐŸÐ¾Ð¿Ñ‹Ñ‚ÐºÐ¸";
+$MESS ['LEARNING_ADMIN_MENU_RESULTS'] = "Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ñ‹";
+$MESS ['LEARNING_ERROR'] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð¸Ð¸ Ð¿Ð¾Ð¿Ñ‹Ñ‚ÐºÐ¸";
+$MESS ['SAVE_ERROR'] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ð¸ Ð¿Ð¾Ð¿Ñ‹Ñ‚ÐºÐ¸ #";
+$MESS ['LEARNING_ADMIN_DATE_START'] = "Ð”Ð°Ñ‚Ð° Ð½Ð°Ñ‡Ð°Ð»Ð°";
+$MESS ['LEARNING_ADMIN_DATE_END'] = "Ð”Ð°Ñ‚Ð° ÐºÐ¾Ð½Ñ†Ð°";
+$MESS ['LEARNING_ADMIN_STUDENT'] = "Ð£Ñ‡Ð°Ñ‰Ð¸Ð¹ÑÑ";
+$MESS ['LEARNING_ADMIN_STATUS'] = "Ð¡Ñ‚Ð°Ñ‚ÑƒÑ";
+$MESS ['LEARNING_ADMIN_SCORE'] = "Ð‘Ð°Ð»Ð»Ð¾Ð²";
+$MESS ['LEARNING_ADMIN_MAX_SCORE'] = "ÐœÐ°ÐºÑ. Ð±Ð°Ð»Ð»Ð¾Ð²";
+$MESS ['LEARNING_ADMIN_TEST'] = "Ð¢ÐµÑÑ‚";
+$MESS ['LEARNING_ADMIN_QUESTIONS'] = "Ð’Ð¾Ð¿Ñ€Ð¾ÑÐ¾Ð²";
+$MESS ['LEARNING_ADMIN_COMPLETED'] = "Ð¢ÐµÑÑ‚ Ð¿Ñ€Ð¾Ð¹Ð´ÐµÐ½";
+$MESS ['LEARNING_ADMIN_ATTEMPT_SPEED'] = "Ð¡Ñ€ÐµÐ´Ð½ÐµÐµ Ð²Ñ€ÐµÐ¼Ñ Ð¾Ñ‚Ð²ÐµÑ‚Ð° (ÑÐµÐº.)";
 ?>

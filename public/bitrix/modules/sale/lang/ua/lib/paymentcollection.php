@@ -1,3 +1,3 @@
 <?
-$MESS["SALE_ORDER_CANCEL_PAYMENT_EXIST_ACTIVE"] = "Ó çàìîâëåííÿ º àêòèâí³ îïëàòè";
+$MESS["SALE_ORDER_CANCEL_PAYMENT_EXIST_ACTIVE"] = "Ð£ Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ Ñ” Ð°ÐºÑ‚Ð¸Ð²Ð½Ñ– Ð¾Ð¿Ð»Ð°Ñ‚Ð¸";
 ?>

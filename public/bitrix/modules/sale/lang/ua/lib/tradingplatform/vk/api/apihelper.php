@@ -1,3 +1,3 @@
 <?
-$MESS["SALE_VK_CHANGE_GROUP"] = "Îáåð³òü ãðóïó";
+$MESS["SALE_VK_CHANGE_GROUP"] = "ÐžÐ±ÐµÑ€Ñ–Ñ‚ÑŒ Ð³Ñ€ÑƒÐ¿Ñƒ";
 ?>

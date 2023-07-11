@@ -1,5 +1,5 @@
 <?
-$MESS["BX_SALE_TOOLS_GEN_CPN_ERR_USER"] = "Íåâîçìîæíî îïðåäåëèòü ïîëüçîâàòåëÿ";
-$MESS["BX_SALE_TOOLS_GEN_CPN_ERR_AUTH"] = "Âû íå àâòîðèçîâàíû";
-$MESS["BX_SALE_TOOLS_GEN_CPN_ERR_SESSION"] = "Âàøà ñåññèÿ èñòåêëà, ïîâòîðèòå ïîïûòêó àâòîðèçàöèè";
-$MESS["BX_SALE_TOOLS_GEN_CPN_ERR_MODULE"] = "Íåâîçìîæíî ïîäêëþ÷èòü ìîäóëü Èíòåðíåò-ìàãàçèíà";
+$MESS["BX_SALE_TOOLS_GEN_CPN_ERR_USER"] = "ÐÐµÐ²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ Ð¾Ð¿Ñ€ÐµÐ´ÐµÐ»Ð¸Ñ‚ÑŒ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
+$MESS["BX_SALE_TOOLS_GEN_CPN_ERR_AUTH"] = "Ð’Ñ‹ Ð½Ðµ Ð°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·Ð¾Ð²Ð°Ð½Ñ‹";
+$MESS["BX_SALE_TOOLS_GEN_CPN_ERR_SESSION"] = "Ð’Ð°ÑˆÐ° ÑÐµÑÑÐ¸Ñ Ð¸ÑÑ‚ÐµÐºÐ»Ð°, Ð¿Ð¾Ð²Ñ‚Ð¾Ñ€Ð¸Ñ‚Ðµ Ð¿Ð¾Ð¿Ñ‹Ñ‚ÐºÑƒ Ð°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·Ð°Ñ†Ð¸Ð¸";
+$MESS["BX_SALE_TOOLS_GEN_CPN_ERR_MODULE"] = "ÐÐµÐ²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ Ð¿Ð¾Ð´ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ Ð¼Ð¾Ð´ÑƒÐ»ÑŒ Ð˜Ð½Ñ‚ÐµÑ€Ð½ÐµÑ‚-Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ð°";

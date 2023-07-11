@@ -1,3 +1,3 @@
 <?php
-$MESS["EC_ATTENDEES_LIST_TITLE"] = "Ñîñòàâ ó÷àñòíèêîâ";
-$MESS["EC_ORGANIZER_NAME_TITLE"] = "Îðãàíèçàòîð";
+$MESS["EC_ATTENDEES_LIST_TITLE"] = "Ð¡Ð¾ÑÑ‚Ð°Ð² ÑƒÑ‡Ð°ÑÑ‚Ð½Ð¸ÐºÐ¾Ð²";
+$MESS["EC_ORGANIZER_NAME_TITLE"] = "ÐžÑ€Ð³Ð°Ð½Ð¸Ð·Ð°Ñ‚Ð¾Ñ€";

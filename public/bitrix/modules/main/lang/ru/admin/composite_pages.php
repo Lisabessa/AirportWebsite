@@ -1,5 +1,5 @@
 <?
-$MESS["MAIN_COMPOSITE_PAGES_TITLE"] = "Êîìïîçèòíûå ñòðàíèöû";
-$MESS["MAIN_COMPOSITE_PAGES_PAGES"] = "Ñòðàíèöû";
-$MESS["MAIN_COMPOSITE_PAGES_PAGE"] = "Ñòðàíèöà";
-$MESS["MAIN_COMPOSITE_DELETE_ALL_CACHE"] = "Î÷èñòèòü âåñü êåø";
+$MESS["MAIN_COMPOSITE_PAGES_TITLE"] = "ÐšÐ¾Ð¼Ð¿Ð¾Ð·Ð¸Ñ‚Ð½Ñ‹Ðµ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹";
+$MESS["MAIN_COMPOSITE_PAGES_PAGES"] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹";
+$MESS["MAIN_COMPOSITE_PAGES_PAGE"] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð°";
+$MESS["MAIN_COMPOSITE_DELETE_ALL_CACHE"] = "ÐžÑ‡Ð¸ÑÑ‚Ð¸Ñ‚ÑŒ Ð²ÐµÑÑŒ ÐºÐµÑˆ";

@@ -7,9 +7,9 @@ if (is_string($_REQUEST["backurl"]) && mb_strpos($_REQUEST["backurl"], "/") === 
 	LocalRedirect($_REQUEST["backurl"]);
 }
 
-$APPLICATION->SetTitle("Вход на сайт");
+$APPLICATION->SetTitle("Р’С…РѕРґ РЅР° СЃР°Р№С‚");
 ?>
-<p class="notetext">Вы зарегистрированы и успешно авторизовались.</p>
+<p class="notetext">Р’С‹ Р·Р°СЂРµРіРёСЃС‚СЂРёСЂРѕРІР°РЅС‹ Рё СѓСЃРїРµС€РЅРѕ Р°РІС‚РѕСЂРёР·РѕРІР°Р»РёСЃСЊ.</p>
 
-<p><a href="/">Вернуться на главную страницу</a></p>
+<p><a href="/">Р’РµСЂРЅСѓС‚СЊСЃСЏ РЅР° РіР»Р°РІРЅСѓСЋ СЃС‚СЂР°РЅРёС†Сѓ</a></p>
 <?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

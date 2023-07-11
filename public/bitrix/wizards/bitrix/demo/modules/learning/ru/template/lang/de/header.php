@@ -1,6 +1,6 @@
 <?
 $MESS ['LEARNING_ALL_COURSE_CONTENTS'] = "Alle Kursinhalte";
-$MESS ['LEARNING_BACK'] = "Zurück";
+$MESS ['LEARNING_BACK'] = "ZurÑŒck";
 $MESS ['LEARNING_CURRENT_LESSON'] = "Absolvierte Lektionen";
 $MESS ['LEARNING_COURSE_DESCRIPTION'] = "Kursbeschreibung";
 $MESS ['LEARNING_LOGO_TEXT'] = "Kurs";

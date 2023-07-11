@@ -1,3 +1,3 @@
 <?
-$MESS ['DefaultColor'] = "По умолчанию";
+$MESS ['DefaultColor'] = "РџРѕ СѓРјРѕР»С‡Р°РЅРёСЋ";
 ?>

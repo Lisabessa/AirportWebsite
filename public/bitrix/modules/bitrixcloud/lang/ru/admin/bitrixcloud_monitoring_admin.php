@@ -1,19 +1,19 @@
 <?
-$MESS ['BCL_MONITORING_TITLE'] = "Èíñïåêòîð ñàéòîâ";
-$MESS ['BCL_MONITORING_DOMAIN'] = "Äîìåí";
-$MESS ['BCL_MONITORING_LICENSE'] = "Ëèöåíçèÿ èñòåêàåò ÷åðåç:";
-$MESS ['BCL_MONITORING_START'] = "Äîáàâèòü ñàéò äëÿ èíñïåêòèðîâàíèÿ";
-$MESS ['BCL_MONITORING_NO_DOMAINS_CONFIGURED'] = "Íè ó îäíîãî èç ñàéòîâ íå íàñòðîåí íè îäèí äîìåí.";
-$MESS ['BCL_MONITORING_DELETE'] = "Óäàëèòü";
-$MESS ['BCL_MONITORING_DELETE_CONF'] = "Âû óâåðåíû, ÷òî õîòèòå îòìåíèòü èíñïåêòèðîâàíèå äîìåíà?";
-$MESS ['BCL_MONITORING_EDIT'] = "Èçìåíèòü";
-$MESS ['BCL_MONITORING_DOMAIN_REGISTRATION'] = "Ðåãèñòðàöèÿ äîìåíà èñòåêàåò ÷åðåç:";
-$MESS ['BCL_MONITORING_SSL'] = "SSL ñåðòèôèêàò èñòåêàåò ÷åðåç:";
-$MESS ['BCL_MONITORING_RESPONSE_TIME'] = "Ðàáîòîñïîñîáíîñòü ñàéòà";
-$MESS ['BCL_MONITORING_NO_DATA'] = "ïîêà íåò äàííûõ";
-$MESS ['BCL_MONITORING_NO_DATA_AVAILABLE'] = "íåâîçìîæíî îïðåäåëèòü";
-$MESS ['BCL_MONITORING_RESULT'] = "Ðåçóëüòàòû èíñïåêòèðîâàíèÿ";
-$MESS ['BCL_MONITORING_PERIOD'] = "Ïåðèîä èçìåðåíèé:";
-$MESS ['BCL_MONITORING_FAILED_PERIOD'] = "Âðåìÿ ïðîñòîÿ:";
-$MESS ['BCL_MONITORING_DOMAIN_REGISTRATION_NOTE'] = "Äëÿ íåêîòîðûõ äîìåííûõ çîí âðåìÿ îêîí÷àíèÿ ðåãèñòðàöèè äîìåíà íå ìîæåò áûòü îïðåäåëåíî, òàê êàê ýòó èíôîðìàöèþ íå îòîáðàæàåò ðåãèñòðàòîð äîìåíà.";
+$MESS ['BCL_MONITORING_TITLE'] = "Ð˜Ð½ÑÐ¿ÐµÐºÑ‚Ð¾Ñ€ ÑÐ°Ð¹Ñ‚Ð¾Ð²";
+$MESS ['BCL_MONITORING_DOMAIN'] = "Ð”Ð¾Ð¼ÐµÐ½";
+$MESS ['BCL_MONITORING_LICENSE'] = "Ð›Ð¸Ñ†ÐµÐ½Ð·Ð¸Ñ Ð¸ÑÑ‚ÐµÐºÐ°ÐµÑ‚ Ñ‡ÐµÑ€ÐµÐ·:";
+$MESS ['BCL_MONITORING_START'] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ ÑÐ°Ð¹Ñ‚ Ð´Ð»Ñ Ð¸Ð½ÑÐ¿ÐµÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ";
+$MESS ['BCL_MONITORING_NO_DOMAINS_CONFIGURED'] = "ÐÐ¸ Ñƒ Ð¾Ð´Ð½Ð¾Ð³Ð¾ Ð¸Ð· ÑÐ°Ð¹Ñ‚Ð¾Ð² Ð½Ðµ Ð½Ð°ÑÑ‚Ñ€Ð¾ÐµÐ½ Ð½Ð¸ Ð¾Ð´Ð¸Ð½ Ð´Ð¾Ð¼ÐµÐ½.";
+$MESS ['BCL_MONITORING_DELETE'] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";
+$MESS ['BCL_MONITORING_DELETE_CONF'] = "Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹, Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ Ð¾Ñ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ð¸Ð½ÑÐ¿ÐµÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð´Ð¾Ð¼ÐµÐ½Ð°?";
+$MESS ['BCL_MONITORING_EDIT'] = "Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
+$MESS ['BCL_MONITORING_DOMAIN_REGISTRATION'] = "Ð ÐµÐ³Ð¸ÑÑ‚Ñ€Ð°Ñ†Ð¸Ñ Ð´Ð¾Ð¼ÐµÐ½Ð° Ð¸ÑÑ‚ÐµÐºÐ°ÐµÑ‚ Ñ‡ÐµÑ€ÐµÐ·:";
+$MESS ['BCL_MONITORING_SSL'] = "SSL ÑÐµÑ€Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚ Ð¸ÑÑ‚ÐµÐºÐ°ÐµÑ‚ Ñ‡ÐµÑ€ÐµÐ·:";
+$MESS ['BCL_MONITORING_RESPONSE_TIME'] = "Ð Ð°Ð±Ð¾Ñ‚Ð¾ÑÐ¿Ð¾ÑÐ¾Ð±Ð½Ð¾ÑÑ‚ÑŒ ÑÐ°Ð¹Ñ‚Ð°";
+$MESS ['BCL_MONITORING_NO_DATA'] = "Ð¿Ð¾ÐºÐ° Ð½ÐµÑ‚ Ð´Ð°Ð½Ð½Ñ‹Ñ…";
+$MESS ['BCL_MONITORING_NO_DATA_AVAILABLE'] = "Ð½ÐµÐ²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ Ð¾Ð¿Ñ€ÐµÐ´ÐµÐ»Ð¸Ñ‚ÑŒ";
+$MESS ['BCL_MONITORING_RESULT'] = "Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ñ‹ Ð¸Ð½ÑÐ¿ÐµÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ";
+$MESS ['BCL_MONITORING_PERIOD'] = "ÐŸÐµÑ€Ð¸Ð¾Ð´ Ð¸Ð·Ð¼ÐµÑ€ÐµÐ½Ð¸Ð¹:";
+$MESS ['BCL_MONITORING_FAILED_PERIOD'] = "Ð’Ñ€ÐµÐ¼Ñ Ð¿Ñ€Ð¾ÑÑ‚Ð¾Ñ:";
+$MESS ['BCL_MONITORING_DOMAIN_REGISTRATION_NOTE'] = "Ð”Ð»Ñ Ð½ÐµÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ñ… Ð´Ð¾Ð¼ÐµÐ½Ð½Ñ‹Ñ… Ð·Ð¾Ð½ Ð²Ñ€ÐµÐ¼Ñ Ð¾ÐºÐ¾Ð½Ñ‡Ð°Ð½Ð¸Ñ Ñ€ÐµÐ³Ð¸ÑÑ‚Ñ€Ð°Ñ†Ð¸Ð¸ Ð´Ð¾Ð¼ÐµÐ½Ð° Ð½Ðµ Ð¼Ð¾Ð¶ÐµÑ‚ Ð±Ñ‹Ñ‚ÑŒ Ð¾Ð¿Ñ€ÐµÐ´ÐµÐ»ÐµÐ½Ð¾, Ñ‚Ð°Ðº ÐºÐ°Ðº ÑÑ‚Ñƒ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸ÑŽ Ð½Ðµ Ð¾Ñ‚Ð¾Ð±Ñ€Ð°Ð¶Ð°ÐµÑ‚ Ñ€ÐµÐ³Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¾Ñ€ Ð´Ð¾Ð¼ÐµÐ½Ð°.";
 ?>

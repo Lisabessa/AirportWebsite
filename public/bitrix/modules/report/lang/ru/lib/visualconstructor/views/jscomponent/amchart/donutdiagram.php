@@ -1,2 +1,2 @@
 <?php
-$MESS['REPORT_DONUT_DIAGRAM_VIEW_LABEL'] = 'Êîëüöåâàÿ äèàãðàììà';
+$MESS['REPORT_DONUT_DIAGRAM_VIEW_LABEL'] = 'ÐšÐ¾Ð»ÑŒÑ†ÐµÐ²Ð°Ñ Ð´Ð¸Ð°Ð³Ñ€Ð°Ð¼Ð¼Ð°';

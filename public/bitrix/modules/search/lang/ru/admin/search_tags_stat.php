@@ -1,12 +1,12 @@
 <?
-$MESS["SEARCH_TAGSTAT_TITLE"] = "Ñòàòèñòèêà ïîèñêîâûõ ôðàç";
+$MESS["SEARCH_TAGSTAT_TITLE"] = "Ð¡Ñ‚Ð°Ñ‚Ð¸ÑÑ‚Ð¸ÐºÐ° Ð¿Ð¾Ð¸ÑÐºÐ¾Ð²Ñ‹Ñ… Ñ„Ñ€Ð°Ð·";
 $MESS["SEARCH_TAGSTAT_ID"] = "ID";
-$MESS["SEARCH_TAGSTAT_DATE"] = "Äàòà";
-$MESS["SEARCH_TAGSTAT_SITE_ID"] = "Ñàéò";
-$MESS["SEARCH_TAGSTAT_SITE"] = "(ñàéò)";
-$MESS["SEARCH_TAGSTAT_TAGS"] = "Òåãè";
-$MESS["SEARCH_TAGSTAT_STAT_SESS_ID"] = "ID ñåññèè";
-$MESS["SEARCH_TAGSTAT_URL_TO"] = "Êóäà ïðèøëè";
-$MESS["SEARCH_TAGSTAT_404"] = "(îøèáêà 404)";
-$MESS["SEARCH_TAGSTAT_COUNT"] = "Êîëè÷åñòâî";
+$MESS["SEARCH_TAGSTAT_DATE"] = "Ð”Ð°Ñ‚Ð°";
+$MESS["SEARCH_TAGSTAT_SITE_ID"] = "Ð¡Ð°Ð¹Ñ‚";
+$MESS["SEARCH_TAGSTAT_SITE"] = "(ÑÐ°Ð¹Ñ‚)";
+$MESS["SEARCH_TAGSTAT_TAGS"] = "Ð¢ÐµÐ³Ð¸";
+$MESS["SEARCH_TAGSTAT_STAT_SESS_ID"] = "ID ÑÐµÑÑÐ¸Ð¸";
+$MESS["SEARCH_TAGSTAT_URL_TO"] = "ÐšÑƒÐ´Ð° Ð¿Ñ€Ð¸ÑˆÐ»Ð¸";
+$MESS["SEARCH_TAGSTAT_404"] = "(Ð¾ÑˆÐ¸Ð±ÐºÐ° 404)";
+$MESS["SEARCH_TAGSTAT_COUNT"] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾";
 ?>

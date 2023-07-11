@@ -1,3 +1,3 @@
 <?php
-$MESS['LANDING_IMPORT_ERROR_SITE_ID_NOT_FOUND'] = 'Íå îïðåäåëåí èäåíòèôèêàòîð ñàéòà';
-$MESS['LANDING_IMPORT_FINISH_GOTO_SITE'] = 'Ïåðåéòè íà ñàéò';
+$MESS['LANDING_IMPORT_ERROR_SITE_ID_NOT_FOUND'] = 'ÐÐµ Ð¾Ð¿Ñ€ÐµÐ´ÐµÐ»ÐµÐ½ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÐ°Ð¹Ñ‚Ð°';
+$MESS['LANDING_IMPORT_FINISH_GOTO_SITE'] = 'ÐŸÐµÑ€ÐµÐ¹Ñ‚Ð¸ Ð½Ð° ÑÐ°Ð¹Ñ‚';

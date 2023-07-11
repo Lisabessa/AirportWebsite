@@ -1,4 +1,4 @@
 <?
-$MESS["sender_trigger_dont_buy_name"] = "Äàâíî íå êóïóâàâ";
-$MESS["sender_trigger_dont_buy_days"] = "Íå êóïóâàâ(äí³â)";
+$MESS["sender_trigger_dont_buy_name"] = "Ð”Ð°Ð²Ð½Ð¾ Ð½Ðµ ÐºÑƒÐ¿ÑƒÐ²Ð°Ð²";
+$MESS["sender_trigger_dont_buy_days"] = "ÐÐµ ÐºÑƒÐ¿ÑƒÐ²Ð°Ð²(Ð´Ð½Ñ–Ð²)";
 ?>

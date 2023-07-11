@@ -1,11 +1,11 @@
 <?
-$MESS["WD_VERSIONS"] = "Ñïèñîê âåðñèé";
-$MESS["WD_VERSIONS_ALT"] = "Ïåðåéòè ê ñïèñêó âåðñèé äîêóìåíòà";
-$MESS["WD_ORIGINAL"] = "Îðèãèíàë";
-$MESS["WD_EDIT_FILE"] = "Èçìåíèòü";
-$MESS["WD_EDIT_FILE_ALT"] = "Ïåðåéòè íà ñòðàíèöó èçìåíåíèÿ äîêóìåíòà";
-$MESS["WD_EDIT_FILE_ALT2"] = "Ïåðåéòè íà ñòðàíèöó èçìåíåíèÿ âåðñèè äîêóìåíòà";
-$MESS["WD_ACCESS_DENIED"] = "Äîñòóï çàïðåùåí.";
-$MESS["WD_HISTORY_DOCUMENT_TITLE"] = "Èñòîðèÿ äîêóìåíòà #NAME#";
-$MESS["WD_HISTORY_VERSION_TITLE"] = "Èñòîðèÿ âåðñèè #NAME#";
+$MESS["WD_VERSIONS"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð²ÐµÑ€ÑÐ¸Ð¹";
+$MESS["WD_VERSIONS_ALT"] = "ÐŸÐµÑ€ÐµÐ¹Ñ‚Ð¸ Ðº ÑÐ¿Ð¸ÑÐºÑƒ Ð²ÐµÑ€ÑÐ¸Ð¹ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð°";
+$MESS["WD_ORIGINAL"] = "ÐžÑ€Ð¸Ð³Ð¸Ð½Ð°Ð»";
+$MESS["WD_EDIT_FILE"] = "Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
+$MESS["WD_EDIT_FILE_ALT"] = "ÐŸÐµÑ€ÐµÐ¹Ñ‚Ð¸ Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð°";
+$MESS["WD_EDIT_FILE_ALT2"] = "ÐŸÐµÑ€ÐµÐ¹Ñ‚Ð¸ Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ Ð²ÐµÑ€ÑÐ¸Ð¸ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð°";
+$MESS["WD_ACCESS_DENIED"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ð·Ð°Ð¿Ñ€ÐµÑ‰ÐµÐ½.";
+$MESS["WD_HISTORY_DOCUMENT_TITLE"] = "Ð˜ÑÑ‚Ð¾Ñ€Ð¸Ñ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð° #NAME#";
+$MESS["WD_HISTORY_VERSION_TITLE"] = "Ð˜ÑÑ‚Ð¾Ñ€Ð¸Ñ Ð²ÐµÑ€ÑÐ¸Ð¸ #NAME#";
 ?>

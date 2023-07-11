@@ -1,5 +1,5 @@
 <?
-$MESS["SALE_LOCATION_TREE_ENTITY_NODE_NOT_FOUND_EXCEPTION"] = "Óêàçàííûé óçåë íå íàéäåí";
-$MESS["SALE_LOCATION_TREE_ENTITY_CANNOT_MOVE_STRAIGHT_TO_ITSELF_EXCEPTION"] = "Íåâîçìîæíî ïåðåìåñòèòü ïîääåðåâî ñàìî â ñåáÿ";
-$MESS["SALE_LOCATION_TREE_ENTITY_CANNOT_MOVE_TO_ITSELF_EXCEPTION"] = "Íåâîçìîæíî ïåðåìåñòèòü ïîääåðåâî âíóòðü ñåáÿ";
+$MESS["SALE_LOCATION_TREE_ENTITY_NODE_NOT_FOUND_EXCEPTION"] = "Ð£ÐºÐ°Ð·Ð°Ð½Ð½Ñ‹Ð¹ ÑƒÐ·ÐµÐ» Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
+$MESS["SALE_LOCATION_TREE_ENTITY_CANNOT_MOVE_STRAIGHT_TO_ITSELF_EXCEPTION"] = "ÐÐµÐ²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ Ð¿ÐµÑ€ÐµÐ¼ÐµÑÑ‚Ð¸Ñ‚ÑŒ Ð¿Ð¾Ð´Ð´ÐµÑ€ÐµÐ²Ð¾ ÑÐ°Ð¼Ð¾ Ð² ÑÐµÐ±Ñ";
+$MESS["SALE_LOCATION_TREE_ENTITY_CANNOT_MOVE_TO_ITSELF_EXCEPTION"] = "ÐÐµÐ²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ Ð¿ÐµÑ€ÐµÐ¼ÐµÑÑ‚Ð¸Ñ‚ÑŒ Ð¿Ð¾Ð´Ð´ÐµÑ€ÐµÐ²Ð¾ Ð²Ð½ÑƒÑ‚Ñ€ÑŒ ÑÐµÐ±Ñ";
 ?>

@@ -1,10 +1,10 @@
 <?
-$MESS["TR_IMPORT_EMPTY_FILE_ERROR"] = "Íåò ôàéëà äëÿ èìïîðòà";
-$MESS["TR_IMPORT_UPLOAD_OK"] = "Ôàéë óñïåøíî çàêà÷àí";
-$MESS["TR_IMPORT_FILE_DROPPED"] = "Ôàéë èìïîðòà óäàë¸í";
-$MESS["TR_IMPORT_ACTION_CANCEL"] = "Çàãðóçêà äàííûõ îòìåíåíà.";
-$MESS["TR_IMPORT_VOID"] = "Îòñóòñòâóþò äàííûå äëÿ çàãðóçêè";
-$MESS["TR_IMPORT_COMPLETED"] = "Çàãðóçêà ôàéëà èìïîðòà çàâåðøåíà.";
-$MESS["TR_IMPORT_ACTION_STATS"] = "Çàãðóæåíî ôðàç: #PROCESSED_PHRASES# èç #TOTAL_PHRASES#.";
-$MESS["TR_INDEX_ACTION_STATS"] = "Ïðîèíäåêñèðîâàíî ôàéëîâ:  #PROCESSED_FILES# èç #TOTAL_FILES#.";
+$MESS["TR_IMPORT_EMPTY_FILE_ERROR"] = "ÐÐµÑ‚ Ñ„Ð°Ð¹Ð»Ð° Ð´Ð»Ñ Ð¸Ð¼Ð¿Ð¾Ñ€Ñ‚Ð°";
+$MESS["TR_IMPORT_UPLOAD_OK"] = "Ð¤Ð°Ð¹Ð» ÑƒÑÐ¿ÐµÑˆÐ½Ð¾ Ð·Ð°ÐºÐ°Ñ‡Ð°Ð½";
+$MESS["TR_IMPORT_FILE_DROPPED"] = "Ð¤Ð°Ð¹Ð» Ð¸Ð¼Ð¿Ð¾Ñ€Ñ‚Ð° ÑƒÐ´Ð°Ð»Ñ‘Ð½";
+$MESS["TR_IMPORT_ACTION_CANCEL"] = "Ð—Ð°Ð³Ñ€ÑƒÐ·ÐºÐ° Ð´Ð°Ð½Ð½Ñ‹Ñ… Ð¾Ñ‚Ð¼ÐµÐ½ÐµÐ½Ð°.";
+$MESS["TR_IMPORT_VOID"] = "ÐžÑ‚ÑÑƒÑ‚ÑÑ‚Ð²ÑƒÑŽÑ‚ Ð´Ð°Ð½Ð½Ñ‹Ðµ Ð´Ð»Ñ Ð·Ð°Ð³Ñ€ÑƒÐ·ÐºÐ¸";
+$MESS["TR_IMPORT_COMPLETED"] = "Ð—Ð°Ð³Ñ€ÑƒÐ·ÐºÐ° Ñ„Ð°Ð¹Ð»Ð° Ð¸Ð¼Ð¿Ð¾Ñ€Ñ‚Ð° Ð·Ð°Ð²ÐµÑ€ÑˆÐµÐ½Ð°.";
+$MESS["TR_IMPORT_ACTION_STATS"] = "Ð—Ð°Ð³Ñ€ÑƒÐ¶ÐµÐ½Ð¾ Ñ„Ñ€Ð°Ð·: #PROCESSED_PHRASES# Ð¸Ð· #TOTAL_PHRASES#.";
+$MESS["TR_INDEX_ACTION_STATS"] = "ÐŸÑ€Ð¾Ð¸Ð½Ð´ÐµÐºÑÐ¸Ñ€Ð¾Ð²Ð°Ð½Ð¾ Ñ„Ð°Ð¹Ð»Ð¾Ð²:  #PROCESSED_FILES# Ð¸Ð· #TOTAL_FILES#.";
 ?>

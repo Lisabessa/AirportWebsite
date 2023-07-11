@@ -1,2 +1,2 @@
 <?php
-$MESS['REPORT_NUMBER_BLOCK_VIEW_LABEL'] = '×èñëîâîé áëîê';
+$MESS['REPORT_NUMBER_BLOCK_VIEW_LABEL'] = 'Ð§Ð¸ÑÐ»Ð¾Ð²Ð¾Ð¹ Ð±Ð»Ð¾Ðº';

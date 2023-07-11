@@ -1,3 +1,3 @@
 <?
-$MESS['LANDING_VIDEO_ALERT_WRONG_SOURCE'] = 'Ññûëêà íà âèäåî îòñóòñòâóåò';
-$MESS['LANDING_VIDEO_ALERT_WRONG_SOURCE_TEXT'] = 'Ïðîâåðüòå, âåðíî ëè óêàçàíà ññûëêà íà âèäåî. Äîïóñêàþòñÿ òîëüêî ïîëíûå èëè êîðîòêèå ññûëêè íà âèäåî ñ ñåðâèñîâ Youtube, Facebook, Vimeo èëè Vine.';
+$MESS['LANDING_VIDEO_ALERT_WRONG_SOURCE'] = 'Ð¡ÑÑ‹Ð»ÐºÐ° Ð½Ð° Ð²Ð¸Ð´ÐµÐ¾ Ð¾Ñ‚ÑÑƒÑ‚ÑÑ‚Ð²ÑƒÐµÑ‚';
+$MESS['LANDING_VIDEO_ALERT_WRONG_SOURCE_TEXT'] = 'ÐŸÑ€Ð¾Ð²ÐµÑ€ÑŒÑ‚Ðµ, Ð²ÐµÑ€Ð½Ð¾ Ð»Ð¸ ÑƒÐºÐ°Ð·Ð°Ð½Ð° ÑÑÑ‹Ð»ÐºÐ° Ð½Ð° Ð²Ð¸Ð´ÐµÐ¾. Ð”Ð¾Ð¿ÑƒÑÐºÐ°ÑŽÑ‚ÑÑ Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð¿Ð¾Ð»Ð½Ñ‹Ðµ Ð¸Ð»Ð¸ ÐºÐ¾Ñ€Ð¾Ñ‚ÐºÐ¸Ðµ ÑÑÑ‹Ð»ÐºÐ¸ Ð½Ð° Ð²Ð¸Ð´ÐµÐ¾ Ñ ÑÐµÑ€Ð²Ð¸ÑÐ¾Ð² Youtube, Facebook, Vimeo Ð¸Ð»Ð¸ Vine.';

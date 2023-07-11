@@ -1,13 +1,13 @@
 <?
-$MESS["FLT_LETTER"] = "Áóêâà";
-$MESS["FLT_LETTERS"] = "Áóêâû";
-$MESS["FLT_REPLACE"] = "Àíàëîã";
-$MESS["FLT_ACT_ADD"] = "Äîáàâèòü";
-$MESS["FLT_ACT_DEL"] = "Óäàëèòü";
-$MESS["FLT_NOT_DICT"] = "Íå ââåäåíû äàííûå: ñëîâàðü.";
-$MESS["FLT_NOT_UPDATE"] = "Èçìåíåíèÿ íå ñîõðàíåíû.";
-$MESS["FORUM_MENU_FILTER_DT"] = "Ñëîâàðü òðàíñëèòà";
-$MESS["MAIN_ADMIN_LIST_SELECTED"] = "Âûáðàíî:";
-$MESS["MAIN_FIND"] = "Íàéòè";
-$MESS["MAIN_ADMIN_LIST_CHECKED"] = "Îòìå÷åíî:";
+$MESS["FLT_LETTER"] = "Ð‘ÑƒÐºÐ²Ð°";
+$MESS["FLT_LETTERS"] = "Ð‘ÑƒÐºÐ²Ñ‹";
+$MESS["FLT_REPLACE"] = "ÐÐ½Ð°Ð»Ð¾Ð³";
+$MESS["FLT_ACT_ADD"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ";
+$MESS["FLT_ACT_DEL"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";
+$MESS["FLT_NOT_DICT"] = "ÐÐµ Ð²Ð²ÐµÐ´ÐµÐ½Ñ‹ Ð´Ð°Ð½Ð½Ñ‹Ðµ: ÑÐ»Ð¾Ð²Ð°Ñ€ÑŒ.";
+$MESS["FLT_NOT_UPDATE"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ Ð½Ðµ ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ñ‹.";
+$MESS["FORUM_MENU_FILTER_DT"] = "Ð¡Ð»Ð¾Ð²Ð°Ñ€ÑŒ Ñ‚Ñ€Ð°Ð½ÑÐ»Ð¸Ñ‚Ð°";
+$MESS["MAIN_ADMIN_LIST_SELECTED"] = "Ð’Ñ‹Ð±Ñ€Ð°Ð½Ð¾:";
+$MESS["MAIN_FIND"] = "ÐÐ°Ð¹Ñ‚Ð¸";
+$MESS["MAIN_ADMIN_LIST_CHECKED"] = "ÐžÑ‚Ð¼ÐµÑ‡ÐµÐ½Ð¾:";
 ?>

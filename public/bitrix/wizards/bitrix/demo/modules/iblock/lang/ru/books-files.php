@@ -1,5 +1,5 @@
 <?
-$MESS ['DEMO_IBLOCK_ESTORE_BOOKS_FORUM_NAME'] = "Îòçûâû íà êíèãè";
-$MESS ['DEMO_IBLOCK_ESTORE_BOOKS_FORUM_GROUP_NAME'] = "Êîììåíòàðèè ïîëüçîâàòåëåé";
-$MESS ['DEMO_IBLOCK_ESTORE_BOOKS_MENU'] = "Êàòàëîã êíèã";
+$MESS ['DEMO_IBLOCK_ESTORE_BOOKS_FORUM_NAME'] = "ÐžÑ‚Ð·Ñ‹Ð²Ñ‹ Ð½Ð° ÐºÐ½Ð¸Ð³Ð¸";
+$MESS ['DEMO_IBLOCK_ESTORE_BOOKS_FORUM_GROUP_NAME'] = "ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¸ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÐµÐ¹";
+$MESS ['DEMO_IBLOCK_ESTORE_BOOKS_MENU'] = "ÐšÐ°Ñ‚Ð°Ð»Ð¾Ð³ ÐºÐ½Ð¸Ð³";
 ?>

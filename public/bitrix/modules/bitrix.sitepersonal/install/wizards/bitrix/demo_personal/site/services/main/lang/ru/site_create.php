@@ -1,3 +1,3 @@
 <?
-$MESS['wiz_site_personal_name'] = 'Ïåðñîíàëüíûé ñàéò';
+$MESS['wiz_site_personal_name'] = 'ÐŸÐµÑ€ÑÐ¾Ð½Ð°Ð»ÑŒÐ½Ñ‹Ð¹ ÑÐ°Ð¹Ñ‚';
 ?>

@@ -1,12 +1,12 @@
 <?
 global $MESS;
 
-$MESS["SSBP_DTITLE"] = "Êâèòàíöèÿ Ñáåðáàíêà";
-$MESS["SSBP_DDESCR"] = "Êâèòàíöèÿ íà ïåðåâîä Ñáåðáàíêà";
+$MESS["SSBP_DTITLE"] = "ÐšÐ²Ð¸Ñ‚Ð°Ð½Ñ†Ð¸Ñ Ð¡Ð±ÐµÑ€Ð±Ð°Ð½ÐºÐ°";
+$MESS["SSBP_DDESCR"] = "ÐšÐ²Ð¸Ñ‚Ð°Ð½Ñ†Ð¸Ñ Ð½Ð° Ð¿ÐµÑ€ÐµÐ²Ð¾Ð´ Ð¡Ð±ÐµÑ€Ð±Ð°Ð½ÐºÐ°";
 
-$MESS["SSBP_RECIPES"] = "Ïàðàìåòðû ïîëó÷àòåëÿ ïëàòåæà";
-$MESS["SSBP_RECIPES_DESC"] = "Ïàðàìåòðû ïîëó÷àòåëÿ ïëàòåæà";
-$MESS["SSBP_RECIPES_VAL"] = "ÈÍÍ XXXXXXXXXXXXX, ÊÏÏ XXXXXXXXXX, \"Êîìïàíèÿ\", ð/ñ÷ XXXXXXXXXX â \"Áàíê\", ã. Ãîðîä, ê/ñ÷ XXXXXXXXXX, ÁÈÊ XXXXXXXXX";
-$MESS["SSBP_NAME"] = "Ïëàòåëüùèê";
-$MESS["SSBP_NAME_DESC"] = "ÔÈÎ ïëàòåëüùèêà";
+$MESS["SSBP_RECIPES"] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ð°";
+$MESS["SSBP_RECIPES_DESC"] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ð°";
+$MESS["SSBP_RECIPES_VAL"] = "Ð˜ÐÐ XXXXXXXXXXXXX, ÐšÐŸÐŸ XXXXXXXXXX, \"ÐšÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ñ\", Ñ€/ÑÑ‡ XXXXXXXXXX Ð² \"Ð‘Ð°Ð½Ðº\", Ð³. Ð“Ð¾Ñ€Ð¾Ð´, Ðº/ÑÑ‡ XXXXXXXXXX, Ð‘Ð˜Ðš XXXXXXXXX";
+$MESS["SSBP_NAME"] = "ÐŸÐ»Ð°Ñ‚ÐµÐ»ÑŒÑ‰Ð¸Ðº";
+$MESS["SSBP_NAME_DESC"] = "Ð¤Ð˜Ðž Ð¿Ð»Ð°Ñ‚ÐµÐ»ÑŒÑ‰Ð¸ÐºÐ°";
 ?>

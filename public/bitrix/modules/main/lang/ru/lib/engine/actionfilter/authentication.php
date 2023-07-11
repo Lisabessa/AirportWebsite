@@ -1,3 +1,3 @@
 <?
-$MESS["MAIN_ENGINE_FILTER_AUTHENTICATION_ERROR"] = "Íåîáõîäèìî àâòîðèçîâàòüñÿ íà ñàéòå";
+$MESS["MAIN_ENGINE_FILTER_AUTHENTICATION_ERROR"] = "ÐÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ð¾ Ð°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·Ð¾Ð²Ð°Ñ‚ÑŒÑÑ Ð½Ð° ÑÐ°Ð¹Ñ‚Ðµ";
 ?>

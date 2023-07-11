@@ -1,5 +1,5 @@
 <?php
 $MESS['SALE_CASHBOX_OFDRU_OFD_NAME'] = 'OFD.RU';
-$MESS['SALE_CASHBOX_OFDRU_SETTINGS_SELLER_INFO'] = 'Èíôîðìàöèÿ î ïðîäàâöå';
-$MESS['SALE_CASHBOX_OFDRU_SELLER_INN'] = 'ÈÍÍ';
-$MESS['SALE_CASHBOX_OFD_VALIDATE_E_INN'] = 'Äëÿ äàííîãî ÎÔÄ íåîáõîäèìî óêàçàòü ÈÍÍ ïðîäàâöà';
+$MESS['SALE_CASHBOX_OFDRU_SETTINGS_SELLER_INFO'] = 'Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ñ Ð¾ Ð¿Ñ€Ð¾Ð´Ð°Ð²Ñ†Ðµ';
+$MESS['SALE_CASHBOX_OFDRU_SELLER_INN'] = 'Ð˜ÐÐ';
+$MESS['SALE_CASHBOX_OFD_VALIDATE_E_INN'] = 'Ð”Ð»Ñ Ð´Ð°Ð½Ð½Ð¾Ð³Ð¾ ÐžÐ¤Ð” Ð½ÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ð¾ ÑƒÐºÐ°Ð·Ð°Ñ‚ÑŒ Ð˜ÐÐ Ð¿Ñ€Ð¾Ð´Ð°Ð²Ñ†Ð°';

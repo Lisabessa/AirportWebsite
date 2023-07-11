@@ -1,3 +1,3 @@
 <?
-$MESS['SEARCH_INSTALL_PUBLIC_SECTION'] = "Поиск";
+$MESS['SEARCH_INSTALL_PUBLIC_SECTION'] = "РџРѕРёСЃРє";
 ?>

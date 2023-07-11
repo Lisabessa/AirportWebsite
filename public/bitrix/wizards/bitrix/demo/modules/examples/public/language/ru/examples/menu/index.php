@@ -1,6 +1,6 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Ïðèìåðû ìåíþ");
+$APPLICATION->SetTitle("ÐŸÑ€Ð¸Ð¼ÐµÑ€Ñ‹ Ð¼ÐµÐ½ÑŽ");
 ?><?$APPLICATION->IncludeComponent(
 	"bitrix:menu",
 	"blue_tabs",

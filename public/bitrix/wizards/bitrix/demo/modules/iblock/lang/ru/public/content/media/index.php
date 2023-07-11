@@ -1,5 +1,5 @@
 <?
-$MESS ['DEMO_IBLOCK_CONTENT_MEDIA_TITLE'] = "Âèäåî è àóäèî";
-$MESS ['DEMO_IBLOCK_CONTENT_MEDIA_VIDEO'] = "Âèäåî";
-$MESS ['DEMO_IBLOCK_CONTENT_MEDIA_AUDIO'] = "Àóäèî (MP3)";
+$MESS ['DEMO_IBLOCK_CONTENT_MEDIA_TITLE'] = "Ð’Ð¸Ð´ÐµÐ¾ Ð¸ Ð°ÑƒÐ´Ð¸Ð¾";
+$MESS ['DEMO_IBLOCK_CONTENT_MEDIA_VIDEO'] = "Ð’Ð¸Ð´ÐµÐ¾";
+$MESS ['DEMO_IBLOCK_CONTENT_MEDIA_AUDIO'] = "ÐÑƒÐ´Ð¸Ð¾ (MP3)";
 ?>

@@ -1,7 +1,7 @@
 <?php
-$MESS["SALE_SYNCHRONIZER_APPLY"] = "Налаштувати інтеграцію";
-$MESS["SALE_SYNCHRONIZER_DESCRIPTION"] = "<p class=\"crm-admin-paragraph\">Підключіть свій інтернет-магазин до CRM.</p>";
-$MESS["SALE_SYNCHRONIZER_REFRESH_TOKEN"] = "Код для продовження дії ключа:";
-$MESS["SALE_SYNCHRONIZER_SETTINGS_ACCESS_TOKEN"] = "Код доступу";
-$MESS["SALE_SYNCHRONIZER_SETTINGS_TITLE"] = "Налаштування підключення до Бітрікс24";
-$MESS["SALE_SYNCHRONIZER_TITLE"] = "Налаштування обміну замовленнями з Бітрікс24";
+$MESS["SALE_SYNCHRONIZER_APPLY"] = "РќР°Р»Р°С€С‚СѓРІР°С‚Рё С–РЅС‚РµРіСЂР°С†С–СЋ";
+$MESS["SALE_SYNCHRONIZER_DESCRIPTION"] = "<p class=\"crm-admin-paragraph\">РџС–РґРєР»СЋС‡С–С‚СЊ СЃРІС–Р№ С–РЅС‚РµСЂРЅРµС‚-РјР°РіР°Р·РёРЅ РґРѕ CRM.</p>";
+$MESS["SALE_SYNCHRONIZER_REFRESH_TOKEN"] = "РљРѕРґ РґР»СЏ РїСЂРѕРґРѕРІР¶РµРЅРЅСЏ РґС–С— РєР»СЋС‡Р°:";
+$MESS["SALE_SYNCHRONIZER_SETTINGS_ACCESS_TOKEN"] = "РљРѕРґ РґРѕСЃС‚СѓРїСѓ";
+$MESS["SALE_SYNCHRONIZER_SETTINGS_TITLE"] = "РќР°Р»Р°С€С‚СѓРІР°РЅРЅСЏ РїС–РґРєР»СЋС‡РµРЅРЅСЏ РґРѕ Р‘С–С‚СЂС–РєСЃ24";
+$MESS["SALE_SYNCHRONIZER_TITLE"] = "РќР°Р»Р°С€С‚СѓРІР°РЅРЅСЏ РѕР±РјС–РЅСѓ Р·Р°РјРѕРІР»РµРЅРЅСЏРјРё Р· Р‘С–С‚СЂС–РєСЃ24";

@@ -1,3 +1,3 @@
 <?
-$MESS ['SONET_ICON_TITLE'] = "Ñîöèàëüíàÿ ñåòü";
+$MESS ['SONET_ICON_TITLE'] = "Ð¡Ð¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð°Ñ ÑÐµÑ‚ÑŒ";
 ?>

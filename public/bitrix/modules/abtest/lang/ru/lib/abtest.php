@@ -1,15 +1,15 @@
 <?php
 
-$MESS["abtest_entity_active_field"] = "Àêòèâíîñòü";
-$MESS["abtest_entity_site_field"] = "Ñàéò";
-$MESS["abtest_entity_enabled_field"] = "Äîñòóïíîñòü";
-$MESS["abtest_entity_name_field"] = "Íàçâàíèå";
-$MESS["abtest_entity_descr_field"] = "Îïèñàíèå";
-$MESS["abtest_entity_test_data_field"] = "Äàííûå òåñòà";
-$MESS["abtest_entity_start_date_field"] = "Äàòà çàïóñêà";
-$MESS["abtest_entity_stop_date_field"] = "Äàòà çàâåðøåíèÿ";
-$MESS["abtest_entity_duration_field"] = "Äëèòåëüíîñòü";
-$MESS["abtest_entity_portion_field"] = "Äîëÿ òðàôèêà";
-$MESS["abtest_entity_min_amount_field"] = "Ìèíèìàëüíàÿ âûáîðêà";
-$MESS["abtest_entity_userid_field"] = "Ïîëüçîâàòåëü";
-$MESS["abtest_entity_sort_field"] = "Ñîðòèðîâêà";
+$MESS["abtest_entity_active_field"] = "ÐÐºÑ‚Ð¸Ð²Ð½Ð¾ÑÑ‚ÑŒ";
+$MESS["abtest_entity_site_field"] = "Ð¡Ð°Ð¹Ñ‚";
+$MESS["abtest_entity_enabled_field"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿Ð½Ð¾ÑÑ‚ÑŒ";
+$MESS["abtest_entity_name_field"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
+$MESS["abtest_entity_descr_field"] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ";
+$MESS["abtest_entity_test_data_field"] = "Ð”Ð°Ð½Ð½Ñ‹Ðµ Ñ‚ÐµÑÑ‚Ð°";
+$MESS["abtest_entity_start_date_field"] = "Ð”Ð°Ñ‚Ð° Ð·Ð°Ð¿ÑƒÑÐºÐ°";
+$MESS["abtest_entity_stop_date_field"] = "Ð”Ð°Ñ‚Ð° Ð·Ð°Ð²ÐµÑ€ÑˆÐµÐ½Ð¸Ñ";
+$MESS["abtest_entity_duration_field"] = "Ð”Ð»Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾ÑÑ‚ÑŒ";
+$MESS["abtest_entity_portion_field"] = "Ð”Ð¾Ð»Ñ Ñ‚Ñ€Ð°Ñ„Ð¸ÐºÐ°";
+$MESS["abtest_entity_min_amount_field"] = "ÐœÐ¸Ð½Ð¸Ð¼Ð°Ð»ÑŒÐ½Ð°Ñ Ð²Ñ‹Ð±Ð¾Ñ€ÐºÐ°";
+$MESS["abtest_entity_userid_field"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ";
+$MESS["abtest_entity_sort_field"] = "Ð¡Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²ÐºÐ°";

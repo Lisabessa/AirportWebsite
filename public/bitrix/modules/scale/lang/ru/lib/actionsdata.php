@@ -1,4 +1,4 @@
 <?
-$MESS ['SCALE_ACTIONSDATA_ACTION_ERROR'] = "Äåéñòâèå çàâåðøèëîñü ñ îøèáêîé";
-$MESS ['SCALE_ACTIONSDATA_ACTION_FINISHED'] = "Äåéñòâèå óñïåøíî âûïîëíåíî";
+$MESS ['SCALE_ACTIONSDATA_ACTION_ERROR'] = "Ð”ÐµÐ¹ÑÑ‚Ð²Ð¸Ðµ Ð·Ð°Ð²ÐµÑ€ÑˆÐ¸Ð»Ð¾ÑÑŒ Ñ Ð¾ÑˆÐ¸Ð±ÐºÐ¾Ð¹";
+$MESS ['SCALE_ACTIONSDATA_ACTION_FINISHED'] = "Ð”ÐµÐ¹ÑÑ‚Ð²Ð¸Ðµ ÑƒÑÐ¿ÐµÑˆÐ½Ð¾ Ð²Ñ‹Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¾";
 ?>

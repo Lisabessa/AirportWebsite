@@ -1,5 +1,5 @@
 <?
-$MESS["SALE_HLP_ORDERBUILDER_QUANTITY_ERROR"] = "Êîëè÷åñòâî òîâàðà \"#PRODUCT_NAME#\" äîëæíî áûòü áîëüøå íóëÿ";
-$MESS["SALE_HLP_ORDERBUILDER_PRICE_ERROR"] = "Öåíà òîâàðà \"#PRODUCT_NAME#\" äîëæíà áûòü íåîòðèöàòåëüíîé";
-$MESS["SALE_HLP_ORDERBUILDER_PRODUCT_NOT_AVILABLE"] = "Òîâàð \"#NAME#\" íåäîñòóïåí";
-$MESS["SALE_HLP_ORDERBUILDER_SHIPMENT_ITEM_ERROR"] = "Îøèáêà äîáàâëåíèÿ òîâàðà îòãðóçêó (#ID#)";
+$MESS["SALE_HLP_ORDERBUILDER_QUANTITY_ERROR"] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ñ‚Ð¾Ð²Ð°Ñ€Ð° \"#PRODUCT_NAME#\" Ð´Ð¾Ð»Ð¶Ð½Ð¾ Ð±Ñ‹Ñ‚ÑŒ Ð±Ð¾Ð»ÑŒÑˆÐµ Ð½ÑƒÐ»Ñ";
+$MESS["SALE_HLP_ORDERBUILDER_PRICE_ERROR"] = "Ð¦ÐµÐ½Ð° Ñ‚Ð¾Ð²Ð°Ñ€Ð° \"#PRODUCT_NAME#\" Ð´Ð¾Ð»Ð¶Ð½Ð° Ð±Ñ‹Ñ‚ÑŒ Ð½ÐµÐ¾Ñ‚Ñ€Ð¸Ñ†Ð°Ñ‚ÐµÐ»ÑŒÐ½Ð¾Ð¹";
+$MESS["SALE_HLP_ORDERBUILDER_PRODUCT_NOT_AVILABLE"] = "Ð¢Ð¾Ð²Ð°Ñ€ \"#NAME#\" Ð½ÐµÐ´Ð¾ÑÑ‚ÑƒÐ¿ÐµÐ½";
+$MESS["SALE_HLP_ORDERBUILDER_SHIPMENT_ITEM_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ñ Ñ‚Ð¾Ð²Ð°Ñ€Ð° Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÑƒ (#ID#)";

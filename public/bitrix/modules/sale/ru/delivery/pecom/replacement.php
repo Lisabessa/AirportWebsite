@@ -6,13 +6,13 @@ class Replacement
 	public static function getRegionExceptions()
 	{
 		return array(
-			'ÃŒ— ¬¿' => 'ÃŒ— Œ¬— ¿ﬂ Œ¡À¿—“‹',
-			'—¿Õ “-œ≈“≈–¡”–√' => 'À≈Õ»Õ√–¿ƒ— ¿ﬂ Œ¡À¿—“‹',
+			'–ú–û–°–ö–í–ê' => '–ú–û–°–ö–û–í–°–ö–ê–Ø –û–ë–õ–ê–°–¢–¨',
+			'–°–ê–ù–ö–¢-–ü–ï–¢–ï–†–ë–£–†–ì' => '–õ–ï–ù–ò–ù–ì–†–ê–î–°–ö–ê–Ø –û–ë–õ–ê–°–¢–¨',
 		);
 	}
 
 	public static function getDistrictMark()
 	{
-		return '–\-Õ';
+		return '–†\-–ù';
 	}
 }

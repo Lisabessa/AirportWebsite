@@ -1,3 +1,3 @@
 <?
-$MESS["MAIN_UI_SELECTOR_TITLE_USERS"] = "Ëþäè:";
+$MESS["MAIN_UI_SELECTOR_TITLE_USERS"] = "Ð›ÑŽÐ´Ð¸:";
 ?>

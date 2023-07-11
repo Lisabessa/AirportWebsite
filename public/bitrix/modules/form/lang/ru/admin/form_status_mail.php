@@ -1,30 +1,30 @@
 <?
-$MESS ['FORM_CHANGE_STATUS_S'] = "#SERVER_NAME#: Ñòàòóñ çàÿâêè ¹#RS_RESULT_ID# èçìåíåí íà [#RS_STATUS_NAME#] (#RS_FORM_NAME#)";
-$MESS ['FORM_CHANGE_STATUS_B'] = "Çäðàâñòâóéòå, #RS_USER_NAME#!
+$MESS ['FORM_CHANGE_STATUS_S'] = "#SERVER_NAME#: Ð¡Ñ‚Ð°Ñ‚ÑƒÑ Ð·Ð°ÑÐ²ÐºÐ¸ â„–#RS_RESULT_ID# Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½ Ð½Ð° [#RS_STATUS_NAME#] (#RS_FORM_NAME#)";
+$MESS ['FORM_CHANGE_STATUS_B'] = "Ð—Ð´Ñ€Ð°Ð²ÑÑ‚Ð²ÑƒÐ¹Ñ‚Ðµ, #RS_USER_NAME#!
 
-Ñòàòóñ çàÿâêè ¹#RS_RESULT_ID# èçìåíåí íà [#RS_STATUS_NAME#] (#RS_FORM_NAME#)
+Ð¡Ñ‚Ð°Ñ‚ÑƒÑ Ð·Ð°ÑÐ²ÐºÐ¸ â„–#RS_RESULT_ID# Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½ Ð½Ð° [#RS_STATUS_NAME#] (#RS_FORM_NAME#)
 
 #SERVER_NAME#
 -------------------------------------------------------
-Ïèñüìî ñãåíåðèðîâàíî àâòîìàòè÷åñêè.
+ÐŸÐ¸ÑÑŒÐ¼Ð¾ ÑÐ³ÐµÐ½ÐµÑ€Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¾ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸.
 ";
-$MESS ['FORM_CHANGE_STATUS'] = "Ñìåíà ñòàòóñà ðåçóëüòàòà ôîðìû #FORM_SID# íà \"#STATUS_NAME#\"";
-$MESS ['FORM_L_EMAIL_TO'] = "Àäðåñ ïîëó÷àòåëÿ";
-$MESS ['FORM_L_FORM_ID'] = "ID ôîðìû";
-$MESS ['FORM_L_NAME'] = "Èìÿ ôîðìû";
-$MESS ['FORM_L_SID'] = "SID ôîðìû";
-$MESS ['FORM_L_RESULT_ID'] = "ID ðåçóëüòàòà";
-$MESS ['FORM_L_DATE_CREATE'] = "Äàòà çàïîëíåíèÿ ôîðìû";
-$MESS ['FORM_L_USER_ID'] = "ID ïîëüçîâàòåëÿ";
-$MESS ['FORM_L_USER_EMAIL'] = "E-Mail ïîëüçîâàòåëÿ";
-$MESS ['FORM_L_USER_NAME'] = "Ôàìèëèÿ, èìÿ ïîëüçîâàòåëÿ";
-$MESS ['FORM_L_STATUS_ID'] = "Èäåíòèôèêàòîð ñòàòóñà ðåçóëüòàòà";
-$MESS ['FORM_L_STATUS_NAME'] = "Íàèìåíîâàíèå ñòàòóñà ðåçóëüòàòà";
-$MESS ['FORM_VIEW_TEMPLATE'] = "ïðîñìîòð øàáëîíîâ";
-$MESS ['FORM_PAGE_TITLE'] = "Ãåíåðàöèÿ ïî÷òîâûõ øàáëîíîâ";
-$MESS ['FORM_NOT_REGISTERED'] = "íå çàðåãèñòðèðîâàí";
-$MESS ['FORM_AUTHORIZED'] = "àâòîðèçîâàí";
-$MESS ['FORM_NOT_AUTHORIZED'] = "íå àâòîðèçîâàí";
-$MESS ['FORM_WEB_FORMS'] = "[âåá-ôîðìû]";
-$MESS ['FORM_GENERATING_FINISHED'] = "Ãåíåðàöèÿ ïî÷òîâûõ øàáëîíîâ çàâåðøåíà.";
+$MESS ['FORM_CHANGE_STATUS'] = "Ð¡Ð¼ÐµÐ½Ð° ÑÑ‚Ð°Ñ‚ÑƒÑÐ° Ñ€ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ð° Ñ„Ð¾Ñ€Ð¼Ñ‹ #FORM_SID# Ð½Ð° \"#STATUS_NAME#\"";
+$MESS ['FORM_L_EMAIL_TO'] = "ÐÐ´Ñ€ÐµÑ Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ";
+$MESS ['FORM_L_FORM_ID'] = "ID Ñ„Ð¾Ñ€Ð¼Ñ‹";
+$MESS ['FORM_L_NAME'] = "Ð˜Ð¼Ñ Ñ„Ð¾Ñ€Ð¼Ñ‹";
+$MESS ['FORM_L_SID'] = "SID Ñ„Ð¾Ñ€Ð¼Ñ‹";
+$MESS ['FORM_L_RESULT_ID'] = "ID Ñ€ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ð°";
+$MESS ['FORM_L_DATE_CREATE'] = "Ð”Ð°Ñ‚Ð° Ð·Ð°Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¸Ñ Ñ„Ð¾Ñ€Ð¼Ñ‹";
+$MESS ['FORM_L_USER_ID'] = "ID Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
+$MESS ['FORM_L_USER_EMAIL'] = "E-Mail Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
+$MESS ['FORM_L_USER_NAME'] = "Ð¤Ð°Ð¼Ð¸Ð»Ð¸Ñ, Ð¸Ð¼Ñ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
+$MESS ['FORM_L_STATUS_ID'] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÑ‚Ð°Ñ‚ÑƒÑÐ° Ñ€ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ð°";
+$MESS ['FORM_L_STATUS_NAME'] = "ÐÐ°Ð¸Ð¼ÐµÐ½Ð¾Ð²Ð°Ð½Ð¸Ðµ ÑÑ‚Ð°Ñ‚ÑƒÑÐ° Ñ€ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ð°";
+$MESS ['FORM_VIEW_TEMPLATE'] = "Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ ÑˆÐ°Ð±Ð»Ð¾Ð½Ð¾Ð²";
+$MESS ['FORM_PAGE_TITLE'] = "Ð“ÐµÐ½ÐµÑ€Ð°Ñ†Ð¸Ñ Ð¿Ð¾Ñ‡Ñ‚Ð¾Ð²Ñ‹Ñ… ÑˆÐ°Ð±Ð»Ð¾Ð½Ð¾Ð²";
+$MESS ['FORM_NOT_REGISTERED'] = "Ð½Ðµ Ð·Ð°Ñ€ÐµÐ³Ð¸ÑÑ‚Ñ€Ð¸Ñ€Ð¾Ð²Ð°Ð½";
+$MESS ['FORM_AUTHORIZED'] = "Ð°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·Ð¾Ð²Ð°Ð½";
+$MESS ['FORM_NOT_AUTHORIZED'] = "Ð½Ðµ Ð°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·Ð¾Ð²Ð°Ð½";
+$MESS ['FORM_WEB_FORMS'] = "[Ð²ÐµÐ±-Ñ„Ð¾Ñ€Ð¼Ñ‹]";
+$MESS ['FORM_GENERATING_FINISHED'] = "Ð“ÐµÐ½ÐµÑ€Ð°Ñ†Ð¸Ñ Ð¿Ð¾Ñ‡Ñ‚Ð¾Ð²Ñ‹Ñ… ÑˆÐ°Ð±Ð»Ð¾Ð½Ð¾Ð² Ð·Ð°Ð²ÐµÑ€ÑˆÐµÐ½Ð°.";
 ?>

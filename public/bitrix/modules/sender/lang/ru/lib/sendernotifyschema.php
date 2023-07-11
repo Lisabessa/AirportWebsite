@@ -1,3 +1,3 @@
 <?php
 
-$MESS['SENDER_SEGMENT_NOTIFY'] = 'Ñåãìåíò ãîòîâ ê îòïðàâêå';
+$MESS['SENDER_SEGMENT_NOTIFY'] = 'Ð¡ÐµÐ³Ð¼ÐµÐ½Ñ‚ Ð³Ð¾Ñ‚Ð¾Ð² Ðº Ð¾Ñ‚Ð¿Ñ€Ð°Ð²ÐºÐµ';

@@ -1,10 +1,10 @@
 <?
-$MESS["SEARCH_SPHINX_CONN_ERROR_INDEX_NAME"] = "Èäåíòèôèêàòîð èíäåêñà ìîæåò ñîñòîÿòü òîëüêî èç ñèìâîëîâ ëàòèíñêîãî àëôàâèòà, öèôð è çíàêà ïîä÷¸ðêèâàíèÿ.";
-$MESS["SEARCH_SPHINX_CONN_EXT_IS_MISSING"] = "Ðàñøèðåíèå MySql íå óñòàíîâëåíî.";
-$MESS["SEARCH_SPHINX_CONN_ERROR"] = "Îøèáêà ïîäêëþ÷åíèÿ (#ERRSTR#).";
-$MESS["SEARCH_SPHINX_CONN_NO_INDEX"] = "Íå çàäàí èäåíòèôèêàòîð èíäåêñà.";
-$MESS["SEARCH_SPHINX_CONN_INDEX_NOT_FOUND"] = "Óêàçàííûé èíäåêñ íå íàéäåí.";
-$MESS["SEARCH_SPHINX_CONN_INDEX_WRONG_TYPE"] = "Óêàçàííûé èíäåêñ äîëæåí áûòü \"rt\".";
-$MESS["SEARCH_SPHINX_DESCR_ERROR"] = "Îøèáêà ïîëó÷åíèÿ îïèñàíèÿ èíäåêñà (#ERRSTR#).";
-$MESS["SEARCH_SPHINX_NO_FIELDS"] = "Â èíäåêñå íå õâàòàåò ïîëåé (#FIELD_LIST#).";
+$MESS["SEARCH_SPHINX_CONN_ERROR_INDEX_NAME"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¸Ð½Ð´ÐµÐºÑÐ° Ð¼Ð¾Ð¶ÐµÑ‚ ÑÐ¾ÑÑ‚Ð¾ÑÑ‚ÑŒ Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð¸Ð· ÑÐ¸Ð¼Ð²Ð¾Ð»Ð¾Ð² Ð»Ð°Ñ‚Ð¸Ð½ÑÐºÐ¾Ð³Ð¾ Ð°Ð»Ñ„Ð°Ð²Ð¸Ñ‚Ð°, Ñ†Ð¸Ñ„Ñ€ Ð¸ Ð·Ð½Ð°ÐºÐ° Ð¿Ð¾Ð´Ñ‡Ñ‘Ñ€ÐºÐ¸Ð²Ð°Ð½Ð¸Ñ.";
+$MESS["SEARCH_SPHINX_CONN_EXT_IS_MISSING"] = "Ð Ð°ÑÑˆÐ¸Ñ€ÐµÐ½Ð¸Ðµ MySql Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð¾.";
+$MESS["SEARCH_SPHINX_CONN_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ð¾Ð´ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¸Ñ (#ERRSTR#).";
+$MESS["SEARCH_SPHINX_CONN_NO_INDEX"] = "ÐÐµ Ð·Ð°Ð´Ð°Ð½ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¸Ð½Ð´ÐµÐºÑÐ°.";
+$MESS["SEARCH_SPHINX_CONN_INDEX_NOT_FOUND"] = "Ð£ÐºÐ°Ð·Ð°Ð½Ð½Ñ‹Ð¹ Ð¸Ð½Ð´ÐµÐºÑ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½.";
+$MESS["SEARCH_SPHINX_CONN_INDEX_WRONG_TYPE"] = "Ð£ÐºÐ°Ð·Ð°Ð½Ð½Ñ‹Ð¹ Ð¸Ð½Ð´ÐµÐºÑ Ð´Ð¾Ð»Ð¶ÐµÐ½ Ð±Ñ‹Ñ‚ÑŒ \"rt\".";
+$MESS["SEARCH_SPHINX_DESCR_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ð¾Ð»ÑƒÑ‡ÐµÐ½Ð¸Ñ Ð¾Ð¿Ð¸ÑÐ°Ð½Ð¸Ñ Ð¸Ð½Ð´ÐµÐºÑÐ° (#ERRSTR#).";
+$MESS["SEARCH_SPHINX_NO_FIELDS"] = "Ð’ Ð¸Ð½Ð´ÐµÐºÑÐµ Ð½Ðµ Ñ…Ð²Ð°Ñ‚Ð°ÐµÑ‚ Ð¿Ð¾Ð»ÐµÐ¹ (#FIELD_LIST#).";
 ?>

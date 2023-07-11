@@ -1,10 +1,10 @@
 <?
-$MESS["CAT_CADM_IBLOCK_MODULE_IS_MISSING"] = "Îøèáêà ïîäêëþ÷åíèÿ ìîäóëÿ èíôîáëîêîâ.";
-$MESS["CAT_CADM_CATALOG_MODULE_IS_MISSING"] = "Îøèáêà ïîäêëþ÷åíèÿ ìîäóëÿ òîðãîâîãî êàòàëîãà.";
-$MESS["CAT_CADM_NAME"] = "Íàçâàíèå";
-$MESS["CAT_CADM_SORT"] = "Ñîðòèðîâêà";
-$MESS["CAT_CADM_ACTIVE"] = "Àêòèâíîñòü";
-$MESS["CAT_CADM_LANG"] = "Ñàéò";
+$MESS["CAT_CADM_IBLOCK_MODULE_IS_MISSING"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ð¾Ð´ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¸Ñ Ð¼Ð¾Ð´ÑƒÐ»Ñ Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ¾Ð².";
+$MESS["CAT_CADM_CATALOG_MODULE_IS_MISSING"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ð¾Ð´ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¸Ñ Ð¼Ð¾Ð´ÑƒÐ»Ñ Ñ‚Ð¾Ñ€Ð³Ð¾Ð²Ð¾Ð³Ð¾ ÐºÐ°Ñ‚Ð°Ð»Ð¾Ð³Ð°.";
+$MESS["CAT_CADM_NAME"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
+$MESS["CAT_CADM_SORT"] = "Ð¡Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²ÐºÐ°";
+$MESS["CAT_CADM_ACTIVE"] = "ÐÐºÑ‚Ð¸Ð²Ð½Ð¾ÑÑ‚ÑŒ";
+$MESS["CAT_CADM_LANG"] = "Ð¡Ð°Ð¹Ñ‚";
 $MESS["CAT_CADM_ID"] = "ID";
-$MESS["CAT_CADM_TITLE"] = "Êàòàëîã òîâàðîâ";
+$MESS["CAT_CADM_TITLE"] = "ÐšÐ°Ñ‚Ð°Ð»Ð¾Ð³ Ñ‚Ð¾Ð²Ð°Ñ€Ð¾Ð²";
 ?>

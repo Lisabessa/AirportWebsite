@@ -1,9 +1,9 @@
 <?php
-$MESS['LANDING_ADMIN_ACTION_ADD_ONE'] = 'Ñîçäàòü ñòðàíèöó';
-$MESS['LANDING_ADMIN_ACTION_ADD'] = 'Ñàéò èëè ìàãàçèí';
-$MESS['LANDING_ADMIN_ACTION_ADD_PAGE'] = 'Øàáëîíû Ñàéòîâ è Ëåíäèíãîâ';
-$MESS['LANDING_ADMIN_ACTION_ADD_STORE'] = 'Øàáëîíû Èíòåðíåò-Ìàãàçèíîâ';
-$MESS['LANDING_ADMIN_SITE_NOT_FOUND'] = 'Ñàéò íå íàéäåí';
-$MESS['LANDING_ADMIN_SITE_ACCESS_DENIED'] = 'Äîñòóï çàïðåùåí';
-$MESS['LANDING_ADMIN_ACTION_SETTINGS'] = 'Íàñòðîéêè ñàéòà';
-$MESS['LANDING_ADMIN_ACTION_CATALOG'] = 'Íàñòðîéêè êàòàëîãà';
+$MESS['LANDING_ADMIN_ACTION_ADD_ONE'] = 'Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ';
+$MESS['LANDING_ADMIN_ACTION_ADD'] = 'Ð¡Ð°Ð¹Ñ‚ Ð¸Ð»Ð¸ Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½';
+$MESS['LANDING_ADMIN_ACTION_ADD_PAGE'] = 'Ð¨Ð°Ð±Ð»Ð¾Ð½Ñ‹ Ð¡Ð°Ð¹Ñ‚Ð¾Ð² Ð¸ Ð›ÐµÐ½Ð´Ð¸Ð½Ð³Ð¾Ð²';
+$MESS['LANDING_ADMIN_ACTION_ADD_STORE'] = 'Ð¨Ð°Ð±Ð»Ð¾Ð½Ñ‹ Ð˜Ð½Ñ‚ÐµÑ€Ð½ÐµÑ‚-ÐœÐ°Ð³Ð°Ð·Ð¸Ð½Ð¾Ð²';
+$MESS['LANDING_ADMIN_SITE_NOT_FOUND'] = 'Ð¡Ð°Ð¹Ñ‚ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½';
+$MESS['LANDING_ADMIN_SITE_ACCESS_DENIED'] = 'Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ð·Ð°Ð¿Ñ€ÐµÑ‰ÐµÐ½';
+$MESS['LANDING_ADMIN_ACTION_SETTINGS'] = 'ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ ÑÐ°Ð¹Ñ‚Ð°';
+$MESS['LANDING_ADMIN_ACTION_CATALOG'] = 'ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ ÐºÐ°Ñ‚Ð°Ð»Ð¾Ð³Ð°';

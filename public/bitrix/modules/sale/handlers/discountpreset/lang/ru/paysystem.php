@@ -1,5 +1,5 @@
 <?php
-$MESS["SALE_HANDLERS_DISCOUNTPRESET_PAYSYSTEM_NAME"] = "Ñêèäêà íà çàêàç, çàâèñÿùàÿ îò ïëàòåæíîé ñèñòåìû";
-$MESS["SALE_HANDLERS_DISCOUNTPRESET_PAYSYSTEM_PAYMENT_LABEL"] = "Ïëàòåæíàÿ ñèñòåìà";
-$MESS["SALE_HANDLERS_DISCOUNTPRESET_ERROR_EMPTY_PAYMENT"] = "Íå óêàçàíà ïëàòåæíàÿ ñèñòåìà";
+$MESS["SALE_HANDLERS_DISCOUNTPRESET_PAYSYSTEM_NAME"] = "Ð¡ÐºÐ¸Ð´ÐºÐ° Ð½Ð° Ð·Ð°ÐºÐ°Ð·, Ð·Ð°Ð²Ð¸ÑÑÑ‰Ð°Ñ Ð¾Ñ‚ Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ð½Ð¾Ð¹ ÑÐ¸ÑÑ‚ÐµÐ¼Ñ‹";
+$MESS["SALE_HANDLERS_DISCOUNTPRESET_PAYSYSTEM_PAYMENT_LABEL"] = "ÐŸÐ»Ð°Ñ‚ÐµÐ¶Ð½Ð°Ñ ÑÐ¸ÑÑ‚ÐµÐ¼Ð°";
+$MESS["SALE_HANDLERS_DISCOUNTPRESET_ERROR_EMPTY_PAYMENT"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð° Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ð½Ð°Ñ ÑÐ¸ÑÑ‚ÐµÐ¼Ð°";
 ?>

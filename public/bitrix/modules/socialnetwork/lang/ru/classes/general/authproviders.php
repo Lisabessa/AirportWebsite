@@ -1,13 +1,13 @@
 <?
-$MESS["authprov_sg_a"] = "Âëàäåëåö ãðóïïû";
-$MESS["authprov_sg_e"] = "Ìîäåðàòîðû ãðóïïû";
-$MESS["authprov_sg_k"] = "Âñå ÷ëåíû ãðóïïû";
-$MESS["authprov_sg_panel_last"] = "Ïîñëåäíèå";
-$MESS["authprov_sg_panel_my_group"] = "Ìîè ãðóïïû";
-$MESS["authprov_sg_panel_search"] = "Ïîèñê";
-$MESS["authprov_sg_panel_search_text"] = "Ââåäèòå íàçâàíèå ãðóïïû.";
-$MESS["authprov_sg_name"] = "Ãðóïïû ñîöèàëüíîé ñåòè";
-$MESS["authprov_sg_name_out"] = "Ãðóïïà ñîöèàëüíîé ñåòè";
-$MESS["authprov_sg_socnet_group"] = "Ãðóïïà ñîöñåòè";
-$MESS["authprov_sg_current"] = "Òåêóùàÿ";
+$MESS["authprov_sg_a"] = "Ð’Ð»Ð°Ð´ÐµÐ»ÐµÑ† Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
+$MESS["authprov_sg_e"] = "ÐœÐ¾Ð´ÐµÑ€Ð°Ñ‚Ð¾Ñ€Ñ‹ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
+$MESS["authprov_sg_k"] = "Ð’ÑÐµ Ñ‡Ð»ÐµÐ½Ñ‹ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
+$MESS["authprov_sg_panel_last"] = "ÐŸÐ¾ÑÐ»ÐµÐ´Ð½Ð¸Ðµ";
+$MESS["authprov_sg_panel_my_group"] = "ÐœÐ¾Ð¸ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
+$MESS["authprov_sg_panel_search"] = "ÐŸÐ¾Ð¸ÑÐº";
+$MESS["authprov_sg_panel_search_text"] = "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð½Ð°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹.";
+$MESS["authprov_sg_name"] = "Ð“Ñ€ÑƒÐ¿Ð¿Ñ‹ ÑÐ¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð¾Ð¹ ÑÐµÑ‚Ð¸";
+$MESS["authprov_sg_name_out"] = "Ð“Ñ€ÑƒÐ¿Ð¿Ð° ÑÐ¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð¾Ð¹ ÑÐµÑ‚Ð¸";
+$MESS["authprov_sg_socnet_group"] = "Ð“Ñ€ÑƒÐ¿Ð¿Ð° ÑÐ¾Ñ†ÑÐµÑ‚Ð¸";
+$MESS["authprov_sg_current"] = "Ð¢ÐµÐºÑƒÑ‰Ð°Ñ";
 ?>

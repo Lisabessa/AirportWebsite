@@ -1,7 +1,7 @@
 <?
 require_once($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/main/include/prolog_before.php");
-$APPLICATION->SetTitle("Ðåçóëüòàòû îïðîñà");
-$APPLICATION->AddChainItem("Àðõèâ îïðîñîâ", "vote_list.php");
+$APPLICATION->SetTitle("Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ñ‹ Ð¾Ð¿Ñ€Ð¾ÑÐ°");
+$APPLICATION->AddChainItem("ÐÑ€Ñ…Ð¸Ð² Ð¾Ð¿Ñ€Ð¾ÑÐ¾Ð²", "vote_list.php");
 require_once($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/main/include/prolog_after.php");
 ?>
 <?$APPLICATION->IncludeComponent("bitrix:voting.result", ".default", Array(

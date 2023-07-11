@@ -1,6 +1,6 @@
 <?
 $MESS ['DEMO_IBLOCK_CONTENT_BOARD_MY_TITLE'] = "Schwarzes Brett";
-$MESS ['DEMO_IBLOCK_CONTENT_BOARD_MY_USER_MESSAGE_ADD'] = "Ihre Anzeige wurde zugefügt";
+$MESS ['DEMO_IBLOCK_CONTENT_BOARD_MY_USER_MESSAGE_ADD'] = "Ihre Anzeige wurde zugefÑŒgt";
 $MESS ['DEMO_IBLOCK_CONTENT_BOARD_MY_USER_MESSAGE_EDIT'] = "Ihre Anzeige wurde abgespeichert";
 $MESS ['DEMO_IBLOCK_CONTENT_BOARD_MY_CUSTOM_TITLE_NAME'] = "Kurze Anzeigebeschreibung";
 $MESS ['DEMO_IBLOCK_CONTENT_BOARD_MY_CUSTOM_TITLE_DATE_ACTIVE_TO'] = "Anzeigefrist bis";

@@ -1,13 +1,13 @@
 <?
-$MESS["SALE_DLVRS_ADDL_LOCATIONS_ERROR"] = "Íå óäàëîñü ïîëó÷èòü ôàéë ìåñòîïîëîæåíèé";
-$MESS["SALE_DLVRS_ADDL_LOCATIONS_ERROR_TMP"] = "Íå óäàëîñü ñîõðàíèòü ýòàëîííûå ìåñòîïîëîæåíèÿ âî âðåìåííóþ òàáëèöó";
-$MESS["SALE_DLVRS_ADDL_LOCATIONS_ERROR_SID"] = "Íå óäàëîñü ïîëó÷èòü èäåíòèôèêàòîð ñëóæáû äîñòàâêè";
-$MESS["SALE_DLVRS_ADDL_LOCATIONS_ERROR_PATH"] = "Íå óäàëîñü ïîëó÷èòü ïóòü ê ôàéëó ìåñòîïîëîæåíèé";
-$MESS["SALE_DLVRS_ADDL_LOCATIONS_ERROR_TMP_TABLE"] = "Íå óäàëîñü ñîçäàòü âðåìåííóþ òàáëèöó";
-$MESS["SALE_DLVRS_ADDL_LOCATIONS_CREATE_TMP_TABLE"] = "Ñîçäàíèå âðåìåííîé òàáëèöû";
-$MESS["SALE_DLVRS_ADDL_LOCATIONS_CHECK_COMPARED"] = "Ïðîâåðêà ñîïîñòàâëåííûõ ìåñòîïîëîæåíèé";
-$MESS["SALE_DLVRS_ADDL_LOCATIONS_COMP_BY_CODES"] = "Ñîïîñòàâëåíèå ìåñòîïîëîæåíèé ïî êîäàì";
-$MESS["SALE_DLVRS_ADDL_LOCATIONS_NORM"] = "Íîðìàëèçàöèÿ íàèìåíîâàíèé ìåñòîïîëîæåíèé";
-$MESS["SALE_DLVRS_ADDL_LOCATIONS_COMP_BY_NAMES"] = "Ñîïîñòàâëåíèå ìåñòîïîëîæåíèé ïî íàèìåíîâàíèÿì";
-$MESS["SALE_DLVRS_ADDL_LOCATIONS_COMP_COMPLETE"] = "Ñîïîñòàâëåíèå ìåñòîïîëîæåíèé çàâåðøåíî";
-$MESS["SALE_DLVRS_ADDL_LOCATIONS_ERROR_STAGE"] = "Íåèçâåñòíûé øàã";
+$MESS["SALE_DLVRS_ADDL_LOCATIONS_ERROR"] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ Ð¿Ð¾Ð»ÑƒÑ‡Ð¸Ñ‚ÑŒ Ñ„Ð°Ð¹Ð» Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹";
+$MESS["SALE_DLVRS_ADDL_LOCATIONS_ERROR_TMP"] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ ÑÐ¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ ÑÑ‚Ð°Ð»Ð¾Ð½Ð½Ñ‹Ðµ Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ Ð²Ð¾ Ð²Ñ€ÐµÐ¼ÐµÐ½Ð½ÑƒÑŽ Ñ‚Ð°Ð±Ð»Ð¸Ñ†Ñƒ";
+$MESS["SALE_DLVRS_ADDL_LOCATIONS_ERROR_SID"] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ Ð¿Ð¾Ð»ÑƒÑ‡Ð¸Ñ‚ÑŒ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÐ»ÑƒÐ¶Ð±Ñ‹ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸";
+$MESS["SALE_DLVRS_ADDL_LOCATIONS_ERROR_PATH"] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ Ð¿Ð¾Ð»ÑƒÑ‡Ð¸Ñ‚ÑŒ Ð¿ÑƒÑ‚ÑŒ Ðº Ñ„Ð°Ð¹Ð»Ñƒ Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹";
+$MESS["SALE_DLVRS_ADDL_LOCATIONS_ERROR_TMP_TABLE"] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ ÑÐ¾Ð·Ð´Ð°Ñ‚ÑŒ Ð²Ñ€ÐµÐ¼ÐµÐ½Ð½ÑƒÑŽ Ñ‚Ð°Ð±Ð»Ð¸Ñ†Ñƒ";
+$MESS["SALE_DLVRS_ADDL_LOCATIONS_CREATE_TMP_TABLE"] = "Ð¡Ð¾Ð·Ð´Ð°Ð½Ð¸Ðµ Ð²Ñ€ÐµÐ¼ÐµÐ½Ð½Ð¾Ð¹ Ñ‚Ð°Ð±Ð»Ð¸Ñ†Ñ‹";
+$MESS["SALE_DLVRS_ADDL_LOCATIONS_CHECK_COMPARED"] = "ÐŸÑ€Ð¾Ð²ÐµÑ€ÐºÐ° ÑÐ¾Ð¿Ð¾ÑÑ‚Ð°Ð²Ð»ÐµÐ½Ð½Ñ‹Ñ… Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹";
+$MESS["SALE_DLVRS_ADDL_LOCATIONS_COMP_BY_CODES"] = "Ð¡Ð¾Ð¿Ð¾ÑÑ‚Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹ Ð¿Ð¾ ÐºÐ¾Ð´Ð°Ð¼";
+$MESS["SALE_DLVRS_ADDL_LOCATIONS_NORM"] = "ÐÐ¾Ñ€Ð¼Ð°Ð»Ð¸Ð·Ð°Ñ†Ð¸Ñ Ð½Ð°Ð¸Ð¼ÐµÐ½Ð¾Ð²Ð°Ð½Ð¸Ð¹ Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹";
+$MESS["SALE_DLVRS_ADDL_LOCATIONS_COMP_BY_NAMES"] = "Ð¡Ð¾Ð¿Ð¾ÑÑ‚Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹ Ð¿Ð¾ Ð½Ð°Ð¸Ð¼ÐµÐ½Ð¾Ð²Ð°Ð½Ð¸ÑÐ¼";
+$MESS["SALE_DLVRS_ADDL_LOCATIONS_COMP_COMPLETE"] = "Ð¡Ð¾Ð¿Ð¾ÑÑ‚Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹ Ð·Ð°Ð²ÐµÑ€ÑˆÐµÐ½Ð¾";
+$MESS["SALE_DLVRS_ADDL_LOCATIONS_ERROR_STAGE"] = "ÐÐµÐ¸Ð·Ð²ÐµÑÑ‚Ð½Ñ‹Ð¹ ÑˆÐ°Ð³";

@@ -1,3 +1,3 @@
 <?php
-$MESS["MAIN_USER_FIELD_CONFIG_COMPONENT_NO_MODULE_ERROR"] = "Íå óêàçàí èäåíòèôèêàòîð ìîäóëÿ";
-$MESS["MAIN_USER_FIELD_CONFIG_COMPONENT_ACCESS_DENIED_ERROR"] = "Äîñòóï çàïðåùåí";
+$MESS["MAIN_USER_FIELD_CONFIG_COMPONENT_NO_MODULE_ERROR"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¼Ð¾Ð´ÑƒÐ»Ñ";
+$MESS["MAIN_USER_FIELD_CONFIG_COMPONENT_ACCESS_DENIED_ERROR"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ð·Ð°Ð¿Ñ€ÐµÑ‰ÐµÐ½";

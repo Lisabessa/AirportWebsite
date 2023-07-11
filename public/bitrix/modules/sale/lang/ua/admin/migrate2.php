@@ -1,19 +1,19 @@
 <?
-$MESS['SALE_LOCATION_AJAX_FAIL'] = "Ñòàëàñÿ ïîìèëêà AJAX";
-$MESS['SALE_LOCATION_MIGRATE_COMPLETE'] = "Ïåðåêëàä çàâåðøåíèé óñï³øíî. Òåïåð ²íòåðíåò-ìàãàçèí âèêîðèñòîâóº ì³ñöåçíàõîäæåííÿ 2.0";
-$MESS['SALE_LOCATION_MIGRATE_DO_OPERATION'] = "Ì³ãðóâàòè íà ì³ñöåçíàõîäæåííÿ 2.0";
-$MESS['SALE_LOCATION_MIGRATE_FAIL'] = "Ñòàëàñÿ ïîìèëêà";
-$MESS['SALE_LOCATION_MIGRATE_HELP'] = "Ïðè íàòèñêàíí³ íà êíîïêó \"Ì³ãðóâàòè íà ì³ñöåçíàõîäæåííÿ 2.0\" âàø ²íòåðíåò-ìàãàçèí áóäå ïåðåâåäåíèé íà íîâ³ ì³ñöåçíàõîäæåííÿ.";
-$MESS['SALE_LOCATION_MIGRATE_STEP'] = "Çàðàç âèêîíóºòüñÿ";
-$MESS['SALE_LOCATION_MIGRATE_STEP_CLEANUP_TABLES'] = "Âèäàëåííÿ äàíèõ â³ä ïîïåðåäíüî¿ ì³ãðàö³¿";
-$MESS['SALE_LOCATION_MIGRATE_STEP_CREATE_KINDOF'] = "Ñòâîðåííÿ òèï³â ì³ñöåçíàõîäæåííÿ";
-$MESS['SALE_LOCATION_MIGRATE_STEP_FIN'] = "Çàñëóæåíèé â³äïî÷èíîê";
-$MESS['SALE_LOCATION_MIGRATE_STEP_GRAB_TREE'] = "Ïîáóäîâà äåðåâà çàëåæíîñòåé êðà¿í-ðåã³îí³â-ì³ñò";
-$MESS['SALE_LOCATION_MIGRATE_STEP_MAKE_LEGACY'] = "Ñòâîðåííÿ äîâ³äíèêà ïî ID ì³ñöåçíàõîäæåíü êîëèøíüîãî API";
-$MESS['SALE_LOCATION_MIGRATE_STEP_MOVE_CITY'] = "Ïåðåíåñåííÿ ì³ñò â íîâó òàáëèöþ. Ò³ëüêè íå â³äêèäàéòåñÿ íà ñïèíêó êð³ñëà";
-$MESS['SALE_LOCATION_MIGRATE_STEP_MOVE_COUNTRY'] = "Ïåðåíåñåííÿ êðà¿í ó íîâó òàáëèöþ";
-$MESS['SALE_LOCATION_MIGRATE_STEP_MOVE_REGION'] = "Ïåðåíåñåííÿ ðåã³îí³â ó íîâó òàáëèöþ";
-$MESS['SALE_LOCATION_MIGRATE_STOP'] = "Çóïèíèòè";
-$MESS['SALE_LOCATION_MIGRATE_TAB'] = "Ì³ãðàö³ÿ";
-$MESS['SALE_LOCATION_MIGRATE_TITLE'] = "Ïåðåõ³ä íà ì³ñöåçíàõîäæåííÿ 2.0";
+$MESS['SALE_LOCATION_AJAX_FAIL'] = "Ð¡Ñ‚Ð°Ð»Ð°ÑÑ Ð¿Ð¾Ð¼Ð¸Ð»ÐºÐ° AJAX";
+$MESS['SALE_LOCATION_MIGRATE_COMPLETE'] = "ÐŸÐµÑ€ÐµÐºÐ»Ð°Ð´ Ð·Ð°Ð²ÐµÑ€ÑˆÐµÐ½Ð¸Ð¹ ÑƒÑÐ¿Ñ–ÑˆÐ½Ð¾. Ð¢ÐµÐ¿ÐµÑ€ Ð†Ð½Ñ‚ÐµÑ€Ð½ÐµÑ‚-Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½ Ð²Ð¸ÐºÐ¾Ñ€Ð¸ÑÑ‚Ð¾Ð²ÑƒÑ” Ð¼Ñ–ÑÑ†ÐµÐ·Ð½Ð°Ñ…Ð¾Ð´Ð¶ÐµÐ½Ð½Ñ 2.0";
+$MESS['SALE_LOCATION_MIGRATE_DO_OPERATION'] = "ÐœÑ–Ð³Ñ€ÑƒÐ²Ð°Ñ‚Ð¸ Ð½Ð° Ð¼Ñ–ÑÑ†ÐµÐ·Ð½Ð°Ñ…Ð¾Ð´Ð¶ÐµÐ½Ð½Ñ 2.0";
+$MESS['SALE_LOCATION_MIGRATE_FAIL'] = "Ð¡Ñ‚Ð°Ð»Ð°ÑÑ Ð¿Ð¾Ð¼Ð¸Ð»ÐºÐ°";
+$MESS['SALE_LOCATION_MIGRATE_HELP'] = "ÐŸÑ€Ð¸ Ð½Ð°Ñ‚Ð¸ÑÐºÐ°Ð½Ð½Ñ– Ð½Ð° ÐºÐ½Ð¾Ð¿ÐºÑƒ \"ÐœÑ–Ð³Ñ€ÑƒÐ²Ð°Ñ‚Ð¸ Ð½Ð° Ð¼Ñ–ÑÑ†ÐµÐ·Ð½Ð°Ñ…Ð¾Ð´Ð¶ÐµÐ½Ð½Ñ 2.0\" Ð²Ð°Ñˆ Ð†Ð½Ñ‚ÐµÑ€Ð½ÐµÑ‚-Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½ Ð±ÑƒÐ´Ðµ Ð¿ÐµÑ€ÐµÐ²ÐµÐ´ÐµÐ½Ð¸Ð¹ Ð½Ð° Ð½Ð¾Ð²Ñ– Ð¼Ñ–ÑÑ†ÐµÐ·Ð½Ð°Ñ…Ð¾Ð´Ð¶ÐµÐ½Ð½Ñ.";
+$MESS['SALE_LOCATION_MIGRATE_STEP'] = "Ð—Ð°Ñ€Ð°Ð· Ð²Ð¸ÐºÐ¾Ð½ÑƒÑ”Ñ‚ÑŒÑÑ";
+$MESS['SALE_LOCATION_MIGRATE_STEP_CLEANUP_TABLES'] = "Ð’Ð¸Ð´Ð°Ð»ÐµÐ½Ð½Ñ Ð´Ð°Ð½Ð¸Ñ… Ð²Ñ–Ð´ Ð¿Ð¾Ð¿ÐµÑ€ÐµÐ´Ð½ÑŒÐ¾Ñ— Ð¼Ñ–Ð³Ñ€Ð°Ñ†Ñ–Ñ—";
+$MESS['SALE_LOCATION_MIGRATE_STEP_CREATE_KINDOF'] = "Ð¡Ñ‚Ð²Ð¾Ñ€ÐµÐ½Ð½Ñ Ñ‚Ð¸Ð¿Ñ–Ð² Ð¼Ñ–ÑÑ†ÐµÐ·Ð½Ð°Ñ…Ð¾Ð´Ð¶ÐµÐ½Ð½Ñ";
+$MESS['SALE_LOCATION_MIGRATE_STEP_FIN'] = "Ð—Ð°ÑÐ»ÑƒÐ¶ÐµÐ½Ð¸Ð¹ Ð²Ñ–Ð´Ð¿Ð¾Ñ‡Ð¸Ð½Ð¾Ðº";
+$MESS['SALE_LOCATION_MIGRATE_STEP_GRAB_TREE'] = "ÐŸÐ¾Ð±ÑƒÐ´Ð¾Ð²Ð° Ð´ÐµÑ€ÐµÐ²Ð° Ð·Ð°Ð»ÐµÐ¶Ð½Ð¾ÑÑ‚ÐµÐ¹ ÐºÑ€Ð°Ñ—Ð½-Ñ€ÐµÐ³Ñ–Ð¾Ð½Ñ–Ð²-Ð¼Ñ–ÑÑ‚";
+$MESS['SALE_LOCATION_MIGRATE_STEP_MAKE_LEGACY'] = "Ð¡Ñ‚Ð²Ð¾Ñ€ÐµÐ½Ð½Ñ Ð´Ð¾Ð²Ñ–Ð´Ð½Ð¸ÐºÐ° Ð¿Ð¾ ID Ð¼Ñ–ÑÑ†ÐµÐ·Ð½Ð°Ñ…Ð¾Ð´Ð¶ÐµÐ½ÑŒ ÐºÐ¾Ð»Ð¸ÑˆÐ½ÑŒÐ¾Ð³Ð¾ API";
+$MESS['SALE_LOCATION_MIGRATE_STEP_MOVE_CITY'] = "ÐŸÐµÑ€ÐµÐ½ÐµÑÐµÐ½Ð½Ñ Ð¼Ñ–ÑÑ‚ Ð² Ð½Ð¾Ð²Ñƒ Ñ‚Ð°Ð±Ð»Ð¸Ñ†ÑŽ. Ð¢Ñ–Ð»ÑŒÐºÐ¸ Ð½Ðµ Ð²Ñ–Ð´ÐºÐ¸Ð´Ð°Ð¹Ñ‚ÐµÑÑ Ð½Ð° ÑÐ¿Ð¸Ð½ÐºÑƒ ÐºÑ€Ñ–ÑÐ»Ð°";
+$MESS['SALE_LOCATION_MIGRATE_STEP_MOVE_COUNTRY'] = "ÐŸÐµÑ€ÐµÐ½ÐµÑÐµÐ½Ð½Ñ ÐºÑ€Ð°Ñ—Ð½ Ñƒ Ð½Ð¾Ð²Ñƒ Ñ‚Ð°Ð±Ð»Ð¸Ñ†ÑŽ";
+$MESS['SALE_LOCATION_MIGRATE_STEP_MOVE_REGION'] = "ÐŸÐµÑ€ÐµÐ½ÐµÑÐµÐ½Ð½Ñ Ñ€ÐµÐ³Ñ–Ð¾Ð½Ñ–Ð² Ñƒ Ð½Ð¾Ð²Ñƒ Ñ‚Ð°Ð±Ð»Ð¸Ñ†ÑŽ";
+$MESS['SALE_LOCATION_MIGRATE_STOP'] = "Ð—ÑƒÐ¿Ð¸Ð½Ð¸Ñ‚Ð¸";
+$MESS['SALE_LOCATION_MIGRATE_TAB'] = "ÐœÑ–Ð³Ñ€Ð°Ñ†Ñ–Ñ";
+$MESS['SALE_LOCATION_MIGRATE_TITLE'] = "ÐŸÐµÑ€ÐµÑ…Ñ–Ð´ Ð½Ð° Ð¼Ñ–ÑÑ†ÐµÐ·Ð½Ð°Ñ…Ð¾Ð´Ð¶ÐµÐ½Ð½Ñ 2.0";
 ?>

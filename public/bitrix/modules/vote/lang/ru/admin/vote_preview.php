@@ -1,4 +1,4 @@
 <?
-$MESS ['VOTE_PAGE_TITLE'] = "Форма опроса # #ID#";
-$MESS ['VOTE_BACK_TO_VOTE'] = "Вернуться к опросу";
+$MESS ['VOTE_PAGE_TITLE'] = "Р¤РѕСЂРјР° РѕРїСЂРѕСЃР° # #ID#";
+$MESS ['VOTE_BACK_TO_VOTE'] = "Р’РµСЂРЅСѓС‚СЊСЃСЏ Рє РѕРїСЂРѕСЃСѓ";
 ?>

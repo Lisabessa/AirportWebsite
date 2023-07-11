@@ -1,5 +1,5 @@
 <?
-$MESS["IBLOCK_PROP_SEQ_SETTING_WRITABLE"] = "Ðàçðåøàåòñÿ èçìåíÿòü çíà÷åíèÿ";
-$MESS["IBLOCK_PROP_SEQ_SETTING_CURRENT_VALUE"] = "Òåêóùåå çíà÷åíèå ñ÷åò÷èêà";
-$MESS["IBLOCK_PROP_SEQUENCE_DESC"] = "Ñ÷åò÷èê";
+$MESS["IBLOCK_PROP_SEQ_SETTING_WRITABLE"] = "Ð Ð°Ð·Ñ€ÐµÑˆÐ°ÐµÑ‚ÑÑ Ð¸Ð·Ð¼ÐµÐ½ÑÑ‚ÑŒ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ñ";
+$MESS["IBLOCK_PROP_SEQ_SETTING_CURRENT_VALUE"] = "Ð¢ÐµÐºÑƒÑ‰ÐµÐµ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ ÑÑ‡ÐµÑ‚Ñ‡Ð¸ÐºÐ°";
+$MESS["IBLOCK_PROP_SEQUENCE_DESC"] = "Ð¡Ñ‡ÐµÑ‚Ñ‡Ð¸Ðº";
 ?>

@@ -1,6 +1,6 @@
 <?
-$MESS["RATING_COMPONENT_PLUS"] = "Íðàâèòñÿ";
-$MESS["RATING_COMPONENT_MINUS"] = "Íå íðàâèòñÿ";
-$MESS["RATING_COMPONENT_CANCEL"] = "Çàáðàòü ñâîé ãîëîñ";
-$MESS["RATING_COMPONENT_HAS_VOTED"] = "Âû óæå ãîëîñîâàëè çà ýòîò ýëåìåíò";
+$MESS["RATING_COMPONENT_PLUS"] = "ÐÑ€Ð°Ð²Ð¸Ñ‚ÑÑ";
+$MESS["RATING_COMPONENT_MINUS"] = "ÐÐµ Ð½Ñ€Ð°Ð²Ð¸Ñ‚ÑÑ";
+$MESS["RATING_COMPONENT_CANCEL"] = "Ð—Ð°Ð±Ñ€Ð°Ñ‚ÑŒ ÑÐ²Ð¾Ð¹ Ð³Ð¾Ð»Ð¾Ñ";
+$MESS["RATING_COMPONENT_HAS_VOTED"] = "Ð’Ñ‹ ÑƒÐ¶Ðµ Ð³Ð¾Ð»Ð¾ÑÐ¾Ð²Ð°Ð»Ð¸ Ð·Ð° ÑÑ‚Ð¾Ñ‚ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚";
 ?>

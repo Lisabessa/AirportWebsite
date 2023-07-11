@@ -1,5 +1,5 @@
 <?
-$MESS ['MAP_EXPAND_ALL'] = "Ðàçâåðíóòü âñå";
-$MESS ['MAP_COLLAPSE_ALL'] = "Ñâåðíóòü âñå";
-$MESS ['MAP_TITLE'] = "Êàðòà ñàéòà";
+$MESS ['MAP_EXPAND_ALL'] = "Ð Ð°Ð·Ð²ÐµÑ€Ð½ÑƒÑ‚ÑŒ Ð²ÑÐµ";
+$MESS ['MAP_COLLAPSE_ALL'] = "Ð¡Ð²ÐµÑ€Ð½ÑƒÑ‚ÑŒ Ð²ÑÐµ";
+$MESS ['MAP_TITLE'] = "ÐšÐ°Ñ€Ñ‚Ð° ÑÐ°Ð¹Ñ‚Ð°";
 ?>

@@ -1,3 +1,3 @@
 <?
-$MESS ['THEME_NAME'] = "Голубой";
+$MESS ['THEME_NAME'] = "Р“РѕР»СѓР±РѕР№";
 ?>

@@ -1,7 +1,7 @@
 <?php
-$MESS['VISUALCONSTUCTOR_ADD_WIDGET_TO_BOARD'] = 'Äîáàâèòü âèäæåò';
-$MESS['VISUALCONSTRUCTOR_DASHBOARD_DEMO_MODE_ON_TITLE'] = 'Âêëþ÷èòü äåìî ðåæèì';
-$MESS['VISUALCONSTRUCTOR_DASHBOARD_DEMO_MODE_OFF_TITLE'] = 'Âûêëþ÷èòü äåìî ðåæèì';
-$MESS['VISUALCONSTRUCTOR_DASHBOARD_DESIGN_MODE_ON_TITLE'] = 'Âêëþ÷èòü ðåæèì íàñòðîåê';
-$MESS['VISUALCONSTRUCTOR_DASHBOARD_DESIGN_MODE_OFF_TITLE'] = 'Âûêëþ÷èòü ðåæèì íàñòðîåê';
-$MESS['VISUALCONSTRUCTOR_DASHBOARD_GO_TO_DEFAULT'] = 'Âåðíóòüñÿ ê íàñòðîéêàì ïî óìîë÷àíèþ';
+$MESS['VISUALCONSTUCTOR_ADD_WIDGET_TO_BOARD'] = 'Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð²Ð¸Ð´Ð¶ÐµÑ‚';
+$MESS['VISUALCONSTRUCTOR_DASHBOARD_DEMO_MODE_ON_TITLE'] = 'Ð’ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ Ð´ÐµÐ¼Ð¾ Ñ€ÐµÐ¶Ð¸Ð¼';
+$MESS['VISUALCONSTRUCTOR_DASHBOARD_DEMO_MODE_OFF_TITLE'] = 'Ð’Ñ‹ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ Ð´ÐµÐ¼Ð¾ Ñ€ÐµÐ¶Ð¸Ð¼';
+$MESS['VISUALCONSTRUCTOR_DASHBOARD_DESIGN_MODE_ON_TITLE'] = 'Ð’ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ Ñ€ÐµÐ¶Ð¸Ð¼ Ð½Ð°ÑÑ‚Ñ€Ð¾ÐµÐº';
+$MESS['VISUALCONSTRUCTOR_DASHBOARD_DESIGN_MODE_OFF_TITLE'] = 'Ð’Ñ‹ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ Ñ€ÐµÐ¶Ð¸Ð¼ Ð½Ð°ÑÑ‚Ñ€Ð¾ÐµÐº';
+$MESS['VISUALCONSTRUCTOR_DASHBOARD_GO_TO_DEFAULT'] = 'Ð’ÐµÑ€Ð½ÑƒÑ‚ÑŒÑÑ Ðº Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ°Ð¼ Ð¿Ð¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ';

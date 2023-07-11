@@ -1,3 +1,3 @@
 <?
-$MESS["SEO_RETARGETING_SERVICE_AUDIENCE_YANDEX_ADD"] = "Ñîçäàòü íîâóþ àóäèòîðèþ (ñåãìåíò)";
-$MESS["SEO_RETARGETING_SERVICE_AUDIENCE_NAME_TEMPLATE"] = "Àóäèòîðèÿ îò #DATE#";
+$MESS["SEO_RETARGETING_SERVICE_AUDIENCE_YANDEX_ADD"] = "Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ Ð½Ð¾Ð²ÑƒÑŽ Ð°ÑƒÐ´Ð¸Ñ‚Ð¾Ñ€Ð¸ÑŽ (ÑÐµÐ³Ð¼ÐµÐ½Ñ‚)";
+$MESS["SEO_RETARGETING_SERVICE_AUDIENCE_NAME_TEMPLATE"] = "ÐÑƒÐ´Ð¸Ñ‚Ð¾Ñ€Ð¸Ñ Ð¾Ñ‚ #DATE#";

@@ -1,4 +1,4 @@
 <?php
 
-$MESS["SALE_COMPATIBLE_ORDER_RAW_FIELD_UPDATE_ERROR"] = "Îøèáêà îáíîâëåíèÿ ïîëåé òàáëèöû çàêàçà";
-$MESS["SALE_COMPATIBLE_PAYMENT_RAW_FIELD_UPDATE_ERROR"] = "Îøèáêà îáíîâëåíèÿ ïîëåé òàáëèöû îïëàò";
+$MESS["SALE_COMPATIBLE_ORDER_RAW_FIELD_UPDATE_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ñ Ð¿Ð¾Ð»ÐµÐ¹ Ñ‚Ð°Ð±Ð»Ð¸Ñ†Ñ‹ Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["SALE_COMPATIBLE_PAYMENT_RAW_FIELD_UPDATE_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ñ Ð¿Ð¾Ð»ÐµÐ¹ Ñ‚Ð°Ð±Ð»Ð¸Ñ†Ñ‹ Ð¾Ð¿Ð»Ð°Ñ‚";

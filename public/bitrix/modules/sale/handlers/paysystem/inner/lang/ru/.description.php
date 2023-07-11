@@ -1,2 +1,2 @@
 <?php
-$MESS["SALE_HPS_INNER_DESC"] = "Âíóòðåííèé ñ÷åò";
+$MESS["SALE_HPS_INNER_DESC"] = "Ð’Ð½ÑƒÑ‚Ñ€ÐµÐ½Ð½Ð¸Ð¹ ÑÑ‡ÐµÑ‚";

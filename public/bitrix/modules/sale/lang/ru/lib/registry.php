@@ -1,2 +1,2 @@
 <?
-$MESS["SALE_REGISTRY_CODE_VALUE_NO_EXISTS"] = "Â ðååñòðå #TYPE# îòñóòñòâóåò çíà÷åíèå äëÿ êîäà #CODE#";
+$MESS["SALE_REGISTRY_CODE_VALUE_NO_EXISTS"] = "Ð’ Ñ€ÐµÐµÑÑ‚Ñ€Ðµ #TYPE# Ð¾Ñ‚ÑÑƒÑ‚ÑÑ‚Ð²ÑƒÐµÑ‚ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð´Ð»Ñ ÐºÐ¾Ð´Ð° #CODE#";

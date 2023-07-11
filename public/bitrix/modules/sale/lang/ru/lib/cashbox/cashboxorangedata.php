@@ -1,45 +1,45 @@
 <?
 $MESS["SALE_CASHBOX_ORANGE_DATA_TITLE"] = "Orange Data";
 
-$MESS["SALE_CASHBOX_ORANGE_DATA_SETTINGS_VAT"] = "Íàñòðîéêè ñòàâîê ÍÄÑ";
-$MESS["SALE_CASHBOX_ORANGE_DATA_SETTINGS_VAT_LABEL_NOT_VAT"] = "Áåç ÍÄÑ [ïî óìîë÷àíèþ]";
+$MESS["SALE_CASHBOX_ORANGE_DATA_SETTINGS_VAT"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ ÑÑ‚Ð°Ð²Ð¾Ðº ÐÐ”Ð¡";
+$MESS["SALE_CASHBOX_ORANGE_DATA_SETTINGS_VAT_LABEL_NOT_VAT"] = "Ð‘ÐµÐ· ÐÐ”Ð¡ [Ð¿Ð¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ]";
 
-$MESS["SALE_CASHBOX_ORANGE_DATA_SETTINGS_SNO"] = "Íàëîãîîáëîæåíèå";
-$MESS["SALE_CASHBOX_ORANGE_DATA_SETTINGS_SNO_LABEL"] = "Ñèñòåìà íàëîãîîáëîæåíèÿ";
-$MESS["SALE_CASHBOX_ORANGE_DATA_SNO_OSN"] = "îáùàÿ";
-$MESS["SALE_CASHBOX_ORANGE_DATA_SNO_UI"] = "óïðîùåííàÿ";
-$MESS["SALE_CASHBOX_ORANGE_DATA_SNO_UIO"] = "óïðîùåííàÿ (äîõîäû ìèíóñ ðàñõîäû)";
-$MESS["SALE_CASHBOX_ORANGE_DATA_SNO_ENVD"] = "åäèíûé íàëîã íà âìåíåííûé äîõîä";
-$MESS["SALE_CASHBOX_ORANGE_DATA_SNO_ESN"] = "åäèíûé ñåëüñêîõîçÿéñòâåííûé íàëîã";
-$MESS["SALE_CASHBOX_ORANGE_DATA_SNO_PATENT"] = "ïàòåíòíàÿ";
+$MESS["SALE_CASHBOX_ORANGE_DATA_SETTINGS_SNO"] = "ÐÐ°Ð»Ð¾Ð³Ð¾Ð¾Ð±Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ";
+$MESS["SALE_CASHBOX_ORANGE_DATA_SETTINGS_SNO_LABEL"] = "Ð¡Ð¸ÑÑ‚ÐµÐ¼Ð° Ð½Ð°Ð»Ð¾Ð³Ð¾Ð¾Ð±Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ";
+$MESS["SALE_CASHBOX_ORANGE_DATA_SNO_OSN"] = "Ð¾Ð±Ñ‰Ð°Ñ";
+$MESS["SALE_CASHBOX_ORANGE_DATA_SNO_UI"] = "ÑƒÐ¿Ñ€Ð¾Ñ‰ÐµÐ½Ð½Ð°Ñ";
+$MESS["SALE_CASHBOX_ORANGE_DATA_SNO_UIO"] = "ÑƒÐ¿Ñ€Ð¾Ñ‰ÐµÐ½Ð½Ð°Ñ (Ð´Ð¾Ñ…Ð¾Ð´Ñ‹ Ð¼Ð¸Ð½ÑƒÑ Ñ€Ð°ÑÑ…Ð¾Ð´Ñ‹)";
+$MESS["SALE_CASHBOX_ORANGE_DATA_SNO_ENVD"] = "ÐµÐ´Ð¸Ð½Ñ‹Ð¹ Ð½Ð°Ð»Ð¾Ð³ Ð½Ð° Ð²Ð¼ÐµÐ½ÐµÐ½Ð½Ñ‹Ð¹ Ð´Ð¾Ñ…Ð¾Ð´";
+$MESS["SALE_CASHBOX_ORANGE_DATA_SNO_ESN"] = "ÐµÐ´Ð¸Ð½Ñ‹Ð¹ ÑÐµÐ»ÑŒÑÐºÐ¾Ñ…Ð¾Ð·ÑÐ¹ÑÑ‚Ð²ÐµÐ½Ð½Ñ‹Ð¹ Ð½Ð°Ð»Ð¾Ð³";
+$MESS["SALE_CASHBOX_ORANGE_DATA_SNO_PATENT"] = "Ð¿Ð°Ñ‚ÐµÐ½Ñ‚Ð½Ð°Ñ";
 
-$MESS["SALE_CASHBOX_ORANGE_DATA_SETTINGS_SECURITY"] = "Íàñòðîéêè áåçîïàñíîñòè";
-$MESS["SALE_CASHBOX_ORANGE_DATA_SETTINGS_SECURITY_PKEY"] = "Ïðèâàòíûé êëþ÷ äëÿ ïîäïèñè çàïðîñîâ â ôîðìàòå .pem";
-$MESS["SALE_CASHBOX_ORANGE_DATA_SETTINGS_SECURITY_SSL_CERT"] = "Êëèåíòñêèé ñåðòèôèêàò";
-$MESS["SALE_CASHBOX_ORANGE_DATA_SETTINGS_SECURITY_SSL_KEY"] = "Ïðèâàòíûé êëþ÷ SSL";
-$MESS["SALE_CASHBOX_ORANGE_DATA_SETTINGS_SECURITY_SSL_KEY_PASS"] = "Ïàðîëü äëÿ ïðèâàòíîãî êëþ÷à SSL";
-$MESS["SALE_CASHBOX_ORANGE_DATA_SETTINGS_SECURITY_KEY_SIGN"] = "Êëþ÷ äëÿ ïðîâåðêè ïîäïèñè";
+$MESS["SALE_CASHBOX_ORANGE_DATA_SETTINGS_SECURITY"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð±ÐµÐ·Ð¾Ð¿Ð°ÑÐ½Ð¾ÑÑ‚Ð¸";
+$MESS["SALE_CASHBOX_ORANGE_DATA_SETTINGS_SECURITY_PKEY"] = "ÐŸÑ€Ð¸Ð²Ð°Ñ‚Ð½Ñ‹Ð¹ ÐºÐ»ÑŽÑ‡ Ð´Ð»Ñ Ð¿Ð¾Ð´Ð¿Ð¸ÑÐ¸ Ð·Ð°Ð¿Ñ€Ð¾ÑÐ¾Ð² Ð² Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚Ðµ .pem";
+$MESS["SALE_CASHBOX_ORANGE_DATA_SETTINGS_SECURITY_SSL_CERT"] = "ÐšÐ»Ð¸ÐµÐ½Ñ‚ÑÐºÐ¸Ð¹ ÑÐµÑ€Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚";
+$MESS["SALE_CASHBOX_ORANGE_DATA_SETTINGS_SECURITY_SSL_KEY"] = "ÐŸÑ€Ð¸Ð²Ð°Ñ‚Ð½Ñ‹Ð¹ ÐºÐ»ÑŽÑ‡ SSL";
+$MESS["SALE_CASHBOX_ORANGE_DATA_SETTINGS_SECURITY_SSL_KEY_PASS"] = "ÐŸÐ°Ñ€Ð¾Ð»ÑŒ Ð´Ð»Ñ Ð¿Ñ€Ð¸Ð²Ð°Ñ‚Ð½Ð¾Ð³Ð¾ ÐºÐ»ÑŽÑ‡Ð° SSL";
+$MESS["SALE_CASHBOX_ORANGE_DATA_SETTINGS_SECURITY_KEY_SIGN"] = "ÐšÐ»ÑŽÑ‡ Ð´Ð»Ñ Ð¿Ñ€Ð¾Ð²ÐµÑ€ÐºÐ¸ Ð¿Ð¾Ð´Ð¿Ð¸ÑÐ¸";
 
-$MESS["SALE_CASHBOX_ORANGE_DATA_SETTINGS_SERVICE"] = "Èíôîðìàöèÿ îá îðãàíèçàöèè";
-$MESS["SALE_CASHBOX_ORANGE_DATA_SETTINGS_SERVICE_INN_LABEL"] = "ÈÍÍ";
+$MESS["SALE_CASHBOX_ORANGE_DATA_SETTINGS_SERVICE"] = "Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ñ Ð¾Ð± Ð¾Ñ€Ð³Ð°Ð½Ð¸Ð·Ð°Ñ†Ð¸Ð¸";
+$MESS["SALE_CASHBOX_ORANGE_DATA_SETTINGS_SERVICE_INN_LABEL"] = "Ð˜ÐÐ";
 
-$MESS["SALE_CASHBOX_ORANGE_DATA_SETTINGS_INTERACTION"] = "Íàñòðîéêè âçàèìîäåéñòâèÿ";
-$MESS["SALE_CASHBOX_ORANGE_DATA_SETTINGS_MODE_HANDLER_LABEL"] = "Ðåæèì ðàáîòû êàññû";
-$MESS["SALE_CASHBOX_ORANGE_DATA_MODE_TEST"] = "òåñòîâûé";
-$MESS["SALE_CASHBOX_ORANGE_DATA_MODE_ACTIVE"] = "áîåâîé";
+$MESS["SALE_CASHBOX_ORANGE_DATA_SETTINGS_INTERACTION"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð²Ð·Ð°Ð¸Ð¼Ð¾Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ";
+$MESS["SALE_CASHBOX_ORANGE_DATA_SETTINGS_MODE_HANDLER_LABEL"] = "Ð ÐµÐ¶Ð¸Ð¼ Ñ€Ð°Ð±Ð¾Ñ‚Ñ‹ ÐºÐ°ÑÑÑ‹";
+$MESS["SALE_CASHBOX_ORANGE_DATA_MODE_TEST"] = "Ñ‚ÐµÑÑ‚Ð¾Ð²Ñ‹Ð¹";
+$MESS["SALE_CASHBOX_ORANGE_DATA_MODE_ACTIVE"] = "Ð±Ð¾ÐµÐ²Ð¾Ð¹";
 
-$MESS["SALE_CASHBOX_ORANGE_DATA_SETTINGS_CLIENT"] = "Èíôîðìàöèÿ î êëèåíòå";
-$MESS["SALE_CASHBOX_ORANGE_DATA_SETTINGS_CLIENT_INFO"] = "Äàííûå î êëèåíòå, ïåðåäàâàåìûå â Orange Data";
-$MESS["SALE_CASHBOX_ORANGE_DATA_SETTINGS_CLIENT_DEFAULT"] = "Ïî óìîë÷àíèþ";
-$MESS["SALE_CASHBOX_ORANGE_DATA_SETTINGS_CLIENT_PHONE"] = "Òåëåôîí";
+$MESS["SALE_CASHBOX_ORANGE_DATA_SETTINGS_CLIENT"] = "Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ñ Ð¾ ÐºÐ»Ð¸ÐµÐ½Ñ‚Ðµ";
+$MESS["SALE_CASHBOX_ORANGE_DATA_SETTINGS_CLIENT_INFO"] = "Ð”Ð°Ð½Ð½Ñ‹Ðµ Ð¾ ÐºÐ»Ð¸ÐµÐ½Ñ‚Ðµ, Ð¿ÐµÑ€ÐµÐ´Ð°Ð²Ð°ÐµÐ¼Ñ‹Ðµ Ð² Orange Data";
+$MESS["SALE_CASHBOX_ORANGE_DATA_SETTINGS_CLIENT_DEFAULT"] = "ÐŸÐ¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ";
+$MESS["SALE_CASHBOX_ORANGE_DATA_SETTINGS_CLIENT_PHONE"] = "Ð¢ÐµÐ»ÐµÑ„Ð¾Ð½";
 $MESS["SALE_CASHBOX_ORANGE_DATA_SETTINGS_CLIENT_EMAIL"] = "Email";
 
-$MESS["SALE_CASHBOX_ORANGE_DATA_ERROR_SIGN"] = "Îøèáêà ïðè ïîäïèñûâàíèè äàííûõ";
-$MESS["SALE_CASHBOX_ORANGE_DATA_ERROR_CHECK_PRINT"] = "Îøèáêà ïðè ïå÷àòè ÷åêà";
-$MESS["SALE_CASHBOX_ORANGE_DATA_ERROR_CHECK_CHECK"] = "Îøèáêà ïðè ïðîâåðêå ñòàòóñà ÷åêà";
-$MESS["SALE_CASHBOX_ORANGE_DATA_ERROR_RESPONSE_401"] = "Êëèåíòñêèé ñåðòèôèêàò íå ïðîøåë ïðîâåðêó";
-$MESS["SALE_CASHBOX_ORANGE_DATA_ERROR_RESPONSE_409"] = "×åê ñ äàííûì èäåíòèôèêàòîðîì óæå áûë ñîçäàí â ñèñòåìå";
-$MESS["SALE_CASHBOX_ORANGE_DATA_ERROR_RESPONSE_400"] = "Ïåðåäàííûå äàííûå ñîäåðæàò îøèáêè âàëèäàöèè, ëèáî ïîäïèñü íå ïðîøëà ïðîâåðêó";
-$MESS["SALE_CASHBOX_ORANGE_DATA_ERROR_RESPONSE_503"] = "Î÷åðåäü äîêóìåíòîâ ïåðåïîëíåíà";
-$MESS["SALE_CASHBOX_ORANGE_DATA_ERROR_CURL_ERROR"] = "Äëÿ ðàáîòû êàññû íåîáõîäèìà áèáëèîòåêà curl. Ïîæàëóéñòà, óñòàíîâèòå åå";
-$MESS["SALE_CASHBOX_ORANGE_DATA_ERROR_SEND_QUERY"] = "Îøèáêà ïðè îòïðàâêå çàïðîñà. Ïðîâåðüòå íàñòðîéêè ïîäêëþ÷åíèÿ";
+$MESS["SALE_CASHBOX_ORANGE_DATA_ERROR_SIGN"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ Ð¿Ð¾Ð´Ð¿Ð¸ÑÑ‹Ð²Ð°Ð½Ð¸Ð¸ Ð´Ð°Ð½Ð½Ñ‹Ñ…";
+$MESS["SALE_CASHBOX_ORANGE_DATA_ERROR_CHECK_PRINT"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ Ð¿ÐµÑ‡Ð°Ñ‚Ð¸ Ñ‡ÐµÐºÐ°";
+$MESS["SALE_CASHBOX_ORANGE_DATA_ERROR_CHECK_CHECK"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ Ð¿Ñ€Ð¾Ð²ÐµÑ€ÐºÐµ ÑÑ‚Ð°Ñ‚ÑƒÑÐ° Ñ‡ÐµÐºÐ°";
+$MESS["SALE_CASHBOX_ORANGE_DATA_ERROR_RESPONSE_401"] = "ÐšÐ»Ð¸ÐµÐ½Ñ‚ÑÐºÐ¸Ð¹ ÑÐµÑ€Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚ Ð½Ðµ Ð¿Ñ€Ð¾ÑˆÐµÐ» Ð¿Ñ€Ð¾Ð²ÐµÑ€ÐºÑƒ";
+$MESS["SALE_CASHBOX_ORANGE_DATA_ERROR_RESPONSE_409"] = "Ð§ÐµÐº Ñ Ð´Ð°Ð½Ð½Ñ‹Ð¼ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€Ð¾Ð¼ ÑƒÐ¶Ðµ Ð±Ñ‹Ð» ÑÐ¾Ð·Ð´Ð°Ð½ Ð² ÑÐ¸ÑÑ‚ÐµÐ¼Ðµ";
+$MESS["SALE_CASHBOX_ORANGE_DATA_ERROR_RESPONSE_400"] = "ÐŸÐµÑ€ÐµÐ´Ð°Ð½Ð½Ñ‹Ðµ Ð´Ð°Ð½Ð½Ñ‹Ðµ ÑÐ¾Ð´ÐµÑ€Ð¶Ð°Ñ‚ Ð¾ÑˆÐ¸Ð±ÐºÐ¸ Ð²Ð°Ð»Ð¸Ð´Ð°Ñ†Ð¸Ð¸, Ð»Ð¸Ð±Ð¾ Ð¿Ð¾Ð´Ð¿Ð¸ÑÑŒ Ð½Ðµ Ð¿Ñ€Ð¾ÑˆÐ»Ð° Ð¿Ñ€Ð¾Ð²ÐµÑ€ÐºÑƒ";
+$MESS["SALE_CASHBOX_ORANGE_DATA_ERROR_RESPONSE_503"] = "ÐžÑ‡ÐµÑ€ÐµÐ´ÑŒ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð¾Ð² Ð¿ÐµÑ€ÐµÐ¿Ð¾Ð»Ð½ÐµÐ½Ð°";
+$MESS["SALE_CASHBOX_ORANGE_DATA_ERROR_CURL_ERROR"] = "Ð”Ð»Ñ Ñ€Ð°Ð±Ð¾Ñ‚Ñ‹ ÐºÐ°ÑÑÑ‹ Ð½ÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ð° Ð±Ð¸Ð±Ð»Ð¸Ð¾Ñ‚ÐµÐºÐ° curl. ÐŸÐ¾Ð¶Ð°Ð»ÑƒÐ¹ÑÑ‚Ð°, ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð¸Ñ‚Ðµ ÐµÐµ";
+$MESS["SALE_CASHBOX_ORANGE_DATA_ERROR_SEND_QUERY"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²ÐºÐµ Ð·Ð°Ð¿Ñ€Ð¾ÑÐ°. ÐŸÑ€Ð¾Ð²ÐµÑ€ÑŒÑ‚Ðµ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð¿Ð¾Ð´ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¸Ñ";

@@ -1,7 +1,7 @@
 <?
-$MESS["SALE_INSTALL_MENU_ORDER"] = "Çàêàçû";
-$MESS["SALE_INSTALL_MENU_BASKET"] = "Êîðçèíà";
-$MESS["SALE_INSTALL_MENU_REGULAR_PAYMENT"] = "Ðåãóëÿðíûå ïëàòåæè";
-$MESS["SALE_INSTALL_MENU_SALE_PROFILES"] = "Ïðîôèëè ïîêóïàòåëÿ";
-$MESS["SALE_INSTALL_MENU_SALE_ACCOUNT"] = "Ñ÷åò ïîëüçîâàòåëÿ";
+$MESS["SALE_INSTALL_MENU_ORDER"] = "Ð—Ð°ÐºÐ°Ð·Ñ‹";
+$MESS["SALE_INSTALL_MENU_BASKET"] = "ÐšÐ¾Ñ€Ð·Ð¸Ð½Ð°";
+$MESS["SALE_INSTALL_MENU_REGULAR_PAYMENT"] = "Ð ÐµÐ³ÑƒÐ»ÑÑ€Ð½Ñ‹Ðµ Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ð¸";
+$MESS["SALE_INSTALL_MENU_SALE_PROFILES"] = "ÐŸÑ€Ð¾Ñ„Ð¸Ð»Ð¸ Ð¿Ð¾ÐºÑƒÐ¿Ð°Ñ‚ÐµÐ»Ñ";
+$MESS["SALE_INSTALL_MENU_SALE_ACCOUNT"] = "Ð¡Ñ‡ÐµÑ‚ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
 ?>

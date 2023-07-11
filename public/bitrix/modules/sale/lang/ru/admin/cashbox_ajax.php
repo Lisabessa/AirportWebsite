@@ -1,7 +1,7 @@
 <?php
-$MESS['SALE_CASHBOX_RESTRICTION_SORT'] = 'Ñîðòèðîâêà';
-$MESS['SALE_CASHBOX_ERROR_FIELD'] = 'Ïîëå';
-$MESS['SALE_CASHBOX_ERROR_PARAMS'] = 'Íå óêàçàíû ïàðàìåòðû îãðàíè÷åíèÿ';
-$MESS['SALE_CASHBOX_KKM_ID'] = 'Ìàðêà ÊÊÌ';
-$MESS['SALE_CASHBOX_KKM_NO_CHOOSE'] = 'Íå âûáðàíî';
-$MESS['SALE_CASHBOX_ADD_CHECK_SELECT_TYPE'] = 'Âûáåðèòå òèï ÷åêà';
+$MESS['SALE_CASHBOX_RESTRICTION_SORT'] = 'Ð¡Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²ÐºÐ°';
+$MESS['SALE_CASHBOX_ERROR_FIELD'] = 'ÐŸÐ¾Ð»Ðµ';
+$MESS['SALE_CASHBOX_ERROR_PARAMS'] = 'ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ñ‹ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ Ð¾Ð³Ñ€Ð°Ð½Ð¸Ñ‡ÐµÐ½Ð¸Ñ';
+$MESS['SALE_CASHBOX_KKM_ID'] = 'ÐœÐ°Ñ€ÐºÐ° ÐšÐšÐœ';
+$MESS['SALE_CASHBOX_KKM_NO_CHOOSE'] = 'ÐÐµ Ð²Ñ‹Ð±Ñ€Ð°Ð½Ð¾';
+$MESS['SALE_CASHBOX_ADD_CHECK_SELECT_TYPE'] = 'Ð’Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ Ñ‚Ð¸Ð¿ Ñ‡ÐµÐºÐ°';

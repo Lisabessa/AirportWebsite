@@ -1,8 +1,8 @@
 <?
-$MESS["JC_CORE_TREE_SELECT_CONTROL"] = "Âûáåðèòå óñëîâèå";
-$MESS["JC_CORE_TREE_ADD_CONTROL"] = "Äîáàâèòü óñëîâèå";
-$MESS["JC_CORE_TREE_DELETE_CONTROL"] = "Óäàëèòü óñëîâèå";
-$MESS["JC_CORE_TREE_CONTROL_DATETIME_ICON"] = "Íàæìèòå äëÿ âûáîðà äàòû";
-$MESS["JC_CORE_TREE_CONDITION_ERROR"] = "Îøèáêà â óñëîâèè";
-$MESS["JC_CORE_TREE_CONDITION_FATAL_ERROR"] = "Íåóñòðàíèìàÿ îøèáêà â óñëîâèè. Ðåêîìåíäóåòñÿ åãî óäàëèòü";
+$MESS["JC_CORE_TREE_SELECT_CONTROL"] = "Ð’Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ ÑƒÑÐ»Ð¾Ð²Ð¸Ðµ";
+$MESS["JC_CORE_TREE_ADD_CONTROL"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ ÑƒÑÐ»Ð¾Ð²Ð¸Ðµ";
+$MESS["JC_CORE_TREE_DELETE_CONTROL"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ ÑƒÑÐ»Ð¾Ð²Ð¸Ðµ";
+$MESS["JC_CORE_TREE_CONTROL_DATETIME_ICON"] = "ÐÐ°Ð¶Ð¼Ð¸Ñ‚Ðµ Ð´Ð»Ñ Ð²Ñ‹Ð±Ð¾Ñ€Ð° Ð´Ð°Ñ‚Ñ‹";
+$MESS["JC_CORE_TREE_CONDITION_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð² ÑƒÑÐ»Ð¾Ð²Ð¸Ð¸";
+$MESS["JC_CORE_TREE_CONDITION_FATAL_ERROR"] = "ÐÐµÑƒÑÑ‚Ñ€Ð°Ð½Ð¸Ð¼Ð°Ñ Ð¾ÑˆÐ¸Ð±ÐºÐ° Ð² ÑƒÑÐ»Ð¾Ð²Ð¸Ð¸. Ð ÐµÐºÐ¾Ð¼ÐµÐ½Ð´ÑƒÐµÑ‚ÑÑ ÐµÐ³Ð¾ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ";
 ?>

@@ -1,6 +1,6 @@
 <?php
-$MESS["SALE_LOCATION_EXTERNAL_ENTITY_CANNOT_ADD_DATA_EXCEPTION"] = "Ïîìèëêà äîäàâàííÿ çîâí³øí³õ äàíèõ";
-$MESS["SALE_LOCATION_EXTERNAL_ENTITY_CANNOT_DELETE_DATA_EXCEPTION"] = "Ïîìèëêà âèäàëåííÿ çîâí³øí³õ äàíèõ";
-$MESS["SALE_LOCATION_EXTERNAL_ENTITY_CANNOT_UPDATE_DATA_EXCEPTION"] = "Ïîìèëêà îíîâëåííÿ çîâí³øí³õ äàíèõ";
-$MESS["SALE_LOCATION_EXTERNAL_ENTITY_SERVICE_ID_FIELD"] = "Êîä ñåðâ³ñó";
-$MESS["SALE_LOCATION_EXTERNAL_ENTITY_XML_ID_FIELD"] = "Çîâí³øí³é êîä";
+$MESS["SALE_LOCATION_EXTERNAL_ENTITY_CANNOT_ADD_DATA_EXCEPTION"] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ° Ð´Ð¾Ð´Ð°Ð²Ð°Ð½Ð½Ñ Ð·Ð¾Ð²Ð½Ñ–ÑˆÐ½Ñ–Ñ… Ð´Ð°Ð½Ð¸Ñ…";
+$MESS["SALE_LOCATION_EXTERNAL_ENTITY_CANNOT_DELETE_DATA_EXCEPTION"] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ° Ð²Ð¸Ð´Ð°Ð»ÐµÐ½Ð½Ñ Ð·Ð¾Ð²Ð½Ñ–ÑˆÐ½Ñ–Ñ… Ð´Ð°Ð½Ð¸Ñ…";
+$MESS["SALE_LOCATION_EXTERNAL_ENTITY_CANNOT_UPDATE_DATA_EXCEPTION"] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ° Ð¾Ð½Ð¾Ð²Ð»ÐµÐ½Ð½Ñ Ð·Ð¾Ð²Ð½Ñ–ÑˆÐ½Ñ–Ñ… Ð´Ð°Ð½Ð¸Ñ…";
+$MESS["SALE_LOCATION_EXTERNAL_ENTITY_SERVICE_ID_FIELD"] = "ÐšÐ¾Ð´ ÑÐµÑ€Ð²Ñ–ÑÑƒ";
+$MESS["SALE_LOCATION_EXTERNAL_ENTITY_XML_ID_FIELD"] = "Ð—Ð¾Ð²Ð½Ñ–ÑˆÐ½Ñ–Ð¹ ÐºÐ¾Ð´";

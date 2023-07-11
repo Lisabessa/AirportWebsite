@@ -1,9 +1,9 @@
 <?
-$MESS["SALE_EXCHANGE_EXTERNAL_ID_NOT_FOUND"] = "Íå ïåðåäàí êîä äîêóìåíòà";
-$MESS["SALE_EXCHANGE_PACKAGE_ERROR_ORDER_CANNOT_UPDATE"] = "Îøèáêà ñèíõðîíèçàöèè çàêàçà ñ 1Ñ. Çàêàç íå ìîæåò áûòü îáíîâëåí";
-$MESS["SALE_EXCHANGE_PACKAGE_ERROR_PAYMENT_IS_NOT_RELATED_TO_ORDER_OR_DELETED"] = "Îïëàòà #DOCUMENT_ID# íå ñâÿàçíà ñ ñóùåñòâóþùèì çàêàçîì";
-$MESS["SALE_EXCHANGE_PACKAGE_ERROR_SHIPMENT_IS_NOT_RELATED_TO_ORDER_OR_DELETED"] = "Îòãðóçêà #DOCUMENT_ID# íå ñâÿàçíà ñ ñóùåñòâóþùèì çàêàçîì";
-$MESS["SALE_EXCHANGE_PACKAGE_ERROR_ORDER_IS_NOT_LOADED"] = "Îøèáêà çàãðóçêè äîêóìåíòà îñíîâàíèÿ #DOCUMENT_ID#. Çàêàç îñíîâàíèå äëÿ ñâÿçàííûõ äîêóìåíòîâ íå íàéäåí";
-$MESS["SALE_EXCHANGE_PACKAGE_ERROR_USER_IS_EMPTY"] = "Íå óäàëîñü èäåíòèôèöèðîâàòü ïîëüçîâàòåëÿ ïî ïðîôèëþ #DOCUMENT_ID#";
-$MESS["SALE_EXCHANGE_PACKAGE_ERROR_PERSONAL_TYPE_IS_EMPTY"] = "Íå óäàëîñü èäåíòèôèöèðîâàòü òèï ïëàòåëüùèêà ïî ïðîôèëþ #DOCUMENT_ID#";
+$MESS["SALE_EXCHANGE_EXTERNAL_ID_NOT_FOUND"] = "ÐÐµ Ð¿ÐµÑ€ÐµÐ´Ð°Ð½ ÐºÐ¾Ð´ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð°";
+$MESS["SALE_EXCHANGE_PACKAGE_ERROR_ORDER_CANNOT_UPDATE"] = "ÐžÑˆÐ¸Ð±ÐºÐ° ÑÐ¸Ð½Ñ…Ñ€Ð¾Ð½Ð¸Ð·Ð°Ñ†Ð¸Ð¸ Ð·Ð°ÐºÐ°Ð·Ð° Ñ 1Ð¡. Ð—Ð°ÐºÐ°Ð· Ð½Ðµ Ð¼Ð¾Ð¶ÐµÑ‚ Ð±Ñ‹Ñ‚ÑŒ Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½";
+$MESS["SALE_EXCHANGE_PACKAGE_ERROR_PAYMENT_IS_NOT_RELATED_TO_ORDER_OR_DELETED"] = "ÐžÐ¿Ð»Ð°Ñ‚Ð° #DOCUMENT_ID# Ð½Ðµ ÑÐ²ÑÐ°Ð·Ð½Ð° Ñ ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÑŽÑ‰Ð¸Ð¼ Ð·Ð°ÐºÐ°Ð·Ð¾Ð¼";
+$MESS["SALE_EXCHANGE_PACKAGE_ERROR_SHIPMENT_IS_NOT_RELATED_TO_ORDER_OR_DELETED"] = "ÐžÑ‚Ð³Ñ€ÑƒÐ·ÐºÐ° #DOCUMENT_ID# Ð½Ðµ ÑÐ²ÑÐ°Ð·Ð½Ð° Ñ ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÑŽÑ‰Ð¸Ð¼ Ð·Ð°ÐºÐ°Ð·Ð¾Ð¼";
+$MESS["SALE_EXCHANGE_PACKAGE_ERROR_ORDER_IS_NOT_LOADED"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð·Ð°Ð³Ñ€ÑƒÐ·ÐºÐ¸ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð° Ð¾ÑÐ½Ð¾Ð²Ð°Ð½Ð¸Ñ #DOCUMENT_ID#. Ð—Ð°ÐºÐ°Ð· Ð¾ÑÐ½Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð´Ð»Ñ ÑÐ²ÑÐ·Ð°Ð½Ð½Ñ‹Ñ… Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð¾Ð² Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
+$MESS["SALE_EXCHANGE_PACKAGE_ERROR_USER_IS_EMPTY"] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸Ñ†Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ Ð¿Ð¾ Ð¿Ñ€Ð¾Ñ„Ð¸Ð»ÑŽ #DOCUMENT_ID#";
+$MESS["SALE_EXCHANGE_PACKAGE_ERROR_PERSONAL_TYPE_IS_EMPTY"] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸Ñ†Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ñ‚Ð¸Ð¿ Ð¿Ð»Ð°Ñ‚ÐµÐ»ÑŒÑ‰Ð¸ÐºÐ° Ð¿Ð¾ Ð¿Ñ€Ð¾Ñ„Ð¸Ð»ÑŽ #DOCUMENT_ID#";
 ?>

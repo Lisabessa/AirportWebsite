@@ -1,8 +1,8 @@
 <?php
-$MESS["socialservices_TAB"] = "Áèòðèêñ24";
-$MESS["socialservices_TAB_TITLE"] = "Íàñòðîéêè ïðîôèëÿ Áèòðèêñ24";
-$MESS["SS_USERTAB_NOT_CONNECTED_SELF"] = "Âû åùå íå ïðèâÿçûâàëè Áèòðèêñ24 ê ñâîåìó ïðîôèëþ.";
-$MESS["SS_USERTAB_NOT_CONNECTED_OTHER"] = "Ïîëüçîâàòåëü åùå íå ïðèâÿçàë Áèòðèêñ24 ê ñâîåìó ïðîôèëþ.";
-$MESS["SS_USERTAB_CREATE_LINK"] = "Ïðèâÿçàòü";
-$MESS["SS_USERTAB_LINKED_PROFILE"] = "Ïðèâÿçàííûé ïðîôèëü";
-$MESS["SS_USERTAB_DELETE_LINK"] = "óäàëèòü ïðèâÿçêó";
+$MESS["socialservices_TAB"] = "Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ24";
+$MESS["socialservices_TAB_TITLE"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð¿Ñ€Ð¾Ñ„Ð¸Ð»Ñ Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ24";
+$MESS["SS_USERTAB_NOT_CONNECTED_SELF"] = "Ð’Ñ‹ ÐµÑ‰Ðµ Ð½Ðµ Ð¿Ñ€Ð¸Ð²ÑÐ·Ñ‹Ð²Ð°Ð»Ð¸ Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ24 Ðº ÑÐ²Ð¾ÐµÐ¼Ñƒ Ð¿Ñ€Ð¾Ñ„Ð¸Ð»ÑŽ.";
+$MESS["SS_USERTAB_NOT_CONNECTED_OTHER"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ ÐµÑ‰Ðµ Ð½Ðµ Ð¿Ñ€Ð¸Ð²ÑÐ·Ð°Ð» Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ24 Ðº ÑÐ²Ð¾ÐµÐ¼Ñƒ Ð¿Ñ€Ð¾Ñ„Ð¸Ð»ÑŽ.";
+$MESS["SS_USERTAB_CREATE_LINK"] = "ÐŸÑ€Ð¸Ð²ÑÐ·Ð°Ñ‚ÑŒ";
+$MESS["SS_USERTAB_LINKED_PROFILE"] = "ÐŸÑ€Ð¸Ð²ÑÐ·Ð°Ð½Ð½Ñ‹Ð¹ Ð¿Ñ€Ð¾Ñ„Ð¸Ð»ÑŒ";
+$MESS["SS_USERTAB_DELETE_LINK"] = "ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ Ð¿Ñ€Ð¸Ð²ÑÐ·ÐºÑƒ";

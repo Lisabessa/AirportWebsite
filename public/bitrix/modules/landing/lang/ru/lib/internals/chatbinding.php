@@ -1,4 +1,4 @@
 <?php
-$MESS['LANDING_TABLE_FIELD_INTERNAL_CHAT_ID'] = 'Âíóòðåííèé èäåíòèôèêàòîð ÷àòà';
-$MESS['LANDING_TABLE_FIELD_ENTITY_ID'] = 'Èäåíòèôèêàòîð ïðèâÿçêè';
-$MESS['LANDING_TABLE_FIELD_ENTITY_TYPE'] = 'Òèï ïðèâÿçêè';
+$MESS['LANDING_TABLE_FIELD_INTERNAL_CHAT_ID'] = 'Ð’Ð½ÑƒÑ‚Ñ€ÐµÐ½Ð½Ð¸Ð¹ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ñ‡Ð°Ñ‚Ð°';
+$MESS['LANDING_TABLE_FIELD_ENTITY_ID'] = 'Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¿Ñ€Ð¸Ð²ÑÐ·ÐºÐ¸';
+$MESS['LANDING_TABLE_FIELD_ENTITY_TYPE'] = 'Ð¢Ð¸Ð¿ Ð¿Ñ€Ð¸Ð²ÑÐ·ÐºÐ¸';

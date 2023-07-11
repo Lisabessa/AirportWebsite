@@ -1,17 +1,17 @@
 <?
-$MESS["SALE_DELIVERY_REQ_LIST_DELETE"] = "Çàÿâêà \"#ID#\" âèäàëåíà";
-$MESS["SALE_DELIVERY_REQ_LIST_DELETE_ERROR"] = "Ïðè âèäàëåíí³ çàÿâêè \"#ID#\" âèíèêëè ïîìèëêè";
-$MESS["SALE_DELIVERY_REQ_LIST_UNKNOWN_ACTION"] = "Íåâ³äîìà ä³ÿ \"#ACTION#\"";
-$MESS["SALE_DELIVERY_REQ_LIST_F_ID"] = "²äåíòèô³êàòîð";
-$MESS["SALE_DELIVERY_REQ_LIST_F_DATE_INSERT"] = "Äàòà ³ ÷àñ ñòâîðåííÿ";
-$MESS["SALE_DELIVERY_REQ_LIST_F_DELIVERY_ID"] = "Ñëóæáà äîñòàâêè";
-$MESS["SALE_DELIVERY_REQ_LIST_F_STATUS"] = "Ñòàòóñ";
-$MESS["SALE_DELIVERY_REQ_LIST_F_EXTERNAL_ID"] = "Çîâí³øí³é ³äåíòèô³êàòîð";
-$MESS["SALE_DELIVERY_REQ_LIST_F_ORDERS_NUMBER"] = "Íîìåðè çàìîâëåíü";
-$MESS["SALE_DELIVERY_REQ_LIST_F_SHIPMENTS_NUMBER"] = "²äåíòèô³êàòîðè â³äâàíòàæåíü";
-$MESS["SALE_DELIVERY_REQ_LIST_EDIT"] = "Ðåäàãóâàòè";
-$MESS["SALE_DELIVERY_REQ_LIST_DEL"] = "Âèäàëèòè";
-$MESS["SALE_DELIVERY_REQ_LIST_DEL_CONFIRM"] = "Âè âïåâíåí³, ùî õî÷åòå âèäàëèòè çàÿâêó?";
-$MESS["SALE_DELIVERY_REQ_LIST_TITLE"] = "Ñïèñîê òðàíñïîðòíèõ çàÿâîê";
-$MESS["SALE_DELIVERY_REQ_LIST_DATE_INSERT"] = "Äàòà ñòâîðåííÿ";
+$MESS["SALE_DELIVERY_REQ_LIST_DELETE"] = "Ð—Ð°ÑÐ²ÐºÐ° \"#ID#\" Ð²Ð¸Ð´Ð°Ð»ÐµÐ½Ð°";
+$MESS["SALE_DELIVERY_REQ_LIST_DELETE_ERROR"] = "ÐŸÑ€Ð¸ Ð²Ð¸Ð´Ð°Ð»ÐµÐ½Ð½Ñ– Ð·Ð°ÑÐ²ÐºÐ¸ \"#ID#\" Ð²Ð¸Ð½Ð¸ÐºÐ»Ð¸ Ð¿Ð¾Ð¼Ð¸Ð»ÐºÐ¸";
+$MESS["SALE_DELIVERY_REQ_LIST_UNKNOWN_ACTION"] = "ÐÐµÐ²Ñ–Ð´Ð¾Ð¼Ð° Ð´Ñ–Ñ \"#ACTION#\"";
+$MESS["SALE_DELIVERY_REQ_LIST_F_ID"] = "Ð†Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÐ°Ñ‚Ð¾Ñ€";
+$MESS["SALE_DELIVERY_REQ_LIST_F_DATE_INSERT"] = "Ð”Ð°Ñ‚Ð° Ñ– Ñ‡Ð°Ñ ÑÑ‚Ð²Ð¾Ñ€ÐµÐ½Ð½Ñ";
+$MESS["SALE_DELIVERY_REQ_LIST_F_DELIVERY_ID"] = "Ð¡Ð»ÑƒÐ¶Ð±Ð° Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸";
+$MESS["SALE_DELIVERY_REQ_LIST_F_STATUS"] = "Ð¡Ñ‚Ð°Ñ‚ÑƒÑ";
+$MESS["SALE_DELIVERY_REQ_LIST_F_EXTERNAL_ID"] = "Ð—Ð¾Ð²Ð½Ñ–ÑˆÐ½Ñ–Ð¹ Ñ–Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÐ°Ñ‚Ð¾Ñ€";
+$MESS["SALE_DELIVERY_REQ_LIST_F_ORDERS_NUMBER"] = "ÐÐ¾Ð¼ÐµÑ€Ð¸ Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½ÑŒ";
+$MESS["SALE_DELIVERY_REQ_LIST_F_SHIPMENTS_NUMBER"] = "Ð†Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÐ°Ñ‚Ð¾Ñ€Ð¸ Ð²Ñ–Ð´Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½ÑŒ";
+$MESS["SALE_DELIVERY_REQ_LIST_EDIT"] = "Ð ÐµÐ´Ð°Ð³ÑƒÐ²Ð°Ñ‚Ð¸";
+$MESS["SALE_DELIVERY_REQ_LIST_DEL"] = "Ð’Ð¸Ð´Ð°Ð»Ð¸Ñ‚Ð¸";
+$MESS["SALE_DELIVERY_REQ_LIST_DEL_CONFIRM"] = "Ð’Ð¸ Ð²Ð¿ÐµÐ²Ð½ÐµÐ½Ñ–, Ñ‰Ð¾ Ñ…Ð¾Ñ‡ÐµÑ‚Ðµ Ð²Ð¸Ð´Ð°Ð»Ð¸Ñ‚Ð¸ Ð·Ð°ÑÐ²ÐºÑƒ?";
+$MESS["SALE_DELIVERY_REQ_LIST_TITLE"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ñ‚Ñ€Ð°Ð½ÑÐ¿Ð¾Ñ€Ñ‚Ð½Ð¸Ñ… Ð·Ð°ÑÐ²Ð¾Ðº";
+$MESS["SALE_DELIVERY_REQ_LIST_DATE_INSERT"] = "Ð”Ð°Ñ‚Ð° ÑÑ‚Ð²Ð¾Ñ€ÐµÐ½Ð½Ñ";
 ?>

@@ -1,9 +1,9 @@
 <?
-$MESS ['STAT_RECORDS_LIST'] = "Êðóãîâàÿ äèàãðàììà èíäåêñàöèè ñàéòà";
-$MESS ['STAT_F_PERIOD'] = "Ïåðèîä";
-$MESS ['STAT_VIEW_SEARCHER_HITS'] = "Õèòû ïîèñêîâèêà";
-$MESS ['STAT_VIEW_SEARCHER_GRAPH'] = "Ãðàôèê èíäåêñàöèè ñàéòà äàííûì ïîèñêîâèêîì";
-$MESS ['STAT_FL_SEACHERS'] = "Ïîèñêîâûå ñèñòåìû";
-$MESS ['STAT_NO_DATA'] = "Íåò äàííûõ äëÿ ïîñòðîåíèÿ ãðàôèêà";
-$MESS ['STAT_F_SEACHERS'] = "Ïîèñêîâèêè:";
+$MESS ['STAT_RECORDS_LIST'] = "ÐšÑ€ÑƒÐ³Ð¾Ð²Ð°Ñ Ð´Ð¸Ð°Ð³Ñ€Ð°Ð¼Ð¼Ð° Ð¸Ð½Ð´ÐµÐºÑÐ°Ñ†Ð¸Ð¸ ÑÐ°Ð¹Ñ‚Ð°";
+$MESS ['STAT_F_PERIOD'] = "ÐŸÐµÑ€Ð¸Ð¾Ð´";
+$MESS ['STAT_VIEW_SEARCHER_HITS'] = "Ð¥Ð¸Ñ‚Ñ‹ Ð¿Ð¾Ð¸ÑÐºÐ¾Ð²Ð¸ÐºÐ°";
+$MESS ['STAT_VIEW_SEARCHER_GRAPH'] = "Ð“Ñ€Ð°Ñ„Ð¸Ðº Ð¸Ð½Ð´ÐµÐºÑÐ°Ñ†Ð¸Ð¸ ÑÐ°Ð¹Ñ‚Ð° Ð´Ð°Ð½Ð½Ñ‹Ð¼ Ð¿Ð¾Ð¸ÑÐºÐ¾Ð²Ð¸ÐºÐ¾Ð¼";
+$MESS ['STAT_FL_SEACHERS'] = "ÐŸÐ¾Ð¸ÑÐºÐ¾Ð²Ñ‹Ðµ ÑÐ¸ÑÑ‚ÐµÐ¼Ñ‹";
+$MESS ['STAT_NO_DATA'] = "ÐÐµÑ‚ Ð´Ð°Ð½Ð½Ñ‹Ñ… Ð´Ð»Ñ Ð¿Ð¾ÑÑ‚Ñ€Ð¾ÐµÐ½Ð¸Ñ Ð³Ñ€Ð°Ñ„Ð¸ÐºÐ°";
+$MESS ['STAT_F_SEACHERS'] = "ÐŸÐ¾Ð¸ÑÐºÐ¾Ð²Ð¸ÐºÐ¸:";
 ?>

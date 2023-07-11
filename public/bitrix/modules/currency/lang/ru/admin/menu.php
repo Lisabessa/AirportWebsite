@@ -1,8 +1,8 @@
 <?
-$MESS["CURRENCY_CONTROL"] = "Âàëþòû";
-$MESS["CURRENCY"] = "Ñïèñîê âàëþò";
-$MESS["CURRENCY_ALT"] = "Óïðàâëåíèå âàëþòàìè";
-$MESS["CURRENCY_RATES"] = "Êóðñû âàëþò";
-$MESS["CURRENCY_RATES_ALT"] = "Óïðàâëåíèå êóðñàìè âàëþò";
-$MESS["currency_menu_title"] = "Óïðàâëåíèå âàëþòàìè";
+$MESS["CURRENCY_CONTROL"] = "Ð’Ð°Ð»ÑŽÑ‚Ñ‹";
+$MESS["CURRENCY"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð²Ð°Ð»ÑŽÑ‚";
+$MESS["CURRENCY_ALT"] = "Ð£Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ð²Ð°Ð»ÑŽÑ‚Ð°Ð¼Ð¸";
+$MESS["CURRENCY_RATES"] = "ÐšÑƒÑ€ÑÑ‹ Ð²Ð°Ð»ÑŽÑ‚";
+$MESS["CURRENCY_RATES_ALT"] = "Ð£Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ ÐºÑƒÑ€ÑÐ°Ð¼Ð¸ Ð²Ð°Ð»ÑŽÑ‚";
+$MESS["currency_menu_title"] = "Ð£Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ð²Ð°Ð»ÑŽÑ‚Ð°Ð¼Ð¸";
 ?>

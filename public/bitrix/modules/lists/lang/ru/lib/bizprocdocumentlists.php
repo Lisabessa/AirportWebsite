@@ -1,2 +1,2 @@
 <?php
-$MESS["LISTS_BIZPROC_ENTITY_LISTS_NAME"] = "Ñïèñêè";
+$MESS["LISTS_BIZPROC_ENTITY_LISTS_NAME"] = "Ð¡Ð¿Ð¸ÑÐºÐ¸";

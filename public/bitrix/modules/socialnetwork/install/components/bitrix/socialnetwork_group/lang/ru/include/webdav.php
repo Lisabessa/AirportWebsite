@@ -1,13 +1,13 @@
 <?
-$MESS["SONET_FILES"] = "Диск";
-$MESS["SONET_FILES_IS_NOT_ACTIVE"] = "Функционал 'Файлы' выключен";
-$MESS["SONET_WD_MODULE_IS_NOT_INSTALLED"] = "Модуль библиотеки документов не установлен.";
-$MESS["SONET_IB_MODULE_IS_NOT_INSTALLED"] = "Модуль информационных блоков не установлен.";
-$MESS["SONET_IBLOCK_ID_EMPTY"] = "Не указан инфоблок.";
-$MESS["SONET_GROUP_NOT_EXISTS"] = "Группа не существует.";
-$MESS["SONET_GROUP_PREFIX"] = "Группа: ";
-$MESS["SONET_WEBDAV_NOT_EXISTS"] = "Документов нет.";
-$MESS["WD_HOW_TO_INCREASE_QUOTA"] = "<a href=\"#HREF##maxfilesize\">Как увеличить квоту?</a>";
-$MESS["SONET_USER_FILES_ACCESS_DENIED"] = "Доступ к файлам пользователя ограничен.";
-$MESS["SONET_GROUP_FILES_ACCESS_DENIED"] = "Доступ к файлам группы ограничен.";
+$MESS["SONET_FILES"] = "Р”РёСЃРє";
+$MESS["SONET_FILES_IS_NOT_ACTIVE"] = "Р¤СѓРЅРєС†РёРѕРЅР°Р» 'Р¤Р°Р№Р»С‹' РІС‹РєР»СЋС‡РµРЅ";
+$MESS["SONET_WD_MODULE_IS_NOT_INSTALLED"] = "РњРѕРґСѓР»СЊ Р±РёР±Р»РёРѕС‚РµРєРё РґРѕРєСѓРјРµРЅС‚РѕРІ РЅРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅ.";
+$MESS["SONET_IB_MODULE_IS_NOT_INSTALLED"] = "РњРѕРґСѓР»СЊ РёРЅС„РѕСЂРјР°С†РёРѕРЅРЅС‹С… Р±Р»РѕРєРѕРІ РЅРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅ.";
+$MESS["SONET_IBLOCK_ID_EMPTY"] = "РќРµ СѓРєР°Р·Р°РЅ РёРЅС„РѕР±Р»РѕРє.";
+$MESS["SONET_GROUP_NOT_EXISTS"] = "Р“СЂСѓРїРїР° РЅРµ СЃСѓС‰РµСЃС‚РІСѓРµС‚.";
+$MESS["SONET_GROUP_PREFIX"] = "Р“СЂСѓРїРїР°: ";
+$MESS["SONET_WEBDAV_NOT_EXISTS"] = "Р”РѕРєСѓРјРµРЅС‚РѕРІ РЅРµС‚.";
+$MESS["WD_HOW_TO_INCREASE_QUOTA"] = "<a href=\"#HREF##maxfilesize\">РљР°Рє СѓРІРµР»РёС‡РёС‚СЊ РєРІРѕС‚Сѓ?</a>";
+$MESS["SONET_USER_FILES_ACCESS_DENIED"] = "Р”РѕСЃС‚СѓРї Рє С„Р°Р№Р»Р°Рј РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ РѕРіСЂР°РЅРёС‡РµРЅ.";
+$MESS["SONET_GROUP_FILES_ACCESS_DENIED"] = "Р”РѕСЃС‚СѓРї Рє С„Р°Р№Р»Р°Рј РіСЂСѓРїРїС‹ РѕРіСЂР°РЅРёС‡РµРЅ.";
 ?>

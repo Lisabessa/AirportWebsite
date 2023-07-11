@@ -1,4 +1,4 @@
 <?
-$MESS ['SENDER_AGREEMENT_TITLE'] = "Ïðàâèëà èñïîëüçîâàíèÿ CRM-ìàðêåòèíãà â Áèòðèêñ24";
-$MESS ['SENDER_AGREEMENT_BUTTON_ACCEPT'] = "ß ñîãëàñåí";
+$MESS ['SENDER_AGREEMENT_TITLE'] = "ÐŸÑ€Ð°Ð²Ð¸Ð»Ð° Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð¸Ñ CRM-Ð¼Ð°Ñ€ÐºÐµÑ‚Ð¸Ð½Ð³Ð° Ð² Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ24";
+$MESS ['SENDER_AGREEMENT_BUTTON_ACCEPT'] = "Ð¯ ÑÐ¾Ð³Ð»Ð°ÑÐµÐ½";
 ?>

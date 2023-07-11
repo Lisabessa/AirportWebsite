@@ -1,14 +1,14 @@
 <?
-$MESS ['DEMO_IBLOCK_MASTER_TAB_TITLE'] = "Âîïðîñ";
-$MESS ['DEMO_IBLOCK_MASTER_FIELD_ACTIVE'] = "Çàïèñü àêòèâíà";
-$MESS ['DEMO_IBLOCK_MASTER_FIELD_NAME'] = "Âîïðîñ";
-$MESS ['DEMO_IBLOCK_MASTER_FIELD_SORT'] = "Èíäåêñ ñîðòèðîâêè";
-$MESS ['DEMO_IBLOCK_MASTER_FIELD_IBLOCK_ELEMENT_PROP_VALUE'] = "Ñâîéñòâà";
-$MESS ['DEMO_IBLOCK_MASTER_FIELD_PROPERTY_TYPE'] = "Òèï âîïðîñà";
-$MESS ['DEMO_IBLOCK_MASTER_FIELD_PROPERTY_VALUES'] = "Çíà÷åíèÿ ïîëåé";
-$MESS ['DEMO_IBLOCK_MASTER_FIELD_PREVIEW_TEXT'] = "Îïèñàíèå äëÿ âîïðîñà";
-$MESS ['DEMO_IBLOCK_MASTER_TAB2_TITLE'] = "Äîïîëíèòåëüíî";
-$MESS ['DEMO_IBLOCK_MASTER_FIELD_DETAIL_TEXT'] = "Äåòàëüíîå îïèñàíèå";
-$MESS ['DEMO_IBLOCK_MASTER_TAB3_TITLE'] = "Ðàçäåëû";
-$MESS ['DEMO_IBLOCK_MASTER_FIELD_SECTIONS'] = "Ðàçäåëû";
+$MESS ['DEMO_IBLOCK_MASTER_TAB_TITLE'] = "Ð’Ð¾Ð¿Ñ€Ð¾Ñ";
+$MESS ['DEMO_IBLOCK_MASTER_FIELD_ACTIVE'] = "Ð—Ð°Ð¿Ð¸ÑÑŒ Ð°ÐºÑ‚Ð¸Ð²Ð½Ð°";
+$MESS ['DEMO_IBLOCK_MASTER_FIELD_NAME'] = "Ð’Ð¾Ð¿Ñ€Ð¾Ñ";
+$MESS ['DEMO_IBLOCK_MASTER_FIELD_SORT'] = "Ð˜Ð½Ð´ÐµÐºÑ ÑÐ¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²ÐºÐ¸";
+$MESS ['DEMO_IBLOCK_MASTER_FIELD_IBLOCK_ELEMENT_PROP_VALUE'] = "Ð¡Ð²Ð¾Ð¹ÑÑ‚Ð²Ð°";
+$MESS ['DEMO_IBLOCK_MASTER_FIELD_PROPERTY_TYPE'] = "Ð¢Ð¸Ð¿ Ð²Ð¾Ð¿Ñ€Ð¾ÑÐ°";
+$MESS ['DEMO_IBLOCK_MASTER_FIELD_PROPERTY_VALUES'] = "Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ñ Ð¿Ð¾Ð»ÐµÐ¹";
+$MESS ['DEMO_IBLOCK_MASTER_FIELD_PREVIEW_TEXT'] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ Ð´Ð»Ñ Ð²Ð¾Ð¿Ñ€Ð¾ÑÐ°";
+$MESS ['DEMO_IBLOCK_MASTER_TAB2_TITLE'] = "Ð”Ð¾Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾";
+$MESS ['DEMO_IBLOCK_MASTER_FIELD_DETAIL_TEXT'] = "Ð”ÐµÑ‚Ð°Ð»ÑŒÐ½Ð¾Ðµ Ð¾Ð¿Ð¸ÑÐ°Ð½Ð¸Ðµ";
+$MESS ['DEMO_IBLOCK_MASTER_TAB3_TITLE'] = "Ð Ð°Ð·Ð´ÐµÐ»Ñ‹";
+$MESS ['DEMO_IBLOCK_MASTER_FIELD_SECTIONS'] = "Ð Ð°Ð·Ð´ÐµÐ»Ñ‹";
 ?>

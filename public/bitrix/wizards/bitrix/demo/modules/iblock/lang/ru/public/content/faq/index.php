@@ -1,5 +1,5 @@
 <?
-$MESS ['DEMO_IBLOCK_CONTENT_FAQ_TITLE'] = "×àñòî çàäàâàåìûå âîïðîñû";
-$MESS ['DEMO_IBLOCK_CONTENT_FAQ_DETAIL_PAGER_TITLE'] = "Ñòðàíèöà";
-$MESS ['DEMO_IBLOCK_CONTENT_FAQ_PAGER_TITLE'] = "Âîïðîñû";
+$MESS ['DEMO_IBLOCK_CONTENT_FAQ_TITLE'] = "Ð§Ð°ÑÑ‚Ð¾ Ð·Ð°Ð´Ð°Ð²Ð°ÐµÐ¼Ñ‹Ðµ Ð²Ð¾Ð¿Ñ€Ð¾ÑÑ‹";
+$MESS ['DEMO_IBLOCK_CONTENT_FAQ_DETAIL_PAGER_TITLE'] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð°";
+$MESS ['DEMO_IBLOCK_CONTENT_FAQ_PAGER_TITLE'] = "Ð’Ð¾Ð¿Ñ€Ð¾ÑÑ‹";
 ?>

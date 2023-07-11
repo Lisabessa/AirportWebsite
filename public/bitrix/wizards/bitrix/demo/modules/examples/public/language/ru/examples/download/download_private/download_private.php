@@ -81,12 +81,12 @@ if(file_exists($filename) && is_file($filename))
 						$event3 = $file;
 					}
 					$e = $event1."/".$event2."/".$event3;
-					if(!in_array($e, $_SESSION["DOWNLOAD_EVENTS"])) // проверим не скачивался ли в данной сессии
+					if(!in_array($e, $_SESSION["DOWNLOAD_EVENTS"])) // РїСЂРѕРІРµСЂРёРј РЅРµ СЃРєР°С‡РёРІР°Р»СЃСЏ Р»Рё РІ РґР°РЅРЅРѕР№ СЃРµСЃСЃРёРё
 					{
 						$w = CStatEvent::GetByEvents($event1, $event2);
 						$wr = $w->Fetch();
 						$z = CStatEvent::GetEventsByGuest($_SESSION["SESS_GUEST_ID"], $wr["EVENT_ID"], $event3, 21600);
-						if(!($zr=$z->Fetch())) // проверим не скачивал ли посетитель за последние 6 часов
+						if(!($zr=$z->Fetch())) // РїСЂРѕРІРµСЂРёРј РЅРµ СЃРєР°С‡РёРІР°Р» Р»Рё РїРѕСЃРµС‚РёС‚РµР»СЊ Р·Р° РїРѕСЃР»РµРґРЅРёРµ 6 С‡Р°СЃРѕРІ
 						{
 							CStatistic::Set_Event($event1, $event2, $event3);
 							$_SESSION["DOWNLOAD_EVENTS"][] = $e;

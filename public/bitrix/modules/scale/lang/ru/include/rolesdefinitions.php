@@ -1,2 +1,2 @@
 <?
-$MESS ['SCALE_RDEF_ROLE_MGMT'] = "Баланси-<br>ровщик";
+$MESS ['SCALE_RDEF_ROLE_MGMT'] = "Р‘Р°Р»Р°РЅСЃРё-<br>СЂРѕРІС‰РёРє";

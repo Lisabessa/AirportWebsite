@@ -1,10 +1,10 @@
 <?php
-$MESS['LEARNING_CONVERT_FAILED'] = 'Ïðîèçîøëà îøèáêà ïðè ïîïûòêå ñêîíâåðòèðîâàòü äàííûå ìîäóëÿ îáó÷åíèÿ';
-$MESS['LEARNING_PROCESSED_SUMMARY'] = 'Ñêîíâåðòèðîâàíî ýëåìåíòîâ (íàðàñòàþùèì èòîãîì):';
-$MESS['LEARNING_CONVERT_IN_PROGRESS'] = 'Åùå íå âñå äàííûå ñêîíâåðòèðîâàíû';
-$MESS['LEARNING_CONVERT_COMPLETE'] = 'Êîíâåðòàöèÿ äàííûõ çàâåðøåíà';
-$MESS['LEARNING_CONVERT_TITLE'] = 'Êîíâåðòàöèÿ äàííûõ ìîäóëÿ îáó÷åíèÿ';
-$MESS['LEARNING_CONVERT_TAB'] = 'Êîíâåðòàöèÿ äàííûõ';
-$MESS['LEARNING_CONVERT_TAB_TITLE'] = 'Êîíâåðòàöèÿ äàííûõ';
-$MESS['LEARNING_CONVERT_START_BUTTON'] = 'Íà÷àòü êîíâåðòàöèþ';
-$MESS['LEARNING_CONVERT_STOP_BUTTON'] = 'Ïðåðâàòü êîíâåðòàöèþ';
+$MESS['LEARNING_CONVERT_FAILED'] = 'ÐŸÑ€Ð¾Ð¸Ð·Ð¾ÑˆÐ»Ð° Ð¾ÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ Ð¿Ð¾Ð¿Ñ‹Ñ‚ÐºÐµ ÑÐºÐ¾Ð½Ð²ÐµÑ€Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ð´Ð°Ð½Ð½Ñ‹Ðµ Ð¼Ð¾Ð´ÑƒÐ»Ñ Ð¾Ð±ÑƒÑ‡ÐµÐ½Ð¸Ñ';
+$MESS['LEARNING_PROCESSED_SUMMARY'] = 'Ð¡ÐºÐ¾Ð½Ð²ÐµÑ€Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¾ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð² (Ð½Ð°Ñ€Ð°ÑÑ‚Ð°ÑŽÑ‰Ð¸Ð¼ Ð¸Ñ‚Ð¾Ð³Ð¾Ð¼):';
+$MESS['LEARNING_CONVERT_IN_PROGRESS'] = 'Ð•Ñ‰Ðµ Ð½Ðµ Ð²ÑÐµ Ð´Ð°Ð½Ð½Ñ‹Ðµ ÑÐºÐ¾Ð½Ð²ÐµÑ€Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ñ‹';
+$MESS['LEARNING_CONVERT_COMPLETE'] = 'ÐšÐ¾Ð½Ð²ÐµÑ€Ñ‚Ð°Ñ†Ð¸Ñ Ð´Ð°Ð½Ð½Ñ‹Ñ… Ð·Ð°Ð²ÐµÑ€ÑˆÐµÐ½Ð°';
+$MESS['LEARNING_CONVERT_TITLE'] = 'ÐšÐ¾Ð½Ð²ÐµÑ€Ñ‚Ð°Ñ†Ð¸Ñ Ð´Ð°Ð½Ð½Ñ‹Ñ… Ð¼Ð¾Ð´ÑƒÐ»Ñ Ð¾Ð±ÑƒÑ‡ÐµÐ½Ð¸Ñ';
+$MESS['LEARNING_CONVERT_TAB'] = 'ÐšÐ¾Ð½Ð²ÐµÑ€Ñ‚Ð°Ñ†Ð¸Ñ Ð´Ð°Ð½Ð½Ñ‹Ñ…';
+$MESS['LEARNING_CONVERT_TAB_TITLE'] = 'ÐšÐ¾Ð½Ð²ÐµÑ€Ñ‚Ð°Ñ†Ð¸Ñ Ð´Ð°Ð½Ð½Ñ‹Ñ…';
+$MESS['LEARNING_CONVERT_START_BUTTON'] = 'ÐÐ°Ñ‡Ð°Ñ‚ÑŒ ÐºÐ¾Ð½Ð²ÐµÑ€Ñ‚Ð°Ñ†Ð¸ÑŽ';
+$MESS['LEARNING_CONVERT_STOP_BUTTON'] = 'ÐŸÑ€ÐµÑ€Ð²Ð°Ñ‚ÑŒ ÐºÐ¾Ð½Ð²ÐµÑ€Ñ‚Ð°Ñ†Ð¸ÑŽ';

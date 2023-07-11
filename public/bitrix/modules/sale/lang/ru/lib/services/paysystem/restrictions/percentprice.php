@@ -1,5 +1,5 @@
 <?php
-$MESS['SALE_PS_RESTRICTIONS_BY_PERCENT_PRICE'] = '% от стоимости заказа';
+$MESS['SALE_PS_RESTRICTIONS_BY_PERCENT_PRICE'] = '% РѕС‚ СЃС‚РѕРёРјРѕСЃС‚Рё Р·Р°РєР°Р·Р°';
 $MESS['SALE_PS_RESTRICTIONS_BY_PERCENT_PRICE_DESC'] = '';
-$MESS['SALE_PS_RESTRICTIONS_BY_PRICE_PERCENT_TYPE_MORE'] = '% от стоимости заказа от';
-$MESS['SALE_PS_RESTRICTIONS_BY_PRICE_PERCENT_TYPE_LESS'] = '% от стоимости заказа до';
+$MESS['SALE_PS_RESTRICTIONS_BY_PRICE_PERCENT_TYPE_MORE'] = '% РѕС‚ СЃС‚РѕРёРјРѕСЃС‚Рё Р·Р°РєР°Р·Р° РѕС‚';
+$MESS['SALE_PS_RESTRICTIONS_BY_PRICE_PERCENT_TYPE_LESS'] = '% РѕС‚ СЃС‚РѕРёРјРѕСЃС‚Рё Р·Р°РєР°Р·Р° РґРѕ';

@@ -1,3 +1,3 @@
 <?
-$MESS["SONET_LIVEFEED_TIMEMAN_REPORT_TITLE"] = "Ðàáî÷èé îò÷åò ñîòðóäíèêà #USER_NAME# çà #DATE#";
+$MESS["SONET_LIVEFEED_TIMEMAN_REPORT_TITLE"] = "Ð Ð°Ð±Ð¾Ñ‡Ð¸Ð¹ Ð¾Ñ‚Ñ‡ÐµÑ‚ ÑÐ¾Ñ‚Ñ€ÑƒÐ´Ð½Ð¸ÐºÐ° #USER_NAME# Ð·Ð° #DATE#";
 ?>

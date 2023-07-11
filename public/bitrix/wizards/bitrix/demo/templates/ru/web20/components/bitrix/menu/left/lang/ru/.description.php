@@ -1,4 +1,4 @@
 <?
-$MESS ['MENU_DOT_DEFAULT_NAME'] = "Ëåâîå ìåíþ";
-$MESS ['MENU_DOT_DEFAULT_DESC'] = "Ëåâîå ìåíþ";
+$MESS ['MENU_DOT_DEFAULT_NAME'] = "Ð›ÐµÐ²Ð¾Ðµ Ð¼ÐµÐ½ÑŽ";
+$MESS ['MENU_DOT_DEFAULT_DESC'] = "Ð›ÐµÐ²Ð¾Ðµ Ð¼ÐµÐ½ÑŽ";
 ?>

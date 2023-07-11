@@ -1,4 +1,4 @@
 <?
-$MESS["REPORTS_TIME_PERIOD"] = "Îò÷åòíûé ïåðèîä";
-$MESS["REPORT_BOARD_CURRENT_MONTH_PRESET_TITLE"] = "Òåêóùèé ìåñÿö";
+$MESS["REPORTS_TIME_PERIOD"] = "ÐžÑ‚Ñ‡ÐµÑ‚Ð½Ñ‹Ð¹ Ð¿ÐµÑ€Ð¸Ð¾Ð´";
+$MESS["REPORT_BOARD_CURRENT_MONTH_PRESET_TITLE"] = "Ð¢ÐµÐºÑƒÑ‰Ð¸Ð¹ Ð¼ÐµÑÑÑ†";
 ?>

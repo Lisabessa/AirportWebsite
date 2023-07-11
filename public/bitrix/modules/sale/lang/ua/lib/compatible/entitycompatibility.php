@@ -1,4 +1,4 @@
 <?
-$MESS["SALE_COMPATIBLE_ORDER_RAW_FIELD_UPDATE_ERROR"] = "Помилка оновлення полів таблиці замовлення";
-$MESS["SALE_COMPATIBLE_PAYMENT_RAW_FIELD_UPDATE_ERROR"] = "Помилка оновлення полів таблиці оплат";
+$MESS["SALE_COMPATIBLE_ORDER_RAW_FIELD_UPDATE_ERROR"] = "РџРѕРјРёР»РєР° РѕРЅРѕРІР»РµРЅРЅСЏ РїРѕР»С–РІ С‚Р°Р±Р»РёС†С– Р·Р°РјРѕРІР»РµРЅРЅСЏ";
+$MESS["SALE_COMPATIBLE_PAYMENT_RAW_FIELD_UPDATE_ERROR"] = "РџРѕРјРёР»РєР° РѕРЅРѕРІР»РµРЅРЅСЏ РїРѕР»С–РІ С‚Р°Р±Р»РёС†С– РѕРїР»Р°С‚";
 ?>

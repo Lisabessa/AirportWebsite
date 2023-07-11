@@ -1,3 +1,3 @@
 <?php
-$MESS['LANDING_ROLE_DEF_ADMIN'] = 'Àäìèíèñòðàòîð';
-$MESS['LANDING_ROLE_DEF_MANAGER'] = 'Ìåíåäæåð';
+$MESS['LANDING_ROLE_DEF_ADMIN'] = 'ÐÐ´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¾Ñ€';
+$MESS['LANDING_ROLE_DEF_MANAGER'] = 'ÐœÐµÐ½ÐµÐ´Ð¶ÐµÑ€';

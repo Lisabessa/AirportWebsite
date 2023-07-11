@@ -1,3 +1,3 @@
 <?
-$MESS["FUPD_LF_LISTS_ITEM_EVENT_INDEX_TITLE"] = "Èíäåêñàöèÿ ïðîöåññîâ äëÿ æèâîé ëåíòû";
+$MESS["FUPD_LF_LISTS_ITEM_EVENT_INDEX_TITLE"] = "Ð˜Ð½Ð´ÐµÐºÑÐ°Ñ†Ð¸Ñ Ð¿Ñ€Ð¾Ñ†ÐµÑÑÐ¾Ð² Ð´Ð»Ñ Ð¶Ð¸Ð²Ð¾Ð¹ Ð»ÐµÐ½Ñ‚Ñ‹";
 ?>

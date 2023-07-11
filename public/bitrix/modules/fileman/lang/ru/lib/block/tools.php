@@ -1,3 +1,3 @@
 <?php
-$MESS["BLOCK_EDITOR_TOOLS_DEFAULT"] = "ïî óìîë÷àíèþ";
-$MESS["BLOCK_EDITOR_TOOLS_COLOR"] = "ñìåíèòü öâåò";
+$MESS["BLOCK_EDITOR_TOOLS_DEFAULT"] = "Ð¿Ð¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ";
+$MESS["BLOCK_EDITOR_TOOLS_COLOR"] = "ÑÐ¼ÐµÐ½Ð¸Ñ‚ÑŒ Ñ†Ð²ÐµÑ‚";

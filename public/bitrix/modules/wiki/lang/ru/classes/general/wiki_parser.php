@@ -1,6 +1,6 @@
 <?
-$MESS["FILE_NAME"] = "Ôàéë";
-$MESS["CATEGORY_NAME"] = "Êàòåãîðèÿ";
-$MESS["FILE_FILE_DOWNLOAD"] = "Ñêà÷àòü ôàéë";
-$MESS["FILE_DOWNLOAD"] = "Ñêà÷àòü";
+$MESS["FILE_NAME"] = "Ð¤Ð°Ð¹Ð»";
+$MESS["CATEGORY_NAME"] = "ÐšÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ñ";
+$MESS["FILE_FILE_DOWNLOAD"] = "Ð¡ÐºÐ°Ñ‡Ð°Ñ‚ÑŒ Ñ„Ð°Ð¹Ð»";
+$MESS["FILE_DOWNLOAD"] = "Ð¡ÐºÐ°Ñ‡Ð°Ñ‚ÑŒ";
 ?>

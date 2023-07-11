@@ -1,9 +1,9 @@
 <?
-$MESS["USER_TYPE_DT_DESCRIPTION"] = "Äàòà ñî âðåìåíåì";
-$MESS["USER_TYPE_DT_DEFAULT_VALUE"] = "Çíà÷åíèå ïî óìîë÷àíèþ";
-$MESS["USER_TYPE_DT_USE_SECOND"] = "Èñïîëüçîâàòü ñåêóíäû";
-$MESS["USER_TYPE_DT_USE_TIMEZONE"] = "Èñïîëüçîâàòü ÷àñîâûå ïîÿñà";
-$MESS["USER_TYPE_DT_NONE"] = "íåò";
-$MESS["USER_TYPE_DT_NOW"] = "òåêóùåå âðåìÿ";
-$MESS["USER_TYPE_DT_ERROR"] = "Çíà÷åíèå ïîëÿ \"#FIELD_NAME#\" íå ÿâëÿåòñÿ êîððåêòíîé äàòîé/âðåìåíåì.";
+$MESS["USER_TYPE_DT_DESCRIPTION"] = "Ð”Ð°Ñ‚Ð° ÑÐ¾ Ð²Ñ€ÐµÐ¼ÐµÐ½ÐµÐ¼";
+$MESS["USER_TYPE_DT_DEFAULT_VALUE"] = "Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð¿Ð¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ";
+$MESS["USER_TYPE_DT_USE_SECOND"] = "Ð˜ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ ÑÐµÐºÑƒÐ½Ð´Ñ‹";
+$MESS["USER_TYPE_DT_USE_TIMEZONE"] = "Ð˜ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ Ñ‡Ð°ÑÐ¾Ð²Ñ‹Ðµ Ð¿Ð¾ÑÑÐ°";
+$MESS["USER_TYPE_DT_NONE"] = "Ð½ÐµÑ‚";
+$MESS["USER_TYPE_DT_NOW"] = "Ñ‚ÐµÐºÑƒÑ‰ÐµÐµ Ð²Ñ€ÐµÐ¼Ñ";
+$MESS["USER_TYPE_DT_ERROR"] = "Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð¿Ð¾Ð»Ñ \"#FIELD_NAME#\" Ð½Ðµ ÑÐ²Ð»ÑÐµÑ‚ÑÑ ÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ð¾Ð¹ Ð´Ð°Ñ‚Ð¾Ð¹/Ð²Ñ€ÐµÐ¼ÐµÐ½ÐµÐ¼.";
 ?>

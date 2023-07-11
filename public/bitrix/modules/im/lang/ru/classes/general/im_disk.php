@@ -1,10 +1,10 @@
 <?
-$MESS["IM_DISK_LOCAL_FOLDER_B24_TITLE"] = "Áèçíåñ-÷àò - ñîõðàíåííûå ôàéëû";
-$MESS["IM_DISK_LOCAL_FOLDER_TITLE"] = "Âåá-ìåññåíäæåð - ñîõðàíåííûå ôàéëû";
-$MESS["IM_DISK_STORAGE_TITLE"] = "Õðàíèëèùå äëÿ Âåá-ìåññåíäæåðà";
-$MESS["IM_DISK_AVATAR_CHANGE_M"] = "#USER_NAME# èçìåíèë èêîíêó ÷àòà";
-$MESS["IM_DISK_AVATAR_CHANGE_F"] = "#USER_NAME# èçìåíèëà èêîíêó ÷àòà";
-$MESS["IM_DISK_ERR_AVATAR_1"] = "Âû íå ìîæåòå èçìåíèòü àâàòàð â ýòîì ÷àòå.";
-$MESS["IM_DISK_ERR_UPLOAD"] = "Âû íå ìîæåòå çàãðóçèòü ôàéë â ýòîò ÷àò.";
-$MESS["IM_DISK_ACTION_SAVE_TO_OWN_FILES"] = "Ñîõðàíèòü íà Áèòðèêñ24.Äèñê";
+$MESS["IM_DISK_LOCAL_FOLDER_B24_TITLE"] = "Ð‘Ð¸Ð·Ð½ÐµÑ-Ñ‡Ð°Ñ‚ - ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð½Ñ‹Ðµ Ñ„Ð°Ð¹Ð»Ñ‹";
+$MESS["IM_DISK_LOCAL_FOLDER_TITLE"] = "Ð’ÐµÐ±-Ð¼ÐµÑÑÐµÐ½Ð´Ð¶ÐµÑ€ - ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð½Ñ‹Ðµ Ñ„Ð°Ð¹Ð»Ñ‹";
+$MESS["IM_DISK_STORAGE_TITLE"] = "Ð¥Ñ€Ð°Ð½Ð¸Ð»Ð¸Ñ‰Ðµ Ð´Ð»Ñ Ð’ÐµÐ±-Ð¼ÐµÑÑÐµÐ½Ð´Ð¶ÐµÑ€Ð°";
+$MESS["IM_DISK_AVATAR_CHANGE_M"] = "#USER_NAME# Ð¸Ð·Ð¼ÐµÐ½Ð¸Ð» Ð¸ÐºÐ¾Ð½ÐºÑƒ Ñ‡Ð°Ñ‚Ð°";
+$MESS["IM_DISK_AVATAR_CHANGE_F"] = "#USER_NAME# Ð¸Ð·Ð¼ÐµÐ½Ð¸Ð»Ð° Ð¸ÐºÐ¾Ð½ÐºÑƒ Ñ‡Ð°Ñ‚Ð°";
+$MESS["IM_DISK_ERR_AVATAR_1"] = "Ð’Ñ‹ Ð½Ðµ Ð¼Ð¾Ð¶ÐµÑ‚Ðµ Ð¸Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ð°Ð²Ð°Ñ‚Ð°Ñ€ Ð² ÑÑ‚Ð¾Ð¼ Ñ‡Ð°Ñ‚Ðµ.";
+$MESS["IM_DISK_ERR_UPLOAD"] = "Ð’Ñ‹ Ð½Ðµ Ð¼Ð¾Ð¶ÐµÑ‚Ðµ Ð·Ð°Ð³Ñ€ÑƒÐ·Ð¸Ñ‚ÑŒ Ñ„Ð°Ð¹Ð» Ð² ÑÑ‚Ð¾Ñ‚ Ñ‡Ð°Ñ‚.";
+$MESS["IM_DISK_ACTION_SAVE_TO_OWN_FILES"] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ Ð½Ð° Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ24.Ð”Ð¸ÑÐº";
 ?>

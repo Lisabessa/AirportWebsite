@@ -19,7 +19,7 @@
      
       <tr><td valign="top" align="right"><?=$FORM->ShowInputCaption("VS_INCOME","")?></td><td><?=$FORM->ShowInput('VS_INCOME')?></td></tr>
      
-      <tr><td valign="top" align="right"><?=$FORM->ShowCaptchaImage()?></td><td>Введите символы на картинке <?=$FORM->ShowRequired()?> 
+      <tr><td valign="top" align="right"><?=$FORM->ShowCaptchaImage()?></td><td>Р’РІРµРґРёС‚Рµ СЃРёРјРІРѕР»С‹ РЅР° РєР°СЂС‚РёРЅРєРµ <?=$FORM->ShowRequired()?> 
           <br />
          <?=$FORM->ShowCaptchaField()?></td></tr>
      </tbody>

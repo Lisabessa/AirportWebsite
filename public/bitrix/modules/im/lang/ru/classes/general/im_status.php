@@ -1,16 +1,16 @@
 <?
-$MESS["IM_STATUS_ONLINE"] = "Â ñåòè";
-$MESS["IM_STATUS_MOBILE"] = "Ìîáèëüíîå ïðèëîæåíèå";
-$MESS["IM_STATUS_IDLE"] = "Íåò íà ìåñòå";
-$MESS["IM_STATUS_DND"] = "Íå áåñïîêîèòü";
-$MESS["IM_STATUS_AWAY"] = "Îòñóòñòâóþ";
-$MESS["IM_STATUS_VACATION"] = "Â îòïóñêå";
-$MESS["IM_STATUS_EAID_BOT"] = "×àò-áîò";
-$MESS["IM_STATUS_EAID_EMAIL"] = "Ïî÷òîâûé ïîëüçîâàòåëü";
-$MESS["IM_STATUS_EAID_NETWORK"] = "Áèòðèêñ24.Network";
-$MESS["IM_STATUS_EAID_REPLICA"] = "Áèòðèêñ24.Network";
-$MESS["IM_STATUS_EAID_CONTROLLER"] = "Òåõíè÷åñêàÿ ïîääåðæêà";
-$MESS["IM_STATUS_EAID_IMCONNECTOR"] = "Ïîëüçîâàòåëü îòêðûòûõ ëèíèé";
+$MESS["IM_STATUS_ONLINE"] = "Ð’ ÑÐµÑ‚Ð¸";
+$MESS["IM_STATUS_MOBILE"] = "ÐœÐ¾Ð±Ð¸Ð»ÑŒÐ½Ð¾Ðµ Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ";
+$MESS["IM_STATUS_IDLE"] = "ÐÐµÑ‚ Ð½Ð° Ð¼ÐµÑÑ‚Ðµ";
+$MESS["IM_STATUS_DND"] = "ÐÐµ Ð±ÐµÑÐ¿Ð¾ÐºÐ¾Ð¸Ñ‚ÑŒ";
+$MESS["IM_STATUS_AWAY"] = "ÐžÑ‚ÑÑƒÑ‚ÑÑ‚Ð²ÑƒÑŽ";
+$MESS["IM_STATUS_VACATION"] = "Ð’ Ð¾Ñ‚Ð¿ÑƒÑÐºÐµ";
+$MESS["IM_STATUS_EAID_BOT"] = "Ð§Ð°Ñ‚-Ð±Ð¾Ñ‚";
+$MESS["IM_STATUS_EAID_EMAIL"] = "ÐŸÐ¾Ñ‡Ñ‚Ð¾Ð²Ñ‹Ð¹ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ";
+$MESS["IM_STATUS_EAID_NETWORK"] = "Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ24.Network";
+$MESS["IM_STATUS_EAID_REPLICA"] = "Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ24.Network";
+$MESS["IM_STATUS_EAID_CONTROLLER"] = "Ð¢ÐµÑ…Ð½Ð¸Ñ‡ÐµÑÐºÐ°Ñ Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ°";
+$MESS["IM_STATUS_EAID_IMCONNECTOR"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ Ð¾Ñ‚ÐºÑ€Ñ‹Ñ‚Ñ‹Ñ… Ð»Ð¸Ð½Ð¸Ð¹";
 
 
 

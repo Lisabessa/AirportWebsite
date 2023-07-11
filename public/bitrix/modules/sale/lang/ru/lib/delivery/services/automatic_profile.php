@@ -1,6 +1,6 @@
 <?php
-$MESS["SALE_DLVR_HANDL_AUTP_NAME"] = "Ïðîôèëü àâòîìàòèçèðîâàííîé ñëóæáû äîñòàâêè";
-$MESS["SALE_DLVR_HANDL_AUTP_DESCRIPTION"] = "Ïðîôèëü àâòîìàòèçèðîâàííîé ñëóæáû äîñòàâêè ñîâìåñòèìûé ñî ñòàðûìè ñëóæáàìè äîñòàâêè";
-$MESS["SALE_DLVR_HANDL_AUTP_CONF_MAIN_TITLE"] = "Ñâîéñòâà îáðàáîò÷èêà";
-$MESS["SALE_DLVR_HANDL_AUTP_CONF_MAIN_DESCR"] = "Ñâîéñòâà îáðàáîò÷èêà ñëóæáû äîñòàâêè";
-$MESS["SALE_DLVR_HANDL_AUTP_CONF_MAIN_PROFILE_ID"] = "Ïðîôèëü";
+$MESS["SALE_DLVR_HANDL_AUTP_NAME"] = "ÐŸÑ€Ð¾Ñ„Ð¸Ð»ÑŒ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ð·Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ð¾Ð¹ ÑÐ»ÑƒÐ¶Ð±Ñ‹ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸";
+$MESS["SALE_DLVR_HANDL_AUTP_DESCRIPTION"] = "ÐŸÑ€Ð¾Ñ„Ð¸Ð»ÑŒ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ð·Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ð¾Ð¹ ÑÐ»ÑƒÐ¶Ð±Ñ‹ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸ ÑÐ¾Ð²Ð¼ÐµÑÑ‚Ð¸Ð¼Ñ‹Ð¹ ÑÐ¾ ÑÑ‚Ð°Ñ€Ñ‹Ð¼Ð¸ ÑÐ»ÑƒÐ¶Ð±Ð°Ð¼Ð¸ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸";
+$MESS["SALE_DLVR_HANDL_AUTP_CONF_MAIN_TITLE"] = "Ð¡Ð²Ð¾Ð¹ÑÑ‚Ð²Ð° Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚Ñ‡Ð¸ÐºÐ°";
+$MESS["SALE_DLVR_HANDL_AUTP_CONF_MAIN_DESCR"] = "Ð¡Ð²Ð¾Ð¹ÑÑ‚Ð²Ð° Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚Ñ‡Ð¸ÐºÐ° ÑÐ»ÑƒÐ¶Ð±Ñ‹ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸";
+$MESS["SALE_DLVR_HANDL_AUTP_CONF_MAIN_PROFILE_ID"] = "ÐŸÑ€Ð¾Ñ„Ð¸Ð»ÑŒ";

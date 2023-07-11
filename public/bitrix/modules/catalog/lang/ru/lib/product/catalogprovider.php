@@ -1,10 +1,10 @@
 <?php
-$MESS["DDCT_DEDUCTION_STORE_ERROR"] = "Íå óêàçàíû ñêëàäû äëÿ îòãðóçêè òîâàðà #PRODUCT_NAME# (##PRODUCT_ID#)";
-$MESS["DDCT_DEDUCTION_QUANTITY_STORE_ERROR"] = "Íåäîñòàòî÷íîå êîëè÷åñòâî òîâàðà #PRODUCT_NAME# (##PRODUCT_ID#) íà ñêëàäå ##STORE_ID# äëÿ îòãðóçêè.";
-$MESS["SALE_PROVIDER_SHIPMENT_QUANTITY_NOT_ENOUGH"] = "Êîëè÷åñòâî ðåçåðâèðóåìîãî òîâàðà \"#PRODUCT_NAME#\" â êîðçèíå áîëüøå ÷åì åñòü â êàòàëîãå";
-$MESS["DDCT_DEDUCTION_QUANTITY_ERROR"] = "Íåäîñòàòî÷íîå êîëè÷åñòâî òîâàðà #PRODUCT_NAME# (##PRODUCT_ID#) äëÿ îòãðóçêè";
-$MESS["DDCT_DEDUCTION_MULTI_BARCODE_EMPTY"] = "Ó òîâàðà \"#PRODUCT_NAME#\" íå óêàçàí øòðèõêîä.";
-$MESS["DDCT_DEDUCTION_BARCODE_ERROR"] = "Äëÿ òîâàðà #PRODUCT_NAME# (##PRODUCT_ID#) íå íàéäåí øòðèõêîä \"#BARCODE#\".";
-$MESS["SALE_PROVIDER_PRODUCT_NOT_AVAILABLE"] = "Òîâàð #PRODUCT_NAME# (##PRODUCT_ID#) íåäîñòóïåí.";
+$MESS["DDCT_DEDUCTION_STORE_ERROR"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ñ‹ ÑÐºÐ»Ð°Ð´Ñ‹ Ð´Ð»Ñ Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸ Ñ‚Ð¾Ð²Ð°Ñ€Ð° #PRODUCT_NAME# (##PRODUCT_ID#)";
+$MESS["DDCT_DEDUCTION_QUANTITY_STORE_ERROR"] = "ÐÐµÐ´Ð¾ÑÑ‚Ð°Ñ‚Ð¾Ñ‡Ð½Ð¾Ðµ ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ñ‚Ð¾Ð²Ð°Ñ€Ð° #PRODUCT_NAME# (##PRODUCT_ID#) Ð½Ð° ÑÐºÐ»Ð°Ð´Ðµ ##STORE_ID# Ð´Ð»Ñ Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸.";
+$MESS["SALE_PROVIDER_SHIPMENT_QUANTITY_NOT_ENOUGH"] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ñ€ÐµÐ·ÐµÑ€Ð²Ð¸Ñ€ÑƒÐµÐ¼Ð¾Ð³Ð¾ Ñ‚Ð¾Ð²Ð°Ñ€Ð° \"#PRODUCT_NAME#\" Ð² ÐºÐ¾Ñ€Ð·Ð¸Ð½Ðµ Ð±Ð¾Ð»ÑŒÑˆÐµ Ñ‡ÐµÐ¼ ÐµÑÑ‚ÑŒ Ð² ÐºÐ°Ñ‚Ð°Ð»Ð¾Ð³Ðµ";
+$MESS["DDCT_DEDUCTION_QUANTITY_ERROR"] = "ÐÐµÐ´Ð¾ÑÑ‚Ð°Ñ‚Ð¾Ñ‡Ð½Ð¾Ðµ ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ñ‚Ð¾Ð²Ð°Ñ€Ð° #PRODUCT_NAME# (##PRODUCT_ID#) Ð´Ð»Ñ Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸";
+$MESS["DDCT_DEDUCTION_MULTI_BARCODE_EMPTY"] = "Ð£ Ñ‚Ð¾Ð²Ð°Ñ€Ð° \"#PRODUCT_NAME#\" Ð½Ðµ ÑƒÐºÐ°Ð·Ð°Ð½ ÑˆÑ‚Ñ€Ð¸Ñ…ÐºÐ¾Ð´.";
+$MESS["DDCT_DEDUCTION_BARCODE_ERROR"] = "Ð”Ð»Ñ Ñ‚Ð¾Ð²Ð°Ñ€Ð° #PRODUCT_NAME# (##PRODUCT_ID#) Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½ ÑˆÑ‚Ñ€Ð¸Ñ…ÐºÐ¾Ð´ \"#BARCODE#\".";
+$MESS["SALE_PROVIDER_PRODUCT_NOT_AVAILABLE"] = "Ð¢Ð¾Ð²Ð°Ñ€ #PRODUCT_NAME# (##PRODUCT_ID#) Ð½ÐµÐ´Ð¾ÑÑ‚ÑƒÐ¿ÐµÐ½.";
 
 

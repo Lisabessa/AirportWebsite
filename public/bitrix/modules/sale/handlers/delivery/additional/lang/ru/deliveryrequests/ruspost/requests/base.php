@@ -1,7 +1,7 @@
 <?
-$MESS["SALE_DLVRS_ADD_DREQ_RBASE_01"] = "Íåâåðíàÿ ñòðóêòóðà çàïðîñà";
-$MESS["SALE_DLVRS_ADD_DREQ_RBASE_02"] = "Òðàíñïîðòíàÿ çàÿâêà íà ñåðâåðå Ïî÷òû Ðîññèè íå íàéäåíà";
-$MESS["SALE_DLVRS_ADD_DREQ_RBASE_03"] = "Íåâåðíûå ó÷¸òíûå äàííûå";
-$MESS["SALE_DLVRS_ADD_DREQ_RBASE_INTERNAL_ERROR"] = "Âíóòðåííÿÿ îøèáêà ñåðâåðà";
-$MESS["SALE_DLVRS_ADD_DREQ_RBASE_HTTP_STATUS"] = "HTTP ñòàòóñ îòâåòà";
-$MESS["SALE_DLVRS_ADD_DREQ_RBASE_SEND_ERROR"] = "Çàïðîñ ïî àäðåñó \"#URL#\" îòïðàâèòü íå óäàëîñü. Ïðîâåðüòå äîñòóïíîñòü.";
+$MESS["SALE_DLVRS_ADD_DREQ_RBASE_01"] = "ÐÐµÐ²ÐµÑ€Ð½Ð°Ñ ÑÑ‚Ñ€ÑƒÐºÑ‚ÑƒÑ€Ð° Ð·Ð°Ð¿Ñ€Ð¾ÑÐ°";
+$MESS["SALE_DLVRS_ADD_DREQ_RBASE_02"] = "Ð¢Ñ€Ð°Ð½ÑÐ¿Ð¾Ñ€Ñ‚Ð½Ð°Ñ Ð·Ð°ÑÐ²ÐºÐ° Ð½Ð° ÑÐµÑ€Ð²ÐµÑ€Ðµ ÐŸÐ¾Ñ‡Ñ‚Ñ‹ Ð Ð¾ÑÑÐ¸Ð¸ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð°";
+$MESS["SALE_DLVRS_ADD_DREQ_RBASE_03"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ðµ ÑƒÑ‡Ñ‘Ñ‚Ð½Ñ‹Ðµ Ð´Ð°Ð½Ð½Ñ‹Ðµ";
+$MESS["SALE_DLVRS_ADD_DREQ_RBASE_INTERNAL_ERROR"] = "Ð’Ð½ÑƒÑ‚Ñ€ÐµÐ½Ð½ÑÑ Ð¾ÑˆÐ¸Ð±ÐºÐ° ÑÐµÑ€Ð²ÐµÑ€Ð°";
+$MESS["SALE_DLVRS_ADD_DREQ_RBASE_HTTP_STATUS"] = "HTTP ÑÑ‚Ð°Ñ‚ÑƒÑ Ð¾Ñ‚Ð²ÐµÑ‚Ð°";
+$MESS["SALE_DLVRS_ADD_DREQ_RBASE_SEND_ERROR"] = "Ð—Ð°Ð¿Ñ€Ð¾Ñ Ð¿Ð¾ Ð°Ð´Ñ€ÐµÑÑƒ \"#URL#\" Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÑŒ Ð½Ðµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ. ÐŸÑ€Ð¾Ð²ÐµÑ€ÑŒÑ‚Ðµ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ð¾ÑÑ‚ÑŒ.";

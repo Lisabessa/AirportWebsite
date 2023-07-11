@@ -6,8 +6,8 @@ $MESS["SALE_DELIVERY_REQ_VIEW_CONTENT_T"] = "Elemente der Transportbestellung";
 $MESS["SALE_DELIVERY_REQ_VIEW_SHP_LIST"] = "Auslieferungen";
 $MESS["SALE_DELIVERY_REQ_VIEW_SHP_LIST_T"] = "Auslieferungen in der Transportbestellung";
 $MESS["SALE_DELIVERY_REQ_VIEW_TITLE"] = "Transportbestellung anzeigen";
-$MESS["SALE_DELIVERY_REQ_VIEW_TO_LIST"] = "Zurück zur Liste";
-$MESS["SALE_DELIVERY_REQ_VIEW_DELETE"] = "Transportbestellung löschen";
+$MESS["SALE_DELIVERY_REQ_VIEW_TO_LIST"] = "ZurÃ¼ck zur Liste";
+$MESS["SALE_DELIVERY_REQ_VIEW_DELETE"] = "Transportbestellung lÃ¶schen";
 $MESS["SALE_DELIVERY_REQ_VIEW_ACTIONS"] = "Aktionen";
 $MESS["SALE_DELIVERY_REQ_VIEW_ERROR"] = "Fehler";
 $MESS["SALE_DELIVERY_REQ_VIEW_F_ID"] = "ID";
@@ -18,5 +18,5 @@ $MESS["SALE_DELIVERY_REQ_VIEW_F_STATUS_R"] = "Vorbereitet";
 $MESS["SALE_DELIVERY_REQ_VIEW_F_STATUS_S"] = "Gesendet";
 $MESS["SALE_DELIVERY_REQ_VIEW_F_STATUS_P"] = "Verarbeitet (abgeschlossen)";
 $MESS["SALE_DELIVERY_REQ_VIEW_F_EXTERNAL_ID"] = "Externe ID";
-$MESS["SALE_DELIVERY_REQ_VIEW_DEL_CONFIRM"] = "Möchten Sie die Transportbestellung wirklich löschen?";
+$MESS["SALE_DELIVERY_REQ_VIEW_DEL_CONFIRM"] = "MÃ¶chten Sie die Transportbestellung wirklich lÃ¶schen?";
 ?>

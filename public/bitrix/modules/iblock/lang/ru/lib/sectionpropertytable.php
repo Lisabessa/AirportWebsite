@@ -1,9 +1,9 @@
 <?
-$MESS["IBLOCK_SECTION_PROPERTY_ENTITY_IBLOCK_ID_FIELD"] = "Èäåíòèôèêàòîð èíôîáëîêà";
-$MESS["IBLOCK_SECTION_PROPERTY_ENTITY_SECTION_ID_FIELD"] = "Èäåíòèôèêàòîð ðàçäåëà";
-$MESS["IBLOCK_SECTION_PROPERTY_ENTITY_PROPERTY_ID_FIELD"] = "Èäåíòèôèêàòîð ñâîéñòâà";
-$MESS["IBLOCK_SECTION_PROPERTY_ENTITY_SMART_FILTER_FIELD"] = "Ïîêàçûâàòü â óìíîì ôèëüòðå";
-$MESS["IBLOCK_SECTION_PROPERTY_ENTITY_DISPLAY_TYPE_FIELD"] = "Âíåøíèé âèä";
-$MESS["IBLOCK_SECTION_PROPERTY_ENTITY_DISPLAY_EXPANDED_FIELD"] = "Ïîêàçàòü ñâ¸ðíóòûì";
-$MESS["IBLOCK_SECTION_PROPERTY_ENTITY_FILTER_HINT_FIELD"] = "Ïîäñêàçêà â óìíîì ôèëüòðå";
+$MESS["IBLOCK_SECTION_PROPERTY_ENTITY_IBLOCK_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ°";
+$MESS["IBLOCK_SECTION_PROPERTY_ENTITY_SECTION_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ñ€Ð°Ð·Ð´ÐµÐ»Ð°";
+$MESS["IBLOCK_SECTION_PROPERTY_ENTITY_PROPERTY_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÐ²Ð¾Ð¹ÑÑ‚Ð²Ð°";
+$MESS["IBLOCK_SECTION_PROPERTY_ENTITY_SMART_FILTER_FIELD"] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ð² ÑƒÐ¼Ð½Ð¾Ð¼ Ñ„Ð¸Ð»ÑŒÑ‚Ñ€Ðµ";
+$MESS["IBLOCK_SECTION_PROPERTY_ENTITY_DISPLAY_TYPE_FIELD"] = "Ð’Ð½ÐµÑˆÐ½Ð¸Ð¹ Ð²Ð¸Ð´";
+$MESS["IBLOCK_SECTION_PROPERTY_ENTITY_DISPLAY_EXPANDED_FIELD"] = "ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ ÑÐ²Ñ‘Ñ€Ð½ÑƒÑ‚Ñ‹Ð¼";
+$MESS["IBLOCK_SECTION_PROPERTY_ENTITY_FILTER_HINT_FIELD"] = "ÐŸÐ¾Ð´ÑÐºÐ°Ð·ÐºÐ° Ð² ÑƒÐ¼Ð½Ð¾Ð¼ Ñ„Ð¸Ð»ÑŒÑ‚Ñ€Ðµ";
 ?>

@@ -1,3 +1,3 @@
 <?
-$MESS ['WD_ORIGINAL'] = "Îðèãèíàë";
+$MESS ['WD_ORIGINAL'] = "ÐžÑ€Ð¸Ð³Ð¸Ð½Ð°Ð»";
 ?>

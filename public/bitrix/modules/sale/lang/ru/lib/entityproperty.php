@@ -1,6 +1,6 @@
 <?
-$MESS["SALE_PROPERTY_ERROR"] = "Ñâîéñòâî çàêàçà \"#PROPERTY_NAME#\" - #ERROR_MESSAGE#";
-$MESS["SOP_UNKNOWN_GROUP"] = "Äðóãèå";
-$MESS["SALE_GOPE_WRONG_EMAIL"] = "Íåêîððåêòíûé E-Mail";
-$MESS["SOP_UNKNOWN_GROUP"] = "Íåèçâåñòíàÿ ãðóïïà ñâîéñòâ";
+$MESS["SALE_PROPERTY_ERROR"] = "Ð¡Ð²Ð¾Ð¹ÑÑ‚Ð²Ð¾ Ð·Ð°ÐºÐ°Ð·Ð° \"#PROPERTY_NAME#\" - #ERROR_MESSAGE#";
+$MESS["SOP_UNKNOWN_GROUP"] = "Ð”Ñ€ÑƒÐ³Ð¸Ðµ";
+$MESS["SALE_GOPE_WRONG_EMAIL"] = "ÐÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ñ‹Ð¹ E-Mail";
+$MESS["SOP_UNKNOWN_GROUP"] = "ÐÐµÐ¸Ð·Ð²ÐµÑÑ‚Ð½Ð°Ñ Ð³Ñ€ÑƒÐ¿Ð¿Ð° ÑÐ²Ð¾Ð¹ÑÑ‚Ð²";
 ?>

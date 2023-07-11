@@ -1,2 +1,2 @@
 <?php
-$MESS['SALE_HANDLERS_REST_HANDLER_BUTTON_PAID'] = 'Îïëàòèòü';
+$MESS['SALE_HANDLERS_REST_HANDLER_BUTTON_PAID'] = 'ÐžÐ¿Ð»Ð°Ñ‚Ð¸Ñ‚ÑŒ';

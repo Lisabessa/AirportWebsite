@@ -1,4 +1,4 @@
 <?
-$MESS ['SUP_ERROR_GROUP_NOT_FOUND'] = "Ãðóïïà òàêèì ID íå íàéäåíà.";
-$MESS ['SUP_ERROR_GROUP_NAME_EMPTY'] = "Ïóñòîå èìÿ ãðóïïû.";
+$MESS ['SUP_ERROR_GROUP_NOT_FOUND'] = "Ð“Ñ€ÑƒÐ¿Ð¿Ð° Ñ‚Ð°ÐºÐ¸Ð¼ ID Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð°.";
+$MESS ['SUP_ERROR_GROUP_NAME_EMPTY'] = "ÐŸÑƒÑÑ‚Ð¾Ðµ Ð¸Ð¼Ñ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹.";
 ?>

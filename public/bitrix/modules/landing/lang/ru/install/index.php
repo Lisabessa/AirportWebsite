@@ -1,7 +1,7 @@
 <?php
-$MESS['LANDING_MODULE_NAME'] = 'Ñàéòû 24';
-$MESS['LANDING_MODULE_DESCRIPTION'] = 'Ñîçäàíèå ïîñàäî÷íûõ ñòðàíèö ÷åðåç óäîáíûé ìàñòåð áëîêîâ.';
-$MESS['LANDING_INSTALL_TITLE'] = 'Óñòàíîâêà ìîäóëÿ &laquo;Ñàéòû 24&raquo;';
-$MESS['LANDING_UNINSTALL_TITLE'] = 'Óäàëåíèå ìîäóëÿ &laquo;Ñàéòû 24&raquo;';
-$MESS['LANDING_RIGHT_D'] = 'Äîñòóï çàïðåùåí';
-$MESS['LANDING_RIGHT_W'] = 'Ïîëíûé äîñòóï';
+$MESS['LANDING_MODULE_NAME'] = 'Ð¡Ð°Ð¹Ñ‚Ñ‹ 24';
+$MESS['LANDING_MODULE_DESCRIPTION'] = 'Ð¡Ð¾Ð·Ð´Ð°Ð½Ð¸Ðµ Ð¿Ð¾ÑÐ°Ð´Ð¾Ñ‡Ð½Ñ‹Ñ… ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ† Ñ‡ÐµÑ€ÐµÐ· ÑƒÐ´Ð¾Ð±Ð½Ñ‹Ð¹ Ð¼Ð°ÑÑ‚ÐµÑ€ Ð±Ð»Ð¾ÐºÐ¾Ð².';
+$MESS['LANDING_INSTALL_TITLE'] = 'Ð£ÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ° Ð¼Ð¾Ð´ÑƒÐ»Ñ &laquo;Ð¡Ð°Ð¹Ñ‚Ñ‹ 24&raquo;';
+$MESS['LANDING_UNINSTALL_TITLE'] = 'Ð£Ð´Ð°Ð»ÐµÐ½Ð¸Ðµ Ð¼Ð¾Ð´ÑƒÐ»Ñ &laquo;Ð¡Ð°Ð¹Ñ‚Ñ‹ 24&raquo;';
+$MESS['LANDING_RIGHT_D'] = 'Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ð·Ð°Ð¿Ñ€ÐµÑ‰ÐµÐ½';
+$MESS['LANDING_RIGHT_W'] = 'ÐŸÐ¾Ð»Ð½Ñ‹Ð¹ Ð´Ð¾ÑÑ‚ÑƒÐ¿';

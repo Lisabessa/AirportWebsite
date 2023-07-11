@@ -1,3 +1,3 @@
 <?
-$MESS["SENDER_ENTITY_CONTACT_ERROR_DUPLICATE"] = "Ïîëó÷àòåëü ñ òàêèì ïîëåì `Àäðåñàò` óæå ñóùåñòâóåò";
+$MESS["SENDER_ENTITY_CONTACT_ERROR_DUPLICATE"] = "ÐŸÐ¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»ÑŒ Ñ Ñ‚Ð°ÐºÐ¸Ð¼ Ð¿Ð¾Ð»ÐµÐ¼ `ÐÐ´Ñ€ÐµÑÐ°Ñ‚` ÑƒÐ¶Ðµ ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÐµÑ‚";
 ?>

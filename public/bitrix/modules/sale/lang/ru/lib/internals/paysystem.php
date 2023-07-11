@@ -1,9 +1,9 @@
 <?
-$MESS["PAY_SYSTEM_ENTITY_ID_FIELD"] = "Èäåíòèôèêàòîð";
-$MESS["PAY_SYSTEM_ENTITY_LID_FIELD"] = "Ñàéò";
-$MESS["PAY_SYSTEM_ENTITY_CURRENCY_FIELD"] = "Âàëþòà";
-$MESS["PAY_SYSTEM_ENTITY_NAME_FIELD"] = "Íàèìåíîâàíèå";
-$MESS["PAY_SYSTEM_ENTITY_ACTIVE_FIELD"] = "Àêòèâíîñòü";
-$MESS["PAY_SYSTEM_ENTITY_SORT_FIELD"] = "Ñîðòèðîâêà";
-$MESS["PAY_SYSTEM_ENTITY_DESCRIPTION_FIELD"] = "Îïèñàíèå";
+$MESS["PAY_SYSTEM_ENTITY_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€";
+$MESS["PAY_SYSTEM_ENTITY_LID_FIELD"] = "Ð¡Ð°Ð¹Ñ‚";
+$MESS["PAY_SYSTEM_ENTITY_CURRENCY_FIELD"] = "Ð’Ð°Ð»ÑŽÑ‚Ð°";
+$MESS["PAY_SYSTEM_ENTITY_NAME_FIELD"] = "ÐÐ°Ð¸Ð¼ÐµÐ½Ð¾Ð²Ð°Ð½Ð¸Ðµ";
+$MESS["PAY_SYSTEM_ENTITY_ACTIVE_FIELD"] = "ÐÐºÑ‚Ð¸Ð²Ð½Ð¾ÑÑ‚ÑŒ";
+$MESS["PAY_SYSTEM_ENTITY_SORT_FIELD"] = "Ð¡Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²ÐºÐ°";
+$MESS["PAY_SYSTEM_ENTITY_DESCRIPTION_FIELD"] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ";
 ?>

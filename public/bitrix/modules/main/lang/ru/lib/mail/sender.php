@@ -1,3 +1,3 @@
 <?php
 
-$MESS['MAIN_MAIL_CONFIRM_MESSAGE_SUBJECT'] = 'Ïîäòâåðæäåíèå email-àäðåñà';
+$MESS['MAIN_MAIL_CONFIRM_MESSAGE_SUBJECT'] = 'ÐŸÐ¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð¸Ðµ email-Ð°Ð´Ñ€ÐµÑÐ°';

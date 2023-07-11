@@ -1,4 +1,4 @@
 <?php
-$MESS["USER_TYPE_URL_DESCRIPTION"] = "Ññûëêà";
-$MESS["USER_TYPE_URL_POPUP"] = "Îòêðûâàòü â íîâîì îêíå";
-$MESS ['USER_TYPE_URL_FORMAT_ERROR'] = "Íåâåðíûé ôîðìàò ïîëÿ \"#FIELD_NAME#\".";
+$MESS["USER_TYPE_URL_DESCRIPTION"] = "Ð¡ÑÑ‹Ð»ÐºÐ°";
+$MESS["USER_TYPE_URL_POPUP"] = "ÐžÑ‚ÐºÑ€Ñ‹Ð²Ð°Ñ‚ÑŒ Ð² Ð½Ð¾Ð²Ð¾Ð¼ Ð¾ÐºÐ½Ðµ";
+$MESS ['USER_TYPE_URL_FORMAT_ERROR'] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚ Ð¿Ð¾Ð»Ñ \"#FIELD_NAME#\".";

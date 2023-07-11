@@ -1,9 +1,9 @@
 <?
-$MESS["USER_TYPE_HLEL_DESCRIPTION"] = "Ïðèâÿçêà ê ýëåìåíòàì highload-áëîêîâ";
-$MESS["USER_TYPE_HLEL_DISPLAY"] = "Highload-áëîê";
-$MESS["USER_TYPE_HLEL_CHECKBOX"] = "Ôëàæêè";
-$MESS["USER_TYPE_HLEL_LIST"] = "Ñïèñîê";
-$MESS["USER_TYPE_HLEL_LIST_HEIGHT"] = "Âûñîòà ñïèñêà";
-$MESS["USER_TYPE_HLEL_DEFAULT_VALUE"] = "Çíà÷åíèå ïî óìîë÷àíèþ";
-$MESS['USER_TYPE_HLEL_SEL_HLBLOCK'] = '(âûáåðèòå highload-áëîê)';
-$MESS['USER_TYPE_HLEL_SEL_HLBLOCK_FIELD'] = '(âûáåðèòå ïîëå äëÿ ïîêàçà)';
+$MESS["USER_TYPE_HLEL_DESCRIPTION"] = "ÐŸÑ€Ð¸Ð²ÑÐ·ÐºÐ° Ðº ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð°Ð¼ highload-Ð±Ð»Ð¾ÐºÐ¾Ð²";
+$MESS["USER_TYPE_HLEL_DISPLAY"] = "Highload-Ð±Ð»Ð¾Ðº";
+$MESS["USER_TYPE_HLEL_CHECKBOX"] = "Ð¤Ð»Ð°Ð¶ÐºÐ¸";
+$MESS["USER_TYPE_HLEL_LIST"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº";
+$MESS["USER_TYPE_HLEL_LIST_HEIGHT"] = "Ð’Ñ‹ÑÐ¾Ñ‚Ð° ÑÐ¿Ð¸ÑÐºÐ°";
+$MESS["USER_TYPE_HLEL_DEFAULT_VALUE"] = "Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð¿Ð¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ";
+$MESS['USER_TYPE_HLEL_SEL_HLBLOCK'] = '(Ð²Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ highload-Ð±Ð»Ð¾Ðº)';
+$MESS['USER_TYPE_HLEL_SEL_HLBLOCK_FIELD'] = '(Ð²Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ Ð¿Ð¾Ð»Ðµ Ð´Ð»Ñ Ð¿Ð¾ÐºÐ°Ð·Ð°)';

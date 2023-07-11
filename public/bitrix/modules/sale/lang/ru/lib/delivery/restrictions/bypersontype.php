@@ -1,4 +1,4 @@
 <?php
-$MESS['SALE_DLVR_RSTR_BY_PERSON_TYPE'] = 'ïî òèïó ïëàòåëüùèêà';
-$MESS['SALE_DLVR_RSTR_BY_PERSON_TYPE_DESC'] = 'Îãðàíè÷åíèå ñëóæáû äîñòàâêè ïî òèïó ïëàòåëüùèêà';
-$MESS['SALE_DLVR_RSTR_BY_PERSON_TYPE_NAME'] = 'Òèï ïëàòåëüùèêà';
+$MESS['SALE_DLVR_RSTR_BY_PERSON_TYPE'] = 'Ð¿Ð¾ Ñ‚Ð¸Ð¿Ñƒ Ð¿Ð»Ð°Ñ‚ÐµÐ»ÑŒÑ‰Ð¸ÐºÐ°';
+$MESS['SALE_DLVR_RSTR_BY_PERSON_TYPE_DESC'] = 'ÐžÐ³Ñ€Ð°Ð½Ð¸Ñ‡ÐµÐ½Ð¸Ðµ ÑÐ»ÑƒÐ¶Ð±Ñ‹ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸ Ð¿Ð¾ Ñ‚Ð¸Ð¿Ñƒ Ð¿Ð»Ð°Ñ‚ÐµÐ»ÑŒÑ‰Ð¸ÐºÐ°';
+$MESS['SALE_DLVR_RSTR_BY_PERSON_TYPE_NAME'] = 'Ð¢Ð¸Ð¿ Ð¿Ð»Ð°Ñ‚ÐµÐ»ÑŒÑ‰Ð¸ÐºÐ°';

@@ -1,2 +1,2 @@
 <?php
-$MESS['LANDING_CONNECTOR_SN_TITLE'] = 'Áàçà çíàíèé';
+$MESS['LANDING_CONNECTOR_SN_TITLE'] = 'Ð‘Ð°Ð·Ð° Ð·Ð½Ð°Ð½Ð¸Ð¹';

@@ -1,4 +1,4 @@
 <?
-$MESS["COMPOSITE_BANNER_TEXT"] = "Áûñòðî ñ 1Ñ-Áèòðèêñ";
+$MESS["COMPOSITE_BANNER_TEXT"] = "Ð‘Ñ‹ÑÑ‚Ñ€Ð¾ Ñ 1Ð¡-Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ";
 $MESS["COMPOSITE_BANNER_URL"] = "http://www.1c-bitrix.ru/composite/";
 ?>

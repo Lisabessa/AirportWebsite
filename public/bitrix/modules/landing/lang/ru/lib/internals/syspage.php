@@ -1,4 +1,4 @@
 <?php
-$MESS['LANDING_TABLE_FIELD_SITE_ID'] = 'ID ñàéòà';
-$MESS['LANDING_TABLE_FIELD_TYPE'] = 'Òèï ñòðàíèöû';
-$MESS['LANDING_TABLE_FIELD_LANDING_ID'] = 'ID ïîäñòàâëÿåìîãî ëåíäèíãà';
+$MESS['LANDING_TABLE_FIELD_SITE_ID'] = 'ID ÑÐ°Ð¹Ñ‚Ð°';
+$MESS['LANDING_TABLE_FIELD_TYPE'] = 'Ð¢Ð¸Ð¿ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹';
+$MESS['LANDING_TABLE_FIELD_LANDING_ID'] = 'ID Ð¿Ð¾Ð´ÑÑ‚Ð°Ð²Ð»ÑÐµÐ¼Ð¾Ð³Ð¾ Ð»ÐµÐ½Ð´Ð¸Ð½Ð³Ð°';

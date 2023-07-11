@@ -1,9 +1,9 @@
 <?
-$MESS["TMPL_POPULAR_POSTS"] = "Ïîïóëÿðíûå çàïèñè";
-$MESS["TMPL_NEW_COMMENTS"] = "Íîâûå êîììåíòàðèè";
-$MESS["TMPL_TAGS_CLOUD"] = "Îáëàêî òåãîâ";
-$MESS["TMPL_FEEDBACK"] = "Îáðàòíàÿ ñâÿçü";
-$MESS["TMPL_AUTH"] = "Âîéòè íà ñàéò";
-$MESS["TMPL_UP"] = "Íàâåðõ";
-$MESS["TMPL_RSS"] = "RSS ïîäïèñêà";
+$MESS["TMPL_POPULAR_POSTS"] = "ÐŸÐ¾Ð¿ÑƒÐ»ÑÑ€Ð½Ñ‹Ðµ Ð·Ð°Ð¿Ð¸ÑÐ¸";
+$MESS["TMPL_NEW_COMMENTS"] = "ÐÐ¾Ð²Ñ‹Ðµ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¸";
+$MESS["TMPL_TAGS_CLOUD"] = "ÐžÐ±Ð»Ð°ÐºÐ¾ Ñ‚ÐµÐ³Ð¾Ð²";
+$MESS["TMPL_FEEDBACK"] = "ÐžÐ±Ñ€Ð°Ñ‚Ð½Ð°Ñ ÑÐ²ÑÐ·ÑŒ";
+$MESS["TMPL_AUTH"] = "Ð’Ð¾Ð¹Ñ‚Ð¸ Ð½Ð° ÑÐ°Ð¹Ñ‚";
+$MESS["TMPL_UP"] = "ÐÐ°Ð²ÐµÑ€Ñ…";
+$MESS["TMPL_RSS"] = "RSS Ð¿Ð¾Ð´Ð¿Ð¸ÑÐºÐ°";
 ?>

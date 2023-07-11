@@ -1,5 +1,5 @@
 <?php
-$MESS["SALE_DOCUMENT_HANDLER_WAIT_TRANSFORMATION"] = "Идет печать Вашего счета. Пожалуйста, немного подождите";
-$MESS["SALE_DOCUMENT_HANDLER_DOWNLOAD_DOCUMENT"] = "Для того, чтобы скачать счет в формате pdf, нажмите на <a href=\"#LINK#\" target=\"_blank\">ссылку</a>.";
-$MESS["SALE_DOCUMENT_HANDLER_ERROR_MESSAGE_HEADER"] = "К сожалению, произошла ошибка.";
-$MESS["SALE_DOCUMENT_HANDLER_ERROR_MESSAGE_FOOTER"] = "Выберите другой способ оплаты или обратитесь к менеджеру компании.";
+$MESS["SALE_DOCUMENT_HANDLER_WAIT_TRANSFORMATION"] = "РРґРµС‚ РїРµС‡Р°С‚СЊ Р’Р°С€РµРіРѕ СЃС‡РµС‚Р°. РџРѕР¶Р°Р»СѓР№СЃС‚Р°, РЅРµРјРЅРѕРіРѕ РїРѕРґРѕР¶РґРёС‚Рµ";
+$MESS["SALE_DOCUMENT_HANDLER_DOWNLOAD_DOCUMENT"] = "Р”Р»СЏ С‚РѕРіРѕ, С‡С‚РѕР±С‹ СЃРєР°С‡Р°С‚СЊ СЃС‡РµС‚ РІ С„РѕСЂРјР°С‚Рµ pdf, РЅР°Р¶РјРёС‚Рµ РЅР° <a href=\"#LINK#\" target=\"_blank\">СЃСЃС‹Р»РєСѓ</a>.";
+$MESS["SALE_DOCUMENT_HANDLER_ERROR_MESSAGE_HEADER"] = "Рљ СЃРѕР¶Р°Р»РµРЅРёСЋ, РїСЂРѕРёР·РѕС€Р»Р° РѕС€РёР±РєР°.";
+$MESS["SALE_DOCUMENT_HANDLER_ERROR_MESSAGE_FOOTER"] = "Р’С‹Р±РµСЂРёС‚Рµ РґСЂСѓРіРѕР№ СЃРїРѕСЃРѕР± РѕРїР»Р°С‚С‹ РёР»Рё РѕР±СЂР°С‚РёС‚РµСЃСЊ Рє РјРµРЅРµРґР¶РµСЂСѓ РєРѕРјРїР°РЅРёРё.";

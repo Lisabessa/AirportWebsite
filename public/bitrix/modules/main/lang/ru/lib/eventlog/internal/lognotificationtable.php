@@ -1,3 +1,3 @@
 <?
-$MESS["log_notification_table_audit_type"] = "Òèï ñîáûòèÿ";
+$MESS["log_notification_table_audit_type"] = "Ð¢Ð¸Ð¿ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ";
 ?>

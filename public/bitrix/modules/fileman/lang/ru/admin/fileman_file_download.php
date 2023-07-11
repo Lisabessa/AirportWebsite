@@ -1,3 +1,3 @@
 <?
-$MESS ['FILEMAN_FILE_DOWNLOAD_PHPERROR'] = "Íåäîñòàòî÷íî ïðàâ äëÿ ñêà÷èâàíèÿ ôàéëà PHP.";
+$MESS ['FILEMAN_FILE_DOWNLOAD_PHPERROR'] = "ÐÐµÐ´Ð¾ÑÑ‚Ð°Ñ‚Ð¾Ñ‡Ð½Ð¾ Ð¿Ñ€Ð°Ð² Ð´Ð»Ñ ÑÐºÐ°Ñ‡Ð¸Ð²Ð°Ð½Ð¸Ñ Ñ„Ð°Ð¹Ð»Ð° PHP.";
 ?>

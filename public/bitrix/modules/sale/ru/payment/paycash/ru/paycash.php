@@ -1,15 +1,15 @@
 <?
 global $MESS;
 
-$MESS["SPCP_DTITLE"] = "ÞMoney";
-$MESS["SPCP_DDESCR"] = "Ðàáîòà ÷åðåç Öåíòð Ïðèåìà Ïëàòåæåé <a href=\"https://yookassa.ru\" target=\"_blank\">https://yookassa.ru</a>";
+$MESS["SPCP_DTITLE"] = "Ð®Money";
+$MESS["SPCP_DDESCR"] = "Ð Ð°Ð±Ð¾Ñ‚Ð° Ñ‡ÐµÑ€ÐµÐ· Ð¦ÐµÐ½Ñ‚Ñ€ ÐŸÑ€Ð¸ÐµÐ¼Ð° ÐŸÐ»Ð°Ñ‚ÐµÐ¶ÐµÐ¹ <a href=\"https://yookassa.ru\" target=\"_blank\">https://yookassa.ru</a>";
 
-$MESS["SPCP_CODE"] = "Êîä ìàãàçèíà";
-$MESS["SPCP_CODE_DESC"] = "Êîä ìàãàçèíà, êîòîðûé ïîëó÷åí îò ßíäåêñ";
-$MESS["SPCP_CODEKEY"] = "Êîä êëþ÷à";
-$MESS["SPCP_CODEKEY_DESC"] = "Êîä êëþ÷à, êîòîðûé ïîëó÷åí îò ßíäåêñ";
-$MESS["SPCP_KEY"] = "Êëþ÷";
-$MESS["SPCP_KEY_DESC"] = "Êëþ÷, êîòîðûé ïîëó÷åí îò ßíäåêñ";
+$MESS["SPCP_CODE"] = "ÐšÐ¾Ð´ Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ð°";
+$MESS["SPCP_CODE_DESC"] = "ÐšÐ¾Ð´ Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ð°, ÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ð¹ Ð¿Ð¾Ð»ÑƒÑ‡ÐµÐ½ Ð¾Ñ‚ Ð¯Ð½Ð´ÐµÐºÑ";
+$MESS["SPCP_CODEKEY"] = "ÐšÐ¾Ð´ ÐºÐ»ÑŽÑ‡Ð°";
+$MESS["SPCP_CODEKEY_DESC"] = "ÐšÐ¾Ð´ ÐºÐ»ÑŽÑ‡Ð°, ÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ð¹ Ð¿Ð¾Ð»ÑƒÑ‡ÐµÐ½ Ð¾Ñ‚ Ð¯Ð½Ð´ÐµÐºÑ";
+$MESS["SPCP_KEY"] = "ÐšÐ»ÑŽÑ‡";
+$MESS["SPCP_KEY_DESC"] = "ÐšÐ»ÑŽÑ‡, ÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ð¹ Ð¿Ð¾Ð»ÑƒÑ‡ÐµÐ½ Ð¾Ñ‚ Ð¯Ð½Ð´ÐµÐºÑ";
 
 
 ?>

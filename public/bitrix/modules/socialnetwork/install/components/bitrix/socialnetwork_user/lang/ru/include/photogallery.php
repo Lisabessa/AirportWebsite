@@ -1,15 +1,15 @@
 <?
-$MESS["SONET_PHOTO"] = "Ôîòî";
-$MESS["SONET_PHOTO_IS_NOT_ACTIVE"] = "Ôóíêöèîíàë 'Ôîòî' âûêëþ÷åí.";
-$MESS["SONET_P_MODULE_IS_NOT_INSTALLED"] = "Ìîäóëü ôîòîãàëåðåè íå óñòàíîâëåí.";
-$MESS["SONET_IB_MODULE_IS_NOT_INSTALLED"] = "Ìîäóëü èíôîðìàöèîííûõ áëîêîâ íå óñòàíîâëåí.";
-$MESS["SONET_IBLOCK_ID_EMPTY"] = "Íå óêàçàí èíôîáëîê.";
-$MESS["SONET_GROUP_NOT_EXISTS"] = "Ãðóïïà íå ñóùåñòâóåò.";
-$MESS["SONET_GROUP_PREFIX"] = "Ãðóïïà: ";
-$MESS["IBLOCK_DEFAULT_UF"] = "Ãàëåðåÿ ïî óìîë÷àíèþ";
-$MESS["SONET_GALLERY_IS_NOT_ACTIVE"] = "Âàøà ôîòîãàëåðåÿ çàáëîêèðîâàíà. Îáðàòèòåñü ê àäìèíèñòðàòîðó.";
-$MESS["SONET_GALLERIES_IS_NOT_ACTIVE"] = "Âàøè ôîòîãàëåðåè çàáëîêèðîâàíû. Îáðàòèòåñü ê àäìèíèñòðàòîðó.";
-$MESS["SONET_GALLERY_NOT_FOUND"] = "Ôîòîãðàôèé íåò.";
-$MESS["SONET_USER_PHOTO_ACCESS_DENIED"] = "Äîñòóï ê ôîòîãàëåðåå ïîëüçîâàòåëÿ îãðàíè÷åí.";
-$MESS["SONET_GROUP_PHOTO_ACCESS_DENIED"] = "Äîñòóï ê ôîòîãàëåðåå ãðóïïû îãðàíè÷åí.";
+$MESS["SONET_PHOTO"] = "Ð¤Ð¾Ñ‚Ð¾";
+$MESS["SONET_PHOTO_IS_NOT_ACTIVE"] = "Ð¤ÑƒÐ½ÐºÑ†Ð¸Ð¾Ð½Ð°Ð» 'Ð¤Ð¾Ñ‚Ð¾' Ð²Ñ‹ÐºÐ»ÑŽÑ‡ÐµÐ½.";
+$MESS["SONET_P_MODULE_IS_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ñ„Ð¾Ñ‚Ð¾Ð³Ð°Ð»ÐµÑ€ÐµÐ¸ Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
+$MESS["SONET_IB_MODULE_IS_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ñ‹Ñ… Ð±Ð»Ð¾ÐºÐ¾Ð² Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½.";
+$MESS["SONET_IBLOCK_ID_EMPTY"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾Ðº.";
+$MESS["SONET_GROUP_NOT_EXISTS"] = "Ð“Ñ€ÑƒÐ¿Ð¿Ð° Ð½Ðµ ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÐµÑ‚.";
+$MESS["SONET_GROUP_PREFIX"] = "Ð“Ñ€ÑƒÐ¿Ð¿Ð°: ";
+$MESS["IBLOCK_DEFAULT_UF"] = "Ð“Ð°Ð»ÐµÑ€ÐµÑ Ð¿Ð¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ";
+$MESS["SONET_GALLERY_IS_NOT_ACTIVE"] = "Ð’Ð°ÑˆÐ° Ñ„Ð¾Ñ‚Ð¾Ð³Ð°Ð»ÐµÑ€ÐµÑ Ð·Ð°Ð±Ð»Ð¾ÐºÐ¸Ñ€Ð¾Ð²Ð°Ð½Ð°. ÐžÐ±Ñ€Ð°Ñ‚Ð¸Ñ‚ÐµÑÑŒ Ðº Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¾Ñ€Ñƒ.";
+$MESS["SONET_GALLERIES_IS_NOT_ACTIVE"] = "Ð’Ð°ÑˆÐ¸ Ñ„Ð¾Ñ‚Ð¾Ð³Ð°Ð»ÐµÑ€ÐµÐ¸ Ð·Ð°Ð±Ð»Ð¾ÐºÐ¸Ñ€Ð¾Ð²Ð°Ð½Ñ‹. ÐžÐ±Ñ€Ð°Ñ‚Ð¸Ñ‚ÐµÑÑŒ Ðº Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¾Ñ€Ñƒ.";
+$MESS["SONET_GALLERY_NOT_FOUND"] = "Ð¤Ð¾Ñ‚Ð¾Ð³Ñ€Ð°Ñ„Ð¸Ð¹ Ð½ÐµÑ‚.";
+$MESS["SONET_USER_PHOTO_ACCESS_DENIED"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ðº Ñ„Ð¾Ñ‚Ð¾Ð³Ð°Ð»ÐµÑ€ÐµÐµ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ Ð¾Ð³Ñ€Ð°Ð½Ð¸Ñ‡ÐµÐ½.";
+$MESS["SONET_GROUP_PHOTO_ACCESS_DENIED"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ðº Ñ„Ð¾Ñ‚Ð¾Ð³Ð°Ð»ÐµÑ€ÐµÐµ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹ Ð¾Ð³Ñ€Ð°Ð½Ð¸Ñ‡ÐµÐ½.";
 ?>

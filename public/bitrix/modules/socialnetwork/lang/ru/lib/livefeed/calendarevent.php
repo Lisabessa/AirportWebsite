@@ -1,3 +1,3 @@
 <?
-$MESS["SONET_LIVEFEED_CALENDAR_EVENT_PINNED_TITLE"] = "Ñîáûòèå êàëåíäàðÿ: #TITLE#";
+$MESS["SONET_LIVEFEED_CALENDAR_EVENT_PINNED_TITLE"] = "Ð¡Ð¾Ð±Ñ‹Ñ‚Ð¸Ðµ ÐºÐ°Ð»ÐµÐ½Ð´Ð°Ñ€Ñ: #TITLE#";
 ?>

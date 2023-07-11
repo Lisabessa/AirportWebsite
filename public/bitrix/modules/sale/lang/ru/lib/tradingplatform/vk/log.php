@@ -1,7 +1,7 @@
 <?
 $MESS["TP_VK_LOG_ID_FIELD"] = "ID";
-$MESS["TP_VK_LOG_EXPORT_ID_FIELD"] = "Ïðîôèëü ýêñïîðòà";
-$MESS["TP_VK_LOG_ERROR_CODE_FIELD"] = "Êîä îøèáêè";
-$MESS["TP_VK_LOG_ITEM_ID_FIELD"] = "Îáúåêòû";
-$MESS["TP_VK_LOG_TIME_FIELD"] = "Âðåìÿ îøèáêè";
-$MESS["TP_VK_LOG_ERROR_PARAMS"] = "Ïàðàìåòðû îøèáêè";
+$MESS["TP_VK_LOG_EXPORT_ID_FIELD"] = "ÐŸÑ€Ð¾Ñ„Ð¸Ð»ÑŒ ÑÐºÑÐ¿Ð¾Ñ€Ñ‚Ð°";
+$MESS["TP_VK_LOG_ERROR_CODE_FIELD"] = "ÐšÐ¾Ð´ Ð¾ÑˆÐ¸Ð±ÐºÐ¸";
+$MESS["TP_VK_LOG_ITEM_ID_FIELD"] = "ÐžÐ±ÑŠÐµÐºÑ‚Ñ‹";
+$MESS["TP_VK_LOG_TIME_FIELD"] = "Ð’Ñ€ÐµÐ¼Ñ Ð¾ÑˆÐ¸Ð±ÐºÐ¸";
+$MESS["TP_VK_LOG_ERROR_PARAMS"] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ Ð¾ÑˆÐ¸Ð±ÐºÐ¸";

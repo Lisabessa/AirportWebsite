@@ -1,3 +1,3 @@
 <?
-$MESS["eho_render_exception_message"] = "œË ‚˚ÔÓÎÌÂÌËË ÒÍËÔÚ‡ ‚ÓÁÌËÍÎ‡ Ó¯Ë·Í‡. ¬ÍÎ˛˜ËÚ¸ ‡Ò¯ËÂÌÌ˚È ‚˚‚Ó‰ Ó¯Ë·ÓÍ ÏÓÊÌÓ ‚ Ù‡ÈÎÂ Ì‡ÒÚÓÂÍ <a href='https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=43&LESSON_ID=2795'>.settings.php</a>";
+$MESS["eho_render_exception_message"] = "–ü—Ä–∏ –≤—ã–ø–æ–ª–Ω–µ–Ω–∏–∏ —Å–∫—Ä–∏–ø—Ç–∞ –≤–æ–∑–Ω–∏–∫–ª–∞ –æ—à–∏–±–∫–∞. –í–∫–ª—é—á–∏—Ç—å —Ä–∞—Å—à–∏—Ä–µ–Ω–Ω—ã–π –≤—ã–≤–æ–¥ –æ—à–∏–±–æ–∫ –º–æ–∂–Ω–æ –≤ —Ñ–∞–π–ª–µ –Ω–∞—Å—Ç—Ä–æ–µ–∫ <a href='https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=43&LESSON_ID=2795'>.settings.php</a>";
 ?>

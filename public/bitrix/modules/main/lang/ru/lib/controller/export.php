@@ -1,15 +1,15 @@
 <?
-$MESS["MAIN_EXPORT_COMPLETED"] = "Ôîðìèðîâàíèå ôàéëà ýêñïîðòà çàâåðøåíî.";
-$MESS["MAIN_EXPORT_ACTION_CANCEL"] = "Âûãðóçêà äàííûõ îòìåíåíà.";
-$MESS["MAIN_EXPORT_ACTION_EXPORT"] = "Îáðàáîòàíî çàïèñåé: #PROCESSED_ITEMS# èç #TOTAL_ITEMS#. Ðàçìåð ôàéëà: #FILE_SIZE_FORMAT#.";
-$MESS["MAIN_EXPORT_ACTION_UPLOAD"] = "Ôàéë ýêñïîðòà âûãðóæàåòñÿ â îáëà÷íîå õðàíèëèùå. Âûãðóæåíî: #UPLOADED_SIZE_FORMAT#.";
-$MESS["MAIN_EXPORT_ERROR_NO_CLOUD_BUCKET"] = "Îáëà÷íîå õðàíèëèùå íå ïîäêëþ÷åíî ê ïîðòàëó.";
-$MESS["MAIN_EXPORT_DOWNLOAD"] = "Ñêà÷àòü ôàéë ýêñïîðòà";
-$MESS["MAIN_EXPORT_CLEAR"] = "Óäàëèòü ôàéë ýêñïîðòà";
-$MESS["MAIN_EXPORT_FILE_DROPPED"] = "Ôàéë ýêñïîðòà óäàë¸í";
-$MESS["MAIN_EXPORT_VOID"] = "Îòñóòñòâóþò äàííûå äëÿ ýêñïîðòà";
-$MESS["MAIN_EXPORT_PURGE"] = "Âðåìåííûå ôàéëû, îñòàâøèåñÿ ïîñëå ïðåäûäóùåãî ýêñïîðòà óäàëåíû.";
-$MESS["MAIN_EXPORT_EXPECTED_DURATION"] = "Îñòàëîñü ïðèìåðíî: ";
-$MESS["MAIN_EXPORT_EXPECTED_DURATION_HOURS"] = "#HOURS# ÷. #MINUTES# ìèí.";
-$MESS["MAIN_EXPORT_EXPECTED_DURATION_MINUTES"] = "#MINUTES# ìèí.";
+$MESS["MAIN_EXPORT_COMPLETED"] = "Ð¤Ð¾Ñ€Ð¼Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ñ„Ð°Ð¹Ð»Ð° ÑÐºÑÐ¿Ð¾Ñ€Ñ‚Ð° Ð·Ð°Ð²ÐµÑ€ÑˆÐµÐ½Ð¾.";
+$MESS["MAIN_EXPORT_ACTION_CANCEL"] = "Ð’Ñ‹Ð³Ñ€ÑƒÐ·ÐºÐ° Ð´Ð°Ð½Ð½Ñ‹Ñ… Ð¾Ñ‚Ð¼ÐµÐ½ÐµÐ½Ð°.";
+$MESS["MAIN_EXPORT_ACTION_EXPORT"] = "ÐžÐ±Ñ€Ð°Ð±Ð¾Ñ‚Ð°Ð½Ð¾ Ð·Ð°Ð¿Ð¸ÑÐµÐ¹: #PROCESSED_ITEMS# Ð¸Ð· #TOTAL_ITEMS#. Ð Ð°Ð·Ð¼ÐµÑ€ Ñ„Ð°Ð¹Ð»Ð°: #FILE_SIZE_FORMAT#.";
+$MESS["MAIN_EXPORT_ACTION_UPLOAD"] = "Ð¤Ð°Ð¹Ð» ÑÐºÑÐ¿Ð¾Ñ€Ñ‚Ð° Ð²Ñ‹Ð³Ñ€ÑƒÐ¶Ð°ÐµÑ‚ÑÑ Ð² Ð¾Ð±Ð»Ð°Ñ‡Ð½Ð¾Ðµ Ñ…Ñ€Ð°Ð½Ð¸Ð»Ð¸Ñ‰Ðµ. Ð’Ñ‹Ð³Ñ€ÑƒÐ¶ÐµÐ½Ð¾: #UPLOADED_SIZE_FORMAT#.";
+$MESS["MAIN_EXPORT_ERROR_NO_CLOUD_BUCKET"] = "ÐžÐ±Ð»Ð°Ñ‡Ð½Ð¾Ðµ Ñ…Ñ€Ð°Ð½Ð¸Ð»Ð¸Ñ‰Ðµ Ð½Ðµ Ð¿Ð¾Ð´ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¾ Ðº Ð¿Ð¾Ñ€Ñ‚Ð°Ð»Ñƒ.";
+$MESS["MAIN_EXPORT_DOWNLOAD"] = "Ð¡ÐºÐ°Ñ‡Ð°Ñ‚ÑŒ Ñ„Ð°Ð¹Ð» ÑÐºÑÐ¿Ð¾Ñ€Ñ‚Ð°";
+$MESS["MAIN_EXPORT_CLEAR"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ Ñ„Ð°Ð¹Ð» ÑÐºÑÐ¿Ð¾Ñ€Ñ‚Ð°";
+$MESS["MAIN_EXPORT_FILE_DROPPED"] = "Ð¤Ð°Ð¹Ð» ÑÐºÑÐ¿Ð¾Ñ€Ñ‚Ð° ÑƒÐ´Ð°Ð»Ñ‘Ð½";
+$MESS["MAIN_EXPORT_VOID"] = "ÐžÑ‚ÑÑƒÑ‚ÑÑ‚Ð²ÑƒÑŽÑ‚ Ð´Ð°Ð½Ð½Ñ‹Ðµ Ð´Ð»Ñ ÑÐºÑÐ¿Ð¾Ñ€Ñ‚Ð°";
+$MESS["MAIN_EXPORT_PURGE"] = "Ð’Ñ€ÐµÐ¼ÐµÐ½Ð½Ñ‹Ðµ Ñ„Ð°Ð¹Ð»Ñ‹, Ð¾ÑÑ‚Ð°Ð²ÑˆÐ¸ÐµÑÑ Ð¿Ð¾ÑÐ»Ðµ Ð¿Ñ€ÐµÐ´Ñ‹Ð´ÑƒÑ‰ÐµÐ³Ð¾ ÑÐºÑÐ¿Ð¾Ñ€Ñ‚Ð° ÑƒÐ´Ð°Ð»ÐµÐ½Ñ‹.";
+$MESS["MAIN_EXPORT_EXPECTED_DURATION"] = "ÐžÑÑ‚Ð°Ð»Ð¾ÑÑŒ Ð¿Ñ€Ð¸Ð¼ÐµÑ€Ð½Ð¾: ";
+$MESS["MAIN_EXPORT_EXPECTED_DURATION_HOURS"] = "#HOURS# Ñ‡. #MINUTES# Ð¼Ð¸Ð½.";
+$MESS["MAIN_EXPORT_EXPECTED_DURATION_MINUTES"] = "#MINUTES# Ð¼Ð¸Ð½.";
 ?>

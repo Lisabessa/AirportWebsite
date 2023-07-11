@@ -1,16 +1,16 @@
 <?
-$MESS ['SUPPORT_MAIL_DEF_REGISTERED'] = "ŒÔÂ‰ÂÎˇÚ¸ ÔÓ EMail ‡ÌÂÂ Á‡Â„ËÒÚËÓ‚‡ÌÌÓ„Ó ÔÓÎ¸ÁÓ‚‡ÚÂÎˇ:";
-$MESS ['SUPPORT_MAIL_DEF_REGISTERED_Y'] = "‰‡, Ô˚Ú‡Ú¸Òˇ ÔË‚ˇÁ‡Ú¸ Ó·‡˘ÂÌËÂ Í ÔÓÎ¸ÁÓ‚‡ÚÂÎ˛";
-$MESS ['SUPPORT_MAIL_DEF_REGISTERED_N'] = "ÌÂÚ, ‚ÒÂ„‰‡ ÒÓÁ‰‡‚‡Ú¸ ‡ÌÓÌËÏÌ˚Â Ó·‡˘ÂÌËˇ";
-$MESS ['SUPPORT_MAIL_ADD_TO_OPENED_TICKET'] = "ƒÓ·‡‚ÎˇÚ¸ ÌÓ‚ÓÂ ÒÓÓ·˘ÂÌËÂ ‚ ÛÊÂ ÓÚÍ˚ÚÓÂ Ó·‡˘ÂÌËÂ:";
-$MESS ['SUPPORT_MAIL_ADD_TO_OPENED_T_EMAIL'] = "ÚÓÎ¸ÍÓ Ò EMail ‡‰ÂÒ‡ ÒÓÁ‰‡ÚÂÎˇ Ó·‡˘ÂÌËˇ user@domain.com";
-$MESS ['SUPPORT_MAIL_ADD_TO_OPENED_T_DOMAIN'] = "Ò Î˛·Ó„Ó ‡‰ÂÒ‡ ËÁ ‰ÓÏÂÌ‡ ÒÓÁ‰‡ÚÂÎˇ Ó·‡˘ÂÌËˇ (*@domain.com)";
-$MESS ['SUPPORT_MAIL_ADD_TO_OPENED_T_ANY'] = "Ò Î˛·Ó„Ó ‡‰ÂÒ‡ (ÔÓ‚ÂˇÂÚÒˇ ÚÓÎ¸ÍÓ ÚÂÏ‡ ÒÓÓ·˘ÂÌËˇ)";
-$MESS ['SUPPORT_MAIL_SUBJECT_TEMPLATE'] = "ÿ‡·ÎÓÌ˚ ÚÂÏ˚ ‰Îˇ ÓÔÂ‰ÂÎÂÌËˇ ÓÚ‚ÂÚ‡ Ì‡ Ó·‡˘ÂÌËÂ:";
-$MESS ['SUPPORT_MAIL_SUBJECT_TEMPLATE_NOTES'] = "(Â„ÛÎˇÌ˚Â ‚˚‡ÊÂÌËˇ, ‚ ÔÂ‚˚ı ÒÍÓ·Í‡ı ‰ÓÎÊÂÌ ·˚Ú¸ ÌÓÏÂ Ó·‡˘ÂÌËˇ)";
-$MESS ['SUPPORT_MAIL_ADD_TO_CATEGORY'] = "œË‚ˇÁ˚‚‡Ú¸ ÌÓ‚ÓÂ Ó·‡˘ÂÌËÂ Í Í‡ÚÂ„ÓËË:";
-$MESS ['SUPPORT_MAIL_HIDDEN'] = "Í‡Í ÒÍ˚ÚÓÂ (ÚÓÎ¸ÍÓ ‰Îˇ ÒÓÚÛ‰ÌËÍÓ‚ ÚÂıÔÓ‰‰ÂÊÍË)";
-$MESS ['SUPPORT_MAIL_ADD_WITH_CRITICALITY'] = "Õ‡ÁÌ‡˜ËÚ¸ ÌÓ‚ÓÏÛ Ó·‡˘ÂÌË˛ ÍËÚË˜ÌÓÒÚ¸:";
-$MESS ['SUPPORT_MAIL_CONNECT_TICKET_WITH_SITE'] = "œË‚ˇÁ‡Ú¸ ÌÓ‚ÓÂ Ó·‡˘ÂÌËÂ Í Ò‡ÈÚÛ:";
-$MESS ['SUPPORT_MAIL_MAILBOX'] = "< ÔÓ˜ÚÓ‚Ó„Ó ˇ˘ËÍ‡ >";
+$MESS ['SUPPORT_MAIL_DEF_REGISTERED'] = "–û–ø—Ä–µ–¥–µ–ª—è—Ç—å –ø–æ EMail —Ä–∞–Ω–µ–µ –∑–∞—Ä–µ–≥–∏—Å—Ç—Ä–∏—Ä–æ–≤–∞–Ω–Ω–æ–≥–æ –ø–æ–ª—å–∑–æ–≤–∞—Ç–µ–ª—è:";
+$MESS ['SUPPORT_MAIL_DEF_REGISTERED_Y'] = "–¥–∞, –ø—ã—Ç–∞—Ç—å—Å—è –ø—Ä–∏–≤—è–∑–∞—Ç—å –æ–±—Ä–∞—â–µ–Ω–∏–µ –∫ –ø–æ–ª—å–∑–æ–≤–∞—Ç–µ–ª—é";
+$MESS ['SUPPORT_MAIL_DEF_REGISTERED_N'] = "–Ω–µ—Ç, –≤—Å–µ–≥–¥–∞ —Å–æ–∑–¥–∞–≤–∞—Ç—å –∞–Ω–æ–Ω–∏–º–Ω—ã–µ –æ–±—Ä–∞—â–µ–Ω–∏—è";
+$MESS ['SUPPORT_MAIL_ADD_TO_OPENED_TICKET'] = "–î–æ–±–∞–≤–ª—è—Ç—å –Ω–æ–≤–æ–µ —Å–æ–æ–±—â–µ–Ω–∏–µ –≤ —É–∂–µ –æ—Ç–∫—Ä—ã—Ç–æ–µ –æ–±—Ä–∞—â–µ–Ω–∏–µ:";
+$MESS ['SUPPORT_MAIL_ADD_TO_OPENED_T_EMAIL'] = "—Ç–æ–ª—å–∫–æ —Å EMail –∞–¥—Ä–µ—Å–∞ —Å–æ–∑–¥–∞—Ç–µ–ª—è –æ–±—Ä–∞—â–µ–Ω–∏—è user@domain.com";
+$MESS ['SUPPORT_MAIL_ADD_TO_OPENED_T_DOMAIN'] = "—Å –ª—é–±–æ–≥–æ –∞–¥—Ä–µ—Å–∞ –∏–∑ –¥–æ–º–µ–Ω–∞ —Å–æ–∑–¥–∞—Ç–µ–ª—è –æ–±—Ä–∞—â–µ–Ω–∏—è (*@domain.com)";
+$MESS ['SUPPORT_MAIL_ADD_TO_OPENED_T_ANY'] = "—Å –ª—é–±–æ–≥–æ –∞–¥—Ä–µ—Å–∞ (–ø—Ä–æ–≤–µ—Ä—è–µ—Ç—Å—è —Ç–æ–ª—å–∫–æ —Ç–µ–º–∞ —Å–æ–æ–±—â–µ–Ω–∏—è)";
+$MESS ['SUPPORT_MAIL_SUBJECT_TEMPLATE'] = "–®–∞–±–ª–æ–Ω—ã —Ç–µ–º—ã –¥–ª—è –æ–ø—Ä–µ–¥–µ–ª–µ–Ω–∏—è –æ—Ç–≤–µ—Ç–∞ –Ω–∞ –æ–±—Ä–∞—â–µ–Ω–∏–µ:";
+$MESS ['SUPPORT_MAIL_SUBJECT_TEMPLATE_NOTES'] = "(—Ä–µ–≥—É–ª—è—Ä–Ω—ã–µ –≤—ã—Ä–∞–∂–µ–Ω–∏—è, –≤ –ø–µ—Ä–≤—ã—Ö —Å–∫–æ–±–∫–∞—Ö –¥–æ–ª–∂–µ–Ω –±—ã—Ç—å –Ω–æ–º–µ—Ä –æ–±—Ä–∞—â–µ–Ω–∏—è)";
+$MESS ['SUPPORT_MAIL_ADD_TO_CATEGORY'] = "–ü—Ä–∏–≤—è–∑—ã–≤–∞—Ç—å –Ω–æ–≤–æ–µ –æ–±—Ä–∞—â–µ–Ω–∏–µ –∫ –∫–∞—Ç–µ–≥–æ—Ä–∏–∏:";
+$MESS ['SUPPORT_MAIL_HIDDEN'] = "–∫–∞–∫ —Å–∫—Ä—ã—Ç–æ–µ (—Ç–æ–ª—å–∫–æ –¥–ª—è —Å–æ—Ç—Ä—É–¥–Ω–∏–∫–æ–≤ —Ç–µ—Ö–ø–æ–¥–¥–µ—Ä–∂–∫–∏)";
+$MESS ['SUPPORT_MAIL_ADD_WITH_CRITICALITY'] = "–ù–∞–∑–Ω–∞—á–∏—Ç—å –Ω–æ–≤–æ–º—É –æ–±—Ä–∞—â–µ–Ω–∏—é –∫—Ä–∏—Ç–∏—á–Ω–æ—Å—Ç—å:";
+$MESS ['SUPPORT_MAIL_CONNECT_TICKET_WITH_SITE'] = "–ü—Ä–∏–≤—è–∑–∞—Ç—å –Ω–æ–≤–æ–µ –æ–±—Ä–∞—â–µ–Ω–∏–µ –∫ —Å–∞–π—Ç—É:";
+$MESS ['SUPPORT_MAIL_MAILBOX'] = "< –ø–æ—á—Ç–æ–≤–æ–≥–æ —è—â–∏–∫–∞ >";
 ?>

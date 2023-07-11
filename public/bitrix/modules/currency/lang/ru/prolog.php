@@ -1,3 +1,3 @@
 <?
-$MESS["CURRENCY_ICON_TITLE"] = "Βΰλώςϋ";
+$MESS["CURRENCY_ICON_TITLE"] = "Π’Π°Π»ΡΡ‚Ρ‹";
 ?>

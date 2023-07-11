@@ -1,9 +1,9 @@
 <?
-$MESS["ORDERDELIVERY_ENTITY_ID_FIELD"] = "²äåíòèô³êàòîð";
-$MESS["ORDERDELIVERY_ENTITY_LID_FIELD"] = "Ñàéò";
-$MESS["ORDERDELIVERY_ENTITY_ORDER_ID_FIELD"] = "²äåíòèô³êàòîð çàìîâëåííÿ";
-$MESS["ORDERDELIVERY_ENTITY_HID_FIELD"] = "²äåíòèô³êàòîð ñëóæáè äîñòàâêè";
-$MESS["ORDERDELIVERY_ENTITY_DATE_REQUEST_FIELD"] = "Äàòà â³äïðàâêè çàÿâêè";
-$MESS["ORDERDELIVERY_ENTITY_PARAMS_FIELD"] = "Äîäàòêîâ³ ïàðàìåòðè";
-$MESS["ORDERDELIVERY_ENTITY_SHIPMENT_ID_FIELD"] = "²äåíòèô³êàòîð â³äâàíòàæåííÿ";
+$MESS["ORDERDELIVERY_ENTITY_ID_FIELD"] = "Ð†Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÐ°Ñ‚Ð¾Ñ€";
+$MESS["ORDERDELIVERY_ENTITY_LID_FIELD"] = "Ð¡Ð°Ð¹Ñ‚";
+$MESS["ORDERDELIVERY_ENTITY_ORDER_ID_FIELD"] = "Ð†Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÐ°Ñ‚Ð¾Ñ€ Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ";
+$MESS["ORDERDELIVERY_ENTITY_HID_FIELD"] = "Ð†Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÐ°Ñ‚Ð¾Ñ€ ÑÐ»ÑƒÐ¶Ð±Ð¸ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸";
+$MESS["ORDERDELIVERY_ENTITY_DATE_REQUEST_FIELD"] = "Ð”Ð°Ñ‚Ð° Ð²Ñ–Ð´Ð¿Ñ€Ð°Ð²ÐºÐ¸ Ð·Ð°ÑÐ²ÐºÐ¸";
+$MESS["ORDERDELIVERY_ENTITY_PARAMS_FIELD"] = "Ð”Ð¾Ð´Ð°Ñ‚ÐºÐ¾Ð²Ñ– Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð¸";
+$MESS["ORDERDELIVERY_ENTITY_SHIPMENT_ID_FIELD"] = "Ð†Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÐ°Ñ‚Ð¾Ñ€ Ð²Ñ–Ð´Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ";
 ?>

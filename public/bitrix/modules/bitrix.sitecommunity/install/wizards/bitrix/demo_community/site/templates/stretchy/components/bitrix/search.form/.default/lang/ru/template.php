@@ -1,3 +1,3 @@
 <?
-$MESS ['SF_T_SEARCH_BUTTON'] = "Поиск";
+$MESS ['SF_T_SEARCH_BUTTON'] = "РџРѕРёСЃРє";
 ?>

@@ -1,7 +1,7 @@
 <?php
-$MESS['LANDING_HOOK_METAOG_NAME'] = 'Âèä ñòðàíèöû â ñîöñåòÿõ';
-$MESS['LANDING_HOOK_METAOG_TITLE'] = 'Çàãîëîâîê';
-$MESS['LANDING_HOOK_METAOG_TITLE_PLACEHOLDER'] = 'Ââåäèòå çàãîëîâîê ñòðàíèöû';
-$MESS['LANDING_HOOK_METAOG_DESCRIPTION'] = 'Îïèñàíèå';
-$MESS['LANDING_HOOK_METAOG_DESCRIPTION_PLACEHOLDER'] = 'Ââåäèòå îïèñàíèå ñòðàíèöû';
-$MESS['LANDING_HOOK_METAOG_PICTURE'] = 'Èçîáðàæåíèå';
+$MESS['LANDING_HOOK_METAOG_NAME'] = 'Ð’Ð¸Ð´ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹ Ð² ÑÐ¾Ñ†ÑÐµÑ‚ÑÑ…';
+$MESS['LANDING_HOOK_METAOG_TITLE'] = 'Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº';
+$MESS['LANDING_HOOK_METAOG_TITLE_PLACEHOLDER'] = 'Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð·Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹';
+$MESS['LANDING_HOOK_METAOG_DESCRIPTION'] = 'ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ';
+$MESS['LANDING_HOOK_METAOG_DESCRIPTION_PLACEHOLDER'] = 'Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð¾Ð¿Ð¸ÑÐ°Ð½Ð¸Ðµ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹';
+$MESS['LANDING_HOOK_METAOG_PICTURE'] = 'Ð˜Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ðµ';

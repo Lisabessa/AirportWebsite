@@ -1,16 +1,16 @@
 <?
-$MESS["TASK_NAME_CALENDAR_DENIED"] = "Äîñòóï çàêðûò";
-$MESS["TASK_NAME_CALENDAR_VIEW_TIME"] = "Ïðîñìîòð äîñòóïíîñòè";
-$MESS["TASK_NAME_CALENDAR_VIEW_TITLE"] = "Ïðîñìîòð äîñòóïíîñòè è íàçâàíèé";
-$MESS["TASK_NAME_CALENDAR_VIEW"] = "Ïðîñìîòð";
-$MESS["TASK_NAME_CALENDAR_EDIT"] = "Ðåäàêòèðîâàíèå ñîáûòèé è êàëåíäàðåé";
-$MESS["TASK_NAME_CALENDAR_ACCESS"] = "Ïîëíûé äîñòóï";
+$MESS["TASK_NAME_CALENDAR_DENIED"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ð·Ð°ÐºÑ€Ñ‹Ñ‚";
+$MESS["TASK_NAME_CALENDAR_VIEW_TIME"] = "ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ð¾ÑÑ‚Ð¸";
+$MESS["TASK_NAME_CALENDAR_VIEW_TITLE"] = "ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ð¾ÑÑ‚Ð¸ Ð¸ Ð½Ð°Ð·Ð²Ð°Ð½Ð¸Ð¹";
+$MESS["TASK_NAME_CALENDAR_VIEW"] = "ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€";
+$MESS["TASK_NAME_CALENDAR_EDIT"] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ð¹ Ð¸ ÐºÐ°Ð»ÐµÐ½Ð´Ð°Ñ€ÐµÐ¹";
+$MESS["TASK_NAME_CALENDAR_ACCESS"] = "ÐŸÐ¾Ð»Ð½Ñ‹Ð¹ Ð´Ð¾ÑÑ‚ÑƒÐ¿";
 
-$MESS["TASK_NAME_CALENDAR_TYPE_DENIED"] = "Äîñòóï çàêðûò";
-$MESS["TASK_NAME_CALENDAR_TYPE_VIEW"] = "Ïðîñìîòð";
-$MESS["TASK_NAME_CALENDAR_TYPE_EDIT"] = "Ðåäàêòèðîâàíèå ñîáûòèé è êàëåíäàðåé";
-$MESS["TASK_NAME_CALENDAR_TYPE_ACCESS"] = "Ïîëíûé äîñòóï";
+$MESS["TASK_NAME_CALENDAR_TYPE_DENIED"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ð·Ð°ÐºÑ€Ñ‹Ñ‚";
+$MESS["TASK_NAME_CALENDAR_TYPE_VIEW"] = "ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€";
+$MESS["TASK_NAME_CALENDAR_TYPE_EDIT"] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ð¹ Ð¸ ÐºÐ°Ð»ÐµÐ½Ð´Ð°Ñ€ÐµÐ¹";
+$MESS["TASK_NAME_CALENDAR_TYPE_ACCESS"] = "ÐŸÐ¾Ð»Ð½Ñ‹Ð¹ Ð´Ð¾ÑÑ‚ÑƒÐ¿";
 
-$MESS["TASK_BINDING_CALENDAR_SECTION"] = "Ñåêöèÿ êàëåíäàðÿ";
-$MESS["TASK_BINDING_CALENDAR_TYPE"] = "Òèï êàëåíäàðÿ";
+$MESS["TASK_BINDING_CALENDAR_SECTION"] = "Ð¡ÐµÐºÑ†Ð¸Ñ ÐºÐ°Ð»ÐµÐ½Ð´Ð°Ñ€Ñ";
+$MESS["TASK_BINDING_CALENDAR_TYPE"] = "Ð¢Ð¸Ð¿ ÐºÐ°Ð»ÐµÐ½Ð´Ð°Ñ€Ñ";
 ?>

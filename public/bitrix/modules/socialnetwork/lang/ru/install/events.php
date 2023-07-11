@@ -1,150 +1,150 @@
 <?
-$MESS["SONET_NEW_MESSAGE_NAME"] = "Ó Âàñ íîâîå ñîîáùåíèå";
-$MESS["SONET_NEW_MESSAGE_DESC"] = "#MESSAGE_ID# - ID ñîîáùåíèÿ
-#USER_ID# - ID ïîëüçîâàòåëÿ
-#USER_NAME# - Èìÿ ïîëüçîâàòåëÿ
-#USER_LAST_NAME# - Ôàìèëèÿ ïîëüçîâàòåëÿ
-#SENDER_ID# - ID îòïðàâèòåëÿ ñîîáùåíèÿ
-#SENDER_NAME# - Èìÿ îòïðàâèòåëÿ ñîîáùåíèÿ
-#SENDER_LAST_NAME# - Ôàìèëèÿ îòïðàâèòåëÿ ñîîáùåíèÿ
-#TITLE# - Çàãîëîâîê ñîîáùåíèÿ
-#MESSAGE# - Ñîîáùåíèå
-#EMAIL_TO# - Email ïîëó÷àòåëÿ ïèñüìà";
-$MESS["SONET_NEW_MESSAGE_SUBJECT"] = "#SITE_NAME#: Ó Âàñ íîâîå ñîîáùåíèå";
-$MESS["SONET_NEW_MESSAGE_MESSAGE"] = "Èíôîðìàöèîííîå ñîîáùåíèå ñàéòà #SITE_NAME#
+$MESS["SONET_NEW_MESSAGE_NAME"] = "Ð£ Ð’Ð°Ñ Ð½Ð¾Ð²Ð¾Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ";
+$MESS["SONET_NEW_MESSAGE_DESC"] = "#MESSAGE_ID# - ID ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
+#USER_ID# - ID Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ
+#USER_NAME# - Ð˜Ð¼Ñ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ
+#USER_LAST_NAME# - Ð¤Ð°Ð¼Ð¸Ð»Ð¸Ñ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ
+#SENDER_ID# - ID Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»Ñ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
+#SENDER_NAME# - Ð˜Ð¼Ñ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»Ñ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
+#SENDER_LAST_NAME# - Ð¤Ð°Ð¼Ð¸Ð»Ð¸Ñ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»Ñ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
+#TITLE# - Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
+#MESSAGE# - Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ
+#EMAIL_TO# - Email Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ Ð¿Ð¸ÑÑŒÐ¼Ð°";
+$MESS["SONET_NEW_MESSAGE_SUBJECT"] = "#SITE_NAME#: Ð£ Ð’Ð°Ñ Ð½Ð¾Ð²Ð¾Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ";
+$MESS["SONET_NEW_MESSAGE_MESSAGE"] = "Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð¾Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ ÑÐ°Ð¹Ñ‚Ð° #SITE_NAME#
 ------------------------------------------
 
-Çäðàâñòâóéòå, #USER_NAME#!
+Ð—Ð´Ñ€Ð°Ð²ÑÑ‚Ð²ÑƒÐ¹Ñ‚Ðµ, #USER_NAME#!
 
-Âàì ïðèøëî íîâîå ñîîáùåíèå îò ïîëüçîâàòåëÿ #SENDER_NAME# #SENDER_LAST_NAME#:
+Ð’Ð°Ð¼ Ð¿Ñ€Ð¸ÑˆÐ»Ð¾ Ð½Ð¾Ð²Ð¾Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ Ð¾Ñ‚ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ #SENDER_NAME# #SENDER_LAST_NAME#:
 
 ------------------------------------------
 #MESSAGE#
 ------------------------------------------
 
-Ññûëêà íà ñîîáùåíèÿ ïîëüçîâàòåëÿ:
+Ð¡ÑÑ‹Ð»ÐºÐ° Ð½Ð° ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ:
 
 http://#SERVER_NAME#/company/personal/messages/chat/#SENDER_ID#/
 
-Ñîîáùåíèå ñãåíåðèðîâàíî àâòîìàòè÷åñêè.
+Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ ÑÐ³ÐµÐ½ÐµÑ€Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¾ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸.
 ";
-$MESS["SONET_INVITE_FRIEND_NAME"] = "Ïðèãëàøåíèå ïðèñîåäèíèòüñÿ ê ñïèñêó äðóçåé";
-$MESS["SONET_INVITE_FRIEND_DESC"] = "#RELATION_ID# - ID ñâÿçè
-#SENDER_USER_ID# - ID îòïðàâèòåëÿ
-#SENDER_USER_NAME# - Èìÿ îòïðàâèòåëÿ
-#SENDER_USER_LAST_NAME# - Ôàìèëèÿ îòïðàâèòåëÿ
-#SENDER_EMAIL_TO# - Email îòïðàâèòåëÿ
-#RECIPIENT_USER_ID# - ID ïîëó÷àòåëÿ
-#RECIPIENT_USER_NAME# - Èìÿ ïîëó÷àòåëÿ
-#RECIPIENT_USER_LAST_NAME# - Ôàìèëèÿ ïîëó÷àòåëÿ
-#RECIPIENT_USER_EMAIL_TO# - Email ïîëó÷àòåëÿ
-#MESSAGE# - Ñîîáùåíèå";
-$MESS["SONET_INVITE_FRIEND_SUBJECT"] = "#SITE_NAME#: Ïðèãëàøåíèå ïðèñîåäèíèòüñÿ ê ñïèñêó äðóçåé";
-$MESS["SONET_INVITE_FRIEND_MESSAGE"] = "Èíôîðìàöèîííîå ñîîáùåíèå ñàéòà #SITE_NAME#
+$MESS["SONET_INVITE_FRIEND_NAME"] = "ÐŸÑ€Ð¸Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ðµ Ð¿Ñ€Ð¸ÑÐ¾ÐµÐ´Ð¸Ð½Ð¸Ñ‚ÑŒÑÑ Ðº ÑÐ¿Ð¸ÑÐºÑƒ Ð´Ñ€ÑƒÐ·ÐµÐ¹";
+$MESS["SONET_INVITE_FRIEND_DESC"] = "#RELATION_ID# - ID ÑÐ²ÑÐ·Ð¸
+#SENDER_USER_ID# - ID Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»Ñ
+#SENDER_USER_NAME# - Ð˜Ð¼Ñ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»Ñ
+#SENDER_USER_LAST_NAME# - Ð¤Ð°Ð¼Ð¸Ð»Ð¸Ñ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»Ñ
+#SENDER_EMAIL_TO# - Email Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»Ñ
+#RECIPIENT_USER_ID# - ID Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ
+#RECIPIENT_USER_NAME# - Ð˜Ð¼Ñ Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ
+#RECIPIENT_USER_LAST_NAME# - Ð¤Ð°Ð¼Ð¸Ð»Ð¸Ñ Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ
+#RECIPIENT_USER_EMAIL_TO# - Email Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ
+#MESSAGE# - Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ";
+$MESS["SONET_INVITE_FRIEND_SUBJECT"] = "#SITE_NAME#: ÐŸÑ€Ð¸Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ðµ Ð¿Ñ€Ð¸ÑÐ¾ÐµÐ´Ð¸Ð½Ð¸Ñ‚ÑŒÑÑ Ðº ÑÐ¿Ð¸ÑÐºÑƒ Ð´Ñ€ÑƒÐ·ÐµÐ¹";
+$MESS["SONET_INVITE_FRIEND_MESSAGE"] = "Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð¾Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ ÑÐ°Ð¹Ñ‚Ð° #SITE_NAME#
 ------------------------------------------
 
-Çäðàâñòâóéòå, #RECIPIENT_USER_NAME#!
+Ð—Ð´Ñ€Ð°Ð²ÑÑ‚Ð²ÑƒÐ¹Ñ‚Ðµ, #RECIPIENT_USER_NAME#!
 
-#SENDER_USER_NAME# #SENDER_USER_LAST_NAME# ïðèãëàøàåò Âàñ ïðèñîåäèíèòüñÿ ê ñïèñêó åãî äðóçåé.
+#SENDER_USER_NAME# #SENDER_USER_LAST_NAME# Ð¿Ñ€Ð¸Ð³Ð»Ð°ÑˆÐ°ÐµÑ‚ Ð’Ð°Ñ Ð¿Ñ€Ð¸ÑÐ¾ÐµÐ´Ð¸Ð½Ð¸Ñ‚ÑŒÑÑ Ðº ÑÐ¿Ð¸ÑÐºÑƒ ÐµÐ³Ð¾ Ð´Ñ€ÑƒÐ·ÐµÐ¹.
 
-×òîáû îòêëèêíóòüñÿ íà ïðèãëàøåíèå, ïîæàëóéñòà, ïåðåéäèòå ïî ññûëêå:
+Ð§Ñ‚Ð¾Ð±Ñ‹ Ð¾Ñ‚ÐºÐ»Ð¸ÐºÐ½ÑƒÑ‚ÑŒÑÑ Ð½Ð° Ð¿Ñ€Ð¸Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ðµ, Ð¿Ð¾Ð¶Ð°Ð»ÑƒÐ¹ÑÑ‚Ð°, Ð¿ÐµÑ€ÐµÐ¹Ð´Ð¸Ñ‚Ðµ Ð¿Ð¾ ÑÑÑ‹Ð»ÐºÐµ:
 
 http://#SERVER_NAME##URL#
 
-Ñîîáùåíèå îò ïîëüçîâàòåëÿ:
+Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ Ð¾Ñ‚ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ:
 ------------------------------------------
 #MESSAGE#
 ------------------------------------------
 
-Ñîîáùåíèå ñãåíåðèðîâàíî àâòîìàòè÷åñêè.";
-$MESS["SONET_INVITE_GROUP_NAME"] = "Ïðèãëàøåíèå ïðèñîåäèíèòüñÿ ê ãðóïïå";
-$MESS["SONET_INVITE_GROUP_DESC"] = "#RELATION_ID# - ID ñâÿçè
-#GROUP_ID# - ID ãðóïïû
-#USER_ID# - ID ïîëüçîâàòåëÿ
-#GROUP_NAME# - Íàçâàíèå ãðóïïû
-#USER_NAME# - Èìÿ ïîëüçîâàòåëÿ
-#USER_LAST_NAME# - Ôàìèëèÿ ïîëüçîâàòåëÿ
-#USER_EMAIL# - Email ïîëüçîâàòåëÿ
-#INITIATED_USER_NAME# - Èìÿ ïîëüçîâàòåëÿ, îòïðàâèâøåãî ïðèãëàøåíèå
-#INITIATED_USER_LAST_NAME# - Ôàìèëèÿ ïîëüçîâàòåëÿ, îòïðàâèâøåãî ïðèãëàøåíèå
-#URL# - Ïóòü ê ñòðàíèöå ñîîáùåíèé ïîëüçîâàòåëÿ
-#MESSAGE# - Ñîîáùåíèå";
-$MESS["SONET_INVITE_GROUP_SUBJECT"] = "#SITE_NAME#: Ïðèãëàøåíèå ñòàòü ó÷àñòíèêîì ãðóïïû";
-$MESS["SONET_INVITE_GROUP_MESSAGE"] = "Èíôîðìàöèîííîå ñîîáùåíèå ñàéòà #SITE_NAME#
+Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ ÑÐ³ÐµÐ½ÐµÑ€Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¾ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸.";
+$MESS["SONET_INVITE_GROUP_NAME"] = "ÐŸÑ€Ð¸Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ðµ Ð¿Ñ€Ð¸ÑÐ¾ÐµÐ´Ð¸Ð½Ð¸Ñ‚ÑŒÑÑ Ðº Ð³Ñ€ÑƒÐ¿Ð¿Ðµ";
+$MESS["SONET_INVITE_GROUP_DESC"] = "#RELATION_ID# - ID ÑÐ²ÑÐ·Ð¸
+#GROUP_ID# - ID Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹
+#USER_ID# - ID Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ
+#GROUP_NAME# - ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹
+#USER_NAME# - Ð˜Ð¼Ñ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ
+#USER_LAST_NAME# - Ð¤Ð°Ð¼Ð¸Ð»Ð¸Ñ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ
+#USER_EMAIL# - Email Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ
+#INITIATED_USER_NAME# - Ð˜Ð¼Ñ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ, Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ð²ÑˆÐµÐ³Ð¾ Ð¿Ñ€Ð¸Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ðµ
+#INITIATED_USER_LAST_NAME# - Ð¤Ð°Ð¼Ð¸Ð»Ð¸Ñ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ, Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ð²ÑˆÐµÐ³Ð¾ Ð¿Ñ€Ð¸Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ðµ
+#URL# - ÐŸÑƒÑ‚ÑŒ Ðº ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ð¹ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ
+#MESSAGE# - Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ";
+$MESS["SONET_INVITE_GROUP_SUBJECT"] = "#SITE_NAME#: ÐŸÑ€Ð¸Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ðµ ÑÑ‚Ð°Ñ‚ÑŒ ÑƒÑ‡Ð°ÑÑ‚Ð½Ð¸ÐºÐ¾Ð¼ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
+$MESS["SONET_INVITE_GROUP_MESSAGE"] = "Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð¾Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ ÑÐ°Ð¹Ñ‚Ð° #SITE_NAME#
 ------------------------------------------
 
-Çäðàâñòâóéòå, #USER_NAME#!
+Ð—Ð´Ñ€Ð°Ð²ÑÑ‚Ð²ÑƒÐ¹Ñ‚Ðµ, #USER_NAME#!
 
-Ïîëüçîâàòåëü #INITIATED_USER_NAME# #INITIATED_USER_LAST_NAME# ïðèãëàøàåò Âàñ ñòàòü ó÷àñòíèêîì ãðóïïû #GROUP_NAME#.
+ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ #INITIATED_USER_NAME# #INITIATED_USER_LAST_NAME# Ð¿Ñ€Ð¸Ð³Ð»Ð°ÑˆÐ°ÐµÑ‚ Ð’Ð°Ñ ÑÑ‚Ð°Ñ‚ÑŒ ÑƒÑ‡Ð°ÑÑ‚Ð½Ð¸ÐºÐ¾Ð¼ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹ #GROUP_NAME#.
 
-×òîáû îòêëèêíóòüñÿ íà ïðèãëàøåíèå, ïîæàëóéñòà, ïåðåéäèòå ïî ññûëêå:
+Ð§Ñ‚Ð¾Ð±Ñ‹ Ð¾Ñ‚ÐºÐ»Ð¸ÐºÐ½ÑƒÑ‚ÑŒÑÑ Ð½Ð° Ð¿Ñ€Ð¸Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ðµ, Ð¿Ð¾Ð¶Ð°Ð»ÑƒÐ¹ÑÑ‚Ð°, Ð¿ÐµÑ€ÐµÐ¹Ð´Ð¸Ñ‚Ðµ Ð¿Ð¾ ÑÑÑ‹Ð»ÐºÐµ:
 
 http://#SERVER_NAME##URL#
 
-Ñîîáùåíèå îò ãðóïïû:
+Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ Ð¾Ñ‚ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹:
 ------------------------------------------
 #MESSAGE#
 ------------------------------------------
 
-Ñîîáùåíèå ñãåíåðèðîâàíî àâòîìàòè÷åñêè.";
-$MESS["SONET_AGREE_FRIEND_NAME"] = "Ñîãëàñèå ñòàòü äðóãîì";
-$MESS["SONET_AGREE_FRIEND_DESC"] = "#RELATION_ID# - ID ñâÿçè
-#SENDER_USER_ID# - ID îòïðàâèòåëÿ
-#SENDER_USER_NAME# - Èìÿ îòïðàâèòåëÿ
-#SENDER_USER_LAST_NAME# - Ôàìèëèÿ îòïðàâèòåëÿ
-#SENDER_EMAIL_TO# - Email îòïðàâèòåëÿ
-#RECIPIENT_USER_ID# - ID ïîëó÷àòåëÿ
-#RECIPIENT_USER_NAME# - Èìÿ ïîëó÷àòåëÿ
-#RECIPIENT_USER_LAST_NAME# - Ôàìèëèÿ ïîëó÷àòåëÿ
-#RECIPIENT_USER_EMAIL_TO# - Email ïîëó÷àòåëÿ
-#MESSAGE# - Ñîîáùåíèå";
-$MESS["SONET_AGREE_FRIEND_SUBJECT"] = "#SITE_NAME#: Ïîäòâåðæäåíèå ïðèñîåäèíåíèÿ ê ñïèñêó äðóçåé";
-$MESS["SONET_AGREE_FRIEND_MESSAGE"] = "Èíôîðìàöèîííîå ñîîáùåíèå ñàéòà #SITE_NAME#
+Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ ÑÐ³ÐµÐ½ÐµÑ€Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¾ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸.";
+$MESS["SONET_AGREE_FRIEND_NAME"] = "Ð¡Ð¾Ð³Ð»Ð°ÑÐ¸Ðµ ÑÑ‚Ð°Ñ‚ÑŒ Ð´Ñ€ÑƒÐ³Ð¾Ð¼";
+$MESS["SONET_AGREE_FRIEND_DESC"] = "#RELATION_ID# - ID ÑÐ²ÑÐ·Ð¸
+#SENDER_USER_ID# - ID Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»Ñ
+#SENDER_USER_NAME# - Ð˜Ð¼Ñ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»Ñ
+#SENDER_USER_LAST_NAME# - Ð¤Ð°Ð¼Ð¸Ð»Ð¸Ñ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»Ñ
+#SENDER_EMAIL_TO# - Email Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»Ñ
+#RECIPIENT_USER_ID# - ID Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ
+#RECIPIENT_USER_NAME# - Ð˜Ð¼Ñ Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ
+#RECIPIENT_USER_LAST_NAME# - Ð¤Ð°Ð¼Ð¸Ð»Ð¸Ñ Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ
+#RECIPIENT_USER_EMAIL_TO# - Email Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ
+#MESSAGE# - Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ";
+$MESS["SONET_AGREE_FRIEND_SUBJECT"] = "#SITE_NAME#: ÐŸÐ¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð¸Ðµ Ð¿Ñ€Ð¸ÑÐ¾ÐµÐ´Ð¸Ð½ÐµÐ½Ð¸Ñ Ðº ÑÐ¿Ð¸ÑÐºÑƒ Ð´Ñ€ÑƒÐ·ÐµÐ¹";
+$MESS["SONET_AGREE_FRIEND_MESSAGE"] = "Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð¾Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ ÑÐ°Ð¹Ñ‚Ð° #SITE_NAME#
 ------------------------------------------
 
-Çäðàâñòâóéòå, #RECIPIENT_USER_NAME#!
+Ð—Ð´Ñ€Ð°Ð²ÑÑ‚Ð²ÑƒÐ¹Ñ‚Ðµ, #RECIPIENT_USER_NAME#!
 
-#SENDER_USER_NAME# #SENDER_USER_LAST_NAME# ñîãëàñåí ïðèñîåäèíèòüñÿ ê ñïèñêó Âàøèõ äðóçåé.
+#SENDER_USER_NAME# #SENDER_USER_LAST_NAME# ÑÐ¾Ð³Ð»Ð°ÑÐµÐ½ Ð¿Ñ€Ð¸ÑÐ¾ÐµÐ´Ð¸Ð½Ð¸Ñ‚ÑŒÑÑ Ðº ÑÐ¿Ð¸ÑÐºÑƒ Ð’Ð°ÑˆÐ¸Ñ… Ð´Ñ€ÑƒÐ·ÐµÐ¹.
 
-Ñîîáùåíèå ñãåíåðèðîâàíî àâòîìàòè÷åñêè.";
-$MESS["SONET_BAN_FRIEND_NAME"] = "Çàíåñåíèå â ÷åðíûé ñïèñîê";
-$MESS["SONET_BAN_FRIEND_DESC"] = "#RELATION_ID# - ID ñâÿçè
-#SENDER_USER_ID# - ID îòïðàâèòåëÿ
-#SENDER_USER_NAME# - Èìÿ îòïðàâèòåëÿ
-#SENDER_USER_LAST_NAME# - Ôàìèëèÿ îòïðàâèòåëÿ
-#SENDER_EMAIL_TO# - Email îòïðàâèòåëÿ
-#RECIPIENT_USER_ID# - ID ïîëó÷àòåëÿ
-#RECIPIENT_USER_NAME# - Èìÿ ïîëó÷àòåëÿ
-#RECIPIENT_USER_LAST_NAME# - Ôàìèëèÿ ïîëó÷àòåëÿ
-#RECIPIENT_USER_EMAIL_TO# - Email ïîëó÷àòåëÿ
-#MESSAGE# - Ñîîáùåíèå";
-$MESS["SONET_BAN_FRIEND_SUBJECT"] = "#SITE_NAME#: Çàíåñåíèå â ÷åðíûé ñïèñîê";
-$MESS["SONET_BAN_FRIEND_MESSAGE"] = "Èíôîðìàöèîííîå ñîîáùåíèå ñàéòà #SITE_NAME#
+Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ ÑÐ³ÐµÐ½ÐµÑ€Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¾ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸.";
+$MESS["SONET_BAN_FRIEND_NAME"] = "Ð—Ð°Ð½ÐµÑÐµÐ½Ð¸Ðµ Ð² Ñ‡ÐµÑ€Ð½Ñ‹Ð¹ ÑÐ¿Ð¸ÑÐ¾Ðº";
+$MESS["SONET_BAN_FRIEND_DESC"] = "#RELATION_ID# - ID ÑÐ²ÑÐ·Ð¸
+#SENDER_USER_ID# - ID Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»Ñ
+#SENDER_USER_NAME# - Ð˜Ð¼Ñ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»Ñ
+#SENDER_USER_LAST_NAME# - Ð¤Ð°Ð¼Ð¸Ð»Ð¸Ñ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»Ñ
+#SENDER_EMAIL_TO# - Email Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»Ñ
+#RECIPIENT_USER_ID# - ID Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ
+#RECIPIENT_USER_NAME# - Ð˜Ð¼Ñ Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ
+#RECIPIENT_USER_LAST_NAME# - Ð¤Ð°Ð¼Ð¸Ð»Ð¸Ñ Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ
+#RECIPIENT_USER_EMAIL_TO# - Email Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ
+#MESSAGE# - Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ";
+$MESS["SONET_BAN_FRIEND_SUBJECT"] = "#SITE_NAME#: Ð—Ð°Ð½ÐµÑÐµÐ½Ð¸Ðµ Ð² Ñ‡ÐµÑ€Ð½Ñ‹Ð¹ ÑÐ¿Ð¸ÑÐ¾Ðº";
+$MESS["SONET_BAN_FRIEND_MESSAGE"] = "Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð¾Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ ÑÐ°Ð¹Ñ‚Ð° #SITE_NAME#
 ------------------------------------------
 
-Çäðàâñòâóéòå, #RECIPIENT_USER_NAME#!
+Ð—Ð´Ñ€Ð°Ð²ÑÑ‚Ð²ÑƒÐ¹Ñ‚Ðµ, #RECIPIENT_USER_NAME#!
 
-#SENDER_USER_NAME# #SENDER_USER_LAST_NAME# çàíåñ Âàñ â ÷åðíûé ñïèñîê.
+#SENDER_USER_NAME# #SENDER_USER_LAST_NAME# Ð·Ð°Ð½ÐµÑ Ð’Ð°Ñ Ð² Ñ‡ÐµÑ€Ð½Ñ‹Ð¹ ÑÐ¿Ð¸ÑÐ¾Ðº.
 
-Ñîîáùåíèå ñãåíåðèðîâàíî àâòîìàòè÷åñêè.";
-$MESS["SONET_NEW_EVENT_GROUP_NAME"] = "Íîâîå ñîáûòèå ãðóïïû";
-$MESS["SONET_NEW_EVENT_GROUP_DESC"] = "#ENTITY_ID# - ID ãðóïïû
-#LOG_DATE# - Äàòà çàïèñè
-#TITLE# - Çàãîëîâîê
-#MESSAGE# - Ñîîáùåíèå
-#URL# - Àäðåñ
-#GROUP_NAME# - Íàçâàíèå ãðóïïû
-#SUBSCRIBER_NAME# - Èìÿ ïîëó÷àòåëÿ
-#SUBSCRIBER_LAST_NAME# - Ôàìèëèÿ ïîëó÷àòåëÿ
-#SUBSCRIBER_EMAIL# - Email ïîëó÷àòåëÿ
-#SUBSCRIBER_ID# - ID ïîëó÷àòåëÿ";
-$MESS["SONET_NEW_EVENT_GROUP_SUBJECT"] = "#SITE_NAME#: #GROUP_NAME# - Íîâîå ñîáûòèå ãðóïïû";
-$MESS["SONET_NEW_EVENT_GROUP_MESSAGE"] = "Èíôîðìàöèîííîå ñîîáùåíèå ñàéòà #SITE_NAME#
+Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ ÑÐ³ÐµÐ½ÐµÑ€Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¾ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸.";
+$MESS["SONET_NEW_EVENT_GROUP_NAME"] = "ÐÐ¾Ð²Ð¾Ðµ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ðµ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
+$MESS["SONET_NEW_EVENT_GROUP_DESC"] = "#ENTITY_ID# - ID Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹
+#LOG_DATE# - Ð”Ð°Ñ‚Ð° Ð·Ð°Ð¿Ð¸ÑÐ¸
+#TITLE# - Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº
+#MESSAGE# - Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ
+#URL# - ÐÐ´Ñ€ÐµÑ
+#GROUP_NAME# - ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹
+#SUBSCRIBER_NAME# - Ð˜Ð¼Ñ Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ
+#SUBSCRIBER_LAST_NAME# - Ð¤Ð°Ð¼Ð¸Ð»Ð¸Ñ Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ
+#SUBSCRIBER_EMAIL# - Email Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ
+#SUBSCRIBER_ID# - ID Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ";
+$MESS["SONET_NEW_EVENT_GROUP_SUBJECT"] = "#SITE_NAME#: #GROUP_NAME# - ÐÐ¾Ð²Ð¾Ðµ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ðµ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
+$MESS["SONET_NEW_EVENT_GROUP_MESSAGE"] = "Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð¾Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ ÑÐ°Ð¹Ñ‚Ð° #SITE_NAME#
 ------------------------------------------
 
-Çäðàâñòâóéòå, #SUBSCRIBER_NAME#!
+Ð—Ð´Ñ€Ð°Ð²ÑÑ‚Ð²ÑƒÐ¹Ñ‚Ðµ, #SUBSCRIBER_NAME#!
 
-Â ãðóïïå #GROUP_NAME# ïðîèçîøëè ñëåäóþùèå èçìåíåíèÿ:
+Ð’ Ð³Ñ€ÑƒÐ¿Ð¿Ðµ #GROUP_NAME# Ð¿Ñ€Ð¾Ð¸Ð·Ð¾ÑˆÐ»Ð¸ ÑÐ»ÐµÐ´ÑƒÑŽÑ‰Ð¸Ðµ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ:
 
 #TITLE#
 
@@ -152,40 +152,40 @@ $MESS["SONET_NEW_EVENT_GROUP_MESSAGE"] = "Èíôîðìàöèîííîå ñîîáùåíèå ñàéòà #SITE_N
 #MESSAGE#
 ------------------------------------------
 
-×òîáû ïîïàñòü íà ñàéò, ïîæàëóéñòà, ïåðåéäèòå ïî ññûëêå:
+Ð§Ñ‚Ð¾Ð±Ñ‹ Ð¿Ð¾Ð¿Ð°ÑÑ‚ÑŒ Ð½Ð° ÑÐ°Ð¹Ñ‚, Ð¿Ð¾Ð¶Ð°Ð»ÑƒÐ¹ÑÑ‚Ð°, Ð¿ÐµÑ€ÐµÐ¹Ð´Ð¸Ñ‚Ðµ Ð¿Ð¾ ÑÑÑ‹Ð»ÐºÐµ:
 
 http://#SERVER_NAME##URL#
 
-Ñîîáùåíèå ñãåíåðèðîâàíî àâòîìàòè÷åñêè.";
-$MESS["SONET_NEW_EVENT_USER_NAME"] = "Íîâîå ñîáûòèå ïîëüçîâàòåëÿ";
-$MESS["SONET_NEW_EVENT_USER_DESC"] = "#ENTITY_ID# - ID ïîëüçîâàòåëÿ
-#LOG_DATE# - Äàòà çàïèñè
-#TITLE# - Çàãîëîâîê
-#MESSAGE# - Ñîîáùåíèå
-#URL# - Àäðåñ
-#USER_NAME# - Èìÿ ïîëüçîâàòåëÿ
-#SUBSCRIBER_NAME# - Èìÿ ïîëó÷àòåëÿ
-#SUBSCRIBER_LAST_NAME# - Ôàìèëèÿ ïîëó÷àòåëÿ
-#SUBSCRIBER_EMAIL# - Email ïîëó÷àòåëÿ
-#SUBSCRIBER_ID# - ID ïîëó÷àòåëÿ";
-$MESS["SONET_NEW_EVENT_NAME"] = "Íîâîå ñîáûòèå";
-$MESS["SONET_NEW_EVENT_DESC"] = "#ENTITY_ID# - ID èñòî÷íèêà ñîáûòèÿ
-#LOG_DATE# - Äàòà çàïèñè
-#TITLE# - Çàãîëîâîê
-#MESSAGE# - Ñîîáùåíèå
-#URL# - Àäðåñ
-#ENTITY# - Ìåñòî ðåãèñòðàöèè ñîáûòèÿ
-#SUBSCRIBER_NAME# - Èìÿ ïîëó÷àòåëÿ
-#SUBSCRIBER_LAST_NAME# - Ôàìèëèÿ ïîëó÷àòåëÿ
-#SUBSCRIBER_EMAIL# - Email ïîëó÷àòåëÿ
-#SUBSCRIBER_ID# - ID ïîëó÷àòåëÿ";
-$MESS["SONET_NEW_EVENT_USER_SUBJECT"] = "#SITE_NAME#: #USER_NAME# - Íîâîå ñîáûòèå â êàðòî÷êå ïîëüçîâàòåëÿ";
-$MESS["SONET_NEW_EVENT_USER_MESSAGE"] = "Èíôîðìàöèîííîå ñîîáùåíèå ñàéòà #SITE_NAME#
+Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ ÑÐ³ÐµÐ½ÐµÑ€Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¾ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸.";
+$MESS["SONET_NEW_EVENT_USER_NAME"] = "ÐÐ¾Ð²Ð¾Ðµ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ðµ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
+$MESS["SONET_NEW_EVENT_USER_DESC"] = "#ENTITY_ID# - ID Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ
+#LOG_DATE# - Ð”Ð°Ñ‚Ð° Ð·Ð°Ð¿Ð¸ÑÐ¸
+#TITLE# - Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº
+#MESSAGE# - Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ
+#URL# - ÐÐ´Ñ€ÐµÑ
+#USER_NAME# - Ð˜Ð¼Ñ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ
+#SUBSCRIBER_NAME# - Ð˜Ð¼Ñ Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ
+#SUBSCRIBER_LAST_NAME# - Ð¤Ð°Ð¼Ð¸Ð»Ð¸Ñ Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ
+#SUBSCRIBER_EMAIL# - Email Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ
+#SUBSCRIBER_ID# - ID Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ";
+$MESS["SONET_NEW_EVENT_NAME"] = "ÐÐ¾Ð²Ð¾Ðµ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ðµ";
+$MESS["SONET_NEW_EVENT_DESC"] = "#ENTITY_ID# - ID Ð¸ÑÑ‚Ð¾Ñ‡Ð½Ð¸ÐºÐ° ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ
+#LOG_DATE# - Ð”Ð°Ñ‚Ð° Ð·Ð°Ð¿Ð¸ÑÐ¸
+#TITLE# - Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº
+#MESSAGE# - Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ
+#URL# - ÐÐ´Ñ€ÐµÑ
+#ENTITY# - ÐœÐµÑÑ‚Ð¾ Ñ€ÐµÐ³Ð¸ÑÑ‚Ñ€Ð°Ñ†Ð¸Ð¸ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ
+#SUBSCRIBER_NAME# - Ð˜Ð¼Ñ Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ
+#SUBSCRIBER_LAST_NAME# - Ð¤Ð°Ð¼Ð¸Ð»Ð¸Ñ Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ
+#SUBSCRIBER_EMAIL# - Email Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ
+#SUBSCRIBER_ID# - ID Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ";
+$MESS["SONET_NEW_EVENT_USER_SUBJECT"] = "#SITE_NAME#: #USER_NAME# - ÐÐ¾Ð²Ð¾Ðµ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ðµ Ð² ÐºÐ°Ñ€Ñ‚Ð¾Ñ‡ÐºÐµ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
+$MESS["SONET_NEW_EVENT_USER_MESSAGE"] = "Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð¾Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ ÑÐ°Ð¹Ñ‚Ð° #SITE_NAME#
 ------------------------------------------
 
-Çäðàâñòâóéòå, #SUBSCRIBER_NAME#!
+Ð—Ð´Ñ€Ð°Ð²ÑÑ‚Ð²ÑƒÐ¹Ñ‚Ðµ, #SUBSCRIBER_NAME#!
 
-Ó ïîëüçîâàòåëÿ #USER_NAME# ïðîèçîøëè ñëåäóþùèå èçìåíåíèÿ:
+Ð£ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ #USER_NAME# Ð¿Ñ€Ð¾Ð¸Ð·Ð¾ÑˆÐ»Ð¸ ÑÐ»ÐµÐ´ÑƒÑŽÑ‰Ð¸Ðµ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ:
 
 #TITLE#
 
@@ -193,17 +193,17 @@ $MESS["SONET_NEW_EVENT_USER_MESSAGE"] = "Èíôîðìàöèîííîå ñîîáùåíèå ñàéòà #SITE_NA
 #MESSAGE#
 ------------------------------------------
 
-×òîáû ïîïàñòü íà ñàéò, ïîæàëóéñòà, ïåðåéäèòå ïî ññûëêå:
+Ð§Ñ‚Ð¾Ð±Ñ‹ Ð¿Ð¾Ð¿Ð°ÑÑ‚ÑŒ Ð½Ð° ÑÐ°Ð¹Ñ‚, Ð¿Ð¾Ð¶Ð°Ð»ÑƒÐ¹ÑÑ‚Ð°, Ð¿ÐµÑ€ÐµÐ¹Ð´Ð¸Ñ‚Ðµ Ð¿Ð¾ ÑÑÑ‹Ð»ÐºÐµ:
 
 http://#SERVER_NAME##URL#
-Ñîîáùåíèå ñãåíåðèðîâàíî àâòîìàòè÷åñêè.";
-$MESS["SONET_NEW_EVENT_SUBJECT"] = "#SITE_NAME#: #ENTITY# - Íîâîå ñîáûòèå â #ENTITY_TYPE#";
-$MESS["SONET_NEW_EVENT_MESSAGE"] = "Èíôîðìàöèîííîå ñîîáùåíèå ñàéòà #SITE_NAME#
+Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ ÑÐ³ÐµÐ½ÐµÑ€Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¾ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸.";
+$MESS["SONET_NEW_EVENT_SUBJECT"] = "#SITE_NAME#: #ENTITY# - ÐÐ¾Ð²Ð¾Ðµ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ðµ Ð² #ENTITY_TYPE#";
+$MESS["SONET_NEW_EVENT_MESSAGE"] = "Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð¾Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ ÑÐ°Ð¹Ñ‚Ð° #SITE_NAME#
 ------------------------------------------
 
-Çäðàâñòâóéòå, #SUBSCRIBER_NAME#!
+Ð—Ð´Ñ€Ð°Ð²ÑÑ‚Ð²ÑƒÐ¹Ñ‚Ðµ, #SUBSCRIBER_NAME#!
 
-Íà ñàéòå ïðîèçîøëè ñëåäóþùèå èçìåíåíèÿ:
+ÐÐ° ÑÐ°Ð¹Ñ‚Ðµ Ð¿Ñ€Ð¾Ð¸Ð·Ð¾ÑˆÐ»Ð¸ ÑÐ»ÐµÐ´ÑƒÑŽÑ‰Ð¸Ðµ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ:
 
 #TITLE#
 
@@ -211,44 +211,44 @@ $MESS["SONET_NEW_EVENT_MESSAGE"] = "Èíôîðìàöèîííîå ñîîáùåíèå ñàéòà #SITE_NAME#
 #MESSAGE#
 ------------------------------------------
 
-×òîáû ïîïàñòü íà ñòðàíèöó, ãäå ïðîèçîøëî ñîáûòèå, ïîæàëóéñòà, ïåðåéäèòå ïî ññûëêå:
+Ð§Ñ‚Ð¾Ð±Ñ‹ Ð¿Ð¾Ð¿Ð°ÑÑ‚ÑŒ Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ, Ð³Ð´Ðµ Ð¿Ñ€Ð¾Ð¸Ð·Ð¾ÑˆÐ»Ð¾ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ðµ, Ð¿Ð¾Ð¶Ð°Ð»ÑƒÐ¹ÑÑ‚Ð°, Ð¿ÐµÑ€ÐµÐ¹Ð´Ð¸Ñ‚Ðµ Ð¿Ð¾ ÑÑÑ‹Ð»ÐºÐµ:
 
 #URL#
-Ñîîáùåíèå ñãåíåðèðîâàíî àâòîìàòè÷åñêè.";
-$MESS["SONET_REQUEST_GROUP_NAME"] = "Çàïðîñ íà âñòóïëåíèå â ãðóïïó";
-$MESS["SONET_REQUEST_GROUP_DESC"] = "#MESSAGE_ID# - ID ñîîáùåíèÿ
-#USER_ID# - ID ïîëó÷àòåëÿ çàïðîñà
-#USER_NAME# - Èìÿ ïîëó÷àòåëÿ çàïðîñà
-#USER_LAST_NAME# - Ôàìèëèÿ ïîëó÷àòåëÿ çàïðîñà
-#SENDER_ID# - ID îòïðàâèòåëÿ çàïðîñà
-#SENDER_NAME# - Èìÿ îòïðàâèòåëÿ çàïðîñà
-#SENDER_LAST_NAME# - Ôàìèëèÿ îòïðàâèòåëÿ çàïðîñà
-#TITLE# - Çàãîëîâîê
-#MESSAGE# - Ñîîáùåíèå
-#EMAIL_TO# - Email ïîëó÷àòåëÿ ïèñüìà";
+Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ ÑÐ³ÐµÐ½ÐµÑ€Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¾ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸.";
+$MESS["SONET_REQUEST_GROUP_NAME"] = "Ð—Ð°Ð¿Ñ€Ð¾Ñ Ð½Ð° Ð²ÑÑ‚ÑƒÐ¿Ð»ÐµÐ½Ð¸Ðµ Ð² Ð³Ñ€ÑƒÐ¿Ð¿Ñƒ";
+$MESS["SONET_REQUEST_GROUP_DESC"] = "#MESSAGE_ID# - ID ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
+#USER_ID# - ID Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ Ð·Ð°Ð¿Ñ€Ð¾ÑÐ°
+#USER_NAME# - Ð˜Ð¼Ñ Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ Ð·Ð°Ð¿Ñ€Ð¾ÑÐ°
+#USER_LAST_NAME# - Ð¤Ð°Ð¼Ð¸Ð»Ð¸Ñ Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ Ð·Ð°Ð¿Ñ€Ð¾ÑÐ°
+#SENDER_ID# - ID Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»Ñ Ð·Ð°Ð¿Ñ€Ð¾ÑÐ°
+#SENDER_NAME# - Ð˜Ð¼Ñ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»Ñ Ð·Ð°Ð¿Ñ€Ð¾ÑÐ°
+#SENDER_LAST_NAME# - Ð¤Ð°Ð¼Ð¸Ð»Ð¸Ñ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»Ñ Ð·Ð°Ð¿Ñ€Ð¾ÑÐ°
+#TITLE# - Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº
+#MESSAGE# - Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ
+#EMAIL_TO# - Email Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ Ð¿Ð¸ÑÑŒÐ¼Ð°";
 $MESS["SONET_REQUEST_GROUP_SUBJECT"] = "#TITLE#";
-$MESS["SONET_REQUEST_GROUP_MESSAGE"] = "Èíôîðìàöèîííîå ñîîáùåíèå ñàéòà #SITE_NAME#
+$MESS["SONET_REQUEST_GROUP_MESSAGE"] = "Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð¾Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ ÑÐ°Ð¹Ñ‚Ð° #SITE_NAME#
 ------------------------------------------
 
-Çäðàâñòâóéòå, #USER_NAME#!
+Ð—Ð´Ñ€Ð°Ð²ÑÑ‚Ð²ÑƒÐ¹Ñ‚Ðµ, #USER_NAME#!
 
 ------------------------------------------
 #MESSAGE#
 ------------------------------------------
 
-Ñîîáùåíèå ñãåíåðèðîâàíî àâòîìàòè÷åñêè.";
-$MESS["SONET_LOG_NEW_ENTRY_NAME"] = "Äîáàâëåíî íîâîå ñîîáùåíèå";
-$MESS["SONET_LOG_NEW_ENTRY_DESC"] = "#EMAIL_TO# - Email ïîëó÷àòåëÿ ïèñüìà
-#LOG_ENTRY_ID# - ID ñîîáùåíèÿ
-#RECIPIENT_ID# - ID ïîëó÷àòåëÿ
-#URL_ID# - URL ñòðàíèöû ñîîáùåíèÿ
+Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ ÑÐ³ÐµÐ½ÐµÑ€Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¾ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸.";
+$MESS["SONET_LOG_NEW_ENTRY_NAME"] = "Ð”Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¾ Ð½Ð¾Ð²Ð¾Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ";
+$MESS["SONET_LOG_NEW_ENTRY_DESC"] = "#EMAIL_TO# - Email Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ Ð¿Ð¸ÑÑŒÐ¼Ð°
+#LOG_ENTRY_ID# - ID ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
+#RECIPIENT_ID# - ID Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ
+#URL_ID# - URL ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
 ";
-$MESS["SONET_LOG_NEW_COMMENT_NAME"] = "Äîáàâëåí íîâûé êîììåíòàðèé";
-$MESS["SONET_LOG_NEW_COMMENT_DESC"] = "#EMAIL_TO# - Email ïîëó÷àòåëÿ ïèñüìà
-#COMMENT_ID# - ID êîììåíòàðèÿ
-#LOG_ENTRY_ID# - ID ñîîáùåíèÿ
-#RECIPIENT_ID# - ID ïîëó÷àòåëÿ
-#URL_ID# - URL ñòðàíèöû ñîîáùåíèÿ
+$MESS["SONET_LOG_NEW_COMMENT_NAME"] = "Ð”Ð¾Ð±Ð°Ð²Ð»ÐµÐ½ Ð½Ð¾Ð²Ñ‹Ð¹ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹";
+$MESS["SONET_LOG_NEW_COMMENT_DESC"] = "#EMAIL_TO# - Email Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ Ð¿Ð¸ÑÑŒÐ¼Ð°
+#COMMENT_ID# - ID ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ñ
+#LOG_ENTRY_ID# - ID ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
+#RECIPIENT_ID# - ID Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ
+#URL_ID# - URL ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
 ";
 
 ?>

@@ -1,7 +1,7 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
 
-$APPLICATION->SetTitle("Êàðòà ñàéòà");
+$APPLICATION->SetTitle("ÐšÐ°Ñ€Ñ‚Ð° ÑÐ°Ð¹Ñ‚Ð°");
 
 $APPLICATION->IncludeComponent("bitrix:main.map", ".default", array(
 	"CACHE_TYPE" => "A",

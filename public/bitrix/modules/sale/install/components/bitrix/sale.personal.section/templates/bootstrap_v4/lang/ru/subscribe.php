@@ -1,5 +1,5 @@
 <?php
-$MESS["SPS_CHAIN_MAIN"] = "Ìîé êàáèíåò";
-$MESS["SPS_CHAIN_SUBSCRIBE"] = "Ñïèñîê ïîäïèñîê ïîëüçîâàòåëÿ";
-$MESS["SPS_TITLE_SUBSCRIBE"] = "Ìîè ïîäïèñêè";
-$MESS["SPS_CHAIN_SUBSCRIBE_NEW"] = "Âàøè ïîäïèñêè";
+$MESS["SPS_CHAIN_MAIN"] = "ÐœÐ¾Ð¹ ÐºÐ°Ð±Ð¸Ð½ÐµÑ‚";
+$MESS["SPS_CHAIN_SUBSCRIBE"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð¿Ð¾Ð´Ð¿Ð¸ÑÐ¾Ðº Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
+$MESS["SPS_TITLE_SUBSCRIBE"] = "ÐœÐ¾Ð¸ Ð¿Ð¾Ð´Ð¿Ð¸ÑÐºÐ¸";
+$MESS["SPS_CHAIN_SUBSCRIBE_NEW"] = "Ð’Ð°ÑˆÐ¸ Ð¿Ð¾Ð´Ð¿Ð¸ÑÐºÐ¸";

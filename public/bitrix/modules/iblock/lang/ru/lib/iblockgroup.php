@@ -1,5 +1,5 @@
 <?
-$MESS["IBLOCK_GROUP_ENTITY_IBLOCK_ID_FIELD"] = "Èäåíòèôèêàòîð èíôîáëîêà";
-$MESS["IBLOCK_GROUP_ENTITY_GROUP_ID_FIELD"] = "Èäåíòèôèêàòîð ãðóïïû ïîëüçîâàòåëåé";
-$MESS["IBLOCK_GROUP_ENTITY_PERMISSION_FIELD"] = "Ïðàâà";
+$MESS["IBLOCK_GROUP_ENTITY_IBLOCK_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ°";
+$MESS["IBLOCK_GROUP_ENTITY_GROUP_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÐµÐ¹";
+$MESS["IBLOCK_GROUP_ENTITY_PERMISSION_FIELD"] = "ÐŸÑ€Ð°Ð²Ð°";
 ?>

@@ -1,2 +1,2 @@
 <?
-$MESS["SALE_LANDING_NAME"] = "Ëåíäèíã (#NAME#)";
+$MESS["SALE_LANDING_NAME"] = "Ð›ÐµÐ½Ð´Ð¸Ð½Ð³ (#NAME#)";

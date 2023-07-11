@@ -1,4 +1,4 @@
 <?
-$MESS["SALE_PS_RESTRICTIONS_BY_PERSON_TYPE"] = "по типу платника";
-$MESS["SALE_SALE_PS_RESTRICTIONS_BY_PERSON_TYPE_NAME"] = "Тип платника";
+$MESS["SALE_PS_RESTRICTIONS_BY_PERSON_TYPE"] = "РїРѕ С‚РёРїСѓ РїР»Р°С‚РЅРёРєР°";
+$MESS["SALE_SALE_PS_RESTRICTIONS_BY_PERSON_TYPE_NAME"] = "РўРёРї РїР»Р°С‚РЅРёРєР°";
 ?>

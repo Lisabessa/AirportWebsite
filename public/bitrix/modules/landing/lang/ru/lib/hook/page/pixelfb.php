@@ -1,5 +1,5 @@
 <?php
 $MESS['LANDING_HOOK_PIXEL_FB_USE'] = 'Facebook';
 $MESS['LANDING_HOOK_PIXEL_FB_COUNTER'] = 'Facebook';
-$MESS['LANDING_HOOK_PIXEL_FB_PLACEHOLDER2'] = 'Ââåäèòå êîä ïèêñåëÿ';
-$MESS['LANDING_HOOK_PIXEL_FB_HELP'] = 'Ïîäðîáíåå';
+$MESS['LANDING_HOOK_PIXEL_FB_PLACEHOLDER2'] = 'Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ ÐºÐ¾Ð´ Ð¿Ð¸ÐºÑÐµÐ»Ñ';
+$MESS['LANDING_HOOK_PIXEL_FB_HELP'] = 'ÐŸÐ¾Ð´Ñ€Ð¾Ð±Ð½ÐµÐµ';

@@ -1,18 +1,18 @@
 <?
-$MESS["IM_CONVERT_BUTTON"] = "Íà÷àòü êîíâåðòàöèþ";
-$MESS["IM_CONVERT_STOP"] = "Îñòàíîâèòü";
-$MESS["IM_CONVERT_STEP"] = "Ìàêñèìàëüíîå âðåìÿ êîíâåðòàöèè çà îäèí øàã:";
-$MESS["IM_CONVERT_STEP_sec"] = "ñåêóíä";
-$MESS["IM_CONVERT_TAB"] = "Êîíâåðòàöèÿ";
-$MESS["IM_CONVERT_TAB_TITLE"] = "Ïàðàìåòðû êîíâåðòàöèè";
-$MESS["IM_CONVERT_TITLE"] = "Êîíâåðòàöèÿ èñòîðèè ñîîáùåíèé";
-$MESS["IM_CONVERT_COMPLETE"] = "Êîíâåðòàöèÿ çàêîí÷åíà.";
-$MESS["IM_CONVERT_TOTAL"] = "Ñêîíâåðòèðîâàíî ñîîáùåíèé:";
-$MESS["IM_CONVERT_COMPLETE_ALL_OK"] = "Âñå äàííûå óñïåøíî ñêîíâåðòèðîâàíû, êîíâåðòàöèÿ íå òðåáóåòñÿ.";
-$MESS["IM_CONVERT_NEXT_STEP"] = "Ñëåäóþùèé øàã";
-$MESS["IM_CONVERT_IN_PROGRESS"] = "Êîíâåðòàöèÿ...";
-$MESS["IM_CONVERT_TOTAL"] = "Ñêîíâåðòèðîâàíî ñîîáùåíèé:";
-$MESS["IM_CONVERT_ABOUT_TIME"] = "ïðèìåðíî";
-$MESS["IM_CONVERT_ABOUT_TIME_MINUTE"] = "ìèíóò";
-$MESS["IM_CONVERT_ABOUT_TIME_SEC"] = "ñåêóíä";
+$MESS["IM_CONVERT_BUTTON"] = "ÐÐ°Ñ‡Ð°Ñ‚ÑŒ ÐºÐ¾Ð½Ð²ÐµÑ€Ñ‚Ð°Ñ†Ð¸ÑŽ";
+$MESS["IM_CONVERT_STOP"] = "ÐžÑÑ‚Ð°Ð½Ð¾Ð²Ð¸Ñ‚ÑŒ";
+$MESS["IM_CONVERT_STEP"] = "ÐœÐ°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ð¾Ðµ Ð²Ñ€ÐµÐ¼Ñ ÐºÐ¾Ð½Ð²ÐµÑ€Ñ‚Ð°Ñ†Ð¸Ð¸ Ð·Ð° Ð¾Ð´Ð¸Ð½ ÑˆÐ°Ð³:";
+$MESS["IM_CONVERT_STEP_sec"] = "ÑÐµÐºÑƒÐ½Ð´";
+$MESS["IM_CONVERT_TAB"] = "ÐšÐ¾Ð½Ð²ÐµÑ€Ñ‚Ð°Ñ†Ð¸Ñ";
+$MESS["IM_CONVERT_TAB_TITLE"] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ ÐºÐ¾Ð½Ð²ÐµÑ€Ñ‚Ð°Ñ†Ð¸Ð¸";
+$MESS["IM_CONVERT_TITLE"] = "ÐšÐ¾Ð½Ð²ÐµÑ€Ñ‚Ð°Ñ†Ð¸Ñ Ð¸ÑÑ‚Ð¾Ñ€Ð¸Ð¸ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ð¹";
+$MESS["IM_CONVERT_COMPLETE"] = "ÐšÐ¾Ð½Ð²ÐµÑ€Ñ‚Ð°Ñ†Ð¸Ñ Ð·Ð°ÐºÐ¾Ð½Ñ‡ÐµÐ½Ð°.";
+$MESS["IM_CONVERT_TOTAL"] = "Ð¡ÐºÐ¾Ð½Ð²ÐµÑ€Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¾ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ð¹:";
+$MESS["IM_CONVERT_COMPLETE_ALL_OK"] = "Ð’ÑÐµ Ð´Ð°Ð½Ð½Ñ‹Ðµ ÑƒÑÐ¿ÐµÑˆÐ½Ð¾ ÑÐºÐ¾Ð½Ð²ÐµÑ€Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ñ‹, ÐºÐ¾Ð½Ð²ÐµÑ€Ñ‚Ð°Ñ†Ð¸Ñ Ð½Ðµ Ñ‚Ñ€ÐµÐ±ÑƒÐµÑ‚ÑÑ.";
+$MESS["IM_CONVERT_NEXT_STEP"] = "Ð¡Ð»ÐµÐ´ÑƒÑŽÑ‰Ð¸Ð¹ ÑˆÐ°Ð³";
+$MESS["IM_CONVERT_IN_PROGRESS"] = "ÐšÐ¾Ð½Ð²ÐµÑ€Ñ‚Ð°Ñ†Ð¸Ñ...";
+$MESS["IM_CONVERT_TOTAL"] = "Ð¡ÐºÐ¾Ð½Ð²ÐµÑ€Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¾ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ð¹:";
+$MESS["IM_CONVERT_ABOUT_TIME"] = "Ð¿Ñ€Ð¸Ð¼ÐµÑ€Ð½Ð¾";
+$MESS["IM_CONVERT_ABOUT_TIME_MINUTE"] = "Ð¼Ð¸Ð½ÑƒÑ‚";
+$MESS["IM_CONVERT_ABOUT_TIME_SEC"] = "ÑÐµÐºÑƒÐ½Ð´";
 ?>

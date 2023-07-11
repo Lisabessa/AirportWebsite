@@ -1,20 +1,20 @@
 <?
 require_once($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/main/include/prolog_before.php");
-$APPLICATION->SetTitle("Îïðîñ");
-$APPLICATION->AddChainItem("Àðõèâ îïðîñîâ", "vote_list.php");
+$APPLICATION->SetTitle("ÐžÐ¿Ñ€Ð¾Ñ");
+$APPLICATION->AddChainItem("ÐÑ€Ñ…Ð¸Ð² Ð¾Ð¿Ñ€Ð¾ÑÐ¾Ð²", "vote_list.php");
 require_once($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/main/include/prolog_after.php");
 ?>
 <?
-$VOTE_ID = $_REQUEST["VOTE_ID"]; // áåðåò ID îïðîñà èç ïàðàìåòðîâ ñòðàíèöû
+$VOTE_ID = $_REQUEST["VOTE_ID"]; // Ð±ÐµÑ€ÐµÑ‚ ID Ð¾Ð¿Ñ€Ð¾ÑÐ° Ð¸Ð· Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð¾Ð² ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹
 
-// Ïðèìåðû èñïîëüçîâàíèÿ îñíîâíûõ ôóíêöèé ìîäóëÿ îïðîñîâ
+// ÐŸÑ€Ð¸Ð¼ÐµÑ€Ñ‹ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð¸Ñ Ð¾ÑÐ½Ð¾Ð²Ð½Ñ‹Ñ… Ñ„ÑƒÐ½ÐºÑ†Ð¸Ð¹ Ð¼Ð¾Ð´ÑƒÐ»Ñ Ð¾Ð¿Ñ€Ð¾ÑÐ¾Ð²
 /*
 if (CModule::IncludeModule("vote"))
 {
-	$bIsUserVoted = IsUserVoted($VOTE_ID)	// ïðîâåðÿåò ãîëîñîâàë ëè óæå äàííûé ïîñåòèòåëü (âîçâðàùàåò true ëèáî false)
-	$VOTE_ID = GetCurrentVote("ANKETA");	// âîçâðàùàåò ID òåêóùåãî îïðîñà ãðóïïû ANKETA
-	$VOTE_ID = GetPrevVote("ANKETA");		// âîçâðàùàåò ID ïðåäûäóùåãî îïðîñà ãðóïïû ANKETA
-	$VOTE_ID = GetAnyAccessibleVote();		// âîçâðàùàåò ID ëþáîãî äîñòóïíîãî äëÿ ãîëîñîâàíèÿ îïðîñà
+	$bIsUserVoted = IsUserVoted($VOTE_ID)	// Ð¿Ñ€Ð¾Ð²ÐµÑ€ÑÐµÑ‚ Ð³Ð¾Ð»Ð¾ÑÐ¾Ð²Ð°Ð» Ð»Ð¸ ÑƒÐ¶Ðµ Ð´Ð°Ð½Ð½Ñ‹Ð¹ Ð¿Ð¾ÑÐµÑ‚Ð¸Ñ‚ÐµÐ»ÑŒ (Ð²Ð¾Ð·Ð²Ñ€Ð°Ñ‰Ð°ÐµÑ‚ true Ð»Ð¸Ð±Ð¾ false)
+	$VOTE_ID = GetCurrentVote("ANKETA");	// Ð²Ð¾Ð·Ð²Ñ€Ð°Ñ‰Ð°ÐµÑ‚ ID Ñ‚ÐµÐºÑƒÑ‰ÐµÐ³Ð¾ Ð¾Ð¿Ñ€Ð¾ÑÐ° Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹ ANKETA
+	$VOTE_ID = GetPrevVote("ANKETA");		// Ð²Ð¾Ð·Ð²Ñ€Ð°Ñ‰Ð°ÐµÑ‚ ID Ð¿Ñ€ÐµÐ´Ñ‹Ð´ÑƒÑ‰ÐµÐ³Ð¾ Ð¾Ð¿Ñ€Ð¾ÑÐ° Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹ ANKETA
+	$VOTE_ID = GetAnyAccessibleVote();		// Ð²Ð¾Ð·Ð²Ñ€Ð°Ñ‰Ð°ÐµÑ‚ ID Ð»ÑŽÐ±Ð¾Ð³Ð¾ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ð¾Ð³Ð¾ Ð´Ð»Ñ Ð³Ð¾Ð»Ð¾ÑÐ¾Ð²Ð°Ð½Ð¸Ñ Ð¾Ð¿Ñ€Ð¾ÑÐ°
 }
 */
 ?>

@@ -1,11 +1,11 @@
 <?
-$MESS ['FORM_MENU_MAIN'] = "Âåá-ôîðìû";
-$MESS ['FORM_MENU_FORMS'] = "Íàñòðîéêà ôîðì";
-$MESS ['FORM_MENU_FORMS_ALT'] = "Ñïèñîê äîñòóïíûõ ôîðì";
-$MESS ['FORM_MENU_LIBRARY'] = "Ôóíêöèè ôîðì";
-$MESS ['FORM_MENU_LIBRARY_ALT'] = "Ôàéë ñîäåðæàùèé ôóíêöèè âåá-ôîðì";
-$MESS ['FORM_RESULTS_ALL'] = "Ðåçóëüòàòû";
-$MESS ['FORM_RESULTS_ALL_ALT'] = "Ñïèñîê ðåçóëüòàòîâ ôîðì";
-$MESS ['FORM_RESULTS_ALT'] = "Ñïèñîê ðåçóëüòàòîâ ôîðìû \"#NAME#\"";
-$MESS ['FORM_MENU_MAIN_TITLE'] = "Óïðàâëåíèå âåá-ôîðìàìè";
+$MESS ['FORM_MENU_MAIN'] = "Ð’ÐµÐ±-Ñ„Ð¾Ñ€Ð¼Ñ‹";
+$MESS ['FORM_MENU_FORMS'] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° Ñ„Ð¾Ñ€Ð¼";
+$MESS ['FORM_MENU_FORMS_ALT'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ñ‹Ñ… Ñ„Ð¾Ñ€Ð¼";
+$MESS ['FORM_MENU_LIBRARY'] = "Ð¤ÑƒÐ½ÐºÑ†Ð¸Ð¸ Ñ„Ð¾Ñ€Ð¼";
+$MESS ['FORM_MENU_LIBRARY_ALT'] = "Ð¤Ð°Ð¹Ð» ÑÐ¾Ð´ÐµÑ€Ð¶Ð°Ñ‰Ð¸Ð¹ Ñ„ÑƒÐ½ÐºÑ†Ð¸Ð¸ Ð²ÐµÐ±-Ñ„Ð¾Ñ€Ð¼";
+$MESS ['FORM_RESULTS_ALL'] = "Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ñ‹";
+$MESS ['FORM_RESULTS_ALL_ALT'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ñ€ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ð¾Ð² Ñ„Ð¾Ñ€Ð¼";
+$MESS ['FORM_RESULTS_ALT'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ñ€ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ð¾Ð² Ñ„Ð¾Ñ€Ð¼Ñ‹ \"#NAME#\"";
+$MESS ['FORM_MENU_MAIN_TITLE'] = "Ð£Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ð²ÐµÐ±-Ñ„Ð¾Ñ€Ð¼Ð°Ð¼Ð¸";
 ?>

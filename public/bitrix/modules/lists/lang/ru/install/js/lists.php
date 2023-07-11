@@ -1,4 +1,4 @@
 <?
-$MESS["LISTS_ASSETS_JS_STATUS_ACTION_SUCCESS"] = "Óñïåøíî";
-$MESS["LISTS_ASSETS_JS_STATUS_ACTION_ERROR"] = "Ïðîèçîøëà îøèáêà";
+$MESS["LISTS_ASSETS_JS_STATUS_ACTION_SUCCESS"] = "Ð£ÑÐ¿ÐµÑˆÐ½Ð¾";
+$MESS["LISTS_ASSETS_JS_STATUS_ACTION_ERROR"] = "ÐŸÑ€Ð¾Ð¸Ð·Ð¾ÑˆÐ»Ð° Ð¾ÑˆÐ¸Ð±ÐºÐ°";
 ?>

@@ -1,14 +1,14 @@
 <?
-$MESS["F_TODAY_BIRTHDAY"] = "Ñåãîäíÿ îòìå÷àþò äåíü ðîæäåíèÿ";
-$MESS["F_USER_PROFILE"] = "Ïðîôèëü ïîëüçîâàòåëÿ";
-$MESS["F_NOW_TOPIC_READ"] = "×èòàþò òåìó";
-$MESS["F_NOW_FORUM"] = "Ñåé÷àñ íà ôîðóìå";
-$MESS["F_NOW_ONLINE_1"] = "ãîñòåé: #GUESTS#";
-$MESS["F_NOW_ONLINE_2"] = "ïîëüçîâàòåëåé: #USERS#";
-$MESS["F_NOW_ONLINE_3"] = "èç íèõ ñêðûòûõ: #HIDDEN_USERS#";
-$MESS["F_REGISTER_USERS"] = "Âñåãî çàðåãèñòðèðîâàííûõ ïîëüçîâàòåëåé";
-$MESS["F_ACTIVE_USERS"] = "Ïðèíÿëî ó÷àñòèå â îáñóæäåíèè";
-$MESS["F_FORUMS_ALL"] = "Âñåãî ôîðóìîâ";
-$MESS["F_TOPICS_ALL"] = "Âñåãî òåì";
-$MESS["F_POSTS_ALL"] = "Âñåãî ñîîáùåíèé";
+$MESS["F_TODAY_BIRTHDAY"] = "Ð¡ÐµÐ³Ð¾Ð´Ð½Ñ Ð¾Ñ‚Ð¼ÐµÑ‡Ð°ÑŽÑ‚ Ð´ÐµÐ½ÑŒ Ñ€Ð¾Ð¶Ð´ÐµÐ½Ð¸Ñ";
+$MESS["F_USER_PROFILE"] = "ÐŸÑ€Ð¾Ñ„Ð¸Ð»ÑŒ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
+$MESS["F_NOW_TOPIC_READ"] = "Ð§Ð¸Ñ‚Ð°ÑŽÑ‚ Ñ‚ÐµÐ¼Ñƒ";
+$MESS["F_NOW_FORUM"] = "Ð¡ÐµÐ¹Ñ‡Ð°Ñ Ð½Ð° Ñ„Ð¾Ñ€ÑƒÐ¼Ðµ";
+$MESS["F_NOW_ONLINE_1"] = "Ð³Ð¾ÑÑ‚ÐµÐ¹: #GUESTS#";
+$MESS["F_NOW_ONLINE_2"] = "Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÐµÐ¹: #USERS#";
+$MESS["F_NOW_ONLINE_3"] = "Ð¸Ð· Ð½Ð¸Ñ… ÑÐºÑ€Ñ‹Ñ‚Ñ‹Ñ…: #HIDDEN_USERS#";
+$MESS["F_REGISTER_USERS"] = "Ð’ÑÐµÐ³Ð¾ Ð·Ð°Ñ€ÐµÐ³Ð¸ÑÑ‚Ñ€Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ñ‹Ñ… Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÐµÐ¹";
+$MESS["F_ACTIVE_USERS"] = "ÐŸÑ€Ð¸Ð½ÑÐ»Ð¾ ÑƒÑ‡Ð°ÑÑ‚Ð¸Ðµ Ð² Ð¾Ð±ÑÑƒÐ¶Ð´ÐµÐ½Ð¸Ð¸";
+$MESS["F_FORUMS_ALL"] = "Ð’ÑÐµÐ³Ð¾ Ñ„Ð¾Ñ€ÑƒÐ¼Ð¾Ð²";
+$MESS["F_TOPICS_ALL"] = "Ð’ÑÐµÐ³Ð¾ Ñ‚ÐµÐ¼";
+$MESS["F_POSTS_ALL"] = "Ð’ÑÐµÐ³Ð¾ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ð¹";
 ?>

@@ -1,8 +1,8 @@
 <?
 $MESS["IM_MAIL_TEMPLATE_NEW_MESSAGE_HEADER"] = "------------------------------------------
-Ñîîáùåíèÿ îò #FROM_USER#
+Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ Ð¾Ñ‚ #FROM_USER#
 ------------------------------------------";
 $MESS["IM_MAIL_TEMPLATE_NEW_MESSAGE_TEXT"] = "(#DATE_CREATE#) #MESSAGE#";
 $MESS["IM_MAIL_TEMPLATE_NEW_MESSAGE_FOOTER"] = "------------------------------------------";
-$MESS["IM_MAIL_USER_SYSTEM"] = "Ñèñòåìíûé ïîëüçîâàòåëü";
+$MESS["IM_MAIL_USER_SYSTEM"] = "Ð¡Ð¸ÑÑ‚ÐµÐ¼Ð½Ñ‹Ð¹ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ";
 ?>

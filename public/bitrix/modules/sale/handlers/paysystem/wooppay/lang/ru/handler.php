@@ -1,14 +1,14 @@
 <?php
-$MESS["SALE_HPS_WOOPPAY_CHECKOUT_MODE"] = "Ñòðàíèöà îïëàòû";
-$MESS["SALE_HPS_WOOPPAY_IFRAME_MODE"] = "Îïëàòà âî ôðåéìå";
-$MESS["SALE_HPS_WOOPPAY_ERROR_EMPTY_RESPONSE"] = "Ïîëó÷åí ïóñòîé îòâåò îò ñåðâåðà";
-$MESS["SALE_HPS_WOOPPAY_ERROR_DECODE_RESPONSE"] = "Îøèáêà äåêîäèðîâàíèÿ ñòðîêè JSON";
-$MESS["SALE_HPS_WOOPPAY_ERROR_STATUS_UNAUTHORIZED"] = "Îøèáêà àóòåíòèôèêàöèè";
-$MESS["SALE_HPS_WOOPPAY_ERROR_STATUS_UNPROCESSABLE_ENTITY"] = "Îøèáêà ïåðåäàííûõ äàííûõ";
-$MESS["SALE_HPS_WOOPPAY_ERROR_STATUS_INTERNAL_SERVER_ERROR"] = "Îøèáêà íà ñòîðîíå ñåðâèñà Wooppay";
-$MESS["SALE_HPS_WOOPPAY_ERROR_STATUS"] = "Îøèáêà ñî ñòàòóñîì #STATUS#";
-$MESS["SALE_HPS_WOOPPAY_ERROR_TOKEN_NOT_FOUND"] = "Íå íàéäåí òîêåí ïîñëå àâòîðèçàöèè";
-$MESS["SALE_HPS_WOOPPAY_ERROR_SUM"] = "Ñóììà ïëàòåæà íå ñîâïàäàåò ñ ñóììîé îïëàòû";
-$MESS["SALE_HPS_WOOPPAY_ERROR_REQUEST_STATUS"] = "Íåêîððåêòíûé ñòàòóñ ïëàòåæà: #STATUS#";
-$MESS["SALE_HPS_WOOPPAY_REFUND_REASON"] = "Ïðè÷èíà âîçâðàòà íå óêàçàíà";
-$MESS["SALE_HPS_WOOPPAY_REFUND_STATUS_ERROR"] = "Íåâîçìîæíî âûïîëíèòü âîçâðàò ñðåäñòâ. Âîçâðàò ñðåäñòâ äîñòóïåí òîëüêî äëÿ îïëàòû ñî ñòàòóñîì îïåðàöèè \"Ïðîâåäåíà\"";
+$MESS["SALE_HPS_WOOPPAY_CHECKOUT_MODE"] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹";
+$MESS["SALE_HPS_WOOPPAY_IFRAME_MODE"] = "ÐžÐ¿Ð»Ð°Ñ‚Ð° Ð²Ð¾ Ñ„Ñ€ÐµÐ¹Ð¼Ðµ";
+$MESS["SALE_HPS_WOOPPAY_ERROR_EMPTY_RESPONSE"] = "ÐŸÐ¾Ð»ÑƒÑ‡ÐµÐ½ Ð¿ÑƒÑÑ‚Ð¾Ð¹ Ð¾Ñ‚Ð²ÐµÑ‚ Ð¾Ñ‚ ÑÐµÑ€Ð²ÐµÑ€Ð°";
+$MESS["SALE_HPS_WOOPPAY_ERROR_DECODE_RESPONSE"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð´ÐµÐºÐ¾Ð´Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ ÑÑ‚Ñ€Ð¾ÐºÐ¸ JSON";
+$MESS["SALE_HPS_WOOPPAY_ERROR_STATUS_UNAUTHORIZED"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð°ÑƒÑ‚ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ†Ð¸Ð¸";
+$MESS["SALE_HPS_WOOPPAY_ERROR_STATUS_UNPROCESSABLE_ENTITY"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿ÐµÑ€ÐµÐ´Ð°Ð½Ð½Ñ‹Ñ… Ð´Ð°Ð½Ð½Ñ‹Ñ…";
+$MESS["SALE_HPS_WOOPPAY_ERROR_STATUS_INTERNAL_SERVER_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð½Ð° ÑÑ‚Ð¾Ñ€Ð¾Ð½Ðµ ÑÐµÑ€Ð²Ð¸ÑÐ° Wooppay";
+$MESS["SALE_HPS_WOOPPAY_ERROR_STATUS"] = "ÐžÑˆÐ¸Ð±ÐºÐ° ÑÐ¾ ÑÑ‚Ð°Ñ‚ÑƒÑÐ¾Ð¼ #STATUS#";
+$MESS["SALE_HPS_WOOPPAY_ERROR_TOKEN_NOT_FOUND"] = "ÐÐµ Ð½Ð°Ð¹Ð´ÐµÐ½ Ñ‚Ð¾ÐºÐµÐ½ Ð¿Ð¾ÑÐ»Ðµ Ð°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·Ð°Ñ†Ð¸Ð¸";
+$MESS["SALE_HPS_WOOPPAY_ERROR_SUM"] = "Ð¡ÑƒÐ¼Ð¼Ð° Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ð° Ð½Ðµ ÑÐ¾Ð²Ð¿Ð°Ð´Ð°ÐµÑ‚ Ñ ÑÑƒÐ¼Ð¼Ð¾Ð¹ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹";
+$MESS["SALE_HPS_WOOPPAY_ERROR_REQUEST_STATUS"] = "ÐÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ñ‹Ð¹ ÑÑ‚Ð°Ñ‚ÑƒÑ Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ð°: #STATUS#";
+$MESS["SALE_HPS_WOOPPAY_REFUND_REASON"] = "ÐŸÑ€Ð¸Ñ‡Ð¸Ð½Ð° Ð²Ð¾Ð·Ð²Ñ€Ð°Ñ‚Ð° Ð½Ðµ ÑƒÐºÐ°Ð·Ð°Ð½Ð°";
+$MESS["SALE_HPS_WOOPPAY_REFUND_STATUS_ERROR"] = "ÐÐµÐ²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ Ð²Ñ‹Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÑŒ Ð²Ð¾Ð·Ð²Ñ€Ð°Ñ‚ ÑÑ€ÐµÐ´ÑÑ‚Ð². Ð’Ð¾Ð·Ð²Ñ€Ð°Ñ‚ ÑÑ€ÐµÐ´ÑÑ‚Ð² Ð´Ð¾ÑÑ‚ÑƒÐ¿ÐµÐ½ Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð´Ð»Ñ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹ ÑÐ¾ ÑÑ‚Ð°Ñ‚ÑƒÑÐ¾Ð¼ Ð¾Ð¿ÐµÑ€Ð°Ñ†Ð¸Ð¸ \"ÐŸÑ€Ð¾Ð²ÐµÐ´ÐµÐ½Ð°\"";

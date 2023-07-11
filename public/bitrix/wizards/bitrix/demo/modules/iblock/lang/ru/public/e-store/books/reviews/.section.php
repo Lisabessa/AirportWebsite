@@ -1,3 +1,3 @@
 <?
-$MESS ['DEMO_IBLOCK_ESTORE_REVIEWS_SECTION_NAME'] = "Ðåöåíçèè";
+$MESS ['DEMO_IBLOCK_ESTORE_REVIEWS_SECTION_NAME'] = "Ð ÐµÑ†ÐµÐ½Ð·Ð¸Ð¸";
 ?>

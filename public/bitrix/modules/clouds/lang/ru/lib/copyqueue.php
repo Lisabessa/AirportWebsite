@@ -1,14 +1,14 @@
 <?
-$MESS["COPY_QUEUE_ENTITY_ID_FIELD"] = "Èäåíòèôèêàòîð çàäàíèÿ íà êîïèðîâàíèå ôàéëà";
-$MESS["COPY_QUEUE_ENTITY_TIMESTAMP_X_FIELD"] = "Âðåìÿ ñîçäàíèÿ çàäàíèÿ";
-$MESS["COPY_QUEUE_ENTITY_OP_FIELD"] = "Êîä îïåðàöèè";
-$MESS["COPY_QUEUE_ENTITY_SOURCE_BUCKET_ID_FIELD"] = "Èñõîäíîå õðàëèùå";
-$MESS["COPY_QUEUE_ENTITY_SOURCE_FILE_PATH_FIELD"] = "Ïóòü ê ôàéëó â èñõîäíîì õðàíèëèùå";
-$MESS["COPY_QUEUE_ENTITY_TARGET_BUCKET_ID_FIELD"] = "Öåëåâîå õðàíèëèùå";
-$MESS["COPY_QUEUE_ENTITY_TARGET_FILE_PATH_FIELD"] = "Ïóòü ê ôàéëó â öåëåâîì õðàíèëèùå";
-$MESS["COPY_QUEUE_ENTITY_FILE_SIZE_FIELD"] = "Ðàçìåð ôàéëà";
-$MESS["COPY_QUEUE_ENTITY_FILE_POS_FIELD"] = "Òåêóùàÿ ïîçèöèÿ êîïèðîâàíèÿ";
-$MESS["COPY_QUEUE_ENTITY_FAIL_COUNTER_FIELD"] = "Ñ÷¸ò÷èê îøèáîê";
-$MESS["COPY_QUEUE_ENTITY_STATUS_FIELD"] = "Ñòàòóñ îïåðàöèè";
-$MESS["COPY_QUEUE_ENTITY_ERROR_MESSAGE_FIELD"] = "Ñîîáùåíèå îá îøèáêå";
+$MESS["COPY_QUEUE_ENTITY_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð·Ð°Ð´Ð°Ð½Ð¸Ñ Ð½Ð° ÐºÐ¾Ð¿Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ñ„Ð°Ð¹Ð»Ð°";
+$MESS["COPY_QUEUE_ENTITY_TIMESTAMP_X_FIELD"] = "Ð’Ñ€ÐµÐ¼Ñ ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ Ð·Ð°Ð´Ð°Ð½Ð¸Ñ";
+$MESS["COPY_QUEUE_ENTITY_OP_FIELD"] = "ÐšÐ¾Ð´ Ð¾Ð¿ÐµÑ€Ð°Ñ†Ð¸Ð¸";
+$MESS["COPY_QUEUE_ENTITY_SOURCE_BUCKET_ID_FIELD"] = "Ð˜ÑÑ…Ð¾Ð´Ð½Ð¾Ðµ Ñ…Ñ€Ð°Ð»Ð¸Ñ‰Ðµ";
+$MESS["COPY_QUEUE_ENTITY_SOURCE_FILE_PATH_FIELD"] = "ÐŸÑƒÑ‚ÑŒ Ðº Ñ„Ð°Ð¹Ð»Ñƒ Ð² Ð¸ÑÑ…Ð¾Ð´Ð½Ð¾Ð¼ Ñ…Ñ€Ð°Ð½Ð¸Ð»Ð¸Ñ‰Ðµ";
+$MESS["COPY_QUEUE_ENTITY_TARGET_BUCKET_ID_FIELD"] = "Ð¦ÐµÐ»ÐµÐ²Ð¾Ðµ Ñ…Ñ€Ð°Ð½Ð¸Ð»Ð¸Ñ‰Ðµ";
+$MESS["COPY_QUEUE_ENTITY_TARGET_FILE_PATH_FIELD"] = "ÐŸÑƒÑ‚ÑŒ Ðº Ñ„Ð°Ð¹Ð»Ñƒ Ð² Ñ†ÐµÐ»ÐµÐ²Ð¾Ð¼ Ñ…Ñ€Ð°Ð½Ð¸Ð»Ð¸Ñ‰Ðµ";
+$MESS["COPY_QUEUE_ENTITY_FILE_SIZE_FIELD"] = "Ð Ð°Ð·Ð¼ÐµÑ€ Ñ„Ð°Ð¹Ð»Ð°";
+$MESS["COPY_QUEUE_ENTITY_FILE_POS_FIELD"] = "Ð¢ÐµÐºÑƒÑ‰Ð°Ñ Ð¿Ð¾Ð·Ð¸Ñ†Ð¸Ñ ÐºÐ¾Ð¿Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ";
+$MESS["COPY_QUEUE_ENTITY_FAIL_COUNTER_FIELD"] = "Ð¡Ñ‡Ñ‘Ñ‚Ñ‡Ð¸Ðº Ð¾ÑˆÐ¸Ð±Ð¾Ðº";
+$MESS["COPY_QUEUE_ENTITY_STATUS_FIELD"] = "Ð¡Ñ‚Ð°Ñ‚ÑƒÑ Ð¾Ð¿ÐµÑ€Ð°Ñ†Ð¸Ð¸";
+$MESS["COPY_QUEUE_ENTITY_ERROR_MESSAGE_FIELD"] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ Ð¾Ð± Ð¾ÑˆÐ¸Ð±ÐºÐµ";
 ?>

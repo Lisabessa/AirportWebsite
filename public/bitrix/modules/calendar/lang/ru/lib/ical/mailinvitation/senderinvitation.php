@@ -1,5 +1,5 @@
 <?php
-$MESS["EC_CALENDAR_DECISION_TITLE_YES"] = "Ó÷àñòâîâàòü";
-$MESS["EC_CALENDAR_DECISION_TITLE_NO"] = "Îòêàçàòüñÿ";
-$MESS["EC_CALENDAR_CHANGE_DECISION_TITLE"] = "Èçìåíèòü ðåøåíèå";
-$MESS["EC_CALENDAR_BITRIX24_SLOGAN"] = "Ïîìîãàåò áèçíåñó ðàáîòàòü";
+$MESS["EC_CALENDAR_DECISION_TITLE_YES"] = "Ð£Ñ‡Ð°ÑÑ‚Ð²Ð¾Ð²Ð°Ñ‚ÑŒ";
+$MESS["EC_CALENDAR_DECISION_TITLE_NO"] = "ÐžÑ‚ÐºÐ°Ð·Ð°Ñ‚ÑŒÑÑ";
+$MESS["EC_CALENDAR_CHANGE_DECISION_TITLE"] = "Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ñ€ÐµÑˆÐµÐ½Ð¸Ðµ";
+$MESS["EC_CALENDAR_BITRIX24_SLOGAN"] = "ÐŸÐ¾Ð¼Ð¾Ð³Ð°ÐµÑ‚ Ð±Ð¸Ð·Ð½ÐµÑÑƒ Ñ€Ð°Ð±Ð¾Ñ‚Ð°Ñ‚ÑŒ";

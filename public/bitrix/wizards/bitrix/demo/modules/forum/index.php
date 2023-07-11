@@ -244,7 +244,7 @@ if ($db_res && $res = $db_res->Fetch())
 		$arForums[$res["ID"]] = $res["NAME"];
 	}while ($res = $db_res->Fetch());
 }
-// Forum ¹ 1
+// Forum â„– 1
 if (in_array(GetMessage("F_FORUM_1_NAME"), $arForums)):
 	foreach ($arForums as $key => $val):
 		if ($val == GetMessage("F_FORUM_1_NAME")):
@@ -366,7 +366,7 @@ else:
 	}
 endif;
 
-// Forum ¹ 2
+// Forum â„– 2
 if (in_array(GetMessage("F_FORUM_2_NAME"), $arForums)):
 	foreach ($arForums as $key => $val):
 		if ($val == GetMessage("F_FORUM_2_NAME")):
@@ -453,7 +453,7 @@ else:
 	}
 endif;
 
-// Forum ¹ 3
+// Forum â„– 3
 if (in_array(GetMessage("F_FORUM_3_NAME"), $arForums)):
 	foreach ($arForums as $key => $val):
 		if ($val == GetMessage("F_FORUM_3_NAME")):

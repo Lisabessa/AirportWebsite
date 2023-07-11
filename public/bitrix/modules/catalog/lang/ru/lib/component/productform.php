@@ -1,2 +1,2 @@
 <?php
-$MESS['CATALOG_C_F_SECTION_SELECTOR_TITLE'] = 'Ðàçäåëû';
+$MESS['CATALOG_C_F_SECTION_SELECTOR_TITLE'] = 'Ð Ð°Ð·Ð´ÐµÐ»Ñ‹';

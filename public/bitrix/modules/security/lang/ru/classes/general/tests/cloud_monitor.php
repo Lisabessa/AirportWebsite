@@ -1,5 +1,5 @@
 <?php
-$MESS["SECURITY_SITE_CHECKER_CloudMonitor_NAME"] = "Âíåøíåå ñêàíèðîâàíèå";
-$MESS["SECURITY_SITE_CHECKER_CLOUD_UNAVAILABLE"] = "Èçâèíèòå, ñåðâèñ âðåìåííî íåäîñòóïåí";
-$MESS["SECURITY_SITE_CHECKER_CONNECTION_ERROR"] = "Îøèáêà ïîäêëþ÷åíèÿ ê ñåðâèñó";
-$MESS["SECURITY_SITE_CHECKER_CLOUD_JSON_UNAVAILABLE"] = "Äëÿ ðàáîòû âíåøíåãî ñêàíèðîâàíèÿ íåîáõîäèìà ïîääåðæêà JSON";
+$MESS["SECURITY_SITE_CHECKER_CloudMonitor_NAME"] = "Ð’Ð½ÐµÑˆÐ½ÐµÐµ ÑÐºÐ°Ð½Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ";
+$MESS["SECURITY_SITE_CHECKER_CLOUD_UNAVAILABLE"] = "Ð˜Ð·Ð²Ð¸Ð½Ð¸Ñ‚Ðµ, ÑÐµÑ€Ð²Ð¸Ñ Ð²Ñ€ÐµÐ¼ÐµÐ½Ð½Ð¾ Ð½ÐµÐ´Ð¾ÑÑ‚ÑƒÐ¿ÐµÐ½";
+$MESS["SECURITY_SITE_CHECKER_CONNECTION_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ð¾Ð´ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¸Ñ Ðº ÑÐµÑ€Ð²Ð¸ÑÑƒ";
+$MESS["SECURITY_SITE_CHECKER_CLOUD_JSON_UNAVAILABLE"] = "Ð”Ð»Ñ Ñ€Ð°Ð±Ð¾Ñ‚Ñ‹ Ð²Ð½ÐµÑˆÐ½ÐµÐ³Ð¾ ÑÐºÐ°Ð½Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ Ð½ÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ð° Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ° JSON";

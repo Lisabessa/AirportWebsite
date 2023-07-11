@@ -1,16 +1,16 @@
 <?
-$MESS["BT_CAT_SET_ERR_ITEMS_IS_ABSENT"] = "Íå óêàçàíû òîâàðû, âõîäÿùèå â êîìïëåêò/íàáîð";
-$MESS["BT_CAT_SET_ERR_PRODUCT_ID_IS_BAD"] = "Íåâåðíûé ID òîâàðà, äëÿ êîòîðîãî ñîçäàåòñÿ êîìïëåêò/íàáîð";
-$MESS["BT_CAT_SET_ERR_TYPE_IS_BAD"] = "Íåâåðíûé òèï ñóùíîñòè";
-$MESS["BT_CAT_SET_ERR_ID_IS_BAD"] = "Íåâåðíûé ID ñóùíîñòè";
-$MESS["BT_CAT_SET_ERR_EMPTY_VALID_ITEMS"] = "Îòñóòñòâóþò âàëèäíûå òîâàðû, âõîäÿùèå â ñóùíîñòü";
-$MESS["BT_CAT_PRODUCT_SET_ERR_ITEM_ID_IS_BAD"] = "Íåâåðíûé ID òîâàðà";
-$MESS["BT_CAT_PRODUCT_SET_ERR_ITEM_ID_DUBLICATE"] = "Äóáëèðîâàíèå òîâàðà â êîìïëåêòå/íàáîðå";
-$MESS["BT_CAT_PRODUCT_SET_ERR_QUANTITY_IS_BAD"] = "Íåâåðíîå êîëè÷åñòâî òîâàðà â êîìïëåêòå";
-$MESS["BT_CAT_PRODUCT_SET_ERR_QUANTITY_GROUP_IS_BAD"] = "Íåâåðíîå êîëè÷åñòâî òîâàðà â íàáîðå";
-$MESS["BT_CAT_PRODUCT_SET_ERR_DISCOUNT_PERCENT_IS_BAD"] = "Íåâåðíîå çíà÷åíèå ïðîöåíòà ñêèäêè â êîìïëåêòå";
-$MESS["BT_CAT_PRODUCT_SET_ERR_ALL_DISCOUNT_PERCENT_IS_BAD"] = "Ñóììàðíûé ïðîöåíò ñêèäêè ïðåâûøàåò 100";
-$MESS["BT_CAT_PRODUCT_SET_ERR_ITEM_ID_IS_ABSENT"] = "Íå óêàçàí ID òîâàðà";
-$MESS["BT_CAT_PRODUCT_SET_ERR_BAD_ITEMS_IN_SET"] = "Â êîìïëåêò ìîæíî äîáàâëÿòü òîëüêî ïðîñòûå òîâàðû èëè òîðãîâûå ïðåäëîæåíèÿ";
-$MESS["BT_CAT_PRODUCT_SET_ERR_BAD_ITEMS_IN_GROUP"] = "Â íàáîð ìîæíî äîáàâëÿòü òîëüêî ïðîñòûå òîâàðû, òîðãîâûå ïðåäëîæåíèÿ è êîìïëåêòû";
+$MESS["BT_CAT_SET_ERR_ITEMS_IS_ABSENT"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ñ‹ Ñ‚Ð¾Ð²Ð°Ñ€Ñ‹, Ð²Ñ…Ð¾Ð´ÑÑ‰Ð¸Ðµ Ð² ÐºÐ¾Ð¼Ð¿Ð»ÐµÐºÑ‚/Ð½Ð°Ð±Ð¾Ñ€";
+$MESS["BT_CAT_SET_ERR_PRODUCT_ID_IS_BAD"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ ID Ñ‚Ð¾Ð²Ð°Ñ€Ð°, Ð´Ð»Ñ ÐºÐ¾Ñ‚Ð¾Ñ€Ð¾Ð³Ð¾ ÑÐ¾Ð·Ð´Ð°ÐµÑ‚ÑÑ ÐºÐ¾Ð¼Ð¿Ð»ÐµÐºÑ‚/Ð½Ð°Ð±Ð¾Ñ€";
+$MESS["BT_CAT_SET_ERR_TYPE_IS_BAD"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ñ‚Ð¸Ð¿ ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸";
+$MESS["BT_CAT_SET_ERR_ID_IS_BAD"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ ID ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸";
+$MESS["BT_CAT_SET_ERR_EMPTY_VALID_ITEMS"] = "ÐžÑ‚ÑÑƒÑ‚ÑÑ‚Ð²ÑƒÑŽÑ‚ Ð²Ð°Ð»Ð¸Ð´Ð½Ñ‹Ðµ Ñ‚Ð¾Ð²Ð°Ñ€Ñ‹, Ð²Ñ…Ð¾Ð´ÑÑ‰Ð¸Ðµ Ð² ÑÑƒÑ‰Ð½Ð¾ÑÑ‚ÑŒ";
+$MESS["BT_CAT_PRODUCT_SET_ERR_ITEM_ID_IS_BAD"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ ID Ñ‚Ð¾Ð²Ð°Ñ€Ð°";
+$MESS["BT_CAT_PRODUCT_SET_ERR_ITEM_ID_DUBLICATE"] = "Ð”ÑƒÐ±Ð»Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ñ‚Ð¾Ð²Ð°Ñ€Ð° Ð² ÐºÐ¾Ð¼Ð¿Ð»ÐµÐºÑ‚Ðµ/Ð½Ð°Ð±Ð¾Ñ€Ðµ";
+$MESS["BT_CAT_PRODUCT_SET_ERR_QUANTITY_IS_BAD"] = "ÐÐµÐ²ÐµÑ€Ð½Ð¾Ðµ ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ñ‚Ð¾Ð²Ð°Ñ€Ð° Ð² ÐºÐ¾Ð¼Ð¿Ð»ÐµÐºÑ‚Ðµ";
+$MESS["BT_CAT_PRODUCT_SET_ERR_QUANTITY_GROUP_IS_BAD"] = "ÐÐµÐ²ÐµÑ€Ð½Ð¾Ðµ ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ñ‚Ð¾Ð²Ð°Ñ€Ð° Ð² Ð½Ð°Ð±Ð¾Ñ€Ðµ";
+$MESS["BT_CAT_PRODUCT_SET_ERR_DISCOUNT_PERCENT_IS_BAD"] = "ÐÐµÐ²ÐµÑ€Ð½Ð¾Ðµ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð¿Ñ€Ð¾Ñ†ÐµÐ½Ñ‚Ð° ÑÐºÐ¸Ð´ÐºÐ¸ Ð² ÐºÐ¾Ð¼Ð¿Ð»ÐµÐºÑ‚Ðµ";
+$MESS["BT_CAT_PRODUCT_SET_ERR_ALL_DISCOUNT_PERCENT_IS_BAD"] = "Ð¡ÑƒÐ¼Ð¼Ð°Ñ€Ð½Ñ‹Ð¹ Ð¿Ñ€Ð¾Ñ†ÐµÐ½Ñ‚ ÑÐºÐ¸Ð´ÐºÐ¸ Ð¿Ñ€ÐµÐ²Ñ‹ÑˆÐ°ÐµÑ‚ 100";
+$MESS["BT_CAT_PRODUCT_SET_ERR_ITEM_ID_IS_ABSENT"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ ID Ñ‚Ð¾Ð²Ð°Ñ€Ð°";
+$MESS["BT_CAT_PRODUCT_SET_ERR_BAD_ITEMS_IN_SET"] = "Ð’ ÐºÐ¾Ð¼Ð¿Ð»ÐµÐºÑ‚ Ð¼Ð¾Ð¶Ð½Ð¾ Ð´Ð¾Ð±Ð°Ð²Ð»ÑÑ‚ÑŒ Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð¿Ñ€Ð¾ÑÑ‚Ñ‹Ðµ Ñ‚Ð¾Ð²Ð°Ñ€Ñ‹ Ð¸Ð»Ð¸ Ñ‚Ð¾Ñ€Ð³Ð¾Ð²Ñ‹Ðµ Ð¿Ñ€ÐµÐ´Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ";
+$MESS["BT_CAT_PRODUCT_SET_ERR_BAD_ITEMS_IN_GROUP"] = "Ð’ Ð½Ð°Ð±Ð¾Ñ€ Ð¼Ð¾Ð¶Ð½Ð¾ Ð´Ð¾Ð±Ð°Ð²Ð»ÑÑ‚ÑŒ Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð¿Ñ€Ð¾ÑÑ‚Ñ‹Ðµ Ñ‚Ð¾Ð²Ð°Ñ€Ñ‹, Ñ‚Ð¾Ñ€Ð³Ð¾Ð²Ñ‹Ðµ Ð¿Ñ€ÐµÐ´Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ Ð¸ ÐºÐ¾Ð¼Ð¿Ð»ÐµÐºÑ‚Ñ‹";
 ?>

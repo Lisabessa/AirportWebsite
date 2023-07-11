@@ -1,3 +1,3 @@
 <?
-$MESS["SALE_CASHBOX_SELL_RETURN_CASH_NAME"] = "Полный возврат наличными";
+$MESS["SALE_CASHBOX_SELL_RETURN_CASH_NAME"] = "РџРѕР»РЅС‹Р№ РІРѕР·РІСЂР°С‚ РЅР°Р»РёС‡РЅС‹РјРё";
 ?>

@@ -1,5 +1,5 @@
 <?
-$MESS["SALE_EVENT_PRODUCT2PRODUCT_WRONG_ORDER"] = "Îòðèìàíî íåêîðåêòíèé îá'ºêò çàìîâëåííÿ";
-$MESS["SALE_EVENT_PRODUCT2PRODUCT_WRONG_SHIPMENT"] = "Îòðèìàíî íåêîðåêòíèé îá'ºêò â³äâàíòàæåííÿ";
-$MESS["SALE_EVENT_PRODUCT2PRODUCT_WRONG_SHIPMENTCOLLECTION"] = "Íåêîðåêòíà êîëåêö³ÿ â³äâàíòàæåíü";
+$MESS["SALE_EVENT_PRODUCT2PRODUCT_WRONG_ORDER"] = "ÐžÑ‚Ñ€Ð¸Ð¼Ð°Ð½Ð¾ Ð½ÐµÐºÐ¾Ñ€ÐµÐºÑ‚Ð½Ð¸Ð¹ Ð¾Ð±'Ñ”ÐºÑ‚ Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ";
+$MESS["SALE_EVENT_PRODUCT2PRODUCT_WRONG_SHIPMENT"] = "ÐžÑ‚Ñ€Ð¸Ð¼Ð°Ð½Ð¾ Ð½ÐµÐºÐ¾Ñ€ÐµÐºÑ‚Ð½Ð¸Ð¹ Ð¾Ð±'Ñ”ÐºÑ‚ Ð²Ñ–Ð´Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ";
+$MESS["SALE_EVENT_PRODUCT2PRODUCT_WRONG_SHIPMENTCOLLECTION"] = "ÐÐµÐºÐ¾Ñ€ÐµÐºÑ‚Ð½Ð° ÐºÐ¾Ð»ÐµÐºÑ†Ñ–Ñ Ð²Ñ–Ð´Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½ÑŒ";
 ?>

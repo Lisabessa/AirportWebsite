@@ -1,3 +1,3 @@
 <?
-$MESS ['admin_index_title'] = "Οΰνελό σοπΰβλενθÿ";
+$MESS ['admin_index_title'] = "ΠΠ°Π½ΠµΠ»Ρ ΡƒΠΏΡ€Π°Π²Π»ΠµΠ½ΠΈΡ";
 ?>

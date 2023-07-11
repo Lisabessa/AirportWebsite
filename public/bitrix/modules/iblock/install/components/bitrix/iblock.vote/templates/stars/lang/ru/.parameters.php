@@ -1,5 +1,5 @@
 <?
-$MESS ['TP_CBIV_DISPLAY_AS_RATING'] = "Â êà÷åñòâå ðåéòèíãà ïîêàçûâàòü";
-$MESS ['TP_CBIV_AVERAGE'] = "Ñðåäíåå çíà÷åíèå";
-$MESS ['TP_CBIV_RATING'] = "Ðåéòèíã";
+$MESS ['TP_CBIV_DISPLAY_AS_RATING'] = "Ð’ ÐºÐ°Ñ‡ÐµÑÑ‚Ð²Ðµ Ñ€ÐµÐ¹Ñ‚Ð¸Ð½Ð³Ð° Ð¿Ð¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ";
+$MESS ['TP_CBIV_AVERAGE'] = "Ð¡Ñ€ÐµÐ´Ð½ÐµÐµ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ";
+$MESS ['TP_CBIV_RATING'] = "Ð ÐµÐ¹Ñ‚Ð¸Ð½Ð³";
 ?>

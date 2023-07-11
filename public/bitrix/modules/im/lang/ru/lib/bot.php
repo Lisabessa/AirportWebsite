@@ -1,9 +1,9 @@
 <?
-$MESS["BOT_MESSAGE_FROM"] = "×àò-áîò #BOT_NAME#";
-$MESS["BOT_DEFAULT_WORK_POSITION"] = "×àò-áîò";
-$MESS["BOT_MESSAGE_INSTALL_SYSTEM"] = "×àò-áîò áûë äîáàâëåí â âàø Áèòðèêñ24";
-$MESS["BOT_MESSAGE_INSTALL_USER"] = "#USER_NAME# äîáàâèë ÷àò-áîòà â Áèòðèêñ24";
-$MESS["BOT_MESSAGE_INSTALL_USER_F"] = "#USER_NAME# äîáàâèëà ÷àò-áîòà â Áèòðèêñ24";
-$MESS["BOT_SUPERVISOR_NOTICE_ALL_MESSAGES"] = "×àò-áîò #BOT_NAME# ïîëó÷èë äîñòóï ê ÷òåíèþ âñåõ ñîîáùåíèé â ÷àòå.";
-$MESS["BOT_SUPERVISOR_NOTICE_NEW_MESSAGES"] = "×àò-áîò #BOT_NAME# ïîëó÷èë äîñòóï ê ÷òåíèþ íîâûõ ñîîáùåíèé â ÷àòå.";
+$MESS["BOT_MESSAGE_FROM"] = "Ð§Ð°Ñ‚-Ð±Ð¾Ñ‚ #BOT_NAME#";
+$MESS["BOT_DEFAULT_WORK_POSITION"] = "Ð§Ð°Ñ‚-Ð±Ð¾Ñ‚";
+$MESS["BOT_MESSAGE_INSTALL_SYSTEM"] = "Ð§Ð°Ñ‚-Ð±Ð¾Ñ‚ Ð±Ñ‹Ð» Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½ Ð² Ð²Ð°Ñˆ Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ24";
+$MESS["BOT_MESSAGE_INSTALL_USER"] = "#USER_NAME# Ð´Ð¾Ð±Ð°Ð²Ð¸Ð» Ñ‡Ð°Ñ‚-Ð±Ð¾Ñ‚Ð° Ð² Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ24";
+$MESS["BOT_MESSAGE_INSTALL_USER_F"] = "#USER_NAME# Ð´Ð¾Ð±Ð°Ð²Ð¸Ð»Ð° Ñ‡Ð°Ñ‚-Ð±Ð¾Ñ‚Ð° Ð² Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ24";
+$MESS["BOT_SUPERVISOR_NOTICE_ALL_MESSAGES"] = "Ð§Ð°Ñ‚-Ð±Ð¾Ñ‚ #BOT_NAME# Ð¿Ð¾Ð»ÑƒÑ‡Ð¸Ð» Ð´Ð¾ÑÑ‚ÑƒÐ¿ Ðº Ñ‡Ñ‚ÐµÐ½Ð¸ÑŽ Ð²ÑÐµÑ… ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ð¹ Ð² Ñ‡Ð°Ñ‚Ðµ.";
+$MESS["BOT_SUPERVISOR_NOTICE_NEW_MESSAGES"] = "Ð§Ð°Ñ‚-Ð±Ð¾Ñ‚ #BOT_NAME# Ð¿Ð¾Ð»ÑƒÑ‡Ð¸Ð» Ð´Ð¾ÑÑ‚ÑƒÐ¿ Ðº Ñ‡Ñ‚ÐµÐ½Ð¸ÑŽ Ð½Ð¾Ð²Ñ‹Ñ… ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ð¹ Ð² Ñ‡Ð°Ñ‚Ðµ.";
 ?>

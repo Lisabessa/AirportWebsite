@@ -1,11 +1,11 @@
 <?
-$MESS["NEWS_TYPE_NAME"] = "Íîâîñòè";
-$MESS["NEWS_ELEMENT_NAME"] = "Íîâîñòè";
-$MESS["NEWS_SECTION_NAME"] = "Ðàçäåëû";
-$MESS["PRODUCTS_TYPE_NAME"] = "Òîâàðû è óñëóãè";
-$MESS["PRODUCTS_ELEMENT_NAME"] = "Òîâàðû è óñëóãè";
-$MESS["PRODUCTS_SECTION_NAME"] = "Ðàçäåëû";
-$MESS["VACANCIES_TYPE_NAME"] = "Âàêàíñèè";
-$MESS["VACANCIES_ELEMENT_NAME"] = "Âàêàíñèè";
-$MESS["VACANCIES_SECTION_NAME"] = "Ðàçäåëû";
+$MESS["NEWS_TYPE_NAME"] = "ÐÐ¾Ð²Ð¾ÑÑ‚Ð¸";
+$MESS["NEWS_ELEMENT_NAME"] = "ÐÐ¾Ð²Ð¾ÑÑ‚Ð¸";
+$MESS["NEWS_SECTION_NAME"] = "Ð Ð°Ð·Ð´ÐµÐ»Ñ‹";
+$MESS["PRODUCTS_TYPE_NAME"] = "Ð¢Ð¾Ð²Ð°Ñ€Ñ‹ Ð¸ ÑƒÑÐ»ÑƒÐ³Ð¸";
+$MESS["PRODUCTS_ELEMENT_NAME"] = "Ð¢Ð¾Ð²Ð°Ñ€Ñ‹ Ð¸ ÑƒÑÐ»ÑƒÐ³Ð¸";
+$MESS["PRODUCTS_SECTION_NAME"] = "Ð Ð°Ð·Ð´ÐµÐ»Ñ‹";
+$MESS["VACANCIES_TYPE_NAME"] = "Ð’Ð°ÐºÐ°Ð½ÑÐ¸Ð¸";
+$MESS["VACANCIES_ELEMENT_NAME"] = "Ð’Ð°ÐºÐ°Ð½ÑÐ¸Ð¸";
+$MESS["VACANCIES_SECTION_NAME"] = "Ð Ð°Ð·Ð´ÐµÐ»Ñ‹";
 ?>

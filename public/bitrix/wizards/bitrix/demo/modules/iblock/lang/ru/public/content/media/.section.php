@@ -1,3 +1,3 @@
 <?
-$MESS ['DEMO_IBLOCK_CONTENT_MEDIA_SECTION_NAME'] = "Âèäåî è àóäèî";
+$MESS ['DEMO_IBLOCK_CONTENT_MEDIA_SECTION_NAME'] = "Ð’Ð¸Ð´ÐµÐ¾ Ð¸ Ð°ÑƒÐ´Ð¸Ð¾";
 ?>

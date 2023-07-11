@@ -1,7 +1,7 @@
 <?
-$MESS["B_SALE_STATUS_ID"] = "Êîä ñòàòóñó";
-$MESS["B_SALE_STATUS_TYPE"] = "Òèï ñòàòóñó";
-$MESS["B_SALE_STATUS_SORT"] = "Ñîðòóâàííÿ";
-$MESS["B_SALE_STATUS_NOTIFY"] = "Ñïîâ³ùåííÿ";
-$MESS["B_SALE_STATUS_COLOR"] = "Êîë³ð ñòàòóñó";
+$MESS["B_SALE_STATUS_ID"] = "ÐšÐ¾Ð´ ÑÑ‚Ð°Ñ‚ÑƒÑÑƒ";
+$MESS["B_SALE_STATUS_TYPE"] = "Ð¢Ð¸Ð¿ ÑÑ‚Ð°Ñ‚ÑƒÑÑƒ";
+$MESS["B_SALE_STATUS_SORT"] = "Ð¡Ð¾Ñ€Ñ‚ÑƒÐ²Ð°Ð½Ð½Ñ";
+$MESS["B_SALE_STATUS_NOTIFY"] = "Ð¡Ð¿Ð¾Ð²Ñ–Ñ‰ÐµÐ½Ð½Ñ";
+$MESS["B_SALE_STATUS_COLOR"] = "ÐšÐ¾Ð»Ñ–Ñ€ ÑÑ‚Ð°Ñ‚ÑƒÑÑƒ";
 ?>

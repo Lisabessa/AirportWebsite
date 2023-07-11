@@ -1,6 +1,6 @@
 <?
-$MESS["STOREAS_HIDE"] = "Ñâåðíóòü";
-$MESS["STOREAS_SHOW"] = "Ðàçâåðíóòü";
-$MESS["STOREAS_OPEN_NEW_TAB"] = "Îòêðûòü â íîâîé âêëàäêå";
-$MESS["STOREAS_CLOSE"] = "Çàêðûòü";
+$MESS["STOREAS_HIDE"] = "Ð¡Ð²ÐµÑ€Ð½ÑƒÑ‚ÑŒ";
+$MESS["STOREAS_SHOW"] = "Ð Ð°Ð·Ð²ÐµÑ€Ð½ÑƒÑ‚ÑŒ";
+$MESS["STOREAS_OPEN_NEW_TAB"] = "ÐžÑ‚ÐºÑ€Ñ‹Ñ‚ÑŒ Ð² Ð½Ð¾Ð²Ð¾Ð¹ Ð²ÐºÐ»Ð°Ð´ÐºÐµ";
+$MESS["STOREAS_CLOSE"] = "Ð—Ð°ÐºÑ€Ñ‹Ñ‚ÑŒ";
 ?>

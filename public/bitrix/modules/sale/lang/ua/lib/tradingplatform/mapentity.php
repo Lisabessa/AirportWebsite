@@ -1,5 +1,5 @@
 <?
-$MESS["TRADING_PLATFORM_MAP_ENTITY_ENTITY_ID_FIELD"] = "²äåíòèô³êàòîð";
-$MESS["TRADING_PLATFORM_MAP_ENTITY_ENTITY_TRADING_PLATFORM_CODE_FIELD"] = "²äåíòèô³êàòîð òîðãîâî¿ ïëàòôîðìè";
-$MESS["TRADING_PLATFORM_MAP_ENTITY_ENTITY_CODE_FIELD"] = "Êîä â³äîáðàæóâàíî¿ ñóòíîñò³";
+$MESS["TRADING_PLATFORM_MAP_ENTITY_ENTITY_ID_FIELD"] = "Ð†Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÐ°Ñ‚Ð¾Ñ€";
+$MESS["TRADING_PLATFORM_MAP_ENTITY_ENTITY_TRADING_PLATFORM_CODE_FIELD"] = "Ð†Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÐ°Ñ‚Ð¾Ñ€ Ñ‚Ð¾Ñ€Ð³Ð¾Ð²Ð¾Ñ— Ð¿Ð»Ð°Ñ‚Ñ„Ð¾Ñ€Ð¼Ð¸";
+$MESS["TRADING_PLATFORM_MAP_ENTITY_ENTITY_CODE_FIELD"] = "ÐšÐ¾Ð´ Ð²Ñ–Ð´Ð¾Ð±Ñ€Ð°Ð¶ÑƒÐ²Ð°Ð½Ð¾Ñ— ÑÑƒÑ‚Ð½Ð¾ÑÑ‚Ñ–";
 ?>

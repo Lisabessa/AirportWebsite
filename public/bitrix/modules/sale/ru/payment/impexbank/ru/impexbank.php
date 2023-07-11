@@ -1,12 +1,12 @@
 <?
 global $MESS;
 
-$MESS["SIBP_DTITLE"] = "»ÏÔ˝ÍÒ·‡ÌÍ";
-$MESS["SIBP_DDESCR"] = "ŒÔÎ‡Ú‡ ÔÓ —Ï‡Ú-Í‡ÚÂ \"»ÏÔ˝ÍÒ·‡ÌÍ‡\" <a href=\"https://www.impexbank.ru\" target=\"_blank\">https://www.impexbank.ru</a>";
+$MESS["SIBP_DTITLE"] = "–ò–º–ø—ç–∫—Å–±–∞–Ω–∫";
+$MESS["SIBP_DDESCR"] = "–û–ø–ª–∞—Ç–∞ –ø–æ –°–º–∞—Ä—Ç-–∫–∞—Ä—Ç–µ \"–ò–º–ø—ç–∫—Å–±–∞–Ω–∫–∞\" <a href=\"https://www.impexbank.ru\" target=\"_blank\">https://www.impexbank.ru</a>";
 
-$MESS["SIBP_CODE"] = " Ó‰ Ï‡„‡ÁËÌ‡";
-$MESS["SIBP_CODE_DESC"] = " Ó‰ Ï‡„‡ÁËÌ‡, ÍÓÚÓ˚È ÔÓÎÛ˜ÂÌ ÓÚ »ÏÔÂÍÒ¡‡ÌÍ‡";
-$MESS["SIBP_NAME"] = "Õ‡ËÏÂÌÓ‚‡ÌËÂ Ï‡„‡ÁËÌ‡";
-$MESS["SIBP_NAME_DESC"] = "Õ‡ËÏÂÌÓ‚‡ÌËÂ Ï‡„‡ÁËÌ‡";
+$MESS["SIBP_CODE"] = "–ö–æ–¥ –º–∞–≥–∞–∑–∏–Ω–∞";
+$MESS["SIBP_CODE_DESC"] = "–ö–æ–¥ –º–∞–≥–∞–∑–∏–Ω–∞, –∫–æ—Ç–æ—Ä—ã–π –ø–æ–ª—É—á–µ–Ω –æ—Ç –ò–º–ø–µ–∫—Å–ë–∞–Ω–∫–∞";
+$MESS["SIBP_NAME"] = "–ù–∞–∏–º–µ–Ω–æ–≤–∞–Ω–∏–µ –º–∞–≥–∞–∑–∏–Ω–∞";
+$MESS["SIBP_NAME_DESC"] = "–ù–∞–∏–º–µ–Ω–æ–≤–∞–Ω–∏–µ –º–∞–≥–∞–∑–∏–Ω–∞";
 
 ?>

@@ -6,7 +6,7 @@ if (!is_array($arOrder))
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
 <head>
-<title>Ñ÷åò</title>
+<title>Ð¡Ñ‡ÐµÑ‚</title>
 <meta http-equiv="Content-Type" content="text/html; charset=<?=LANG_CHARSET?>">
 <style>
 	table { border-collapse: collapse; }
@@ -89,7 +89,7 @@ $width = $pageWidth - $margin['left'] - $margin['right'];
 		<b><?=CSalePaySystemAction::GetParamValue("SELLER_NAME"); ?><?
 		if (CSalePaySystemAction::GetParamValue("SELLER_ADDRESS"))
 		{
-			?> – <?=CSalePaySystemAction::GetParamValue("SELLER_ADDRESS"); ?><?
+			?> â€“ <?=CSalePaySystemAction::GetParamValue("SELLER_ADDRESS"); ?><?
 		}
 ?></b></small></span>
 <br>
@@ -484,7 +484,7 @@ for ($n = 1; $n <= $rowsCnt; $n++)
 	<table class="sign">
 		<? if (CSalePaySystemAction::GetParamValue("SELLER_DIR") || CSalePaySystemAction::GetParamValue("SELLER_DIR_SIGN")) { ?>
 		<tr>
-			<td valign>Geschäftsführer</td>
+			<td valign>GeschÐ´ftsfÑŒhrer</td>
 			<td style="width: 160pt; border: 1pt solid #000000; border-width: 0pt 0pt 1pt 0pt; text-align: center; ">
 				<?=CFile::ShowImage(CSalePaySystemAction::GetParamValue("SELLER_DIR_SIGN"), 200, 50); ?>
 			</td>
@@ -533,7 +533,7 @@ if ($sellerAddr)
 
 if (!empty($sellerData))
 {
-	?><small><?=join(' – ', $sellerData); ?></small>
+	?><small><?=join(' â€“ ', $sellerData); ?></small>
 	<br><?
 }
 
@@ -550,7 +550,7 @@ if ($sellerEmail)
 
 if (!empty($sellerData))
 {
-	?><small><?=join(' – ', $sellerData); ?></small>
+	?><small><?=join(' â€“ ', $sellerData); ?></small>
 	<br><?
 }
 
@@ -576,7 +576,7 @@ if ($bank)
 
 if (!empty($bankData))
 {
-	?><small><?=join(' – ', $bankData); ?></small>
+	?><small><?=join(' â€“ ', $bankData); ?></small>
 	<br><?
 }
 
@@ -599,7 +599,7 @@ if ($sellerDir)
 
 if (!empty($sellerData))
 {
-	?><small><?=join(' – ', $sellerData); ?></small>
+	?><small><?=join(' â€“ ', $sellerData); ?></small>
 	<br><?
 }
 

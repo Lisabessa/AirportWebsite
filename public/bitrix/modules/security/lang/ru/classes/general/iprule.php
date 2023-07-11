@@ -1,7 +1,7 @@
 <?
-$MESS ['SECURITY_IPRULE_ERROR_SELF_BLOCK'] = "Âàø IP-àäðåñ (#IP#) ïîïàäàåò â äèàïàçîí áëîêèðóåìûõ. Åñëè âû óâåðåíû, ñîõðàíèòå äàííûå ôîðìû åùå ðàç.";
-$MESS ['SECURITY_IPRULE_ERROR_SELF_BLOCK_2'] = "Âàø IP-àäðåñ (#IP#) ïîïàäàåò â äèàïàçîí áëîêèðóåìûõ.";
-$MESS ['SECURITY_IPRULE_ERROR_WONG_IP'] = "Îøèáî÷íûé IP-àäðåñ (#IP#).";
-$MESS ['SECURITY_IPRULE_ERROR_WONG_IP_RANGE'] = "IP-àäðåñ îêîí÷àíèÿ äèàïàçîíà (#END_IP#) ìåíüøå ÷åì IP-àäðåñ íà÷àëà (#START_IP#).";
-$MESS ['SECURITY_IPRULE_IPCHECK_DISABLE_FILE_WARNING'] = "Íàéäåí ôàéë-ôëàæîê îòêëþ÷àþùèé áëîêèðîâêó ïî IP. Óäàëèòå åãî.";
+$MESS ['SECURITY_IPRULE_ERROR_SELF_BLOCK'] = "Ð’Ð°Ñˆ IP-Ð°Ð´Ñ€ÐµÑ (#IP#) Ð¿Ð¾Ð¿Ð°Ð´Ð°ÐµÑ‚ Ð² Ð´Ð¸Ð°Ð¿Ð°Ð·Ð¾Ð½ Ð±Ð»Ð¾ÐºÐ¸Ñ€ÑƒÐµÐ¼Ñ‹Ñ…. Ð•ÑÐ»Ð¸ Ð²Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹, ÑÐ¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚Ðµ Ð´Ð°Ð½Ð½Ñ‹Ðµ Ñ„Ð¾Ñ€Ð¼Ñ‹ ÐµÑ‰Ðµ Ñ€Ð°Ð·.";
+$MESS ['SECURITY_IPRULE_ERROR_SELF_BLOCK_2'] = "Ð’Ð°Ñˆ IP-Ð°Ð´Ñ€ÐµÑ (#IP#) Ð¿Ð¾Ð¿Ð°Ð´Ð°ÐµÑ‚ Ð² Ð´Ð¸Ð°Ð¿Ð°Ð·Ð¾Ð½ Ð±Ð»Ð¾ÐºÐ¸Ñ€ÑƒÐµÐ¼Ñ‹Ñ….";
+$MESS ['SECURITY_IPRULE_ERROR_WONG_IP'] = "ÐžÑˆÐ¸Ð±Ð¾Ñ‡Ð½Ñ‹Ð¹ IP-Ð°Ð´Ñ€ÐµÑ (#IP#).";
+$MESS ['SECURITY_IPRULE_ERROR_WONG_IP_RANGE'] = "IP-Ð°Ð´Ñ€ÐµÑ Ð¾ÐºÐ¾Ð½Ñ‡Ð°Ð½Ð¸Ñ Ð´Ð¸Ð°Ð¿Ð°Ð·Ð¾Ð½Ð° (#END_IP#) Ð¼ÐµÐ½ÑŒÑˆÐµ Ñ‡ÐµÐ¼ IP-Ð°Ð´Ñ€ÐµÑ Ð½Ð°Ñ‡Ð°Ð»Ð° (#START_IP#).";
+$MESS ['SECURITY_IPRULE_IPCHECK_DISABLE_FILE_WARNING'] = "ÐÐ°Ð¹Ð´ÐµÐ½ Ñ„Ð°Ð¹Ð»-Ñ„Ð»Ð°Ð¶Ð¾Ðº Ð¾Ñ‚ÐºÐ»ÑŽÑ‡Ð°ÑŽÑ‰Ð¸Ð¹ Ð±Ð»Ð¾ÐºÐ¸Ñ€Ð¾Ð²ÐºÑƒ Ð¿Ð¾ IP. Ð£Ð´Ð°Ð»Ð¸Ñ‚Ðµ ÐµÐ³Ð¾.";
 ?>

@@ -1,4 +1,4 @@
 <?
-$MESS["SENDER_MODULE_COMPONENT_INITIALIZE_ERROR"] = "Ïðîèçîøëà îøèáêà èíèöèàëèçàöèè ìîäóëÿ CRM ìàðêåòèíã";
-$MESS["SENDER_MODULE_NOT_INSTALLED"] = "Ìîäóëü `CRM ìàðêåòèíã` íå óñòàíîâëåí";
-$MESS["SENDER_WRONG_PERMISSION"] = "Ó âàñ íåò äîñòóïà ê äàííîìó êîìïîíåíòó";
+$MESS["SENDER_MODULE_COMPONENT_INITIALIZE_ERROR"] = "ÐŸÑ€Ð¾Ð¸Ð·Ð¾ÑˆÐ»Ð° Ð¾ÑˆÐ¸Ð±ÐºÐ° Ð¸Ð½Ð¸Ñ†Ð¸Ð°Ð»Ð¸Ð·Ð°Ñ†Ð¸Ð¸ Ð¼Ð¾Ð´ÑƒÐ»Ñ CRM Ð¼Ð°Ñ€ÐºÐµÑ‚Ð¸Ð½Ð³";
+$MESS["SENDER_MODULE_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ `CRM Ð¼Ð°Ñ€ÐºÐµÑ‚Ð¸Ð½Ð³` Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½";
+$MESS["SENDER_WRONG_PERMISSION"] = "Ð£ Ð²Ð°Ñ Ð½ÐµÑ‚ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð° Ðº Ð´Ð°Ð½Ð½Ð¾Ð¼Ñƒ ÐºÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚Ñƒ";

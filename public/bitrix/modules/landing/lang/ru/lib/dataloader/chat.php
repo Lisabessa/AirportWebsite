@@ -1,2 +1,2 @@
 <?php
-$MESS['LANDING_SUBTYPE_BUTTON_SEND'] = 'Íàïèñàòü';
+$MESS['LANDING_SUBTYPE_BUTTON_SEND'] = 'ÐÐ°Ð¿Ð¸ÑÐ°Ñ‚ÑŒ';

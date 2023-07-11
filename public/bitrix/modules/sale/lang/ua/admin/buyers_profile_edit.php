@@ -1,15 +1,15 @@
 <?
-$MESS["BUYER_PE_ACCESS_DENIED"] = "Äîñòóï çàáîðîíåíî.";
-$MESS["BUYER_PE_TAB_PROFILE"] = "Ïðîô³ëü";
-$MESS["BUYER_PE_TITLE"] = "Ðåäàãóâàííÿ ïðîô³ëþ #NAME#";
-$MESS["BUYER_PE_FIELD"] = "Íàëàøòóâàòè";
-$MESS["BUYER_PE_FIELD_TITLE"] = "Íàëàøòóâàòè ïîëÿ ôîðìè";
-$MESS["BUYER_PE_EMPTY_PROPS"] = "Íå çàïîâíåíå âëàñòèâ³ñòü \"#NAME#\"";
-$MESS["BUYER_PE_LIST_PROFILE"] = "Ñïèñîê ïðîôàéë³â";
-$MESS["BUYER_PE_PROFILE_NAME"] = "Ïðîôàéë";
-$MESS["BUYER_PE_TAB_TITLE"] = "Ïðîô³ëü ïîêóïöÿ";
-$MESS["BUYER_PE_TAB_PROFILE_TITLE"] = "Ðåäàãóâàííÿ ïðîô³ëþ";
-$MESS["BUYER_PE_USER"] = "Êîðèñòóâà÷";
-$MESS["BUYER_PE_NO_PROFILE"] = "Ïðîô³ëü íå çíàéäåíèé";
-$MESS["BUYER_PE_NO_USER"] = "Êîðèñòóâà÷ íå çíàéäåíèé";
+$MESS["BUYER_PE_ACCESS_DENIED"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ð·Ð°Ð±Ð¾Ñ€Ð¾Ð½ÐµÐ½Ð¾.";
+$MESS["BUYER_PE_TAB_PROFILE"] = "ÐŸÑ€Ð¾Ñ„Ñ–Ð»ÑŒ";
+$MESS["BUYER_PE_TITLE"] = "Ð ÐµÐ´Ð°Ð³ÑƒÐ²Ð°Ð½Ð½Ñ Ð¿Ñ€Ð¾Ñ„Ñ–Ð»ÑŽ #NAME#";
+$MESS["BUYER_PE_FIELD"] = "ÐÐ°Ð»Ð°ÑˆÑ‚ÑƒÐ²Ð°Ñ‚Ð¸";
+$MESS["BUYER_PE_FIELD_TITLE"] = "ÐÐ°Ð»Ð°ÑˆÑ‚ÑƒÐ²Ð°Ñ‚Ð¸ Ð¿Ð¾Ð»Ñ Ñ„Ð¾Ñ€Ð¼Ð¸";
+$MESS["BUYER_PE_EMPTY_PROPS"] = "ÐÐµ Ð·Ð°Ð¿Ð¾Ð²Ð½ÐµÐ½Ðµ Ð²Ð»Ð°ÑÑ‚Ð¸Ð²Ñ–ÑÑ‚ÑŒ \"#NAME#\"";
+$MESS["BUYER_PE_LIST_PROFILE"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð¿Ñ€Ð¾Ñ„Ð°Ð¹Ð»Ñ–Ð²";
+$MESS["BUYER_PE_PROFILE_NAME"] = "ÐŸÑ€Ð¾Ñ„Ð°Ð¹Ð»";
+$MESS["BUYER_PE_TAB_TITLE"] = "ÐŸÑ€Ð¾Ñ„Ñ–Ð»ÑŒ Ð¿Ð¾ÐºÑƒÐ¿Ñ†Ñ";
+$MESS["BUYER_PE_TAB_PROFILE_TITLE"] = "Ð ÐµÐ´Ð°Ð³ÑƒÐ²Ð°Ð½Ð½Ñ Ð¿Ñ€Ð¾Ñ„Ñ–Ð»ÑŽ";
+$MESS["BUYER_PE_USER"] = "ÐšÐ¾Ñ€Ð¸ÑÑ‚ÑƒÐ²Ð°Ñ‡";
+$MESS["BUYER_PE_NO_PROFILE"] = "ÐŸÑ€Ð¾Ñ„Ñ–Ð»ÑŒ Ð½Ðµ Ð·Ð½Ð°Ð¹Ð´ÐµÐ½Ð¸Ð¹";
+$MESS["BUYER_PE_NO_USER"] = "ÐšÐ¾Ñ€Ð¸ÑÑ‚ÑƒÐ²Ð°Ñ‡ Ð½Ðµ Ð·Ð½Ð°Ð¹Ð´ÐµÐ½Ð¸Ð¹";
 ?>

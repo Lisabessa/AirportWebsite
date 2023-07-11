@@ -1,9 +1,9 @@
 <?
-$MESS ['BX_CLOCK_TITLE'] = "Óêàçàòü âðåìÿ";
-$MESS ['BX_CLOCK_INSERT'] = "Âñòàâèòü";
-$MESS ['BX_CLOCK_CLOSE'] = "Çàêðûòü";
-$MESS ['BX_CLOCK_HOURS'] = "×àñû";
-$MESS ['BX_CLOCK_MINUTES'] = "Ìèíóòû";
-$MESS ['BX_CLOCK_UP'] = "Óâåëè÷èòü (Ââåðõ)";
-$MESS ['BX_CLOCK_DOWN'] = "Óìåíüøèòü (Âíèç)";
+$MESS ['BX_CLOCK_TITLE'] = "Ð£ÐºÐ°Ð·Ð°Ñ‚ÑŒ Ð²Ñ€ÐµÐ¼Ñ";
+$MESS ['BX_CLOCK_INSERT'] = "Ð’ÑÑ‚Ð°Ð²Ð¸Ñ‚ÑŒ";
+$MESS ['BX_CLOCK_CLOSE'] = "Ð—Ð°ÐºÑ€Ñ‹Ñ‚ÑŒ";
+$MESS ['BX_CLOCK_HOURS'] = "Ð§Ð°ÑÑ‹";
+$MESS ['BX_CLOCK_MINUTES'] = "ÐœÐ¸Ð½ÑƒÑ‚Ñ‹";
+$MESS ['BX_CLOCK_UP'] = "Ð£Ð²ÐµÐ»Ð¸Ñ‡Ð¸Ñ‚ÑŒ (Ð’Ð²ÐµÑ€Ñ…)";
+$MESS ['BX_CLOCK_DOWN'] = "Ð£Ð¼ÐµÐ½ÑŒÑˆÐ¸Ñ‚ÑŒ (Ð’Ð½Ð¸Ð·)";
 ?>

@@ -1,6 +1,6 @@
 <?
 $MESS["DISCOUNT_GROUP_ENTITY_ID_FIELD"] = "ID";
-$MESS["DISCOUNT_GROUP_ENTITY_DISCOUNT_ID_FIELD"] = "Èäåíòèôèêàòîð ïðàâèëà êîðçèíû";
-$MESS["DISCOUNT_GROUP_ENTITY_ACTIVE_FIELD"] = "Àêòèâíîñòü ïðàâèëà êîðçèíû";
-$MESS["DISCOUNT_GROUP_ENTITY_GROUP_ID_FIELD"] = "Èäåíòèôèêàòîð ãðóïïû ïîëüçîâàòåëåé";
+$MESS["DISCOUNT_GROUP_ENTITY_DISCOUNT_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¿Ñ€Ð°Ð²Ð¸Ð»Ð° ÐºÐ¾Ñ€Ð·Ð¸Ð½Ñ‹";
+$MESS["DISCOUNT_GROUP_ENTITY_ACTIVE_FIELD"] = "ÐÐºÑ‚Ð¸Ð²Ð½Ð¾ÑÑ‚ÑŒ Ð¿Ñ€Ð°Ð²Ð¸Ð»Ð° ÐºÐ¾Ñ€Ð·Ð¸Ð½Ñ‹";
+$MESS["DISCOUNT_GROUP_ENTITY_GROUP_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÐµÐ¹";
 ?>

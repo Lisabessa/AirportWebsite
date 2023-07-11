@@ -1,9 +1,9 @@
 <?php
 
-$MESS["SALE_SHIPMENT_EXIST_SHIPPED"] = "Îòãðóçêà óæå îòãðóæåíà. Îòìåíèòå îòãðóçêó";
-$MESS["SALE_SHIPMENT_DELIVERY_SERVICE_EMPTY"] = "Ñëóæáà äîñòàâêè íå óêàçàíà";
-$MESS["SALE_SHIPMENT_WRONG_DELIVERY_SERVICE"] = "Óêàçàíà íåâåðíàÿ ñëóæáà äîñòàâêè";
-$MESS["SALE_SHIPMENT_QUANTITY_MISMATCH"] = "Íå ñîîòâåòñòâóåò êîëè÷åñòâî òîâàðà \"#NAME#\": â îòãðóçêó ïåðåíîñèòñÿ #QUANTITY#";
-$MESS["SALE_SHIPMENT_SYSTEM_QUANTITY_ERROR"] = "Â ñèñòåìíîé îòãðóçêå òîâàð #NAME# íàõîäèòñÿ â êîëè÷åñòâå #QUANTITY#, à êîëè÷åñòâî óìåíüøàåòñÿ íà #DELTA_QUANTITY#";
-$MESS["SALE_SHIPMENT_ACCOUNT_NUMBER_EXISTS"] = "Îïëàòà ñ òàêèì íîìåðîì óæå ñóùåñòâóåò";
-$MESS["SALE_SHIPMENT_SYSTEM_SHIPMENT_CHANGE"] = "Ñèñòåìíàÿ îòãðóçêà íåäîñòóïíà äëÿ èçìåíåíèÿ";
+$MESS["SALE_SHIPMENT_EXIST_SHIPPED"] = "ÐžÑ‚Ð³Ñ€ÑƒÐ·ÐºÐ° ÑƒÐ¶Ðµ Ð¾Ñ‚Ð³Ñ€ÑƒÐ¶ÐµÐ½Ð°. ÐžÑ‚Ð¼ÐµÐ½Ð¸Ñ‚Ðµ Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÑƒ";
+$MESS["SALE_SHIPMENT_DELIVERY_SERVICE_EMPTY"] = "Ð¡Ð»ÑƒÐ¶Ð±Ð° Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸ Ð½Ðµ ÑƒÐºÐ°Ð·Ð°Ð½Ð°";
+$MESS["SALE_SHIPMENT_WRONG_DELIVERY_SERVICE"] = "Ð£ÐºÐ°Ð·Ð°Ð½Ð° Ð½ÐµÐ²ÐµÑ€Ð½Ð°Ñ ÑÐ»ÑƒÐ¶Ð±Ð° Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸";
+$MESS["SALE_SHIPMENT_QUANTITY_MISMATCH"] = "ÐÐµ ÑÐ¾Ð¾Ñ‚Ð²ÐµÑ‚ÑÑ‚Ð²ÑƒÐµÑ‚ ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ñ‚Ð¾Ð²Ð°Ñ€Ð° \"#NAME#\": Ð² Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÑƒ Ð¿ÐµÑ€ÐµÐ½Ð¾ÑÐ¸Ñ‚ÑÑ #QUANTITY#";
+$MESS["SALE_SHIPMENT_SYSTEM_QUANTITY_ERROR"] = "Ð’ ÑÐ¸ÑÑ‚ÐµÐ¼Ð½Ð¾Ð¹ Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐµ Ñ‚Ð¾Ð²Ð°Ñ€ #NAME# Ð½Ð°Ñ…Ð¾Ð´Ð¸Ñ‚ÑÑ Ð² ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ðµ #QUANTITY#, Ð° ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ ÑƒÐ¼ÐµÐ½ÑŒÑˆÐ°ÐµÑ‚ÑÑ Ð½Ð° #DELTA_QUANTITY#";
+$MESS["SALE_SHIPMENT_ACCOUNT_NUMBER_EXISTS"] = "ÐžÐ¿Ð»Ð°Ñ‚Ð° Ñ Ñ‚Ð°ÐºÐ¸Ð¼ Ð½Ð¾Ð¼ÐµÑ€Ð¾Ð¼ ÑƒÐ¶Ðµ ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÐµÑ‚";
+$MESS["SALE_SHIPMENT_SYSTEM_SHIPMENT_CHANGE"] = "Ð¡Ð¸ÑÑ‚ÐµÐ¼Ð½Ð°Ñ Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ° Ð½ÐµÐ´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ð° Ð´Ð»Ñ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ";

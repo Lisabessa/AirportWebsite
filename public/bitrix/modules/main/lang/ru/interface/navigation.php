@@ -1,9 +1,9 @@
 <?
-$MESS ['navigation_first'] = "Ïåðâàÿ ñòðàíèöà";
-$MESS ['navigation_prev'] = "Ïðåäûäóùàÿ ñòðàíèöà";
-$MESS ['navigation_next'] = "Ñëåäóþùàÿ ñòðàíèöà";
-$MESS ['navigation_last'] = "Ïîñëåäíÿÿ ñòðàíèöà";
-$MESS ['navigation_records'] = "Íà ñòðàíèöå:";
-$MESS ['navigation_records_all'] = "âñå";
-$MESS ['navigation_records_of'] = "èç";
+$MESS ['navigation_first'] = "ÐŸÐµÑ€Ð²Ð°Ñ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ð°";
+$MESS ['navigation_prev'] = "ÐŸÑ€ÐµÐ´Ñ‹Ð´ÑƒÑ‰Ð°Ñ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ð°";
+$MESS ['navigation_next'] = "Ð¡Ð»ÐµÐ´ÑƒÑŽÑ‰Ð°Ñ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ð°";
+$MESS ['navigation_last'] = "ÐŸÐ¾ÑÐ»ÐµÐ´Ð½ÑÑ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ð°";
+$MESS ['navigation_records'] = "ÐÐ° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ðµ:";
+$MESS ['navigation_records_all'] = "Ð²ÑÐµ";
+$MESS ['navigation_records_of'] = "Ð¸Ð·";
 ?>

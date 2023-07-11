@@ -1,9 +1,9 @@
 <?
-$MESS["IBLOCK_BAD_BLOCK_SECTION_ID_PARENT"] = "Êoä áëîêà ðàçäåëà íå ñîâïàäàåò ñ êîäîì áëîêà ðàçäåëà-ðîäèòåëÿ!";
-$MESS["IBLOCK_BAD_SECTION"] = "Íå ââåäåíî íàçâàíèå ðàçäåëà.";
-$MESS["IBLOCK_BAD_SECTION_ID"] = "Ðàçäåë ñ òàêèì èäåíòèôèêàòîðîì (#ID#) íå ñóùåñòâóåò.";
-$MESS["IBLOCK_BAD_BLOCK_SECTION_RECURSE"] = "Íåëüçÿ ïåðåíåñòè ðàçäåë âíóòðü ñåáÿ.";
-$MESS["IBLOCK_BAD_BLOCK_SECTION_PARENT"] = "Íåâåðíûé ðàçäåë-ðîäèòåëü!";
-$MESS["IBLOCK_DUP_SECTION_CODE"] = "Ðàçäåë ñ òàêèì ñèìâîëüíûì êîäîì óæå ñóùåñòâóåò.";
-$MESS["IBLOCK_BAD_SECTION_FIELD"] = "Îáÿçàòåëüíîå ïîëå \"#FIELD_NAME#\" íå çàïîëíåíî.";
+$MESS["IBLOCK_BAD_BLOCK_SECTION_ID_PARENT"] = "ÐšoÐ´ Ð±Ð»Ð¾ÐºÐ° Ñ€Ð°Ð·Ð´ÐµÐ»Ð° Ð½Ðµ ÑÐ¾Ð²Ð¿Ð°Ð´Ð°ÐµÑ‚ Ñ ÐºÐ¾Ð´Ð¾Ð¼ Ð±Ð»Ð¾ÐºÐ° Ñ€Ð°Ð·Ð´ÐµÐ»Ð°-Ñ€Ð¾Ð´Ð¸Ñ‚ÐµÐ»Ñ!";
+$MESS["IBLOCK_BAD_SECTION"] = "ÐÐµ Ð²Ð²ÐµÐ´ÐµÐ½Ð¾ Ð½Ð°Ð·Ð²Ð°Ð½Ð¸Ðµ Ñ€Ð°Ð·Ð´ÐµÐ»Ð°.";
+$MESS["IBLOCK_BAD_SECTION_ID"] = "Ð Ð°Ð·Ð´ÐµÐ» Ñ Ñ‚Ð°ÐºÐ¸Ð¼ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€Ð¾Ð¼ (#ID#) Ð½Ðµ ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÐµÑ‚.";
+$MESS["IBLOCK_BAD_BLOCK_SECTION_RECURSE"] = "ÐÐµÐ»ÑŒÐ·Ñ Ð¿ÐµÑ€ÐµÐ½ÐµÑÑ‚Ð¸ Ñ€Ð°Ð·Ð´ÐµÐ» Ð²Ð½ÑƒÑ‚Ñ€ÑŒ ÑÐµÐ±Ñ.";
+$MESS["IBLOCK_BAD_BLOCK_SECTION_PARENT"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ñ€Ð°Ð·Ð´ÐµÐ»-Ñ€Ð¾Ð´Ð¸Ñ‚ÐµÐ»ÑŒ!";
+$MESS["IBLOCK_DUP_SECTION_CODE"] = "Ð Ð°Ð·Ð´ÐµÐ» Ñ Ñ‚Ð°ÐºÐ¸Ð¼ ÑÐ¸Ð¼Ð²Ð¾Ð»ÑŒÐ½Ñ‹Ð¼ ÐºÐ¾Ð´Ð¾Ð¼ ÑƒÐ¶Ðµ ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÐµÑ‚.";
+$MESS["IBLOCK_BAD_SECTION_FIELD"] = "ÐžÐ±ÑÐ·Ð°Ñ‚ÐµÐ»ÑŒÐ½Ð¾Ðµ Ð¿Ð¾Ð»Ðµ \"#FIELD_NAME#\" Ð½Ðµ Ð·Ð°Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¾.";
 ?>

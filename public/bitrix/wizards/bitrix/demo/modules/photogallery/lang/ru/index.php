@@ -1,18 +1,18 @@
 <?
-$MESS['P_NAME'] = "Ôîòîãàëåðåÿ";
-$MESS['P_SECTION_NAME'] = "Àëüáîìû";
-$MESS['P_ELEMENT_NAME'] = "Ôîòîãðàôèè";
-$MESS['P_IBLOCK_NAME'] = "Ôîòîãðàôèè";
-$MESS['P_FORUM_GROUP_COMMENTS'] = "Êîììåíòàðèè ïîëüçîâàòåëåé";
+$MESS['P_NAME'] = "Ð¤Ð¾Ñ‚Ð¾Ð³Ð°Ð»ÐµÑ€ÐµÑ";
+$MESS['P_SECTION_NAME'] = "ÐÐ»ÑŒÐ±Ð¾Ð¼Ñ‹";
+$MESS['P_ELEMENT_NAME'] = "Ð¤Ð¾Ñ‚Ð¾Ð³Ñ€Ð°Ñ„Ð¸Ð¸";
+$MESS['P_IBLOCK_NAME'] = "Ð¤Ð¾Ñ‚Ð¾Ð³Ñ€Ð°Ñ„Ð¸Ð¸";
+$MESS['P_FORUM_GROUP_COMMENTS'] = "ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¸ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÐµÐ¹";
 $MESS['P_FORUM_GROUP_COMMENTS_DESCRIPTION'] = "";
-$MESS['P_FORUM_NAME'] = "Ôîòîãàëåðåÿ";
-$MESS['P_FORUM_DECRIPTION'] = "Êîììåíòàðèè ôîòîãàëåðåè";
+$MESS['P_FORUM_NAME'] = "Ð¤Ð¾Ñ‚Ð¾Ð³Ð°Ð»ÐµÑ€ÐµÑ";
+$MESS['P_FORUM_DECRIPTION'] = "ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¸ Ñ„Ð¾Ñ‚Ð¾Ð³Ð°Ð»ÐµÑ€ÐµÐ¸";
 
-$MESS['P_BLOG_GROUP_NAME'] = "Êîììåíòàðèè ïîëüçîâàòåëåé";
-$MESS['P_BLOG_NAME'] = "Ôîòîãàëåðåÿ";
-$MESS['P_BLOG_DESCRIPTION'] = "Êîììåíòàðèè ôîòîãàëåðåè";
+$MESS['P_BLOG_GROUP_NAME'] = "ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¸ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÐµÐ¹";
+$MESS['P_BLOG_NAME'] = "Ð¤Ð¾Ñ‚Ð¾Ð³Ð°Ð»ÐµÑ€ÐµÑ";
+$MESS['P_BLOG_DESCRIPTION'] = "ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¸ Ñ„Ð¾Ñ‚Ð¾Ð³Ð°Ð»ÐµÑ€ÐµÐ¸";
 
-$MESS['P_DAY_PHOTO'] = "Ôîòî äíÿ";
-$MESS['P_MENU_ITEM'] = "Ãàëåðåÿ";
+$MESS['P_DAY_PHOTO'] = "Ð¤Ð¾Ñ‚Ð¾ Ð´Ð½Ñ";
+$MESS['P_MENU_ITEM'] = "Ð“Ð°Ð»ÐµÑ€ÐµÑ";
 
 ?>

@@ -1,6 +1,6 @@
 <?
-$MESS["SENDER_MESSAGE_TESTER_ERROR_WRONG_RECIPIENT"] = "Íåâåðíûé ïîëó÷àòåëü `%name%`";
-$MESS["SENDER_MESSAGE_TESTER_ERROR_SENT"] = "Íå óäàëîñü îòïðàâèòü íà `%name%`";
-$MESS["SENDER_MESSAGE_TESTER_ERROR_LIMIT_EXCEEDED"] = "Äîñòèãíóòî îãðàíè÷åíèå ïî êîëè÷åñòâó îòïðàâîê.";
-$MESS["SENDER_MESSAGE_TESTER_ERROR_MAX_COUNT"] = "Îòïðàâëåíî ïåðâûì %count% ïîëó÷àòåëÿì. Çà îäèí ðàç ìîæíî îòïðàâèòü îãðàíè÷åííîå ÷èñëî.";
+$MESS["SENDER_MESSAGE_TESTER_ERROR_WRONG_RECIPIENT"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»ÑŒ `%name%`";
+$MESS["SENDER_MESSAGE_TESTER_ERROR_SENT"] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÑŒ Ð½Ð° `%name%`";
+$MESS["SENDER_MESSAGE_TESTER_ERROR_LIMIT_EXCEEDED"] = "Ð”Ð¾ÑÑ‚Ð¸Ð³Ð½ÑƒÑ‚Ð¾ Ð¾Ð³Ñ€Ð°Ð½Ð¸Ñ‡ÐµÐ½Ð¸Ðµ Ð¿Ð¾ ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ñƒ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¾Ðº.";
+$MESS["SENDER_MESSAGE_TESTER_ERROR_MAX_COUNT"] = "ÐžÑ‚Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¾ Ð¿ÐµÑ€Ð²Ñ‹Ð¼ %count% Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»ÑÐ¼. Ð—Ð° Ð¾Ð´Ð¸Ð½ Ñ€Ð°Ð· Ð¼Ð¾Ð¶Ð½Ð¾ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÑŒ Ð¾Ð³Ñ€Ð°Ð½Ð¸Ñ‡ÐµÐ½Ð½Ð¾Ðµ Ñ‡Ð¸ÑÐ»Ð¾.";
 ?>

@@ -1,3 +1,3 @@
 <?php
-$MESS['LANDING_HOOK_COPYRIGHT_SHOW'] = 'Ïîäïèñü &laquo;Çàðÿæåíî Áèòðèêñ24&raquo;';
-$MESS['LANDING_HOOK_COPYRIGHT_SHOW_SMN'] = 'Ïîäïèñü &laquo;Áûñòðî ñ 1Ñ-Áèòðèêñ&raquo;';
+$MESS['LANDING_HOOK_COPYRIGHT_SHOW'] = 'ÐŸÐ¾Ð´Ð¿Ð¸ÑÑŒ &laquo;Ð—Ð°Ñ€ÑÐ¶ÐµÐ½Ð¾ Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ24&raquo;';
+$MESS['LANDING_HOOK_COPYRIGHT_SHOW_SMN'] = 'ÐŸÐ¾Ð´Ð¿Ð¸ÑÑŒ &laquo;Ð‘Ñ‹ÑÑ‚Ñ€Ð¾ Ñ 1Ð¡-Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ&raquo;';

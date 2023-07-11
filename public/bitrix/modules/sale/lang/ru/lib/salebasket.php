@@ -1,18 +1,18 @@
 <?
-$MESS['SALE_BASKET_ENTITY_BASKET'] = 'Êîðçèíà';
-$MESS['SALE_BASKET_ENTITY_ID'] = 'ID çàïèñè';
-$MESS['SALE_BASKET_ENTITY_FUSER_ID'] = 'ID ïîñåòèòåëÿ';
-$MESS['SALE_BASKET_ENTITY_DATE_INSERT'] = 'Äàòà äîáàâëåíèÿ ïîçèöèè';
-$MESS['SALE_BASKET_ENTITY_DATE_UPDATE'] = 'Äàòà èçìåíåíèÿ ïîçèöèè';
-$MESS['SALE_BASKET_ENTITY_DATE_INS'] = 'Äàòà äîáàâëåíèÿ ïîçèöèè';
-$MESS['SALE_BASKET_ENTITY_DATE_UPD'] = 'Äàòà èçìåíåíèÿ ïîçèöèè';
-$MESS['SALE_BASKET_ENTITY_PRODUCT_ID'] = 'ID òîâàðà';
-$MESS['SALE_BASKET_ENTITY_NAME'] = 'Íàèìåíîâàíèå òîâàðà';
-$MESS['SALE_BASKET_ENTITY_ORDER_ID'] = 'ID çàêàçà';
-$MESS['SALE_BASKET_ENTITY_PRICE'] = 'Öåíà òîâàðà';
-$MESS['SALE_BASKET_ENTITY_QUANTITY'] = 'Êîëè÷åñòâî òîâàðà';
-$MESS['SALE_BASKET_ENTITY_SUMMARY_PRICE'] = 'Ñóììà òîâàðà';
-$MESS['SALE_BASKET_ENTITY_SUBSCRIBE'] = 'Åñòü ïîäïèñêà íà òîâàð';
-$MESS['SALE_BASKET_ENTITY_N_SUBSCRIBE'] = 'Êîëè÷åñòâî ïîäïèñîê';
+$MESS['SALE_BASKET_ENTITY_BASKET'] = 'ÐšÐ¾Ñ€Ð·Ð¸Ð½Ð°';
+$MESS['SALE_BASKET_ENTITY_ID'] = 'ID Ð·Ð°Ð¿Ð¸ÑÐ¸';
+$MESS['SALE_BASKET_ENTITY_FUSER_ID'] = 'ID Ð¿Ð¾ÑÐµÑ‚Ð¸Ñ‚ÐµÐ»Ñ';
+$MESS['SALE_BASKET_ENTITY_DATE_INSERT'] = 'Ð”Ð°Ñ‚Ð° Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ñ Ð¿Ð¾Ð·Ð¸Ñ†Ð¸Ð¸';
+$MESS['SALE_BASKET_ENTITY_DATE_UPDATE'] = 'Ð”Ð°Ñ‚Ð° Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ Ð¿Ð¾Ð·Ð¸Ñ†Ð¸Ð¸';
+$MESS['SALE_BASKET_ENTITY_DATE_INS'] = 'Ð”Ð°Ñ‚Ð° Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ñ Ð¿Ð¾Ð·Ð¸Ñ†Ð¸Ð¸';
+$MESS['SALE_BASKET_ENTITY_DATE_UPD'] = 'Ð”Ð°Ñ‚Ð° Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ Ð¿Ð¾Ð·Ð¸Ñ†Ð¸Ð¸';
+$MESS['SALE_BASKET_ENTITY_PRODUCT_ID'] = 'ID Ñ‚Ð¾Ð²Ð°Ñ€Ð°';
+$MESS['SALE_BASKET_ENTITY_NAME'] = 'ÐÐ°Ð¸Ð¼ÐµÐ½Ð¾Ð²Ð°Ð½Ð¸Ðµ Ñ‚Ð¾Ð²Ð°Ñ€Ð°';
+$MESS['SALE_BASKET_ENTITY_ORDER_ID'] = 'ID Ð·Ð°ÐºÐ°Ð·Ð°';
+$MESS['SALE_BASKET_ENTITY_PRICE'] = 'Ð¦ÐµÐ½Ð° Ñ‚Ð¾Ð²Ð°Ñ€Ð°';
+$MESS['SALE_BASKET_ENTITY_QUANTITY'] = 'ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ñ‚Ð¾Ð²Ð°Ñ€Ð°';
+$MESS['SALE_BASKET_ENTITY_SUMMARY_PRICE'] = 'Ð¡ÑƒÐ¼Ð¼Ð° Ñ‚Ð¾Ð²Ð°Ñ€Ð°';
+$MESS['SALE_BASKET_ENTITY_SUBSCRIBE'] = 'Ð•ÑÑ‚ÑŒ Ð¿Ð¾Ð´Ð¿Ð¸ÑÐºÐ° Ð½Ð° Ñ‚Ð¾Ð²Ð°Ñ€';
+$MESS['SALE_BASKET_ENTITY_N_SUBSCRIBE'] = 'ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ð¿Ð¾Ð´Ð¿Ð¸ÑÐ¾Ðº';
 
 ?>

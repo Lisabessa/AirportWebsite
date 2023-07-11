@@ -1,11 +1,11 @@
 <?php
-$MESS["BIZPROC_CONTROLLER_SCRIPT_CANT_START"] = "Íåäîñòàòî÷íî ïðàâ äëÿ çàïóñêà Óìíîãî ñöåíàðèÿ";
-$MESS["BIZPROC_CONTROLLER_SCRIPT_CANT_START_INACTIVE"] = "Óìíûé ñöåíàðèé äåàêòèâèðîâàí. Çàïóñê íåâîçìîæåí";
-$MESS["BIZPROC_CONTROLLER_SCRIPT_CANT_TERMINATE"] = "Íåäîñòàòî÷íî ïðàâ äëÿ îñòàíîâêè Óìíîãî ñöåíàðèÿ";
-$MESS["BIZPROC_CONTROLLER_SCRIPT_CANT_DELETE_QUEUE"] = "Íåäîñòàòî÷íî ïðàâ äëÿ óäàëåíèÿ çàïóñêà Óìíîãî ñöåíàðèÿ";
-$MESS["BIZPROC_CONTROLLER_SCRIPT_CANT_DELETE_SCRIPT"] = "Íåäîñòàòî÷íî ïðàâ äëÿ óäàëåíèÿ Óìíîãî ñöåíàðèÿ";
-$MESS["BIZPROC_CONTROLLER_SCRIPT_CANT_DELETE_RUNNING_SCRIPT"] = "Ñöåíàðèé íå ìîæåò áûòü óäàëåí, òàê êàê ñóùåñòâóþò áèçíåñ-ïðîöåññû, çàïóùåííûå ïî ýòîìó ñöåíàðèþ";
-$MESS["BIZPROC_CONTROLLER_SCRIPT_CANT_TERMINATE_FINISHED"] = "Íåâîçìîæíî îñòàíîâèòü Óìíûé ñöåíàðèé, îí óæå îòðàáîòàë";
-$MESS["BIZPROC_CONTROLLER_SCRIPT_ERROR_DOCUMENT_ID_LIMIT"] = "Ïðåâûøåí ëèìèò êîëè÷åñòâà ýëåìåíòîâ äëÿ çàïóñêà Óìíîãî ñöåíàðèÿ (Âûáðàíî #SELECTED#, ðàçðåøåíî #LIMIT#)";
-$MESS["BIZPROC_CONTROLLER_SCRIPT_ERROR_QUEUES_LIMIT"] = "Ïðåâûøåí ëèìèò çàïóñêîâ Óìíîãî ñöåíàðèÿ (Â ðàáîòå #CNT#, ðàçðåøåíî #LIMIT#)";
-$MESS["BIZPROC_CONTROLLER_SCRIPT_NOT_EXISTS"] = "Çàïðàøèâàåìûé Óìíûé ñöåíàðèé íå íàéäåí";
+$MESS["BIZPROC_CONTROLLER_SCRIPT_CANT_START"] = "ÐÐµÐ´Ð¾ÑÑ‚Ð°Ñ‚Ð¾Ñ‡Ð½Ð¾ Ð¿Ñ€Ð°Ð² Ð´Ð»Ñ Ð·Ð°Ð¿ÑƒÑÐºÐ° Ð£Ð¼Ð½Ð¾Ð³Ð¾ ÑÑ†ÐµÐ½Ð°Ñ€Ð¸Ñ";
+$MESS["BIZPROC_CONTROLLER_SCRIPT_CANT_START_INACTIVE"] = "Ð£Ð¼Ð½Ñ‹Ð¹ ÑÑ†ÐµÐ½Ð°Ñ€Ð¸Ð¹ Ð´ÐµÐ°ÐºÑ‚Ð¸Ð²Ð¸Ñ€Ð¾Ð²Ð°Ð½. Ð—Ð°Ð¿ÑƒÑÐº Ð½ÐµÐ²Ð¾Ð·Ð¼Ð¾Ð¶ÐµÐ½";
+$MESS["BIZPROC_CONTROLLER_SCRIPT_CANT_TERMINATE"] = "ÐÐµÐ´Ð¾ÑÑ‚Ð°Ñ‚Ð¾Ñ‡Ð½Ð¾ Ð¿Ñ€Ð°Ð² Ð´Ð»Ñ Ð¾ÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ¸ Ð£Ð¼Ð½Ð¾Ð³Ð¾ ÑÑ†ÐµÐ½Ð°Ñ€Ð¸Ñ";
+$MESS["BIZPROC_CONTROLLER_SCRIPT_CANT_DELETE_QUEUE"] = "ÐÐµÐ´Ð¾ÑÑ‚Ð°Ñ‚Ð¾Ñ‡Ð½Ð¾ Ð¿Ñ€Ð°Ð² Ð´Ð»Ñ ÑƒÐ´Ð°Ð»ÐµÐ½Ð¸Ñ Ð·Ð°Ð¿ÑƒÑÐºÐ° Ð£Ð¼Ð½Ð¾Ð³Ð¾ ÑÑ†ÐµÐ½Ð°Ñ€Ð¸Ñ";
+$MESS["BIZPROC_CONTROLLER_SCRIPT_CANT_DELETE_SCRIPT"] = "ÐÐµÐ´Ð¾ÑÑ‚Ð°Ñ‚Ð¾Ñ‡Ð½Ð¾ Ð¿Ñ€Ð°Ð² Ð´Ð»Ñ ÑƒÐ´Ð°Ð»ÐµÐ½Ð¸Ñ Ð£Ð¼Ð½Ð¾Ð³Ð¾ ÑÑ†ÐµÐ½Ð°Ñ€Ð¸Ñ";
+$MESS["BIZPROC_CONTROLLER_SCRIPT_CANT_DELETE_RUNNING_SCRIPT"] = "Ð¡Ñ†ÐµÐ½Ð°Ñ€Ð¸Ð¹ Ð½Ðµ Ð¼Ð¾Ð¶ÐµÑ‚ Ð±Ñ‹Ñ‚ÑŒ ÑƒÐ´Ð°Ð»ÐµÐ½, Ñ‚Ð°Ðº ÐºÐ°Ðº ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÑŽÑ‚ Ð±Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑÑ‹, Ð·Ð°Ð¿ÑƒÑ‰ÐµÐ½Ð½Ñ‹Ðµ Ð¿Ð¾ ÑÑ‚Ð¾Ð¼Ñƒ ÑÑ†ÐµÐ½Ð°Ñ€Ð¸ÑŽ";
+$MESS["BIZPROC_CONTROLLER_SCRIPT_CANT_TERMINATE_FINISHED"] = "ÐÐµÐ²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ Ð¾ÑÑ‚Ð°Ð½Ð¾Ð²Ð¸Ñ‚ÑŒ Ð£Ð¼Ð½Ñ‹Ð¹ ÑÑ†ÐµÐ½Ð°Ñ€Ð¸Ð¹, Ð¾Ð½ ÑƒÐ¶Ðµ Ð¾Ñ‚Ñ€Ð°Ð±Ð¾Ñ‚Ð°Ð»";
+$MESS["BIZPROC_CONTROLLER_SCRIPT_ERROR_DOCUMENT_ID_LIMIT"] = "ÐŸÑ€ÐµÐ²Ñ‹ÑˆÐµÐ½ Ð»Ð¸Ð¼Ð¸Ñ‚ ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð° ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð² Ð´Ð»Ñ Ð·Ð°Ð¿ÑƒÑÐºÐ° Ð£Ð¼Ð½Ð¾Ð³Ð¾ ÑÑ†ÐµÐ½Ð°Ñ€Ð¸Ñ (Ð’Ñ‹Ð±Ñ€Ð°Ð½Ð¾ #SELECTED#, Ñ€Ð°Ð·Ñ€ÐµÑˆÐµÐ½Ð¾ #LIMIT#)";
+$MESS["BIZPROC_CONTROLLER_SCRIPT_ERROR_QUEUES_LIMIT"] = "ÐŸÑ€ÐµÐ²Ñ‹ÑˆÐµÐ½ Ð»Ð¸Ð¼Ð¸Ñ‚ Ð·Ð°Ð¿ÑƒÑÐºÐ¾Ð² Ð£Ð¼Ð½Ð¾Ð³Ð¾ ÑÑ†ÐµÐ½Ð°Ñ€Ð¸Ñ (Ð’ Ñ€Ð°Ð±Ð¾Ñ‚Ðµ #CNT#, Ñ€Ð°Ð·Ñ€ÐµÑˆÐµÐ½Ð¾ #LIMIT#)";
+$MESS["BIZPROC_CONTROLLER_SCRIPT_NOT_EXISTS"] = "Ð—Ð°Ð¿Ñ€Ð°ÑˆÐ¸Ð²Ð°ÐµÐ¼Ñ‹Ð¹ Ð£Ð¼Ð½Ñ‹Ð¹ ÑÑ†ÐµÐ½Ð°Ñ€Ð¸Ð¹ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";

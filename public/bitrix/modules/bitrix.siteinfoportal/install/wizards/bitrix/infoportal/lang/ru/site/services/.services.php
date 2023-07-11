@@ -1,9 +1,9 @@
 <?
-$MESS["SERVICE_MAIN_SETTINGS"] = "Íàñòðîéêè ñàéòà";
-$MESS["SERVICE_IBLOCK"] = "Èíôîðìàöèîííûå áëîêè";
-$MESS["SERVICE_FORUM"] = "Ôîðóì";
-$MESS["SERVICE_BLOG"] = "Áëîã";
-$MESS["SERVICE_VOTE"] = "Îïðîñû";
-$MESS["SERVICE_ADVERTISING"] = "Ðåêëàìà";
-$MESS["SERVICE_CALENDAR"] = "Êàëåíäàðü ñîáûòèé";
+$MESS["SERVICE_MAIN_SETTINGS"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ ÑÐ°Ð¹Ñ‚Ð°";
+$MESS["SERVICE_IBLOCK"] = "Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ñ‹Ðµ Ð±Ð»Ð¾ÐºÐ¸";
+$MESS["SERVICE_FORUM"] = "Ð¤Ð¾Ñ€ÑƒÐ¼";
+$MESS["SERVICE_BLOG"] = "Ð‘Ð»Ð¾Ð³";
+$MESS["SERVICE_VOTE"] = "ÐžÐ¿Ñ€Ð¾ÑÑ‹";
+$MESS["SERVICE_ADVERTISING"] = "Ð ÐµÐºÐ»Ð°Ð¼Ð°";
+$MESS["SERVICE_CALENDAR"] = "ÐšÐ°Ð»ÐµÐ½Ð´Ð°Ñ€ÑŒ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ð¹";
 ?>

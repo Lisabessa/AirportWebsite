@@ -1,9 +1,9 @@
 <?php
-$MESS['HLBLOCK_ADMIN_ENTITY_ROW_EDIT_PAGE_TITLE_EDIT'] = 'Highload-áëîê "#NAME#": Ðåäàêòèðîâàíèå çàïèñè ##NUM#';
-$MESS['HLBLOCK_ADMIN_ENTITY_ROW_EDIT_PAGE_TITLE_NEW'] = 'Highload-áëîê "#NAME#": Ñîçäàíèå çàïèñè';
-$MESS['HLBLOCK_ADMIN_ROW_EDIT_NOT_FOUND'] = 'Èíôîðìàöèÿ î Highload-áëîêå íå íàéäåíà';
-$MESS['HLBLOCK_ADMIN_ROWS_COPY'] = 'Êîïèðîâàòü';
-$MESS['HLBLOCK_ADMIN_ROWS_ACTIONS'] = 'Äåéñòâèÿ';
-$MESS['HLBLOCK_ADMIN_ROWS_ADD'] = 'Äîáàâèòü';
-$MESS['HLBLOCK_ADMIN_ROWS_DEL'] = 'Óäàëèòü';
-$MESS['HLBLOCK_ADMIN_ROWS_DEL_CONF'] = 'Äåéñòâèòåëüíî óäàëèòü?';
+$MESS['HLBLOCK_ADMIN_ENTITY_ROW_EDIT_PAGE_TITLE_EDIT'] = 'Highload-Ð±Ð»Ð¾Ðº "#NAME#": Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð·Ð°Ð¿Ð¸ÑÐ¸ ##NUM#';
+$MESS['HLBLOCK_ADMIN_ENTITY_ROW_EDIT_PAGE_TITLE_NEW'] = 'Highload-Ð±Ð»Ð¾Ðº "#NAME#": Ð¡Ð¾Ð·Ð´Ð°Ð½Ð¸Ðµ Ð·Ð°Ð¿Ð¸ÑÐ¸';
+$MESS['HLBLOCK_ADMIN_ROW_EDIT_NOT_FOUND'] = 'Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ñ Ð¾ Highload-Ð±Ð»Ð¾ÐºÐµ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð°';
+$MESS['HLBLOCK_ADMIN_ROWS_COPY'] = 'ÐšÐ¾Ð¿Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ';
+$MESS['HLBLOCK_ADMIN_ROWS_ACTIONS'] = 'Ð”ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ';
+$MESS['HLBLOCK_ADMIN_ROWS_ADD'] = 'Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ';
+$MESS['HLBLOCK_ADMIN_ROWS_DEL'] = 'Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ';
+$MESS['HLBLOCK_ADMIN_ROWS_DEL_CONF'] = 'Ð”ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ?';

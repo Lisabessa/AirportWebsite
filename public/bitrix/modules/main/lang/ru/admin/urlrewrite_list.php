@@ -1,17 +1,17 @@
 <?
-$MESS ['MURL_USL'] = "Óñëîâèå";
-$MESS ['MURL_COMPONENT'] = "Êîìïîíåíò";
-$MESS ['MURL_FILE'] = "Ôàéë";
-$MESS ['MURL_RULE'] = "Ïðàâèëî";
-$MESS ['MURL_EDIT'] = "Èçìåíèòü";
-$MESS ['MURL_DELETE'] = "Óäàëèòü";
-$MESS ['MURL_DELETE_CONF'] = "Âû óâåðåíû, ÷òî õîòèòå óäàëèòü ýòó çàïèñü?";
-$MESS ['MURL_NEW'] = "Íîâàÿ çàïèñü";
-$MESS ['MURL_NEW_TITLE'] = "Äîáàâëåíèå íîâîé çàïèñè";
-$MESS ['MURL_TITLE'] = "Íàñòðîéêà ïðàâèë îáðàáîòêè àäðåñîâ";
-$MESS ['MURL_FILTER_PATH'] = "Ïóòü";
-$MESS ['MURL_FILTER_SITE'] = "Ñàéò";
-$MESS ['MURL_REINDEX'] = "Ïåðåñîçäàíèå";
-$MESS ['MURL_REINDEX_TITLE'] = "Ïåðåñîçäàíèå ïðàâèë îáðàáîòêè àäðåñîâ";
-$MESS ['SAA_NAV'] = "Ïðàâèëà";
+$MESS ['MURL_USL'] = "Ð£ÑÐ»Ð¾Ð²Ð¸Ðµ";
+$MESS ['MURL_COMPONENT'] = "ÐšÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚";
+$MESS ['MURL_FILE'] = "Ð¤Ð°Ð¹Ð»";
+$MESS ['MURL_RULE'] = "ÐŸÑ€Ð°Ð²Ð¸Ð»Ð¾";
+$MESS ['MURL_EDIT'] = "Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
+$MESS ['MURL_DELETE'] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";
+$MESS ['MURL_DELETE_CONF'] = "Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹, Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ ÑÑ‚Ñƒ Ð·Ð°Ð¿Ð¸ÑÑŒ?";
+$MESS ['MURL_NEW'] = "ÐÐ¾Ð²Ð°Ñ Ð·Ð°Ð¿Ð¸ÑÑŒ";
+$MESS ['MURL_NEW_TITLE'] = "Ð”Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ð½Ð¾Ð²Ð¾Ð¹ Ð·Ð°Ð¿Ð¸ÑÐ¸";
+$MESS ['MURL_TITLE'] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° Ð¿Ñ€Ð°Ð²Ð¸Ð» Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ¸ Ð°Ð´Ñ€ÐµÑÐ¾Ð²";
+$MESS ['MURL_FILTER_PATH'] = "ÐŸÑƒÑ‚ÑŒ";
+$MESS ['MURL_FILTER_SITE'] = "Ð¡Ð°Ð¹Ñ‚";
+$MESS ['MURL_REINDEX'] = "ÐŸÐµÑ€ÐµÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ðµ";
+$MESS ['MURL_REINDEX_TITLE'] = "ÐŸÐµÑ€ÐµÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ðµ Ð¿Ñ€Ð°Ð²Ð¸Ð» Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ¸ Ð°Ð´Ñ€ÐµÑÐ¾Ð²";
+$MESS ['SAA_NAV'] = "ÐŸÑ€Ð°Ð²Ð¸Ð»Ð°";
 ?>

@@ -1,3 +1,3 @@
 <?
-$MESS ['VOTE_DIALOGS_BAD_TYPE'] = "Íåâåðíûé òèï äèàëîãà";
+$MESS ['VOTE_DIALOGS_BAD_TYPE'] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ñ‚Ð¸Ð¿ Ð´Ð¸Ð°Ð»Ð¾Ð³Ð°";
 ?>

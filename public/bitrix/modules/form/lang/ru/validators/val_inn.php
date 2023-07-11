@@ -1,9 +1,9 @@
 <?
-$MESS['FORM_VALIDATOR_VAL_INN_DESCRIPTION'] = "Ïðîâåðêà ÈÍÍ";
-$MESS['FORM_VALIDATOR_VAL_INN_SETTINGS_TYPE'] = "Òèï ÈÍÍ";
-$MESS['FORM_VALIDATOR_VAL_INN_SETTINGS_TYPE_JUR'] = "þðèäè÷åñêèå ëèöà";
-$MESS['FORM_VALIDATOR_VAL_INN_SETTINGS_TYPE_PHYS'] = "ôèçè÷åñêèå ëèöà";
-$MESS['FORM_VALIDATOR_VAL_INN_SETTINGS_TYPE_BOTH'] = "âîçìîæíû îáà âàðèàíòà";
-$MESS['FORM_VALIDATOR_INN_ERROR'] = "#FIELD_NAME#: íåâåðíûé ÈÍÍ";
+$MESS['FORM_VALIDATOR_VAL_INN_DESCRIPTION'] = "ÐŸÑ€Ð¾Ð²ÐµÑ€ÐºÐ° Ð˜ÐÐ";
+$MESS['FORM_VALIDATOR_VAL_INN_SETTINGS_TYPE'] = "Ð¢Ð¸Ð¿ Ð˜ÐÐ";
+$MESS['FORM_VALIDATOR_VAL_INN_SETTINGS_TYPE_JUR'] = "ÑŽÑ€Ð¸Ð´Ð¸Ñ‡ÐµÑÐºÐ¸Ðµ Ð»Ð¸Ñ†Ð°";
+$MESS['FORM_VALIDATOR_VAL_INN_SETTINGS_TYPE_PHYS'] = "Ñ„Ð¸Ð·Ð¸Ñ‡ÐµÑÐºÐ¸Ðµ Ð»Ð¸Ñ†Ð°";
+$MESS['FORM_VALIDATOR_VAL_INN_SETTINGS_TYPE_BOTH'] = "Ð²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ñ‹ Ð¾Ð±Ð° Ð²Ð°Ñ€Ð¸Ð°Ð½Ñ‚Ð°";
+$MESS['FORM_VALIDATOR_INN_ERROR'] = "#FIELD_NAME#: Ð½ÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ð˜ÐÐ";
 
 ?>

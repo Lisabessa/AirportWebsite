@@ -1,3 +1,3 @@
 <?php
 
-$MESS['MAIL_CLIENT_INBOX_ALIAS'] = "Âõîäÿùèå";
+$MESS['MAIL_CLIENT_INBOX_ALIAS'] = "Ð’Ñ…Ð¾Ð´ÑÑ‰Ð¸Ðµ";

@@ -1,15 +1,15 @@
 <?
-$MESS["IBLOCK_FORM_SUBMIT"] = "Ñîõðàíèòü";
-$MESS["IBLOCK_FORM_APPLY"] = "Ïðèìåíèòü";
-$MESS["IBLOCK_FORM_RESET"] = "Ñáðîñèòü";
-$MESS["IBLOCK_FORM_CANCEL"] = "Îòìåíà";
-$MESS["IBLOCK_FORM_BACK"] = "Íàçàä ê ñïèñêó";
-$MESS["IBLOCK_FORM_DATE_FORMAT"] = "Ôîðìàò: ";
-$MESS["IBLOCK_FORM_FILE_NAME"] = "Ôàéë";
-$MESS["IBLOCK_FORM_FILE_SIZE"] = "Ðàçìåð";
-$MESS["IBLOCK_FORM_FILE_DOWNLOAD"] = "ñêà÷àòü";
-$MESS["IBLOCK_FORM_FILE_DELETE"] = "óäàëèòü ôàéë";
-$MESS["IBLOCK_FORM_CAPTCHA_TITLE"] = "Çàùèòà îò àâòîìàòè÷åñêîãî çàïîëíåíèÿ";
-$MESS["IBLOCK_FORM_CAPTCHA_PROMPT"] = "Ââåäèòå ñëîâî ñ êàðòèíêè";
-$MESS["CT_BIEAF_PROPERTY_VALUE_NA"] = "(íå óñòàíîâëåíî)";
+$MESS["IBLOCK_FORM_SUBMIT"] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ";
+$MESS["IBLOCK_FORM_APPLY"] = "ÐŸÑ€Ð¸Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
+$MESS["IBLOCK_FORM_RESET"] = "Ð¡Ð±Ñ€Ð¾ÑÐ¸Ñ‚ÑŒ";
+$MESS["IBLOCK_FORM_CANCEL"] = "ÐžÑ‚Ð¼ÐµÐ½Ð°";
+$MESS["IBLOCK_FORM_BACK"] = "ÐÐ°Ð·Ð°Ð´ Ðº ÑÐ¿Ð¸ÑÐºÑƒ";
+$MESS["IBLOCK_FORM_DATE_FORMAT"] = "Ð¤Ð¾Ñ€Ð¼Ð°Ñ‚: ";
+$MESS["IBLOCK_FORM_FILE_NAME"] = "Ð¤Ð°Ð¹Ð»";
+$MESS["IBLOCK_FORM_FILE_SIZE"] = "Ð Ð°Ð·Ð¼ÐµÑ€";
+$MESS["IBLOCK_FORM_FILE_DOWNLOAD"] = "ÑÐºÐ°Ñ‡Ð°Ñ‚ÑŒ";
+$MESS["IBLOCK_FORM_FILE_DELETE"] = "ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ Ñ„Ð°Ð¹Ð»";
+$MESS["IBLOCK_FORM_CAPTCHA_TITLE"] = "Ð—Ð°Ñ‰Ð¸Ñ‚Ð° Ð¾Ñ‚ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¾Ð³Ð¾ Ð·Ð°Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¸Ñ";
+$MESS["IBLOCK_FORM_CAPTCHA_PROMPT"] = "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ ÑÐ»Ð¾Ð²Ð¾ Ñ ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ¸";
+$MESS["CT_BIEAF_PROPERTY_VALUE_NA"] = "(Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð¾)";
 ?>

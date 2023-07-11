@@ -1,6 +1,6 @@
 <?
-$MESS["BT_MOD_SALE_COND_IBLOCK_CONTROLGROUP_LABEL"] = "Ïîëÿ è õàðàêòåðèñòèêè òîâàðà â èíôîáëîêå";
-$MESS["BX_COND_CATALOG_SETTINGS_CONTROLGROUP_LABEL"] = "Óñëîâèÿ òîðãîâîãî êàòàëîãà";
-$MESS["BX_COND_CATALOG_RENEWAL_LABEL"] = "Ïðîäëåíèå ïîäïèñêè";
-$MESS["BX_COND_CATALOG_RENEWAL_PREFIX"] = "Èñïîëüçóåòñÿ äëÿ ïðîäëåíèÿ ïîäïèñêè";
+$MESS["BT_MOD_SALE_COND_IBLOCK_CONTROLGROUP_LABEL"] = "ÐŸÐ¾Ð»Ñ Ð¸ Ñ…Ð°Ñ€Ð°ÐºÑ‚ÐµÑ€Ð¸ÑÑ‚Ð¸ÐºÐ¸ Ñ‚Ð¾Ð²Ð°Ñ€Ð° Ð² Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐµ";
+$MESS["BX_COND_CATALOG_SETTINGS_CONTROLGROUP_LABEL"] = "Ð£ÑÐ»Ð¾Ð²Ð¸Ñ Ñ‚Ð¾Ñ€Ð³Ð¾Ð²Ð¾Ð³Ð¾ ÐºÐ°Ñ‚Ð°Ð»Ð¾Ð³Ð°";
+$MESS["BX_COND_CATALOG_RENEWAL_LABEL"] = "ÐŸÑ€Ð¾Ð´Ð»ÐµÐ½Ð¸Ðµ Ð¿Ð¾Ð´Ð¿Ð¸ÑÐºÐ¸";
+$MESS["BX_COND_CATALOG_RENEWAL_PREFIX"] = "Ð˜ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐµÑ‚ÑÑ Ð´Ð»Ñ Ð¿Ñ€Ð¾Ð´Ð»ÐµÐ½Ð¸Ñ Ð¿Ð¾Ð´Ð¿Ð¸ÑÐºÐ¸";
 ?>

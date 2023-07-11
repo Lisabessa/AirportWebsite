@@ -1,6 +1,6 @@
 <?
 $MESS ['OPENID_CLIENT_NO_OPENID_SERVER_TAG'] = "Cannot find OpenID Server TAG on Identity page";
-$MESS ['OPENID_CLIENT_EMPTY_IDENTITY'] = "Ïóñòîé openid";
-$MESS ['OPENID_CLIENT_CHECK_TRUST_PRIVIDERS_FAULT'] = "Äàííûé ïðîâàéäåð openid íå ïîääåðæèâàåòñÿ";
-$MESS ['OPENID_CLIENT_ERROR_AUTH'] = "Îøèáêà àóòåíòèôèêàöèè ÷åðåç openid";
+$MESS ['OPENID_CLIENT_EMPTY_IDENTITY'] = "ÐŸÑƒÑÑ‚Ð¾Ð¹ openid";
+$MESS ['OPENID_CLIENT_CHECK_TRUST_PRIVIDERS_FAULT'] = "Ð”Ð°Ð½Ð½Ñ‹Ð¹ Ð¿Ñ€Ð¾Ð²Ð°Ð¹Ð´ÐµÑ€ openid Ð½Ðµ Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶Ð¸Ð²Ð°ÐµÑ‚ÑÑ";
+$MESS ['OPENID_CLIENT_ERROR_AUTH'] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð°ÑƒÑ‚ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ†Ð¸Ð¸ Ñ‡ÐµÑ€ÐµÐ· openid";
 ?>

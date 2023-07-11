@@ -1,3 +1,3 @@
 <?
-$MESS["CONTROLLER_ERROR_ORDER_NOT_EXISTS"] = "Çàìîâëåííÿ íå ³ñíóº. [#ID#]";
+$MESS["CONTROLLER_ERROR_ORDER_NOT_EXISTS"] = "Ð—Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ Ð½Ðµ Ñ–ÑÐ½ÑƒÑ”. [#ID#]";
 ?>

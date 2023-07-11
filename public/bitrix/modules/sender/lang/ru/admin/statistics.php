@@ -1,30 +1,30 @@
 <?
-$MESS["SENDER_STATS_TITLE"] = "Ñòàðò";
-$MESS["SENDER_STATS_EFFICIENCY_TITLE"] = "Óðîâåíü ýôôåêòèâíîñòè";
-$MESS["SENDER_STATS_EFFICIENCY_LEVEL_1"] = "Ïëîõî";
-$MESS["SENDER_STATS_EFFICIENCY_LEVEL_2"] = "Íåïëîõî";
-$MESS["SENDER_STATS_EFFICIENCY_LEVEL_3"] = "Íîðìàëüíî";
-$MESS["SENDER_STATS_EFFICIENCY_LEVEL_4"] = "Õîðîøî";
-$MESS["SENDER_STATS_EFFICIENCY_LEVEL_5"] = "Îòëè÷íî";
+$MESS["SENDER_STATS_TITLE"] = "Ð¡Ñ‚Ð°Ñ€Ñ‚";
+$MESS["SENDER_STATS_EFFICIENCY_TITLE"] = "Ð£Ñ€Ð¾Ð²ÐµÐ½ÑŒ ÑÑ„Ñ„ÐµÐºÑ‚Ð¸Ð²Ð½Ð¾ÑÑ‚Ð¸";
+$MESS["SENDER_STATS_EFFICIENCY_LEVEL_1"] = "ÐŸÐ»Ð¾Ñ…Ð¾";
+$MESS["SENDER_STATS_EFFICIENCY_LEVEL_2"] = "ÐÐµÐ¿Ð»Ð¾Ñ…Ð¾";
+$MESS["SENDER_STATS_EFFICIENCY_LEVEL_3"] = "ÐÐ¾Ñ€Ð¼Ð°Ð»ÑŒÐ½Ð¾";
+$MESS["SENDER_STATS_EFFICIENCY_LEVEL_4"] = "Ð¥Ð¾Ñ€Ð¾ÑˆÐ¾";
+$MESS["SENDER_STATS_EFFICIENCY_LEVEL_5"] = "ÐžÑ‚Ð»Ð¸Ñ‡Ð½Ð¾";
 
-$MESS["SENDER_STATS_RECENT_POSTINGS"] = "Íåäàâíèå âûïóñêè";
-$MESS["SENDER_STATS_CREATE_NEW"] = "Ñîçäàòü íîâûé âûïóñê";
-$MESS["SENDER_STATS_CREATE_NEW_LETTER"] = "Ñîçäàòü íîâóþ ðàññûëêó";
+$MESS["SENDER_STATS_RECENT_POSTINGS"] = "ÐÐµÐ´Ð°Ð²Ð½Ð¸Ðµ Ð²Ñ‹Ð¿ÑƒÑÐºÐ¸";
+$MESS["SENDER_STATS_CREATE_NEW"] = "Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ Ð½Ð¾Ð²Ñ‹Ð¹ Ð²Ñ‹Ð¿ÑƒÑÐº";
+$MESS["SENDER_STATS_CREATE_NEW_LETTER"] = "Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ Ð½Ð¾Ð²ÑƒÑŽ Ñ€Ð°ÑÑÑ‹Ð»ÐºÑƒ";
 
-$MESS["SENDER_STATS_FILTER_PERIOD_FOR"] = "çà";
-$MESS["SENDER_STATS_FILTER_FROM_AUTHOR"] = "îò";
+$MESS["SENDER_STATS_FILTER_PERIOD_FOR"] = "Ð·Ð°";
+$MESS["SENDER_STATS_FILTER_FROM_AUTHOR"] = "Ð¾Ñ‚";
 
-$MESS["SENDER_STATS_COUNTER_SEND_ALL"] = "Âñåãî îòïðàâëåíî ïèñåì";
-$MESS["SENDER_STATS_COUNTER_READ"] = "Ïðî÷èòàííûõ";
-$MESS["SENDER_STATS_COUNTER_CLICK"] = "Ïåðåõîäû";
-$MESS["SENDER_STATS_COUNTER_UNSUB"] = "Îòïèñàëèñü";
-$MESS["SENDER_STATS_COUNTER_SUBS"] = "Ïîäïèñàëèñü";
-$MESS["SENDER_STATS_COUNTER_POSTINGS"] = "Êîëè÷åñòâî âûïóñêîâ";
+$MESS["SENDER_STATS_COUNTER_SEND_ALL"] = "Ð’ÑÐµÐ³Ð¾ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¾ Ð¿Ð¸ÑÐµÐ¼";
+$MESS["SENDER_STATS_COUNTER_READ"] = "ÐŸÑ€Ð¾Ñ‡Ð¸Ñ‚Ð°Ð½Ð½Ñ‹Ñ…";
+$MESS["SENDER_STATS_COUNTER_CLICK"] = "ÐŸÐµÑ€ÐµÑ…Ð¾Ð´Ñ‹";
+$MESS["SENDER_STATS_COUNTER_UNSUB"] = "ÐžÑ‚Ð¿Ð¸ÑÐ°Ð»Ð¸ÑÑŒ";
+$MESS["SENDER_STATS_COUNTER_SUBS"] = "ÐŸÐ¾Ð´Ð¿Ð¸ÑÐ°Ð»Ð¸ÑÑŒ";
+$MESS["SENDER_STATS_COUNTER_POSTINGS"] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ð²Ñ‹Ð¿ÑƒÑÐºÐ¾Ð²";
 
-$MESS["SENDER_STATS_CHART_EFFICIENCY"] = "Äèíàìèêà ýôôåêòèâíîñòè";
-$MESS["SENDER_STATS_CHART_READ"] = "Ïðî÷òåíèÿ";
-$MESS["SENDER_STATS_CHART_CLICK"] = "Êëèêè";
-$MESS["SENDER_STATS_CHART_UNSUB"] = "Îòïèñêè";
-$MESS["SENDER_STATS_NO_DATA"] = "Íåò äàííûõ";
-$MESS["SENDER_STATS_IN"] = "â";
+$MESS["SENDER_STATS_CHART_EFFICIENCY"] = "Ð”Ð¸Ð½Ð°Ð¼Ð¸ÐºÐ° ÑÑ„Ñ„ÐµÐºÑ‚Ð¸Ð²Ð½Ð¾ÑÑ‚Ð¸";
+$MESS["SENDER_STATS_CHART_READ"] = "ÐŸÑ€Ð¾Ñ‡Ñ‚ÐµÐ½Ð¸Ñ";
+$MESS["SENDER_STATS_CHART_CLICK"] = "ÐšÐ»Ð¸ÐºÐ¸";
+$MESS["SENDER_STATS_CHART_UNSUB"] = "ÐžÑ‚Ð¿Ð¸ÑÐºÐ¸";
+$MESS["SENDER_STATS_NO_DATA"] = "ÐÐµÑ‚ Ð´Ð°Ð½Ð½Ñ‹Ñ…";
+$MESS["SENDER_STATS_IN"] = "Ð²";
 ?>

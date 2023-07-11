@@ -1,4 +1,4 @@
 <?php
-$MESS["SALE_PAYABLE_ITEM_INCOMPATIBLE_TYPE"] = "Íåêîðåêòíèé òèï ñóòíîñò³. Êîëåêö³ÿ ï³äòðèìóº îá'ºêòè #CLASS#";
-$MESS["SALE_PAYABLE_ITEM_QUANTITY_ERROR"] = "Íåäîñòàòíÿ ê³ëüê³ñòü òîâàðó â êîøèêó";
-$MESS["SALE_PAYABLE_ITEM_SHIPMENT_QUANTITY_ERROR"] = "Çì³íà ê³ëüêîñò³ äëÿ äîñòàâêè íåäîñòóïíå";
+$MESS["SALE_PAYABLE_ITEM_INCOMPATIBLE_TYPE"] = "ÐÐµÐºÐ¾Ñ€ÐµÐºÑ‚Ð½Ð¸Ð¹ Ñ‚Ð¸Ð¿ ÑÑƒÑ‚Ð½Ð¾ÑÑ‚Ñ–. ÐšÐ¾Ð»ÐµÐºÑ†Ñ–Ñ Ð¿Ñ–Ð´Ñ‚Ñ€Ð¸Ð¼ÑƒÑ” Ð¾Ð±'Ñ”ÐºÑ‚Ð¸ #CLASS#";
+$MESS["SALE_PAYABLE_ITEM_QUANTITY_ERROR"] = "ÐÐµÐ´Ð¾ÑÑ‚Ð°Ñ‚Ð½Ñ ÐºÑ–Ð»ÑŒÐºÑ–ÑÑ‚ÑŒ Ñ‚Ð¾Ð²Ð°Ñ€Ñƒ Ð² ÐºÐ¾ÑˆÐ¸ÐºÑƒ";
+$MESS["SALE_PAYABLE_ITEM_SHIPMENT_QUANTITY_ERROR"] = "Ð—Ð¼Ñ–Ð½Ð° ÐºÑ–Ð»ÑŒÐºÐ¾ÑÑ‚Ñ– Ð´Ð»Ñ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸ Ð½ÐµÐ´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ðµ";

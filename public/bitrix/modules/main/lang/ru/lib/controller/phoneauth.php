@@ -1,6 +1,6 @@
 <?
-$MESS["main_register_incorrect_request"] = "Íåêîððåêòíûé çàïðîñ";
-$MESS["main_register_no_user"] = "Ïîëüçîâàòåëü íå íàéäåí";
-$MESS["main_err_confirm_code_format"] = "Íåâåðíûé êîä ïîäòâåðæäåíèÿ";
-$MESS["main_err_confirm"] = "Íåâåðíî ââåäåí êîä, ïðîâåðüòå ÑÌÑ è ïîâòîðèòå ââîä";
+$MESS["main_register_incorrect_request"] = "ÐÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ñ‹Ð¹ Ð·Ð°Ð¿Ñ€Ð¾Ñ";
+$MESS["main_register_no_user"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
+$MESS["main_err_confirm_code_format"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ ÐºÐ¾Ð´ Ð¿Ð¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð¸Ñ";
+$MESS["main_err_confirm"] = "ÐÐµÐ²ÐµÑ€Ð½Ð¾ Ð²Ð²ÐµÐ´ÐµÐ½ ÐºÐ¾Ð´, Ð¿Ñ€Ð¾Ð²ÐµÑ€ÑŒÑ‚Ðµ Ð¡ÐœÐ¡ Ð¸ Ð¿Ð¾Ð²Ñ‚Ð¾Ñ€Ð¸Ñ‚Ðµ Ð²Ð²Ð¾Ð´";
 ?>

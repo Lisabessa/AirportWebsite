@@ -1,10 +1,10 @@
 <?
-$MESS['SALE_FUSER_ENTITY_FIELD'] = 'Ïîñåòèòåëü';
+$MESS['SALE_FUSER_ENTITY_FIELD'] = 'ÐŸÐ¾ÑÐµÑ‚Ð¸Ñ‚ÐµÐ»ÑŒ';
 $MESS['SALE_FUSER_ENTITY_ID_FIELD'] = 'ID';
-$MESS['SALE_FUSER_ENTITY_DATE_INSERT_FIELD'] = 'Äàòà ñîçäàíèÿ';
-$MESS['SALE_FUSER_ENTITY_DATE_UPDATE_FIELD'] = 'Äàòà èçìåíåíèÿ';
-$MESS['SALE_FUSER_ENTITY_DATE_INS_FIELD'] = 'Äàòà ñîçäàíèÿ';
-$MESS['SALE_FUSER_ENTITY_DATE_UPD_FIELD'] = 'Äàòà èçìåíåíèÿ';
-$MESS['SALE_FUSER_ENTITY_USER_ID_FIELD'] = 'ID ïîêóïàòåëÿ';
-$MESS['SALE_FUSER_ENTITY_USER_FIELD'] = 'Ïîêóïàòåëü';
+$MESS['SALE_FUSER_ENTITY_DATE_INSERT_FIELD'] = 'Ð”Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ';
+$MESS['SALE_FUSER_ENTITY_DATE_UPDATE_FIELD'] = 'Ð”Ð°Ñ‚Ð° Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ';
+$MESS['SALE_FUSER_ENTITY_DATE_INS_FIELD'] = 'Ð”Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ';
+$MESS['SALE_FUSER_ENTITY_DATE_UPD_FIELD'] = 'Ð”Ð°Ñ‚Ð° Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ';
+$MESS['SALE_FUSER_ENTITY_USER_ID_FIELD'] = 'ID Ð¿Ð¾ÐºÑƒÐ¿Ð°Ñ‚ÐµÐ»Ñ';
+$MESS['SALE_FUSER_ENTITY_USER_FIELD'] = 'ÐŸÐ¾ÐºÑƒÐ¿Ð°Ñ‚ÐµÐ»ÑŒ';
 ?>

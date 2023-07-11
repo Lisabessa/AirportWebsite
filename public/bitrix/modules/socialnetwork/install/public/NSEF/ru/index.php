@@ -1,6 +1,6 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Ñîöèàëüíàÿ ñåòü");
+$APPLICATION->SetTitle("Ð¡Ð¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð°Ñ ÑÐµÑ‚ÑŒ");
 ?><?$APPLICATION->IncludeComponent("bitrix:socialnetwork", ".default", array(
 	"ITEM_DETAIL_COUNT" => "32",
 	"ITEM_MAIN_COUNT" => "6",

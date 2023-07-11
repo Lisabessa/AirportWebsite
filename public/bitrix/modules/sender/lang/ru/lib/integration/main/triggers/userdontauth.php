@@ -1,4 +1,4 @@
 <?
-$MESS["sender_trigger_user_dontauth_name"] = "Давно не заходил на сайт";
-$MESS["sender_trigger_user_dontauth_days"] = "Не заходил более(дней)";
+$MESS["sender_trigger_user_dontauth_name"] = "Р”Р°РІРЅРѕ РЅРµ Р·Р°С…РѕРґРёР» РЅР° СЃР°Р№С‚";
+$MESS["sender_trigger_user_dontauth_days"] = "РќРµ Р·Р°С…РѕРґРёР» Р±РѕР»РµРµ(РґРЅРµР№)";
 ?>

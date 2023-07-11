@@ -1,5 +1,5 @@
 <?
-$MESS["SALE_CASHBOX_OFDRU_SETTINGS_SELLER_INFO"] = "²íôîðìàö³ÿ ïðî ïðîäàâöÿ";
-$MESS["SALE_CASHBOX_OFDRU_SELLER_INN"] = "²ÏÍ";
-$MESS["SALE_CASHBOX_OFD_VALIDATE_E_INN"] = "Äëÿ äàíîãî ÎÔÄ íåîáõ³äíî çàçíà÷èòè ²ÏÍ ïðîäàâöÿ";
+$MESS["SALE_CASHBOX_OFDRU_SETTINGS_SELLER_INFO"] = "Ð†Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ñ–Ñ Ð¿Ñ€Ð¾ Ð¿Ñ€Ð¾Ð´Ð°Ð²Ñ†Ñ";
+$MESS["SALE_CASHBOX_OFDRU_SELLER_INN"] = "Ð†ÐŸÐ";
+$MESS["SALE_CASHBOX_OFD_VALIDATE_E_INN"] = "Ð”Ð»Ñ Ð´Ð°Ð½Ð¾Ð³Ð¾ ÐžÐ¤Ð” Ð½ÐµÐ¾Ð±Ñ…Ñ–Ð´Ð½Ð¾ Ð·Ð°Ð·Ð½Ð°Ñ‡Ð¸Ñ‚Ð¸ Ð†ÐŸÐ Ð¿Ñ€Ð¾Ð´Ð°Ð²Ñ†Ñ";
 ?>

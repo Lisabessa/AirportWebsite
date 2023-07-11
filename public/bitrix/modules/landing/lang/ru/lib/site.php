@@ -1,9 +1,9 @@
 <?php
-$MESS['LANDING_TYPE_PAGE'] = 'Ëåíäèíã';
-$MESS['LANDING_TYPE_STORE'] = 'Ìàãàçèí';
-$MESS['LANDING_TYPE_SMN'] = 'Ïðîåêò';
-$MESS['LANDING_TYPE_KNOWLEDGE'] = 'Áàçà çíàíèé';
-$MESS['LANDING_TYPE_GROUP'] = 'Ãðóïïû';
-$MESS['LANDING_EXPORT_ERROR'] = 'Ïàðàìåòð code ìîæåò ñîñòîÿòü òîëüêî èç ëàòèíñêèõ áóêâ è öèôð.';
-$MESS['LANDING_COPY_ERROR_SITE_NOT_FOUND'] = 'Ñàéò íå íàéäåí èëè äîñòóï ê íåìó çàïðåùåí.';
-$MESS['LANDING_CLB_ERROR_DELETE_SMN'] = 'Âàì íóæíî ñíà÷àëà óäàëèòü ñòðàíèöû ñîîòâåòñòâóþùåãî ñàéòà â ðàçäåëå Ñàéòû24.';
+$MESS['LANDING_TYPE_PAGE'] = 'Ð›ÐµÐ½Ð´Ð¸Ð½Ð³';
+$MESS['LANDING_TYPE_STORE'] = 'ÐœÐ°Ð³Ð°Ð·Ð¸Ð½';
+$MESS['LANDING_TYPE_SMN'] = 'ÐŸÑ€Ð¾ÐµÐºÑ‚';
+$MESS['LANDING_TYPE_KNOWLEDGE'] = 'Ð‘Ð°Ð·Ð° Ð·Ð½Ð°Ð½Ð¸Ð¹';
+$MESS['LANDING_TYPE_GROUP'] = 'Ð“Ñ€ÑƒÐ¿Ð¿Ñ‹';
+$MESS['LANDING_EXPORT_ERROR'] = 'ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€ code Ð¼Ð¾Ð¶ÐµÑ‚ ÑÐ¾ÑÑ‚Ð¾ÑÑ‚ÑŒ Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð¸Ð· Ð»Ð°Ñ‚Ð¸Ð½ÑÐºÐ¸Ñ… Ð±ÑƒÐºÐ² Ð¸ Ñ†Ð¸Ñ„Ñ€.';
+$MESS['LANDING_COPY_ERROR_SITE_NOT_FOUND'] = 'Ð¡Ð°Ð¹Ñ‚ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½ Ð¸Ð»Ð¸ Ð´Ð¾ÑÑ‚ÑƒÐ¿ Ðº Ð½ÐµÐ¼Ñƒ Ð·Ð°Ð¿Ñ€ÐµÑ‰ÐµÐ½.';
+$MESS['LANDING_CLB_ERROR_DELETE_SMN'] = 'Ð’Ð°Ð¼ Ð½ÑƒÐ¶Ð½Ð¾ ÑÐ½Ð°Ñ‡Ð°Ð»Ð° ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹ ÑÐ¾Ð¾Ñ‚Ð²ÐµÑ‚ÑÑ‚Ð²ÑƒÑŽÑ‰ÐµÐ³Ð¾ ÑÐ°Ð¹Ñ‚Ð° Ð² Ñ€Ð°Ð·Ð´ÐµÐ»Ðµ Ð¡Ð°Ð¹Ñ‚Ñ‹24.';

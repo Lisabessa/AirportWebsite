@@ -1,5 +1,5 @@
 <?if (!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED !== true) die();?><?
-// Файл принимает параметры, переданные методом GET и только в режиме PAYMENT
+// Р¤Р°Р№Р» РїСЂРёРЅРёРјР°РµС‚ РїР°СЂР°РјРµС‚СЂС‹, РїРµСЂРµРґР°РЅРЅС‹Рµ РјРµС‚РѕРґРѕРј GET Рё С‚РѕР»СЊРєРѕ РІ СЂРµР¶РёРјРµ PAYMENT
 if($mode == "PAYMENT")
 {
 	if(intval($issuer_id)>0)
@@ -24,14 +24,14 @@ if($mode == "PAYMENT")
 		if($bCorrectPayment)
 		{
 			$strPS_STATUS_DESCRIPTION = "";
-			$strPS_STATUS_DESCRIPTION .= "номер счета - ".$invoice."; ";
-			$strPS_STATUS_DESCRIPTION .= "номер платежа - ".$payment_id."; ";
-			$strPS_STATUS_DESCRIPTION .= "дата платежа - ".$date."";
-			$strPS_STATUS_DESCRIPTION .= "код подтверждения платежа - ".$confirmed."";
+			$strPS_STATUS_DESCRIPTION .= "РЅРѕРјРµСЂ СЃС‡РµС‚Р° - ".$invoice."; ";
+			$strPS_STATUS_DESCRIPTION .= "РЅРѕРјРµСЂ РїР»Р°С‚РµР¶Р° - ".$payment_id."; ";
+			$strPS_STATUS_DESCRIPTION .= "РґР°С‚Р° РїР»Р°С‚РµР¶Р° - ".$date."";
+			$strPS_STATUS_DESCRIPTION .= "РєРѕРґ РїРѕРґС‚РІРµСЂР¶РґРµРЅРёСЏ РїР»Р°С‚РµР¶Р° - ".$confirmed."";
 
 			$strPS_STATUS_MESSAGE = "";
 			if (isset($payer) && $payer <> '')
-				$strPS_STATUS_MESSAGE .= "e-mail покупателя - ".$payer."; ";
+				$strPS_STATUS_MESSAGE .= "e-mail РїРѕРєСѓРїР°С‚РµР»СЏ - ".$payer."; ";
 
 			$arFields = array(
 					"PS_STATUS" => "Y",
@@ -57,8 +57,8 @@ if($mode == "PAYMENT")
 		}
 	}
 	else 
-		echo "Код заказа не задан";
+		echo "РљРѕРґ Р·Р°РєР°Р·Р° РЅРµ Р·Р°РґР°РЅ";
 }
 else
-	echo "Вид операции не PAYMENT";
+	echo "Р’РёРґ РѕРїРµСЂР°С†РёРё РЅРµ PAYMENT";
 ?>

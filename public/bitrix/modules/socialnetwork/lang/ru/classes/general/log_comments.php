@@ -1,19 +1,19 @@
 <?
-$MESS["SONET_GLC_EMPTY_ENTITY_TYPE"] = "Íå óêàçàí òèï ñóùíîñòè";
-$MESS["SONET_GLC_ERROR_NO_ENTITY_TYPE"] = "Òèï ñóùíîñòè íå âåðåí";
-$MESS["SONET_GLC_EMPTY_ENTITY_ID"] = "Íå óêàçàí êîä ñóùíîñòè";
-$MESS["SONET_GLC_ERROR_CALC_ENTITY_TYPE"] = "Îøèáêà âû÷èñëåíèÿ òèïà ñóùíîñòè";
-$MESS["SONET_GLC_ERROR_NO_ENTITY_ID"] = "Êîä ñóùíîñòè íå âåðåí";
-$MESS["SONET_GLC_EMPTY_LOG_ID"] = "Êîä ñîáûòèÿ æèâîé ëåíòû íå âåðåí";
-$MESS["SONET_GLC_EMPTY_LOG_ID2"] = "Êîä ñîáûòèÿ ëåíòû íîâîñòåé íå âåðåí";
-$MESS["SONET_GLC_ERROR_NO_USER_ID"] = "Êîä ïîëüçîâàòåëÿ íå âåðåí";
-$MESS["SONET_GLC_EMPTY_EVENT_ID"] = "Íå óêàçàíî ñîáûòèå";
-$MESS["SONET_GLC_ERROR_NO_FEATURE_ID"] = "Ñîáûòèå óêàçàíî íå âåðíî";
-$MESS["SONET_GLC_EMPTY_DATE_CREATE"] = "Íåâåðíàÿ äàòà ñîçäàíèÿ";
-$MESS["SONET_GLC_WRONG_PARAMETER_ID"] = "Ïàðàìåòð ID íå âåðåí";
-$MESS["SONET_GLC_SEND_EVENT_LINK"] = "Ïåðåéòè: ";
-$MESS["SONET_GLC_ERROR_CHECKFIELDS_FAILED"] = "Íåêîððåêòíûå äàííûå";
-$MESS["SONET_GLC_FORUM_MENTION"] = "Óïîìÿíóë(à) âàñ â êîììåíòàðèè ê ñîîáùåíèþ ôîðóìà \"#title#\"";
-$MESS["SONET_GLC_FORUM_MENTION_M"] = "Óïîìÿíóë âàñ â êîììåíòàðèè ê ñîîáùåíèþ ôîðóìà \"#title#\"";
-$MESS["SONET_GLC_FORUM_MENTION_F"] = "Óïîìÿíóëà âàñ â êîììåíòàðèè ê ñîîáùåíèþ ôîðóìà \"#title#\"";
+$MESS["SONET_GLC_EMPTY_ENTITY_TYPE"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ñ‚Ð¸Ð¿ ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸";
+$MESS["SONET_GLC_ERROR_NO_ENTITY_TYPE"] = "Ð¢Ð¸Ð¿ ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸ Ð½Ðµ Ð²ÐµÑ€ÐµÐ½";
+$MESS["SONET_GLC_EMPTY_ENTITY_ID"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ ÐºÐ¾Ð´ ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸";
+$MESS["SONET_GLC_ERROR_CALC_ENTITY_TYPE"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð²Ñ‹Ñ‡Ð¸ÑÐ»ÐµÐ½Ð¸Ñ Ñ‚Ð¸Ð¿Ð° ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸";
+$MESS["SONET_GLC_ERROR_NO_ENTITY_ID"] = "ÐšÐ¾Ð´ ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸ Ð½Ðµ Ð²ÐµÑ€ÐµÐ½";
+$MESS["SONET_GLC_EMPTY_LOG_ID"] = "ÐšÐ¾Ð´ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ Ð¶Ð¸Ð²Ð¾Ð¹ Ð»ÐµÐ½Ñ‚Ñ‹ Ð½Ðµ Ð²ÐµÑ€ÐµÐ½";
+$MESS["SONET_GLC_EMPTY_LOG_ID2"] = "ÐšÐ¾Ð´ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ Ð»ÐµÐ½Ñ‚Ñ‹ Ð½Ð¾Ð²Ð¾ÑÑ‚ÐµÐ¹ Ð½Ðµ Ð²ÐµÑ€ÐµÐ½";
+$MESS["SONET_GLC_ERROR_NO_USER_ID"] = "ÐšÐ¾Ð´ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ Ð½Ðµ Ð²ÐµÑ€ÐµÐ½";
+$MESS["SONET_GLC_EMPTY_EVENT_ID"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ðµ";
+$MESS["SONET_GLC_ERROR_NO_FEATURE_ID"] = "Ð¡Ð¾Ð±Ñ‹Ñ‚Ð¸Ðµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾ Ð½Ðµ Ð²ÐµÑ€Ð½Ð¾";
+$MESS["SONET_GLC_EMPTY_DATE_CREATE"] = "ÐÐµÐ²ÐµÑ€Ð½Ð°Ñ Ð´Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ";
+$MESS["SONET_GLC_WRONG_PARAMETER_ID"] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€ ID Ð½Ðµ Ð²ÐµÑ€ÐµÐ½";
+$MESS["SONET_GLC_SEND_EVENT_LINK"] = "ÐŸÐµÑ€ÐµÐ¹Ñ‚Ð¸: ";
+$MESS["SONET_GLC_ERROR_CHECKFIELDS_FAILED"] = "ÐÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ñ‹Ðµ Ð´Ð°Ð½Ð½Ñ‹Ðµ";
+$MESS["SONET_GLC_FORUM_MENTION"] = "Ð£Ð¿Ð¾Ð¼ÑÐ½ÑƒÐ»(Ð°) Ð²Ð°Ñ Ð² ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¸ Ðº ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸ÑŽ Ñ„Ð¾Ñ€ÑƒÐ¼Ð° \"#title#\"";
+$MESS["SONET_GLC_FORUM_MENTION_M"] = "Ð£Ð¿Ð¾Ð¼ÑÐ½ÑƒÐ» Ð²Ð°Ñ Ð² ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¸ Ðº ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸ÑŽ Ñ„Ð¾Ñ€ÑƒÐ¼Ð° \"#title#\"";
+$MESS["SONET_GLC_FORUM_MENTION_F"] = "Ð£Ð¿Ð¾Ð¼ÑÐ½ÑƒÐ»Ð° Ð²Ð°Ñ Ð² ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¸ Ðº ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸ÑŽ Ñ„Ð¾Ñ€ÑƒÐ¼Ð° \"#title#\"";
 ?>

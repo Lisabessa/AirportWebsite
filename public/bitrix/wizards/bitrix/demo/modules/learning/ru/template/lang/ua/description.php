@@ -1,4 +1,4 @@
 <?
-$MESS["LEARNING_TEMPLATE_DESCRIPTION_NAME"] = "Ïðîõîäæåííÿ êóðñó íàâ÷àííÿ 9.1.0";
-$MESS["LEARNING_TEMPLATE_DESCRIPTION_DESC"] = "Øàáëîí ìîäóëÿ íàâ÷àííÿ";
+$MESS["LEARNING_TEMPLATE_DESCRIPTION_NAME"] = "ÐŸÑ€Ð¾Ñ…Ð¾Ð´Ð¶ÐµÐ½Ð½Ñ ÐºÑƒÑ€ÑÑƒ Ð½Ð°Ð²Ñ‡Ð°Ð½Ð½Ñ 9.1.0";
+$MESS["LEARNING_TEMPLATE_DESCRIPTION_DESC"] = "Ð¨Ð°Ð±Ð»Ð¾Ð½ Ð¼Ð¾Ð´ÑƒÐ»Ñ Ð½Ð°Ð²Ñ‡Ð°Ð½Ð½Ñ";
 ?>

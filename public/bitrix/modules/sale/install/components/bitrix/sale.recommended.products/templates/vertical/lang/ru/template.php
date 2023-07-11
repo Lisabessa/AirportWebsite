@@ -1,26 +1,26 @@
 <?
-$MESS["SRP_TPL_ELEMENT_DELETE_CONFIRM"] = "Áóäåò óäàëåíà âñÿ èíôîðìàöèÿ, ñâÿçàííàÿ ñ ýòîé çàïèñüþ. Ïðîäîëæèòü?";
-$MESS["SRP_TPL_MESS_BTN_BUY"] = "Êóïèòü";
-$MESS["SRP_TPL_MESS_BTN_ADD_TO_BASKET"] = "Â êîðçèíó";
-$MESS["SRP_TPL_MESS_PRODUCT_NOT_AVAILABLE"] = "Íåò â íàëè÷èè";
-$MESS["SRP_TPL_MESS_BTN_DETAIL"] = "Ïîäðîáíåå";
-$MESS["SRP_TPL_MESS_BTN_SUBSCRIBE"] = "Ïîäïèñàòüñÿ";
-$MESS["SRP_CATALOG_SET_BUTTON_BUY"] = "Ïåðåéòè â êîðçèíó";
-$MESS["SRP_ADD_TO_BASKET_OK"] = "Òîâàð äîáàâëåí â êîðçèíó";
-$MESS["SRP_TPL_MESS_PRICE_SIMPLE_MODE"] = "îò #PRICE# çà #MEASURE#";
+$MESS["SRP_TPL_ELEMENT_DELETE_CONFIRM"] = "Ð‘ÑƒÐ´ÐµÑ‚ ÑƒÐ´Ð°Ð»ÐµÐ½Ð° Ð²ÑÑ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ñ, ÑÐ²ÑÐ·Ð°Ð½Ð½Ð°Ñ Ñ ÑÑ‚Ð¾Ð¹ Ð·Ð°Ð¿Ð¸ÑÑŒÑŽ. ÐŸÑ€Ð¾Ð´Ð¾Ð»Ð¶Ð¸Ñ‚ÑŒ?";
+$MESS["SRP_TPL_MESS_BTN_BUY"] = "ÐšÑƒÐ¿Ð¸Ñ‚ÑŒ";
+$MESS["SRP_TPL_MESS_BTN_ADD_TO_BASKET"] = "Ð’ ÐºÐ¾Ñ€Ð·Ð¸Ð½Ñƒ";
+$MESS["SRP_TPL_MESS_PRODUCT_NOT_AVAILABLE"] = "ÐÐµÑ‚ Ð² Ð½Ð°Ð»Ð¸Ñ‡Ð¸Ð¸";
+$MESS["SRP_TPL_MESS_BTN_DETAIL"] = "ÐŸÐ¾Ð´Ñ€Ð¾Ð±Ð½ÐµÐµ";
+$MESS["SRP_TPL_MESS_BTN_SUBSCRIBE"] = "ÐŸÐ¾Ð´Ð¿Ð¸ÑÐ°Ñ‚ÑŒÑÑ";
+$MESS["SRP_CATALOG_SET_BUTTON_BUY"] = "ÐŸÐµÑ€ÐµÐ¹Ñ‚Ð¸ Ð² ÐºÐ¾Ñ€Ð·Ð¸Ð½Ñƒ";
+$MESS["SRP_ADD_TO_BASKET_OK"] = "Ð¢Ð¾Ð²Ð°Ñ€ Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½ Ð² ÐºÐ¾Ñ€Ð·Ð¸Ð½Ñƒ";
+$MESS["SRP_TPL_MESS_PRICE_SIMPLE_MODE"] = "Ð¾Ñ‚ #PRICE# Ð·Ð° #MEASURE#";
 $MESS["SRP_TPL_MESS_MEASURE_SIMPLE_MODE"] = "#VALUE# #UNIT#";
-$MESS["SRP_TPL_MESS_BTN_COMPARE"] = "Ñðàâíèòü";
-$MESS["SRP_ADD_TO_BASKET_OK"] = "Òîâàð äîáàâëåí â êîðçèíó";
-$MESS["SRP_CATALOG_TITLE_ERROR"] = "Îøèáêà";
-$MESS["SRP_CATALOG_TITLE_BASKET_PROPS"] = "Ñâîéñòâà òîâàðà, äîáàâëÿåìûå â êîðçèíó";
-$MESS["SRP_CATALOG_BASKET_UNKNOWN_ERROR"] = "Íåèçâåñòíàÿ îøèáêà ïðè äîáàâëåíèè òîâàðà â êîðçèíó";
-$MESS["SRP_CATALOG_BTN_MESSAGE_CLOSE"] = "Çàêðûòü";
-$MESS["SRP_CATALOG_BTN_MESSAGE_BASKET_REDIRECT"] = "Ïåðåéòè â êîðçèíó";
-$MESS["SRP_CATALOG_BTN_MESSAGE_SEND_PROPS"] = "Âûáðàòü";
-$MESS["SRP_NO_PRODUCTS"] = "Íåò òîâàðîâ.";
+$MESS["SRP_TPL_MESS_BTN_COMPARE"] = "Ð¡Ñ€Ð°Ð²Ð½Ð¸Ñ‚ÑŒ";
+$MESS["SRP_ADD_TO_BASKET_OK"] = "Ð¢Ð¾Ð²Ð°Ñ€ Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½ Ð² ÐºÐ¾Ñ€Ð·Ð¸Ð½Ñƒ";
+$MESS["SRP_CATALOG_TITLE_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ°";
+$MESS["SRP_CATALOG_TITLE_BASKET_PROPS"] = "Ð¡Ð²Ð¾Ð¹ÑÑ‚Ð²Ð° Ñ‚Ð¾Ð²Ð°Ñ€Ð°, Ð´Ð¾Ð±Ð°Ð²Ð»ÑÐµÐ¼Ñ‹Ðµ Ð² ÐºÐ¾Ñ€Ð·Ð¸Ð½Ñƒ";
+$MESS["SRP_CATALOG_BASKET_UNKNOWN_ERROR"] = "ÐÐµÐ¸Ð·Ð²ÐµÑÑ‚Ð½Ð°Ñ Ð¾ÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ð¸ Ñ‚Ð¾Ð²Ð°Ñ€Ð° Ð² ÐºÐ¾Ñ€Ð·Ð¸Ð½Ñƒ";
+$MESS["SRP_CATALOG_BTN_MESSAGE_CLOSE"] = "Ð—Ð°ÐºÑ€Ñ‹Ñ‚ÑŒ";
+$MESS["SRP_CATALOG_BTN_MESSAGE_BASKET_REDIRECT"] = "ÐŸÐµÑ€ÐµÐ¹Ñ‚Ð¸ Ð² ÐºÐ¾Ñ€Ð·Ð¸Ð½Ñƒ";
+$MESS["SRP_CATALOG_BTN_MESSAGE_SEND_PROPS"] = "Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ";
+$MESS["SRP_NO_PRODUCTS"] = "ÐÐµÑ‚ Ñ‚Ð¾Ð²Ð°Ñ€Ð¾Ð².";
 
-$MESS ['SRP_QUANTITY'] = "Êîëè÷åñòâó";
-$MESS ['SRP_HREF_TITLE'] = "Ñ ýòèì òîâàðîì ïîêóïàþò";
+$MESS ['SRP_QUANTITY'] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ñƒ";
+$MESS ['SRP_HREF_TITLE'] = "Ð¡ ÑÑ‚Ð¸Ð¼ Ñ‚Ð¾Ð²Ð°Ñ€Ð¾Ð¼ Ð¿Ð¾ÐºÑƒÐ¿Ð°ÑŽÑ‚";
 
 
 ?>

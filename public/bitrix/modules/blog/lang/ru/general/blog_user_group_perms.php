@@ -1,9 +1,9 @@
 <?
-$MESS["BLG_GUGP_EMPTY_BLOG_ID"] = "Íå óêàçàí áëîã ãðóïïû ïîëüçîâàòåëåé";
-$MESS["BLG_GUGP_ERROR_NO_BLOG"] = "Áëîã ñ êîäîì &quot;#ID#&quot; íå íàéäåí";
-$MESS["BLG_GUGP_EMPTY_USER_GROUP_ID"] = "Íå óêàçàíà ãðóïïà ïîëüçîâàòåëåé";
-$MESS["BLG_GUGP_ERROR_NO_USER_GROUP"] = "Ãðóïïà ïîëüçîâàòåëåé ñ êîäîì &quot;#ID#&quot; íå íàéäåíà";
-$MESS["BLG_GUGP_EMPTY_PERMS_TYPE"] = "Íå óêàçàí òèï ïðàâ";
-$MESS["BLG_GUGP_EMPTY_PERMS"] = "Íå óêàçàíû ïðàâà";
-$MESS["BLG_GUGP_ERROR_NO_PERMS"] = "Ïðàâ ñ êîäîì &quot;#ID#&quot; íå ñóùåñòâóåò";
+$MESS["BLG_GUGP_EMPTY_BLOG_ID"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ð±Ð»Ð¾Ð³ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÐµÐ¹";
+$MESS["BLG_GUGP_ERROR_NO_BLOG"] = "Ð‘Ð»Ð¾Ð³ Ñ ÐºÐ¾Ð´Ð¾Ð¼ &quot;#ID#&quot; Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
+$MESS["BLG_GUGP_EMPTY_USER_GROUP_ID"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð° Ð³Ñ€ÑƒÐ¿Ð¿Ð° Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÐµÐ¹";
+$MESS["BLG_GUGP_ERROR_NO_USER_GROUP"] = "Ð“Ñ€ÑƒÐ¿Ð¿Ð° Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÐµÐ¹ Ñ ÐºÐ¾Ð´Ð¾Ð¼ &quot;#ID#&quot; Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð°";
+$MESS["BLG_GUGP_EMPTY_PERMS_TYPE"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ñ‚Ð¸Ð¿ Ð¿Ñ€Ð°Ð²";
+$MESS["BLG_GUGP_EMPTY_PERMS"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ñ‹ Ð¿Ñ€Ð°Ð²Ð°";
+$MESS["BLG_GUGP_ERROR_NO_PERMS"] = "ÐŸÑ€Ð°Ð² Ñ ÐºÐ¾Ð´Ð¾Ð¼ &quot;#ID#&quot; Ð½Ðµ ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÐµÑ‚";
 ?>

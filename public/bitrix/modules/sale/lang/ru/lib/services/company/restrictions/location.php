@@ -1,4 +1,4 @@
 <?php
-$MESS['SALE_COMPANY_RULES_BY_LOCATION'] = 'Местоположение';
-$MESS['SALE_COMPANY_RULES_BY_LOCATION_TITLE'] = 'по местоположению';
-$MESS['SALE_COMPANY_RULES_BY_LOCATION_DESC'] = 'по местоположению';
+$MESS['SALE_COMPANY_RULES_BY_LOCATION'] = 'РњРµСЃС‚РѕРїРѕР»РѕР¶РµРЅРёРµ';
+$MESS['SALE_COMPANY_RULES_BY_LOCATION_TITLE'] = 'РїРѕ РјРµСЃС‚РѕРїРѕР»РѕР¶РµРЅРёСЋ';
+$MESS['SALE_COMPANY_RULES_BY_LOCATION_DESC'] = 'РїРѕ РјРµСЃС‚РѕРїРѕР»РѕР¶РµРЅРёСЋ';

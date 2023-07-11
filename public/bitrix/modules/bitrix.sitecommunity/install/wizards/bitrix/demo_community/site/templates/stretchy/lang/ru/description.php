@@ -1,4 +1,4 @@
 <?
-$MESS["WIDE_TEMPLATE_DESCRIPTION_NAME"] = "Øèðîêèé";
-$MESS["WIDE_TEMPLATE_DESCRIPTION_DESC"] = "&quot;Ðåçèíîâûé&quot; øàáëîí, øèðèíà êîòîðîãî çàâèñèò îò îêíà áðàóçåðà.";
+$MESS["WIDE_TEMPLATE_DESCRIPTION_NAME"] = "Ð¨Ð¸Ñ€Ð¾ÐºÐ¸Ð¹";
+$MESS["WIDE_TEMPLATE_DESCRIPTION_DESC"] = "&quot;Ð ÐµÐ·Ð¸Ð½Ð¾Ð²Ñ‹Ð¹&quot; ÑˆÐ°Ð±Ð»Ð¾Ð½, ÑˆÐ¸Ñ€Ð¸Ð½Ð° ÐºÐ¾Ñ‚Ð¾Ñ€Ð¾Ð³Ð¾ Ð·Ð°Ð²Ð¸ÑÐ¸Ñ‚ Ð¾Ñ‚ Ð¾ÐºÐ½Ð° Ð±Ñ€Ð°ÑƒÐ·ÐµÑ€Ð°.";
 ?>

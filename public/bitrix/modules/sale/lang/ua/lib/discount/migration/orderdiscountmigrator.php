@@ -1,10 +1,10 @@
 <?
-$MESS["SALE_ORDER_DISCOUNT_MIGRATOR_ERR_EMPTY_ORDER_ID"] = "Â³äñóòí³é ³äåíòèô³êàòîð çàìîâëåííÿ";
-$MESS["SALE_ORDER_DISCOUNT_MIGRATOR_ERR_SAVE_MIGRATE_DISCOUNT"] = "Ïîìèëêà êîíâåðòàö³¿";
-$MESS["SALE_ORDER_DISCOUNT_MIGRATOR_MESS_CATALOG_DISCOUNT_NAME"] = "Çíèæêà íà òîâàðè";
-$MESS["SALE_ORDER_DISCOUNT_MIGRATOR_MESS_CATALOG_DISCOUNT_SIMPLE_MESS"] = "çíèæêà";
-$MESS["SALE_ORDER_DISCOUNT_MIGRATOR_MESS_TYPE_ACCUMULATE_EMPTY"] = "íàêîïè÷óâàëüíà çíèæêà";
-$MESS["SALE_ORDER_DISCOUNT_MIGRATOR_ERR_BAD_PREPARE_DISCOUNT"] = "Çíèæêà íà òîâàð íå çíàéäåíà àáî íå ìîæå áóòè ïåðåòâîðåíà äî ôîðìàòó ìàãàçèíó";
-$MESS["SALE_ORDER_DISCOUNT_MIGRATOR_ERR_BAD_DISCOUNT_HASH"] = "Íåìîæëèâî çãåíåðóâàòè õåø çíèæêè íà òîâàð/ïðàâèëà êîøèêà";
-$MESS["SALE_ORDER_DISCOUNT_MIGRATOR_ERR_SAVE_DISCOUNT_MODULES"] = "Ïîìèëêà ïðè çáåðåæåíí³ ñïèñêó ìîäóë³â çíèæêè íà òîâàð/ïðàâèëà êîøèêà";
+$MESS["SALE_ORDER_DISCOUNT_MIGRATOR_ERR_EMPTY_ORDER_ID"] = "Ð’Ñ–Ð´ÑÑƒÑ‚Ð½Ñ–Ð¹ Ñ–Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÐ°Ñ‚Ð¾Ñ€ Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ";
+$MESS["SALE_ORDER_DISCOUNT_MIGRATOR_ERR_SAVE_MIGRATE_DISCOUNT"] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ° ÐºÐ¾Ð½Ð²ÐµÑ€Ñ‚Ð°Ñ†Ñ–Ñ—";
+$MESS["SALE_ORDER_DISCOUNT_MIGRATOR_MESS_CATALOG_DISCOUNT_NAME"] = "Ð—Ð½Ð¸Ð¶ÐºÐ° Ð½Ð° Ñ‚Ð¾Ð²Ð°Ñ€Ð¸";
+$MESS["SALE_ORDER_DISCOUNT_MIGRATOR_MESS_CATALOG_DISCOUNT_SIMPLE_MESS"] = "Ð·Ð½Ð¸Ð¶ÐºÐ°";
+$MESS["SALE_ORDER_DISCOUNT_MIGRATOR_MESS_TYPE_ACCUMULATE_EMPTY"] = "Ð½Ð°ÐºÐ¾Ð¿Ð¸Ñ‡ÑƒÐ²Ð°Ð»ÑŒÐ½Ð° Ð·Ð½Ð¸Ð¶ÐºÐ°";
+$MESS["SALE_ORDER_DISCOUNT_MIGRATOR_ERR_BAD_PREPARE_DISCOUNT"] = "Ð—Ð½Ð¸Ð¶ÐºÐ° Ð½Ð° Ñ‚Ð¾Ð²Ð°Ñ€ Ð½Ðµ Ð·Ð½Ð°Ð¹Ð´ÐµÐ½Ð° Ð°Ð±Ð¾ Ð½Ðµ Ð¼Ð¾Ð¶Ðµ Ð±ÑƒÑ‚Ð¸ Ð¿ÐµÑ€ÐµÑ‚Ð²Ð¾Ñ€ÐµÐ½Ð° Ð´Ð¾ Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚Ñƒ Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ñƒ";
+$MESS["SALE_ORDER_DISCOUNT_MIGRATOR_ERR_BAD_DISCOUNT_HASH"] = "ÐÐµÐ¼Ð¾Ð¶Ð»Ð¸Ð²Ð¾ Ð·Ð³ÐµÐ½ÐµÑ€ÑƒÐ²Ð°Ñ‚Ð¸ Ñ…ÐµÑˆ Ð·Ð½Ð¸Ð¶ÐºÐ¸ Ð½Ð° Ñ‚Ð¾Ð²Ð°Ñ€/Ð¿Ñ€Ð°Ð²Ð¸Ð»Ð° ÐºÐ¾ÑˆÐ¸ÐºÐ°";
+$MESS["SALE_ORDER_DISCOUNT_MIGRATOR_ERR_SAVE_DISCOUNT_MODULES"] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ° Ð¿Ñ€Ð¸ Ð·Ð±ÐµÑ€ÐµÐ¶ÐµÐ½Ð½Ñ– ÑÐ¿Ð¸ÑÐºÑƒ Ð¼Ð¾Ð´ÑƒÐ»Ñ–Ð² Ð·Ð½Ð¸Ð¶ÐºÐ¸ Ð½Ð° Ñ‚Ð¾Ð²Ð°Ñ€/Ð¿Ñ€Ð°Ð²Ð¸Ð»Ð° ÐºÐ¾ÑˆÐ¸ÐºÐ°";
 ?>

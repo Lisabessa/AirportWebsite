@@ -1,3 +1,3 @@
 <?
-$MESS["SALE_DLVRS_ADD_ESI_TITLE"] = "Ñòðàõîâàíèå ãðóçà";
-$MESS["SALE_DLVRS_ADD_ESI_PARAMS_NAME"] = "Ðàçìåð ñáîðà ñòðàõîâàíèÿ";
+$MESS["SALE_DLVRS_ADD_ESI_TITLE"] = "Ð¡Ñ‚Ñ€Ð°Ñ…Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð³Ñ€ÑƒÐ·Ð°";
+$MESS["SALE_DLVRS_ADD_ESI_PARAMS_NAME"] = "Ð Ð°Ð·Ð¼ÐµÑ€ ÑÐ±Ð¾Ñ€Ð° ÑÑ‚Ñ€Ð°Ñ…Ð¾Ð²Ð°Ð½Ð¸Ñ";

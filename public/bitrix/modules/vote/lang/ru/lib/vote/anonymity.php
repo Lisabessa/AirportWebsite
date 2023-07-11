@@ -1,6 +1,6 @@
 <?
-$MESS["VOTE_ANONYMITY_TITLE"] = "Уровень анонимности";
-$MESS["VOTE_ANONYMITY_TYPE_UNDEFINED"] = "обычный (пользователь сам решает)";
-$MESS["VOTE_ANONYMITY_TYPE_PUBLICLY"] = "публичный (все голоса видны)";
-$MESS["VOTE_ANONYMITY_TYPE_ANONYMOUSLY"] = "анонимный";
+$MESS["VOTE_ANONYMITY_TITLE"] = "РЈСЂРѕРІРµРЅСЊ Р°РЅРѕРЅРёРјРЅРѕСЃС‚Рё";
+$MESS["VOTE_ANONYMITY_TYPE_UNDEFINED"] = "РѕР±С‹С‡РЅС‹Р№ (РїРѕР»СЊР·РѕРІР°С‚РµР»СЊ СЃР°Рј СЂРµС€Р°РµС‚)";
+$MESS["VOTE_ANONYMITY_TYPE_PUBLICLY"] = "РїСѓР±Р»РёС‡РЅС‹Р№ (РІСЃРµ РіРѕР»РѕСЃР° РІРёРґРЅС‹)";
+$MESS["VOTE_ANONYMITY_TYPE_ANONYMOUSLY"] = "Р°РЅРѕРЅРёРјРЅС‹Р№";
 ?>

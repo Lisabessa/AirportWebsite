@@ -1,21 +1,21 @@
 <?
-$MESS['SL_IMPORT_ERROR_FILES'] = 'Ошибка! Неверные имена файлов.';
-$MESS['SL_IMPORT_ERROR_NO_LOC_FILE'] = "Нет загруженного файла местоположений";
-$MESS['SL_IMPORT_ERROR_WRONG_LOC_FILE'] = "Неверный формат файла местоположений";
-$MESS['SL_IMPORT_LOC_STATS'] = "Местоположения:<ul>
-<li>стран загружено: #NUMCOUNTRIES#</li>
-<li>регионов загружено: #NUMREGIONES#</li>
-<li>городов загружено: #NUMCITIES#</li>
-<li>Всего местоположений: #NUMLOCATIONS#</li>
+$MESS['SL_IMPORT_ERROR_FILES'] = 'РћС€РёР±РєР°! РќРµРІРµСЂРЅС‹Рµ РёРјРµРЅР° С„Р°Р№Р»РѕРІ.';
+$MESS['SL_IMPORT_ERROR_NO_LOC_FILE'] = "РќРµС‚ Р·Р°РіСЂСѓР¶РµРЅРЅРѕРіРѕ С„Р°Р№Р»Р° РјРµСЃС‚РѕРїРѕР»РѕР¶РµРЅРёР№";
+$MESS['SL_IMPORT_ERROR_WRONG_LOC_FILE'] = "РќРµРІРµСЂРЅС‹Р№ С„РѕСЂРјР°С‚ С„Р°Р№Р»Р° РјРµСЃС‚РѕРїРѕР»РѕР¶РµРЅРёР№";
+$MESS['SL_IMPORT_LOC_STATS'] = "РњРµСЃС‚РѕРїРѕР»РѕР¶РµРЅРёСЏ:<ul>
+<li>СЃС‚СЂР°РЅ Р·Р°РіСЂСѓР¶РµРЅРѕ: #NUMCOUNTRIES#</li>
+<li>СЂРµРіРёРѕРЅРѕРІ Р·Р°РіСЂСѓР¶РµРЅРѕ: #NUMREGIONES#</li>
+<li>РіРѕСЂРѕРґРѕРІ Р·Р°РіСЂСѓР¶РµРЅРѕ: #NUMCITIES#</li>
+<li>Р’СЃРµРіРѕ РјРµСЃС‚РѕРїРѕР»РѕР¶РµРЅРёР№: #NUMLOCATIONS#</li>
 </ul>";
-$MESS['SL_IMPORT_ERROR_NO_LANG'] = "Не найден язык";
-$MESS['SL_IMPORT_ZIP_STATS'] = "Индексы:<ul>
-<li>индексов загружено: #NUMZIP#</li>
-<li>для городов: #NUMCITIES#</li>
+$MESS['SL_IMPORT_ERROR_NO_LANG'] = "РќРµ РЅР°Р№РґРµРЅ СЏР·С‹Рє";
+$MESS['SL_IMPORT_ZIP_STATS'] = "РРЅРґРµРєСЃС‹:<ul>
+<li>РёРЅРґРµРєСЃРѕРІ Р·Р°РіСЂСѓР¶РµРЅРѕ: #NUMZIP#</li>
+<li>РґР»СЏ РіРѕСЂРѕРґРѕРІ: #NUMCITIES#</li>
 </ul>";
-$MESS['SL_IMPORT_ERROR_NO_ZIP_FILE'] = "Нет файла с индексами";
-$MESS['SL_IMPORT_ALL_DONE'] = 'Обработка завершена.';
-$MESS['SL_LOADER_FILE_LOADED'] = 'Загружен файл';
-$MESS['SL_LOADER_FILE_ERROR'] = 'Не удалось загрузить файл';
-$MESS['SL_MODULE_SALE_NOT_INSTALLED'] = 'Модуль "Интернет-магазин" не установлен';
+$MESS['SL_IMPORT_ERROR_NO_ZIP_FILE'] = "РќРµС‚ С„Р°Р№Р»Р° СЃ РёРЅРґРµРєСЃР°РјРё";
+$MESS['SL_IMPORT_ALL_DONE'] = 'РћР±СЂР°Р±РѕС‚РєР° Р·Р°РІРµСЂС€РµРЅР°.';
+$MESS['SL_LOADER_FILE_LOADED'] = 'Р—Р°РіСЂСѓР¶РµРЅ С„Р°Р№Р»';
+$MESS['SL_LOADER_FILE_ERROR'] = 'РќРµ СѓРґР°Р»РѕСЃСЊ Р·Р°РіСЂСѓР·РёС‚СЊ С„Р°Р№Р»';
+$MESS['SL_MODULE_SALE_NOT_INSTALLED'] = 'РњРѕРґСѓР»СЊ "РРЅС‚РµСЂРЅРµС‚-РјР°РіР°Р·РёРЅ" РЅРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅ';
 ?>

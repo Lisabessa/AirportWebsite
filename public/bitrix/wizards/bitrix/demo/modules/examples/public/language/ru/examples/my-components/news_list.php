@@ -1,6 +1,6 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Ñïèñîê íîâîñòåé");
+$APPLICATION->SetTitle("Ğ¡Ğ¿Ğ¸ÑĞ¾Ğº Ğ½Ğ¾Ğ²Ğ¾ÑÑ‚ĞµĞ¹");
 ?><?$APPLICATION->IncludeComponent("demo:news.line", ".default", Array(
 	"IBLOCK_TYPE"	=>	"news",
 	"IBLOCKS"	=>	array(

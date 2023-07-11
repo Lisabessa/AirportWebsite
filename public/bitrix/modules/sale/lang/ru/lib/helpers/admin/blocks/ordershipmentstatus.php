@@ -1,3 +1,3 @@
 <?
-$MESS['SALE_ORDER_SHIPMENT_STATUS'] = 'Ñòàòóñ îòãðóçêè';
+$MESS['SALE_ORDER_SHIPMENT_STATUS'] = 'Ð¡Ñ‚Ð°Ñ‚ÑƒÑ Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸';
 

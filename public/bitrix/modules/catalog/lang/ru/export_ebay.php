@@ -1,4 +1,4 @@
 <?
-$MESS["EBAY_ERR_BAD_PRICE_TYPE"] = "Çàäàí íåâåðíûé òèï öåí äëÿ âûãðóçêè";
-$MESS["EBAY_ERR_FILE_OPEN_WRITING"] = "Íåâîçìîæíî îòêðûòü ôàéë #FILE# äëÿ çàïèñè";
-$MESS["EBAY_ERR_SETUP_FILE_WRITE"] = "Çàïèñü â ôàéë #FILE# íåâîçìîæíà";
+$MESS["EBAY_ERR_BAD_PRICE_TYPE"] = "Ð—Ð°Ð´Ð°Ð½ Ð½ÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ñ‚Ð¸Ð¿ Ñ†ÐµÐ½ Ð´Ð»Ñ Ð²Ñ‹Ð³Ñ€ÑƒÐ·ÐºÐ¸";
+$MESS["EBAY_ERR_FILE_OPEN_WRITING"] = "ÐÐµÐ²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ Ð¾Ñ‚ÐºÑ€Ñ‹Ñ‚ÑŒ Ñ„Ð°Ð¹Ð» #FILE# Ð´Ð»Ñ Ð·Ð°Ð¿Ð¸ÑÐ¸";
+$MESS["EBAY_ERR_SETUP_FILE_WRITE"] = "Ð—Ð°Ð¿Ð¸ÑÑŒ Ð² Ñ„Ð°Ð¹Ð» #FILE# Ð½ÐµÐ²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð°";

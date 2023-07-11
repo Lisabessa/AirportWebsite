@@ -1,8 +1,8 @@
 <?
-$MESS["SEARCH_MODULE_NAME"] = "Ïîèñê";
-$MESS["SEARCH_MODULE_DESC"] = "Ïîèñêîâûé ìîäóëü, îñóùåñòâëÿþùèé èíäåêñèðîâàíèå è ïîèñê íà ñàéòå.";
-$MESS["SEARCH_INSTALL_TITLE"] = "Óñòàíîâêà ìîäóëÿ Ïîèñê";
-$MESS["SEARCH_UNINSTALL_TITLE"] = "Óäàëåíèå ìîäóëÿ Ïîèñê";
-$MESS["SEARCH_INSTALL_DATABASE"] = "Áàçà äàííûõ äëÿ óñòàíîâêè ìîäóëÿ:";
-$MESS["SEARCH_MAIN_DATABASE"] = "ãëàâíàÿ";
+$MESS["SEARCH_MODULE_NAME"] = "ÐŸÐ¾Ð¸ÑÐº";
+$MESS["SEARCH_MODULE_DESC"] = "ÐŸÐ¾Ð¸ÑÐºÐ¾Ð²Ñ‹Ð¹ Ð¼Ð¾Ð´ÑƒÐ»ÑŒ, Ð¾ÑÑƒÑ‰ÐµÑÑ‚Ð²Ð»ÑÑŽÑ‰Ð¸Ð¹ Ð¸Ð½Ð´ÐµÐºÑÐ¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð¸ Ð¿Ð¾Ð¸ÑÐº Ð½Ð° ÑÐ°Ð¹Ñ‚Ðµ.";
+$MESS["SEARCH_INSTALL_TITLE"] = "Ð£ÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ° Ð¼Ð¾Ð´ÑƒÐ»Ñ ÐŸÐ¾Ð¸ÑÐº";
+$MESS["SEARCH_UNINSTALL_TITLE"] = "Ð£Ð´Ð°Ð»ÐµÐ½Ð¸Ðµ Ð¼Ð¾Ð´ÑƒÐ»Ñ ÐŸÐ¾Ð¸ÑÐº";
+$MESS["SEARCH_INSTALL_DATABASE"] = "Ð‘Ð°Ð·Ð° Ð´Ð°Ð½Ð½Ñ‹Ñ… Ð´Ð»Ñ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ¸ Ð¼Ð¾Ð´ÑƒÐ»Ñ:";
+$MESS["SEARCH_MAIN_DATABASE"] = "Ð³Ð»Ð°Ð²Ð½Ð°Ñ";
 ?>

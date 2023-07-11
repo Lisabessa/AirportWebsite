@@ -1,4 +1,4 @@
 <?php
-$MESS['REST_HOOK_SELECTED'] = 'Âûáðàíî';
-$MESS["REST_HOOK_DELETE_CONFIRM"] = "Âû óâåðåíû, ÷òî õîòèòå óäàëèòü âåáõóê?";
-$MESS["REST_HOOK_DELETE_ERROR"] = "Îøèáêà! Âåáõóê íå áûë óäàëåí.";
+$MESS['REST_HOOK_SELECTED'] = 'Ð’Ñ‹Ð±Ñ€Ð°Ð½Ð¾';
+$MESS["REST_HOOK_DELETE_CONFIRM"] = "Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹, Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ Ð²ÐµÐ±Ñ…ÑƒÐº?";
+$MESS["REST_HOOK_DELETE_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ°! Ð’ÐµÐ±Ñ…ÑƒÐº Ð½Ðµ Ð±Ñ‹Ð» ÑƒÐ´Ð°Ð»ÐµÐ½.";

@@ -1,8 +1,8 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Блог-лента");
+$APPLICATION->SetTitle("Р‘Р»РѕРі-Р»РµРЅС‚Р°");
 ?>
-<p>Пример настройки форумов с профилем пользователя в социальной сети.</p>
+<p>РџСЂРёРјРµСЂ РЅР°СЃС‚СЂРѕР№РєРё С„РѕСЂСѓРјРѕРІ СЃ РїСЂРѕС„РёР»РµРј РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ РІ СЃРѕС†РёР°Р»СЊРЅРѕР№ СЃРµС‚Рё.</p>
 <?$APPLICATION->IncludeComponent(
 	"bitrix:forum",
 	".default",

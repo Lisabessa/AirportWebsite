@@ -1,11 +1,11 @@
 <?php
-$MESS["SALE_HPS_UAPAY_ERROR_HTTP_STATUS"] = "Ïîëó÷åí îòâåò îò ñåðâåðà ñ http ñòàòóñîì: #STATUS_CODE#";
-$MESS["SALE_HPS_UAPAY_ERROR_RESPONSE_STATUS"] = "Ïîëó÷åí îòâåò ñî ñòàòóñîì: Îøèáêà";
-$MESS["SALE_HPS_UAPAY_ERROR_CLIENT_ID"] = "Èäåíòèôèêàòîð êëèåíòà íå íàéäåí";
-$MESS["SALE_HPS_UAPAY_ERROR_CHECK_SUM"] = "Òîêåíò íå ñîâïàäàåò";
-$MESS["SALE_HPS_UAPAY_TRANSACTION"] = "Òðàíçàêöèÿ #ID#, íîìåð ïëàòåæà #PAYMENT_NUMBER#";
-$MESS["SALE_HPS_UAPAY_ERROR_SUM"] = "Ñóììà ïëàòåæà íå ñîâïàäàåò ñ ñóììîé îïëàòû";
-$MESS["SALE_HPS_UAPAY_ERROR_PAYMENT_ID"] = "Èäåíòèôèêàòîð îïëàòû íå íàéäåí";
-$MESS["SALE_HPS_UAPAY_ERROR_CREATE_JWT"] = "Íå óäàëîñü ñôîðìèðîâàòü JWT";
-$MESS["SALE_HPS_UAPAY_ERROR_PARSE_JWT"] = "Íå óäàëîñü ïîëó÷èòü äàííûå èç JWT";
-$MESS["SALE_HPS_UAPAY_ERROR_RESPONSE"] = "Îøèáêà ïðè ïîëó÷åíèè îòâåòà";
+$MESS["SALE_HPS_UAPAY_ERROR_HTTP_STATUS"] = "ÐŸÐ¾Ð»ÑƒÑ‡ÐµÐ½ Ð¾Ñ‚Ð²ÐµÑ‚ Ð¾Ñ‚ ÑÐµÑ€Ð²ÐµÑ€Ð° Ñ http ÑÑ‚Ð°Ñ‚ÑƒÑÐ¾Ð¼: #STATUS_CODE#";
+$MESS["SALE_HPS_UAPAY_ERROR_RESPONSE_STATUS"] = "ÐŸÐ¾Ð»ÑƒÑ‡ÐµÐ½ Ð¾Ñ‚Ð²ÐµÑ‚ ÑÐ¾ ÑÑ‚Ð°Ñ‚ÑƒÑÐ¾Ð¼: ÐžÑˆÐ¸Ð±ÐºÐ°";
+$MESS["SALE_HPS_UAPAY_ERROR_CLIENT_ID"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÐºÐ»Ð¸ÐµÐ½Ñ‚Ð° Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
+$MESS["SALE_HPS_UAPAY_ERROR_CHECK_SUM"] = "Ð¢Ð¾ÐºÐµÐ½Ñ‚ Ð½Ðµ ÑÐ¾Ð²Ð¿Ð°Ð´Ð°ÐµÑ‚";
+$MESS["SALE_HPS_UAPAY_TRANSACTION"] = "Ð¢Ñ€Ð°Ð½Ð·Ð°ÐºÑ†Ð¸Ñ #ID#, Ð½Ð¾Ð¼ÐµÑ€ Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ð° #PAYMENT_NUMBER#";
+$MESS["SALE_HPS_UAPAY_ERROR_SUM"] = "Ð¡ÑƒÐ¼Ð¼Ð° Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ð° Ð½Ðµ ÑÐ¾Ð²Ð¿Ð°Ð´Ð°ÐµÑ‚ Ñ ÑÑƒÐ¼Ð¼Ð¾Ð¹ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹";
+$MESS["SALE_HPS_UAPAY_ERROR_PAYMENT_ID"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
+$MESS["SALE_HPS_UAPAY_ERROR_CREATE_JWT"] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ ÑÑ„Ð¾Ñ€Ð¼Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ JWT";
+$MESS["SALE_HPS_UAPAY_ERROR_PARSE_JWT"] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ Ð¿Ð¾Ð»ÑƒÑ‡Ð¸Ñ‚ÑŒ Ð´Ð°Ð½Ð½Ñ‹Ðµ Ð¸Ð· JWT";
+$MESS["SALE_HPS_UAPAY_ERROR_RESPONSE"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ Ð¿Ð¾Ð»ÑƒÑ‡ÐµÐ½Ð¸Ð¸ Ð¾Ñ‚Ð²ÐµÑ‚Ð°";

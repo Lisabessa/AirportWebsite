@@ -1,4 +1,4 @@
 <?
-$MESS["WD_VERSIONS"] = "Âåðñèè";
-$MESS["WD_EV_TITLE"] = "Âåðñèè äîêóìåíòà";
+$MESS["WD_VERSIONS"] = "Ð’ÐµÑ€ÑÐ¸Ð¸";
+$MESS["WD_EV_TITLE"] = "Ð’ÐµÑ€ÑÐ¸Ð¸ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð°";
 ?>

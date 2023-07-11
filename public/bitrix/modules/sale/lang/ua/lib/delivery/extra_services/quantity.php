@@ -1,4 +1,4 @@
 <?
-$MESS["DELIVERY_EXTRA_SERVICE_QUANTITY_TITLE"] = "Ê³ëüê³ñíà ïîñëóãà";
-$MESS["DELIVERY_EXTRA_SERVICE_QUANTITY_PRICE"] = "Ö³íà çà øò.";
+$MESS["DELIVERY_EXTRA_SERVICE_QUANTITY_TITLE"] = "ÐšÑ–Ð»ÑŒÐºÑ–ÑÐ½Ð° Ð¿Ð¾ÑÐ»ÑƒÐ³Ð°";
+$MESS["DELIVERY_EXTRA_SERVICE_QUANTITY_PRICE"] = "Ð¦Ñ–Ð½Ð° Ð·Ð° ÑˆÑ‚.";
 ?>

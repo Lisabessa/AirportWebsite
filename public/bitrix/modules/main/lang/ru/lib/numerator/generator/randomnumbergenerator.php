@@ -1,3 +1,3 @@
 <?
-$MESS["BITRIX_MAIN_NUMERATOR_GENERATOR_RANDOMNUMBERGENERATOR_WORD_RANDOM"] = "Ñëó÷àéíûé íîìåð";
-$MESS["TITLE_BITRIX_MAIN_NUMERATOR_GENERATOR_RANDOMNUMBERGENERATOR_LENGTH"] = "Äëèíà ñëó÷àéíîé ïîñëåäîâàòåëüíîñòè ñèìâîëîâ";
+$MESS["BITRIX_MAIN_NUMERATOR_GENERATOR_RANDOMNUMBERGENERATOR_WORD_RANDOM"] = "Ð¡Ð»ÑƒÑ‡Ð°Ð¹Ð½Ñ‹Ð¹ Ð½Ð¾Ð¼ÐµÑ€";
+$MESS["TITLE_BITRIX_MAIN_NUMERATOR_GENERATOR_RANDOMNUMBERGENERATOR_LENGTH"] = "Ð”Ð»Ð¸Ð½Ð° ÑÐ»ÑƒÑ‡Ð°Ð¹Ð½Ð¾Ð¹ Ð¿Ð¾ÑÐ»ÐµÐ´Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒÐ½Ð¾ÑÑ‚Ð¸ ÑÐ¸Ð¼Ð²Ð¾Ð»Ð¾Ð²";

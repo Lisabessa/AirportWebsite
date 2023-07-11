@@ -1,10 +1,10 @@
 <?
-$MESS ['STAT_COUNTRY_MSEL_PAGES'] = "Ñòðàíû";
+$MESS ['STAT_COUNTRY_MSEL_PAGES'] = "Ð¡Ñ‚Ñ€Ð°Ð½Ñ‹";
 $MESS ['STAT_COUNTRY_MSEL_ID'] = "ID";
-$MESS ['STAT_COUNTRY_MSEL_NAME'] = "Ïîëíîå íàçâàíèå";
-$MESS ['STAT_COUNTRY_MSEL_SHORT_NAME'] = "Êîðîòêîå íàçâàíèå";
-$MESS ['STAT_COUNTRY_MSEL_TITLE'] = "Âûáîð ñòðàí";
-$MESS ['STAT_COUNTRY_MSEL_SELECT'] = "Âûáðàòü";
-$MESS ['STAT_COUNTRY_MSEL_SELECT_TITLE'] = "Âûáðàòü îòìå÷åííûå ñòðàíû";
-$MESS ['STAT_COUNTRY_MSEL_FIND'] = "Íàéòè";
+$MESS ['STAT_COUNTRY_MSEL_NAME'] = "ÐŸÐ¾Ð»Ð½Ð¾Ðµ Ð½Ð°Ð·Ð²Ð°Ð½Ð¸Ðµ";
+$MESS ['STAT_COUNTRY_MSEL_SHORT_NAME'] = "ÐšÐ¾Ñ€Ð¾Ñ‚ÐºÐ¾Ðµ Ð½Ð°Ð·Ð²Ð°Ð½Ð¸Ðµ";
+$MESS ['STAT_COUNTRY_MSEL_TITLE'] = "Ð’Ñ‹Ð±Ð¾Ñ€ ÑÑ‚Ñ€Ð°Ð½";
+$MESS ['STAT_COUNTRY_MSEL_SELECT'] = "Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ";
+$MESS ['STAT_COUNTRY_MSEL_SELECT_TITLE'] = "Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ Ð¾Ñ‚Ð¼ÐµÑ‡ÐµÐ½Ð½Ñ‹Ðµ ÑÑ‚Ñ€Ð°Ð½Ñ‹";
+$MESS ['STAT_COUNTRY_MSEL_FIND'] = "ÐÐ°Ð¹Ñ‚Ð¸";
 ?>

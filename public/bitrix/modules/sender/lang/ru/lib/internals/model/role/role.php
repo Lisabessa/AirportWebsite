@@ -1,3 +1,3 @@
 <?
-$MESS["SENDER_INTERNALS_MODEL_ROLE_FIELD_NAME"] = "Íàçâàíèå";
+$MESS["SENDER_INTERNALS_MODEL_ROLE_FIELD_NAME"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
 ?>

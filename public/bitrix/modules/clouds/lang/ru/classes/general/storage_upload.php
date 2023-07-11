@@ -1,3 +1,3 @@
 <?
-$MESS["CLO_STORAGE_UPLOAD_ERROR"] = "Îøèáêà çàãðóçêè ÷àñòè ôàéëà: #errno#";
+$MESS["CLO_STORAGE_UPLOAD_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð·Ð°Ð³Ñ€ÑƒÐ·ÐºÐ¸ Ñ‡Ð°ÑÑ‚Ð¸ Ñ„Ð°Ð¹Ð»Ð°: #errno#";
 ?>

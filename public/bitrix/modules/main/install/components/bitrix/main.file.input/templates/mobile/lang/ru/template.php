@@ -1,11 +1,11 @@
 <?
-$MESS["MFI_CONFIRM"] = "Óäàëèòü ôàéë?";
-$MESS["MFI_INPUT_CAPTION_ADD"] = "Äîáàâèòü ôàéë";
-$MESS["MFI_INPUT_CAPTION_ADD_IMAGE"] = "Äîáàâèòü èçîáðàæåíèå";
-$MESS["MFI_INPUT_CAPTION_REPLACE"] = "Çàìåíèòü ôàéë";
-$MESS["MFI_INPUT_CAPTION_REPLACE_IMAGE"] = "Çàìåíèòü èçîáðàæåíèå";
-$MESS["MFI_UPLOADING_ERROR"] = "Îøèáêà çàãðóçêè ôàéëà.";
-$MESS["MFI_NOTICE_1"] = "Âûáåðèòå ôàéë ñ ðàñøèðåíèåì (#ext#) è ðàçìåðîì, íå ïðåâûøàþùèì #size#.";
-$MESS["MFI_NOTICE_2"] = "Âûáåðèòå ôàéë ñ ðàñøèðåíèåì (#ext#).";
-$MESS["MFI_NOTICE_3"] = "Âûáåðèòå ôàéë, ðàçìåð êîòîðîãî íå ïðåâûøàåò #size#.";
+$MESS["MFI_CONFIRM"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ Ñ„Ð°Ð¹Ð»?";
+$MESS["MFI_INPUT_CAPTION_ADD"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ñ„Ð°Ð¹Ð»";
+$MESS["MFI_INPUT_CAPTION_ADD_IMAGE"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð¸Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ðµ";
+$MESS["MFI_INPUT_CAPTION_REPLACE"] = "Ð—Ð°Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ñ„Ð°Ð¹Ð»";
+$MESS["MFI_INPUT_CAPTION_REPLACE_IMAGE"] = "Ð—Ð°Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ð¸Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ðµ";
+$MESS["MFI_UPLOADING_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð·Ð°Ð³Ñ€ÑƒÐ·ÐºÐ¸ Ñ„Ð°Ð¹Ð»Ð°.";
+$MESS["MFI_NOTICE_1"] = "Ð’Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ Ñ„Ð°Ð¹Ð» Ñ Ñ€Ð°ÑÑˆÐ¸Ñ€ÐµÐ½Ð¸ÐµÐ¼ (#ext#) Ð¸ Ñ€Ð°Ð·Ð¼ÐµÑ€Ð¾Ð¼, Ð½Ðµ Ð¿Ñ€ÐµÐ²Ñ‹ÑˆÐ°ÑŽÑ‰Ð¸Ð¼ #size#.";
+$MESS["MFI_NOTICE_2"] = "Ð’Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ Ñ„Ð°Ð¹Ð» Ñ Ñ€Ð°ÑÑˆÐ¸Ñ€ÐµÐ½Ð¸ÐµÐ¼ (#ext#).";
+$MESS["MFI_NOTICE_3"] = "Ð’Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ Ñ„Ð°Ð¹Ð», Ñ€Ð°Ð·Ð¼ÐµÑ€ ÐºÐ¾Ñ‚Ð¾Ñ€Ð¾Ð³Ð¾ Ð½Ðµ Ð¿Ñ€ÐµÐ²Ñ‹ÑˆÐ°ÐµÑ‚ #size#.";
 ?>

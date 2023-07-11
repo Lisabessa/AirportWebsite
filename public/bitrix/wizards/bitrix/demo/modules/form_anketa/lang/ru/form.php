@@ -1,3 +1,3 @@
 <?
-$MESS['WIZDEMO_FORM_ANKETA_MENU'] = 'Àíêåòà ïîñåòèòåëÿ';
+$MESS['WIZDEMO_FORM_ANKETA_MENU'] = 'ÐÐ½ÐºÐµÑ‚Ð° Ð¿Ð¾ÑÐµÑ‚Ð¸Ñ‚ÐµÐ»Ñ';
 ?>

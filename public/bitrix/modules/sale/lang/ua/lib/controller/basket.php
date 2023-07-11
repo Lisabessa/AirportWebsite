@@ -1,3 +1,3 @@
 <?
-$MESS["CONTROLLER_ERROR_BASEKT_NOT_EXISTS"] = "Ïîçèö³ÿ êîøèêà íå ³ñíóº. [#ID#]";
+$MESS["CONTROLLER_ERROR_BASEKT_NOT_EXISTS"] = "ÐŸÐ¾Ð·Ð¸Ñ†Ñ–Ñ ÐºÐ¾ÑˆÐ¸ÐºÐ° Ð½Ðµ Ñ–ÑÐ½ÑƒÑ”. [#ID#]";
 ?>

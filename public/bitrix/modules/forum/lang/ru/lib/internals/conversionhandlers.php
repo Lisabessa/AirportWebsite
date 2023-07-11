@@ -1,4 +1,4 @@
 <?php
 
-$MESS['FORUM_CONVERSION_RATE_POST_TITLE'] = 'Ôîðóì: ñîîáùåíèÿ';
-$MESS['FORUM_CONVERSION_RATE_TOPIC_TITLE'] = 'Ôîðóì: òåìû';
+$MESS['FORUM_CONVERSION_RATE_POST_TITLE'] = 'Ð¤Ð¾Ñ€ÑƒÐ¼: ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ';
+$MESS['FORUM_CONVERSION_RATE_TOPIC_TITLE'] = 'Ð¤Ð¾Ñ€ÑƒÐ¼: Ñ‚ÐµÐ¼Ñ‹';

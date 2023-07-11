@@ -1,3 +1,3 @@
 <?
-$MESS["MAIN_RESUME_TITLE"] = "Ðåçþìå";
+$MESS["MAIN_RESUME_TITLE"] = "Ð ÐµÐ·ÑŽÐ¼Ðµ";
 ?>

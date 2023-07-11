@@ -1,13 +1,13 @@
 <?
-$MESS["SENDER_CHAIN_STATUS_N"] = "Ãîòîâ ê îòïðàâêå";
-$MESS["SENDER_CHAIN_STATUS_S"] = "Â ïðîöåññå îòïðàâêè..";
-$MESS["SENDER_CHAIN_STATUS_W"] = "Îæèäàíèå äíÿ îòïðàâêè";
-$MESS["SENDER_CHAIN_STATUS_Y"] = "Îòïðàâëåí";
-$MESS["SENDER_CHAIN_STATUS_P"] = "Ïàóçà";
+$MESS["SENDER_CHAIN_STATUS_N"] = "Ð“Ð¾Ñ‚Ð¾Ð² Ðº Ð¾Ñ‚Ð¿Ñ€Ð°Ð²ÐºÐµ";
+$MESS["SENDER_CHAIN_STATUS_S"] = "Ð’ Ð¿Ñ€Ð¾Ñ†ÐµÑÑÐµ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²ÐºÐ¸..";
+$MESS["SENDER_CHAIN_STATUS_W"] = "ÐžÐ¶Ð¸Ð´Ð°Ð½Ð¸Ðµ Ð´Ð½Ñ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²ÐºÐ¸";
+$MESS["SENDER_CHAIN_STATUS_Y"] = "ÐžÑ‚Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½";
+$MESS["SENDER_CHAIN_STATUS_P"] = "ÐŸÐ°ÑƒÐ·Ð°";
 
-$MESS["SENDER_ENTITY_MAILING_CHAIN_FIELD_TITLE_TITLE1"] = "Íàçâàíèå ðàññûëêè";
-$MESS["SENDER_ENTITY_MAILING_CHAIN_FIELD_TITLE_EMAIL_FROM1"] = "Îòïðàâèòåëü";
-$MESS["SENDER_ENTITY_MAILING_CHAIN_FIELD_TITLE_SUBJECT"] = "Òåìà ïèñüìà";
-$MESS["SENDER_ENTITY_MAILING_CHAIN_FIELD_TITLE_MESSAGE"] = "Òåëî ïèñüìà";
-$MESS["SENDER_ENTITY_MAILING_CHAIN_VALID_EMAIL_FROM"] = "Ïîëå 'Îòïðàâèòåëü' íå ÿâëÿåòñÿ email-àäðåñîì.";
+$MESS["SENDER_ENTITY_MAILING_CHAIN_FIELD_TITLE_TITLE1"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ñ€Ð°ÑÑÑ‹Ð»ÐºÐ¸";
+$MESS["SENDER_ENTITY_MAILING_CHAIN_FIELD_TITLE_EMAIL_FROM1"] = "ÐžÑ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»ÑŒ";
+$MESS["SENDER_ENTITY_MAILING_CHAIN_FIELD_TITLE_SUBJECT"] = "Ð¢ÐµÐ¼Ð° Ð¿Ð¸ÑÑŒÐ¼Ð°";
+$MESS["SENDER_ENTITY_MAILING_CHAIN_FIELD_TITLE_MESSAGE"] = "Ð¢ÐµÐ»Ð¾ Ð¿Ð¸ÑÑŒÐ¼Ð°";
+$MESS["SENDER_ENTITY_MAILING_CHAIN_VALID_EMAIL_FROM"] = "ÐŸÐ¾Ð»Ðµ 'ÐžÑ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»ÑŒ' Ð½Ðµ ÑÐ²Ð»ÑÐµÑ‚ÑÑ email-Ð°Ð´Ñ€ÐµÑÐ¾Ð¼.";
 ?>

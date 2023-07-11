@@ -1,2 +1,2 @@
 <?php
-$MESS['UTP_ELIST_DOCUMENT_MOPROMT'] = 'Èíôîáëîê';
+$MESS['UTP_ELIST_DOCUMENT_MOPROMT'] = 'Ð˜Ð½Ñ„Ð¾Ð±Ð»Ð¾Ðº';

@@ -1,4 +1,4 @@
 <?php
-$MESS['LANDING_HOOK_ROBOTS_NAME'] = 'Íàñòðîéêè robots.txt';
-$MESS['LANDING_HOOK_ROBOTS_USE'] = 'Ïîëüçîâàòåëüñêèé robots.txt';
+$MESS['LANDING_HOOK_ROBOTS_NAME'] = 'ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ robots.txt';
+$MESS['LANDING_HOOK_ROBOTS_USE'] = 'ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒÑÐºÐ¸Ð¹ robots.txt';
 $MESS['LANDING_HOOK_ROBOTS_CONTENT'] = 'Robots.txt';

@@ -1,4 +1,4 @@
 <?
-$MESS["SEC_CHECKER_INFORMER_TITLE"] = "Сканер безопасности";
-$MESS["SEC_CHECKER_INFORMER_DESCRIPTION"] = "Сканирование выполнялось очень давно либо не выполнялось вовсе";
-$MESS["SEC_CHECKER_INFORMER_LINK"] = "Перейти к сканированию";
+$MESS["SEC_CHECKER_INFORMER_TITLE"] = "РЎРєР°РЅРµСЂ Р±РµР·РѕРїР°СЃРЅРѕСЃС‚Рё";
+$MESS["SEC_CHECKER_INFORMER_DESCRIPTION"] = "РЎРєР°РЅРёСЂРѕРІР°РЅРёРµ РІС‹РїРѕР»РЅСЏР»РѕСЃСЊ РѕС‡РµРЅСЊ РґР°РІРЅРѕ Р»РёР±Рѕ РЅРµ РІС‹РїРѕР»РЅСЏР»РѕСЃСЊ РІРѕРІСЃРµ";
+$MESS["SEC_CHECKER_INFORMER_LINK"] = "РџРµСЂРµР№С‚Рё Рє СЃРєР°РЅРёСЂРѕРІР°РЅРёСЋ";

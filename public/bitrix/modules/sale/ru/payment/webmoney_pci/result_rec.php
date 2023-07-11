@@ -64,14 +64,14 @@ $strPayPath .= "&desc=Order_".IntVal($GLOBALS["SALE_INPUT_PARAMS"]["ORDER"]["ID"
 		{
 			$strPS_STATUS_DESCRIPTION = "";
 			if ($_POST["pci_mode"] <> '')
-				$strPS_STATUS_DESCRIPTION .= "тестовый режим, реально деньги не переводились; ";
-			$strPS_STATUS_DESCRIPTION .= "кошелек продавца - ".$_POST["pci_pursedest"]."; ";
-			$strPS_STATUS_DESCRIPTION .= "номер операции - ".$_POST["pci_wmtid"]."; ";
-			$strPS_STATUS_DESCRIPTION .= "дата платежа - ".$_POST["pci_datecrt"]."";
+				$strPS_STATUS_DESCRIPTION .= "С‚РµСЃС‚РѕРІС‹Р№ СЂРµР¶РёРј, СЂРµР°Р»СЊРЅРѕ РґРµРЅСЊРіРё РЅРµ РїРµСЂРµРІРѕРґРёР»РёСЃСЊ; ";
+			$strPS_STATUS_DESCRIPTION .= "РєРѕС€РµР»РµРє РїСЂРѕРґР°РІС†Р° - ".$_POST["pci_pursedest"]."; ";
+			$strPS_STATUS_DESCRIPTION .= "РЅРѕРјРµСЂ РѕРїРµСЂР°С†РёРё - ".$_POST["pci_wmtid"]."; ";
+			$strPS_STATUS_DESCRIPTION .= "РґР°С‚Р° РїР»Р°С‚РµР¶Р° - ".$_POST["pci_datecrt"]."";
 
 			$strPS_STATUS_MESSAGE = "";
-			$strPS_STATUS_MESSAGE .= "кошелек покупателя - ".$_POST["pci_pursesrc"]."; ";
-			$strPS_STATUS_MESSAGE .= "WMId покупателя - ".$_POST["WMID"]."; ";
+			$strPS_STATUS_MESSAGE .= "РєРѕС€РµР»РµРє РїРѕРєСѓРїР°С‚РµР»СЏ - ".$_POST["pci_pursesrc"]."; ";
+			$strPS_STATUS_MESSAGE .= "WMId РїРѕРєСѓРїР°С‚РµР»СЏ - ".$_POST["WMID"]."; ";
 			$strPS_STATUS_MESSAGE .= "".$_POST["pci_desc"]."";
 
 			$arFields = array(

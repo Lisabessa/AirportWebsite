@@ -1,16 +1,16 @@
 <?
-$MESS ['FICON_BIGGRIN'] = "Øèðîêàÿ óëûáêà";
-$MESS ['FICON_SMILE'] = "Ñ óëûáêîé";
-$MESS ['FICON_SAD'] = "Ïå÷àëüíî";
-$MESS ['FICON_EEK'] = "Óäèâëåííî";
-$MESS ['FICON_COOL'] = "Çäîðîâî";
-$MESS ['FICON_KISS'] = "Ïîöåëóé";
-$MESS ['FICON_REDFACE'] = "Ñìóùåííî";
-$MESS ['FICON_CRY'] = "Î÷åíü ãðóñòíî";
-$MESS ['FICON_EVIL'] = "Ñî çëîñòüþ";
-$MESS ['FICON_WINK'] = "Øóòëèâî";
-$MESS ['FICON_EXCLAIM'] = "Âîñêëèöàíèå";
-$MESS ['FICON_QUESTION'] = "Âîïðîñ";
-$MESS ['FICON_IDEA'] = "Èäåÿ";
-$MESS ['FICON_NEUTRAL'] = "Ñêåïòè÷åñêè";
+$MESS ['FICON_BIGGRIN'] = "Ð¨Ð¸Ñ€Ð¾ÐºÐ°Ñ ÑƒÐ»Ñ‹Ð±ÐºÐ°";
+$MESS ['FICON_SMILE'] = "Ð¡ ÑƒÐ»Ñ‹Ð±ÐºÐ¾Ð¹";
+$MESS ['FICON_SAD'] = "ÐŸÐµÑ‡Ð°Ð»ÑŒÐ½Ð¾";
+$MESS ['FICON_EEK'] = "Ð£Ð´Ð¸Ð²Ð»ÐµÐ½Ð½Ð¾";
+$MESS ['FICON_COOL'] = "Ð—Ð´Ð¾Ñ€Ð¾Ð²Ð¾";
+$MESS ['FICON_KISS'] = "ÐŸÐ¾Ñ†ÐµÐ»ÑƒÐ¹";
+$MESS ['FICON_REDFACE'] = "Ð¡Ð¼ÑƒÑ‰ÐµÐ½Ð½Ð¾";
+$MESS ['FICON_CRY'] = "ÐžÑ‡ÐµÐ½ÑŒ Ð³Ñ€ÑƒÑÑ‚Ð½Ð¾";
+$MESS ['FICON_EVIL'] = "Ð¡Ð¾ Ð·Ð»Ð¾ÑÑ‚ÑŒÑŽ";
+$MESS ['FICON_WINK'] = "Ð¨ÑƒÑ‚Ð»Ð¸Ð²Ð¾";
+$MESS ['FICON_EXCLAIM'] = "Ð’Ð¾ÑÐºÐ»Ð¸Ñ†Ð°Ð½Ð¸Ðµ";
+$MESS ['FICON_QUESTION'] = "Ð’Ð¾Ð¿Ñ€Ð¾Ñ";
+$MESS ['FICON_IDEA'] = "Ð˜Ð´ÐµÑ";
+$MESS ['FICON_NEUTRAL'] = "Ð¡ÐºÐµÐ¿Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸";
 ?>

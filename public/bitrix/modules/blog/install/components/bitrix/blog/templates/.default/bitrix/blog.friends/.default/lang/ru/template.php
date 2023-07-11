@@ -1,8 +1,8 @@
 <?
-$MESS["BLOG_BLOG_BLOG_MORE"] = "×èòàòü ïîäðîáíåå...";
-$MESS["BLOG_BLOG_BLOG_CATEGORY"] = "Òåãè:";
-$MESS["BLOG_BLOG_BLOG_COMMENTS"] = "Êîììåíòàðèåâ:";
-$MESS["BLOG_BLOG_BLOG_NO_AVAIBLE_MES"] = "Äîñòóïíûõ ñîîáùåíèé íåò";
-$MESS["BLOG_BLOG_BLOG_VIEWS"] = "Ïðîñìîòðîâ:";
-$MESS["BLOG_PHOTO"] = "Ôîòî:";
+$MESS["BLOG_BLOG_BLOG_MORE"] = "Ð§Ð¸Ñ‚Ð°Ñ‚ÑŒ Ð¿Ð¾Ð´Ñ€Ð¾Ð±Ð½ÐµÐµ...";
+$MESS["BLOG_BLOG_BLOG_CATEGORY"] = "Ð¢ÐµÐ³Ð¸:";
+$MESS["BLOG_BLOG_BLOG_COMMENTS"] = "ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸ÐµÐ²:";
+$MESS["BLOG_BLOG_BLOG_NO_AVAIBLE_MES"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿Ð½Ñ‹Ñ… ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ð¹ Ð½ÐµÑ‚";
+$MESS["BLOG_BLOG_BLOG_VIEWS"] = "ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð¾Ð²:";
+$MESS["BLOG_PHOTO"] = "Ð¤Ð¾Ñ‚Ð¾:";
 ?>

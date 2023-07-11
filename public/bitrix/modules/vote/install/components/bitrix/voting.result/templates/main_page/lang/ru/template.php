@@ -1,3 +1,3 @@
 <?
-$MESS ['VOTE_GROUP_TOTAL'] = "βρεγξ";
+$MESS ['VOTE_GROUP_TOTAL'] = "Π²ΡΠµΠ³ΠΎ";
 ?>

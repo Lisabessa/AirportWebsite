@@ -1,12 +1,12 @@
 <?
-$MESS["SONET_UM_MY_MESSAGES"] = "Ìîè ñîîáùåíèÿ";
-$MESS["SONET_UM_INPUT"] = "Âõîäÿùèå";
-$MESS["SONET_UM_OUTPUT"] = "Èñõîäÿùèå";
-$MESS["SONET_UM_USER"] = "Ìîé ïðîôèëü";
-$MESS["SONET_UM_USER_BAN"] = "×åðíûé ñïèñîê";
-$MESS["SONET_UM_MUSERS"] = "Ïåðåïèñêà";
-$MESS["SONET_UM_LOG"] = "Æèâàÿ ëåíòà";
-$MESS["SONET_UM_SUBSCRIBE"] = "Ïîäïèñêà";
-$MESS["SONET_UM_TASKS"] = "Çàäà÷è";
-$MESS["SONET_UM_BIZPROC"] = "Áèçíåñ-ïðîöåññû";
+$MESS["SONET_UM_MY_MESSAGES"] = "ÐœÐ¾Ð¸ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
+$MESS["SONET_UM_INPUT"] = "Ð’Ñ…Ð¾Ð´ÑÑ‰Ð¸Ðµ";
+$MESS["SONET_UM_OUTPUT"] = "Ð˜ÑÑ…Ð¾Ð´ÑÑ‰Ð¸Ðµ";
+$MESS["SONET_UM_USER"] = "ÐœÐ¾Ð¹ Ð¿Ñ€Ð¾Ñ„Ð¸Ð»ÑŒ";
+$MESS["SONET_UM_USER_BAN"] = "Ð§ÐµÑ€Ð½Ñ‹Ð¹ ÑÐ¿Ð¸ÑÐ¾Ðº";
+$MESS["SONET_UM_MUSERS"] = "ÐŸÐµÑ€ÐµÐ¿Ð¸ÑÐºÐ°";
+$MESS["SONET_UM_LOG"] = "Ð–Ð¸Ð²Ð°Ñ Ð»ÐµÐ½Ñ‚Ð°";
+$MESS["SONET_UM_SUBSCRIBE"] = "ÐŸÐ¾Ð´Ð¿Ð¸ÑÐºÐ°";
+$MESS["SONET_UM_TASKS"] = "Ð—Ð°Ð´Ð°Ñ‡Ð¸";
+$MESS["SONET_UM_BIZPROC"] = "Ð‘Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑÑ‹";
 ?>

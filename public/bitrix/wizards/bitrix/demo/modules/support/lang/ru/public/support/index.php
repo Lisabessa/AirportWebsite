@@ -1,3 +1,3 @@
 <?
-$MESS ['SUPPORT_INSTALL_PUBLIC_TITLE'] = "Ñïèñîê îáðàùåíèé";
+$MESS ['SUPPORT_INSTALL_PUBLIC_TITLE'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ð¹";
 ?>

@@ -1,8 +1,8 @@
 <?
-$MESS["SECURITY_SITE_CHECKER_TaintCheckingTest_NAME"] = "Ïðîâåðêà áåçîïàñíîñòè êîäà (ñòàòè÷åñêèé àíàëèç óÿçâèìîñòåé)";
-$MESS["SECURITY_SITE_CHECKER_TAINT_RECOMMENDATION"] = "Íåîáõîäèìî îáðàòèòñÿ ê ðàçðàáîò÷èêó äëÿ èñïðàâëåíèÿ";
-$MESS["SECURITY_SITE_CHECKER_TAINT_TITLE"] = "Ñòàòè÷åñêèé àíàëèç óÿçâèìîñòåé îáíàðóæèë #COUNT# ïðîáëåìíûõ ìåñò";
-$MESS["SECURITY_SITE_CHECKER_TAINT_TOKENIZER_NOT_FOUND"] = "PHP ðàñøèðåíèå tokenizer íå âêëþ÷åíî";
-$MESS["SECURITY_SITE_CHECKER_TAINT_EXECUTION_TIME"] = "Ó âàñ âûñòàâëåíî ñëèøêîì ìàëåíüêîå âðåìÿ èñïîëíåíèÿ php ñêðèïòîâ (max_execution_time). Ðåêîìåíäîâàíî íå ìåíåå 30ñåê.";
-$MESS["SECURITY_SITE_CHECKER_TAINT_MEMORY_LIMIT"] = "Ó âàñ âûäåëåíî ñëèøêîì ìàëî ïàìÿòè äëÿ php (memory_limit). Ðåêîìåíäîâàíî íå ìåíåå 256M.";
+$MESS["SECURITY_SITE_CHECKER_TaintCheckingTest_NAME"] = "ÐŸÑ€Ð¾Ð²ÐµÑ€ÐºÐ° Ð±ÐµÐ·Ð¾Ð¿Ð°ÑÐ½Ð¾ÑÑ‚Ð¸ ÐºÐ¾Ð´Ð° (ÑÑ‚Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸Ð¹ Ð°Ð½Ð°Ð»Ð¸Ð· ÑƒÑÐ·Ð²Ð¸Ð¼Ð¾ÑÑ‚ÐµÐ¹)";
+$MESS["SECURITY_SITE_CHECKER_TAINT_RECOMMENDATION"] = "ÐÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ð¾ Ð¾Ð±Ñ€Ð°Ñ‚Ð¸Ñ‚ÑÑ Ðº Ñ€Ð°Ð·Ñ€Ð°Ð±Ð¾Ñ‚Ñ‡Ð¸ÐºÑƒ Ð´Ð»Ñ Ð¸ÑÐ¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ñ";
+$MESS["SECURITY_SITE_CHECKER_TAINT_TITLE"] = "Ð¡Ñ‚Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸Ð¹ Ð°Ð½Ð°Ð»Ð¸Ð· ÑƒÑÐ·Ð²Ð¸Ð¼Ð¾ÑÑ‚ÐµÐ¹ Ð¾Ð±Ð½Ð°Ñ€ÑƒÐ¶Ð¸Ð» #COUNT# Ð¿Ñ€Ð¾Ð±Ð»ÐµÐ¼Ð½Ñ‹Ñ… Ð¼ÐµÑÑ‚";
+$MESS["SECURITY_SITE_CHECKER_TAINT_TOKENIZER_NOT_FOUND"] = "PHP Ñ€Ð°ÑÑˆÐ¸Ñ€ÐµÐ½Ð¸Ðµ tokenizer Ð½Ðµ Ð²ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¾";
+$MESS["SECURITY_SITE_CHECKER_TAINT_EXECUTION_TIME"] = "Ð£ Ð²Ð°Ñ Ð²Ñ‹ÑÑ‚Ð°Ð²Ð»ÐµÐ½Ð¾ ÑÐ»Ð¸ÑˆÐºÐ¾Ð¼ Ð¼Ð°Ð»ÐµÐ½ÑŒÐºÐ¾Ðµ Ð²Ñ€ÐµÐ¼Ñ Ð¸ÑÐ¿Ð¾Ð»Ð½ÐµÐ½Ð¸Ñ php ÑÐºÑ€Ð¸Ð¿Ñ‚Ð¾Ð² (max_execution_time). Ð ÐµÐºÐ¾Ð¼ÐµÐ½Ð´Ð¾Ð²Ð°Ð½Ð¾ Ð½Ðµ Ð¼ÐµÐ½ÐµÐµ 30ÑÐµÐº.";
+$MESS["SECURITY_SITE_CHECKER_TAINT_MEMORY_LIMIT"] = "Ð£ Ð²Ð°Ñ Ð²Ñ‹Ð´ÐµÐ»ÐµÐ½Ð¾ ÑÐ»Ð¸ÑˆÐºÐ¾Ð¼ Ð¼Ð°Ð»Ð¾ Ð¿Ð°Ð¼ÑÑ‚Ð¸ Ð´Ð»Ñ php (memory_limit). Ð ÐµÐºÐ¾Ð¼ÐµÐ½Ð´Ð¾Ð²Ð°Ð½Ð¾ Ð½Ðµ Ð¼ÐµÐ½ÐµÐµ 256M.";
 ?>

@@ -1,10 +1,10 @@
 <?
-$MESS["LOG_ENTITY_HOST_FIELD"] = "Õîñò";
-$MESS["LOG_ENTITY_URI_FIELD"] = "Àäðåñ ñòðàíèöû";
-$MESS["LOG_ENTITY_TITLE_FIELD"] = "Íàçâàíèå ñòðàíèöû";
-$MESS["LOG_ENTITY_CREATED_FIELD"] = "Äàòà ñîçäàíèÿ";
-$MESS["LOG_ENTITY_TYPE_FIELD"] = "Òèï ñîáûòèÿ";
-$MESS["LOG_ENTITY_MESSAGE_FIELD"] = "Ñîîáùåíèå";
-$MESS["LOG_ENTITY_AJAX_FIELD"] = "Ajax-çàïðîñ";
-$MESS["LOG_ENTITY_USER_ID_FIELD"] = "Ïîëüçîâàòåëü";
-$MESS["LOG_ENTITY_PAGE_ID_FIELD"] = "Èäåíòèôèêàòîð ñòðàíèöû";
+$MESS["LOG_ENTITY_HOST_FIELD"] = "Ð¥Ð¾ÑÑ‚";
+$MESS["LOG_ENTITY_URI_FIELD"] = "ÐÐ´Ñ€ÐµÑ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹";
+$MESS["LOG_ENTITY_TITLE_FIELD"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹";
+$MESS["LOG_ENTITY_CREATED_FIELD"] = "Ð”Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ";
+$MESS["LOG_ENTITY_TYPE_FIELD"] = "Ð¢Ð¸Ð¿ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ";
+$MESS["LOG_ENTITY_MESSAGE_FIELD"] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ";
+$MESS["LOG_ENTITY_AJAX_FIELD"] = "Ajax-Ð·Ð°Ð¿Ñ€Ð¾Ñ";
+$MESS["LOG_ENTITY_USER_ID_FIELD"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ";
+$MESS["LOG_ENTITY_PAGE_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹";

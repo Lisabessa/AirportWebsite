@@ -1,10 +1,10 @@
 <?
-$MESS ['SONET_MENU_SMILES'] = "Ñìàéëû";
-$MESS ['SONET_MENU_SMILES_ALT'] = "Óïðàâëåíèå ñìàéëàìè è èêîíêàìè";
-$MESS ['BLG_AM_SONETS_ALT'] = "Óïðàâëåíèå ñîöèàëüíîé ñåòüþ";
-$MESS ['BLG_AM_SONETS'] = "Ñîöèàëüíàÿ ñåòü";
-$MESS ['SONET_MENU_SUBJECT'] = "Òåìû";
-$MESS ['SONET_MENU_SUBJECT_ALT'] = "Óïðàâëåíèå òåìàìè ãðóïï";
-$MESS ['SONET_MENU_GROUP'] = "Ãðóïïû";
-$MESS ['SONET_MENU_GROUP_ALT'] = "Óïðàâëåíèå ãðóïïàìè";
+$MESS ['SONET_MENU_SMILES'] = "Ð¡Ð¼Ð°Ð¹Ð»Ñ‹";
+$MESS ['SONET_MENU_SMILES_ALT'] = "Ð£Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ ÑÐ¼Ð°Ð¹Ð»Ð°Ð¼Ð¸ Ð¸ Ð¸ÐºÐ¾Ð½ÐºÐ°Ð¼Ð¸";
+$MESS ['BLG_AM_SONETS_ALT'] = "Ð£Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ ÑÐ¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð¾Ð¹ ÑÐµÑ‚ÑŒÑŽ";
+$MESS ['BLG_AM_SONETS'] = "Ð¡Ð¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð°Ñ ÑÐµÑ‚ÑŒ";
+$MESS ['SONET_MENU_SUBJECT'] = "Ð¢ÐµÐ¼Ñ‹";
+$MESS ['SONET_MENU_SUBJECT_ALT'] = "Ð£Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ñ‚ÐµÐ¼Ð°Ð¼Ð¸ Ð³Ñ€ÑƒÐ¿Ð¿";
+$MESS ['SONET_MENU_GROUP'] = "Ð“Ñ€ÑƒÐ¿Ð¿Ñ‹";
+$MESS ['SONET_MENU_GROUP_ALT'] = "Ð£Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ð³Ñ€ÑƒÐ¿Ð¿Ð°Ð¼Ð¸";
 ?>

@@ -1,6 +1,6 @@
 <?
-$MESS ['TP_BIV_DISPLAY_AS_RATING'] = "Â êà÷åñòâå ðåéòèíãà ïîêàçûâàòü";
-$MESS ['TP_BIV_AVERAGE'] = "Ñðåäíåå çíà÷åíèå";
-$MESS ['TP_BIV_RATING'] = "Ðåéòèíã";
-$MESS ["TP_BIV_SHOW_RATING"] = "Ïîêàçûâàòü çíà÷åíèå ðåéòèíãà";
+$MESS ['TP_BIV_DISPLAY_AS_RATING'] = "Ð’ ÐºÐ°Ñ‡ÐµÑÑ‚Ð²Ðµ Ñ€ÐµÐ¹Ñ‚Ð¸Ð½Ð³Ð° Ð¿Ð¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ";
+$MESS ['TP_BIV_AVERAGE'] = "Ð¡Ñ€ÐµÐ´Ð½ÐµÐµ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ";
+$MESS ['TP_BIV_RATING'] = "Ð ÐµÐ¹Ñ‚Ð¸Ð½Ð³";
+$MESS ["TP_BIV_SHOW_RATING"] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ñ€ÐµÐ¹Ñ‚Ð¸Ð½Ð³Ð°";
 ?>

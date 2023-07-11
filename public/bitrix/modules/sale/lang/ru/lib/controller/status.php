@@ -1,16 +1,16 @@
 <?
-$MESS['CONTROLLER_ERROR_DELETE_STATUS'] = 'Îøèáêà óäàëåíèÿ ñòàòóñà. [#ID#]';
-$MESS['CONTROLLER_ERROR_DELETE_STATUS_TYPE_LOCKED'] = 'Ñòàòóñ íå ìîæåò áûòü óäàëåí. [#ID#]';
-$MESS['CONTROLLER_ERROR_STATUS_NOT_EXISTS'] = 'Ñòàòóñ íå ñóùåñòâóåò. [#ID#]';
-$MESS['CONTROLLER_ERROR_STATUS_GROUPS_TASK_ID_EMPTY'] = 'Íå ïåðåäàí ìàññèâ îïèñàíèÿ óðîâíåé äîñòóïà';
-$MESS['CONTROLLER_ERROR_STATUS_TASK_ID_EMPTY'] = 'Íå óêàçàí èäåíòèôèêàòîð óðîâíÿ äîñòóïà';
-$MESS['CONTROLLER_ERROR_STATUS_TASK_ID_INVALID'] = 'Íå ïðàâèëüíûé óðîâåíü äîñòóïà';
-$MESS['CONTROLLER_ERROR_STATUS_TYPE_OUT_OF_RANGE'] = 'Íå èçâåñòíûé òèï ñòàòóñà';
-$MESS['CONTROLLER_ERROR_STATUS_TYPE_ID_EMPTY'] = 'Íå ïåðåäàí èäåíòèôèêàòîð ñòàòóñà';
-$MESS['CONTROLLER_ERROR_STATUS_TYPE_STRLEN'] = 'Ïðåâûøåíî îãðàíè÷åíèå äëèííû èäåíòèôèêàòîðà ñòàòóñà >2';
-$MESS['CONTROLLER_ERROR_STATUS_WRONG_TYPE'] = 'Îøèáêà ñìåíû òèïà ñòàòóñà. Òèï íå ìîæåò áûòü ñìåíåí';
-$MESS['CONTROLLER_ERROR_STATUS_TYPE_ORDER_EXISTS'] = 'Îøèáêà ñìåíû òèïà ñòàòóñà. Äëÿ äàííîãî òèïà åñòü ñâÿçàííûå çàêàçû';
-$MESS['CONTROLLER_ERROR_STATUS_TYPE_SHIPMENT_EXISTS'] = 'Îøèáêà ñìåíû òèïà ñòàòóñà. Äëÿ äàííîãî òèïà åñòü ñâÿçàííûå îòãðóçêè';
-$MESS['CONTROLLER_ERROR_STATUS_LANGS_EMPTY'] = 'Íå ïåðåäàí ìàññèâ ÿçûêîâ';
-$MESS['CONTROLLER_ERROR_STATUS_LANG_NO_NAME'] = 'Ïåðåäàííûé ÿçûê îòñóòñòâóåò â ñïèñêå äîñòóïíûõ. #ID#';
+$MESS['CONTROLLER_ERROR_DELETE_STATUS'] = 'ÐžÑˆÐ¸Ð±ÐºÐ° ÑƒÐ´Ð°Ð»ÐµÐ½Ð¸Ñ ÑÑ‚Ð°Ñ‚ÑƒÑÐ°. [#ID#]';
+$MESS['CONTROLLER_ERROR_DELETE_STATUS_TYPE_LOCKED'] = 'Ð¡Ñ‚Ð°Ñ‚ÑƒÑ Ð½Ðµ Ð¼Ð¾Ð¶ÐµÑ‚ Ð±Ñ‹Ñ‚ÑŒ ÑƒÐ´Ð°Ð»ÐµÐ½. [#ID#]';
+$MESS['CONTROLLER_ERROR_STATUS_NOT_EXISTS'] = 'Ð¡Ñ‚Ð°Ñ‚ÑƒÑ Ð½Ðµ ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÐµÑ‚. [#ID#]';
+$MESS['CONTROLLER_ERROR_STATUS_GROUPS_TASK_ID_EMPTY'] = 'ÐÐµ Ð¿ÐµÑ€ÐµÐ´Ð°Ð½ Ð¼Ð°ÑÑÐ¸Ð² Ð¾Ð¿Ð¸ÑÐ°Ð½Ð¸Ñ ÑƒÑ€Ð¾Ð²Ð½ÐµÐ¹ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð°';
+$MESS['CONTROLLER_ERROR_STATUS_TASK_ID_EMPTY'] = 'ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑƒÑ€Ð¾Ð²Ð½Ñ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð°';
+$MESS['CONTROLLER_ERROR_STATUS_TASK_ID_INVALID'] = 'ÐÐµ Ð¿Ñ€Ð°Ð²Ð¸Ð»ÑŒÐ½Ñ‹Ð¹ ÑƒÑ€Ð¾Ð²ÐµÐ½ÑŒ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð°';
+$MESS['CONTROLLER_ERROR_STATUS_TYPE_OUT_OF_RANGE'] = 'ÐÐµ Ð¸Ð·Ð²ÐµÑÑ‚Ð½Ñ‹Ð¹ Ñ‚Ð¸Ð¿ ÑÑ‚Ð°Ñ‚ÑƒÑÐ°';
+$MESS['CONTROLLER_ERROR_STATUS_TYPE_ID_EMPTY'] = 'ÐÐµ Ð¿ÐµÑ€ÐµÐ´Ð°Ð½ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÑ‚Ð°Ñ‚ÑƒÑÐ°';
+$MESS['CONTROLLER_ERROR_STATUS_TYPE_STRLEN'] = 'ÐŸÑ€ÐµÐ²Ñ‹ÑˆÐµÐ½Ð¾ Ð¾Ð³Ñ€Ð°Ð½Ð¸Ñ‡ÐµÐ½Ð¸Ðµ Ð´Ð»Ð¸Ð½Ð½Ñ‹ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€Ð° ÑÑ‚Ð°Ñ‚ÑƒÑÐ° >2';
+$MESS['CONTROLLER_ERROR_STATUS_WRONG_TYPE'] = 'ÐžÑˆÐ¸Ð±ÐºÐ° ÑÐ¼ÐµÐ½Ñ‹ Ñ‚Ð¸Ð¿Ð° ÑÑ‚Ð°Ñ‚ÑƒÑÐ°. Ð¢Ð¸Ð¿ Ð½Ðµ Ð¼Ð¾Ð¶ÐµÑ‚ Ð±Ñ‹Ñ‚ÑŒ ÑÐ¼ÐµÐ½ÐµÐ½';
+$MESS['CONTROLLER_ERROR_STATUS_TYPE_ORDER_EXISTS'] = 'ÐžÑˆÐ¸Ð±ÐºÐ° ÑÐ¼ÐµÐ½Ñ‹ Ñ‚Ð¸Ð¿Ð° ÑÑ‚Ð°Ñ‚ÑƒÑÐ°. Ð”Ð»Ñ Ð´Ð°Ð½Ð½Ð¾Ð³Ð¾ Ñ‚Ð¸Ð¿Ð° ÐµÑÑ‚ÑŒ ÑÐ²ÑÐ·Ð°Ð½Ð½Ñ‹Ðµ Ð·Ð°ÐºÐ°Ð·Ñ‹';
+$MESS['CONTROLLER_ERROR_STATUS_TYPE_SHIPMENT_EXISTS'] = 'ÐžÑˆÐ¸Ð±ÐºÐ° ÑÐ¼ÐµÐ½Ñ‹ Ñ‚Ð¸Ð¿Ð° ÑÑ‚Ð°Ñ‚ÑƒÑÐ°. Ð”Ð»Ñ Ð´Ð°Ð½Ð½Ð¾Ð³Ð¾ Ñ‚Ð¸Ð¿Ð° ÐµÑÑ‚ÑŒ ÑÐ²ÑÐ·Ð°Ð½Ð½Ñ‹Ðµ Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸';
+$MESS['CONTROLLER_ERROR_STATUS_LANGS_EMPTY'] = 'ÐÐµ Ð¿ÐµÑ€ÐµÐ´Ð°Ð½ Ð¼Ð°ÑÑÐ¸Ð² ÑÐ·Ñ‹ÐºÐ¾Ð²';
+$MESS['CONTROLLER_ERROR_STATUS_LANG_NO_NAME'] = 'ÐŸÐµÑ€ÐµÐ´Ð°Ð½Ð½Ñ‹Ð¹ ÑÐ·Ñ‹Ðº Ð¾Ñ‚ÑÑƒÑ‚ÑÑ‚Ð²ÑƒÐµÑ‚ Ð² ÑÐ¿Ð¸ÑÐºÐµ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ñ‹Ñ…. #ID#';
 ?>

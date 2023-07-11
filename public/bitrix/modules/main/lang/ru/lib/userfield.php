@@ -1,12 +1,12 @@
 <?php
-$MESS["MAIN_USER_FIELD_TABLE_ENTITY_ID_TITLE"] = "Îáúåêò";
-$MESS["MAIN_USER_FIELD_TABLE_FIELD_NAME_TITLE"] = "Êîä ïîëÿ";
-$MESS["MAIN_USER_FIELD_TABLE_USER_TYPE_ID_TITLE"] = "Òèï äàííûõ";
-$MESS["MAIN_USER_FIELD_TABLE_SORT_TITLE"] = "Ñîðòèðîâêà";
-$MESS["MAIN_USER_FIELD_TABLE_MULTIPLE_TITLE"] = "Ìíîæåñòâåííîå";
-$MESS["MAIN_USER_FIELD_TABLE_MANDATORY_TITLE"] = "Îáÿçàòåëüíîå";
-$MESS["MAIN_USER_FIELD_TABLE_SHOW_FILTER_TITLE"] = "Ïîêàçûâàòü â ôèëüòðå";
-$MESS["MAIN_USER_FIELD_TABLE_SHOW_IN_LIST_TITLE"] = "Ïîêàçûâàòü â ñïèñêå";
-$MESS["MAIN_USER_FIELD_TABLE_EDIT_IN_LIST_TITLE"] = "Ðàçðåøàòü ðåäàêòèðîâàíèå ïîëüçîâàòåëåì";
-$MESS["MAIN_USER_FIELD_TABLE_IS_SEARCHABLE_TITLE"] = "Çíà÷åíèÿ ïîëÿ ó÷àñòâóþò â ïîèñêå";
-$MESS["MAIN_USER_FIELD_TABLE_SETTINGS_TITLE"] = "Äîïîëíèòåëüíûå íàñòðîéêè";
+$MESS["MAIN_USER_FIELD_TABLE_ENTITY_ID_TITLE"] = "ÐžÐ±ÑŠÐµÐºÑ‚";
+$MESS["MAIN_USER_FIELD_TABLE_FIELD_NAME_TITLE"] = "ÐšÐ¾Ð´ Ð¿Ð¾Ð»Ñ";
+$MESS["MAIN_USER_FIELD_TABLE_USER_TYPE_ID_TITLE"] = "Ð¢Ð¸Ð¿ Ð´Ð°Ð½Ð½Ñ‹Ñ…";
+$MESS["MAIN_USER_FIELD_TABLE_SORT_TITLE"] = "Ð¡Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²ÐºÐ°";
+$MESS["MAIN_USER_FIELD_TABLE_MULTIPLE_TITLE"] = "ÐœÐ½Ð¾Ð¶ÐµÑÑ‚Ð²ÐµÐ½Ð½Ð¾Ðµ";
+$MESS["MAIN_USER_FIELD_TABLE_MANDATORY_TITLE"] = "ÐžÐ±ÑÐ·Ð°Ñ‚ÐµÐ»ÑŒÐ½Ð¾Ðµ";
+$MESS["MAIN_USER_FIELD_TABLE_SHOW_FILTER_TITLE"] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ð² Ñ„Ð¸Ð»ÑŒÑ‚Ñ€Ðµ";
+$MESS["MAIN_USER_FIELD_TABLE_SHOW_IN_LIST_TITLE"] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ð² ÑÐ¿Ð¸ÑÐºÐµ";
+$MESS["MAIN_USER_FIELD_TABLE_EDIT_IN_LIST_TITLE"] = "Ð Ð°Ð·Ñ€ÐµÑˆÐ°Ñ‚ÑŒ Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÐµÐ¼";
+$MESS["MAIN_USER_FIELD_TABLE_IS_SEARCHABLE_TITLE"] = "Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ñ Ð¿Ð¾Ð»Ñ ÑƒÑ‡Ð°ÑÑ‚Ð²ÑƒÑŽÑ‚ Ð² Ð¿Ð¾Ð¸ÑÐºÐµ";
+$MESS["MAIN_USER_FIELD_TABLE_SETTINGS_TITLE"] = "Ð”Ð¾Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ðµ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸";

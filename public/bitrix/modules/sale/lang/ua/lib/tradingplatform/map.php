@@ -1,7 +1,7 @@
 <?
-$MESS["TRADING_PLATFORM_MAP_ENTITY_ID_FIELD"] = "²äåíòèô³êàòîð";
-$MESS["TRADING_PLATFORM_MAP_ENTITY_ENTITY_ID_FIELD"] = "²äåíòèô³êàòîð â³äîáðàæåííÿ ñóòíîñò³";
-$MESS["TRADING_PLATFORM_MAP_ENTITY_VALUE_EXTERNAL_FIELD"] = "Çîâí³øíº çíà÷åííÿ";
-$MESS["TRADING_PLATFORM_MAP_ENTITY_VALUE_INTERNAL_FIELD"] = "Âíóòð³øíº çíà÷åííÿ";
-$MESS["TRADING_PLATFORM_MAP_ENTITY_PARAMS_FIELD"] = "Ïàðàìåòðè";
+$MESS["TRADING_PLATFORM_MAP_ENTITY_ID_FIELD"] = "Ð†Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÐ°Ñ‚Ð¾Ñ€";
+$MESS["TRADING_PLATFORM_MAP_ENTITY_ENTITY_ID_FIELD"] = "Ð†Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÐ°Ñ‚Ð¾Ñ€ Ð²Ñ–Ð´Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð½Ñ ÑÑƒÑ‚Ð½Ð¾ÑÑ‚Ñ–";
+$MESS["TRADING_PLATFORM_MAP_ENTITY_VALUE_EXTERNAL_FIELD"] = "Ð—Ð¾Ð²Ð½Ñ–ÑˆÐ½Ñ” Ð·Ð½Ð°Ñ‡ÐµÐ½Ð½Ñ";
+$MESS["TRADING_PLATFORM_MAP_ENTITY_VALUE_INTERNAL_FIELD"] = "Ð’Ð½ÑƒÑ‚Ñ€Ñ–ÑˆÐ½Ñ” Ð·Ð½Ð°Ñ‡ÐµÐ½Ð½Ñ";
+$MESS["TRADING_PLATFORM_MAP_ENTITY_PARAMS_FIELD"] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð¸";
 ?>

@@ -1,3 +1,3 @@
 <?
-$MESS["MOBILEAPP_FILTER_ALL"] = "Âñå";
+$MESS["MOBILEAPP_FILTER_ALL"] = "Ð’ÑÐµ";
 ?>

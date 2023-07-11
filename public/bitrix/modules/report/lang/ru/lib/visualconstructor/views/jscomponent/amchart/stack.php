@@ -1,2 +1,2 @@
 <?php
-$MESS['REPORT_STACK_VIEW_LABEL'] = 'Ãèñòîãðàììà ñ íàêîïëåíèåì';
+$MESS['REPORT_STACK_VIEW_LABEL'] = 'Ð“Ð¸ÑÑ‚Ð¾Ð³Ñ€Ð°Ð¼Ð¼Ð° Ñ Ð½Ð°ÐºÐ¾Ð¿Ð»ÐµÐ½Ð¸ÐµÐ¼';

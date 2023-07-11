@@ -1,9 +1,9 @@
 <?
-$MESS["sms_template_id_title"] = "ID øàáëîíà";
-$MESS["sms_template_event_name_title"] = "Íàçâàíèå ñîáûòèÿ";
-$MESS["sms_template_active_title"] = "Àêòèâåí";
-$MESS["sms_template_sender_title"] = "Òåëåôîí îòïðàâèòåëÿ";
-$MESS["sms_template_receiver_title"] = "Òåëåôîí ïîëó÷àòåëÿ";
-$MESS["sms_template_message_title"] = "Øàáëîí ñîîáùåíèÿ";
-$MESS["sms_template_language_title"] = "ßçûê ñîîáùåíèÿ";
+$MESS["sms_template_id_title"] = "ID ÑˆÐ°Ð±Ð»Ð¾Ð½Ð°";
+$MESS["sms_template_event_name_title"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ";
+$MESS["sms_template_active_title"] = "ÐÐºÑ‚Ð¸Ð²ÐµÐ½";
+$MESS["sms_template_sender_title"] = "Ð¢ÐµÐ»ÐµÑ„Ð¾Ð½ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»Ñ";
+$MESS["sms_template_receiver_title"] = "Ð¢ÐµÐ»ÐµÑ„Ð¾Ð½ Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ";
+$MESS["sms_template_message_title"] = "Ð¨Ð°Ð±Ð»Ð¾Ð½ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
+$MESS["sms_template_language_title"] = "Ð¯Ð·Ñ‹Ðº ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
 ?>

@@ -1,5 +1,5 @@
 <?
-$MESS ['STAT_FORGOT_EVENT1'] = "Âû çàáûëè ââåñòè ïàðàìåòð event1";
-$MESS ['STAT_FORGOT_EVENT2'] = "Âû çàáûëè ââåñòè ïàðàìåòð event2";
-$MESS ['STAT_WRONG_EVENT'] = "Òàêàÿ êîìáèíàöèÿ ïàðàìåòðîâ event1, event2 óæå èñïîëüçóåòñÿ";
+$MESS ['STAT_FORGOT_EVENT1'] = "Ð’Ñ‹ Ð·Ð°Ð±Ñ‹Ð»Ð¸ Ð²Ð²ÐµÑÑ‚Ð¸ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€ event1";
+$MESS ['STAT_FORGOT_EVENT2'] = "Ð’Ñ‹ Ð·Ð°Ð±Ñ‹Ð»Ð¸ Ð²Ð²ÐµÑÑ‚Ð¸ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€ event2";
+$MESS ['STAT_WRONG_EVENT'] = "Ð¢Ð°ÐºÐ°Ñ ÐºÐ¾Ð¼Ð±Ð¸Ð½Ð°Ñ†Ð¸Ñ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð¾Ð² event1, event2 ÑƒÐ¶Ðµ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐµÑ‚ÑÑ";
 ?>

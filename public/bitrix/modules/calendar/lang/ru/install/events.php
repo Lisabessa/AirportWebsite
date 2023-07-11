@@ -1,39 +1,39 @@
 <?
-$MESS ['CALENDAR_INVITATION_NAME'] = "Приглашение на встречу";
+$MESS ['CALENDAR_INVITATION_NAME'] = "РџСЂРёРіР»Р°С€РµРЅРёРµ РЅР° РІСЃС‚СЂРµС‡Сѓ";
 $MESS ['CALENDAR_INVITATION_DESC'] = "
 
-#EMAIL_TO# - EMail приглашенного
-#TITLE# - Тема
-#MESSAGE# - Подробное описание встречи
+#EMAIL_TO# - EMail РїСЂРёРіР»Р°С€РµРЅРЅРѕРіРѕ
+#TITLE# - РўРµРјР°
+#MESSAGE# - РџРѕРґСЂРѕР±РЅРѕРµ РѕРїРёСЃР°РЅРёРµ РІСЃС‚СЂРµС‡Рё
 ";
 $MESS ['CALENDAR_INVITATION_AUTO_GENERATED'] = "
 
 ---------------------------------------------------------------------
 
-Сообщение сгенерировано автоматически.";
+РЎРѕРѕР±С‰РµРЅРёРµ СЃРіРµРЅРµСЂРёСЂРѕРІР°РЅРѕ Р°РІС‚РѕРјР°С‚РёС‡РµСЃРєРё.";
 
-$MESS['CALENDAR_ICAL_INVENT_NAME'] = "Отправка приглашения участнику ";
+$MESS['CALENDAR_ICAL_INVENT_NAME'] = "РћС‚РїСЂР°РІРєР° РїСЂРёРіР»Р°С€РµРЅРёСЏ СѓС‡Р°СЃС‚РЅРёРєСѓ ";
 $MESS['CALENDAR_ICAL_INVENT_DESC'] = "
-#DATE_START# - время начала описание
-#DATE_END# - время окончания описание
-#MESSAGE# - тестовое сообщение описание
+#DATE_START# - РІСЂРµРјСЏ РЅР°С‡Р°Р»Р° РѕРїРёСЃР°РЅРёРµ
+#DATE_END# - РІСЂРµРјСЏ РѕРєРѕРЅС‡Р°РЅРёСЏ РѕРїРёСЃР°РЅРёРµ
+#MESSAGE# - С‚РµСЃС‚РѕРІРѕРµ СЃРѕРѕР±С‰РµРЅРёРµ РѕРїРёСЃР°РЅРёРµ
 ";
 
 $MESS['CALENDAR_INVENT_MESSAGE_BODY'] = "
-<p>Приглашаю вас на встречу #NAME# в #DATE_START# до #DATE_END#. </p>
+<p>РџСЂРёРіР»Р°С€Р°СЋ РІР°СЃ РЅР° РІСЃС‚СЂРµС‡Сѓ #NAME# РІ #DATE_START# РґРѕ #DATE_END#. </p>
 
-<p>Которая пройдет #LOCATION#.</p>
+<p>РљРѕС‚РѕСЂР°СЏ РїСЂРѕР№РґРµС‚ #LOCATION#.</p>
 
-<p>Организатор #ORGANIZER#.</p>
+<p>РћСЂРіР°РЅРёР·Р°С‚РѕСЂ #ORGANIZER#.</p>
 
-<p>Участники: #ATTENDEES_LIST#.</p>
+<p>РЈС‡Р°СЃС‚РЅРёРєРё: #ATTENDEES_LIST#.</p>
 
-<p>Описание: #DESCRIPTION#.</p> 
+<p>РћРїРёСЃР°РЅРёРµ: #DESCRIPTION#.</p> 
 
-<p>Файлы: #FILES#</p>
+<p>Р¤Р°Р№Р»С‹: #FILES#</p>
 ";
 
 $MESS['CALENDAR_REPLY_MESSAGE_BODY'] = "
-<p>#NAME# ответил #ANSWER#</p>
+<p>#NAME# РѕС‚РІРµС‚РёР» #ANSWER#</p>
 ";
 ?>

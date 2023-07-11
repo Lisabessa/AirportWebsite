@@ -1,3 +1,3 @@
 <?
-$MESS ['MAIN_RATING_INDEX'] = "Ðåéòèíãè";
+$MESS ['MAIN_RATING_INDEX'] = "Ð ÐµÐ¹Ñ‚Ð¸Ð½Ð³Ð¸";
 ?>

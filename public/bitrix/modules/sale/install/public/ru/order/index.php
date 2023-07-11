@@ -1,6 +1,6 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Çàêàçû");
+$APPLICATION->SetTitle("Ð—Ð°ÐºÐ°Ð·Ñ‹");
 ?><?$APPLICATION->IncludeComponent("bitrix:sale.personal.order", ".default", Array(
 	"SEF_MODE"	=>	"N",
 	"ORDERS_PER_PAGE"	=>	"20",

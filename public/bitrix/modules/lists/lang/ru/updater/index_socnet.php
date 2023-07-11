@@ -1,5 +1,5 @@
 <?
-$MESS["NAME"] = "Ñïèñêè ãðóïï ñîöñåòè";
-$MESS["SECTION_NAME"] = "Ýëåìåíòû";
-$MESS["ELEMENT_NAME"] = "Ðàçäåëû";
+$MESS["NAME"] = "Ð¡Ð¿Ð¸ÑÐºÐ¸ Ð³Ñ€ÑƒÐ¿Ð¿ ÑÐ¾Ñ†ÑÐµÑ‚Ð¸";
+$MESS["SECTION_NAME"] = "Ð­Ð»ÐµÐ¼ÐµÐ½Ñ‚Ñ‹";
+$MESS["ELEMENT_NAME"] = "Ð Ð°Ð·Ð´ÐµÐ»Ñ‹";
 ?>

@@ -1,9 +1,9 @@
 <?
-$MESS["TAGS_BUTTON_OK"] = "Âûáðàòü";
-$MESS["TAGS_BUTTON_CANCEL"] = "Îòìåíèòü";
-$MESS["TAGS_BUTTON_SAVE"] = "Ñîõðàíèòü èçìåíåíèÿ";
-$MESS["TAGS_BUTTON_DISCARD"] = "Îòìåíèòü èçìåíåíèÿ";
-$MESS["TAGS_BUTTON_ADD_TITLE"] = "Äîáàâèòü íîâûå òåãè";
-$MESS["TAGS_BUTTON_EDIT_TITLE"] = "Ðåäàêòèðîâàòü òåãè";
-$MESS["TAGS_BUTTON_DELETE_TITLE"] = "Óäàëèòü òåã";
+$MESS["TAGS_BUTTON_OK"] = "Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ";
+$MESS["TAGS_BUTTON_CANCEL"] = "ÐžÑ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
+$MESS["TAGS_BUTTON_SAVE"] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ";
+$MESS["TAGS_BUTTON_DISCARD"] = "ÐžÑ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ";
+$MESS["TAGS_BUTTON_ADD_TITLE"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð½Ð¾Ð²Ñ‹Ðµ Ñ‚ÐµÐ³Ð¸";
+$MESS["TAGS_BUTTON_EDIT_TITLE"] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ñ‚ÐµÐ³Ð¸";
+$MESS["TAGS_BUTTON_DELETE_TITLE"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ Ñ‚ÐµÐ³";
 ?>

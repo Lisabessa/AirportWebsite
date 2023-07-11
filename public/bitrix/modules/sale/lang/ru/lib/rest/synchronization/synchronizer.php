@@ -1,6 +1,6 @@
 <?php
-$MESS["SYNCH_OUTCOMING_REPLICATION_OUTCOMING_ORDER_ERROR"] = "Îøèáêà âûãðóçêè çàêàçà âî âíåøíþþ ñèñòåìó. (#ERROR_MESSAGE#)";
-$MESS["SYNCH_OUTCOMING_REPLICATION_IMPORT_INTERNAL_ERROR"] = "Âíóòðåííèÿ îøèáêà";
-$MESS["SYNCH_OUTCOMING_REPLICATION_EXTERNAL_SYSTEM_MESS_IMPORT_EXTERNAL_ORDER"] = "Èìïîðò çàêàçà èç âíåøíåé ñècòåìû #EXTERNAL_SYSTEM#. Çàêàç ¹ #ORDER_ID#";
-$MESS["SYNCH_OUTCOMING_REPLICATION_EXTERNAL_SYSTEM_MESS_EXPORT_ORDER_SUCCESS"] = "Ýêñïîðò çàêàçà âî âíåøóþ ñècòåìó #EXTERNAL_SYSTEM#. Çàêàç ¹ #ORDER_ID#";
-$MESS["SYNCH_OUTCOMING_REPLICATION_EXTERNAL_SYSTEM_MESS_EXPORT_ORDER_ERROR"] = "Îøèáêà ýêñïîðòà çàêàçà âî âíåøóþ ñècòåìó #EXTERNAL_SYSTEM#. #ERROR_MESSAGE#";
+$MESS["SYNCH_OUTCOMING_REPLICATION_OUTCOMING_ORDER_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð²Ñ‹Ð³Ñ€ÑƒÐ·ÐºÐ¸ Ð·Ð°ÐºÐ°Ð·Ð° Ð²Ð¾ Ð²Ð½ÐµÑˆÐ½ÑŽÑŽ ÑÐ¸ÑÑ‚ÐµÐ¼Ñƒ. (#ERROR_MESSAGE#)";
+$MESS["SYNCH_OUTCOMING_REPLICATION_IMPORT_INTERNAL_ERROR"] = "Ð’Ð½ÑƒÑ‚Ñ€ÐµÐ½Ð½Ð¸Ñ Ð¾ÑˆÐ¸Ð±ÐºÐ°";
+$MESS["SYNCH_OUTCOMING_REPLICATION_EXTERNAL_SYSTEM_MESS_IMPORT_EXTERNAL_ORDER"] = "Ð˜Ð¼Ð¿Ð¾Ñ€Ñ‚ Ð·Ð°ÐºÐ°Ð·Ð° Ð¸Ð· Ð²Ð½ÐµÑˆÐ½ÐµÐ¹ ÑÐ¸cÑ‚ÐµÐ¼Ñ‹ #EXTERNAL_SYSTEM#. Ð—Ð°ÐºÐ°Ð· â„– #ORDER_ID#";
+$MESS["SYNCH_OUTCOMING_REPLICATION_EXTERNAL_SYSTEM_MESS_EXPORT_ORDER_SUCCESS"] = "Ð­ÐºÑÐ¿Ð¾Ñ€Ñ‚ Ð·Ð°ÐºÐ°Ð·Ð° Ð²Ð¾ Ð²Ð½ÐµÑˆÑƒÑŽ ÑÐ¸cÑ‚ÐµÐ¼Ñƒ #EXTERNAL_SYSTEM#. Ð—Ð°ÐºÐ°Ð· â„– #ORDER_ID#";
+$MESS["SYNCH_OUTCOMING_REPLICATION_EXTERNAL_SYSTEM_MESS_EXPORT_ORDER_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° ÑÐºÑÐ¿Ð¾Ñ€Ñ‚Ð° Ð·Ð°ÐºÐ°Ð·Ð° Ð²Ð¾ Ð²Ð½ÐµÑˆÑƒÑŽ ÑÐ¸cÑ‚ÐµÐ¼Ñƒ #EXTERNAL_SYSTEM#. #ERROR_MESSAGE#";

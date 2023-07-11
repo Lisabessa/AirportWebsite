@@ -1,8 +1,8 @@
 <?
-$MESS["KGP_EMPTY_ID"] = "Íå óêàçàí ID òîâàðà";
-$MESS["BT_MOD_CATALOG_PROD_ERR_PRODUCT_ID_ABSENT"] = "ID òîâàðà íå çàäàí èëè íåâåðåí";
-$MESS["BT_MOD_CATALOG_PROD_ERR_QUANTITY_ABSENT"] = "Êîëè÷åñòâî òîâàðà íå çàäàíî èëè íåâåðíî";
-$MESS["BT_MOD_CATALOG_PROD_ERR_NO_RESULT_CURRENCY"] = "Íå îïðåäåëåíà âàëþòà äëÿ ðàñ÷åòîâ";
-$MESS["BT_MOD_CATALOG_PROD_ERR_ELEMENT_ID_NOT_FOUND"] = "Íå íàéäåí ýëåìåíò èíôîáëîêà ##ID#";
-$MESS["BT_MOD_CATALOG_PROD_ERR_COST_CURRENCY"] = "Ïóñòàÿ âàëþòà ñåáåñòîèìîñòè";
+$MESS["KGP_EMPTY_ID"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ ID Ñ‚Ð¾Ð²Ð°Ñ€Ð°";
+$MESS["BT_MOD_CATALOG_PROD_ERR_PRODUCT_ID_ABSENT"] = "ID Ñ‚Ð¾Ð²Ð°Ñ€Ð° Ð½Ðµ Ð·Ð°Ð´Ð°Ð½ Ð¸Ð»Ð¸ Ð½ÐµÐ²ÐµÑ€ÐµÐ½";
+$MESS["BT_MOD_CATALOG_PROD_ERR_QUANTITY_ABSENT"] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ñ‚Ð¾Ð²Ð°Ñ€Ð° Ð½Ðµ Ð·Ð°Ð´Ð°Ð½Ð¾ Ð¸Ð»Ð¸ Ð½ÐµÐ²ÐµÑ€Ð½Ð¾";
+$MESS["BT_MOD_CATALOG_PROD_ERR_NO_RESULT_CURRENCY"] = "ÐÐµ Ð¾Ð¿Ñ€ÐµÐ´ÐµÐ»ÐµÐ½Ð° Ð²Ð°Ð»ÑŽÑ‚Ð° Ð´Ð»Ñ Ñ€Ð°ÑÑ‡ÐµÑ‚Ð¾Ð²";
+$MESS["BT_MOD_CATALOG_PROD_ERR_ELEMENT_ID_NOT_FOUND"] = "ÐÐµ Ð½Ð°Ð¹Ð´ÐµÐ½ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚ Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ° ##ID#";
+$MESS["BT_MOD_CATALOG_PROD_ERR_COST_CURRENCY"] = "ÐŸÑƒÑÑ‚Ð°Ñ Ð²Ð°Ð»ÑŽÑ‚Ð° ÑÐµÐ±ÐµÑÑ‚Ð¾Ð¸Ð¼Ð¾ÑÑ‚Ð¸";
 ?>

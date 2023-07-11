@@ -1,4 +1,4 @@
 <?
-$MESS["SALE_ORDER_ENTITY_NOT_FOUND"] = "Çàêàç íå íàéäåí";
-$MESS["SALE_EVENT_ON_BEFORE_ORDER_STATUS_CHANGE_ERROR"] = "Îøèáêà ïðè ñìåíå ñòàòóñà çàêàçà";
-$MESS["SALE_ORDER_ACCOUNT_NUMBER_EXISTS"] = "Çàêàç ñ òàêèì íîìåðîì óæå ñóùåñòâóåò";
+$MESS["SALE_ORDER_ENTITY_NOT_FOUND"] = "Ð—Ð°ÐºÐ°Ð· Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
+$MESS["SALE_EVENT_ON_BEFORE_ORDER_STATUS_CHANGE_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ ÑÐ¼ÐµÐ½Ðµ ÑÑ‚Ð°Ñ‚ÑƒÑÐ° Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["SALE_ORDER_ACCOUNT_NUMBER_EXISTS"] = "Ð—Ð°ÐºÐ°Ð· Ñ Ñ‚Ð°ÐºÐ¸Ð¼ Ð½Ð¾Ð¼ÐµÑ€Ð¾Ð¼ ÑƒÐ¶Ðµ ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÐµÑ‚";

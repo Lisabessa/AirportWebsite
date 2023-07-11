@@ -1,3 +1,3 @@
 <?
-$MESS["SONET_CONTENTVIEW_JS_HIDDEN_COUNT"] = "Ñêðûòî: #CNT#";
+$MESS["SONET_CONTENTVIEW_JS_HIDDEN_COUNT"] = "Ð¡ÐºÑ€Ñ‹Ñ‚Ð¾: #CNT#";
 ?>

@@ -1,3 +1,3 @@
 <?
-$MESS["SALE_CATALOG_CHANGE_VK_CATEGORY"] = "Âûáåðèòå êàòåãîðèþ";
-$MESS["SALE_CATALOG_VK_MAIN_ALBUM"] = "Îáùèé àëüáîì";
+$MESS["SALE_CATALOG_CHANGE_VK_CATEGORY"] = "Ð’Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ ÐºÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸ÑŽ";
+$MESS["SALE_CATALOG_VK_MAIN_ALBUM"] = "ÐžÐ±Ñ‰Ð¸Ð¹ Ð°Ð»ÑŒÐ±Ð¾Ð¼";

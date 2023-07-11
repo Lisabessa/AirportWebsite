@@ -1,5 +1,5 @@
 <?
-$MESS ['CATALOG_COMPARE_ELEMENTS'] = "Ñïèñîê ñðàâíèâàåìûõ ýëåìåíòîâ";
-$MESS ['CATALOG_COMPARE'] = "Ñðàâíèòü";
-$MESS ['CATALOG_DELETE'] = "Óáðàòü";
+$MESS ['CATALOG_COMPARE_ELEMENTS'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº ÑÑ€Ð°Ð²Ð½Ð¸Ð²Ð°ÐµÐ¼Ñ‹Ñ… ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð²";
+$MESS ['CATALOG_COMPARE'] = "Ð¡Ñ€Ð°Ð²Ð½Ð¸Ñ‚ÑŒ";
+$MESS ['CATALOG_DELETE'] = "Ð£Ð±Ñ€Ð°Ñ‚ÑŒ";
 ?>

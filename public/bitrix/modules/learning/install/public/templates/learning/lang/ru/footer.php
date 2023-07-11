@@ -1,3 +1,3 @@
 <?
-$MESS["LEARNING_TEMPLATE_COPYRIGHT"] = "&copy; 2002 Áèòðèêñ, 2007 1C-Áèòðèêñ";
+$MESS["LEARNING_TEMPLATE_COPYRIGHT"] = "&copy; 2002 Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ, 2007 1C-Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ";
 ?>

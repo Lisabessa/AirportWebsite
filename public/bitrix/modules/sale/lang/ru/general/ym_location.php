@@ -1,5 +1,5 @@
 <?
-$MESS["SALE_YML_BIG_LETTERS"] = "ÀÁÂÃÄÅ¨ÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞß";
-$MESS["SALE_YML_SMALL_LETTERS"] = "àáâãäå¸æçèéêëìíîïðñòóôõö÷øùúûüýþÿ";
-$MESS["SALE_YML_REPLACE_FROM"] = "¨,¸";
-$MESS["SALE_YML_REPLACE_TO"] = "å";
+$MESS["SALE_YML_BIG_LETTERS"] = "ÐÐ‘Ð’Ð“Ð”Ð•ÐÐ–Ð—Ð˜Ð™ÐšÐ›ÐœÐÐžÐŸÐ Ð¡Ð¢Ð£Ð¤Ð¥Ð¦Ð§Ð¨Ð©ÐªÐ«Ð¬Ð­Ð®Ð¯";
+$MESS["SALE_YML_SMALL_LETTERS"] = "Ð°Ð±Ð²Ð³Ð´ÐµÑ‘Ð¶Ð·Ð¸Ð¹ÐºÐ»Ð¼Ð½Ð¾Ð¿Ñ€ÑÑ‚ÑƒÑ„Ñ…Ñ†Ñ‡ÑˆÑ‰ÑŠÑ‹ÑŒÑÑŽÑ";
+$MESS["SALE_YML_REPLACE_FROM"] = "Ð,Ñ‘";
+$MESS["SALE_YML_REPLACE_TO"] = "Ðµ";

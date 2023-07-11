@@ -1,10 +1,10 @@
 <?
-$MESS["SALE_RESET"] = "Ñêàñóâàííÿ";
-$MESS["SALE_APPLY"] = "Çàñòîñóâàòè";
-$MESS["SALE_ID"] = "Êîä";
-$MESS["SALE_NO_PROFILE"] = "Ïðîô³ëü íå çíàéäåíèé";
-$MESS["SALE_PERS_TYPE"] = "Òèï ïëàòíèêà";
-$MESS["SALE_RECORDS_LIST"] = "Ó ñïèñîê ïðîô³ë³â";
-$MESS["SALE_SAVE"] = "Çáåðåãòè";
-$MESS["SALE_PNAME"] = "Íàçâà";
+$MESS["SALE_RESET"] = "Ð¡ÐºÐ°ÑÑƒÐ²Ð°Ð½Ð½Ñ";
+$MESS["SALE_APPLY"] = "Ð—Ð°ÑÑ‚Ð¾ÑÑƒÐ²Ð°Ñ‚Ð¸";
+$MESS["SALE_ID"] = "ÐšÐ¾Ð´";
+$MESS["SALE_NO_PROFILE"] = "ÐŸÑ€Ð¾Ñ„Ñ–Ð»ÑŒ Ð½Ðµ Ð·Ð½Ð°Ð¹Ð´ÐµÐ½Ð¸Ð¹";
+$MESS["SALE_PERS_TYPE"] = "Ð¢Ð¸Ð¿ Ð¿Ð»Ð°Ñ‚Ð½Ð¸ÐºÐ°";
+$MESS["SALE_RECORDS_LIST"] = "Ð£ ÑÐ¿Ð¸ÑÐ¾Ðº Ð¿Ñ€Ð¾Ñ„Ñ–Ð»Ñ–Ð²";
+$MESS["SALE_SAVE"] = "Ð—Ð±ÐµÑ€ÐµÐ³Ñ‚Ð¸";
+$MESS["SALE_PNAME"] = "ÐÐ°Ð·Ð²Ð°";
 ?>

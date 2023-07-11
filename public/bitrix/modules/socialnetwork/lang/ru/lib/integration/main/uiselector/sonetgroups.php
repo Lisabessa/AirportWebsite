@@ -1,4 +1,4 @@
 <?
-$MESS["MAIN_UI_SELECTOR_TAB_SONETGROUPS"] = "Ìîè ãðóïïû";
-$MESS["MAIN_UI_SELECTOR_TITLE_SONETGROUPS"] = "Ãðóïïû:";
+$MESS["MAIN_UI_SELECTOR_TAB_SONETGROUPS"] = "ÐœÐ¾Ð¸ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
+$MESS["MAIN_UI_SELECTOR_TITLE_SONETGROUPS"] = "Ð“Ñ€ÑƒÐ¿Ð¿Ñ‹:";
 ?>

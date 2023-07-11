@@ -1,6 +1,6 @@
 <?
-$MESS["CAL_DEFAULT_TYPE"] = "Ñîáûòèÿ";
-$MESS["CAL_TYPE_COMPANY_NAME"] = "Îñíîâíûå ñîáûòèÿ";
-$MESS["CAL_EVENT_1_NAME"] = "Äåíü ãîðîäà";
-$MESS["CAL_EVENT_2_NAME"] = "Îáùåãîðîäñêîé ñóááîòíèê";
+$MESS["CAL_DEFAULT_TYPE"] = "Ð¡Ð¾Ð±Ñ‹Ñ‚Ð¸Ñ";
+$MESS["CAL_TYPE_COMPANY_NAME"] = "ÐžÑÐ½Ð¾Ð²Ð½Ñ‹Ðµ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ";
+$MESS["CAL_EVENT_1_NAME"] = "Ð”ÐµÐ½ÑŒ Ð³Ð¾Ñ€Ð¾Ð´Ð°";
+$MESS["CAL_EVENT_2_NAME"] = "ÐžÐ±Ñ‰ÐµÐ³Ð¾Ñ€Ð¾Ð´ÑÐºÐ¾Ð¹ ÑÑƒÐ±Ð±Ð¾Ñ‚Ð½Ð¸Ðº";
 ?>

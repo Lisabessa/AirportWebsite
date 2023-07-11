@@ -1,5 +1,5 @@
 <?php
-$MESS['BIZPROC_ERROR_CONFIGURATION_IMPORT_EXCEPTION'] = 'Îøèáêà èìïîðòà, ïðîïóùåí èìïîðò ñóùíîñòè (#CODE#)';
-$MESS['BIZPROC_ERROR_CONFIGURATION_EXPORT_EXCEPTION'] = 'Îøèáêà ýêñïîðòà, ïðîïóùåí ýêñïîðò ñóùíîñòè (#CODE#)';
-$MESS['BIZPROC_ERROR_CONFIGURATION_CLEAR_EXCEPTION'] = 'Îøèáêà î÷èñòêè äàííûõ, ïðîïóùåíà î÷èñòêà ñóùíîñòè (#CODE#)';
-$MESS['BIZPROC_ERROR_CONFIGURATION_IMPORT_EXCEPTION_BP'] = 'Îøèáêà èìïîðòà, ïðîïóùåí èìïîðò áèçíåñ-ïðîöåññà';
+$MESS['BIZPROC_ERROR_CONFIGURATION_IMPORT_EXCEPTION'] = 'ÐžÑˆÐ¸Ð±ÐºÐ° Ð¸Ð¼Ð¿Ð¾Ñ€Ñ‚Ð°, Ð¿Ñ€Ð¾Ð¿ÑƒÑ‰ÐµÐ½ Ð¸Ð¼Ð¿Ð¾Ñ€Ñ‚ ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸ (#CODE#)';
+$MESS['BIZPROC_ERROR_CONFIGURATION_EXPORT_EXCEPTION'] = 'ÐžÑˆÐ¸Ð±ÐºÐ° ÑÐºÑÐ¿Ð¾Ñ€Ñ‚Ð°, Ð¿Ñ€Ð¾Ð¿ÑƒÑ‰ÐµÐ½ ÑÐºÑÐ¿Ð¾Ñ€Ñ‚ ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸ (#CODE#)';
+$MESS['BIZPROC_ERROR_CONFIGURATION_CLEAR_EXCEPTION'] = 'ÐžÑˆÐ¸Ð±ÐºÐ° Ð¾Ñ‡Ð¸ÑÑ‚ÐºÐ¸ Ð´Ð°Ð½Ð½Ñ‹Ñ…, Ð¿Ñ€Ð¾Ð¿ÑƒÑ‰ÐµÐ½Ð° Ð¾Ñ‡Ð¸ÑÑ‚ÐºÐ° ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸ (#CODE#)';
+$MESS['BIZPROC_ERROR_CONFIGURATION_IMPORT_EXCEPTION_BP'] = 'ÐžÑˆÐ¸Ð±ÐºÐ° Ð¸Ð¼Ð¿Ð¾Ñ€Ñ‚Ð°, Ð¿Ñ€Ð¾Ð¿ÑƒÑ‰ÐµÐ½ Ð¸Ð¼Ð¿Ð¾Ñ€Ñ‚ Ð±Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑÐ°';

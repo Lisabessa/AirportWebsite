@@ -1,6 +1,6 @@
 <?
-$MESS["ORDER_DELIVERY_EXTRA_SERVICES_ENTITY_ID_FIELD"] = "Èäåíòèôèêàòîð";
-$MESS["ORDER_DELIVERY_EXTRA_SERVICES_ENTITY_SHIPMENT_ID_FIELD"] = "Èäåíòèôèêàòîð îòãðóçêè";
-$MESS["ORDER_DELIVERY_EXTRA_SERVICES_ENTITY_EXTRA_SERVICE_ID_FIELD"] = "Èäåíòèôèêàòîð äîïîëíèòåëüíîé óñëóãè";
-$MESS["ORDER_DELIVERY_EXTRA_SERVICES_ENTITY_VALUE_FIELD"] = "Çíà÷åíèå";
+$MESS["ORDER_DELIVERY_EXTRA_SERVICES_ENTITY_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€";
+$MESS["ORDER_DELIVERY_EXTRA_SERVICES_ENTITY_SHIPMENT_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸";
+$MESS["ORDER_DELIVERY_EXTRA_SERVICES_ENTITY_EXTRA_SERVICE_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð´Ð¾Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾Ð¹ ÑƒÑÐ»ÑƒÐ³Ð¸";
+$MESS["ORDER_DELIVERY_EXTRA_SERVICES_ENTITY_VALUE_FIELD"] = "Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ";
 ?>

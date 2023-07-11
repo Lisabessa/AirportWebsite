@@ -1,4 +1,4 @@
 <?
-$MESS ['MENU_TREE_NAME'] = "Ëåâîå ìåíþ";
-$MESS ['MENU_TREE_DESC'] = "Ëåâîå ìåíþ";
+$MESS ['MENU_TREE_NAME'] = "Ð›ÐµÐ²Ð¾Ðµ Ð¼ÐµÐ½ÑŽ";
+$MESS ['MENU_TREE_DESC'] = "Ð›ÐµÐ²Ð¾Ðµ Ð¼ÐµÐ½ÑŽ";
 ?>

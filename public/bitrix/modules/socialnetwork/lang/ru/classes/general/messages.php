@@ -1,16 +1,16 @@
 <?
-$MESS ['SONET_M_EMPTY_FROM_USER_ID'] = "Íå óêàçàí îòïðàâèòåëü";
-$MESS ['SONET_M_ERROR_NO_FROM_USER_ID'] = "Îòïðàâèòåëü óêàçàí íåâåðíî";
-$MESS ['SONET_M_EMPTY_TO_USER_ID'] = "Íå óêàçàí ïîëó÷àòåëü";
-$MESS ['SONET_M_ERROR_NO_TO_USER_ID'] = "Ïîëó÷àòåëü óêàçàí íåâåðíî";
-$MESS ['SONET_GB_EMPTY_DATE_CREATE'] = "Äàòà ñîçäàíèÿ óêàçàíà íåâåðíî";
-$MESS ['SONET_MM_EMPTY_DATE_VIEW'] = "Äàòà ïðî÷òåíèÿ óêàçàíà íåâåðíî";
-$MESS ['SONET_UR_EMPTY_SENDER_USER_ID'] = "Íå óêàçàí îòïðàâèòåëü ñîîáùåíèÿ";
-$MESS ['SONET_UR_EMPTY_MESSAGE_ID'] = "Íå óêàçàí êîä ñîîáùåíèÿ";
-$MESS ['SONET_UR_ERROR_UPDATE_MESSAGE'] = "Íå óäàëîñü îáíîâèòü ñîîáùåíèå";
-$MESS ['SONET_UR_NO_MESSAGE'] = "Ñîîáùåíèå íå íàéäåíî";
-$MESS ['SONET_UR_EMPTY_TARGET_USER_ID'] = "Íå óêàçàí ïîëó÷àòåëü ñîîáùåíèÿ";
-$MESS ['SONET_UR_EMPTY_MESSAGE'] = "Íå óêàçàíî ñîîáùåíèå";
-$MESS ['SONET_UR_ERROR_CREATE_MESSAGE'] = "Îøèáêà ñîçäàíèÿ ñîîáùåíèÿ";
-$MESS ['SONET_M_ERROR_DELETE_MESSAGE'] = "Íå óäàëîñü óäàëèòü ñîîáùåíèå";
+$MESS ['SONET_M_EMPTY_FROM_USER_ID'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»ÑŒ";
+$MESS ['SONET_M_ERROR_NO_FROM_USER_ID'] = "ÐžÑ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»ÑŒ ÑƒÐºÐ°Ð·Ð°Ð½ Ð½ÐµÐ²ÐµÑ€Ð½Ð¾";
+$MESS ['SONET_M_EMPTY_TO_USER_ID'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»ÑŒ";
+$MESS ['SONET_M_ERROR_NO_TO_USER_ID'] = "ÐŸÐ¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»ÑŒ ÑƒÐºÐ°Ð·Ð°Ð½ Ð½ÐµÐ²ÐµÑ€Ð½Ð¾";
+$MESS ['SONET_GB_EMPTY_DATE_CREATE'] = "Ð”Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ ÑƒÐºÐ°Ð·Ð°Ð½Ð° Ð½ÐµÐ²ÐµÑ€Ð½Ð¾";
+$MESS ['SONET_MM_EMPTY_DATE_VIEW'] = "Ð”Ð°Ñ‚Ð° Ð¿Ñ€Ð¾Ñ‡Ñ‚ÐµÐ½Ð¸Ñ ÑƒÐºÐ°Ð·Ð°Ð½Ð° Ð½ÐµÐ²ÐµÑ€Ð½Ð¾";
+$MESS ['SONET_UR_EMPTY_SENDER_USER_ID'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»ÑŒ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
+$MESS ['SONET_UR_EMPTY_MESSAGE_ID'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ ÐºÐ¾Ð´ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
+$MESS ['SONET_UR_ERROR_UPDATE_MESSAGE'] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ Ð¾Ð±Ð½Ð¾Ð²Ð¸Ñ‚ÑŒ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ";
+$MESS ['SONET_UR_NO_MESSAGE'] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾";
+$MESS ['SONET_UR_EMPTY_TARGET_USER_ID'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»ÑŒ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
+$MESS ['SONET_UR_EMPTY_MESSAGE'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ";
+$MESS ['SONET_UR_ERROR_CREATE_MESSAGE'] = "ÐžÑˆÐ¸Ð±ÐºÐ° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
+$MESS ['SONET_M_ERROR_DELETE_MESSAGE'] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ";
 ?>

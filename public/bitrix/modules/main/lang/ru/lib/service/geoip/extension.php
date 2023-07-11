@@ -1,11 +1,11 @@
 <?
-$MESS["MAIN_SRV_GEOIP_EXT_TITLE"] = 'Расширение GeoIP';
-$MESS["MAIN_SRV_GEOIP_EXT_DESCRIPTION"] = "Расширение GeoIP позволяет найти местоположение по IP-адресу. С помощью GeoIP можно получить такую информацию как город, государство, страна, долгота и широта, а также можно узнать, интернет-провайдера и тип соединения.<br>
-	Информацию по установке и настройке можно узнать по адресу: <a href='http://php.net/manual/ru/book.geoip.php'>http://php.net/manual/ru/book.geoip.php</a>";
-$MESS["MAIN_SRV_GEOIP_EXT_DB_COUNTRY"] = 'Страны';
-$MESS["MAIN_SRV_GEOIP_EXT_DB_CITY"] = 'Города';
-$MESS["MAIN_SRV_GEOIP_EXT_DB_ORG"] = 'Организации';
-$MESS["MAIN_SRV_GEOIP_EXT_DB_ISP"] = 'Интернет-провайдеры';
-$MESS["MAIN_SRV_GEOIP_EXT_DB_ASN"] = 'Автономные системы';
-$MESS["MAIN_SRV_GEOIP_EXT_DB_AVIALABLE"] = 'Доступные базы данных';
-$MESS["MAIN_SRV_GEOIP_EXT_NOT_REQ"] = 'Дополнительных настроек не требуется';
+$MESS["MAIN_SRV_GEOIP_EXT_TITLE"] = 'Р Р°СЃС€РёСЂРµРЅРёРµ GeoIP';
+$MESS["MAIN_SRV_GEOIP_EXT_DESCRIPTION"] = "Р Р°СЃС€РёСЂРµРЅРёРµ GeoIP РїРѕР·РІРѕР»СЏРµС‚ РЅР°Р№С‚Рё РјРµСЃС‚РѕРїРѕР»РѕР¶РµРЅРёРµ РїРѕ IP-Р°РґСЂРµСЃСѓ. РЎ РїРѕРјРѕС‰СЊСЋ GeoIP РјРѕР¶РЅРѕ РїРѕР»СѓС‡РёС‚СЊ С‚Р°РєСѓСЋ РёРЅС„РѕСЂРјР°С†РёСЋ РєР°Рє РіРѕСЂРѕРґ, РіРѕСЃСѓРґР°СЂСЃС‚РІРѕ, СЃС‚СЂР°РЅР°, РґРѕР»РіРѕС‚Р° Рё С€РёСЂРѕС‚Р°, Р° С‚Р°РєР¶Рµ РјРѕР¶РЅРѕ СѓР·РЅР°С‚СЊ, РёРЅС‚РµСЂРЅРµС‚-РїСЂРѕРІР°Р№РґРµСЂР° Рё С‚РёРї СЃРѕРµРґРёРЅРµРЅРёСЏ.<br>
+	РРЅС„РѕСЂРјР°С†РёСЋ РїРѕ СѓСЃС‚Р°РЅРѕРІРєРµ Рё РЅР°СЃС‚СЂРѕР№РєРµ РјРѕР¶РЅРѕ СѓР·РЅР°С‚СЊ РїРѕ Р°РґСЂРµСЃСѓ: <a href='http://php.net/manual/ru/book.geoip.php'>http://php.net/manual/ru/book.geoip.php</a>";
+$MESS["MAIN_SRV_GEOIP_EXT_DB_COUNTRY"] = 'РЎС‚СЂР°РЅС‹';
+$MESS["MAIN_SRV_GEOIP_EXT_DB_CITY"] = 'Р“РѕСЂРѕРґР°';
+$MESS["MAIN_SRV_GEOIP_EXT_DB_ORG"] = 'РћСЂРіР°РЅРёР·Р°С†РёРё';
+$MESS["MAIN_SRV_GEOIP_EXT_DB_ISP"] = 'РРЅС‚РµСЂРЅРµС‚-РїСЂРѕРІР°Р№РґРµСЂС‹';
+$MESS["MAIN_SRV_GEOIP_EXT_DB_ASN"] = 'РђРІС‚РѕРЅРѕРјРЅС‹Рµ СЃРёСЃС‚РµРјС‹';
+$MESS["MAIN_SRV_GEOIP_EXT_DB_AVIALABLE"] = 'Р”РѕСЃС‚СѓРїРЅС‹Рµ Р±Р°Р·С‹ РґР°РЅРЅС‹С…';
+$MESS["MAIN_SRV_GEOIP_EXT_NOT_REQ"] = 'Р”РѕРїРѕР»РЅРёС‚РµР»СЊРЅС‹С… РЅР°СЃС‚СЂРѕРµРє РЅРµ С‚СЂРµР±СѓРµС‚СЃСЏ';

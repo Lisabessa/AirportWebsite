@@ -1,7 +1,7 @@
 <?
-$MESS ['STAT_RECORDS_LIST'] = "Êðóãîâàÿ äèàãðàììà òèïîâ ñîáûòèé";
-$MESS ['STAT_F_PERIOD'] = "Ïåðèîä";
-$MESS ['STAT_F_EVENTS'] = "Òèïû ñîáûòèé:";
-$MESS ['STAT_VIEW_EVENT_LIST'] = "Ñïèñîê ñîáûòèé";
-$MESS ['STAT_VIEW_GRAPH'] = "Ãðàôèê äàííîãî òèïà ñîáûòèÿ";
+$MESS ['STAT_RECORDS_LIST'] = "ÐšÑ€ÑƒÐ³Ð¾Ð²Ð°Ñ Ð´Ð¸Ð°Ð³Ñ€Ð°Ð¼Ð¼Ð° Ñ‚Ð¸Ð¿Ð¾Ð² ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ð¹";
+$MESS ['STAT_F_PERIOD'] = "ÐŸÐµÑ€Ð¸Ð¾Ð´";
+$MESS ['STAT_F_EVENTS'] = "Ð¢Ð¸Ð¿Ñ‹ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ð¹:";
+$MESS ['STAT_VIEW_EVENT_LIST'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ð¹";
+$MESS ['STAT_VIEW_GRAPH'] = "Ð“Ñ€Ð°Ñ„Ð¸Ðº Ð´Ð°Ð½Ð½Ð¾Ð³Ð¾ Ñ‚Ð¸Ð¿Ð° ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ";
 ?>

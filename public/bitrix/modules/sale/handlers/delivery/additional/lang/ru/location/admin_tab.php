@@ -1,5 +1,5 @@
 <?
-$MESS["SALE_DLVRS_ADDL_LOC_TAB_COUNT"] = "Ìåñòîïîëîæåíèé â ìàãàçèíå";
-$MESS["SALE_DLVRS_ADDL_LOC_TAB_COUNT_H"] = "Ìåñòîïîëîæåíèé ïîääåðæèâàåòñÿ îáðàáîò÷èêîì";
-$MESS["SALE_DLVRS_ADDL_LOC_TAB_COUNT_COMP"] = "Ñîïîñòàâëåíî";
-$MESS["SALE_DLVRS_ADDL_LOC_TAB_B_COMP"] = "Ñîïîñòàâèòü";
+$MESS["SALE_DLVRS_ADDL_LOC_TAB_COUNT"] = "ÐœÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹ Ð² Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ðµ";
+$MESS["SALE_DLVRS_ADDL_LOC_TAB_COUNT_H"] = "ÐœÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹ Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶Ð¸Ð²Ð°ÐµÑ‚ÑÑ Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚Ñ‡Ð¸ÐºÐ¾Ð¼";
+$MESS["SALE_DLVRS_ADDL_LOC_TAB_COUNT_COMP"] = "Ð¡Ð¾Ð¿Ð¾ÑÑ‚Ð°Ð²Ð»ÐµÐ½Ð¾";
+$MESS["SALE_DLVRS_ADDL_LOC_TAB_B_COMP"] = "Ð¡Ð¾Ð¿Ð¾ÑÑ‚Ð°Ð²Ð¸Ñ‚ÑŒ";

@@ -1,19 +1,19 @@
 <?
-$MESS ['IBLOCK_INSTALL_COMPANY_NEWS'] = "Íîâîñòè êîìïàíèè";
-$MESS ['IBLOCK_INSTALL_SOURCE'] = "Èñòî÷íèê";
-$MESS ['IBLOCK_INSTALL_PRODUCTS'] = "Òîâàðû";
-$MESS ['IBLOCK_INSTALL_SIMILAR_PRODUCTS'] = "Àíàëîãè÷íûå òîâàðû";
-$MESS ['IBLOCK_INSTALL_NEWS_NAME'] = "Íîâîñòè";
-$MESS ['IBLOCK_INSTALL_NEWS_SECTIONS_NAME'] = "Ðàçäåëû";
-$MESS ['IBLOCK_INSTALL_NEWS_ELEMENTS_NAME'] = "Íîâîñòè";
-$MESS ['IBLOCK_INSTALL_NEWS_SECTION_NAME'] = "Ðàçäåë";
-$MESS ['IBLOCK_INSTALL_NEWS_ELEMENT_NAME'] = "Íîâîñòü";
-$MESS ['IBLOCK_INSTALL_CATALOG_NAME'] = "Êàòàëîã";
-$MESS ['IBLOCK_INSTALL_CATALOG_SECTIONS_NAME'] = "Ðàçäåëû";
-$MESS ['IBLOCK_INSTALL_CATALOG_ELEMENTS_NAME'] = "Òîâàðû";
-$MESS ['IBLOCK_INSTALL_CATALOG_SECTION_NAME'] = "Ðàçäåë";
-$MESS ['IBLOCK_INSTALL_CATALOG_ELEMENT_NAME'] = "Òîâàð";
-$MESS ['IBLOCK_DEMO_DIR'] = "Ðàáîòó êîìïîíåíò â ïóáëè÷íîé ÷àñòè âû ìîæåòå ïîñìîòðåòü ïî íèæåñëåäóþùèì ññûëêàì:";
-$MESS ['IBLOCK_SITE'] = "Ñàéò";
-$MESS ['IBLOCK_LINK'] = "Ññûëêà";
+$MESS ['IBLOCK_INSTALL_COMPANY_NEWS'] = "ÐÐ¾Ð²Ð¾ÑÑ‚Ð¸ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸";
+$MESS ['IBLOCK_INSTALL_SOURCE'] = "Ð˜ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº";
+$MESS ['IBLOCK_INSTALL_PRODUCTS'] = "Ð¢Ð¾Ð²Ð°Ñ€Ñ‹";
+$MESS ['IBLOCK_INSTALL_SIMILAR_PRODUCTS'] = "ÐÐ½Ð°Ð»Ð¾Ð³Ð¸Ñ‡Ð½Ñ‹Ðµ Ñ‚Ð¾Ð²Ð°Ñ€Ñ‹";
+$MESS ['IBLOCK_INSTALL_NEWS_NAME'] = "ÐÐ¾Ð²Ð¾ÑÑ‚Ð¸";
+$MESS ['IBLOCK_INSTALL_NEWS_SECTIONS_NAME'] = "Ð Ð°Ð·Ð´ÐµÐ»Ñ‹";
+$MESS ['IBLOCK_INSTALL_NEWS_ELEMENTS_NAME'] = "ÐÐ¾Ð²Ð¾ÑÑ‚Ð¸";
+$MESS ['IBLOCK_INSTALL_NEWS_SECTION_NAME'] = "Ð Ð°Ð·Ð´ÐµÐ»";
+$MESS ['IBLOCK_INSTALL_NEWS_ELEMENT_NAME'] = "ÐÐ¾Ð²Ð¾ÑÑ‚ÑŒ";
+$MESS ['IBLOCK_INSTALL_CATALOG_NAME'] = "ÐšÐ°Ñ‚Ð°Ð»Ð¾Ð³";
+$MESS ['IBLOCK_INSTALL_CATALOG_SECTIONS_NAME'] = "Ð Ð°Ð·Ð´ÐµÐ»Ñ‹";
+$MESS ['IBLOCK_INSTALL_CATALOG_ELEMENTS_NAME'] = "Ð¢Ð¾Ð²Ð°Ñ€Ñ‹";
+$MESS ['IBLOCK_INSTALL_CATALOG_SECTION_NAME'] = "Ð Ð°Ð·Ð´ÐµÐ»";
+$MESS ['IBLOCK_INSTALL_CATALOG_ELEMENT_NAME'] = "Ð¢Ð¾Ð²Ð°Ñ€";
+$MESS ['IBLOCK_DEMO_DIR'] = "Ð Ð°Ð±Ð¾Ñ‚Ñƒ ÐºÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚ Ð² Ð¿ÑƒÐ±Ð»Ð¸Ñ‡Ð½Ð¾Ð¹ Ñ‡Ð°ÑÑ‚Ð¸ Ð²Ñ‹ Ð¼Ð¾Ð¶ÐµÑ‚Ðµ Ð¿Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ÐµÑ‚ÑŒ Ð¿Ð¾ Ð½Ð¸Ð¶ÐµÑÐ»ÐµÐ´ÑƒÑŽÑ‰Ð¸Ð¼ ÑÑÑ‹Ð»ÐºÐ°Ð¼:";
+$MESS ['IBLOCK_SITE'] = "Ð¡Ð°Ð¹Ñ‚";
+$MESS ['IBLOCK_LINK'] = "Ð¡ÑÑ‹Ð»ÐºÐ°";
 ?>

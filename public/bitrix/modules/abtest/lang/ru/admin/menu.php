@@ -1,4 +1,4 @@
 <?php
 
-$MESS["ABTEST_MENU_TEXT"] = "A/B-òåñòèðîâàíèå";
-$MESS["ABTEST_MENU_TITLE"] = "A/B-òåñòèðîâàíèå";
+$MESS["ABTEST_MENU_TEXT"] = "A/B-Ñ‚ÐµÑÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ";
+$MESS["ABTEST_MENU_TITLE"] = "A/B-Ñ‚ÐµÑÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ";

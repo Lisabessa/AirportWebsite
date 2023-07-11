@@ -1,79 +1,79 @@
 <?
-$MESS["SALE_VK_ONLY_RUSSIAN"] = "Экспорт ВКонтакте доступен только на русском языке.";
-$MESS["SALE_VK_ONLY_RUSSIAN_2"] = "Если вы хотите настроить обмен - измените язык сайта (в верхнем меню).";
+$MESS["SALE_VK_ONLY_RUSSIAN"] = "Р­РєСЃРїРѕСЂС‚ Р’РљРѕРЅС‚Р°РєС‚Рµ РґРѕСЃС‚СѓРїРµРЅ С‚РѕР»СЊРєРѕ РЅР° СЂСѓСЃСЃРєРѕРј СЏР·С‹РєРµ.";
+$MESS["SALE_VK_ONLY_RUSSIAN_2"] = "Р•СЃР»Рё РІС‹ С…РѕС‚РёС‚Рµ РЅР°СЃС‚СЂРѕРёС‚СЊ РѕР±РјРµРЅ - РёР·РјРµРЅРёС‚Рµ СЏР·С‹Рє СЃР°Р№С‚Р° (РІ РІРµСЂС…РЅРµРј РјРµРЅСЋ).";
 
-$MESS["SALE_VK_ACCESS_DENIED"] = "Доступ запрещён";
-$MESS["SALE_VK_MODULE_NOT_INSTALLED"] = "Не установлен модуль магазина";
+$MESS["SALE_VK_ACCESS_DENIED"] = "Р”РѕСЃС‚СѓРї Р·Р°РїСЂРµС‰С‘РЅ";
+$MESS["SALE_VK_MODULE_NOT_INSTALLED"] = "РќРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅ РјРѕРґСѓР»СЊ РјР°РіР°Р·РёРЅР°";
 
-$MESS["SALE_VK_TITLE_NEW"] = "Экспорт ВКонтакте - новый профиль";
-$MESS["SALE_VK_TITLE"] = "Экспорт ВКонтакте - #E1#";
-$MESS["SALE_VK_TAB_EXPORT"] = "Обмен";
-$MESS["SALE_VK_TAB_EXPORT_DESC"] = "Обмен данными";
-$MESS["SALE_VK_TAB_SETTINGS"] = "Настройки";
-$MESS["SALE_VK_TAB_SETTINGS_DESC"] = "Настройки обмена";
-$MESS["SALE_VK_TAB_MAP"] = "Карта экспорта";
-$MESS["SALE_VK_TAB_MAP_DESC"] = "Список разделов, отмеченных для экспорта";
-$MESS["SALE_VK_TAB_MAP_LOAD"] = "Подготовка карты...";
+$MESS["SALE_VK_TITLE_NEW"] = "Р­РєСЃРїРѕСЂС‚ Р’РљРѕРЅС‚Р°РєС‚Рµ - РЅРѕРІС‹Р№ РїСЂРѕС„РёР»СЊ";
+$MESS["SALE_VK_TITLE"] = "Р­РєСЃРїРѕСЂС‚ Р’РљРѕРЅС‚Р°РєС‚Рµ - #E1#";
+$MESS["SALE_VK_TAB_EXPORT"] = "РћР±РјРµРЅ";
+$MESS["SALE_VK_TAB_EXPORT_DESC"] = "РћР±РјРµРЅ РґР°РЅРЅС‹РјРё";
+$MESS["SALE_VK_TAB_SETTINGS"] = "РќР°СЃС‚СЂРѕР№РєРё";
+$MESS["SALE_VK_TAB_SETTINGS_DESC"] = "РќР°СЃС‚СЂРѕР№РєРё РѕР±РјРµРЅР°";
+$MESS["SALE_VK_TAB_MAP"] = "РљР°СЂС‚Р° СЌРєСЃРїРѕСЂС‚Р°";
+$MESS["SALE_VK_TAB_MAP_DESC"] = "РЎРїРёСЃРѕРє СЂР°Р·РґРµР»РѕРІ, РѕС‚РјРµС‡РµРЅРЅС‹С… РґР»СЏ СЌРєСЃРїРѕСЂС‚Р°";
+$MESS["SALE_VK_TAB_MAP_LOAD"] = "РџРѕРґРіРѕС‚РѕРІРєР° РєР°СЂС‚С‹...";
 
-$MESS["SALE_VK_SETTINGS_BUTTON_CONFIRM"] = "Вы хотите продолжить?";
+$MESS["SALE_VK_SETTINGS_BUTTON_CONFIRM"] = "Р’С‹ С…РѕС‚РёС‚Рµ РїСЂРѕРґРѕР»Р¶РёС‚СЊ?";
 
-$MESS["SALE_VK_EXPORT_BUTTON_CLEAR_LOG"] = "Я прочитал";
-$MESS["SALE_VK_EXPORT_BUTTON_CLEAR_LOG_ALERT"] = "Лог ошибок будет очищен. Продолжить?";
-$MESS["SALE_VK_EXPORT_BUTTON_ALL"] = "Запустить обмен";
-$MESS["SALE_VK_EXPORT_STATISTIC"] = "Статистика";
+$MESS["SALE_VK_EXPORT_BUTTON_CLEAR_LOG"] = "РЇ РїСЂРѕС‡РёС‚Р°Р»";
+$MESS["SALE_VK_EXPORT_BUTTON_CLEAR_LOG_ALERT"] = "Р›РѕРі РѕС€РёР±РѕРє Р±СѓРґРµС‚ РѕС‡РёС‰РµРЅ. РџСЂРѕРґРѕР»Р¶РёС‚СЊ?";
+$MESS["SALE_VK_EXPORT_BUTTON_ALL"] = "Р—Р°РїСѓСЃС‚РёС‚СЊ РѕР±РјРµРЅ";
+$MESS["SALE_VK_EXPORT_STATISTIC"] = "РЎС‚Р°С‚РёСЃС‚РёРєР°";
 
-$MESS["SALE_VK_EXPORT_BUTTON_ADDITIONAL_ADD"] = "Обмен по частям";
-$MESS["SALE_VK_EXPORT_BUTTON_ADDITIONAL_DEL"] = "Удаление";
+$MESS["SALE_VK_EXPORT_BUTTON_ADDITIONAL_ADD"] = "РћР±РјРµРЅ РїРѕ С‡Р°СЃС‚СЏРј";
+$MESS["SALE_VK_EXPORT_BUTTON_ADDITIONAL_DEL"] = "РЈРґР°Р»РµРЅРёРµ";
 
-$MESS["SALE_VK_EXPORT_BUTTON_PRODUCTS"] = "Обмен товаров";
-$MESS["SALE_VK_EXPORT_BUTTON_PRODUCTS_DELETE"] = "Удалить только экспортированные товары";
-$MESS["SALE_VK_EXPORT_BUTTON_PRODUCTS_DELETE_ALERT"] = "Внимание! Будут удалены все товары, ранее экспортированные во ВКонтакте.";
-$MESS["SALE_VK_EXPORT_BUTTON_PRODUCTS_DELETE_ALL"] = "Удалить все товары ВКонтакте";
-$MESS["SALE_VK_EXPORT_BUTTON_PRODUCTS_DELETE_ALL_ALERT"] = "Внимание! Будут удалены все альбомы во ВКонтакте (добавленные как посредством экспорта, так и вручную).";
-$MESS["SALE_VK_EXPORT_BUTTON_ALBUMS"] = "Обмен подборок товаров";
-$MESS["SALE_VK_EXPORT_BUTTON_ALBUMS_DELETE"] = "Удалить только экспортированные альбомы";
-$MESS["SALE_VK_EXPORT_BUTTON_ALBUMS_DELETE_ALERT"] = "Внимание! Будут удалены все альбомы, ранее экспортированные во ВКонтакте.";
-$MESS["SALE_VK_EXPORT_BUTTON_ALBUMS_DELETE_ALL"] = "Удалить все альбомы ВКонтакте";
-$MESS["SALE_VK_EXPORT_BUTTON_ALBUMS_DELETE_ALL_ALERT"] = "Внимание! Будут удалены все альбомы во ВКонтакте (добавленные как посредством экспорта, так и вручную).";
+$MESS["SALE_VK_EXPORT_BUTTON_PRODUCTS"] = "РћР±РјРµРЅ С‚РѕРІР°СЂРѕРІ";
+$MESS["SALE_VK_EXPORT_BUTTON_PRODUCTS_DELETE"] = "РЈРґР°Р»РёС‚СЊ С‚РѕР»СЊРєРѕ СЌРєСЃРїРѕСЂС‚РёСЂРѕРІР°РЅРЅС‹Рµ С‚РѕРІР°СЂС‹";
+$MESS["SALE_VK_EXPORT_BUTTON_PRODUCTS_DELETE_ALERT"] = "Р’РЅРёРјР°РЅРёРµ! Р‘СѓРґСѓС‚ СѓРґР°Р»РµРЅС‹ РІСЃРµ С‚РѕРІР°СЂС‹, СЂР°РЅРµРµ СЌРєСЃРїРѕСЂС‚РёСЂРѕРІР°РЅРЅС‹Рµ РІРѕ Р’РљРѕРЅС‚Р°РєС‚Рµ.";
+$MESS["SALE_VK_EXPORT_BUTTON_PRODUCTS_DELETE_ALL"] = "РЈРґР°Р»РёС‚СЊ РІСЃРµ С‚РѕРІР°СЂС‹ Р’РљРѕРЅС‚Р°РєС‚Рµ";
+$MESS["SALE_VK_EXPORT_BUTTON_PRODUCTS_DELETE_ALL_ALERT"] = "Р’РЅРёРјР°РЅРёРµ! Р‘СѓРґСѓС‚ СѓРґР°Р»РµРЅС‹ РІСЃРµ Р°Р»СЊР±РѕРјС‹ РІРѕ Р’РљРѕРЅС‚Р°РєС‚Рµ (РґРѕР±Р°РІР»РµРЅРЅС‹Рµ РєР°Рє РїРѕСЃСЂРµРґСЃС‚РІРѕРј СЌРєСЃРїРѕСЂС‚Р°, С‚Р°Рє Рё РІСЂСѓС‡РЅСѓСЋ).";
+$MESS["SALE_VK_EXPORT_BUTTON_ALBUMS"] = "РћР±РјРµРЅ РїРѕРґР±РѕСЂРѕРє С‚РѕРІР°СЂРѕРІ";
+$MESS["SALE_VK_EXPORT_BUTTON_ALBUMS_DELETE"] = "РЈРґР°Р»РёС‚СЊ С‚РѕР»СЊРєРѕ СЌРєСЃРїРѕСЂС‚РёСЂРѕРІР°РЅРЅС‹Рµ Р°Р»СЊР±РѕРјС‹";
+$MESS["SALE_VK_EXPORT_BUTTON_ALBUMS_DELETE_ALERT"] = "Р’РЅРёРјР°РЅРёРµ! Р‘СѓРґСѓС‚ СѓРґР°Р»РµРЅС‹ РІСЃРµ Р°Р»СЊР±РѕРјС‹, СЂР°РЅРµРµ СЌРєСЃРїРѕСЂС‚РёСЂРѕРІР°РЅРЅС‹Рµ РІРѕ Р’РљРѕРЅС‚Р°РєС‚Рµ.";
+$MESS["SALE_VK_EXPORT_BUTTON_ALBUMS_DELETE_ALL"] = "РЈРґР°Р»РёС‚СЊ РІСЃРµ Р°Р»СЊР±РѕРјС‹ Р’РљРѕРЅС‚Р°РєС‚Рµ";
+$MESS["SALE_VK_EXPORT_BUTTON_ALBUMS_DELETE_ALL_ALERT"] = "Р’РЅРёРјР°РЅРёРµ! Р‘СѓРґСѓС‚ СѓРґР°Р»РµРЅС‹ РІСЃРµ Р°Р»СЊР±РѕРјС‹ РІРѕ Р’РљРѕРЅС‚Р°РєС‚Рµ (РґРѕР±Р°РІР»РµРЅРЅС‹Рµ РєР°Рє РїРѕСЃСЂРµРґСЃС‚РІРѕРј СЌРєСЃРїРѕСЂС‚Р°, С‚Р°Рє Рё РІСЂСѓС‡РЅСѓСЋ).";
 
-$MESS["SALE_VK_SETTINGS_NO_NAME"] = "Укажите название профиля";
-$MESS["SALE_VK_SETTINGS_NO_GROUP_ID"] = "Укажите ID группы ВКонтакте";
-$MESS["SALE_VK_SETTINGS_NO_APP_ID"] = "Укажите ID приложения ВКонтакте";
-$MESS["SALE_VK_SETTINGS_NO_SECRET"] = "Укажите защищённый ключ";
-$MESS["SALE_VK_SETTINGS_NO_CATEOGRY"] = "Укажите категорию товаров по умолчанию";
+$MESS["SALE_VK_SETTINGS_NO_NAME"] = "РЈРєР°Р¶РёС‚Рµ РЅР°Р·РІР°РЅРёРµ РїСЂРѕС„РёР»СЏ";
+$MESS["SALE_VK_SETTINGS_NO_GROUP_ID"] = "РЈРєР°Р¶РёС‚Рµ ID РіСЂСѓРїРїС‹ Р’РљРѕРЅС‚Р°РєС‚Рµ";
+$MESS["SALE_VK_SETTINGS_NO_APP_ID"] = "РЈРєР°Р¶РёС‚Рµ ID РїСЂРёР»РѕР¶РµРЅРёСЏ Р’РљРѕРЅС‚Р°РєС‚Рµ";
+$MESS["SALE_VK_SETTINGS_NO_SECRET"] = "РЈРєР°Р¶РёС‚Рµ Р·Р°С‰РёС‰С‘РЅРЅС‹Р№ РєР»СЋС‡";
+$MESS["SALE_VK_SETTINGS_NO_CATEOGRY"] = "РЈРєР°Р¶РёС‚Рµ РєР°С‚РµРіРѕСЂРёСЋ С‚РѕРІР°СЂРѕРІ РїРѕ СѓРјРѕР»С‡Р°РЅРёСЋ";
 
-$MESS["SALE_VK_SETTINGS_NAME"] = "Название";
-$MESS["SALE_VK_SETTINGS_CONNECT"] = "Настройки соединения";
-$MESS["SALE_VK_SETTINGS_VK_SETTINGS"] = "Настройки ВКонтакте";
-$MESS["SALE_VK_SETTINGS_GROUP_ID"] = "Группа для импорта товаров";
-$MESS["SALE_VK_SETTINGS_SECRET"] = "Защищённый ключ";
-$MESS["SALE_VK_SETTINGS_APP_ID"] = "ID приложения";
-$MESS["SALE_VK_SETTINGS_EXPORT_SETTING_MANUAL"] = "Подробнее о настройках вы можете #A1прочесть в инструкции#A2.";
-$MESS["SALE_VK_SETTINGS_ACCESS_TOKEN_GET_BUTTON"] = "Получить ключ доступа";
-$MESS["SALE_VK_SETTINGS_ACCESS_TOKEN_REGET"] = "Ключ доступа получен";
-$MESS["SALE_VK_SETTINGS_ACCESS_TOKEN_REGET_BUTTON"] = "Переполучить ключ";
-$MESS["SALE_VK_SETTINGS_ACCESS_TOKEN_ERROR"] = "Ошибка при получении ключа доступа:<br>";
-$MESS["SALE_VK_SETTINGS_ACCESS_TOKEN_NEED_GET"] = "Необходимо получить ключ доступа";
+$MESS["SALE_VK_SETTINGS_NAME"] = "РќР°Р·РІР°РЅРёРµ";
+$MESS["SALE_VK_SETTINGS_CONNECT"] = "РќР°СЃС‚СЂРѕР№РєРё СЃРѕРµРґРёРЅРµРЅРёСЏ";
+$MESS["SALE_VK_SETTINGS_VK_SETTINGS"] = "РќР°СЃС‚СЂРѕР№РєРё Р’РљРѕРЅС‚Р°РєС‚Рµ";
+$MESS["SALE_VK_SETTINGS_GROUP_ID"] = "Р“СЂСѓРїРїР° РґР»СЏ РёРјРїРѕСЂС‚Р° С‚РѕРІР°СЂРѕРІ";
+$MESS["SALE_VK_SETTINGS_SECRET"] = "Р—Р°С‰РёС‰С‘РЅРЅС‹Р№ РєР»СЋС‡";
+$MESS["SALE_VK_SETTINGS_APP_ID"] = "ID РїСЂРёР»РѕР¶РµРЅРёСЏ";
+$MESS["SALE_VK_SETTINGS_EXPORT_SETTING_MANUAL"] = "РџРѕРґСЂРѕР±РЅРµРµ Рѕ РЅР°СЃС‚СЂРѕР№РєР°С… РІС‹ РјРѕР¶РµС‚Рµ #A1РїСЂРѕС‡РµСЃС‚СЊ РІ РёРЅСЃС‚СЂСѓРєС†РёРё#A2.";
+$MESS["SALE_VK_SETTINGS_ACCESS_TOKEN_GET_BUTTON"] = "РџРѕР»СѓС‡РёС‚СЊ РєР»СЋС‡ РґРѕСЃС‚СѓРїР°";
+$MESS["SALE_VK_SETTINGS_ACCESS_TOKEN_REGET"] = "РљР»СЋС‡ РґРѕСЃС‚СѓРїР° РїРѕР»СѓС‡РµРЅ";
+$MESS["SALE_VK_SETTINGS_ACCESS_TOKEN_REGET_BUTTON"] = "РџРµСЂРµРїРѕР»СѓС‡РёС‚СЊ РєР»СЋС‡";
+$MESS["SALE_VK_SETTINGS_ACCESS_TOKEN_ERROR"] = "РћС€РёР±РєР° РїСЂРё РїРѕР»СѓС‡РµРЅРёРё РєР»СЋС‡Р° РґРѕСЃС‚СѓРїР°:<br>";
+$MESS["SALE_VK_SETTINGS_ACCESS_TOKEN_NEED_GET"] = "РќРµРѕР±С…РѕРґРёРјРѕ РїРѕР»СѓС‡РёС‚СЊ РєР»СЋС‡ РґРѕСЃС‚СѓРїР°";
 
-$MESS["SALE_VK_SETTINGS_AGRESSIVE_EXPORT"] = "Перезаписывать изменения";
-$MESS["SALE_VK_SETTINGS_AGRESSIVE_EXPORT_HELP"] = "При включенной опции экспорт будет принудительно переписывать все изменения, которые вы сделали в товарах и альбомах (названия, цены и т.п.) на стороне ВКонтакте.<br>При выключенной - товары не будут изменяться после первой выгрузки.";
-$MESS["SALE_VK_SETTINGS_RICH_LOG"] = "Расширенный лог ошибок";
-$MESS["SALE_VK_SETTINGS_RICH_LOG_HELP"] = "Используется для отслеживания ошибок и составления полного лога для техподдержки.<br>Не рекомендуется включать, если экспорт работает нормально.";
-$MESS["SALE_VK_SETTINGS_ONLY_AVAILABLE_FLAG"] = "Экспортировать только доступные товары";
-$MESS["SALE_VK_SETTINGS_ONLY_AVAILABLE_FLAG_HELP"] = "Товар считается недоступным, если его количество меньше либо равно нулю, включен количественный учет и запрещена покупка при нулевом количестве.";
-$MESS["SALE_VK_SETTINGS_EXPORT"] = "Настройки экспорта";
-$MESS["SALE_VK_SETTINGS_EXPORT_TIMELIMIT"] = "Максимальное время (сек) выполнения одного шага экспорта";
-$MESS["SALE_VK_SETTINGS_EXPORT_TIMELIMIT_HELP"] = "Должно быть несколько меньше времени жизни PHP-скрипта и MySQL-соединения";
-$MESS["SALE_VK_SETTINGS_EXPORT_COUNT_ITEMS"] = "Количество элементов, обрабатываемых за один шаг (не более 25)";
-$MESS["SALE_VK_SETTINGS_EXPORT_COUNT_ITEMS_HELP"] = "Если экспорт завершается с ошибками - попробуйте уменьшить значение. Это увеличит общее время экспорта, но повысит стабильность";
+$MESS["SALE_VK_SETTINGS_AGRESSIVE_EXPORT"] = "РџРµСЂРµР·Р°РїРёСЃС‹РІР°С‚СЊ РёР·РјРµРЅРµРЅРёСЏ";
+$MESS["SALE_VK_SETTINGS_AGRESSIVE_EXPORT_HELP"] = "РџСЂРё РІРєР»СЋС‡РµРЅРЅРѕР№ РѕРїС†РёРё СЌРєСЃРїРѕСЂС‚ Р±СѓРґРµС‚ РїСЂРёРЅСѓРґРёС‚РµР»СЊРЅРѕ РїРµСЂРµРїРёСЃС‹РІР°С‚СЊ РІСЃРµ РёР·РјРµРЅРµРЅРёСЏ, РєРѕС‚РѕСЂС‹Рµ РІС‹ СЃРґРµР»Р°Р»Рё РІ С‚РѕРІР°СЂР°С… Рё Р°Р»СЊР±РѕРјР°С… (РЅР°Р·РІР°РЅРёСЏ, С†РµРЅС‹ Рё С‚.Рї.) РЅР° СЃС‚РѕСЂРѕРЅРµ Р’РљРѕРЅС‚Р°РєС‚Рµ.<br>РџСЂРё РІС‹РєР»СЋС‡РµРЅРЅРѕР№ - С‚РѕРІР°СЂС‹ РЅРµ Р±СѓРґСѓС‚ РёР·РјРµРЅСЏС‚СЊСЃСЏ РїРѕСЃР»Рµ РїРµСЂРІРѕР№ РІС‹РіСЂСѓР·РєРё.";
+$MESS["SALE_VK_SETTINGS_RICH_LOG"] = "Р Р°СЃС€РёСЂРµРЅРЅС‹Р№ Р»РѕРі РѕС€РёР±РѕРє";
+$MESS["SALE_VK_SETTINGS_RICH_LOG_HELP"] = "РСЃРїРѕР»СЊР·СѓРµС‚СЃСЏ РґР»СЏ РѕС‚СЃР»РµР¶РёРІР°РЅРёСЏ РѕС€РёР±РѕРє Рё СЃРѕСЃС‚Р°РІР»РµРЅРёСЏ РїРѕР»РЅРѕРіРѕ Р»РѕРіР° РґР»СЏ С‚РµС…РїРѕРґРґРµСЂР¶РєРё.<br>РќРµ СЂРµРєРѕРјРµРЅРґСѓРµС‚СЃСЏ РІРєР»СЋС‡Р°С‚СЊ, РµСЃР»Рё СЌРєСЃРїРѕСЂС‚ СЂР°Р±РѕС‚Р°РµС‚ РЅРѕСЂРјР°Р»СЊРЅРѕ.";
+$MESS["SALE_VK_SETTINGS_ONLY_AVAILABLE_FLAG"] = "Р­РєСЃРїРѕСЂС‚РёСЂРѕРІР°С‚СЊ С‚РѕР»СЊРєРѕ РґРѕСЃС‚СѓРїРЅС‹Рµ С‚РѕРІР°СЂС‹";
+$MESS["SALE_VK_SETTINGS_ONLY_AVAILABLE_FLAG_HELP"] = "РўРѕРІР°СЂ СЃС‡РёС‚Р°РµС‚СЃСЏ РЅРµРґРѕСЃС‚СѓРїРЅС‹Рј, РµСЃР»Рё РµРіРѕ РєРѕР»РёС‡РµСЃС‚РІРѕ РјРµРЅСЊС€Рµ Р»РёР±Рѕ СЂР°РІРЅРѕ РЅСѓР»СЋ, РІРєР»СЋС‡РµРЅ РєРѕР»РёС‡РµСЃС‚РІРµРЅРЅС‹Р№ СѓС‡РµС‚ Рё Р·Р°РїСЂРµС‰РµРЅР° РїРѕРєСѓРїРєР° РїСЂРё РЅСѓР»РµРІРѕРј РєРѕР»РёС‡РµСЃС‚РІРµ.";
+$MESS["SALE_VK_SETTINGS_EXPORT"] = "РќР°СЃС‚СЂРѕР№РєРё СЌРєСЃРїРѕСЂС‚Р°";
+$MESS["SALE_VK_SETTINGS_EXPORT_TIMELIMIT"] = "РњР°РєСЃРёРјР°Р»СЊРЅРѕРµ РІСЂРµРјСЏ (СЃРµРє) РІС‹РїРѕР»РЅРµРЅРёСЏ РѕРґРЅРѕРіРѕ С€Р°РіР° СЌРєСЃРїРѕСЂС‚Р°";
+$MESS["SALE_VK_SETTINGS_EXPORT_TIMELIMIT_HELP"] = "Р”РѕР»Р¶РЅРѕ Р±С‹С‚СЊ РЅРµСЃРєРѕР»СЊРєРѕ РјРµРЅСЊС€Рµ РІСЂРµРјРµРЅРё Р¶РёР·РЅРё PHP-СЃРєСЂРёРїС‚Р° Рё MySQL-СЃРѕРµРґРёРЅРµРЅРёСЏ";
+$MESS["SALE_VK_SETTINGS_EXPORT_COUNT_ITEMS"] = "РљРѕР»РёС‡РµСЃС‚РІРѕ СЌР»РµРјРµРЅС‚РѕРІ, РѕР±СЂР°Р±Р°С‚С‹РІР°РµРјС‹С… Р·Р° РѕРґРёРЅ С€Р°Рі (РЅРµ Р±РѕР»РµРµ 25)";
+$MESS["SALE_VK_SETTINGS_EXPORT_COUNT_ITEMS_HELP"] = "Р•СЃР»Рё СЌРєСЃРїРѕСЂС‚ Р·Р°РІРµСЂС€Р°РµС‚СЃСЏ СЃ РѕС€РёР±РєР°РјРё - РїРѕРїСЂРѕР±СѓР№С‚Рµ СѓРјРµРЅСЊС€РёС‚СЊ Р·РЅР°С‡РµРЅРёРµ. Р­С‚Рѕ СѓРІРµР»РёС‡РёС‚ РѕР±С‰РµРµ РІСЂРµРјСЏ СЌРєСЃРїРѕСЂС‚Р°, РЅРѕ РїРѕРІС‹СЃРёС‚ СЃС‚Р°Р±РёР»СЊРЅРѕСЃС‚СЊ";
 
-$MESS["SALE_VK_SETTINGS_CATEGORIES"] = "Настройки разделов каталога";
-$MESS["SALE_VK_SETTINGS_CATEGORIES_DROP"] = "Сбросить соответствие категорий";
-$MESS["SALE_VK_SETTINGS_CATEGORIES_DROP_ALERT"] = "Внимание! Будут сброшены все ранее настроенные соответствия категорий.";
-$MESS["SALE_VK_SETTINGS_CATEGORIES_DEFAULT"] = "Категория ВКонтакте по умолчанию";
-$MESS["SALE_VK_SETTINGS_CATEGORIES_DEFAULT_HELP"] = "Будет проставляться, если не указана категория в настройках раздела.";
+$MESS["SALE_VK_SETTINGS_CATEGORIES"] = "РќР°СЃС‚СЂРѕР№РєРё СЂР°Р·РґРµР»РѕРІ РєР°С‚Р°Р»РѕРіР°";
+$MESS["SALE_VK_SETTINGS_CATEGORIES_DROP"] = "РЎР±СЂРѕСЃРёС‚СЊ СЃРѕРѕС‚РІРµС‚СЃС‚РІРёРµ РєР°С‚РµРіРѕСЂРёР№";
+$MESS["SALE_VK_SETTINGS_CATEGORIES_DROP_ALERT"] = "Р’РЅРёРјР°РЅРёРµ! Р‘СѓРґСѓС‚ СЃР±СЂРѕС€РµРЅС‹ РІСЃРµ СЂР°РЅРµРµ РЅР°СЃС‚СЂРѕРµРЅРЅС‹Рµ СЃРѕРѕС‚РІРµС‚СЃС‚РІРёСЏ РєР°С‚РµРіРѕСЂРёР№.";
+$MESS["SALE_VK_SETTINGS_CATEGORIES_DEFAULT"] = "РљР°С‚РµРіРѕСЂРёСЏ Р’РљРѕРЅС‚Р°РєС‚Рµ РїРѕ СѓРјРѕР»С‡Р°РЅРёСЋ";
+$MESS["SALE_VK_SETTINGS_CATEGORIES_DEFAULT_HELP"] = "Р‘СѓРґРµС‚ РїСЂРѕСЃС‚Р°РІР»СЏС‚СЊСЃСЏ, РµСЃР»Рё РЅРµ СѓРєР°Р·Р°РЅР° РєР°С‚РµРіРѕСЂРёСЏ РІ РЅР°СЃС‚СЂРѕР№РєР°С… СЂР°Р·РґРµР»Р°.";
 
-$MESS["SALE_VK_SETTINGS_BUTTON_SAVE"] = "Сохранить";
-$MESS["SALE_VK_SETTINGS_BUTTON_APPLY"] = "Применить";
-$MESS["SALE_VK_SETTINGS_BUTTON_CANCEL"] = "Отменить";
+$MESS["SALE_VK_SETTINGS_BUTTON_SAVE"] = "РЎРѕС…СЂР°РЅРёС‚СЊ";
+$MESS["SALE_VK_SETTINGS_BUTTON_APPLY"] = "РџСЂРёРјРµРЅРёС‚СЊ";
+$MESS["SALE_VK_SETTINGS_BUTTON_CANCEL"] = "РћС‚РјРµРЅРёС‚СЊ";
 ?>

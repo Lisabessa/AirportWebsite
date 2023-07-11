@@ -1,21 +1,21 @@
 <?
-$MESS["SENDER_PRESET_TEMPLATE_TOLOKA_EMPTY"] = "Ñîçäàòü âðó÷íóþ";
-$MESS["SENDER_PRESET_TEMPLATE_TOLOKA_TITLE_VIDEO"] = "Ïðîñìîòð âèäåîðîëèêîâ";
-$MESS["SENDER_PRESET_TEMPLATE_TOLOKA_VIDEO_DESCRIPTION"] = "Ïîñìîòðèòå âèäåîðîëèêè èç çàäàíèÿ, ÷òîáû ïîëó÷èòü âîçíàãðàæäåíèå";
-$MESS["SENDER_PRESET_TEMPLATE_TOLOKA_VIDEO_INSTRUCTION"] = "Ïåðåéäèòå ïî ññûëêå â çàäàíèè, ïðîñìîòðèòå ðîëèê, ñäåëàéòå îòìåòêó î ïðîñìîòðå";
+$MESS["SENDER_PRESET_TEMPLATE_TOLOKA_EMPTY"] = "Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ Ð²Ñ€ÑƒÑ‡Ð½ÑƒÑŽ";
+$MESS["SENDER_PRESET_TEMPLATE_TOLOKA_TITLE_VIDEO"] = "ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ Ð²Ð¸Ð´ÐµÐ¾Ñ€Ð¾Ð»Ð¸ÐºÐ¾Ð²";
+$MESS["SENDER_PRESET_TEMPLATE_TOLOKA_VIDEO_DESCRIPTION"] = "ÐŸÐ¾ÑÐ¼Ð¾Ñ‚Ñ€Ð¸Ñ‚Ðµ Ð²Ð¸Ð´ÐµÐ¾Ñ€Ð¾Ð»Ð¸ÐºÐ¸ Ð¸Ð· Ð·Ð°Ð´Ð°Ð½Ð¸Ñ, Ñ‡Ñ‚Ð¾Ð±Ñ‹ Ð¿Ð¾Ð»ÑƒÑ‡Ð¸Ñ‚ÑŒ Ð²Ð¾Ð·Ð½Ð°Ð³Ñ€Ð°Ð¶Ð´ÐµÐ½Ð¸Ðµ";
+$MESS["SENDER_PRESET_TEMPLATE_TOLOKA_VIDEO_INSTRUCTION"] = "ÐŸÐµÑ€ÐµÐ¹Ð´Ð¸Ñ‚Ðµ Ð¿Ð¾ ÑÑÑ‹Ð»ÐºÐµ Ð² Ð·Ð°Ð´Ð°Ð½Ð¸Ð¸, Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð¸Ñ‚Ðµ Ñ€Ð¾Ð»Ð¸Ðº, ÑÐ´ÐµÐ»Ð°Ð¹Ñ‚Ðµ Ð¾Ñ‚Ð¼ÐµÑ‚ÐºÑƒ Ð¾ Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ðµ";
 $MESS["SENDER_PRESET_TEMPLATE_TOLOKA_VIDEO_TASKS"] = "https://www.youtube.com/, https://www.youtube.com/, https://www.youtube.com/";
 
-$MESS["SENDER_PRESET_TEMPLATE_TOLOKA_LEAFLETS_DESCRIPTION"] = "Ïðèìåð îïèñàíèÿ: ïîñìîòðèòå âèäåîðîëèêè çàäàíèÿ, äëÿ ïîëó÷åíèÿ âîçíàãðàæäåíèÿ";
-$MESS["SENDER_PRESET_TEMPLATE_TOLOKA_LEAFLETS_INSTRUCTION"] = "Ïðèìåð èíñòðóêöèè: Ðàçäàéòå ëèñòîâêè ïî óêàçàííîìó àäðåñó â êîëè÷åñòâå 100 øòóê, ñäåëàéòå îòìåòêó î âûïîëíåíèå çàäàíèÿ";
+$MESS["SENDER_PRESET_TEMPLATE_TOLOKA_LEAFLETS_DESCRIPTION"] = "ÐŸÑ€Ð¸Ð¼ÐµÑ€ Ð¾Ð¿Ð¸ÑÐ°Ð½Ð¸Ñ: Ð¿Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð¸Ñ‚Ðµ Ð²Ð¸Ð´ÐµÐ¾Ñ€Ð¾Ð»Ð¸ÐºÐ¸ Ð·Ð°Ð´Ð°Ð½Ð¸Ñ, Ð´Ð»Ñ Ð¿Ð¾Ð»ÑƒÑ‡ÐµÐ½Ð¸Ñ Ð²Ð¾Ð·Ð½Ð°Ð³Ñ€Ð°Ð¶Ð´ÐµÐ½Ð¸Ñ";
+$MESS["SENDER_PRESET_TEMPLATE_TOLOKA_LEAFLETS_INSTRUCTION"] = "ÐŸÑ€Ð¸Ð¼ÐµÑ€ Ð¸Ð½ÑÑ‚Ñ€ÑƒÐºÑ†Ð¸Ð¸: Ð Ð°Ð·Ð´Ð°Ð¹Ñ‚Ðµ Ð»Ð¸ÑÑ‚Ð¾Ð²ÐºÐ¸ Ð¿Ð¾ ÑƒÐºÐ°Ð·Ð°Ð½Ð½Ð¾Ð¼Ñƒ Ð°Ð´Ñ€ÐµÑÑƒ Ð² ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ðµ 100 ÑˆÑ‚ÑƒÐº, ÑÐ´ÐµÐ»Ð°Ð¹Ñ‚Ðµ Ð¾Ñ‚Ð¼ÐµÑ‚ÐºÑƒ Ð¾ Ð²Ñ‹Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¸Ðµ Ð·Ð°Ð´Ð°Ð½Ð¸Ñ";
 $MESS["SENDER_PRESET_TEMPLATE_TOLOKA_LEAFLETS_TASKS"] = "https://www.youtube.com/, https://www.youtube.com/, https://www.youtube.com/";
 
-$MESS["SENDER_PRESET_TEMPLATE_TOLOKA_MYSTERY_DESCRIPTION"] = "Îïèñàíèå äëÿ ñïèñêà çàäàíèé â ßíäåêñ.Òîëîêà»d.«» - ìåíÿåì íà «Ïðèìåð îïèñàíèÿ: Ðàáîòà òàéíûì ïîêóïàòåëåì, äëÿ ïîëó÷åíèÿ âîçíàãðàæäåíèÿ";
-$MESS["SENDER_PRESET_TEMPLATE_TOLOKA_MYSTERY_INSTRUCTION"] = "Ïðèìåð èíñòðóêöèè: Ñäåëàéòå ïîêóïêó òîâàðà ïî óêàçàííîìó àäðåñó, îòìåòüòå âûïîëíåíèå çàäàíèÿ";
+$MESS["SENDER_PRESET_TEMPLATE_TOLOKA_MYSTERY_DESCRIPTION"] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ Ð´Ð»Ñ ÑÐ¿Ð¸ÑÐºÐ° Ð·Ð°Ð´Ð°Ð½Ð¸Ð¹ Ð² Ð¯Ð½Ð´ÐµÐºÑ.Ð¢Ð¾Ð»Ð¾ÐºÐ°Â»d.Â«Â» - Ð¼ÐµÐ½ÑÐµÐ¼ Ð½Ð° Â«ÐŸÑ€Ð¸Ð¼ÐµÑ€ Ð¾Ð¿Ð¸ÑÐ°Ð½Ð¸Ñ: Ð Ð°Ð±Ð¾Ñ‚Ð° Ñ‚Ð°Ð¹Ð½Ñ‹Ð¼ Ð¿Ð¾ÐºÑƒÐ¿Ð°Ñ‚ÐµÐ»ÐµÐ¼, Ð´Ð»Ñ Ð¿Ð¾Ð»ÑƒÑ‡ÐµÐ½Ð¸Ñ Ð²Ð¾Ð·Ð½Ð°Ð³Ñ€Ð°Ð¶Ð´ÐµÐ½Ð¸Ñ";
+$MESS["SENDER_PRESET_TEMPLATE_TOLOKA_MYSTERY_INSTRUCTION"] = "ÐŸÑ€Ð¸Ð¼ÐµÑ€ Ð¸Ð½ÑÑ‚Ñ€ÑƒÐºÑ†Ð¸Ð¸: Ð¡Ð´ÐµÐ»Ð°Ð¹Ñ‚Ðµ Ð¿Ð¾ÐºÑƒÐ¿ÐºÑƒ Ñ‚Ð¾Ð²Ð°Ñ€Ð° Ð¿Ð¾ ÑƒÐºÐ°Ð·Ð°Ð½Ð½Ð¾Ð¼Ñƒ Ð°Ð´Ñ€ÐµÑÑƒ, Ð¾Ñ‚Ð¼ÐµÑ‚ÑŒÑ‚Ðµ Ð²Ñ‹Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¸Ðµ Ð·Ð°Ð´Ð°Ð½Ð¸Ñ";
 $MESS["SENDER_PRESET_TEMPLATE_TOLOKA_MYSTERY_TASKS"] = "https://www.youtube.com/, https://www.youtube.com/, https://www.youtube.com/";
 
-$MESS["SENDER_PRESET_TEMPLATE_TOLOKA_TITLE_VIDEO"] = "Ïðîñìîòð âèäåîðîëèêîâ";
-$MESS["SENDER_PRESET_TEMPLATE_TOLOKA_HINT_VIDEO"] = "Äàéòå çàäàíèå ëþäÿì íà ïðîñìîòð âèäåîðîëèêîâ";
-$MESS["SENDER_PRESET_TEMPLATE_TOLOKA_TITLE_LEAFLETS"] = "Ðàçäà÷à ëèñòîâîê";
-$MESS["SENDER_PRESET_TEMPLATE_TOLOKA_HINT_LEAFLETS"] = "Äàéòå çàäàíèå ëþäÿì íà ðàçäà÷ó ëèñòîâîê";
-$MESS["SENDER_PRESET_TEMPLATE_TOLOKA_TITLE_MYSTERY"] = "Òàéíûé ïîêóïàòåëü";
-$MESS["SENDER_PRESET_TEMPLATE_TOLOKA_HINT_MYSTERY"] = "Äàéòå çàäàíèå íà òàéíóþ ïîêóïêó";
+$MESS["SENDER_PRESET_TEMPLATE_TOLOKA_TITLE_VIDEO"] = "ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ Ð²Ð¸Ð´ÐµÐ¾Ñ€Ð¾Ð»Ð¸ÐºÐ¾Ð²";
+$MESS["SENDER_PRESET_TEMPLATE_TOLOKA_HINT_VIDEO"] = "Ð”Ð°Ð¹Ñ‚Ðµ Ð·Ð°Ð´Ð°Ð½Ð¸Ðµ Ð»ÑŽÐ´ÑÐ¼ Ð½Ð° Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ Ð²Ð¸Ð´ÐµÐ¾Ñ€Ð¾Ð»Ð¸ÐºÐ¾Ð²";
+$MESS["SENDER_PRESET_TEMPLATE_TOLOKA_TITLE_LEAFLETS"] = "Ð Ð°Ð·Ð´Ð°Ñ‡Ð° Ð»Ð¸ÑÑ‚Ð¾Ð²Ð¾Ðº";
+$MESS["SENDER_PRESET_TEMPLATE_TOLOKA_HINT_LEAFLETS"] = "Ð”Ð°Ð¹Ñ‚Ðµ Ð·Ð°Ð´Ð°Ð½Ð¸Ðµ Ð»ÑŽÐ´ÑÐ¼ Ð½Ð° Ñ€Ð°Ð·Ð´Ð°Ñ‡Ñƒ Ð»Ð¸ÑÑ‚Ð¾Ð²Ð¾Ðº";
+$MESS["SENDER_PRESET_TEMPLATE_TOLOKA_TITLE_MYSTERY"] = "Ð¢Ð°Ð¹Ð½Ñ‹Ð¹ Ð¿Ð¾ÐºÑƒÐ¿Ð°Ñ‚ÐµÐ»ÑŒ";
+$MESS["SENDER_PRESET_TEMPLATE_TOLOKA_HINT_MYSTERY"] = "Ð”Ð°Ð¹Ñ‚Ðµ Ð·Ð°Ð´Ð°Ð½Ð¸Ðµ Ð½Ð° Ñ‚Ð°Ð¹Ð½ÑƒÑŽ Ð¿Ð¾ÐºÑƒÐ¿ÐºÑƒ";

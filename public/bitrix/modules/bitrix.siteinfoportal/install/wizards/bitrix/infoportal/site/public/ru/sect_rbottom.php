@@ -11,11 +11,11 @@
 	"CACHE_TYPE" => "A",
 	"CACHE_TIME" => "36000000",
 	"AJAX_OPTION_ADDITIONAL" => "",
-	"TITLE_BLOCK" => "Опросы",
+	"TITLE_BLOCK" => "РћРїСЂРѕСЃС‹",
 	),
 	false
 );?>
-<div class="hr-title"><h2>Работа</h2></div>
+<div class="hr-title"><h2>Р Р°Р±РѕС‚Р°</h2></div>
 <table cellpadding="0" cellspacing="0" border="0" width="100%">
 <tr>
 <td valign="top" width="50%">
@@ -58,14 +58,14 @@
 	"PARENT_SECTION_CODE" => "",
 	"DISPLAY_TOP_PAGER" => "N",
 	"DISPLAY_BOTTOM_PAGER" => "N",
-	"PAGER_TITLE" => "Новости",
+	"PAGER_TITLE" => "РќРѕРІРѕСЃС‚Рё",
 	"PAGER_SHOW_ALWAYS" => "N",
 	"PAGER_TEMPLATE" => "",
 	"PAGER_DESC_NUMBERING" => "N",
 	"PAGER_DESC_NUMBERING_CACHE_TIME" => "36000",
 	"PAGER_SHOW_ALL" => "N",
 	"AJAX_OPTION_ADDITIONAL" => "",
-	"NAME_BLOCK" => "Вакансии",
+	"NAME_BLOCK" => "Р’Р°РєР°РЅСЃРёРё",
 	),
 	false
 );?></td><td  valign="top" width="50%"><?$APPLICATION->IncludeComponent("bitrix:news.list", "resume", array(
@@ -107,14 +107,14 @@
 	"PARENT_SECTION_CODE" => "",
 	"DISPLAY_TOP_PAGER" => "N",
 	"DISPLAY_BOTTOM_PAGER" => "N",
-	"PAGER_TITLE" => "Новости",
+	"PAGER_TITLE" => "РќРѕРІРѕСЃС‚Рё",
 	"PAGER_SHOW_ALWAYS" => "N",
 	"PAGER_TEMPLATE" => "",
 	"PAGER_DESC_NUMBERING" => "N",
 	"PAGER_DESC_NUMBERING_CACHE_TIME" => "36000",
 	"PAGER_SHOW_ALL" => "N",
 	"AJAX_OPTION_ADDITIONAL" => "",
-	"NAME_BLOCK" => "Резюме",
+	"NAME_BLOCK" => "Р РµР·СЋРјРµ",
 	),
 	false
 );?>

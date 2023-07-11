@@ -1,14 +1,14 @@
 <?
 global $MESS;
 
-$MESS["SPCP_DTITLE"] = "КредитПилот";
-$MESS["SPCP_DDESCR"] = "Работа через <a href=\"http://www.kreditpilot.ru\" target=\"_blank\">www.kreditpilot.ru</a>";
-$MESS["SHOP_ACCOUNT"] = "Идентификатор магазина";
+$MESS["SPCP_DTITLE"] = "РљСЂРµРґРёС‚РџРёР»РѕС‚";
+$MESS["SPCP_DDESCR"] = "Р Р°Р±РѕС‚Р° С‡РµСЂРµР· <a href=\"http://www.kreditpilot.ru\" target=\"_blank\">www.kreditpilot.ru</a>";
+$MESS["SHOP_ACCOUNT"] = "РРґРµРЅС‚РёС„РёРєР°С‚РѕСЂ РјР°РіР°Р·РёРЅР°";
 $MESS["SHOP_ACCOUNT_DESCR"] = "";
-$MESS["SHOULD_PAY"] = "Сумма заказа";
-$MESS["SHOULD_PAY_DESCR"] = "Сумма к оплате";
-$MESS["CURRENCY"] = "Валюта";
-$MESS["CURRENCY_DESCR"] = "Валюта в которой производится оплата";
-$MESS["DATE_INSERT"] = "Дата создания заказа";
+$MESS["SHOULD_PAY"] = "РЎСѓРјРјР° Р·Р°РєР°Р·Р°";
+$MESS["SHOULD_PAY_DESCR"] = "РЎСѓРјРјР° Рє РѕРїР»Р°С‚Рµ";
+$MESS["CURRENCY"] = "Р’Р°Р»СЋС‚Р°";
+$MESS["CURRENCY_DESCR"] = "Р’Р°Р»СЋС‚Р° РІ РєРѕС‚РѕСЂРѕР№ РїСЂРѕРёР·РІРѕРґРёС‚СЃСЏ РѕРїР»Р°С‚Р°";
+$MESS["DATE_INSERT"] = "Р”Р°С‚Р° СЃРѕР·РґР°РЅРёСЏ Р·Р°РєР°Р·Р°";
 $MESS["DATE_INSERT_DESCR"] = "";
 ?>

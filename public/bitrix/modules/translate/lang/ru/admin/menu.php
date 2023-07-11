@@ -1,7 +1,7 @@
 <?
-$MESS["TRANS_TRANSLATE"] = "Ëîêàëèçàöèÿ";
-$MESS["TRANS_BROWS_FILES"] = "Ïðîñìîòð ôàéëîâ";
-$MESS["TRANS_COLLECTOR"] = "Âûãðóçêà è çàãðóçêà";
-$MESS["TRANS_INTERFACE"] = "Ëîêàëèçàöèÿ èíòåðôåéñà";
-$MESS["TRANS_INTERFACE_ALT"] = "Èíòåðôåéñ äëÿ ðåäàêòèðîâàíèÿ ÿçûêîâûõ ôàéëîâ";
+$MESS["TRANS_TRANSLATE"] = "Ð›Ð¾ÐºÐ°Ð»Ð¸Ð·Ð°Ñ†Ð¸Ñ";
+$MESS["TRANS_BROWS_FILES"] = "ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ Ñ„Ð°Ð¹Ð»Ð¾Ð²";
+$MESS["TRANS_COLLECTOR"] = "Ð’Ñ‹Ð³Ñ€ÑƒÐ·ÐºÐ° Ð¸ Ð·Ð°Ð³Ñ€ÑƒÐ·ÐºÐ°";
+$MESS["TRANS_INTERFACE"] = "Ð›Ð¾ÐºÐ°Ð»Ð¸Ð·Ð°Ñ†Ð¸Ñ Ð¸Ð½Ñ‚ÐµÑ€Ñ„ÐµÐ¹ÑÐ°";
+$MESS["TRANS_INTERFACE_ALT"] = "Ð˜Ð½Ñ‚ÐµÑ€Ñ„ÐµÐ¹Ñ Ð´Ð»Ñ Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ ÑÐ·Ñ‹ÐºÐ¾Ð²Ñ‹Ñ… Ñ„Ð°Ð¹Ð»Ð¾Ð²";
 ?>

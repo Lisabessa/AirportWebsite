@@ -1,2 +1,2 @@
 <?php
-$MESS["BPDT_INTERNALSELECT_OPT_LABEL"] = "Поле документа";
+$MESS["BPDT_INTERNALSELECT_OPT_LABEL"] = "РџРѕР»Рµ РґРѕРєСѓРјРµРЅС‚Р°";

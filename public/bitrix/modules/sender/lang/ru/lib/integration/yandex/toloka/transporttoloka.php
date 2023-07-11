@@ -1,2 +1,2 @@
 <?
-$MESS["SENDER_INTEGRATION_YANDEX_TOLOKA"] = "ßíäåêñ.Òîëîêà";
+$MESS["SENDER_INTEGRATION_YANDEX_TOLOKA"] = "Ð¯Ð½Ð´ÐµÐºÑ.Ð¢Ð¾Ð»Ð¾ÐºÐ°";

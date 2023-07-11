@@ -1,7 +1,7 @@
 <?
-$MESS["SALE_DELIVERY_REQUEST_SEND"] = "Â³äïðàâëåííÿ òðàíñïîðòíèõ çàÿâîê";
-$MESS["SALE_DELIVERY_REQUEST_ACCESS_DENIED"] = "Äîñòóï çàáîðîíåíî";
-$MESS["SALE_DELIVERY_REQUEST_SHIPMENT_IDS_EMPTY"] = "Ñïèñîê ³äåíòèô³êàòîð³â â³äâàíòàæåíü ïîðîæí³é";
-$MESS["SALE_DELIVERY_REQUEST_BACK"] = "Ïîâåðíóòèñü";
-$MESS["SALE_DELIVERY_REQUEST_LIST"] = "Ñïèñîê òðàíñïîðòíèõ çàÿâîê";
+$MESS["SALE_DELIVERY_REQUEST_SEND"] = "Ð’Ñ–Ð´Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð½Ñ Ñ‚Ñ€Ð°Ð½ÑÐ¿Ð¾Ñ€Ñ‚Ð½Ð¸Ñ… Ð·Ð°ÑÐ²Ð¾Ðº";
+$MESS["SALE_DELIVERY_REQUEST_ACCESS_DENIED"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ð·Ð°Ð±Ð¾Ñ€Ð¾Ð½ÐµÐ½Ð¾";
+$MESS["SALE_DELIVERY_REQUEST_SHIPMENT_IDS_EMPTY"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ñ–Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÐ°Ñ‚Ð¾Ñ€Ñ–Ð² Ð²Ñ–Ð´Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½ÑŒ Ð¿Ð¾Ñ€Ð¾Ð¶Ð½Ñ–Ð¹";
+$MESS["SALE_DELIVERY_REQUEST_BACK"] = "ÐŸÐ¾Ð²ÐµÑ€Ð½ÑƒÑ‚Ð¸ÑÑŒ";
+$MESS["SALE_DELIVERY_REQUEST_LIST"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ñ‚Ñ€Ð°Ð½ÑÐ¿Ð¾Ñ€Ñ‚Ð½Ð¸Ñ… Ð·Ð°ÑÐ²Ð¾Ðº";
 ?>

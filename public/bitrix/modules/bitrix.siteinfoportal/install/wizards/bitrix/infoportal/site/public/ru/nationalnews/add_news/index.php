@@ -1,11 +1,11 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Добавить новость");
+$APPLICATION->SetTitle("Р”РѕР±Р°РІРёС‚СЊ РЅРѕРІРѕСЃС‚СЊ");
 ?><?$APPLICATION->IncludeComponent("bitrix:iblock.element.add", ".default", array(
 	"NAV_ON_PAGE" => "10",
 	"USE_CAPTCHA" => "N",
-	"USER_MESSAGE_ADD" => "Ваша новость добавлена. После проверки модератора, будет принято решение о публикации на сайте вашей новости.",
-	"USER_MESSAGE_EDIT" => "Ваша новость сохранена",
+	"USER_MESSAGE_ADD" => "Р’Р°С€Р° РЅРѕРІРѕСЃС‚СЊ РґРѕР±Р°РІР»РµРЅР°. РџРѕСЃР»Рµ РїСЂРѕРІРµСЂРєРё РјРѕРґРµСЂР°С‚РѕСЂР°, Р±СѓРґРµС‚ РїСЂРёРЅСЏС‚Рѕ СЂРµС€РµРЅРёРµ Рѕ РїСѓР±Р»РёРєР°С†РёРё РЅР° СЃР°Р№С‚Рµ РІР°С€РµР№ РЅРѕРІРѕСЃС‚Рё.",
+	"USER_MESSAGE_EDIT" => "Р’Р°С€Р° РЅРѕРІРѕСЃС‚СЊ СЃРѕС…СЂР°РЅРµРЅР°",
 	"DEFAULT_INPUT_SIZE" => "30",
 	"RESIZE_IMAGES" => "N",
 	"IBLOCK_TYPE" => "news",
@@ -45,13 +45,13 @@ $APPLICATION->SetTitle("Добавить новость");
 	"CUSTOM_TITLE_DATE_ACTIVE_FROM" => "",
 	"CUSTOM_TITLE_DATE_ACTIVE_TO" => "",
 	"CUSTOM_TITLE_IBLOCK_SECTION" => "",
-	"CUSTOM_TITLE_PREVIEW_TEXT" => "Текст",
-	"CUSTOM_TITLE_PREVIEW_PICTURE" => "Изображение",
+	"CUSTOM_TITLE_PREVIEW_TEXT" => "РўРµРєСЃС‚",
+	"CUSTOM_TITLE_PREVIEW_PICTURE" => "РР·РѕР±СЂР°Р¶РµРЅРёРµ",
 	"CUSTOM_TITLE_DETAIL_TEXT" => "",
 	"CUSTOM_TITLE_DETAIL_PICTURE" => "",
 	"SEND_EMAIL" => "Y",
 	"EMAIL_TO" => "#EMAIL_TO#",
-	"SUBJECT" => "Добавлена новая народная новость",
+	"SUBJECT" => "Р”РѕР±Р°РІР»РµРЅР° РЅРѕРІР°СЏ РЅР°СЂРѕРґРЅР°СЏ РЅРѕРІРѕСЃС‚СЊ",
 	"EVENT_MESSAGE_ID" => array(),
 	"AJAX_OPTION_ADDITIONAL" => ""
 	),

@@ -1,3 +1,3 @@
 <?php
 
-$MESS['MAIL_ATTACHMENT_STORAGE_NAME'] = 'Õðàíèëèùå âëîæåíèé ïî÷òû';
+$MESS['MAIL_ATTACHMENT_STORAGE_NAME'] = 'Ð¥Ñ€Ð°Ð½Ð¸Ð»Ð¸Ñ‰Ðµ Ð²Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹ Ð¿Ð¾Ñ‡Ñ‚Ñ‹';

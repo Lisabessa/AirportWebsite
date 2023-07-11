@@ -1,24 +1,24 @@
 <?
 global $MESS;
 
-$MESS["SPCP_DTITLE"] = "ИМПЭКСБанк";
-$MESS["SPCP_DDESCR"] = "Оплата по кредитной карте через процессинговый центр платежной системы <b>ИМПЭКСБанка</b>";
+$MESS["SPCP_DTITLE"] = "РРњРџР­РљРЎР‘Р°РЅРє";
+$MESS["SPCP_DDESCR"] = "РћРїР»Р°С‚Р° РїРѕ РєСЂРµРґРёС‚РЅРѕР№ РєР°СЂС‚Рµ С‡РµСЂРµР· РїСЂРѕС†РµСЃСЃРёРЅРіРѕРІС‹Р№ С†РµРЅС‚СЂ РїР»Р°С‚РµР¶РЅРѕР№ СЃРёСЃС‚РµРјС‹ <b>РРњРџР­РљРЎР‘Р°РЅРєР°</b>";
 
-$MESS["SHOULD_PAY"] = "Сумма заказа";
-$MESS["SHOULD_PAY_DESCR"] = "Сумма к оплате";
-$MESS["CURRENCY"] = "Валюта";
-$MESS["CURRENCY_DESCR"] = "Валюта в которой производится оплата";
-$MESS["DATE_INSERT"] = "Дата создания заказа";
+$MESS["SHOULD_PAY"] = "РЎСѓРјРјР° Р·Р°РєР°Р·Р°";
+$MESS["SHOULD_PAY_DESCR"] = "РЎСѓРјРјР° Рє РѕРїР»Р°С‚Рµ";
+$MESS["CURRENCY"] = "Р’Р°Р»СЋС‚Р°";
+$MESS["CURRENCY_DESCR"] = "Р’Р°Р»СЋС‚Р° РІ РєРѕС‚РѕСЂРѕР№ РїСЂРѕРёР·РІРѕРґРёС‚СЃСЏ РѕРїР»Р°С‚Р°";
+$MESS["DATE_INSERT"] = "Р”Р°С‚Р° СЃРѕР·РґР°РЅРёСЏ Р·Р°РєР°Р·Р°";
 $MESS["DATE_INSERT_DESCR"] = "";
 
-$MESS["AcquirerBin"] = "Идентификатор покупателя";
+$MESS["AcquirerBin"] = "РРґРµРЅС‚РёС„РёРєР°С‚РѕСЂ РїРѕРєСѓРїР°С‚РµР»СЏ";
 $MESS["AcquirerBin_DESCR"] = "";
-$MESS["MerchantName"] = "Название магазина";
+$MESS["MerchantName"] = "РќР°Р·РІР°РЅРёРµ РјР°РіР°Р·РёРЅР°";
 $MESS["MerchantName_DESCR"] = "";
-$MESS["MerchantURL"] = "Адрес магазина";
+$MESS["MerchantURL"] = "РђРґСЂРµСЃ РјР°РіР°Р·РёРЅР°";
 $MESS["MerchantURL_DESCR"] = "";
-$MESS["MerchantCity"] = "Город магазина";
+$MESS["MerchantCity"] = "Р“РѕСЂРѕРґ РјР°РіР°Р·РёРЅР°";
 $MESS["MerchantCity_DESCR"] = "";
-$MESS["MerchantID"] = "Идентификатор магазина";
+$MESS["MerchantID"] = "РРґРµРЅС‚РёС„РёРєР°С‚РѕСЂ РјР°РіР°Р·РёРЅР°";
 $MESS["MerchantID_DESCR"] = "";
 ?>

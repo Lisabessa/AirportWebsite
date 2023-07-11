@@ -1,7 +1,7 @@
 <?
-$MESS["SYNCH_OUTCOMING_REPLICATION_EXTERNAL_SYSTEM_MESS_EXPORT_ORDER_ERROR"] = "Ïîìèëêà åêñïîðòó çàìîâëåííÿ ó çîâí³øíþ ñècòåìó #EXTERNAL_SYSTEM#. #ERROR_MESSAGE#";
-$MESS["SYNCH_OUTCOMING_REPLICATION_EXTERNAL_SYSTEM_MESS_EXPORT_ORDER_SUCCESS"] = "Åêñïîðò çàìîâëåííÿ ó çîâí³øíþ ñècòåìó #EXTERNAL_SYSTEM#. Çàìîâëåííÿ ¹ #ORDER_ID#";
-$MESS["SYNCH_OUTCOMING_REPLICATION_EXTERNAL_SYSTEM_MESS_IMPORT_EXTERNAL_ORDER"] = "²ìïîðò çàìîâëåííÿ ³ç çîâí³øíüî¿ ñècòåìè #EXTERNAL_SYSTEM#. Çàìîâëåííÿ ¹ #ORDER_ID#";
-$MESS["SYNCH_OUTCOMING_REPLICATION_IMPORT_INTERNAL_ERROR"] = "Âíóòð³øíÿ ïîìèëêà";
-$MESS["SYNCH_OUTCOMING_REPLICATION_OUTCOMING_ORDER_ERROR"] = "Ïîìèëêà âèâàíòàæåííÿ çàìîâëåííÿ â çîâí³øíþ ñèñòåìó. (#ERROR_MESSAGE#)";
+$MESS["SYNCH_OUTCOMING_REPLICATION_EXTERNAL_SYSTEM_MESS_EXPORT_ORDER_ERROR"] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ° ÐµÐºÑÐ¿Ð¾Ñ€Ñ‚Ñƒ Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ Ñƒ Ð·Ð¾Ð²Ð½Ñ–ÑˆÐ½ÑŽ ÑÐ¸cÑ‚ÐµÐ¼Ñƒ #EXTERNAL_SYSTEM#. #ERROR_MESSAGE#";
+$MESS["SYNCH_OUTCOMING_REPLICATION_EXTERNAL_SYSTEM_MESS_EXPORT_ORDER_SUCCESS"] = "Ð•ÐºÑÐ¿Ð¾Ñ€Ñ‚ Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ Ñƒ Ð·Ð¾Ð²Ð½Ñ–ÑˆÐ½ÑŽ ÑÐ¸cÑ‚ÐµÐ¼Ñƒ #EXTERNAL_SYSTEM#. Ð—Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ â„– #ORDER_ID#";
+$MESS["SYNCH_OUTCOMING_REPLICATION_EXTERNAL_SYSTEM_MESS_IMPORT_EXTERNAL_ORDER"] = "Ð†Ð¼Ð¿Ð¾Ñ€Ñ‚ Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ Ñ–Ð· Ð·Ð¾Ð²Ð½Ñ–ÑˆÐ½ÑŒÐ¾Ñ— ÑÐ¸cÑ‚ÐµÐ¼Ð¸ #EXTERNAL_SYSTEM#. Ð—Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ â„– #ORDER_ID#";
+$MESS["SYNCH_OUTCOMING_REPLICATION_IMPORT_INTERNAL_ERROR"] = "Ð’Ð½ÑƒÑ‚Ñ€Ñ–ÑˆÐ½Ñ Ð¿Ð¾Ð¼Ð¸Ð»ÐºÐ°";
+$MESS["SYNCH_OUTCOMING_REPLICATION_OUTCOMING_ORDER_ERROR"] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ° Ð²Ð¸Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ Ð² Ð·Ð¾Ð²Ð½Ñ–ÑˆÐ½ÑŽ ÑÐ¸ÑÑ‚ÐµÐ¼Ñƒ. (#ERROR_MESSAGE#)";
 ?>

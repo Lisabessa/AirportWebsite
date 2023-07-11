@@ -1,9 +1,9 @@
 <?
-$MESS["SALE_DLV_SRV_SPSR_PROFILE_TITLE"] = "Ñåðâèñ ÑÏÑÐ-ÝÊÑÏÐÅÑÑ";
+$MESS["SALE_DLV_SRV_SPSR_PROFILE_TITLE"] = "Ð¡ÐµÑ€Ð²Ð¸Ñ Ð¡ÐŸÐ¡Ð -Ð­ÐšÐ¡ÐŸÐ Ð•Ð¡Ð¡";
 $MESS["SALE_DLV_SRV_SPSR_PROFILE_DESCRIPTION"] = " ";
-$MESS["SALE_DLV_SRV_SPSR_PROFILE_MAIN_TITLE"] = "Íàñòðîéêè";
-$MESS["SALE_DLV_SRV_SPSR_PROFILE_MAIN_DSCR"] = "Íàñòðîéêè Ñåðâèñà";
-$MESS["SALE_DLV_SRV_SPSR_PROFILE_ST"] = "Òèï ñåðâèñà";
-$MESS["SALE_DLV_SRV_SPSR_INNER_DESCR"] = "Âíóòðåííåå îïèñàíèå";
-$MESS["SALE_DLV_SRV_SPSR_ERROR_CONFIG_SRV_TYPE"] = "Îøèáêà íàñòðîéêè. Íå óêàçàí òèï ñåðâèñà";
+$MESS["SALE_DLV_SRV_SPSR_PROFILE_MAIN_TITLE"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸";
+$MESS["SALE_DLV_SRV_SPSR_PROFILE_MAIN_DSCR"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð¡ÐµÑ€Ð²Ð¸ÑÐ°";
+$MESS["SALE_DLV_SRV_SPSR_PROFILE_ST"] = "Ð¢Ð¸Ð¿ ÑÐµÑ€Ð²Ð¸ÑÐ°";
+$MESS["SALE_DLV_SRV_SPSR_INNER_DESCR"] = "Ð’Ð½ÑƒÑ‚Ñ€ÐµÐ½Ð½ÐµÐµ Ð¾Ð¿Ð¸ÑÐ°Ð½Ð¸Ðµ";
+$MESS["SALE_DLV_SRV_SPSR_ERROR_CONFIG_SRV_TYPE"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸. ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ñ‚Ð¸Ð¿ ÑÐµÑ€Ð²Ð¸ÑÐ°";
 ?>

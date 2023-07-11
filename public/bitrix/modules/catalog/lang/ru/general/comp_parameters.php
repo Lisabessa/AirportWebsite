@@ -1,5 +1,5 @@
 <?
-$MESS["IBLOCK_SORT_FIELDS_CATALOG_AVAILABLE_EXT"] = "äîñòóïíîñòü ê ïîêóïêå";
-$MESS["IBLOCK_SORT_FIELDS_CATALOG_WEIGHT"] = "âåñ òîâàðà";
-$MESS["IBLOCK_SORT_FIELDS_PRICE_WITHOUT_DISCOUNT"] = "(áåç ó÷åòà ñêèäîê)";
+$MESS["IBLOCK_SORT_FIELDS_CATALOG_AVAILABLE_EXT"] = "Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ð¾ÑÑ‚ÑŒ Ðº Ð¿Ð¾ÐºÑƒÐ¿ÐºÐµ";
+$MESS["IBLOCK_SORT_FIELDS_CATALOG_WEIGHT"] = "Ð²ÐµÑ Ñ‚Ð¾Ð²Ð°Ñ€Ð°";
+$MESS["IBLOCK_SORT_FIELDS_PRICE_WITHOUT_DISCOUNT"] = "(Ð±ÐµÐ· ÑƒÑ‡ÐµÑ‚Ð° ÑÐºÐ¸Ð´Ð¾Ðº)";
 ?>

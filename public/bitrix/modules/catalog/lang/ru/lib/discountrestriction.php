@@ -1,7 +1,7 @@
 <?
-$MESS["DISCOUNT_RESTRICTION_ENTITY_ID_FIELD"] = "Èäåíòèôèêàòîð çàïèñè";
-$MESS["DISCOUNT_RESTRICTION_ENTITY_DISCOUNT_ID_FIELD"] = "Èäåíòèôèêàòîð ñêèäêè íà òîâàð";
-$MESS["DISCOUNT_RESTRICTION_ENTITY_ACTIVE_FIELD"] = "Àêòèâíîñòü";
-$MESS["DISCOUNT_RESTRICTION_ENTITY_USER_GROUP_ID_FIELD"] = "Èäåíòèôèêàòîð ãðóïïû ïîëüçîâàòåëåé";
-$MESS["DISCOUNT_RESTRICTION_ENTITY_PRICE_TYPE_ID_FIELD"] = "Èäåíòèôèêàòîð òèïà öåí";
+$MESS["DISCOUNT_RESTRICTION_ENTITY_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð·Ð°Ð¿Ð¸ÑÐ¸";
+$MESS["DISCOUNT_RESTRICTION_ENTITY_DISCOUNT_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÐºÐ¸Ð´ÐºÐ¸ Ð½Ð° Ñ‚Ð¾Ð²Ð°Ñ€";
+$MESS["DISCOUNT_RESTRICTION_ENTITY_ACTIVE_FIELD"] = "ÐÐºÑ‚Ð¸Ð²Ð½Ð¾ÑÑ‚ÑŒ";
+$MESS["DISCOUNT_RESTRICTION_ENTITY_USER_GROUP_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÐµÐ¹";
+$MESS["DISCOUNT_RESTRICTION_ENTITY_PRICE_TYPE_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ñ‚Ð¸Ð¿Ð° Ñ†ÐµÐ½";
 ?>

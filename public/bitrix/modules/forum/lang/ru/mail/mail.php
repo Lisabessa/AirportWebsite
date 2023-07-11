@@ -1,13 +1,13 @@
 <?
-$MESS["FORUM_MAIL_NAME"] = "äîáàâëåíèå ñîîáùåíèé â ôîðóìû ñîöñåòè";
-$MESS["FORUM_MAIL_ERROR1"] = "Îòïðàâèòåëü íå íàéäåí";
-$MESS["FORUM_MAIL_ERROR2"] = "Íåò äîñòóïà ê ôîðóìó äëÿ ïîëüçîâàòåëÿ:";
-$MESS["FORUM_MAIL_ERROR3"] = "Íåò ïðàâ ñîçäàíèÿ íîâîé òåìû äëÿ ïîëüçîâàòåëÿ:";
-$MESS["FORUM_MAIL_ERROR4"] = "Îøèáêà äîáàâëåíèÿ íîâîé òåìû";
-$MESS["FORUM_MAIL_ERROR5"] = "Îøèáêà äîáàâëåíèÿ íîâîãî ñîîáùåíèÿ";
-$MESS["FORUM_MAIL_OK"] = "Íîâîå ñîîáùåíèå äîáàâëåíî:";
-$MESS["FORUM_MAIL_SOCNET_TITLE_TOPIC"] = "#AUTHOR_NAME# ñîçäàë(à) òåìó íà ôîðóìå: #TITLE#.";
-$MESS["FORUM_MAIL_SOCNET_TITLE_MESSAGE"] = "#AUTHOR_NAME# äîáàâèë(à) ñîîáùåíèå â òåìå #TITLE#.";
-$MESS["FORUM_MAIL_EMPTY_TOPIC_TITLE"] = "(áåç òåìû)";
-$MESS["SONET_FORUM_LOG_TOPIC_TEMPLATE"] = "#AUTHOR_NAME# ñîçäàë(à) òåìó íà ôîðóìå: #TITLE#.";
+$MESS["FORUM_MAIL_NAME"] = "Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ð¹ Ð² Ñ„Ð¾Ñ€ÑƒÐ¼Ñ‹ ÑÐ¾Ñ†ÑÐµÑ‚Ð¸";
+$MESS["FORUM_MAIL_ERROR1"] = "ÐžÑ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»ÑŒ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
+$MESS["FORUM_MAIL_ERROR2"] = "ÐÐµÑ‚ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð° Ðº Ñ„Ð¾Ñ€ÑƒÐ¼Ñƒ Ð´Ð»Ñ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ:";
+$MESS["FORUM_MAIL_ERROR3"] = "ÐÐµÑ‚ Ð¿Ñ€Ð°Ð² ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ Ð½Ð¾Ð²Ð¾Ð¹ Ñ‚ÐµÐ¼Ñ‹ Ð´Ð»Ñ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ:";
+$MESS["FORUM_MAIL_ERROR4"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ñ Ð½Ð¾Ð²Ð¾Ð¹ Ñ‚ÐµÐ¼Ñ‹";
+$MESS["FORUM_MAIL_ERROR5"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ñ Ð½Ð¾Ð²Ð¾Ð³Ð¾ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
+$MESS["FORUM_MAIL_OK"] = "ÐÐ¾Ð²Ð¾Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¾:";
+$MESS["FORUM_MAIL_SOCNET_TITLE_TOPIC"] = "#AUTHOR_NAME# ÑÐ¾Ð·Ð´Ð°Ð»(Ð°) Ñ‚ÐµÐ¼Ñƒ Ð½Ð° Ñ„Ð¾Ñ€ÑƒÐ¼Ðµ: #TITLE#.";
+$MESS["FORUM_MAIL_SOCNET_TITLE_MESSAGE"] = "#AUTHOR_NAME# Ð´Ð¾Ð±Ð°Ð²Ð¸Ð»(Ð°) ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ Ð² Ñ‚ÐµÐ¼Ðµ #TITLE#.";
+$MESS["FORUM_MAIL_EMPTY_TOPIC_TITLE"] = "(Ð±ÐµÐ· Ñ‚ÐµÐ¼Ñ‹)";
+$MESS["SONET_FORUM_LOG_TOPIC_TEMPLATE"] = "#AUTHOR_NAME# ÑÐ¾Ð·Ð´Ð°Ð»(Ð°) Ñ‚ÐµÐ¼Ñƒ Ð½Ð° Ñ„Ð¾Ñ€ÑƒÐ¼Ðµ: #TITLE#.";
 ?>

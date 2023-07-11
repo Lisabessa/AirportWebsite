@@ -1,9 +1,9 @@
 <?
-$MESS["SOAN_UPLOAD_FROM_REGISTRY_LINK"] = "Çàãðóçèòü â Áèòðèêñ24";
-$MESS["SOAN_UPLOAD_FROM_REGISTRY_TITLE"] = "Çàãðóçèòü â Áèòðèêñ24 ÷åðåç ðååñòð";
-$MESS["SALE_O_CONTEXT_B_ORDER_REQUESTS_REGISTRY_CLOSE"] = "Çàêðûòü";
-$MESS["SALE_O_CONTEXT_B_ORDER_REQUESTS_REGISTRY_SEND_YES"] = "Äà";
-$MESS["SALE_O_CONTEXT_B_ORDER_REQUESTS_REGISTRY"] = "Ðååñòð çàêàçîâ";
-$MESS["SALE_O_CONTEXT_B_ORDER_REQUESTS_SELECTION_NEEDED"] = "Íåîáõîäèìî âûäåëèòü çàêàç";
-$MESS["SALE_O_CONTEXT_B_ORDER_REQUESTS_SELECTION_MORE_ONE"] = "Ò.ê. çàêàç ïðèâÿçûâàåòñÿ ê îïðåäåëåííîé ñäåëêå, çàêàç ìîæåò áûòü âûáðàí òîëüêî îäèí";
-$MESS["SALE_O_CONTEXT_B_ORDER_REQUESTS_REGISTRY_SENDED"] = "Çàêàçû íå ìîãóò áûòü âûáðàíû ò.ê. ðàíåå îíè óæå áûëè âûãðóæåíû \n\r ID çàêàçîâ";
+$MESS["SOAN_UPLOAD_FROM_REGISTRY_LINK"] = "Ð—Ð°Ð³Ñ€ÑƒÐ·Ð¸Ñ‚ÑŒ Ð² Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ24";
+$MESS["SOAN_UPLOAD_FROM_REGISTRY_TITLE"] = "Ð—Ð°Ð³Ñ€ÑƒÐ·Ð¸Ñ‚ÑŒ Ð² Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ24 Ñ‡ÐµÑ€ÐµÐ· Ñ€ÐµÐµÑÑ‚Ñ€";
+$MESS["SALE_O_CONTEXT_B_ORDER_REQUESTS_REGISTRY_CLOSE"] = "Ð—Ð°ÐºÑ€Ñ‹Ñ‚ÑŒ";
+$MESS["SALE_O_CONTEXT_B_ORDER_REQUESTS_REGISTRY_SEND_YES"] = "Ð”Ð°";
+$MESS["SALE_O_CONTEXT_B_ORDER_REQUESTS_REGISTRY"] = "Ð ÐµÐµÑÑ‚Ñ€ Ð·Ð°ÐºÐ°Ð·Ð¾Ð²";
+$MESS["SALE_O_CONTEXT_B_ORDER_REQUESTS_SELECTION_NEEDED"] = "ÐÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ð¾ Ð²Ñ‹Ð´ÐµÐ»Ð¸Ñ‚ÑŒ Ð·Ð°ÐºÐ°Ð·";
+$MESS["SALE_O_CONTEXT_B_ORDER_REQUESTS_SELECTION_MORE_ONE"] = "Ð¢.Ðº. Ð·Ð°ÐºÐ°Ð· Ð¿Ñ€Ð¸Ð²ÑÐ·Ñ‹Ð²Ð°ÐµÑ‚ÑÑ Ðº Ð¾Ð¿Ñ€ÐµÐ´ÐµÐ»ÐµÐ½Ð½Ð¾Ð¹ ÑÐ´ÐµÐ»ÐºÐµ, Ð·Ð°ÐºÐ°Ð· Ð¼Ð¾Ð¶ÐµÑ‚ Ð±Ñ‹Ñ‚ÑŒ Ð²Ñ‹Ð±Ñ€Ð°Ð½ Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð¾Ð´Ð¸Ð½";
+$MESS["SALE_O_CONTEXT_B_ORDER_REQUESTS_REGISTRY_SENDED"] = "Ð—Ð°ÐºÐ°Ð·Ñ‹ Ð½Ðµ Ð¼Ð¾Ð³ÑƒÑ‚ Ð±Ñ‹Ñ‚ÑŒ Ð²Ñ‹Ð±Ñ€Ð°Ð½Ñ‹ Ñ‚.Ðº. Ñ€Ð°Ð½ÐµÐµ Ð¾Ð½Ð¸ ÑƒÐ¶Ðµ Ð±Ñ‹Ð»Ð¸ Ð²Ñ‹Ð³Ñ€ÑƒÐ¶ÐµÐ½Ñ‹ \n\r ID Ð·Ð°ÐºÐ°Ð·Ð¾Ð²";

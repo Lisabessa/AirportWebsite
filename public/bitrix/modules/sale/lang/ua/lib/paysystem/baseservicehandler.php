@@ -1,3 +1,3 @@
 <?
-$MESS["SALE_PS_BASE_SERVICE_TEMPLATE_ERROR"] = "Ïîìèëêà ïðè ï³äêëþ÷åíí³ øàáëîíó";
+$MESS["SALE_PS_BASE_SERVICE_TEMPLATE_ERROR"] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ° Ð¿Ñ€Ð¸ Ð¿Ñ–Ð´ÐºÐ»ÑŽÑ‡ÐµÐ½Ð½Ñ– ÑˆÐ°Ð±Ð»Ð¾Ð½Ñƒ";
 ?>

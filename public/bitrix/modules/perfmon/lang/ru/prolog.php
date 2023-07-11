@@ -1,3 +1,3 @@
 <?
-$MESS["PERFMON_HIT_FIND"] = "Íàéòè";
+$MESS["PERFMON_HIT_FIND"] = "ÐÐ°Ð¹Ñ‚Ð¸";
 ?>

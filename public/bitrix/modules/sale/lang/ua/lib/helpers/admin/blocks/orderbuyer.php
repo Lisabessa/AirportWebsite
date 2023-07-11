@@ -1,14 +1,14 @@
 <?
-$MESS["SALE_ORDER_BUYER_FIND"] = "Çíàéòè ïîêóïöÿ";
-$MESS["SALE_ORDER_BUYER_START_TO_CREATE"] = "àáî ïî÷í³òü çàïîâíþâàòè ïîëÿ äëÿ ñòâîðåííÿ íîâîãî";
-$MESS["SALE_ORDER_BUYER"] = "Ïîêóïåöü";
-$MESS["SALE_ORDER_BUYER_PAYER_TYPE"] = "Òèï ïëàòíèêà";
-$MESS["SALE_ORDER_BUYER_CHOOSE_PROFILE"] = "Âèá³ð ïðîô³ëþ";
-$MESS["SALE_ORDER_BUYER_COMMENT"] = "Êîìåíòàð";
-$MESS["SALE_ORDER_BUYER_ORDERCOMMENT"] = "Êîìåíòàð äî çàìîâëåííÿ ïîêóïöÿ";
-$MESS["SALE_ORDER_BUYER_CHANGE"] = "Çì³íèòè";
-$MESS["SALE_ORDER_BUYER_CLEAR"] = "Ïðèáðàòè";
-$MESS["SALE_ORDER_BUYER_NO"] = "Í³";
-$MESS["SALE_ORDER_BUYER_CREATE_NEW"] = "Ñòâîðèòè íîâèé";
-$MESS["SALE_ORDER_BUYER_UNKNOWN_GROUP"] = "Íåâ³äîìà ãðóïà âëàñòèâîñòåé";
+$MESS["SALE_ORDER_BUYER_FIND"] = "Ð—Ð½Ð°Ð¹Ñ‚Ð¸ Ð¿Ð¾ÐºÑƒÐ¿Ñ†Ñ";
+$MESS["SALE_ORDER_BUYER_START_TO_CREATE"] = "Ð°Ð±Ð¾ Ð¿Ð¾Ñ‡Ð½Ñ–Ñ‚ÑŒ Ð·Ð°Ð¿Ð¾Ð²Ð½ÑŽÐ²Ð°Ñ‚Ð¸ Ð¿Ð¾Ð»Ñ Ð´Ð»Ñ ÑÑ‚Ð²Ð¾Ñ€ÐµÐ½Ð½Ñ Ð½Ð¾Ð²Ð¾Ð³Ð¾";
+$MESS["SALE_ORDER_BUYER"] = "ÐŸÐ¾ÐºÑƒÐ¿ÐµÑ†ÑŒ";
+$MESS["SALE_ORDER_BUYER_PAYER_TYPE"] = "Ð¢Ð¸Ð¿ Ð¿Ð»Ð°Ñ‚Ð½Ð¸ÐºÐ°";
+$MESS["SALE_ORDER_BUYER_CHOOSE_PROFILE"] = "Ð’Ð¸Ð±Ñ–Ñ€ Ð¿Ñ€Ð¾Ñ„Ñ–Ð»ÑŽ";
+$MESS["SALE_ORDER_BUYER_COMMENT"] = "ÐšÐ¾Ð¼ÐµÐ½Ñ‚Ð°Ñ€";
+$MESS["SALE_ORDER_BUYER_ORDERCOMMENT"] = "ÐšÐ¾Ð¼ÐµÐ½Ñ‚Ð°Ñ€ Ð´Ð¾ Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ Ð¿Ð¾ÐºÑƒÐ¿Ñ†Ñ";
+$MESS["SALE_ORDER_BUYER_CHANGE"] = "Ð—Ð¼Ñ–Ð½Ð¸Ñ‚Ð¸";
+$MESS["SALE_ORDER_BUYER_CLEAR"] = "ÐŸÑ€Ð¸Ð±Ñ€Ð°Ñ‚Ð¸";
+$MESS["SALE_ORDER_BUYER_NO"] = "ÐÑ–";
+$MESS["SALE_ORDER_BUYER_CREATE_NEW"] = "Ð¡Ñ‚Ð²Ð¾Ñ€Ð¸Ñ‚Ð¸ Ð½Ð¾Ð²Ð¸Ð¹";
+$MESS["SALE_ORDER_BUYER_UNKNOWN_GROUP"] = "ÐÐµÐ²Ñ–Ð´Ð¾Ð¼Ð° Ð³Ñ€ÑƒÐ¿Ð° Ð²Ð»Ð°ÑÑ‚Ð¸Ð²Ð¾ÑÑ‚ÐµÐ¹";
 ?>

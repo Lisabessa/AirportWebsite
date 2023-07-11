@@ -1,283 +1,283 @@
 <?
-$MESS["NEW_BLOG_MESSAGE_NAME"] = "Íîâîå ñîîáùåíèå â áëîãå";
-$MESS["NEW_BLOG_MESSAGE_DESC"] = "#BLOG_ID# - ID áëîãà 
-#BLOG_NAME# - Íàçâàíèå áëîãà
-#BLOG_URL# - Íàçâàíèå áëîãà ëàòèíèöåé
-#MESSAGE_TITLE# - Òåìà ñîîáùåíèÿ
-#MESSAGE_TEXT# - Òåêñò ñîîáùåíèÿ
-#MESSAGE_DATE# - Äàòà ñîîáùåíèÿ
-#MESSAGE_PATH# - URL àäðåñ ñîîáùåíèÿ
-#AUTHOR# - Àâòîð ñîîáùåíèÿ
-#EMAIL_FROM# - Email îòïðàâèòåëÿ ïèñüìà
-#EMAIL_TO# - Email ïîëó÷àòåëÿ ïèñüìà";
+$MESS["NEW_BLOG_MESSAGE_NAME"] = "ÐÐ¾Ð²Ð¾Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ Ð² Ð±Ð»Ð¾Ð³Ðµ";
+$MESS["NEW_BLOG_MESSAGE_DESC"] = "#BLOG_ID# - ID Ð±Ð»Ð¾Ð³Ð° 
+#BLOG_NAME# - ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð±Ð»Ð¾Ð³Ð°
+#BLOG_URL# - ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð±Ð»Ð¾Ð³Ð° Ð»Ð°Ñ‚Ð¸Ð½Ð¸Ñ†ÐµÐ¹
+#MESSAGE_TITLE# - Ð¢ÐµÐ¼Ð° ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
+#MESSAGE_TEXT# - Ð¢ÐµÐºÑÑ‚ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
+#MESSAGE_DATE# - Ð”Ð°Ñ‚Ð° ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
+#MESSAGE_PATH# - URL Ð°Ð´Ñ€ÐµÑ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
+#AUTHOR# - ÐÐ²Ñ‚Ð¾Ñ€ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
+#EMAIL_FROM# - Email Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»Ñ Ð¿Ð¸ÑÑŒÐ¼Ð°
+#EMAIL_TO# - Email Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ Ð¿Ð¸ÑÑŒÐ¼Ð°";
 $MESS["NEW_BLOG_MESSAGE_SUBJECT"] = "#SITE_NAME#: [B] #BLOG_NAME# : #MESSAGE_TITLE#";
-$MESS["NEW_BLOG_MESSAGE_MESSAGE"] = "Èíôîðìàöèîííîå ñîîáùåíèå ñàéòà #SITE_NAME#
+$MESS["NEW_BLOG_MESSAGE_MESSAGE"] = "Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð¾Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ ÑÐ°Ð¹Ñ‚Ð° #SITE_NAME#
 ------------------------------------------
 
-Íîâîå ñîîáùåíèå â áëîãå \"#BLOG_NAME#\"
+ÐÐ¾Ð²Ð¾Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ Ð² Ð±Ð»Ð¾Ð³Ðµ \"#BLOG_NAME#\"
 
-Òåìà:
+Ð¢ÐµÐ¼Ð°:
 #MESSAGE_TITLE#
 
-Àâòîð: #AUTHOR#
-Äàòà: #MESSAGE_DATE#
+ÐÐ²Ñ‚Ð¾Ñ€: #AUTHOR#
+Ð”Ð°Ñ‚Ð°: #MESSAGE_DATE#
 
-Òåêñò ñîîáùåíèÿ:
+Ð¢ÐµÐºÑÑ‚ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ:
 #MESSAGE_TEXT#
 
-Àäðåñ ñîîáùåíèÿ:
+ÐÐ´Ñ€ÐµÑ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ:
 #MESSAGE_PATH#
 
-Ñîîáùåíèå ñãåíåðèðîâàíî àâòîìàòè÷åñêè.";
-$MESS["NEW_BLOG_COMMENT_NAME"] = "Íîâûé êîììåíòàðèé â áëîãå";
-$MESS["NEW_BLOG_COMMENT_DESC"] = "#BLOG_ID# - ID áëîãà 
-#BLOG_NAME# - Íàçâàíèå áëîãà
-#BLOG_URL# - Íàçâàíèå áëîãà ëàòèíèöåé
-#MESSAGE_TITLE# - Òåìà ñîîáùåíèÿ
-#COMMENT_TITLE# - Çàãîëîâîê êîììåíòàðèÿ
-#COMMENT_TEXT# - Òåêñò êîììåíòàðèÿ
-#COMMENT_DATE# - Òåêñò êîììåíòàðèÿ
-#COMMENT_PATH# - URL àäðåñ ñîîáùåíèÿ
-#AUTHOR# - Àâòîð ñîîáùåíèÿ
-#EMAIL_FROM# - Email îòïðàâèòåëÿ ïèñüìà
-#EMAIL_TO# - Email ïîëó÷àòåëÿ ïèñüìà";
+Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ ÑÐ³ÐµÐ½ÐµÑ€Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¾ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸.";
+$MESS["NEW_BLOG_COMMENT_NAME"] = "ÐÐ¾Ð²Ñ‹Ð¹ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹ Ð² Ð±Ð»Ð¾Ð³Ðµ";
+$MESS["NEW_BLOG_COMMENT_DESC"] = "#BLOG_ID# - ID Ð±Ð»Ð¾Ð³Ð° 
+#BLOG_NAME# - ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð±Ð»Ð¾Ð³Ð°
+#BLOG_URL# - ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð±Ð»Ð¾Ð³Ð° Ð»Ð°Ñ‚Ð¸Ð½Ð¸Ñ†ÐµÐ¹
+#MESSAGE_TITLE# - Ð¢ÐµÐ¼Ð° ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
+#COMMENT_TITLE# - Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ñ
+#COMMENT_TEXT# - Ð¢ÐµÐºÑÑ‚ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ñ
+#COMMENT_DATE# - Ð¢ÐµÐºÑÑ‚ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ñ
+#COMMENT_PATH# - URL Ð°Ð´Ñ€ÐµÑ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
+#AUTHOR# - ÐÐ²Ñ‚Ð¾Ñ€ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
+#EMAIL_FROM# - Email Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»Ñ Ð¿Ð¸ÑÑŒÐ¼Ð°
+#EMAIL_TO# - Email Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ Ð¿Ð¸ÑÑŒÐ¼Ð°";
 $MESS["NEW_BLOG_COMMENT_SUBJECT"] = "#SITE_NAME#: [B] #MESSAGE_TITLE# : #COMMENT_TITLE#";
-$MESS["NEW_BLOG_COMMENT_MESSAGE"] = "Èíôîðìàöèîííîå ñîîáùåíèå ñàéòà #SITE_NAME#
+$MESS["NEW_BLOG_COMMENT_MESSAGE"] = "Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð¾Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ ÑÐ°Ð¹Ñ‚Ð° #SITE_NAME#
 ------------------------------------------
 
-Íîâûé êîììåíòàðèé â áëîãå \"#BLOG_NAME#\" íà ñîîáùåíèå \"#MESSAGE_TITLE#\"
+ÐÐ¾Ð²Ñ‹Ð¹ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹ Ð² Ð±Ð»Ð¾Ð³Ðµ \"#BLOG_NAME#\" Ð½Ð° ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ \"#MESSAGE_TITLE#\"
 
-Òåìà:
+Ð¢ÐµÐ¼Ð°:
 #COMMENT_TITLE#
-Àâòîð: #AUTHOR#
-Äàòà: #COMMENT_DATE#
+ÐÐ²Ñ‚Ð¾Ñ€: #AUTHOR#
+Ð”Ð°Ñ‚Ð°: #COMMENT_DATE#
 
-Òåêñò ñîîáùåíèÿ:
+Ð¢ÐµÐºÑÑ‚ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ:
 #COMMENT_TEXT#
 
-Àäðåñ ñîîáùåíèÿ:
+ÐÐ´Ñ€ÐµÑ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ:
 #COMMENT_PATH#
 
-Ñîîáùåíèå ñãåíåðèðîâàíî àâòîìàòè÷åñêè.";
-$MESS["NEW_BLOG_COMMENT2COMMENT_NAME"] = "Íîâûé êîììåíòàðèé íà âàø êîììåíòàðèé â áëîãå";
-$MESS["NEW_BLOG_COMMENT2COMMENT_DESC"] = "#BLOG_ID# - ID áëîãà 
-#BLOG_NAME# - Íàçâàíèå áëîãà
-#BLOG_URL# - Íàçâàíèå áëîãà ëàòèíèöåé
-#MESSAGE_TITLE# - Òåìà ñîîáùåíèÿ
-#COMMENT_TITLE# - Çàãîëîâîê êîììåíòàðèÿ
-#COMMENT_TEXT# - Òåêñò êîììåíòàðèÿ
-#COMMENT_DATE# - Òåêñò êîììåíòàðèÿ
-#COMMENT_PATH# - URL àäðåñ ñîîáùåíèÿ
-#AUTHOR# - Àâòîð ñîîáùåíèÿ
-#EMAIL_FROM# - Email îòïðàâèòåëÿ ïèñüìà
-#EMAIL_TO# - Email ïîëó÷àòåëÿ ïèñüìà";
+Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ ÑÐ³ÐµÐ½ÐµÑ€Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¾ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸.";
+$MESS["NEW_BLOG_COMMENT2COMMENT_NAME"] = "ÐÐ¾Ð²Ñ‹Ð¹ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹ Ð½Ð° Ð²Ð°Ñˆ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹ Ð² Ð±Ð»Ð¾Ð³Ðµ";
+$MESS["NEW_BLOG_COMMENT2COMMENT_DESC"] = "#BLOG_ID# - ID Ð±Ð»Ð¾Ð³Ð° 
+#BLOG_NAME# - ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð±Ð»Ð¾Ð³Ð°
+#BLOG_URL# - ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð±Ð»Ð¾Ð³Ð° Ð»Ð°Ñ‚Ð¸Ð½Ð¸Ñ†ÐµÐ¹
+#MESSAGE_TITLE# - Ð¢ÐµÐ¼Ð° ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
+#COMMENT_TITLE# - Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ñ
+#COMMENT_TEXT# - Ð¢ÐµÐºÑÑ‚ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ñ
+#COMMENT_DATE# - Ð¢ÐµÐºÑÑ‚ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ñ
+#COMMENT_PATH# - URL Ð°Ð´Ñ€ÐµÑ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
+#AUTHOR# - ÐÐ²Ñ‚Ð¾Ñ€ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
+#EMAIL_FROM# - Email Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»Ñ Ð¿Ð¸ÑÑŒÐ¼Ð°
+#EMAIL_TO# - Email Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ Ð¿Ð¸ÑÑŒÐ¼Ð°";
 $MESS["NEW_BLOG_COMMENT2COMMENT_SUBJECT"] = "#SITE_NAME#: [B] #MESSAGE_TITLE# : #COMMENT_TITLE#";
-$MESS["NEW_BLOG_COMMENT2COMMENT_MESSAGE"] = "Èíôîðìàöèîííîå ñîîáùåíèå ñàéòà #SITE_NAME#
+$MESS["NEW_BLOG_COMMENT2COMMENT_MESSAGE"] = "Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð¾Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ ÑÐ°Ð¹Ñ‚Ð° #SITE_NAME#
 ------------------------------------------
 
-Íîâûé êîììåíòàðèé íà âàø êîììåíòàðèé â áëîãå \"#BLOG_NAME#\" íà ñîîáùåíèå \"#MESSAGE_TITLE#\".
+ÐÐ¾Ð²Ñ‹Ð¹ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹ Ð½Ð° Ð²Ð°Ñˆ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹ Ð² Ð±Ð»Ð¾Ð³Ðµ \"#BLOG_NAME#\" Ð½Ð° ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ \"#MESSAGE_TITLE#\".
 
-Òåìà:
+Ð¢ÐµÐ¼Ð°:
 #COMMENT_TITLE#
-Àâòîð: #AUTHOR#
-Äàòà: #COMMENT_DATE#
+ÐÐ²Ñ‚Ð¾Ñ€: #AUTHOR#
+Ð”Ð°Ñ‚Ð°: #COMMENT_DATE#
 
-Òåêñò ñîîáùåíèÿ:
+Ð¢ÐµÐºÑÑ‚ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ:
 #COMMENT_TEXT#
 
-Àäðåñ ñîîáùåíèÿ:
+ÐÐ´Ñ€ÐµÑ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ:
 #COMMENT_PATH#
 
-Ñîîáùåíèå ñãåíåðèðîâàíî àâòîìàòè÷åñêè.";
-$MESS["NEW_BLOG_COMMENT_WITHOUT_TITLE_NAME"] = "Íîâûé êîììåíòàðèé â áëîãå (áåç òåìû)";
-$MESS["NEW_BLOG_COMMENT_WITHOUT_TITLE_DESC"] = "#BLOG_ID# - ID áëîãà 
-#BLOG_NAME# - Íàçâàíèå áëîãà
-#BLOG_URL# - Íàçâàíèå áëîãà ëàòèíèöåé
-#MESSAGE_TITLE# - Òåìà ñîîáùåíèÿ
-#COMMENT_TEXT# - Òåêñò êîììåíòàðèÿ
-#COMMENT_DATE# - Òåêñò êîììåíòàðèÿ
-#COMMENT_PATH# - URL àäðåñ ñîîáùåíèÿ
-#AUTHOR# - Àâòîð ñîîáùåíèÿ
-#EMAIL_FROM# - Email îòïðàâèòåëÿ ïèñüìà
-#EMAIL_TO# - Email ïîëó÷àòåëÿ ïèñüìà";
+Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ ÑÐ³ÐµÐ½ÐµÑ€Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¾ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸.";
+$MESS["NEW_BLOG_COMMENT_WITHOUT_TITLE_NAME"] = "ÐÐ¾Ð²Ñ‹Ð¹ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹ Ð² Ð±Ð»Ð¾Ð³Ðµ (Ð±ÐµÐ· Ñ‚ÐµÐ¼Ñ‹)";
+$MESS["NEW_BLOG_COMMENT_WITHOUT_TITLE_DESC"] = "#BLOG_ID# - ID Ð±Ð»Ð¾Ð³Ð° 
+#BLOG_NAME# - ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð±Ð»Ð¾Ð³Ð°
+#BLOG_URL# - ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð±Ð»Ð¾Ð³Ð° Ð»Ð°Ñ‚Ð¸Ð½Ð¸Ñ†ÐµÐ¹
+#MESSAGE_TITLE# - Ð¢ÐµÐ¼Ð° ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
+#COMMENT_TEXT# - Ð¢ÐµÐºÑÑ‚ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ñ
+#COMMENT_DATE# - Ð¢ÐµÐºÑÑ‚ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ñ
+#COMMENT_PATH# - URL Ð°Ð´Ñ€ÐµÑ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
+#AUTHOR# - ÐÐ²Ñ‚Ð¾Ñ€ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
+#EMAIL_FROM# - Email Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»Ñ Ð¿Ð¸ÑÑŒÐ¼Ð°
+#EMAIL_TO# - Email Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ Ð¿Ð¸ÑÑŒÐ¼Ð°";
 $MESS["NEW_BLOG_COMMENT_WITHOUT_TITLE_SUBJECT"] = "#SITE_NAME#: [B] #MESSAGE_TITLE#";
-$MESS["NEW_BLOG_COMMENT_WITHOUT_TITLE_MESSAGE"] = "Èíôîðìàöèîííîå ñîîáùåíèå ñàéòà #SITE_NAME#
+$MESS["NEW_BLOG_COMMENT_WITHOUT_TITLE_MESSAGE"] = "Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð¾Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ ÑÐ°Ð¹Ñ‚Ð° #SITE_NAME#
 ------------------------------------------
 
-Íîâûé êîììåíòàðèé â áëîãå \"#BLOG_NAME#\" íà ñîîáùåíèå \"#MESSAGE_TITLE#\"
+ÐÐ¾Ð²Ñ‹Ð¹ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹ Ð² Ð±Ð»Ð¾Ð³Ðµ \"#BLOG_NAME#\" Ð½Ð° ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ \"#MESSAGE_TITLE#\"
 
-Àâòîð: #AUTHOR#
-Äàòà: #COMMENT_DATE#
+ÐÐ²Ñ‚Ð¾Ñ€: #AUTHOR#
+Ð”Ð°Ñ‚Ð°: #COMMENT_DATE#
 
-Òåêñò ñîîáùåíèÿ:
+Ð¢ÐµÐºÑÑ‚ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ:
 #COMMENT_TEXT#
 
-Àäðåñ ñîîáùåíèÿ:
+ÐÐ´Ñ€ÐµÑ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ:
 #COMMENT_PATH#
 
-Ñîîáùåíèå ñãåíåðèðîâàíî àâòîìàòè÷åñêè.";
-$MESS["NEW_BLOG_COMMENT2COMMENT_WITHOUT_TITLE_NAME"] = "Íîâûé êîììåíòàðèé íà âàø êîììåíòàðèé â áëîãå (áåç òåìû)";
-$MESS["NEW_BLOG_COMMENT2COMMENT_WITHOUT_TITLE_DESC"] = "#BLOG_ID# - ID áëîãà 
-#BLOG_NAME# - Íàçâàíèå áëîãà
-#BLOG_URL# - Íàçâàíèå áëîãà ëàòèíèöåé
-#COMMENT_TITLE# - Çàãîëîâîê êîììåíòàðèÿ
-#COMMENT_TEXT# - Òåêñò êîììåíòàðèÿ
-#COMMENT_DATE# - Òåêñò êîììåíòàðèÿ
-#COMMENT_PATH# - URL àäðåñ ñîîáùåíèÿ
-#AUTHOR# - Àâòîð ñîîáùåíèÿ
-#EMAIL_FROM# - Email îòïðàâèòåëÿ ïèñüìà
-#EMAIL_TO# - Email ïîëó÷àòåëÿ ïèñüìà";
+Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ ÑÐ³ÐµÐ½ÐµÑ€Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¾ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸.";
+$MESS["NEW_BLOG_COMMENT2COMMENT_WITHOUT_TITLE_NAME"] = "ÐÐ¾Ð²Ñ‹Ð¹ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹ Ð½Ð° Ð²Ð°Ñˆ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹ Ð² Ð±Ð»Ð¾Ð³Ðµ (Ð±ÐµÐ· Ñ‚ÐµÐ¼Ñ‹)";
+$MESS["NEW_BLOG_COMMENT2COMMENT_WITHOUT_TITLE_DESC"] = "#BLOG_ID# - ID Ð±Ð»Ð¾Ð³Ð° 
+#BLOG_NAME# - ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð±Ð»Ð¾Ð³Ð°
+#BLOG_URL# - ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð±Ð»Ð¾Ð³Ð° Ð»Ð°Ñ‚Ð¸Ð½Ð¸Ñ†ÐµÐ¹
+#COMMENT_TITLE# - Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ñ
+#COMMENT_TEXT# - Ð¢ÐµÐºÑÑ‚ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ñ
+#COMMENT_DATE# - Ð¢ÐµÐºÑÑ‚ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ñ
+#COMMENT_PATH# - URL Ð°Ð´Ñ€ÐµÑ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
+#AUTHOR# - ÐÐ²Ñ‚Ð¾Ñ€ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
+#EMAIL_FROM# - Email Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»Ñ Ð¿Ð¸ÑÑŒÐ¼Ð°
+#EMAIL_TO# - Email Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ Ð¿Ð¸ÑÑŒÐ¼Ð°";
 $MESS["NEW_BLOG_COMMENT2COMMENT_WITHOUT_TITLE_SUBJECT"] = "#SITE_NAME#: [B] #MESSAGE_TITLE#";
-$MESS["NEW_BLOG_COMMENT2COMMENT_WITHOUT_TITLE_MESSAGE"] = "Èíôîðìàöèîííîå ñîîáùåíèå ñàéòà #SITE_NAME#
+$MESS["NEW_BLOG_COMMENT2COMMENT_WITHOUT_TITLE_MESSAGE"] = "Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð¾Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ ÑÐ°Ð¹Ñ‚Ð° #SITE_NAME#
 ------------------------------------------
 
-Íîâûé êîììåíòàðèé íà âàø êîììåíòàðèé â áëîãå \"#BLOG_NAME#\" íà ñîîáùåíèå \"#MESSAGE_TITLE#\".
+ÐÐ¾Ð²Ñ‹Ð¹ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹ Ð½Ð° Ð²Ð°Ñˆ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹ Ð² Ð±Ð»Ð¾Ð³Ðµ \"#BLOG_NAME#\" Ð½Ð° ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ \"#MESSAGE_TITLE#\".
 
-Àâòîð: #AUTHOR#
-Äàòà: #COMMENT_DATE#
+ÐÐ²Ñ‚Ð¾Ñ€: #AUTHOR#
+Ð”Ð°Ñ‚Ð°: #COMMENT_DATE#
 
-Òåêñò ñîîáùåíèÿ:
+Ð¢ÐµÐºÑÑ‚ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ:
 #COMMENT_TEXT#
 
-Àäðåñ ñîîáùåíèÿ:
+ÐÐ´Ñ€ÐµÑ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ:
 #COMMENT_PATH#
 
-Ñîîáùåíèå ñãåíåðèðîâàíî àâòîìàòè÷åñêè.
+Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ ÑÐ³ÐµÐ½ÐµÑ€Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¾ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸.
 ";
-$MESS["BLOG_YOUR_BLOG_TO_USER_NAME"] = "Âàø áëîã áûë äîáàâëåí â äðóçüÿ";
-$MESS["BLOG_YOUR_BLOG_TO_USER_DESC"] = "#BLOG_ID# - ID áëîãà 
-#BLOG_NAME# - Íàçâàíèå áëîãà
-#BLOG_URL# - Íàçâàíèå áëîãà ëàòèíèöåé
-#BLOG_ADR# - Àäðåñ áëîãà
-#USER_ID# - ID ïîëüçîâàòåëÿ
-#USER# - Ïîëüçîâàòåëü
-#USER_URL# - Àäðåñ ïîëüçîâàòåëÿ
-#EMAIL_FROM# - Email îòïðàâèòåëÿ ïèñüìà
-#EMAIL_TO# - Email ïîëó÷àòåëÿ ïèñüìà
+$MESS["BLOG_YOUR_BLOG_TO_USER_NAME"] = "Ð’Ð°Ñˆ Ð±Ð»Ð¾Ð³ Ð±Ñ‹Ð» Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½ Ð² Ð´Ñ€ÑƒÐ·ÑŒÑ";
+$MESS["BLOG_YOUR_BLOG_TO_USER_DESC"] = "#BLOG_ID# - ID Ð±Ð»Ð¾Ð³Ð° 
+#BLOG_NAME# - ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð±Ð»Ð¾Ð³Ð°
+#BLOG_URL# - ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð±Ð»Ð¾Ð³Ð° Ð»Ð°Ñ‚Ð¸Ð½Ð¸Ñ†ÐµÐ¹
+#BLOG_ADR# - ÐÐ´Ñ€ÐµÑ Ð±Ð»Ð¾Ð³Ð°
+#USER_ID# - ID Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ
+#USER# - ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ
+#USER_URL# - ÐÐ´Ñ€ÐµÑ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ
+#EMAIL_FROM# - Email Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»Ñ Ð¿Ð¸ÑÑŒÐ¼Ð°
+#EMAIL_TO# - Email Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ Ð¿Ð¸ÑÑŒÐ¼Ð°
 ";
-$MESS["BLOG_YOUR_BLOG_TO_USER_SUBJECT"] = "#SITE_NAME#: [B] Âàø áëîã \"#BLOG_NAME#\" áûë äîáàâëåí â äðóçüÿ ê #USER#";
-$MESS["BLOG_YOUR_BLOG_TO_USER_MESSAGE"] = "Èíôîðìàöèîííîå ñîîáùåíèå ñàéòà #SITE_NAME#
+$MESS["BLOG_YOUR_BLOG_TO_USER_SUBJECT"] = "#SITE_NAME#: [B] Ð’Ð°Ñˆ Ð±Ð»Ð¾Ð³ \"#BLOG_NAME#\" Ð±Ñ‹Ð» Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½ Ð² Ð´Ñ€ÑƒÐ·ÑŒÑ Ðº #USER#";
+$MESS["BLOG_YOUR_BLOG_TO_USER_MESSAGE"] = "Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð¾Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ ÑÐ°Ð¹Ñ‚Ð° #SITE_NAME#
 ------------------------------------------
 
-Âàø áëîã \"#BLOG_NAME#\" áûë äîáàâëåí â äðóçüÿ ê #USER#.
+Ð’Ð°Ñˆ Ð±Ð»Ð¾Ð³ \"#BLOG_NAME#\" Ð±Ñ‹Ð» Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½ Ð² Ð´Ñ€ÑƒÐ·ÑŒÑ Ðº #USER#.
 
-Ïðîôèëü ïîëüçîâàòåëÿ: #USER_URL#
+ÐŸÑ€Ð¾Ñ„Ð¸Ð»ÑŒ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ: #USER_URL#
 
-Àäðåñ âàøåãî áëîãà: #BLOG_ADR#
+ÐÐ´Ñ€ÐµÑ Ð²Ð°ÑˆÐµÐ³Ð¾ Ð±Ð»Ð¾Ð³Ð°: #BLOG_ADR#
 
-Ñîîáùåíèå ñãåíåðèðîâàíî àâòîìàòè÷åñêè.
+Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ ÑÐ³ÐµÐ½ÐµÑ€Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¾ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸.
 ";
-$MESS["BLOG_YOU_TO_BLOG_NAME"] = "Âû áûëè äîáàâëåíû â äðóçüÿ áëîãà";
-$MESS["BLOG_YOU_TO_BLOG_DESC"] = "#BLOG_ID# - ID áëîãà 
-#BLOG_NAME# - Íàçâàíèå áëîãà
-#BLOG_URL# - Íàçâàíèå áëîãà ëàòèíèöåé
-#BLOG_ADR# - Àäðåñ áëîãà
-#USER_ID# - ID ïîëüçîâàòåëÿ
-#USER# - Ïîëüçîâàòåëü
-#USER_URL# - Àäðåñ ïîëüçîâàòåëÿ
-#EMAIL_FROM# - Email îòïðàâèòåëÿ ïèñüìà
-#EMAIL_TO# - Email ïîëó÷àòåëÿ ïèñüìà
+$MESS["BLOG_YOU_TO_BLOG_NAME"] = "Ð’Ñ‹ Ð±Ñ‹Ð»Ð¸ Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ñ‹ Ð² Ð´Ñ€ÑƒÐ·ÑŒÑ Ð±Ð»Ð¾Ð³Ð°";
+$MESS["BLOG_YOU_TO_BLOG_DESC"] = "#BLOG_ID# - ID Ð±Ð»Ð¾Ð³Ð° 
+#BLOG_NAME# - ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð±Ð»Ð¾Ð³Ð°
+#BLOG_URL# - ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð±Ð»Ð¾Ð³Ð° Ð»Ð°Ñ‚Ð¸Ð½Ð¸Ñ†ÐµÐ¹
+#BLOG_ADR# - ÐÐ´Ñ€ÐµÑ Ð±Ð»Ð¾Ð³Ð°
+#USER_ID# - ID Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ
+#USER# - ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ
+#USER_URL# - ÐÐ´Ñ€ÐµÑ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ
+#EMAIL_FROM# - Email Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»Ñ Ð¿Ð¸ÑÑŒÐ¼Ð°
+#EMAIL_TO# - Email Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ Ð¿Ð¸ÑÑŒÐ¼Ð°
 ";
-$MESS["BLOG_YOU_TO_BLOG_SUBJECT"] = "#SITE_NAME#: [B] Âû áûëè äîáàâëåíû â äðóçüÿ áëîãà \"#BLOG_NAME#\"";
-$MESS["BLOG_YOU_TO_BLOG_MESSAGE"] = "Èíôîðìàöèîííîå ñîîáùåíèå ñàéòà #SITE_NAME#
+$MESS["BLOG_YOU_TO_BLOG_SUBJECT"] = "#SITE_NAME#: [B] Ð’Ñ‹ Ð±Ñ‹Ð»Ð¸ Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ñ‹ Ð² Ð´Ñ€ÑƒÐ·ÑŒÑ Ð±Ð»Ð¾Ð³Ð° \"#BLOG_NAME#\"";
+$MESS["BLOG_YOU_TO_BLOG_MESSAGE"] = "Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð¾Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ ÑÐ°Ð¹Ñ‚Ð° #SITE_NAME#
 ------------------------------------------
 
-Âû áûëè äîáàâëåíû â äðóçüÿ áëîãà \"#BLOG_NAME#\".
+Ð’Ñ‹ Ð±Ñ‹Ð»Ð¸ Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ñ‹ Ð² Ð´Ñ€ÑƒÐ·ÑŒÑ Ð±Ð»Ð¾Ð³Ð° \"#BLOG_NAME#\".
 
-Àäðåñ áëîãà: #BLOG_ADR#
+ÐÐ´Ñ€ÐµÑ Ð±Ð»Ð¾Ð³Ð°: #BLOG_ADR#
 
-Âàø ïðîôèëü: #USER_URL#
+Ð’Ð°Ñˆ Ð¿Ñ€Ð¾Ñ„Ð¸Ð»ÑŒ: #USER_URL#
 
-Ñîîáùåíèå ñãåíåðèðîâàíî àâòîìàòè÷åñêè.
+Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ ÑÐ³ÐµÐ½ÐµÑ€Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¾ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸.
 ";
-$MESS["BLOG_BLOG_TO_YOU_NAME"] = "Ê âàì â äðóçüÿ áûë äîáàâëåí áëîã";
-$MESS["BLOG_BLOG_TO_YOU_DESC"] = "#BLOG_ID# - ID áëîãà 
-#BLOG_NAME# - Íàçâàíèå áëîãà
-#BLOG_URL# - Íàçâàíèå áëîãà ëàòèíèöåé
-#BLOG_ADR# - Àäðåñ áëîãà
-#USER_ID# - ID ïîëüçîâàòåëÿ
-#USER# - Ïîëüçîâàòåëü
-#USER_URL# - Àäðåñ ïîëüçîâàòåëÿ
-#EMAIL_FROM# - Email îòïðàâèòåëÿ ïèñüìà
-#EMAIL_TO# - Email ïîëó÷àòåëÿ ïèñüìà
+$MESS["BLOG_BLOG_TO_YOU_NAME"] = "Ðš Ð²Ð°Ð¼ Ð² Ð´Ñ€ÑƒÐ·ÑŒÑ Ð±Ñ‹Ð» Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½ Ð±Ð»Ð¾Ð³";
+$MESS["BLOG_BLOG_TO_YOU_DESC"] = "#BLOG_ID# - ID Ð±Ð»Ð¾Ð³Ð° 
+#BLOG_NAME# - ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð±Ð»Ð¾Ð³Ð°
+#BLOG_URL# - ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð±Ð»Ð¾Ð³Ð° Ð»Ð°Ñ‚Ð¸Ð½Ð¸Ñ†ÐµÐ¹
+#BLOG_ADR# - ÐÐ´Ñ€ÐµÑ Ð±Ð»Ð¾Ð³Ð°
+#USER_ID# - ID Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ
+#USER# - ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ
+#USER_URL# - ÐÐ´Ñ€ÐµÑ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ
+#EMAIL_FROM# - Email Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»Ñ Ð¿Ð¸ÑÑŒÐ¼Ð°
+#EMAIL_TO# - Email Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ Ð¿Ð¸ÑÑŒÐ¼Ð°
 ";
-$MESS["BLOG_BLOG_TO_YOU_SUBJECT"] = "#SITE_NAME#: [B] Ê âàì â äðóçüÿ áûë äîáàâëåí áëîã \"#BLOG_NAME#\"";
-$MESS["BLOG_BLOG_TO_YOU_MESSAGE"] = "Èíôîðìàöèîííîå ñîîáùåíèå ñàéòà #SITE_NAME#
+$MESS["BLOG_BLOG_TO_YOU_SUBJECT"] = "#SITE_NAME#: [B] Ðš Ð²Ð°Ð¼ Ð² Ð´Ñ€ÑƒÐ·ÑŒÑ Ð±Ñ‹Ð» Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½ Ð±Ð»Ð¾Ð³ \"#BLOG_NAME#\"";
+$MESS["BLOG_BLOG_TO_YOU_MESSAGE"] = "Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð¾Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ ÑÐ°Ð¹Ñ‚Ð° #SITE_NAME#
 ------------------------------------------
 
-Ê âàì â äðóçüÿ áûë äîáàâëåí áëîã \"#BLOG_NAME#\".
+Ðš Ð²Ð°Ð¼ Ð² Ð´Ñ€ÑƒÐ·ÑŒÑ Ð±Ñ‹Ð» Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½ Ð±Ð»Ð¾Ð³ \"#BLOG_NAME#\".
 
-Àäðåñ áëîãà: #BLOG_ADR#
+ÐÐ´Ñ€ÐµÑ Ð±Ð»Ð¾Ð³Ð°: #BLOG_ADR#
 
-Âàø ïðîôèëü: #USER_URL#
+Ð’Ð°Ñˆ Ð¿Ñ€Ð¾Ñ„Ð¸Ð»ÑŒ: #USER_URL#
 
-Ñîîáùåíèå ñãåíåðèðîâàíî àâòîìàòè÷åñêè.
+Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ ÑÐ³ÐµÐ½ÐµÑ€Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¾ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸.
 ";
-$MESS["BLOG_USER_TO_YOUR_BLOG_NAME"] = "Â âàø áëîã áûë äîáàâëåí äðóã";
-$MESS["BLOG_USER_TO_YOUR_BLOG_DESC"] = "#BLOG_ID# - ID áëîãà 
-#BLOG_NAME# - Íàçâàíèå áëîãà
-#BLOG_URL# - Íàçâàíèå áëîãà ëàòèíèöåé
-#BLOG_ADR# - Àäðåñ áëîãà
-#USER_ID# - ID ïîëüçîâàòåëÿ
-#USER# - Ïîëüçîâàòåëü
-#USER_URL# - Àäðåñ ïîëüçîâàòåëÿ
-#EMAIL_FROM# - Email îòïðàâèòåëÿ ïèñüìà
-#EMAIL_TO# - Email ïîëó÷àòåëÿ ïèñüìà
+$MESS["BLOG_USER_TO_YOUR_BLOG_NAME"] = "Ð’ Ð²Ð°Ñˆ Ð±Ð»Ð¾Ð³ Ð±Ñ‹Ð» Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½ Ð´Ñ€ÑƒÐ³";
+$MESS["BLOG_USER_TO_YOUR_BLOG_DESC"] = "#BLOG_ID# - ID Ð±Ð»Ð¾Ð³Ð° 
+#BLOG_NAME# - ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð±Ð»Ð¾Ð³Ð°
+#BLOG_URL# - ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð±Ð»Ð¾Ð³Ð° Ð»Ð°Ñ‚Ð¸Ð½Ð¸Ñ†ÐµÐ¹
+#BLOG_ADR# - ÐÐ´Ñ€ÐµÑ Ð±Ð»Ð¾Ð³Ð°
+#USER_ID# - ID Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ
+#USER# - ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ
+#USER_URL# - ÐÐ´Ñ€ÐµÑ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ
+#EMAIL_FROM# - Email Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»Ñ Ð¿Ð¸ÑÑŒÐ¼Ð°
+#EMAIL_TO# - Email Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ Ð¿Ð¸ÑÑŒÐ¼Ð°
 ";
-$MESS["BLOG_USER_TO_YOUR_BLOG_SUBJECT"] = "#SITE_NAME#: [B] Â âàø áëîã \"#BLOG_NAME#\" áûë äîáàâëåí äðóã #USER#";
-$MESS["BLOG_USER_TO_YOUR_BLOG_MESSAGE"] = "Èíôîðìàöèîííîå ñîîáùåíèå ñàéòà #SITE_NAME#
+$MESS["BLOG_USER_TO_YOUR_BLOG_SUBJECT"] = "#SITE_NAME#: [B] Ð’ Ð²Ð°Ñˆ Ð±Ð»Ð¾Ð³ \"#BLOG_NAME#\" Ð±Ñ‹Ð» Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½ Ð´Ñ€ÑƒÐ³ #USER#";
+$MESS["BLOG_USER_TO_YOUR_BLOG_MESSAGE"] = "Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð¾Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ ÑÐ°Ð¹Ñ‚Ð° #SITE_NAME#
 ------------------------------------------
 
-Â âàø áëîã \"#BLOG_NAME#\" áûë äîáàâëåí äðóã #USER#.
+Ð’ Ð²Ð°Ñˆ Ð±Ð»Ð¾Ð³ \"#BLOG_NAME#\" Ð±Ñ‹Ð» Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½ Ð´Ñ€ÑƒÐ³ #USER#.
 
-Ïðîôèëü ïîëüçîâàòåëÿ: #USER_URL#
+ÐŸÑ€Ð¾Ñ„Ð¸Ð»ÑŒ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ: #USER_URL#
 
-Àäðåñ âàøåãî áëîãà: #BLOG_ADR#
+ÐÐ´Ñ€ÐµÑ Ð²Ð°ÑˆÐµÐ³Ð¾ Ð±Ð»Ð¾Ð³Ð°: #BLOG_ADR#
 
-Ñîîáùåíèå ñãåíåðèðîâàíî àâòîìàòè÷åñêè.
+Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ ÑÐ³ÐµÐ½ÐµÑ€Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¾ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸.
 ";
-$MESS["BLOG_SONET_NEW_POST_NAME"] = "Äîáàâëåíî íîâîå ñîîáùåíèå";
-$MESS["BLOG_SONET_NEW_POST_DESC"] = "#EMAIL_TO# - Email ïîëó÷àòåëÿ ïèñüìà
-#POST_ID# - ID ñîîáùåíèÿ
-#RECIPIENT_ID# - ID ïîëó÷àòåëÿ
-#URL_ID# - URL ñòðàíèöû ñîîáùåíèÿ
+$MESS["BLOG_SONET_NEW_POST_NAME"] = "Ð”Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¾ Ð½Ð¾Ð²Ð¾Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ";
+$MESS["BLOG_SONET_NEW_POST_DESC"] = "#EMAIL_TO# - Email Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ Ð¿Ð¸ÑÑŒÐ¼Ð°
+#POST_ID# - ID ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
+#RECIPIENT_ID# - ID Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ
+#URL_ID# - URL ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
 ";
-$MESS["BLOG_SONET_NEW_COMMENT_NAME"] = "Äîáàâëåí íîâûé êîììåíòàðèé";
-$MESS["BLOG_SONET_NEW_COMMENT_DESC"] = "#EMAIL_TO# - Email ïîëó÷àòåëÿ ïèñüìà
-#COMMENT_ID# - ID êîììåíòàðèÿ
-#POST_ID# - ID ñîîáùåíèÿ
-#RECIPIENT_ID# - ID ïîëó÷àòåëÿ
-#URL_ID# - URL ñòðàíèöû ñîîáùåíèÿ
+$MESS["BLOG_SONET_NEW_COMMENT_NAME"] = "Ð”Ð¾Ð±Ð°Ð²Ð»ÐµÐ½ Ð½Ð¾Ð²Ñ‹Ð¹ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹";
+$MESS["BLOG_SONET_NEW_COMMENT_DESC"] = "#EMAIL_TO# - Email Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ Ð¿Ð¸ÑÑŒÐ¼Ð°
+#COMMENT_ID# - ID ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ñ
+#POST_ID# - ID ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
+#RECIPIENT_ID# - ID Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ
+#URL_ID# - URL ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
 ";
-$MESS["BLOG_SONET_POST_SHARE_NAME"] = "Äîáàâëåí íîâûé ïîëó÷àòåëü ñîîáùåíèÿ";
-$MESS["BLOG_SONET_POST_SHARE_DESC"] = "#EMAIL_TO# - Email ïîëó÷àòåëÿ ïèñüìà
-#POST_ID# - ID ñîîáùåíèÿ
-#RECIPIENT_ID# - ID ïîëó÷àòåëÿ
-#URL_ID# - URL ñòðàíèöû ñîîáùåíèÿ
+$MESS["BLOG_SONET_POST_SHARE_NAME"] = "Ð”Ð¾Ð±Ð°Ð²Ð»ÐµÐ½ Ð½Ð¾Ð²Ñ‹Ð¹ Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»ÑŒ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
+$MESS["BLOG_SONET_POST_SHARE_DESC"] = "#EMAIL_TO# - Email Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ Ð¿Ð¸ÑÑŒÐ¼Ð°
+#POST_ID# - ID ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
+#RECIPIENT_ID# - ID Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ
+#URL_ID# - URL ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
 ";
-$MESS["BLOG_POST_BROADCAST_NAME"] = "Äîáàâëåíî íîâîå ñîîáùåíèå";
+$MESS["BLOG_POST_BROADCAST_NAME"] = "Ð”Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¾ Ð½Ð¾Ð²Ð¾Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ";
 $MESS["BLOG_POST_BROADCAST_DESC"] = "
-#MESSAGE_TITLE# - Òåìà ñîîáùåíèÿ
-#MESSAGE_TEXT# - Òåêñò ñîîáùåíèÿ
-#MESSAGE_PATH# - URL àäðåñ ñîîáùåíèÿ
-#AUTHOR# - Àâòîð ñîîáùåíèÿ
-#EMAIL_TO# - Email ïîëó÷àòåëÿ ïèñüìà";
+#MESSAGE_TITLE# - Ð¢ÐµÐ¼Ð° ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
+#MESSAGE_TEXT# - Ð¢ÐµÐºÑÑ‚ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
+#MESSAGE_PATH# - URL Ð°Ð´Ñ€ÐµÑ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
+#AUTHOR# - ÐÐ²Ñ‚Ð¾Ñ€ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
+#EMAIL_TO# - Email Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ Ð¿Ð¸ÑÑŒÐ¼Ð°";
 $MESS["BLOG_POST_BROADCAST_SUBJECT"] = "#SITE_NAME#: #MESSAGE_TITLE#";
-$MESS["BLOG_POST_BROADCAST_MESSAGE"] = "Èíôîðìàöèîííîå ñîîáùåíèå ñàéòà #SITE_NAME#
+$MESS["BLOG_POST_BROADCAST_MESSAGE"] = "Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð¾Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ ÑÐ°Ð¹Ñ‚Ð° #SITE_NAME#
 ------------------------------------------
 
-Íà ñàéòå äîáàâëåíî íîâîå ñîîáùåíèå.
+ÐÐ° ÑÐ°Ð¹Ñ‚Ðµ Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¾ Ð½Ð¾Ð²Ð¾Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ.
 
-Òåìà:
+Ð¢ÐµÐ¼Ð°:
 #MESSAGE_TITLE#
 
-Àâòîð: #AUTHOR#
+ÐÐ²Ñ‚Ð¾Ñ€: #AUTHOR#
 
-Òåêñò ñîîáùåíèÿ:
+Ð¢ÐµÐºÑÑ‚ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ:
 #MESSAGE_TEXT#
 
-Àäðåñ ñîîáùåíèÿ:
+ÐÐ´Ñ€ÐµÑ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ:
 #MESSAGE_PATH#
 
-Ñîîáùåíèå ñãåíåðèðîâàíî àâòîìàòè÷åñêè.";
+Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ ÑÐ³ÐµÐ½ÐµÑ€Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¾ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸.";
 ?>

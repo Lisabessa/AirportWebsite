@@ -1,9 +1,9 @@
 <?
-$MESS["SALE_PS_PS_MODE_TITLE"] = "Òèï ïëàò³æíî¿ ñèñòåìè";
-$MESS["SALE_PS_PS_MODE_DOCUMENT_TITLE"] = "Øàáëîí äîêóìåíòà";
-$MESS["SALE_PS_SORT"] = "Ñîðòóâàííÿ";
-$MESS["SALE_PS_ERROR_FIELD"] = "Ïîëå";
-$MESS["SALE_PS_TARIFF"] = "Òàðèôè";
-$MESS["SALE_PS_PRICE_INFO"] = "Â ÿêîñò³ âàëþòè âèêîðèñòîâóºòüñÿ âàëþòà çàìîâëåííÿ";
-$MESS["SALE_PS_SSL_CHECK_MESSAGE"] = "Óñï³øíî";
+$MESS["SALE_PS_PS_MODE_TITLE"] = "Ð¢Ð¸Ð¿ Ð¿Ð»Ð°Ñ‚Ñ–Ð¶Ð½Ð¾Ñ— ÑÐ¸ÑÑ‚ÐµÐ¼Ð¸";
+$MESS["SALE_PS_PS_MODE_DOCUMENT_TITLE"] = "Ð¨Ð°Ð±Ð»Ð¾Ð½ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð°";
+$MESS["SALE_PS_SORT"] = "Ð¡Ð¾Ñ€Ñ‚ÑƒÐ²Ð°Ð½Ð½Ñ";
+$MESS["SALE_PS_ERROR_FIELD"] = "ÐŸÐ¾Ð»Ðµ";
+$MESS["SALE_PS_TARIFF"] = "Ð¢Ð°Ñ€Ð¸Ñ„Ð¸";
+$MESS["SALE_PS_PRICE_INFO"] = "Ð’ ÑÐºÐ¾ÑÑ‚Ñ– Ð²Ð°Ð»ÑŽÑ‚Ð¸ Ð²Ð¸ÐºÐ¾Ñ€Ð¸ÑÑ‚Ð¾Ð²ÑƒÑ”Ñ‚ÑŒÑÑ Ð²Ð°Ð»ÑŽÑ‚Ð° Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ";
+$MESS["SALE_PS_SSL_CHECK_MESSAGE"] = "Ð£ÑÐ¿Ñ–ÑˆÐ½Ð¾";
 ?>

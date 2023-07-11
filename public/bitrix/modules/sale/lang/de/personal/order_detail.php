@@ -1,11 +1,11 @@
 <?
 $MESS["SALE_EDIT_RECORD"] = "Details zur Bestellung Nr. #ID#";
-$MESS["SALE_RECORDS_LIST"] = "Bestellübersicht";
+$MESS["SALE_RECORDS_LIST"] = "BestellÃ¼bersicht";
 $MESS["P_ORDER_ID"] = "Bestellung";
 $MESS["P_ORDER_DATE"] = "Bestelldatum";
 $MESS["P_ORDER_LANG"] = "Sprache der Bestellung";
 $MESS["P_ORDER_STATUS"] = "Status";
-$MESS["P_ORDER_STATUS_DATE"] = "geändert";
+$MESS["P_ORDER_STATUS_DATE"] = "geÃ¤ndert";
 $MESS["P_ORDER_PRICE"] = "Bestellsumme";
 $MESS["P_ORDER_UPDATE_DATE"] = "letzte Aktualisierung";
 $MESS["P_ORDER_CANCELED"] = "Storniert";
@@ -28,7 +28,7 @@ $MESS["SALE_YES"] = "Ja";
 $MESS["SALE_NO"] = "Nein";
 $MESS["SALE_CANCEL_ORDER"] = "Abbrechen";
 $MESS["SALE_REPEAT_PAY"] = "Zahlung wiederholen";
-$MESS["SALE_CONTENT_NAME"] = "Überschrift";
+$MESS["SALE_CONTENT_NAME"] = "Ãœberschrift";
 $MESS["SALE_CONTENT_QUANTITY"] = "Anzahl";
 $MESS["SALE_NO_ORDER_F"] = "Die Bestellung wurde nicht gefunden";
 $MESS["P_ORDER_USER"] = "Bestellungsparameter ";

@@ -1,11 +1,11 @@
 <?
-$MESS["GROUP_ENTITY_ID_FIELD"] = "Èäåíòèôèêàòîð òèïà öåí";
-$MESS["GROUP_ENTITY_NAME_FIELD"] = "Êîä";
-$MESS["GROUP_ENTITY_BASE_FIELD"] = "Áàçîâûé òèï";
-$MESS["GROUP_ENTITY_SORT_FIELD"] = "Èíäåêñ ñîðòèðîâêè";
-$MESS["GROUP_ENTITY_XML_ID_FIELD"] = "Âíåøíèé êîä";
-$MESS["GROUP_ENTITY_TIMESTAMP_X_FIELD"] = "Äàòà èçìåíåíèÿ";
-$MESS["GROUP_ENTITY_MODIFIED_BY_FIELD"] = "Êåì èçìåíåí";
-$MESS["GROUP_ENTITY_DATE_CREATE_FIELD"] = "Äàòà ñîçäàíèÿ";
-$MESS["GROUP_ENTITY_CREATED_BY_FIELD"] = "Êåì ñîçäàí";
+$MESS["GROUP_ENTITY_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ñ‚Ð¸Ð¿Ð° Ñ†ÐµÐ½";
+$MESS["GROUP_ENTITY_NAME_FIELD"] = "ÐšÐ¾Ð´";
+$MESS["GROUP_ENTITY_BASE_FIELD"] = "Ð‘Ð°Ð·Ð¾Ð²Ñ‹Ð¹ Ñ‚Ð¸Ð¿";
+$MESS["GROUP_ENTITY_SORT_FIELD"] = "Ð˜Ð½Ð´ÐµÐºÑ ÑÐ¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²ÐºÐ¸";
+$MESS["GROUP_ENTITY_XML_ID_FIELD"] = "Ð’Ð½ÐµÑˆÐ½Ð¸Ð¹ ÐºÐ¾Ð´";
+$MESS["GROUP_ENTITY_TIMESTAMP_X_FIELD"] = "Ð”Ð°Ñ‚Ð° Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ";
+$MESS["GROUP_ENTITY_MODIFIED_BY_FIELD"] = "ÐšÐµÐ¼ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½";
+$MESS["GROUP_ENTITY_DATE_CREATE_FIELD"] = "Ð”Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ";
+$MESS["GROUP_ENTITY_CREATED_BY_FIELD"] = "ÐšÐµÐ¼ ÑÐ¾Ð·Ð´Ð°Ð½";
 ?>

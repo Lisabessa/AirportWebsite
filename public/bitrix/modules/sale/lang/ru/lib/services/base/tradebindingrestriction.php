@@ -1,4 +1,4 @@
 <?php
-$MESS['SALE_SRV_RSTR_BY_TRADE_BINDING_NAME'] = 'ïî èñòî÷íèêó çàêàçà';
+$MESS['SALE_SRV_RSTR_BY_TRADE_BINDING_NAME'] = 'Ð¿Ð¾ Ð¸ÑÑ‚Ð¾Ñ‡Ð½Ð¸ÐºÑƒ Ð·Ð°ÐºÐ°Ð·Ð°';
 $MESS['SALE_SRV_RSTR_BY_TRADE_BINDING_DESC'] = '';
-$MESS['SALE_SRV_RSTR_BY_TRADE_BINDING_LIST'] = 'Èñòî÷íèê çàêàçà';
+$MESS['SALE_SRV_RSTR_BY_TRADE_BINDING_LIST'] = 'Ð˜ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº Ð·Ð°ÐºÐ°Ð·Ð°';

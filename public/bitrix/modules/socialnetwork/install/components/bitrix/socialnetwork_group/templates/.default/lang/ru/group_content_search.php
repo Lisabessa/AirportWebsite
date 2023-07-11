@@ -1,5 +1,5 @@
 <?
-$MESS ['GROUP_CONTENT_SEARCH_TITLE'] = "Ïîèñê";
-$MESS ['GROUP_CONTENT_SEARCH_RESULTS'] = "Ðåçóëüòàòû ïîèñêà";
-$MESS ['GROUP_CONTENT_SEARCH_DISABLED'] = "Ôóíêöèîíàë \"Ïîèñê\" íåäîñòóïåí.";
+$MESS ['GROUP_CONTENT_SEARCH_TITLE'] = "ÐŸÐ¾Ð¸ÑÐº";
+$MESS ['GROUP_CONTENT_SEARCH_RESULTS'] = "Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ñ‹ Ð¿Ð¾Ð¸ÑÐºÐ°";
+$MESS ['GROUP_CONTENT_SEARCH_DISABLED'] = "Ð¤ÑƒÐ½ÐºÑ†Ð¸Ð¾Ð½Ð°Ð» \"ÐŸÐ¾Ð¸ÑÐº\" Ð½ÐµÐ´Ð¾ÑÑ‚ÑƒÐ¿ÐµÐ½.";
 ?>

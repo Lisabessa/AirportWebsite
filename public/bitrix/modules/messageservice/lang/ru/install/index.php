@@ -1,5 +1,5 @@
 <?php
-$MESS["MESSAGESERVICE_INSTALL_NAME"] = "Ñëóæáà ñîîáùåíèé";
-$MESS["MESSAGESERVICE_INSTALL_DESCRIPTION"] = "Ìîäóëü îñóùåñòâëÿåò îòïðàâêó òåêñòîâûõ è èíûõ ñîîáùåíèé";
-$MESS["MESSAGESERVICE_INSTALL_TITLE"] = "Óñòàíîâêà ìîäóëÿ";
+$MESS["MESSAGESERVICE_INSTALL_NAME"] = "Ð¡Ð»ÑƒÐ¶Ð±Ð° ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ð¹";
+$MESS["MESSAGESERVICE_INSTALL_DESCRIPTION"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð¾ÑÑƒÑ‰ÐµÑÑ‚Ð²Ð»ÑÐµÑ‚ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²ÐºÑƒ Ñ‚ÐµÐºÑÑ‚Ð¾Ð²Ñ‹Ñ… Ð¸ Ð¸Ð½Ñ‹Ñ… ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ð¹";
+$MESS["MESSAGESERVICE_INSTALL_TITLE"] = "Ð£ÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ° Ð¼Ð¾Ð´ÑƒÐ»Ñ";
 ?>

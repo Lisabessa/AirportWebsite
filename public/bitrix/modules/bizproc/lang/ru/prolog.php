@@ -1,3 +1,3 @@
 <?
-$MESS ['BIZPROC_ICON_TITLE'] = "Áèçíåñ-ïðîöåññû";
+$MESS ['BIZPROC_ICON_TITLE'] = "Ð‘Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑÑ‹";
 ?>

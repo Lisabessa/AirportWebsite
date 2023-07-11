@@ -1,2 +1,2 @@
 <?php
-$MESS['BPDT_BASE_ADD'] = 'Äîáàâèòü';
+$MESS['BPDT_BASE_ADD'] = 'Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ';

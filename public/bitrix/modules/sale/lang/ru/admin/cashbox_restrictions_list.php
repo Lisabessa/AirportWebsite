@@ -1,14 +1,14 @@
 <?
-$MESS ['SALE_ESDL_ACCESS_DENIED'] = "Äîñòóï çàïðåùåí";
-$MESS ['SALE_RDL_LIST'] = "Ñïèñîê îãðàíè÷åíèé";
-$MESS ['SALE_RDL_COL_ID'] = "Èäåíòèôèêàòîð";
-$MESS ['SALE_RDL_COL_SORT'] = "Ñîðòèðîâêà";
-$MESS ['SALE_RDL_COL_CLASS_NAME'] = "Òèï îãðàíè÷åíèÿ";
-$MESS ['SALE_RDL_COL_PARAMS'] = "Ïàðàìåòðû";
-$MESS ['SALE_RDL_BUT_ADD_NEW'] = "Äîáàâèòü îãðàíè÷åíèå";
-$MESS ['SALE_RDL_RESTRICTION'] = "Îãðàíè÷åíèå";
-$MESS ['SALE_RDL_SAVE'] = "Ñîõðàíèòü";
-$MESS ['SALE_RDL_EDIT_DESCR'] = "Ðåäàêòèðîâàòü";
-$MESS ['SALE_RDL_DELETE'] = "Óäàëèòü";
-$MESS ['SALE_RDL_CONFIRM_DEL_MESSAGE'] = "Âû óâåðåíû, ÷òî õîòèòå óäàëèòü ýòî îãðàíè÷åíèå?";
+$MESS ['SALE_ESDL_ACCESS_DENIED'] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ð·Ð°Ð¿Ñ€ÐµÑ‰ÐµÐ½";
+$MESS ['SALE_RDL_LIST'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð¾Ð³Ñ€Ð°Ð½Ð¸Ñ‡ÐµÐ½Ð¸Ð¹";
+$MESS ['SALE_RDL_COL_ID'] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€";
+$MESS ['SALE_RDL_COL_SORT'] = "Ð¡Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²ÐºÐ°";
+$MESS ['SALE_RDL_COL_CLASS_NAME'] = "Ð¢Ð¸Ð¿ Ð¾Ð³Ñ€Ð°Ð½Ð¸Ñ‡ÐµÐ½Ð¸Ñ";
+$MESS ['SALE_RDL_COL_PARAMS'] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹";
+$MESS ['SALE_RDL_BUT_ADD_NEW'] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð¾Ð³Ñ€Ð°Ð½Ð¸Ñ‡ÐµÐ½Ð¸Ðµ";
+$MESS ['SALE_RDL_RESTRICTION'] = "ÐžÐ³Ñ€Ð°Ð½Ð¸Ñ‡ÐµÐ½Ð¸Ðµ";
+$MESS ['SALE_RDL_SAVE'] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ";
+$MESS ['SALE_RDL_EDIT_DESCR'] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ";
+$MESS ['SALE_RDL_DELETE'] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";
+$MESS ['SALE_RDL_CONFIRM_DEL_MESSAGE'] = "Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹, Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ ÑÑ‚Ð¾ Ð¾Ð³Ñ€Ð°Ð½Ð¸Ñ‡ÐµÐ½Ð¸Ðµ?";
 ?>

@@ -1,6 +1,6 @@
 <?
-$MESS["SOCIALNETWORK_WORKGROUP_CHAT_TITLE"] = "Ãðóïïà: \"#GROUP_NAME#\"";
-$MESS["SOCIALNETWORK_WORKGROUP_CHAT_TITLE_PROJECT"] = "Ïðîåêò: \"#GROUP_NAME#\"";
-$MESS["SOCIALNETWORK_WORKGROUP_CHAT_UNLINKED"] = "Ïðèâÿçêà ÷àòà ê ãðóïïå \"#GROUP_NAME#\" óäàëåíà";
-$MESS["SOCIALNETWORK_WORKGROUP_CHAT_UNLINKED_PROJECT"] = "Ïðèâÿçêà ÷àòà ê ïðîåêòó \"#GROUP_NAME#\" óäàëåíà";
+$MESS["SOCIALNETWORK_WORKGROUP_CHAT_TITLE"] = "Ð“Ñ€ÑƒÐ¿Ð¿Ð°: \"#GROUP_NAME#\"";
+$MESS["SOCIALNETWORK_WORKGROUP_CHAT_TITLE_PROJECT"] = "ÐŸÑ€Ð¾ÐµÐºÑ‚: \"#GROUP_NAME#\"";
+$MESS["SOCIALNETWORK_WORKGROUP_CHAT_UNLINKED"] = "ÐŸÑ€Ð¸Ð²ÑÐ·ÐºÐ° Ñ‡Ð°Ñ‚Ð° Ðº Ð³Ñ€ÑƒÐ¿Ð¿Ðµ \"#GROUP_NAME#\" ÑƒÐ´Ð°Ð»ÐµÐ½Ð°";
+$MESS["SOCIALNETWORK_WORKGROUP_CHAT_UNLINKED_PROJECT"] = "ÐŸÑ€Ð¸Ð²ÑÐ·ÐºÐ° Ñ‡Ð°Ñ‚Ð° Ðº Ð¿Ñ€Ð¾ÐµÐºÑ‚Ñƒ \"#GROUP_NAME#\" ÑƒÐ´Ð°Ð»ÐµÐ½Ð°";
 ?>

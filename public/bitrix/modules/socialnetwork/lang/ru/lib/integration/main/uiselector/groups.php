@@ -1,6 +1,6 @@
 <?
-$MESS["MAIN_UI_SELECTOR_ITEM_TOALL"] = "Âñåì ïîëüçîâàòåëÿì";
-$MESS["MAIN_UI_SELECTOR_ITEM_TOALL_INTRANET"] = "Âñåì ñîòðóäíèêàì";
-$MESS["MAIN_UI_SELECTOR_ITEM_EMPTY"] = "Áåç çíà÷åíèÿ";
-$MESS["MAIN_UI_SELECTOR_ITEM_USER_MANAGER"] = "Íà÷àëüíèêó";
+$MESS["MAIN_UI_SELECTOR_ITEM_TOALL"] = "Ð’ÑÐµÐ¼ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑÐ¼";
+$MESS["MAIN_UI_SELECTOR_ITEM_TOALL_INTRANET"] = "Ð’ÑÐµÐ¼ ÑÐ¾Ñ‚Ñ€ÑƒÐ´Ð½Ð¸ÐºÐ°Ð¼";
+$MESS["MAIN_UI_SELECTOR_ITEM_EMPTY"] = "Ð‘ÐµÐ· Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ñ";
+$MESS["MAIN_UI_SELECTOR_ITEM_USER_MANAGER"] = "ÐÐ°Ñ‡Ð°Ð»ÑŒÐ½Ð¸ÐºÑƒ";
 ?>

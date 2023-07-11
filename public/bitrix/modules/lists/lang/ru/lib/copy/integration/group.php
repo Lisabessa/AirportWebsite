@@ -1,3 +1,3 @@
 <?php
-$MESS["GROUP_STEPPER_PROGRESS_TITLE"] = "Êîïèðîâàíèå ñïèñêîâ";
-$MESS["GROUP_STEPPER_PROGRESS_ERROR"] = "Íå óäàëîñü ñêîïèðîâàòü ñïèñêè ñ èäåíòèôèêàòîðàìè: ";
+$MESS["GROUP_STEPPER_PROGRESS_TITLE"] = "ÐšÐ¾Ð¿Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ ÑÐ¿Ð¸ÑÐºÐ¾Ð²";
+$MESS["GROUP_STEPPER_PROGRESS_ERROR"] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ ÑÐºÐ¾Ð¿Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ ÑÐ¿Ð¸ÑÐºÐ¸ Ñ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€Ð°Ð¼Ð¸: ";

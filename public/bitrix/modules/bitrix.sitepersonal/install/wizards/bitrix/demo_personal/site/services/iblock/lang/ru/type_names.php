@@ -1,5 +1,5 @@
 <?
-$MESS["PHOTOS_TYPE_NAME"] = "Ôîòîãàëåðåÿ";
-$MESS["PHOTOS_ELEMENT_NAME"] = "Ôîòîãðàôèè";
-$MESS["PHOTOS_SECTION_NAME"] = "Àëüáîìû";
+$MESS["PHOTOS_TYPE_NAME"] = "Ð¤Ð¾Ñ‚Ð¾Ð³Ð°Ð»ÐµÑ€ÐµÑ";
+$MESS["PHOTOS_ELEMENT_NAME"] = "Ð¤Ð¾Ñ‚Ð¾Ð³Ñ€Ð°Ñ„Ð¸Ð¸";
+$MESS["PHOTOS_SECTION_NAME"] = "ÐÐ»ÑŒÐ±Ð¾Ð¼Ñ‹";
 ?>

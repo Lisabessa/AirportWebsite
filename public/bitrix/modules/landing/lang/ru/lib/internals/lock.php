@@ -1,4 +1,4 @@
 <?php
-$MESS['LANDING_TABLE_FIELD_LOCK_ENTITY_ID'] = 'Èäåíòèôèêàòîð ñóùíîñòè';
-$MESS['LANDING_TABLE_FIELD_LOCK_ENTITY_TYPE'] = 'Òèï ñóùíîñòè';
-$MESS['LANDING_TABLE_FIELD_LOCK_TYPE'] = 'Òèï áëîêèðîâêè';
+$MESS['LANDING_TABLE_FIELD_LOCK_ENTITY_ID'] = 'Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸';
+$MESS['LANDING_TABLE_FIELD_LOCK_ENTITY_TYPE'] = 'Ð¢Ð¸Ð¿ ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸';
+$MESS['LANDING_TABLE_FIELD_LOCK_TYPE'] = 'Ð¢Ð¸Ð¿ Ð±Ð»Ð¾ÐºÐ¸Ñ€Ð¾Ð²ÐºÐ¸';

@@ -1,3 +1,3 @@
 <?php
 
-$MESS['FORMULA_REPORT_HANDLER_TILE'] = 'Ôîðìóëà';
+$MESS['FORMULA_REPORT_HANDLER_TILE'] = 'Ð¤Ð¾Ñ€Ð¼ÑƒÐ»Ð°';

@@ -1,11 +1,11 @@
 <?
-$MESS ['FORUM_INSTALL_FILTER'] = "Óñòàíàâëèâàòü ñëîâàðè";
-$MESS ['FORUM_REINDEX'] = "Èíäåêñèðîâàòü ôîðóì";
-$MESS ['FORUM_INSTALL_PUBLIC'] = "Óñòàíàâëèâàòü ïóáëè÷íóþ ÷àñòü";
-$MESS ['FORUM_PUBLIC_REWRITE'] = "Ïåðåïèñûâàòü ñóùåñòâóþùèå ôàéëû";
-$MESS ['FORUM_HEADER_INSTALL'] = "Óñò.";
-$MESS ['FORUM_HEADER_PATH'] = "Ïóòü";
-$MESS ['FORUM_HEADER_MODE'] = "Ðåæèì";
-$MESS ['FORUM_HEADER_MODE_SEF'] = "×ÏÓ";
-$MESS ['FORUM_HEADER_MODE_NSEF'] = "Îáû÷íûé";
+$MESS ['FORUM_INSTALL_FILTER'] = "Ð£ÑÑ‚Ð°Ð½Ð°Ð²Ð»Ð¸Ð²Ð°Ñ‚ÑŒ ÑÐ»Ð¾Ð²Ð°Ñ€Ð¸";
+$MESS ['FORUM_REINDEX'] = "Ð˜Ð½Ð´ÐµÐºÑÐ¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ñ„Ð¾Ñ€ÑƒÐ¼";
+$MESS ['FORUM_INSTALL_PUBLIC'] = "Ð£ÑÑ‚Ð°Ð½Ð°Ð²Ð»Ð¸Ð²Ð°Ñ‚ÑŒ Ð¿ÑƒÐ±Ð»Ð¸Ñ‡Ð½ÑƒÑŽ Ñ‡Ð°ÑÑ‚ÑŒ";
+$MESS ['FORUM_PUBLIC_REWRITE'] = "ÐŸÐµÑ€ÐµÐ¿Ð¸ÑÑ‹Ð²Ð°Ñ‚ÑŒ ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÑŽÑ‰Ð¸Ðµ Ñ„Ð°Ð¹Ð»Ñ‹";
+$MESS ['FORUM_HEADER_INSTALL'] = "Ð£ÑÑ‚.";
+$MESS ['FORUM_HEADER_PATH'] = "ÐŸÑƒÑ‚ÑŒ";
+$MESS ['FORUM_HEADER_MODE'] = "Ð ÐµÐ¶Ð¸Ð¼";
+$MESS ['FORUM_HEADER_MODE_SEF'] = "Ð§ÐŸÐ£";
+$MESS ['FORUM_HEADER_MODE_NSEF'] = "ÐžÐ±Ñ‹Ñ‡Ð½Ñ‹Ð¹";
 ?>

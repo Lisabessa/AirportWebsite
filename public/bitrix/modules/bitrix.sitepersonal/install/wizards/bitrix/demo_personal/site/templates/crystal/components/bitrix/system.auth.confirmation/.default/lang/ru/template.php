@@ -1,5 +1,5 @@
 <?
-$MESS ['CT_BSAC_CONFIRM'] = "Ïîäòâåðäèòü";
-$MESS ['CT_BSAC_LOGIN'] = "Ëîãèí";
-$MESS ['CT_BSAC_CONFIRM_CODE'] = "Êîä ïîäòâåðæäåíèÿ";
+$MESS ['CT_BSAC_CONFIRM'] = "ÐŸÐ¾Ð´Ñ‚Ð²ÐµÑ€Ð´Ð¸Ñ‚ÑŒ";
+$MESS ['CT_BSAC_LOGIN'] = "Ð›Ð¾Ð³Ð¸Ð½";
+$MESS ['CT_BSAC_CONFIRM_CODE'] = "ÐšÐ¾Ð´ Ð¿Ð¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð¸Ñ";
 ?>

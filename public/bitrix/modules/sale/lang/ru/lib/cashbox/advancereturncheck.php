@@ -1,2 +1,2 @@
 <?php
-$MESS['SALE_CASHBOX_ADVANCE_RETURN_NAME'] = 'Âîçâðàò àâàíñà áåçíàëè÷íûìè';
+$MESS['SALE_CASHBOX_ADVANCE_RETURN_NAME'] = 'Ð’Ð¾Ð·Ð²Ñ€Ð°Ñ‚ Ð°Ð²Ð°Ð½ÑÐ° Ð±ÐµÐ·Ð½Ð°Ð»Ð¸Ñ‡Ð½Ñ‹Ð¼Ð¸';

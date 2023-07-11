@@ -1,11 +1,11 @@
 <?
-$MESS["SONET_EUV_EMPTY_ENTITY_ID"] = "Íå óêàçàí êîä ñóùíîñòè";
-$MESS["SONET_EUV_NO_ENTITY"] = "Çàïèñü íå íàéäåíà";
-$MESS["SONET_EUV_ERROR_DELETE"] = "Íå óäàëîñü óäàëèòü çàïèñü î ïðàâàõ íà ïðîñìîòð";
-$MESS["SONET_EUV_ERROR_SET"] = "Íå óäàëîñü ñîõðàíèòü çàïèñü î ïðàâàõ íà ïðîñìîòð";
-$MESS["SONET_EUV_EMPTY_ENTITY_TYPE"] = "Òèï ñóùíîñòè íå çàäàí";
-$MESS["SONET_EUV_INCORRECT_ENTITY_TYPE"] = "Òèï ñóùíîñòè íå âåðåí";
-$MESS["SONET_EUV_EMPTY_USER_ID"] = "Íå óêàçàí ïîëüçîâàòåëü";
-$MESS["SONET_EUV_EMPTY_ROLE"] = "Íå óêàçàíà ðîëü";
-$MESS["SONET_EUV_RECORD_EXISTS"] = "Çàïèñü óæå ñóùåñòâóåò";
+$MESS["SONET_EUV_EMPTY_ENTITY_ID"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ ÐºÐ¾Ð´ ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸";
+$MESS["SONET_EUV_NO_ENTITY"] = "Ð—Ð°Ð¿Ð¸ÑÑŒ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð°";
+$MESS["SONET_EUV_ERROR_DELETE"] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ Ð·Ð°Ð¿Ð¸ÑÑŒ Ð¾ Ð¿Ñ€Ð°Ð²Ð°Ñ… Ð½Ð° Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€";
+$MESS["SONET_EUV_ERROR_SET"] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ ÑÐ¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ Ð·Ð°Ð¿Ð¸ÑÑŒ Ð¾ Ð¿Ñ€Ð°Ð²Ð°Ñ… Ð½Ð° Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€";
+$MESS["SONET_EUV_EMPTY_ENTITY_TYPE"] = "Ð¢Ð¸Ð¿ ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸ Ð½Ðµ Ð·Ð°Ð´Ð°Ð½";
+$MESS["SONET_EUV_INCORRECT_ENTITY_TYPE"] = "Ð¢Ð¸Ð¿ ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸ Ð½Ðµ Ð²ÐµÑ€ÐµÐ½";
+$MESS["SONET_EUV_EMPTY_USER_ID"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ";
+$MESS["SONET_EUV_EMPTY_ROLE"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð° Ñ€Ð¾Ð»ÑŒ";
+$MESS["SONET_EUV_RECORD_EXISTS"] = "Ð—Ð°Ð¿Ð¸ÑÑŒ ÑƒÐ¶Ðµ ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÐµÑ‚";
 ?>

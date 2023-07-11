@@ -1,4 +1,4 @@
 <?
-$MESS ['MAIN_COLORPICKER_COMPONENT_NAME'] = "Ýëåìåíò óïðàâëåíèÿ \"Ïàëèòðà\"";
-$MESS ['MAIN_COLORPICKER_COMPONENT_DESCR'] = "Êîìïîíåíò äëÿ âûáîðà öâåòà";
+$MESS ['MAIN_COLORPICKER_COMPONENT_NAME'] = "Ð­Ð»ÐµÐ¼ÐµÐ½Ñ‚ ÑƒÐ¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ñ \"ÐŸÐ°Ð»Ð¸Ñ‚Ñ€Ð°\"";
+$MESS ['MAIN_COLORPICKER_COMPONENT_DESCR'] = "ÐšÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚ Ð´Ð»Ñ Ð²Ñ‹Ð±Ð¾Ñ€Ð° Ñ†Ð²ÐµÑ‚Ð°";
 ?>

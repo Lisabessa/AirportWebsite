@@ -1,4 +1,4 @@
 <?
-$MESS["MAIN_COLORPICKER_BY_DEFAULT"] = "Ïî óìîë÷àíèþ";
-$MESS["MAIN_COLORPICKER_SPECIFY_HEX_COLOR"] = "Óêàçàòü êîä öâåòà";
-$MESS["MAIN_COLORPICKER_HEX_COLOR"] = "Êîä öâåòà";
+$MESS["MAIN_COLORPICKER_BY_DEFAULT"] = "ÐŸÐ¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ";
+$MESS["MAIN_COLORPICKER_SPECIFY_HEX_COLOR"] = "Ð£ÐºÐ°Ð·Ð°Ñ‚ÑŒ ÐºÐ¾Ð´ Ñ†Ð²ÐµÑ‚Ð°";
+$MESS["MAIN_COLORPICKER_HEX_COLOR"] = "ÐšÐ¾Ð´ Ñ†Ð²ÐµÑ‚Ð°";

@@ -1,6 +1,6 @@
 <?
-$MESS["sender_connector_unsubscribers_name"] = "Email-ìàðêåòèíã - Îòïèñàâøèåñÿ";
-$MESS["sender_connector_unsubscribers_name1"] = "Îòïèñàâøèåñÿ";
-$MESS["sender_connector_unsubscribers_mailing"] = "Âûáåðèòå ðàññûëêó";
-$MESS["sender_connector_unsubscribers_all"] = "(âñå)";
+$MESS["sender_connector_unsubscribers_name"] = "Email-Ð¼Ð°Ñ€ÐºÐµÑ‚Ð¸Ð½Ð³ - ÐžÑ‚Ð¿Ð¸ÑÐ°Ð²ÑˆÐ¸ÐµÑÑ";
+$MESS["sender_connector_unsubscribers_name1"] = "ÐžÑ‚Ð¿Ð¸ÑÐ°Ð²ÑˆÐ¸ÐµÑÑ";
+$MESS["sender_connector_unsubscribers_mailing"] = "Ð’Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ Ñ€Ð°ÑÑÑ‹Ð»ÐºÑƒ";
+$MESS["sender_connector_unsubscribers_all"] = "(Ð²ÑÐµ)";
 ?>

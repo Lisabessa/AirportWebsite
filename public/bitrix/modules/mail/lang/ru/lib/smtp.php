@@ -1,12 +1,12 @@
 <?php
 
-$MESS['MAIL_SMTP_ERR_DEFAULT'] = 'Íåèçâåñòíàÿ îøèáêà';
-$MESS['MAIL_SMTP_ERR_CONNECT'] = 'Îøèáêà ïîäêëþ÷åíèÿ ê ñåðâåðó';
-$MESS['MAIL_SMTP_ERR_COMMUNICATE'] = 'Îøèáêà ïåðåäà÷è äàííûõ';
-$MESS['MAIL_SMTP_ERR_EMPTY_RESPONSE'] = 'Íåò îòâåòà îò ñåðâåðà';
-$MESS['MAIL_SMTP_ERR_STARTTLS'] = 'Îøèáêà èíèöèàëèçàöèè øèôðîâàíèÿ';
-$MESS['MAIL_SMTP_ERR_CAPABILITY'] = 'Îøèáêà ïîëó÷åíèÿ ñïèñêà âîçìîæíîñòåé';
-$MESS['MAIL_SMTP_ERR_AUTH'] = 'Îøèáêà àâòîðèçàöèè';
-$MESS['MAIL_SMTP_ERR_AUTH_MECH'] = 'Ñåðâåð íå ïîääåðæèâàåò íåîáõîäèìûé ìåõàíèçì àâòîðèçàöèè';
-$MESS['MAIL_SMTP_ERR_REJECTED'] = 'Ïîäêëþ÷åíèå îòêëîíåíî';
-$MESS['MAIL_SMTP_ERR_COMMAND_REJECTED'] = 'Êîìàíäà îòêëîíåíà';
+$MESS['MAIL_SMTP_ERR_DEFAULT'] = 'ÐÐµÐ¸Ð·Ð²ÐµÑÑ‚Ð½Ð°Ñ Ð¾ÑˆÐ¸Ð±ÐºÐ°';
+$MESS['MAIL_SMTP_ERR_CONNECT'] = 'ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ð¾Ð´ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¸Ñ Ðº ÑÐµÑ€Ð²ÐµÑ€Ñƒ';
+$MESS['MAIL_SMTP_ERR_COMMUNICATE'] = 'ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿ÐµÑ€ÐµÐ´Ð°Ñ‡Ð¸ Ð´Ð°Ð½Ð½Ñ‹Ñ…';
+$MESS['MAIL_SMTP_ERR_EMPTY_RESPONSE'] = 'ÐÐµÑ‚ Ð¾Ñ‚Ð²ÐµÑ‚Ð° Ð¾Ñ‚ ÑÐµÑ€Ð²ÐµÑ€Ð°';
+$MESS['MAIL_SMTP_ERR_STARTTLS'] = 'ÐžÑˆÐ¸Ð±ÐºÐ° Ð¸Ð½Ð¸Ñ†Ð¸Ð°Ð»Ð¸Ð·Ð°Ñ†Ð¸Ð¸ ÑˆÐ¸Ñ„Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ';
+$MESS['MAIL_SMTP_ERR_CAPABILITY'] = 'ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ð¾Ð»ÑƒÑ‡ÐµÐ½Ð¸Ñ ÑÐ¿Ð¸ÑÐºÐ° Ð²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ÑÑ‚ÐµÐ¹';
+$MESS['MAIL_SMTP_ERR_AUTH'] = 'ÐžÑˆÐ¸Ð±ÐºÐ° Ð°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·Ð°Ñ†Ð¸Ð¸';
+$MESS['MAIL_SMTP_ERR_AUTH_MECH'] = 'Ð¡ÐµÑ€Ð²ÐµÑ€ Ð½Ðµ Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶Ð¸Ð²Ð°ÐµÑ‚ Ð½ÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ñ‹Ð¹ Ð¼ÐµÑ…Ð°Ð½Ð¸Ð·Ð¼ Ð°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·Ð°Ñ†Ð¸Ð¸';
+$MESS['MAIL_SMTP_ERR_REJECTED'] = 'ÐŸÐ¾Ð´ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¸Ðµ Ð¾Ñ‚ÐºÐ»Ð¾Ð½ÐµÐ½Ð¾';
+$MESS['MAIL_SMTP_ERR_COMMAND_REJECTED'] = 'ÐšÐ¾Ð¼Ð°Ð½Ð´Ð° Ð¾Ñ‚ÐºÐ»Ð¾Ð½ÐµÐ½Ð°';

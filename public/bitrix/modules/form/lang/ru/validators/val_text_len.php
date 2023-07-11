@@ -1,7 +1,7 @@
 <?
-$MESS['FORM_VALIDATOR_VAL_TEXT_LEN_DESCRIPTION'] = "Äëèíà ñòðîêè";
-$MESS['FORM_VALIDATOR_VAL_TEXT_LEN_SETTINGS_LENGTH_FROM'] = "Ìèíèìàëüíàÿ äëèíà";
-$MESS['FORM_VALIDATOR_VAL_TEXT_LEN_SETTINGS_LENGTH_TO'] = "Ìàêñèìàëüíàÿ äëèíà";
-$MESS['FORM_VALIDATOR_VAL_TEXT_LEN_ERROR_LESS'] = "#FIELD_NAME#: ñëèøêîì êîðîòêîå çíà÷åíèå";
-$MESS['FORM_VALIDATOR_VAL_TEXT_LEN_ERROR_MORE'] = "#FIELD_NAME#: ñëèøêîì äëèííîå çíà÷åíèå";
+$MESS['FORM_VALIDATOR_VAL_TEXT_LEN_DESCRIPTION'] = "Ð”Ð»Ð¸Ð½Ð° ÑÑ‚Ñ€Ð¾ÐºÐ¸";
+$MESS['FORM_VALIDATOR_VAL_TEXT_LEN_SETTINGS_LENGTH_FROM'] = "ÐœÐ¸Ð½Ð¸Ð¼Ð°Ð»ÑŒÐ½Ð°Ñ Ð´Ð»Ð¸Ð½Ð°";
+$MESS['FORM_VALIDATOR_VAL_TEXT_LEN_SETTINGS_LENGTH_TO'] = "ÐœÐ°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ð°Ñ Ð´Ð»Ð¸Ð½Ð°";
+$MESS['FORM_VALIDATOR_VAL_TEXT_LEN_ERROR_LESS'] = "#FIELD_NAME#: ÑÐ»Ð¸ÑˆÐºÐ¾Ð¼ ÐºÐ¾Ñ€Ð¾Ñ‚ÐºÐ¾Ðµ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ";
+$MESS['FORM_VALIDATOR_VAL_TEXT_LEN_ERROR_MORE'] = "#FIELD_NAME#: ÑÐ»Ð¸ÑˆÐºÐ¾Ð¼ Ð´Ð»Ð¸Ð½Ð½Ð¾Ðµ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ";
 ?>

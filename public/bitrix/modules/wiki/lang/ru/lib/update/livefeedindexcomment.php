@@ -1,3 +1,3 @@
 <?
-$MESS["FUPD_LF_WIKI_COMMENT_EVENT_INDEX_TITLE"] = "Èíäåêñàöèÿ êîììåíòàðèåâ ê ñòàòüÿì Wiki äëÿ æèâîé ëåíòû";
+$MESS["FUPD_LF_WIKI_COMMENT_EVENT_INDEX_TITLE"] = "Ð˜Ð½Ð´ÐµÐºÑÐ°Ñ†Ð¸Ñ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸ÐµÐ² Ðº ÑÑ‚Ð°Ñ‚ÑŒÑÐ¼ Wiki Ð´Ð»Ñ Ð¶Ð¸Ð²Ð¾Ð¹ Ð»ÐµÐ½Ñ‚Ñ‹";
 ?>

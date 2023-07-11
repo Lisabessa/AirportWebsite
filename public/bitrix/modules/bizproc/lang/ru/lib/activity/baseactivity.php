@@ -1,3 +1,3 @@
 <?php
 
-$MESS['BIZPROC_BA_EMPTY_PROP'] = 'Не заполнено обязательное поле: #PROPERTY#';
+$MESS['BIZPROC_BA_EMPTY_PROP'] = 'РќРµ Р·Р°РїРѕР»РЅРµРЅРѕ РѕР±СЏР·Р°С‚РµР»СЊРЅРѕРµ РїРѕР»Рµ: #PROPERTY#';

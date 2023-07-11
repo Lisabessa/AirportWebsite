@@ -1,7 +1,7 @@
 <?
-$MESS["SALE_DLVR_REQ_SHP_TBL_ID_FIELD"] = "Èäåíòèôèêàòîð";
-$MESS["SALE_DLVR_REQ_SHP_TBL_SHIPMENT_ID_FIELD"] = "Èäåíòèôèêàòîð îòãðóçêè";
-$MESS["SALE_DLVR_REQ_SHP_TBL_REQUEST_ID_FIELD"] = "Èäåíòèôèêàòîð çàÿâêè";
-$MESS["SALE_DLVR_REQ_SHP_TBL_EXTERNAL_ID_FIELD"] = "Âíåøíèé èäåíòèôèêàòîð";
-$MESS["SALE_DLVR_REQ_SHP_TBL_ERROR_DESCRIPTION_FIELD"] = "Îøèáêà äîàáâëåíèÿ â çàÿâêó";
+$MESS["SALE_DLVR_REQ_SHP_TBL_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€";
+$MESS["SALE_DLVR_REQ_SHP_TBL_SHIPMENT_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸";
+$MESS["SALE_DLVR_REQ_SHP_TBL_REQUEST_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð·Ð°ÑÐ²ÐºÐ¸";
+$MESS["SALE_DLVR_REQ_SHP_TBL_EXTERNAL_ID_FIELD"] = "Ð’Ð½ÐµÑˆÐ½Ð¸Ð¹ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€";
+$MESS["SALE_DLVR_REQ_SHP_TBL_ERROR_DESCRIPTION_FIELD"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð´Ð¾Ð°Ð±Ð²Ð»ÐµÐ½Ð¸Ñ Ð² Ð·Ð°ÑÐ²ÐºÑƒ";
 ?>

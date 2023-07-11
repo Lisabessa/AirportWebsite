@@ -1,7 +1,7 @@
 <?
-$MESS["access_groups"]="Ãðóïïû ïîëüçîâàòåëåé";
-$MESS["access_group"]="Ãðóïïà";
-$MESS["access_users"]="Ïîëüçîâàòåëè";
-$MESS["access_user"]="Ïîëüçîâàòåëü";
-$MESS["access_other"]="Äðóãîå";
+$MESS["access_groups"]="Ð“Ñ€ÑƒÐ¿Ð¿Ñ‹ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÐµÐ¹";
+$MESS["access_group"]="Ð“Ñ€ÑƒÐ¿Ð¿Ð°";
+$MESS["access_users"]="ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ð¸";
+$MESS["access_user"]="ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ";
+$MESS["access_other"]="Ð”Ñ€ÑƒÐ³Ð¾Ðµ";
 ?>

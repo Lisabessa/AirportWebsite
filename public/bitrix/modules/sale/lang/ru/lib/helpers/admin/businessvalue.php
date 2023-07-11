@@ -1,10 +1,10 @@
 <?
-$MESS["BIZVAL_PAGE_ALL"] = "(âñå)";
-$MESS["BIZVAL_PAGE_SHOW_ROWS"] = "Ïîêàçàòü âñå";
-$MESS["BIZVAL_PAGE_HIDE_ROWS"] = "Ñêðûòü çàïîëíåííûå";
-$MESS["BIZVAL_PAGE_DELETE_MAPPING"] = "Ïî óìîë÷àíèþ";
-$MESS["BIZVAL_DOMAIN_COMMON"] = "Ïî óìîë÷àíèþ";
-$MESS["BIZVAL_DOMAIN_COMMON_DSC"] = "Ïî óìîë÷àíèþ äëÿ âñåõ òèïîâ ïëàòåëüùèêîâ";
-$MESS["BIZVAL_DOMAIN_INDIVIDUAL"] = "Ôèçè÷åñêîå ëèöî";
-$MESS["BIZVAL_DOMAIN_ENTITY"] = "Þðèäè÷åñêîå ëèöî";
-$MESS["BIZVAL_ERROR_NO_PROVIDER_VALUE"] = "çíà÷åíèå íå çàäàíî";
+$MESS["BIZVAL_PAGE_ALL"] = "(Ð²ÑÐµ)";
+$MESS["BIZVAL_PAGE_SHOW_ROWS"] = "ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ Ð²ÑÐµ";
+$MESS["BIZVAL_PAGE_HIDE_ROWS"] = "Ð¡ÐºÑ€Ñ‹Ñ‚ÑŒ Ð·Ð°Ð¿Ð¾Ð»Ð½ÐµÐ½Ð½Ñ‹Ðµ";
+$MESS["BIZVAL_PAGE_DELETE_MAPPING"] = "ÐŸÐ¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ";
+$MESS["BIZVAL_DOMAIN_COMMON"] = "ÐŸÐ¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ";
+$MESS["BIZVAL_DOMAIN_COMMON_DSC"] = "ÐŸÐ¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ Ð´Ð»Ñ Ð²ÑÐµÑ… Ñ‚Ð¸Ð¿Ð¾Ð² Ð¿Ð»Ð°Ñ‚ÐµÐ»ÑŒÑ‰Ð¸ÐºÐ¾Ð²";
+$MESS["BIZVAL_DOMAIN_INDIVIDUAL"] = "Ð¤Ð¸Ð·Ð¸Ñ‡ÐµÑÐºÐ¾Ðµ Ð»Ð¸Ñ†Ð¾";
+$MESS["BIZVAL_DOMAIN_ENTITY"] = "Ð®Ñ€Ð¸Ð´Ð¸Ñ‡ÐµÑÐºÐ¾Ðµ Ð»Ð¸Ñ†Ð¾";
+$MESS["BIZVAL_ERROR_NO_PROVIDER_VALUE"] = "Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð½Ðµ Ð·Ð°Ð´Ð°Ð½Ð¾";

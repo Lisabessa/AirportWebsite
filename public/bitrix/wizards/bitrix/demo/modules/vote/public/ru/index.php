@@ -1,6 +1,6 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Список опросов");
+$APPLICATION->SetTitle("РЎРїРёСЃРѕРє РѕРїСЂРѕСЃРѕРІ");
 ?><?$APPLICATION->IncludeComponent(
 	"bitrix:voting.list",
 	"",
