@@ -3,9 +3,9 @@
 define("DBPersistent", false);
 $DBType = "mysql";
 $DBHost = "localhost";
-$DBLogin = "F66me0k21ayS07vrzI63";
-$DBPassword = '5c5Oy7d4lztChRgtnx4X';
-$DBName = "0N8e4j4DdYBagq1v";
+$DBLogin = "8Cl15TxEprZud33Hk4T7";
+$DBPassword = 'y5ZnUhAMUwrF16RzSl72';
+$DBName = "1N6K93ROJCpldZbFYzPs";
 $DBDebug = false;
 $DBDebugToFile = false;
 
@@ -36,6 +36,6 @@ define("BX_COMPRESSION_DISABLED", true);
 define("BX_USE_MYSQLI", true);
 
 
-define("BX_TEMPORARY_FILES_DIRECTORY", "/home/bitrix/.bx_temp/0N8e4j4DdYBagq1v/");
+define("BX_TEMPORARY_FILES_DIRECTORY", "/home/bitrix/.bx_temp/1N6K93ROJCpldZbFYzPs/");
 
 ?>

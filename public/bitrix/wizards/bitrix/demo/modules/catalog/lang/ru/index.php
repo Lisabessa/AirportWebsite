@@ -1,4 +1,0 @@
-<?
-$MESS['CAT_VAT_NOVAT'] = 'Áåç ÍÄÑ';
-$MESS['CAT_VAT_VAT18'] = 'ÍÄÑ 18%';
-?>
