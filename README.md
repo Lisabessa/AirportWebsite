@@ -9,3 +9,13 @@ Domain name: [lisabessa.bearmax.ru](lisabessa.bearmax.ru)
 - MySQL: 8.0
 - CSS: framework Tailwind
 - server: bitrixVM, apache + nginx, memcache, server module google page speed, node.js v20.2.0.
+
+## Техническое описание проекта
+
+### Frontend
+Frontend description
+
+### Backend
+Backend description
+
+
