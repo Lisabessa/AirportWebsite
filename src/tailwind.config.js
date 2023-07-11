@@ -1,14 +1,18 @@
 /** @type {import('tailwindcss').Config} */
-/**
- * npx tailwindcss -i ./src/style/input.css -o ./core/local/templates/sc/assets/style/output.css --watch
- * */
 module.exports = {
   content: [
-    '../public/makeup/*.html',
-    '../public/makeup/assets/*/.{js, css}',
+    "./template/**/*.{html,js}",
+    "node_modules/preline/dist/*.js"
   ],
   theme: {
-    extend: {},
+
   },
-  plugins: [],
-};
+
+  plugins: [
+    require('preline/plugin'),
+    require('@tailwindcss/forms'),
+    require('@tailwindcss/aspect-ratio'),
+    require('@tailwindcss/typography'),
+  ],
+  darkMode: 'class',
+}
