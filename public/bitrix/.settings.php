@@ -48,7 +48,7 @@ return array (
   array (
     'value' =>
     array (
-        'crypto_key' => 'ecb722a3e7639b9ccf25d8639eab394f',
+        'crypto_key' => 'f19f72273fc6a120db4e4f4ef0249ba9',
     ),
     'readonly' => true,
   ),
@@ -60,9 +60,9 @@ return array (
       array (
         'className' => '\\Bitrix\\Main\\DB\\MysqliConnection',
         'host' => 'localhost',
-        'database' => '0N8e4j4DdYBagq1v',
-        'login' => 'F66me0k21ayS07vrzI63',
-        'password' => '5c5Oy7d4lztChRgtnx4X',
+        'database' => '1N6K93ROJCpldZbFYzPs',
+        'login' => '8Cl15TxEprZud33Hk4T7',
+        'password' => 'y5ZnUhAMUwrF16RzSl72',
         'options' => 2,
       ),
     ),
