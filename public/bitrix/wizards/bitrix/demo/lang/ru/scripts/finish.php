@@ -1,8 +1,8 @@
 <?
-$MESS ['INDEX_NEWS_TITLE'] = "Íîâîñòè";
-$MESS ['INDEX_ARTICLES_TITLE'] = "Ñòàòüè";
-$MESS ['FINISH_STEP_TITLE'] = "Ìàñòåð ñîçäàíèÿ ñàéòà óñïåøíî çàâåðøåí";
-$MESS ['FINISH_STEP_CONTENT'] = "Ïîçäðàâëÿåì! Ìàñòåð ñîçäàíèÿ ñàéòà óñïåøíî âûïîëíåí.";
-$MESS ['FINISH_STEP_BUTTON_NAME'] = "Ïåðåéòè íà ñàéò";
-$MESS ['INDEX_NEW_PHOTO'] = "Íîâûå ôîòîãðàôèè";
+$MESS ['INDEX_NEWS_TITLE'] = "ÐÐ¾Ð²Ð¾ÑÑ‚Ð¸";
+$MESS ['INDEX_ARTICLES_TITLE'] = "Ð¡Ñ‚Ð°Ñ‚ÑŒÐ¸";
+$MESS ['FINISH_STEP_TITLE'] = "ÐœÐ°ÑÑ‚ÐµÑ€ ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ ÑÐ°Ð¹Ñ‚Ð° ÑƒÑÐ¿ÐµÑˆÐ½Ð¾ Ð·Ð°Ð²ÐµÑ€ÑˆÐµÐ½";
+$MESS ['FINISH_STEP_CONTENT'] = "ÐŸÐ¾Ð·Ð´Ñ€Ð°Ð²Ð»ÑÐµÐ¼! ÐœÐ°ÑÑ‚ÐµÑ€ ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ ÑÐ°Ð¹Ñ‚Ð° ÑƒÑÐ¿ÐµÑˆÐ½Ð¾ Ð²Ñ‹Ð¿Ð¾Ð»Ð½ÐµÐ½.";
+$MESS ['FINISH_STEP_BUTTON_NAME'] = "ÐŸÐµÑ€ÐµÐ¹Ñ‚Ð¸ Ð½Ð° ÑÐ°Ð¹Ñ‚";
+$MESS ['INDEX_NEW_PHOTO'] = "ÐÐ¾Ð²Ñ‹Ðµ Ñ„Ð¾Ñ‚Ð¾Ð³Ñ€Ð°Ñ„Ð¸Ð¸";
 ?>

@@ -1,13 +1,13 @@
 <?php
-$MESS['LANDING_HOOK_COOKIES_TITLE'] = 'Îáðàáîòêà Cookie-ôàéëîâ';
-$MESS['LANDING_HOOK_COOKIES_USE'] = 'Ïîêàçàòü ñîîáùåíèå î ñîãëàñèè íà îáðàáîòêó Cookie-ôàéëîâ';
-$MESS['LANDING_HOOK_COOKIES_AGREEMENT_ID'] = 'Èäåíòèôèêàòîð ñîãëàøåíèÿ';
-$MESS['LANDING_HOOK_COOKIES_COLOR_BG'] = 'Öâåò ôîíà';
-$MESS['LANDING_HOOK_COOKIES_COLOR_TEXT'] = 'Öâåò èêîíêè è òåêñòà';
-$MESS['LANDING_HOOK_COOKIES_POSITION'] = 'Ðàñïîëîæåíèå ññûëêè';
-$MESS['LANDING_HOOK_COOKIES_POSITION_BL'] = 'Ñíèçó ñëåâà';
-$MESS['LANDING_HOOK_COOKIES_POSITION_BR'] = 'Ñíèçó ñïðàâà';
-$MESS['LANDING_HOOK_COOKIES_MODE'] = 'Ðåæèì ðàáîòû';
-$MESS['LANDING_HOOK_COOKIES_MODE_A'] = 'òðåáóåòñÿ ñîãëàñèå ïîëüçîâàòåëÿ';
-$MESS['LANDING_HOOK_COOKIES_MODE_I'] = 'èíôîðìèðîâàíèå î ñáîðå cookies';
-$MESS['LANDING_HOOK_COOKIES_MODE_HELP'] = 'ïîäðîáíåå';
+$MESS['LANDING_HOOK_COOKIES_TITLE'] = 'ÐžÐ±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ° Cookie-Ñ„Ð°Ð¹Ð»Ð¾Ð²';
+$MESS['LANDING_HOOK_COOKIES_USE'] = 'ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ Ð¾ ÑÐ¾Ð³Ð»Ð°ÑÐ¸Ð¸ Ð½Ð° Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÑƒ Cookie-Ñ„Ð°Ð¹Ð»Ð¾Ð²';
+$MESS['LANDING_HOOK_COOKIES_AGREEMENT_ID'] = 'Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÐ¾Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ñ';
+$MESS['LANDING_HOOK_COOKIES_COLOR_BG'] = 'Ð¦Ð²ÐµÑ‚ Ñ„Ð¾Ð½Ð°';
+$MESS['LANDING_HOOK_COOKIES_COLOR_TEXT'] = 'Ð¦Ð²ÐµÑ‚ Ð¸ÐºÐ¾Ð½ÐºÐ¸ Ð¸ Ñ‚ÐµÐºÑÑ‚Ð°';
+$MESS['LANDING_HOOK_COOKIES_POSITION'] = 'Ð Ð°ÑÐ¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ ÑÑÑ‹Ð»ÐºÐ¸';
+$MESS['LANDING_HOOK_COOKIES_POSITION_BL'] = 'Ð¡Ð½Ð¸Ð·Ñƒ ÑÐ»ÐµÐ²Ð°';
+$MESS['LANDING_HOOK_COOKIES_POSITION_BR'] = 'Ð¡Ð½Ð¸Ð·Ñƒ ÑÐ¿Ñ€Ð°Ð²Ð°';
+$MESS['LANDING_HOOK_COOKIES_MODE'] = 'Ð ÐµÐ¶Ð¸Ð¼ Ñ€Ð°Ð±Ð¾Ñ‚Ñ‹';
+$MESS['LANDING_HOOK_COOKIES_MODE_A'] = 'Ñ‚Ñ€ÐµÐ±ÑƒÐµÑ‚ÑÑ ÑÐ¾Ð³Ð»Ð°ÑÐ¸Ðµ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ';
+$MESS['LANDING_HOOK_COOKIES_MODE_I'] = 'Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð¾ ÑÐ±Ð¾Ñ€Ðµ cookies';
+$MESS['LANDING_HOOK_COOKIES_MODE_HELP'] = 'Ð¿Ð¾Ð´Ñ€Ð¾Ð±Ð½ÐµÐµ';

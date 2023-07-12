@@ -1,10 +1,10 @@
 <?
-$MESS["IBLOCK_PROP_ELEMENT_LIST_SETTING_SIZE"] = "Âûñîòà ñïèñêà";
-$MESS["IBLOCK_PROP_ELEMENT_LIST_SETTING_WIDTH"] = "Îãðàíè÷èòü ïî øèðèíå (0 - íå îãðàíè÷èâàòü)";
-$MESS["IBLOCK_PROP_ELEMENT_LIST_NO_VALUE"] = "(íå óñòàíîâëåíî)";
-$MESS["IBLOCK_PROP_ELEMENT_LIST_ANY_VALUE"] = "(ëþáîé)";
-$MESS["IBLOCK_PROP_ELEMENT_LIST_SETTING_SECTION_GROUP"] = "Ãðóïïèðîâàòü ïî ðàçäåëàì";
-$MESS["IBLOCK_PROP_ELEMENT_LIST_SETTING_MULTIPLE"] = "Îòîáðàæàòü â âèäå ñïèñêà ìíîæåñòâåííîãî âûáîðà";
-$MESS["IBLOCK_PROP_ELEMENT_LIST_ADD"] = "Äîáàâèòü";
-$MESS["IBLOCK_PROP_ELIST_DESC"] = "Ïðèâÿçêà ê ýëåìåíòàì â âèäå ñïèñêà";
+$MESS["IBLOCK_PROP_ELEMENT_LIST_SETTING_SIZE"] = "Ð’Ñ‹ÑÐ¾Ñ‚Ð° ÑÐ¿Ð¸ÑÐºÐ°";
+$MESS["IBLOCK_PROP_ELEMENT_LIST_SETTING_WIDTH"] = "ÐžÐ³Ñ€Ð°Ð½Ð¸Ñ‡Ð¸Ñ‚ÑŒ Ð¿Ð¾ ÑˆÐ¸Ñ€Ð¸Ð½Ðµ (0 - Ð½Ðµ Ð¾Ð³Ñ€Ð°Ð½Ð¸Ñ‡Ð¸Ð²Ð°Ñ‚ÑŒ)";
+$MESS["IBLOCK_PROP_ELEMENT_LIST_NO_VALUE"] = "(Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð¾)";
+$MESS["IBLOCK_PROP_ELEMENT_LIST_ANY_VALUE"] = "(Ð»ÑŽÐ±Ð¾Ð¹)";
+$MESS["IBLOCK_PROP_ELEMENT_LIST_SETTING_SECTION_GROUP"] = "Ð“Ñ€ÑƒÐ¿Ð¿Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ð¿Ð¾ Ñ€Ð°Ð·Ð´ÐµÐ»Ð°Ð¼";
+$MESS["IBLOCK_PROP_ELEMENT_LIST_SETTING_MULTIPLE"] = "ÐžÑ‚Ð¾Ð±Ñ€Ð°Ð¶Ð°Ñ‚ÑŒ Ð² Ð²Ð¸Ð´Ðµ ÑÐ¿Ð¸ÑÐºÐ° Ð¼Ð½Ð¾Ð¶ÐµÑÑ‚Ð²ÐµÐ½Ð½Ð¾Ð³Ð¾ Ð²Ñ‹Ð±Ð¾Ñ€Ð°";
+$MESS["IBLOCK_PROP_ELEMENT_LIST_ADD"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ";
+$MESS["IBLOCK_PROP_ELIST_DESC"] = "ÐŸÑ€Ð¸Ð²ÑÐ·ÐºÐ° Ðº ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð°Ð¼ Ð² Ð²Ð¸Ð´Ðµ ÑÐ¿Ð¸ÑÐºÐ°";
 ?>

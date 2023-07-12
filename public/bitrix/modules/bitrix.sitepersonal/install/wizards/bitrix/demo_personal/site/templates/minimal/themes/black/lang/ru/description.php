@@ -1,4 +1,4 @@
 <?
-$MESS["SITE_TEMPLATE_THEME_NAME"] = "×åðíûé";
-$MESS["SITE_TEMPLATE_THEME_DESCRIPTION"] = "×åðíàÿ öâåòîâàÿ ñõåìà";
+$MESS["SITE_TEMPLATE_THEME_NAME"] = "Ð§ÐµÑ€Ð½Ñ‹Ð¹";
+$MESS["SITE_TEMPLATE_THEME_DESCRIPTION"] = "Ð§ÐµÑ€Ð½Ð°Ñ Ñ†Ð²ÐµÑ‚Ð¾Ð²Ð°Ñ ÑÑ…ÐµÐ¼Ð°";
 ?>

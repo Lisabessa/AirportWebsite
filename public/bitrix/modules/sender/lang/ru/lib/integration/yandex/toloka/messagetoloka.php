@@ -1,20 +1,20 @@
 <?
-$MESS["SENDER_INTEGRATION_YANDEX_TOLOKA"] = "ßíäåêñ.Òîëîêà";
-$MESS["SENDER_INTEGRATION_SEO_MESSAGE_CONFIG_PROJECT"] = "Ïðîåêò";
-$MESS["SENDER_INTEGRATION_SEO_MESSAGE_CONFIG_POOL"] = "Ïóë";
-$MESS["SEDNER_INTEGRATION_TOLOKA_FILTER_REGION_PHONE"] = "Ðåãèîí ïî íîìåðó òåëåôîíà";
-$MESS["SEDNER_INTEGRATION_TOLOKA_FILTER_REGION_IP"] = "Ðåãèîí ïî IP";
+$MESS["SENDER_INTEGRATION_YANDEX_TOLOKA"] = "Ð¯Ð½Ð´ÐµÐºÑ.Ð¢Ð¾Ð»Ð¾ÐºÐ°";
+$MESS["SENDER_INTEGRATION_SEO_MESSAGE_CONFIG_PROJECT"] = "ÐŸÑ€Ð¾ÐµÐºÑ‚";
+$MESS["SENDER_INTEGRATION_SEO_MESSAGE_CONFIG_POOL"] = "ÐŸÑƒÐ»";
+$MESS["SEDNER_INTEGRATION_TOLOKA_FILTER_REGION_PHONE"] = "Ð ÐµÐ³Ð¸Ð¾Ð½ Ð¿Ð¾ Ð½Ð¾Ð¼ÐµÑ€Ñƒ Ñ‚ÐµÐ»ÐµÑ„Ð¾Ð½Ð°";
+$MESS["SEDNER_INTEGRATION_TOLOKA_FILTER_REGION_IP"] = "Ð ÐµÐ³Ð¸Ð¾Ð½ Ð¿Ð¾ IP";
 
-$MESS["SENDER_TOLOKA_PROJECT_DESCRIPTION"] = "Îïèñàíèå äëÿ ñïèñêà çàäàíèé â ßíäåêñ.Òîëîêà";
-$MESS["SENDER_TOLOKA_PROJECT_INSTRUCTION"] = "Èíñòðóêöèÿ äëÿ èñïîëíèòåëÿ";
+$MESS["SENDER_TOLOKA_PROJECT_DESCRIPTION"] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ Ð´Ð»Ñ ÑÐ¿Ð¸ÑÐºÐ° Ð·Ð°Ð´Ð°Ð½Ð¸Ð¹ Ð² Ð¯Ð½Ð´ÐµÐºÑ.Ð¢Ð¾Ð»Ð¾ÐºÐ°";
+$MESS["SENDER_TOLOKA_PROJECT_INSTRUCTION"] = "Ð˜Ð½ÑÑ‚Ñ€ÑƒÐºÑ†Ð¸Ñ Ð´Ð»Ñ Ð¸ÑÐ¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»Ñ";
 
-$MESS["SENDER_TOLOKA_PRICE"] = "Ñòîèìîñòü çà âûïîëíåíèå çàäàíèÿ";
-$MESS["SENDER_TOLOKA_ADULT_CONTENT"] = "Óêàçàòü, êîíòåíò ïðåäíàçíà÷åí òîëüêî äëÿ âçðîñëîé àóäèòîðèè?";
-$MESS["SENDER_TOLOKA_ADD_FILTER"] = "Ôèëüòðû";
-$MESS["SENDER_TOLOKA_MAX_POEOPLE_COUNT"] = "Ìàêñèìàëüíîå êîëè÷åñòâî èñïîëíèòåëåé";
-$MESS["SENDER_TOLOKA_TASK_MAX_TIME"] = "Ìàêñèìàëüíîå âðåìÿ íà èñïîëíåíèå çàäàíèÿ";
-$MESS["SENDER_TOLOKA_TASKS"] = "Óêàæèòå ññûëêè íà çàäàíèÿ ÷åðåç çàïÿòóþ";
-$MESS["SENDER_CONFIG_FILTER"] = "Îãðàíè÷åíèÿ äëÿ èñïîëíèòåëåé";
-$MESS["SENDER_TOLOKA_POOL_EXPIRE_IN"] = "Äàòà îêîí÷àíèÿ çàäàíèÿ";
-$MESS["SENDER_TOLOKA_PRICE_HINT"] = "ßíäåêñ.Òîëîêà ïðîèçâîäèò ðàñ÷åò â äîëëàðàõ ÑØÀ, ïëþñ êîìèññèÿ ßíäåêñà 2%";
+$MESS["SENDER_TOLOKA_PRICE"] = "Ð¡Ñ‚Ð¾Ð¸Ð¼Ð¾ÑÑ‚ÑŒ Ð·Ð° Ð²Ñ‹Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¸Ðµ Ð·Ð°Ð´Ð°Ð½Ð¸Ñ";
+$MESS["SENDER_TOLOKA_ADULT_CONTENT"] = "Ð£ÐºÐ°Ð·Ð°Ñ‚ÑŒ, ÐºÐ¾Ð½Ñ‚ÐµÐ½Ñ‚ Ð¿Ñ€ÐµÐ´Ð½Ð°Ð·Ð½Ð°Ñ‡ÐµÐ½ Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð´Ð»Ñ Ð²Ð·Ñ€Ð¾ÑÐ»Ð¾Ð¹ Ð°ÑƒÐ´Ð¸Ñ‚Ð¾Ñ€Ð¸Ð¸?";
+$MESS["SENDER_TOLOKA_ADD_FILTER"] = "Ð¤Ð¸Ð»ÑŒÑ‚Ñ€Ñ‹";
+$MESS["SENDER_TOLOKA_MAX_POEOPLE_COUNT"] = "ÐœÐ°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ð¾Ðµ ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ð¸ÑÐ¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÐµÐ¹";
+$MESS["SENDER_TOLOKA_TASK_MAX_TIME"] = "ÐœÐ°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ð¾Ðµ Ð²Ñ€ÐµÐ¼Ñ Ð½Ð° Ð¸ÑÐ¿Ð¾Ð»Ð½ÐµÐ½Ð¸Ðµ Ð·Ð°Ð´Ð°Ð½Ð¸Ñ";
+$MESS["SENDER_TOLOKA_TASKS"] = "Ð£ÐºÐ°Ð¶Ð¸Ñ‚Ðµ ÑÑÑ‹Ð»ÐºÐ¸ Ð½Ð° Ð·Ð°Ð´Ð°Ð½Ð¸Ñ Ñ‡ÐµÑ€ÐµÐ· Ð·Ð°Ð¿ÑÑ‚ÑƒÑŽ";
+$MESS["SENDER_CONFIG_FILTER"] = "ÐžÐ³Ñ€Ð°Ð½Ð¸Ñ‡ÐµÐ½Ð¸Ñ Ð´Ð»Ñ Ð¸ÑÐ¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÐµÐ¹";
+$MESS["SENDER_TOLOKA_POOL_EXPIRE_IN"] = "Ð”Ð°Ñ‚Ð° Ð¾ÐºÐ¾Ð½Ñ‡Ð°Ð½Ð¸Ñ Ð·Ð°Ð´Ð°Ð½Ð¸Ñ";
+$MESS["SENDER_TOLOKA_PRICE_HINT"] = "Ð¯Ð½Ð´ÐµÐºÑ.Ð¢Ð¾Ð»Ð¾ÐºÐ° Ð¿Ñ€Ð¾Ð¸Ð·Ð²Ð¾Ð´Ð¸Ñ‚ Ñ€Ð°ÑÑ‡ÐµÑ‚ Ð² Ð´Ð¾Ð»Ð»Ð°Ñ€Ð°Ñ… Ð¡Ð¨Ð, Ð¿Ð»ÑŽÑ ÐºÐ¾Ð¼Ð¸ÑÑÐ¸Ñ Ð¯Ð½Ð´ÐµÐºÑÐ° 2%";
 

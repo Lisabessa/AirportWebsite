@@ -6,5 +6,5 @@ $MESS["SALE_NO_PROFILE"] = "Das Profil wurde nicht gefunden";
 $MESS["SALE_PERS_TYPE"] = "Kundengruppe";
 $MESS["SALE_RECORDS_LIST"] = "Profile";
 $MESS["SALE_SAVE"] = "Speichern";
-$MESS["SALE_PNAME"] = "Überschrift";
+$MESS["SALE_PNAME"] = "Ãœberschrift";
 ?>

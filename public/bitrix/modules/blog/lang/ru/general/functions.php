@@ -1,5 +1,5 @@
 <?
-$MESS ['BLOG_QUOTE'] = "Öèòàòà";
-$MESS ['BLOG_CODE'] = "Êîä";
-$MESS ['BLOG_FILES'] = "Ôàéëû:";
+$MESS ['BLOG_QUOTE'] = "Ð¦Ð¸Ñ‚Ð°Ñ‚Ð°";
+$MESS ['BLOG_CODE'] = "ÐšÐ¾Ð´";
+$MESS ['BLOG_FILES'] = "Ð¤Ð°Ð¹Ð»Ñ‹:";
 ?>

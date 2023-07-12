@@ -1,11 +1,11 @@
 <?
-$MESS["USER_TYPE_ENUM_DESCRIPTION"] = "Ñïèñîê";
-$MESS["USER_TYPE_ENUM_DISPLAY"] = "Âíåøíèé âèä";
-$MESS["USER_TYPE_ENUM_CHECKBOX"] = "Ôëàæêè";
-$MESS["USER_TYPE_ENUM_LIST"] = "Ñïèñîê";
-$MESS["USER_TYPE_ENUM_UI"] = "Íàáèðàåìûé ñïèñîê";
-$MESS["USER_TYPE_ENUM_LIST_HEIGHT"] = "Âûñîòà ñïèñêà";
-$MESS["USER_TYPE_ENUM_SHOW_NO_VALUE"] = "Ïîêàçûâàòü ïóñòîå çíà÷åíèå äëÿ îáÿçàòåëüíîãî ïîëÿ";
-$MESS["USER_TYPE_ENUM_CAPTION_NO_VALUE"] = "Ïîäïèñü ïðè îòñóòñòâèè çíà÷åíèÿ";
-$MESS["USER_TYPE_ENUM_NO_VALUE"] = "íå âûáðàíî";
+$MESS["USER_TYPE_ENUM_DESCRIPTION"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº";
+$MESS["USER_TYPE_ENUM_DISPLAY"] = "Ð’Ð½ÐµÑˆÐ½Ð¸Ð¹ Ð²Ð¸Ð´";
+$MESS["USER_TYPE_ENUM_CHECKBOX"] = "Ð¤Ð»Ð°Ð¶ÐºÐ¸";
+$MESS["USER_TYPE_ENUM_LIST"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº";
+$MESS["USER_TYPE_ENUM_UI"] = "ÐÐ°Ð±Ð¸Ñ€Ð°ÐµÐ¼Ñ‹Ð¹ ÑÐ¿Ð¸ÑÐ¾Ðº";
+$MESS["USER_TYPE_ENUM_LIST_HEIGHT"] = "Ð’Ñ‹ÑÐ¾Ñ‚Ð° ÑÐ¿Ð¸ÑÐºÐ°";
+$MESS["USER_TYPE_ENUM_SHOW_NO_VALUE"] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ð¿ÑƒÑÑ‚Ð¾Ðµ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð´Ð»Ñ Ð¾Ð±ÑÐ·Ð°Ñ‚ÐµÐ»ÑŒÐ½Ð¾Ð³Ð¾ Ð¿Ð¾Ð»Ñ";
+$MESS["USER_TYPE_ENUM_CAPTION_NO_VALUE"] = "ÐŸÐ¾Ð´Ð¿Ð¸ÑÑŒ Ð¿Ñ€Ð¸ Ð¾Ñ‚ÑÑƒÑ‚ÑÑ‚Ð²Ð¸Ð¸ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ñ";
+$MESS["USER_TYPE_ENUM_NO_VALUE"] = "Ð½Ðµ Ð²Ñ‹Ð±Ñ€Ð°Ð½Ð¾";
 ?>

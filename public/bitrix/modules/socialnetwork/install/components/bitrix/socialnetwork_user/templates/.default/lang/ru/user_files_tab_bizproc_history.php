@@ -1,4 +1,4 @@
 <?
-$MESS["WD_HIST_ELEMENT_TITLE"] = "Èñòîðèÿ èçìåíåíèé (#NUM#)";
-$MESS["WD_HIST_ELEMENT"] = "Èñòîðèÿ èçìåíåíèé";
+$MESS["WD_HIST_ELEMENT_TITLE"] = "Ð˜ÑÑ‚Ð¾Ñ€Ð¸Ñ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ð¹ (#NUM#)";
+$MESS["WD_HIST_ELEMENT"] = "Ð˜ÑÑ‚Ð¾Ñ€Ð¸Ñ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ð¹";
 ?>

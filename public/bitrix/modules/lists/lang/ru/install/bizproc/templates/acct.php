@@ -1,322 +1,322 @@
 <?
-$MESS["LIBTA_NAME"] = "Íàçâàíèå";
-$MESS["LIBTA_TYPE"] = "Òèï";
-$MESS["LIBTA_TYPE_ADV"] = "Ðåêëàìà";
-$MESS["LIBTA_TYPE_EX"] = "Ïðåäñòàâèòåëüñêèå";
-$MESS["LIBTA_TYPE_C"] = "Êîìïåíñèðóåìûå";
-$MESS["LIBTA_TYPE_D"] = "Ïðî÷åå";
-$MESS["LIBTA_CREATED_BY"] = "Êåì ñîçäàí";
-$MESS["LIBTA_DATE_CREATE"] = "Äàòà ñîçäàíèÿ";
-$MESS["LIBTA_FILE"] = "Ôàéë (êîïèÿ ñ÷åòà)";
-$MESS["LIBTA_NUM_DATE"] = "Íîìåð ñ÷åòà è äàòà";
-$MESS["LIBTA_SUM"] = "Ñóììà";
-$MESS["LIBTA_PAID"] = "Îïëà÷åí";
-$MESS["LIBTA_PAID_NO"] = "Íåò";
-$MESS["LIBTA_PAID_YES"] = "Äà";
-$MESS["LIBTA_BDT"] = "Ñòàòüÿ áþäæåòà";
-$MESS["LIBTA_DATE_PAY"] = "Äàòà îïëàòû (çàïîëíÿåò áóõãàëòåð)";
-$MESS["LIBTA_NUM_PP"] = "Íîìåð ï/ï (çàïîëíÿåò áóõãàëòåð)";
-$MESS["LIBTA_DOCS"] = "Êîïèè äîêóìåíòîâ";
-$MESS["LIBTA_DOCS_YES"] = "Åñòü";
-$MESS["LIBTA_DOCS_NO"] = "Íåò";
-$MESS["LIBTA_APPROVED"] = "Óòâåðæäåí";
-$MESS["LIBTA_APPROVED_R"] = "Îòêàçàíî";
-$MESS["LIBTA_APPROVED_N"] = "Íå ñîãëàñîâàíî";
-$MESS["LIBTA_APPROVED_Y"] = "Ñîãëàñîâàíî";
-$MESS["LIBTA_T_PBP"] = "Ïîñëåäîâàòåëüíûé áèçíåñ-ïðîöåññ";
-$MESS["LIBTA_T_SPA1"] = "Óñòàíîâêà ïðàâ: àâòîðó";
-$MESS["LIBTA_T_PDA1"] = "Ïóáëèêàöèÿ äîêóìåíòà";
-$MESS["LIBTA_STATE1"] = "Íà óòâåðæäåíèè";
-$MESS["LIBTA_T_SSTA1"] = "Ñòàòóñ: íà óòâåðæäåíèè";
-$MESS["LIBTA_T_ASFA1"] = "Óñòàíîâêà ïîëÿ \"Óòâåðæäåí\" äîêóìåíòà";
-$MESS["LIBTA_T_SVWA1"] = "Óñòàíîâêà óòâåðæäàþùåãî";
-$MESS["LIBTA_T_WHILEA1"] = "Öèêë ñîãëàñîâàíèÿ";
-$MESS["LIBTA_T_SA0"] = "Ïîñëåäîâàòåëüíîñòü äåéñòâèé";
-$MESS["LIBTA_T_IFELSEA1"] = "Äîøëè äî ðóêîâîäñòâà";
-$MESS["LIBTA_T_IFELSEBA1"] = "Äà";
-$MESS["LIBTA_T_ASFA2"] = "Óñòàíîâêà ïîëÿ \"Óòâåðæäåí\" äîêóìåíòà";
-$MESS["LIBTA_T_IFELSEBA2"] = "Íåò";
-$MESS["LIBTA_T_GUAX1"] = "Âûáîð íà÷àëüíèêà";
-$MESS["LIBTA_T_SVWA2"] = "Óñòàíîâêà óòâåðæäàþùåãî";
-$MESS["LIBTA_T_SPAX1"] = "Óñòàíîâêà ïðàâ: óòâåðæäàþùåìó ÷òåíèå";
-$MESS["LIBTA_SMA_MESSAGE_1"] = "Ïðîøó óòâåðäèòü ñ÷åò
-Êåì ñîçäàí: {=Document:CREATED_BY_PRINTABLE}
-Íàçâàíèå: {=Document:NAME}
-Òèï: {=Document:PROPERTY_TYPE}
-Ñóììà: {=Document:PROPERTY_SUM}
+$MESS["LIBTA_NAME"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
+$MESS["LIBTA_TYPE"] = "Ð¢Ð¸Ð¿";
+$MESS["LIBTA_TYPE_ADV"] = "Ð ÐµÐºÐ»Ð°Ð¼Ð°";
+$MESS["LIBTA_TYPE_EX"] = "ÐŸÑ€ÐµÐ´ÑÑ‚Ð°Ð²Ð¸Ñ‚ÐµÐ»ÑŒÑÐºÐ¸Ðµ";
+$MESS["LIBTA_TYPE_C"] = "ÐšÐ¾Ð¼Ð¿ÐµÐ½ÑÐ¸Ñ€ÑƒÐµÐ¼Ñ‹Ðµ";
+$MESS["LIBTA_TYPE_D"] = "ÐŸÑ€Ð¾Ñ‡ÐµÐµ";
+$MESS["LIBTA_CREATED_BY"] = "ÐšÐµÐ¼ ÑÐ¾Ð·Ð´Ð°Ð½";
+$MESS["LIBTA_DATE_CREATE"] = "Ð”Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ";
+$MESS["LIBTA_FILE"] = "Ð¤Ð°Ð¹Ð» (ÐºÐ¾Ð¿Ð¸Ñ ÑÑ‡ÐµÑ‚Ð°)";
+$MESS["LIBTA_NUM_DATE"] = "ÐÐ¾Ð¼ÐµÑ€ ÑÑ‡ÐµÑ‚Ð° Ð¸ Ð´Ð°Ñ‚Ð°";
+$MESS["LIBTA_SUM"] = "Ð¡ÑƒÐ¼Ð¼Ð°";
+$MESS["LIBTA_PAID"] = "ÐžÐ¿Ð»Ð°Ñ‡ÐµÐ½";
+$MESS["LIBTA_PAID_NO"] = "ÐÐµÑ‚";
+$MESS["LIBTA_PAID_YES"] = "Ð”Ð°";
+$MESS["LIBTA_BDT"] = "Ð¡Ñ‚Ð°Ñ‚ÑŒÑ Ð±ÑŽÐ´Ð¶ÐµÑ‚Ð°";
+$MESS["LIBTA_DATE_PAY"] = "Ð”Ð°Ñ‚Ð° Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹ (Ð·Ð°Ð¿Ð¾Ð»Ð½ÑÐµÑ‚ Ð±ÑƒÑ…Ð³Ð°Ð»Ñ‚ÐµÑ€)";
+$MESS["LIBTA_NUM_PP"] = "ÐÐ¾Ð¼ÐµÑ€ Ð¿/Ð¿ (Ð·Ð°Ð¿Ð¾Ð»Ð½ÑÐµÑ‚ Ð±ÑƒÑ…Ð³Ð°Ð»Ñ‚ÐµÑ€)";
+$MESS["LIBTA_DOCS"] = "ÐšÐ¾Ð¿Ð¸Ð¸ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð¾Ð²";
+$MESS["LIBTA_DOCS_YES"] = "Ð•ÑÑ‚ÑŒ";
+$MESS["LIBTA_DOCS_NO"] = "ÐÐµÑ‚";
+$MESS["LIBTA_APPROVED"] = "Ð£Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½";
+$MESS["LIBTA_APPROVED_R"] = "ÐžÑ‚ÐºÐ°Ð·Ð°Ð½Ð¾";
+$MESS["LIBTA_APPROVED_N"] = "ÐÐµ ÑÐ¾Ð³Ð»Ð°ÑÐ¾Ð²Ð°Ð½Ð¾";
+$MESS["LIBTA_APPROVED_Y"] = "Ð¡Ð¾Ð³Ð»Ð°ÑÐ¾Ð²Ð°Ð½Ð¾";
+$MESS["LIBTA_T_PBP"] = "ÐŸÐ¾ÑÐ»ÐµÐ´Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ð¹ Ð±Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑ";
+$MESS["LIBTA_T_SPA1"] = "Ð£ÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ° Ð¿Ñ€Ð°Ð²: Ð°Ð²Ñ‚Ð¾Ñ€Ñƒ";
+$MESS["LIBTA_T_PDA1"] = "ÐŸÑƒÐ±Ð»Ð¸ÐºÐ°Ñ†Ð¸Ñ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð°";
+$MESS["LIBTA_STATE1"] = "ÐÐ° ÑƒÑ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð¸Ð¸";
+$MESS["LIBTA_T_SSTA1"] = "Ð¡Ñ‚Ð°Ñ‚ÑƒÑ: Ð½Ð° ÑƒÑ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð¸Ð¸";
+$MESS["LIBTA_T_ASFA1"] = "Ð£ÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ° Ð¿Ð¾Ð»Ñ \"Ð£Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½\" Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð°";
+$MESS["LIBTA_T_SVWA1"] = "Ð£ÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ° ÑƒÑ‚Ð²ÐµÑ€Ð¶Ð´Ð°ÑŽÑ‰ÐµÐ³Ð¾";
+$MESS["LIBTA_T_WHILEA1"] = "Ð¦Ð¸ÐºÐ» ÑÐ¾Ð³Ð»Ð°ÑÐ¾Ð²Ð°Ð½Ð¸Ñ";
+$MESS["LIBTA_T_SA0"] = "ÐŸÐ¾ÑÐ»ÐµÐ´Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒÐ½Ð¾ÑÑ‚ÑŒ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ð¹";
+$MESS["LIBTA_T_IFELSEA1"] = "Ð”Ð¾ÑˆÐ»Ð¸ Ð´Ð¾ Ñ€ÑƒÐºÐ¾Ð²Ð¾Ð´ÑÑ‚Ð²Ð°";
+$MESS["LIBTA_T_IFELSEBA1"] = "Ð”Ð°";
+$MESS["LIBTA_T_ASFA2"] = "Ð£ÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ° Ð¿Ð¾Ð»Ñ \"Ð£Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½\" Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð°";
+$MESS["LIBTA_T_IFELSEBA2"] = "ÐÐµÑ‚";
+$MESS["LIBTA_T_GUAX1"] = "Ð’Ñ‹Ð±Ð¾Ñ€ Ð½Ð°Ñ‡Ð°Ð»ÑŒÐ½Ð¸ÐºÐ°";
+$MESS["LIBTA_T_SVWA2"] = "Ð£ÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ° ÑƒÑ‚Ð²ÐµÑ€Ð¶Ð´Ð°ÑŽÑ‰ÐµÐ³Ð¾";
+$MESS["LIBTA_T_SPAX1"] = "Ð£ÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ° Ð¿Ñ€Ð°Ð²: ÑƒÑ‚Ð²ÐµÑ€Ð¶Ð´Ð°ÑŽÑ‰ÐµÐ¼Ñƒ Ñ‡Ñ‚ÐµÐ½Ð¸Ðµ";
+$MESS["LIBTA_SMA_MESSAGE_1"] = "ÐŸÑ€Ð¾ÑˆÑƒ ÑƒÑ‚Ð²ÐµÑ€Ð´Ð¸Ñ‚ÑŒ ÑÑ‡ÐµÑ‚
+ÐšÐµÐ¼ ÑÐ¾Ð·Ð´Ð°Ð½: {=Document:CREATED_BY_PRINTABLE}
+ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ: {=Document:NAME}
+Ð¢Ð¸Ð¿: {=Document:PROPERTY_TYPE}
+Ð¡ÑƒÐ¼Ð¼Ð°: {=Document:PROPERTY_SUM}
 
 {=Variable:Link}{=Document:ID}/";
-$MESS["LIBTA_T_SMA_MESSAGE_1"] = "Ñîîáùåíèå: çàïðîñ óòâåðæäåíèÿ ñ÷åòà";
-$MESS["LIBTA_XMA_MESSAGES_1"] = "ÊÏ: Ñ÷åò íà óòâåðæäåíèå";
-$MESS["LIBTA_XMA_MESSAGET_1"] = "Ïðîøó óòâåðäèòü ñ÷åò
+$MESS["LIBTA_T_SMA_MESSAGE_1"] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ: Ð·Ð°Ð¿Ñ€Ð¾Ñ ÑƒÑ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð¸Ñ ÑÑ‡ÐµÑ‚Ð°";
+$MESS["LIBTA_XMA_MESSAGES_1"] = "ÐšÐŸ: Ð¡Ñ‡ÐµÑ‚ Ð½Ð° ÑƒÑ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð¸Ðµ";
+$MESS["LIBTA_XMA_MESSAGET_1"] = "ÐŸÑ€Ð¾ÑˆÑƒ ÑƒÑ‚Ð²ÐµÑ€Ð´Ð¸Ñ‚ÑŒ ÑÑ‡ÐµÑ‚
 
-Êåì ñîçäàí: {=Document:CREATED_BY_PRINTABLE}
-Äàòà ñîçäàíèÿ: {=Document:DATE_CREATE}
-Íàçâàíèå: {=Document:NAME}
-Òèï: {=Document:PROPERTY_TYPE}
-Íîìåð è äàòà ñ÷åòà: {=Document:PROPERTY_NUM_DATE}
-Ñóììà: {=Document:PROPERTY_SUM}
-Ñòàòüÿ áþäæåòà: {=Document:PROPERTY_BDT}
+ÐšÐµÐ¼ ÑÐ¾Ð·Ð´Ð°Ð½: {=Document:CREATED_BY_PRINTABLE}
+Ð”Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ: {=Document:DATE_CREATE}
+ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ: {=Document:NAME}
+Ð¢Ð¸Ð¿: {=Document:PROPERTY_TYPE}
+ÐÐ¾Ð¼ÐµÑ€ Ð¸ Ð´Ð°Ñ‚Ð° ÑÑ‡ÐµÑ‚Ð°: {=Document:PROPERTY_NUM_DATE}
+Ð¡ÑƒÐ¼Ð¼Ð°: {=Document:PROPERTY_SUM}
+Ð¡Ñ‚Ð°Ñ‚ÑŒÑ Ð±ÑŽÐ´Ð¶ÐµÑ‚Ð°: {=Document:PROPERTY_BDT}
 
 {=Variable:Link}{=Document:ID}/
 
 
-Ñïèñîê çàäàíèé ïî áèçíåñ-ïðîöåññàì:
+Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð·Ð°Ð´Ð°Ð½Ð¸Ð¹ Ð¿Ð¾ Ð±Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑÐ°Ð¼:
 {=Variable:TasksLink}";
-$MESS["LIBTA_T_XMA_MESSAGES_1"] = "Ñîîáùåíèå: óòâåðæäåíèå ñ÷åòà";
-$MESS["LIBTA_AAQN1"] = "Óòâåðæäåíèå ñ÷åòà \"{=Document:NAME}\"";
-$MESS["LIBTA_AAQD1"] = "Âàì íåîáõîäèìî óòâåðäèòü èëè îòêëîíèòü ñ÷åò
+$MESS["LIBTA_T_XMA_MESSAGES_1"] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ: ÑƒÑ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð¸Ðµ ÑÑ‡ÐµÑ‚Ð°";
+$MESS["LIBTA_AAQN1"] = "Ð£Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð¸Ðµ ÑÑ‡ÐµÑ‚Ð° \"{=Document:NAME}\"";
+$MESS["LIBTA_AAQD1"] = "Ð’Ð°Ð¼ Ð½ÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ð¾ ÑƒÑ‚Ð²ÐµÑ€Ð´Ð¸Ñ‚ÑŒ Ð¸Ð»Ð¸ Ð¾Ñ‚ÐºÐ»Ð¾Ð½Ð¸Ñ‚ÑŒ ÑÑ‡ÐµÑ‚
 
-Íàçâàíèå: {=Document:NAME}
-Äàòà ñîçäàíèÿ: {=Document:DATE_CREATE}
-Àâòîð: {=Document:CREATED_BY_PRINTABLE}
-Òèï: {=Document:PROPERTY_TYPE}
-Íîìåð è äàòà ñ÷åòà: {=Document:PROPERTY_NUM_DATE}
-Ñóììà: {=Document:PROPERTY_SUM}
-Ñòàòüÿ áþäæåòà: {=Document:PROPERTY_BDT}
-Ôàéë: {=Variable:Domain}{=Document:PROPERTY_FILE}
-
-{=Variable:Link}{=Document:ID}/";
-$MESS["LIBTA_T_AAQN1"] = "Óòâåðæäåíèå";
-$MESS["LIBTA_STATE2"] = "Óòâåðæäåí ({=Variable:Approver_printable})";
-$MESS["LIBTA_T_SSTA2"] = "Ñòàòóñ: óòâåðæäåí";
-$MESS["LIBTA_STATE3"] = "Íå óòâåðæäåí ({=Variable:Approver_printable})";
-$MESS["LIBTA_T_SSTA3"] = "Ñòàòóñ: íå óòâåðæäåí";
-$MESS["LIBTA_T_ASFA3"] = "Óñòàíîâêà ïîëÿ \"Óòâåðæäåí\" äîêóìåíòà";
-$MESS["LIBTA_T_IFELSEA2"] = "Ñ÷åò óòâåðæäåí";
-$MESS["LIBTA_T_IFELSEBA3"] = "Äà";
-$MESS["LIBTA_SMA_MESSAGE_2"] = "Óòâåðæäàþ ñ÷åò
-
-Äàòà ñîçäàíèÿ: {=Document:DATE_CREATE}
-Íàçâàíèå: {=Document:NAME}
-Òèï: {=Document:PROPERTY_TYPE}
+ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ: {=Document:NAME}
+Ð”Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ: {=Document:DATE_CREATE}
+ÐÐ²Ñ‚Ð¾Ñ€: {=Document:CREATED_BY_PRINTABLE}
+Ð¢Ð¸Ð¿: {=Document:PROPERTY_TYPE}
+ÐÐ¾Ð¼ÐµÑ€ Ð¸ Ð´Ð°Ñ‚Ð° ÑÑ‡ÐµÑ‚Ð°: {=Document:PROPERTY_NUM_DATE}
+Ð¡ÑƒÐ¼Ð¼Ð°: {=Document:PROPERTY_SUM}
+Ð¡Ñ‚Ð°Ñ‚ÑŒÑ Ð±ÑŽÐ´Ð¶ÐµÑ‚Ð°: {=Document:PROPERTY_BDT}
+Ð¤Ð°Ð¹Ð»: {=Variable:Domain}{=Document:PROPERTY_FILE}
 
 {=Variable:Link}{=Document:ID}/";
-$MESS["LIBTA_T_SMA_MESSAGE_2"] = "Ñîîáùåíèå: ñ÷åò óòâåðæäåí";
-$MESS["LIBTA_T_SPAX2"] = "Óñòàíîâêà ïðàâ: ïîäòâåðæäàþùåìó îïëàòó";
-$MESS["LIBTA_SMA_MESSAGE_3"] = "Ïðîøó ïîäòâåðäèòü îïëàòó ñ÷åòà
+$MESS["LIBTA_T_AAQN1"] = "Ð£Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð¸Ðµ";
+$MESS["LIBTA_STATE2"] = "Ð£Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½ ({=Variable:Approver_printable})";
+$MESS["LIBTA_T_SSTA2"] = "Ð¡Ñ‚Ð°Ñ‚ÑƒÑ: ÑƒÑ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½";
+$MESS["LIBTA_STATE3"] = "ÐÐµ ÑƒÑ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½ ({=Variable:Approver_printable})";
+$MESS["LIBTA_T_SSTA3"] = "Ð¡Ñ‚Ð°Ñ‚ÑƒÑ: Ð½Ðµ ÑƒÑ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½";
+$MESS["LIBTA_T_ASFA3"] = "Ð£ÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ° Ð¿Ð¾Ð»Ñ \"Ð£Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½\" Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð°";
+$MESS["LIBTA_T_IFELSEA2"] = "Ð¡Ñ‡ÐµÑ‚ ÑƒÑ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½";
+$MESS["LIBTA_T_IFELSEBA3"] = "Ð”Ð°";
+$MESS["LIBTA_SMA_MESSAGE_2"] = "Ð£Ñ‚Ð²ÐµÑ€Ð¶Ð´Ð°ÑŽ ÑÑ‡ÐµÑ‚
 
-Óòâåðæäåí: {=Variable:Approver_printable}
-Êåì ñîçäàí: {=Document:CREATED_BY_PRINTABLE}
-Íàçâàíèå: {=Document:NAME}
-Òèï: {=Document:PROPERTY_TYPE}
-Íîìåð è äàòà ñ÷åòà: {=Document:PROPERTY_NUM_DATE}
-Ñóììà: {=Document:PROPERTY_SUM}
+Ð”Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ: {=Document:DATE_CREATE}
+ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ: {=Document:NAME}
+Ð¢Ð¸Ð¿: {=Document:PROPERTY_TYPE}
+
+{=Variable:Link}{=Document:ID}/";
+$MESS["LIBTA_T_SMA_MESSAGE_2"] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ: ÑÑ‡ÐµÑ‚ ÑƒÑ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½";
+$MESS["LIBTA_T_SPAX2"] = "Ð£ÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ° Ð¿Ñ€Ð°Ð²: Ð¿Ð¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´Ð°ÑŽÑ‰ÐµÐ¼Ñƒ Ð¾Ð¿Ð»Ð°Ñ‚Ñƒ";
+$MESS["LIBTA_SMA_MESSAGE_3"] = "ÐŸÑ€Ð¾ÑˆÑƒ Ð¿Ð¾Ð´Ñ‚Ð²ÐµÑ€Ð´Ð¸Ñ‚ÑŒ Ð¾Ð¿Ð»Ð°Ñ‚Ñƒ ÑÑ‡ÐµÑ‚Ð°
+
+Ð£Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½: {=Variable:Approver_printable}
+ÐšÐµÐ¼ ÑÐ¾Ð·Ð´Ð°Ð½: {=Document:CREATED_BY_PRINTABLE}
+ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ: {=Document:NAME}
+Ð¢Ð¸Ð¿: {=Document:PROPERTY_TYPE}
+ÐÐ¾Ð¼ÐµÑ€ Ð¸ Ð´Ð°Ñ‚Ð° ÑÑ‡ÐµÑ‚Ð°: {=Document:PROPERTY_NUM_DATE}
+Ð¡ÑƒÐ¼Ð¼Ð°: {=Document:PROPERTY_SUM}
 
 {=Variable:Link}{=Document:ID}/
 
-Ñïèñîê çàäàíèé:
+Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð·Ð°Ð´Ð°Ð½Ð¸Ð¹:
 {=Variable:TasksLink}";
-$MESS["LIBTA_T_SMA_MESSAGE_3"] = "Ñîîáùåíèå: çàïðîñ ïîäòâåðæäåíèÿ îïëàòû";
-$MESS["LIBTA_XMA_MESSAGES_2"] = "ÊÏ: Ïîäòâåðæäåíèå îïëàòû ñ÷åòà";
-$MESS["LIBTA_XMA_MESSAGET_2"] = "Ïðîøó ïîäòâåðäèòü îïëàòó ñ÷åòà
+$MESS["LIBTA_T_SMA_MESSAGE_3"] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ: Ð·Ð°Ð¿Ñ€Ð¾Ñ Ð¿Ð¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð¸Ñ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹";
+$MESS["LIBTA_XMA_MESSAGES_2"] = "ÐšÐŸ: ÐŸÐ¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð¸Ðµ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹ ÑÑ‡ÐµÑ‚Ð°";
+$MESS["LIBTA_XMA_MESSAGET_2"] = "ÐŸÑ€Ð¾ÑˆÑƒ Ð¿Ð¾Ð´Ñ‚Ð²ÐµÑ€Ð´Ð¸Ñ‚ÑŒ Ð¾Ð¿Ð»Ð°Ñ‚Ñƒ ÑÑ‡ÐµÑ‚Ð°
 
-Óòâåðæäåí: {=Variable:Approver_printable}
-Êåì ñîçäàí: {=Document:CREATED_BY_PRINTABLE}
-Äàòà ñîçäàíèÿ: {=Document:DATE_CREATE}
-Íàçâàíèå: {=Document:NAME}
-Òèï: {=Document:PROPERTY_TYPE}
-Íîìåð è äàòà ñ÷åòà: {=Document:PROPERTY_NUM_DATE}
-Ñóììà: {=Document:PROPERTY_SUM}
-Ñòàòüÿ áþäæåòà: {=Document:PROPERTY_BDT}
+Ð£Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½: {=Variable:Approver_printable}
+ÐšÐµÐ¼ ÑÐ¾Ð·Ð´Ð°Ð½: {=Document:CREATED_BY_PRINTABLE}
+Ð”Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ: {=Document:DATE_CREATE}
+ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ: {=Document:NAME}
+Ð¢Ð¸Ð¿: {=Document:PROPERTY_TYPE}
+ÐÐ¾Ð¼ÐµÑ€ Ð¸ Ð´Ð°Ñ‚Ð° ÑÑ‡ÐµÑ‚Ð°: {=Document:PROPERTY_NUM_DATE}
+Ð¡ÑƒÐ¼Ð¼Ð°: {=Document:PROPERTY_SUM}
+Ð¡Ñ‚Ð°Ñ‚ÑŒÑ Ð±ÑŽÐ´Ð¶ÐµÑ‚Ð°: {=Document:PROPERTY_BDT}
 
 {=Variable:Link}{=Document:ID}/
 
-Ñïèñîê çàäàíèé:
+Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð·Ð°Ð´Ð°Ð½Ð¸Ð¹:
 {=Variable:TasksLink}";
-$MESS["LIBTA_T_XMA_MESSAGES_2"] = "Ñîîáùåíèå: ïîäòâåðæäåíèå îïëàòû";
-$MESS["LIBTA_STATE4"] = "Íà ïîäòâåðæäåíèè îïëàòû";
-$MESS["LIBTA_T_SSTA4"] = "Ñòàòóñ: íà ïîäòâåðæäåíèè îïëàòû";
-$MESS["LIBTA_AAQN2"] = "Ïîäòâåðäèòü îïëàòó ñ÷åòà \"{=Document:NAME}\"";
-$MESS["LIBTA_AAQD2"] = "Âàì íåîáõîäèìî ïîäòâåðäèòü èëè îòêëîíèòü îïëàòó ñ÷åòà
+$MESS["LIBTA_T_XMA_MESSAGES_2"] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ: Ð¿Ð¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð¸Ðµ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹";
+$MESS["LIBTA_STATE4"] = "ÐÐ° Ð¿Ð¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð¸Ð¸ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹";
+$MESS["LIBTA_T_SSTA4"] = "Ð¡Ñ‚Ð°Ñ‚ÑƒÑ: Ð½Ð° Ð¿Ð¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð¸Ð¸ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹";
+$MESS["LIBTA_AAQN2"] = "ÐŸÐ¾Ð´Ñ‚Ð²ÐµÑ€Ð´Ð¸Ñ‚ÑŒ Ð¾Ð¿Ð»Ð°Ñ‚Ñƒ ÑÑ‡ÐµÑ‚Ð° \"{=Document:NAME}\"";
+$MESS["LIBTA_AAQD2"] = "Ð’Ð°Ð¼ Ð½ÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ð¾ Ð¿Ð¾Ð´Ñ‚Ð²ÐµÑ€Ð´Ð¸Ñ‚ÑŒ Ð¸Ð»Ð¸ Ð¾Ñ‚ÐºÐ»Ð¾Ð½Ð¸Ñ‚ÑŒ Ð¾Ð¿Ð»Ð°Ñ‚Ñƒ ÑÑ‡ÐµÑ‚Ð°
 
-Óòâåðæäåí: {=Variable:Approver_printable}
-Êåì ñîçäàí: {=Document:CREATED_BY_PRINTABLE}
-Äàòà ñîçäàíèÿ: {=Document:DATE_CREATE}
-Íàçâàíèå: {=Document:NAME}
-Òèï: {=Document:PROPERTY_TYPE}
-Íîìåð è äàòà ñ÷åòà: {=Document:PROPERTY_NUM_DATE}
-Ñóììà: {=Document:PROPERTY_SUM}
-Ñòàòüÿ áþäæåòà: {=Document:PROPERTY_BDT}
-Ôàéë: {=Variable:Domain}{=Document:PROPERTY_FILE}
-
-{=Variable:Link}{=Document:ID}/";
-$MESS["LIBTA_T_AAQN2"] = "Ïîäòâåðæäåíèå îïëàòû ñ÷åòà";
-$MESS["LIBTA_T_SVWA3"] = "Èçìåíåíèå ïåðåìåííûõ";
-$MESS["LIBTA_STATE5"] = "Îïëàòà ïîäòâåðæäåíà";
-$MESS["LIBTA_T_SSTA5"] = "Ñòàòóñ: îïëàòà ïîäòâåðæäåíà";
-$MESS["LIBTA_SMA_MESSAGE_4"] = "Îïëàòà ñ÷åòà ïîäòâåðæäåíà
-
-Äàòà ñîçäàíèÿ: {=Document:DATE_CREATE}
-Íàçâàíèå: {=Document:NAME}
-Òèï: {=Document:PROPERTY_TYPE}
+Ð£Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½: {=Variable:Approver_printable}
+ÐšÐµÐ¼ ÑÐ¾Ð·Ð´Ð°Ð½: {=Document:CREATED_BY_PRINTABLE}
+Ð”Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ: {=Document:DATE_CREATE}
+ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ: {=Document:NAME}
+Ð¢Ð¸Ð¿: {=Document:PROPERTY_TYPE}
+ÐÐ¾Ð¼ÐµÑ€ Ð¸ Ð´Ð°Ñ‚Ð° ÑÑ‡ÐµÑ‚Ð°: {=Document:PROPERTY_NUM_DATE}
+Ð¡ÑƒÐ¼Ð¼Ð°: {=Document:PROPERTY_SUM}
+Ð¡Ñ‚Ð°Ñ‚ÑŒÑ Ð±ÑŽÐ´Ð¶ÐµÑ‚Ð°: {=Document:PROPERTY_BDT}
+Ð¤Ð°Ð¹Ð»: {=Variable:Domain}{=Document:PROPERTY_FILE}
 
 {=Variable:Link}{=Document:ID}/";
-$MESS["LIBTA_T_SMA_MESSAGE_4"] = "Ñîîáùåíèå: îïëàòà ïîäòâåðæäåíà";
-$MESS["LIBTA_T_SPAX3"] = "Óñòàíîâêà ïðàâ: îïëà÷èâàþùåìó";
-$MESS["LIBTA_SMA_MESSAGE_5"] = "Ïðîøó îïëàòèòü ñ÷åò
+$MESS["LIBTA_T_AAQN2"] = "ÐŸÐ¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð¸Ðµ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹ ÑÑ‡ÐµÑ‚Ð°";
+$MESS["LIBTA_T_SVWA3"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ Ð¿ÐµÑ€ÐµÐ¼ÐµÐ½Ð½Ñ‹Ñ…";
+$MESS["LIBTA_STATE5"] = "ÐžÐ¿Ð»Ð°Ñ‚Ð° Ð¿Ð¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð°";
+$MESS["LIBTA_T_SSTA5"] = "Ð¡Ñ‚Ð°Ñ‚ÑƒÑ: Ð¾Ð¿Ð»Ð°Ñ‚Ð° Ð¿Ð¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð°";
+$MESS["LIBTA_SMA_MESSAGE_4"] = "ÐžÐ¿Ð»Ð°Ñ‚Ð° ÑÑ‡ÐµÑ‚Ð° Ð¿Ð¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð°
 
-Îïëàòà ïîäòâåðæäåíà: {=Variable:PaymentApprover_printable}
-Ñ÷åò óòâåðæäåí: {=Variable:Approver_printable}
-Êåì ñîçäàí: {=Document:CREATED_BY_PRINTABLE}
-Íàçâàíèå: {=Document:NAME}
-Òèï: {=Document:PROPERTY_TYPE}
-Íîìåð è äàòà ñ÷åòà: {=Document:PROPERTY_NUM_DATE}
-Ñóììà: {=Document:PROPERTY_SUM}
-Ñòàòüÿ áþäæåòà: {=Document:PROPERTY_BDT}
+Ð”Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ: {=Document:DATE_CREATE}
+ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ: {=Document:NAME}
+Ð¢Ð¸Ð¿: {=Document:PROPERTY_TYPE}
+
+{=Variable:Link}{=Document:ID}/";
+$MESS["LIBTA_T_SMA_MESSAGE_4"] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ: Ð¾Ð¿Ð»Ð°Ñ‚Ð° Ð¿Ð¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð°";
+$MESS["LIBTA_T_SPAX3"] = "Ð£ÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ° Ð¿Ñ€Ð°Ð²: Ð¾Ð¿Ð»Ð°Ñ‡Ð¸Ð²Ð°ÑŽÑ‰ÐµÐ¼Ñƒ";
+$MESS["LIBTA_SMA_MESSAGE_5"] = "ÐŸÑ€Ð¾ÑˆÑƒ Ð¾Ð¿Ð»Ð°Ñ‚Ð¸Ñ‚ÑŒ ÑÑ‡ÐµÑ‚
+
+ÐžÐ¿Ð»Ð°Ñ‚Ð° Ð¿Ð¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð°: {=Variable:PaymentApprover_printable}
+Ð¡Ñ‡ÐµÑ‚ ÑƒÑ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½: {=Variable:Approver_printable}
+ÐšÐµÐ¼ ÑÐ¾Ð·Ð´Ð°Ð½: {=Document:CREATED_BY_PRINTABLE}
+ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ: {=Document:NAME}
+Ð¢Ð¸Ð¿: {=Document:PROPERTY_TYPE}
+ÐÐ¾Ð¼ÐµÑ€ Ð¸ Ð´Ð°Ñ‚Ð° ÑÑ‡ÐµÑ‚Ð°: {=Document:PROPERTY_NUM_DATE}
+Ð¡ÑƒÐ¼Ð¼Ð°: {=Document:PROPERTY_SUM}
+Ð¡Ñ‚Ð°Ñ‚ÑŒÑ Ð±ÑŽÐ´Ð¶ÐµÑ‚Ð°: {=Document:PROPERTY_BDT}
 
 {=Variable:Link}{=Document:ID}/
 
-Ñïèñîê çàäàíèé:
+Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð·Ð°Ð´Ð°Ð½Ð¸Ð¹:
 {=Variable:TasksLink}";
-$MESS["LIBTA_T_SMA_MESSAGE_5"] = "Ñîîáùåíèå: ñ÷åò íà îïëàòó";
-$MESS["LIBTA_XMA_MESSAGES_3"] = "ÊÏ: Ñ÷åò íà îïëàòó";
-$MESS["LIBTA_XMA_MESSAGET_3"] = "Ïðîøó îïëàòèòü ñ÷åò
+$MESS["LIBTA_T_SMA_MESSAGE_5"] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ: ÑÑ‡ÐµÑ‚ Ð½Ð° Ð¾Ð¿Ð»Ð°Ñ‚Ñƒ";
+$MESS["LIBTA_XMA_MESSAGES_3"] = "ÐšÐŸ: Ð¡Ñ‡ÐµÑ‚ Ð½Ð° Ð¾Ð¿Ð»Ð°Ñ‚Ñƒ";
+$MESS["LIBTA_XMA_MESSAGET_3"] = "ÐŸÑ€Ð¾ÑˆÑƒ Ð¾Ð¿Ð»Ð°Ñ‚Ð¸Ñ‚ÑŒ ÑÑ‡ÐµÑ‚
 
-Îïëàòà ïîäòâåðæäåíà: {=Variable:PaymentApprover_printable}
-Ñ÷åò óòâåðæäåí: {=Variable:Approver_printable}
-Êåì ñîçäàí: {=Document:CREATED_BY_PRINTABLE}
-Äàòà ñîçäàíèÿ: {=Document:DATE_CREATE}
-Íàçâàíèå: {=Document:NAME}
-Òèï: {=Document:PROPERTY_TYPE}
-Íîìåð è äàòà ñ÷åòà: {=Document:PROPERTY_NUM_DATE}
-Ñóììà: {=Document:PROPERTY_SUM}
-Ñòàòüÿ áþäæåòà: {=Document:PROPERTY_BDT}
+ÐžÐ¿Ð»Ð°Ñ‚Ð° Ð¿Ð¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð°: {=Variable:PaymentApprover_printable}
+Ð¡Ñ‡ÐµÑ‚ ÑƒÑ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½: {=Variable:Approver_printable}
+ÐšÐµÐ¼ ÑÐ¾Ð·Ð´Ð°Ð½: {=Document:CREATED_BY_PRINTABLE}
+Ð”Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ: {=Document:DATE_CREATE}
+ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ: {=Document:NAME}
+Ð¢Ð¸Ð¿: {=Document:PROPERTY_TYPE}
+ÐÐ¾Ð¼ÐµÑ€ Ð¸ Ð´Ð°Ñ‚Ð° ÑÑ‡ÐµÑ‚Ð°: {=Document:PROPERTY_NUM_DATE}
+Ð¡ÑƒÐ¼Ð¼Ð°: {=Document:PROPERTY_SUM}
+Ð¡Ñ‚Ð°Ñ‚ÑŒÑ Ð±ÑŽÐ´Ð¶ÐµÑ‚Ð°: {=Document:PROPERTY_BDT}
 
 {=Variable:Link}{=Document:ID}/
 
-Ñïèñîê çàäàíèé:
+Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð·Ð°Ð´Ð°Ð½Ð¸Ð¹:
 {=Variable:TasksLink}";
-$MESS["LIBTA_T_XMA_MESSAGES_3"] = "Ñîîáùåíèå: ñ÷åò íà îïëàòó";
-$MESS["LIBTA_STATE6"] = "Îæèäàíèå îïëàòû";
-$MESS["LIBTA_T_SSTA6"] = "Ñòàòóñ: îæèäàíèå îïëàòû";
-$MESS["LIBTA_T_ASFA4"] = "Èçìåíåíèå äîêóìåíòà";
-$MESS["LIBTA_STATE7"] = "Îïëà÷åí";
-$MESS["LIBTA_T_SSTA7"] = "Ñòàòóñ: ñ÷åò îïëà÷åí";
-$MESS["LIBTA_SMA_MESSAGE_6"] = "Ñ÷åò îïëà÷åí. Íåîáõîäèìû äîêóìåíòû ïî ñ÷åòó.
+$MESS["LIBTA_T_XMA_MESSAGES_3"] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ: ÑÑ‡ÐµÑ‚ Ð½Ð° Ð¾Ð¿Ð»Ð°Ñ‚Ñƒ";
+$MESS["LIBTA_STATE6"] = "ÐžÐ¶Ð¸Ð´Ð°Ð½Ð¸Ðµ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹";
+$MESS["LIBTA_T_SSTA6"] = "Ð¡Ñ‚Ð°Ñ‚ÑƒÑ: Ð¾Ð¶Ð¸Ð´Ð°Ð½Ð¸Ðµ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹";
+$MESS["LIBTA_T_ASFA4"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð°";
+$MESS["LIBTA_STATE7"] = "ÐžÐ¿Ð»Ð°Ñ‡ÐµÐ½";
+$MESS["LIBTA_T_SSTA7"] = "Ð¡Ñ‚Ð°Ñ‚ÑƒÑ: ÑÑ‡ÐµÑ‚ Ð¾Ð¿Ð»Ð°Ñ‡ÐµÐ½";
+$MESS["LIBTA_SMA_MESSAGE_6"] = "Ð¡Ñ‡ÐµÑ‚ Ð¾Ð¿Ð»Ð°Ñ‡ÐµÐ½. ÐÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ñ‹ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ñ‹ Ð¿Ð¾ ÑÑ‡ÐµÑ‚Ñƒ.
 
-Äàòà ñîçäàíèÿ: {=Document:DATE_CREATE}
-Íàçâàíèå: {=Document:NAME}
-Òèï: {=Document:PROPERTY_TYPE}
+Ð”Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ: {=Document:DATE_CREATE}
+ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ: {=Document:NAME}
+Ð¢Ð¸Ð¿: {=Document:PROPERTY_TYPE}
 
-ÂÍÈÌÀÍÈÅ! Äîêóìåíòû äîëæíû áûòü ñäàíû â òå÷åíèå 5 äíåé ïîñëå îïëàòû ñ÷åòà!";
-$MESS["LIBTA_T_SMA_MESSAGE_6"] = "Ñîîáùåíèå: ñ÷åò îïëà÷åí";
-$MESS["LIBTA_T_SPAX4"] = "Óñòàíîâêà ïðàâ: äîêóìåíòèðóþùåìó";
-$MESS["LIBTA_SMA_MESSAGE_7"] = "Äîêóìåíòû ïî ñ÷åòó ñîáðàíû
+Ð’ÐÐ˜ÐœÐÐÐ˜Ð•! Ð”Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ñ‹ Ð´Ð¾Ð»Ð¶Ð½Ñ‹ Ð±Ñ‹Ñ‚ÑŒ ÑÐ´Ð°Ð½Ñ‹ Ð² Ñ‚ÐµÑ‡ÐµÐ½Ð¸Ðµ 5 Ð´Ð½ÐµÐ¹ Ð¿Ð¾ÑÐ»Ðµ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹ ÑÑ‡ÐµÑ‚Ð°!";
+$MESS["LIBTA_T_SMA_MESSAGE_6"] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ: ÑÑ‡ÐµÑ‚ Ð¾Ð¿Ð»Ð°Ñ‡ÐµÐ½";
+$MESS["LIBTA_T_SPAX4"] = "Ð£ÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ° Ð¿Ñ€Ð°Ð²: Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð¸Ñ€ÑƒÑŽÑ‰ÐµÐ¼Ñƒ";
+$MESS["LIBTA_SMA_MESSAGE_7"] = "Ð”Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ñ‹ Ð¿Ð¾ ÑÑ‡ÐµÑ‚Ñƒ ÑÐ¾Ð±Ñ€Ð°Ð½Ñ‹
 
-Äàòà îïëàòû: {=Document:PROPERTY_DATE_PAY}
-Íîìåð ï/ï: {=Document:PROPERTY_NUM_PAY}
-Êåì ñîçäàí: {=Document:CREATED_BY_PRINTABLE}
-Äàòà ñîçäàíèÿ: {=Document:DATE_CREATE}
-Íàçâàíèå: {=Document:NAME}
-Òèï: {=Document:PROPERTY_TYPE}
-Íîìåð è äàòà ñ÷åòà: {=Document:PROPERTY_NUM_DATE}
-Ñóììà: {=Document:PROPERTY_SUM}
+Ð”Ð°Ñ‚Ð° Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹: {=Document:PROPERTY_DATE_PAY}
+ÐÐ¾Ð¼ÐµÑ€ Ð¿/Ð¿: {=Document:PROPERTY_NUM_PAY}
+ÐšÐµÐ¼ ÑÐ¾Ð·Ð´Ð°Ð½: {=Document:CREATED_BY_PRINTABLE}
+Ð”Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ: {=Document:DATE_CREATE}
+ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ: {=Document:NAME}
+Ð¢Ð¸Ð¿: {=Document:PROPERTY_TYPE}
+ÐÐ¾Ð¼ÐµÑ€ Ð¸ Ð´Ð°Ñ‚Ð° ÑÑ‡ÐµÑ‚Ð°: {=Document:PROPERTY_NUM_DATE}
+Ð¡ÑƒÐ¼Ð¼Ð°: {=Document:PROPERTY_SUM}
 
 {=Variable:Link}{=Document:ID}/
 
-Ñïèñîê çàäàíèé:
+Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð·Ð°Ð´Ð°Ð½Ð¸Ð¹:
 {=Variable:TasksLink}";
-$MESS["LIBTA_T_SMA_MESSAGE_7"] = "Ñîîáùåíèå: äîêóìåíòû ñîáðàíû";
-$MESS["LIBTA_T_ASFA5"] = "Èçìåíåíèå äîêóìåíòà";
-$MESS["LIBTA_STATE8"] = "Çàêðûò";
-$MESS["LIBTA_T_SSTA8"] = "Ñòàòóñ: ñ÷åò çàêðûò";
-$MESS["LIBTA_SMA_MESSAGE_8"] = "Äîêóìåíòû ïîëó÷åíû. ÁÏ ïî ñ÷åòó çàêðûò.
+$MESS["LIBTA_T_SMA_MESSAGE_7"] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ: Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ñ‹ ÑÐ¾Ð±Ñ€Ð°Ð½Ñ‹";
+$MESS["LIBTA_T_ASFA5"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð°";
+$MESS["LIBTA_STATE8"] = "Ð—Ð°ÐºÑ€Ñ‹Ñ‚";
+$MESS["LIBTA_T_SSTA8"] = "Ð¡Ñ‚Ð°Ñ‚ÑƒÑ: ÑÑ‡ÐµÑ‚ Ð·Ð°ÐºÑ€Ñ‹Ñ‚";
+$MESS["LIBTA_SMA_MESSAGE_8"] = "Ð”Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ñ‹ Ð¿Ð¾Ð»ÑƒÑ‡ÐµÐ½Ñ‹. Ð‘ÐŸ Ð¿Ð¾ ÑÑ‡ÐµÑ‚Ñƒ Ð·Ð°ÐºÑ€Ñ‹Ñ‚.
 
-Äàòà ñîçäàíèÿ: {=Document:DATE_CREATE}
-Íàçâàíèå: {=Document:NAME}
-Òèï: {=Document:PROPERTY_TYPE}
-
-{=Variable:Link}{=Document:ID}/";
-$MESS["LIBTA_T_SMA_MESSAGE_8"] = "Ñîîáùåíèå: äîêóìåíòû ïîëó÷åíû";
-$MESS["LIBTA_STATE9"] = "Îïëàòà îòêëîíåíà";
-$MESS["LIBTA_T_SSTA9"] = "Ñòàòóñ: îïëàòà îòêëîíåíà";
-$MESS["LIBTA_SMA_MESSAGE_9"] = "Îïëàòà ñ÷åòà íå ïîäòâåðæäåíà
-
-Äàòà ñîçäàíèÿ: {=Document:DATE_CREATE}
-Íàçâàíèå: {=Document:NAME}
-Òèï: {=Document:PROPERTY_TYPE}
+Ð”Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ: {=Document:DATE_CREATE}
+ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ: {=Document:NAME}
+Ð¢Ð¸Ð¿: {=Document:PROPERTY_TYPE}
 
 {=Variable:Link}{=Document:ID}/";
-$MESS["LIBTA_T_SMA_MESSAGE_9"] = "Ñîîáùåíèå: îïëàòà íå ïîäòâåðæäåíà";
-$MESS["LIBTA_T_IFELSEBA4"] = "Íåò";
-$MESS["LIBTA_SMA_MESSAGE_10"] = "Ñ÷åò íå óòâåðæäåí
+$MESS["LIBTA_T_SMA_MESSAGE_8"] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ: Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ñ‹ Ð¿Ð¾Ð»ÑƒÑ‡ÐµÐ½Ñ‹";
+$MESS["LIBTA_STATE9"] = "ÐžÐ¿Ð»Ð°Ñ‚Ð° Ð¾Ñ‚ÐºÐ»Ð¾Ð½ÐµÐ½Ð°";
+$MESS["LIBTA_T_SSTA9"] = "Ð¡Ñ‚Ð°Ñ‚ÑƒÑ: Ð¾Ð¿Ð»Ð°Ñ‚Ð° Ð¾Ñ‚ÐºÐ»Ð¾Ð½ÐµÐ½Ð°";
+$MESS["LIBTA_SMA_MESSAGE_9"] = "ÐžÐ¿Ð»Ð°Ñ‚Ð° ÑÑ‡ÐµÑ‚Ð° Ð½Ðµ Ð¿Ð¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð°
 
-Äàòà ñîçäàíèÿ: {=Document:DATE_CREATE}
-Íàçâàíèå: {=Document:NAME}
-Òèï: {=Document:PROPERTY_TYPE}
-
-{=Variable:Link}{=Document:ID}/";
-$MESS["LIBTA_T_SMA_MESSAGE_10"] = "Ñîîáùåíèå: ñ÷åò íå óòâåðæäåí";
-$MESS["LIBTA_T_SPAX5"] = "Óñòàíîâêà ïðàâ: ôèíàëüíàÿ";
-$MESS["LIBTA_V_BK"] = "Áóõãàëòåðèÿ (óòâåðæäåíèå îïëàòû)";
-$MESS["LIBTA_V_MNG"] = "Ðóêîâîäñòâî";
-$MESS["LIBTA_V_APPRU"] = "Óòâåðæäàþùèé";
-$MESS["LIBTA_V_BKP"] = "Áóõãàëòåðèÿ (îïëàòà ñ÷åòà)";
-$MESS["LIBTA_V_BKD"] = "Áóõãàëòåðèÿ (ñáîð äîêóìåíòû)";
-$MESS["LIBTA_V_MAPPR"] = "Ðóêîâîäñòâî (óòâåðæäåíèå ñ÷åòà)";
-$MESS["LIBTA_V_LINK"] = "Ññûëêà íà ñïèñîê ñ÷åòîâ";
-$MESS["LIBTA_V_TLINK"] = "Ññûëêà íà ñïèñîê çàäàíèé";
-$MESS["LIBTA_V_PDATE"] = "Äàòà îïëàòû";
-$MESS["LIBTA_V_PNUM"] = "Íîìåð ï/ï";
-$MESS["LIBTA_V_APPR"] = "Ïîäòâåðäèë îïëàòó";
-$MESS["LIBTA_BP_TITLE"] = "Ñ÷åòà";
-$MESS["LIBTA_RIA10_NAME"] = "Îïëàòèòü ñ÷åò \"{=Document:NAME}\"";
-$MESS["LIBTA_RIA10_DESCR"] = "Îïëàòèòü ñ÷åò
-
-Îïëàòà ïîäòâåðæäåíà: {=Variable:PaymentApprover_printable}
-Ñ÷åò óòâåðæäåí: {=Variable:Approver_printable}
-Êåì ñîçäàí: {=Document:CREATED_BY_PRINTABLE}
-Äàòà ñîçäàíèÿ: {=Document:DATE_CREATE}
-Íàçâàíèå: {=Document:NAME}
-Òèï: {=Document:PROPERTY_TYPE}
-Íîìåð è äàòà ñ÷åòà: {=Document:PROPERTY_NUM_DATE}
-Ñóììà: {=Document:PROPERTY_SUM}
-Ñòàòüÿ áþäæåòà: {=Document:PROPERTY_BDT}
-Ôàéë: {=Variable:Domain}{=Document:PROPERTY_FILE}
+Ð”Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ: {=Document:DATE_CREATE}
+ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ: {=Document:NAME}
+Ð¢Ð¸Ð¿: {=Document:PROPERTY_TYPE}
 
 {=Variable:Link}{=Document:ID}/";
-$MESS["LIBTA_RIA10_R1"] = "Äàòà îïëàòû";
-$MESS["LIBTA_RIA10_R2"] = "Íîìåð ï/ï";
-$MESS["LIBTA_T_RIA10"] = "Îïëàòà ñ÷åòà";
-$MESS["LIBTA_RRA15_NAME"] = "Ñîáðàòü äîêóìåíòû ïî ñ÷åòó \"{=Document:NAME}\"";
-$MESS["LIBTA_RRA15_DESCR"] = "Ñîáðàòü äîêóìåíòû ïî ñ÷åòó
+$MESS["LIBTA_T_SMA_MESSAGE_9"] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ: Ð¾Ð¿Ð»Ð°Ñ‚Ð° Ð½Ðµ Ð¿Ð¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð°";
+$MESS["LIBTA_T_IFELSEBA4"] = "ÐÐµÑ‚";
+$MESS["LIBTA_SMA_MESSAGE_10"] = "Ð¡Ñ‡ÐµÑ‚ Ð½Ðµ ÑƒÑ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½
 
-Îïëàòà ïîäòâåðæäåíà: {=Variable:PaymentApprover_printable}
-Ñ÷åò óòâåðæäåí: {=Variable:Approver_printable}
-Êåì ñîçäàí: {=Document:CREATED_BY_PRINTABLE}
-Äàòà ñîçäàíèÿ: {=Document:DATE_CREATE}
-Íàçâàíèå: {=Document:NAME}
-Òèï: {=Document:PROPERTY_TYPE}
-Íîìåð è äàòà ñ÷åòà: {=Document:PROPERTY_NUM_DATE}
-Ñóììà: {=Document:PROPERTY_SUM}
-Ñòàòüÿ áþäæåòà: {=Document:PROPERTY_BDT}
-Ôàéë: {=Variable:Domain}{=Document:PROPERTY_FILE}
+Ð”Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ: {=Document:DATE_CREATE}
+ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ: {=Document:NAME}
+Ð¢Ð¸Ð¿: {=Document:PROPERTY_TYPE}
+
+{=Variable:Link}{=Document:ID}/";
+$MESS["LIBTA_T_SMA_MESSAGE_10"] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ: ÑÑ‡ÐµÑ‚ Ð½Ðµ ÑƒÑ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½";
+$MESS["LIBTA_T_SPAX5"] = "Ð£ÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ° Ð¿Ñ€Ð°Ð²: Ñ„Ð¸Ð½Ð°Ð»ÑŒÐ½Ð°Ñ";
+$MESS["LIBTA_V_BK"] = "Ð‘ÑƒÑ…Ð³Ð°Ð»Ñ‚ÐµÑ€Ð¸Ñ (ÑƒÑ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð¸Ðµ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹)";
+$MESS["LIBTA_V_MNG"] = "Ð ÑƒÐºÐ¾Ð²Ð¾Ð´ÑÑ‚Ð²Ð¾";
+$MESS["LIBTA_V_APPRU"] = "Ð£Ñ‚Ð²ÐµÑ€Ð¶Ð´Ð°ÑŽÑ‰Ð¸Ð¹";
+$MESS["LIBTA_V_BKP"] = "Ð‘ÑƒÑ…Ð³Ð°Ð»Ñ‚ÐµÑ€Ð¸Ñ (Ð¾Ð¿Ð»Ð°Ñ‚Ð° ÑÑ‡ÐµÑ‚Ð°)";
+$MESS["LIBTA_V_BKD"] = "Ð‘ÑƒÑ…Ð³Ð°Ð»Ñ‚ÐµÑ€Ð¸Ñ (ÑÐ±Ð¾Ñ€ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ñ‹)";
+$MESS["LIBTA_V_MAPPR"] = "Ð ÑƒÐºÐ¾Ð²Ð¾Ð´ÑÑ‚Ð²Ð¾ (ÑƒÑ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð¸Ðµ ÑÑ‡ÐµÑ‚Ð°)";
+$MESS["LIBTA_V_LINK"] = "Ð¡ÑÑ‹Ð»ÐºÐ° Ð½Ð° ÑÐ¿Ð¸ÑÐ¾Ðº ÑÑ‡ÐµÑ‚Ð¾Ð²";
+$MESS["LIBTA_V_TLINK"] = "Ð¡ÑÑ‹Ð»ÐºÐ° Ð½Ð° ÑÐ¿Ð¸ÑÐ¾Ðº Ð·Ð°Ð´Ð°Ð½Ð¸Ð¹";
+$MESS["LIBTA_V_PDATE"] = "Ð”Ð°Ñ‚Ð° Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹";
+$MESS["LIBTA_V_PNUM"] = "ÐÐ¾Ð¼ÐµÑ€ Ð¿/Ð¿";
+$MESS["LIBTA_V_APPR"] = "ÐŸÐ¾Ð´Ñ‚Ð²ÐµÑ€Ð´Ð¸Ð» Ð¾Ð¿Ð»Ð°Ñ‚Ñƒ";
+$MESS["LIBTA_BP_TITLE"] = "Ð¡Ñ‡ÐµÑ‚Ð°";
+$MESS["LIBTA_RIA10_NAME"] = "ÐžÐ¿Ð»Ð°Ñ‚Ð¸Ñ‚ÑŒ ÑÑ‡ÐµÑ‚ \"{=Document:NAME}\"";
+$MESS["LIBTA_RIA10_DESCR"] = "ÐžÐ¿Ð»Ð°Ñ‚Ð¸Ñ‚ÑŒ ÑÑ‡ÐµÑ‚
+
+ÐžÐ¿Ð»Ð°Ñ‚Ð° Ð¿Ð¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð°: {=Variable:PaymentApprover_printable}
+Ð¡Ñ‡ÐµÑ‚ ÑƒÑ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½: {=Variable:Approver_printable}
+ÐšÐµÐ¼ ÑÐ¾Ð·Ð´Ð°Ð½: {=Document:CREATED_BY_PRINTABLE}
+Ð”Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ: {=Document:DATE_CREATE}
+ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ: {=Document:NAME}
+Ð¢Ð¸Ð¿: {=Document:PROPERTY_TYPE}
+ÐÐ¾Ð¼ÐµÑ€ Ð¸ Ð´Ð°Ñ‚Ð° ÑÑ‡ÐµÑ‚Ð°: {=Document:PROPERTY_NUM_DATE}
+Ð¡ÑƒÐ¼Ð¼Ð°: {=Document:PROPERTY_SUM}
+Ð¡Ñ‚Ð°Ñ‚ÑŒÑ Ð±ÑŽÐ´Ð¶ÐµÑ‚Ð°: {=Document:PROPERTY_BDT}
+Ð¤Ð°Ð¹Ð»: {=Variable:Domain}{=Document:PROPERTY_FILE}
+
+{=Variable:Link}{=Document:ID}/";
+$MESS["LIBTA_RIA10_R1"] = "Ð”Ð°Ñ‚Ð° Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹";
+$MESS["LIBTA_RIA10_R2"] = "ÐÐ¾Ð¼ÐµÑ€ Ð¿/Ð¿";
+$MESS["LIBTA_T_RIA10"] = "ÐžÐ¿Ð»Ð°Ñ‚Ð° ÑÑ‡ÐµÑ‚Ð°";
+$MESS["LIBTA_RRA15_NAME"] = "Ð¡Ð¾Ð±Ñ€Ð°Ñ‚ÑŒ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ñ‹ Ð¿Ð¾ ÑÑ‡ÐµÑ‚Ñƒ \"{=Document:NAME}\"";
+$MESS["LIBTA_RRA15_DESCR"] = "Ð¡Ð¾Ð±Ñ€Ð°Ñ‚ÑŒ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ñ‹ Ð¿Ð¾ ÑÑ‡ÐµÑ‚Ñƒ
+
+ÐžÐ¿Ð»Ð°Ñ‚Ð° Ð¿Ð¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð°: {=Variable:PaymentApprover_printable}
+Ð¡Ñ‡ÐµÑ‚ ÑƒÑ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½: {=Variable:Approver_printable}
+ÐšÐµÐ¼ ÑÐ¾Ð·Ð´Ð°Ð½: {=Document:CREATED_BY_PRINTABLE}
+Ð”Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ: {=Document:DATE_CREATE}
+ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ: {=Document:NAME}
+Ð¢Ð¸Ð¿: {=Document:PROPERTY_TYPE}
+ÐÐ¾Ð¼ÐµÑ€ Ð¸ Ð´Ð°Ñ‚Ð° ÑÑ‡ÐµÑ‚Ð°: {=Document:PROPERTY_NUM_DATE}
+Ð¡ÑƒÐ¼Ð¼Ð°: {=Document:PROPERTY_SUM}
+Ð¡Ñ‚Ð°Ñ‚ÑŒÑ Ð±ÑŽÐ´Ð¶ÐµÑ‚Ð°: {=Document:PROPERTY_BDT}
+Ð¤Ð°Ð¹Ð»: {=Variable:Domain}{=Document:PROPERTY_FILE}
 
 {=Variable:Link}{=Document:ID}/
 
-ÂÍÈÌÀÍÈÅ! Äîêóìåíòû äîëæíû áûòü ñäàíû â òå÷åíèå 5 äíåé ïîñëå îêàçàíèÿ óñëóã!";
-$MESS["LIBTA_RRA15_SM"] = "Ñáîð äîêóìåíòîâ";
-$MESS["LIBTA_RRA15_TASKBUTTON"] = "Äîêóìåíòû ñîáðàíû";
-$MESS["LIBTA_T_RRA15"] = "Äîêóìåíòû ïî ñ÷åòó";
-$MESS["LIBTA_RRA17_NAME"] = "Ïîäòâåðäèòü ïîëó÷åíèå äîêóìåíòîâ ïî ñ÷åòó \"{=Document:NAME}\"";
-$MESS["LIBTA_RRA17_DESCR"] = "Ïîëó÷åíèå äîêóìåíòîâ ïî ñ÷åòó ïîäòâåðæäàþ.
+Ð’ÐÐ˜ÐœÐÐÐ˜Ð•! Ð”Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ñ‹ Ð´Ð¾Ð»Ð¶Ð½Ñ‹ Ð±Ñ‹Ñ‚ÑŒ ÑÐ´Ð°Ð½Ñ‹ Ð² Ñ‚ÐµÑ‡ÐµÐ½Ð¸Ðµ 5 Ð´Ð½ÐµÐ¹ Ð¿Ð¾ÑÐ»Ðµ Ð¾ÐºÐ°Ð·Ð°Ð½Ð¸Ñ ÑƒÑÐ»ÑƒÐ³!";
+$MESS["LIBTA_RRA15_SM"] = "Ð¡Ð±Ð¾Ñ€ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð¾Ð²";
+$MESS["LIBTA_RRA15_TASKBUTTON"] = "Ð”Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ñ‹ ÑÐ¾Ð±Ñ€Ð°Ð½Ñ‹";
+$MESS["LIBTA_T_RRA15"] = "Ð”Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ñ‹ Ð¿Ð¾ ÑÑ‡ÐµÑ‚Ñƒ";
+$MESS["LIBTA_RRA17_NAME"] = "ÐŸÐ¾Ð´Ñ‚Ð²ÐµÑ€Ð´Ð¸Ñ‚ÑŒ Ð¿Ð¾Ð»ÑƒÑ‡ÐµÐ½Ð¸Ðµ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð¾Ð² Ð¿Ð¾ ÑÑ‡ÐµÑ‚Ñƒ \"{=Document:NAME}\"";
+$MESS["LIBTA_RRA17_DESCR"] = "ÐŸÐ¾Ð»ÑƒÑ‡ÐµÐ½Ð¸Ðµ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð¾Ð² Ð¿Ð¾ ÑÑ‡ÐµÑ‚Ñƒ Ð¿Ð¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´Ð°ÑŽ.
 
-Äàòà îïëàòû: {=Document:PROPERTY_DATE_PAY}
-Íîìåð ï/ï: {=Document:PROPERTY_NUM_PAY}
-Îïëàòà ïîäòâåðæäåíà: {=Variable:PaymentApprover_printable}
-Ñ÷åò óòâåðæäåí: {=Variable:Approver_printable}
-Êåì ñîçäàí: {=Document:CREATED_BY_PRINTABLE}
-Äàòà ñîçäàíèÿ: {=Document:DATE_CREATE}
-Íàçâàíèå: {=Document:NAME}
-Òèï: {=Document:PROPERTY_TYPE}
-Íîìåð è äàòà ñ÷åòà: {=Document:PROPERTY_NUM_DATE}
-Ñóììà: {=Document:PROPERTY_SUM}
-Ñòàòüÿ áþäæåòà: {=Document:PROPERTY_BDT}
-Ôàéë: {=Variable:Domain}{=Document:PROPERTY_FILE}
+Ð”Ð°Ñ‚Ð° Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹: {=Document:PROPERTY_DATE_PAY}
+ÐÐ¾Ð¼ÐµÑ€ Ð¿/Ð¿: {=Document:PROPERTY_NUM_PAY}
+ÐžÐ¿Ð»Ð°Ñ‚Ð° Ð¿Ð¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð°: {=Variable:PaymentApprover_printable}
+Ð¡Ñ‡ÐµÑ‚ ÑƒÑ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½: {=Variable:Approver_printable}
+ÐšÐµÐ¼ ÑÐ¾Ð·Ð´Ð°Ð½: {=Document:CREATED_BY_PRINTABLE}
+Ð”Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ: {=Document:DATE_CREATE}
+ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ: {=Document:NAME}
+Ð¢Ð¸Ð¿: {=Document:PROPERTY_TYPE}
+ÐÐ¾Ð¼ÐµÑ€ Ð¸ Ð´Ð°Ñ‚Ð° ÑÑ‡ÐµÑ‚Ð°: {=Document:PROPERTY_NUM_DATE}
+Ð¡ÑƒÐ¼Ð¼Ð°: {=Document:PROPERTY_SUM}
+Ð¡Ñ‚Ð°Ñ‚ÑŒÑ Ð±ÑŽÐ´Ð¶ÐµÑ‚Ð°: {=Document:PROPERTY_BDT}
+Ð¤Ð°Ð¹Ð»: {=Variable:Domain}{=Document:PROPERTY_FILE}
 
 {=Variable:Link}{=Document:ID}/";
-$MESS["LIBTA_RRA17_BUTTON"] = "Äîêóìåíòû ïîëó÷åíû";
-$MESS["LIBTA_T_RRA17_NAME"] = "Äîêóìåíòû ïîëó÷åíû";
-$MESS["LIBTA_V_DOMAIN"] = "Äîìåí";
+$MESS["LIBTA_RRA17_BUTTON"] = "Ð”Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ñ‹ Ð¿Ð¾Ð»ÑƒÑ‡ÐµÐ½Ñ‹";
+$MESS["LIBTA_T_RRA17_NAME"] = "Ð”Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ñ‹ Ð¿Ð¾Ð»ÑƒÑ‡ÐµÐ½Ñ‹";
+$MESS["LIBTA_V_DOMAIN"] = "Ð”Ð¾Ð¼ÐµÐ½";
 ?>

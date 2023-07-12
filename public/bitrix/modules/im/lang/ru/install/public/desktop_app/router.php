@@ -1,3 +1,3 @@
 <?
-$MESS["IM_ROUTER_PAGE_TITLE"] = "×àò è çâîíêè";
+$MESS["IM_ROUTER_PAGE_TITLE"] = "Ð§Ð°Ñ‚ Ð¸ Ð·Ð²Ð¾Ð½ÐºÐ¸";
 ?>

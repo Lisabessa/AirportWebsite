@@ -1,9 +1,9 @@
 <?
-$MESS ['BLOG_NAME_CHANGE'] = "Èçìåíèòü íàçâàíèå òåãà";
-$MESS ['BLOG_GROUP_DELETE'] = "Óäàëèòü òåã";
-$MESS ['BLOG_GROUP_ADD'] = "Äîáàâèòü òåã";
-$MESS ['BLOG_ADD'] = "Äîáàâèòü";
-$MESS ['BLOG_GROUP_NAME'] = "Íàçâàíèå òåãà:";
-$MESS ['BLOG_CANCEL'] = "Îòìåíà";
-$MESS ['BLOG_CONFIRM_DELETE'] = "Åñòü ñîîáùåíèÿ ñ ýòèì òåãîì. Âû óâåðåíû, ÷òî õîòèòå åãî óäàëèòü?";
+$MESS ['BLOG_NAME_CHANGE'] = "Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ð½Ð°Ð·Ð²Ð°Ð½Ð¸Ðµ Ñ‚ÐµÐ³Ð°";
+$MESS ['BLOG_GROUP_DELETE'] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ Ñ‚ÐµÐ³";
+$MESS ['BLOG_GROUP_ADD'] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ñ‚ÐµÐ³";
+$MESS ['BLOG_ADD'] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ";
+$MESS ['BLOG_GROUP_NAME'] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ñ‚ÐµÐ³Ð°:";
+$MESS ['BLOG_CANCEL'] = "ÐžÑ‚Ð¼ÐµÐ½Ð°";
+$MESS ['BLOG_CONFIRM_DELETE'] = "Ð•ÑÑ‚ÑŒ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ Ñ ÑÑ‚Ð¸Ð¼ Ñ‚ÐµÐ³Ð¾Ð¼. Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹, Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÐµÐ³Ð¾ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ?";
 ?>

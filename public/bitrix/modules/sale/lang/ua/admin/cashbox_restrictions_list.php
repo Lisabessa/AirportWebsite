@@ -1,14 +1,14 @@
 <?
-$MESS["SALE_ESDL_ACCESS_DENIED"] = "Äîñòóï çàáîðîíåíî";
-$MESS["SALE_RDL_LIST"] = "Ñïèñîê îáìåæåíü";
-$MESS["SALE_RDL_COL_ID"] = "²äåíòèô³êàòîð";
-$MESS["SALE_RDL_COL_SORT"] = "Ñîðòóâàííÿ";
-$MESS["SALE_RDL_COL_CLASS_NAME"] = "Òèï îáìåæåííÿ";
-$MESS["SALE_RDL_COL_PARAMS"] = "Ïàðàìåòðè";
-$MESS["SALE_RDL_BUT_ADD_NEW"] = "Äîäàòè îáìåæåííÿ";
-$MESS["SALE_RDL_RESTRICTION"] = "Îáìåæåííÿ";
-$MESS["SALE_RDL_SAVE"] = "Çáåðåãòè";
-$MESS["SALE_RDL_EDIT_DESCR"] = "Ðåäàãóâàòè";
-$MESS["SALE_RDL_DELETE"] = "Âèäàëèòè";
-$MESS["SALE_RDL_CONFIRM_DEL_MESSAGE"] = "Âè âïåâíåí³, ùî áàæàºòå âèäàëèòè öå îáìåæåííÿ?";
+$MESS["SALE_ESDL_ACCESS_DENIED"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ð·Ð°Ð±Ð¾Ñ€Ð¾Ð½ÐµÐ½Ð¾";
+$MESS["SALE_RDL_LIST"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð¾Ð±Ð¼ÐµÐ¶ÐµÐ½ÑŒ";
+$MESS["SALE_RDL_COL_ID"] = "Ð†Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÐ°Ñ‚Ð¾Ñ€";
+$MESS["SALE_RDL_COL_SORT"] = "Ð¡Ð¾Ñ€Ñ‚ÑƒÐ²Ð°Ð½Ð½Ñ";
+$MESS["SALE_RDL_COL_CLASS_NAME"] = "Ð¢Ð¸Ð¿ Ð¾Ð±Ð¼ÐµÐ¶ÐµÐ½Ð½Ñ";
+$MESS["SALE_RDL_COL_PARAMS"] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð¸";
+$MESS["SALE_RDL_BUT_ADD_NEW"] = "Ð”Ð¾Ð´Ð°Ñ‚Ð¸ Ð¾Ð±Ð¼ÐµÐ¶ÐµÐ½Ð½Ñ";
+$MESS["SALE_RDL_RESTRICTION"] = "ÐžÐ±Ð¼ÐµÐ¶ÐµÐ½Ð½Ñ";
+$MESS["SALE_RDL_SAVE"] = "Ð—Ð±ÐµÑ€ÐµÐ³Ñ‚Ð¸";
+$MESS["SALE_RDL_EDIT_DESCR"] = "Ð ÐµÐ´Ð°Ð³ÑƒÐ²Ð°Ñ‚Ð¸";
+$MESS["SALE_RDL_DELETE"] = "Ð’Ð¸Ð´Ð°Ð»Ð¸Ñ‚Ð¸";
+$MESS["SALE_RDL_CONFIRM_DEL_MESSAGE"] = "Ð’Ð¸ Ð²Ð¿ÐµÐ²Ð½ÐµÐ½Ñ–, Ñ‰Ð¾ Ð±Ð°Ð¶Ð°Ñ”Ñ‚Ðµ Ð²Ð¸Ð´Ð°Ð»Ð¸Ñ‚Ð¸ Ñ†Ðµ Ð¾Ð±Ð¼ÐµÐ¶ÐµÐ½Ð½Ñ?";
 ?>

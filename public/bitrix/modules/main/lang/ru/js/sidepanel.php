@@ -1,6 +1,6 @@
 <?
-$MESS["MAIN_SIDEPANEL_CLOSE"] = "Çàêðûòü";
-$MESS["MAIN_SIDEPANEL_PRINT"] = "Ïå÷àòü";
-$MESS["MAIN_SIDEPANEL_NEW_WINDOW"] = "Îòêðûòü â íîâîì îêíå";
-$MESS["MAIN_SIDEPANEL_COPY_LINK"] = "Ñêîïèðîâàòü ññûëêó";
+$MESS["MAIN_SIDEPANEL_CLOSE"] = "Ð—Ð°ÐºÑ€Ñ‹Ñ‚ÑŒ";
+$MESS["MAIN_SIDEPANEL_PRINT"] = "ÐŸÐµÑ‡Ð°Ñ‚ÑŒ";
+$MESS["MAIN_SIDEPANEL_NEW_WINDOW"] = "ÐžÑ‚ÐºÑ€Ñ‹Ñ‚ÑŒ Ð² Ð½Ð¾Ð²Ð¾Ð¼ Ð¾ÐºÐ½Ðµ";
+$MESS["MAIN_SIDEPANEL_COPY_LINK"] = "Ð¡ÐºÐ¾Ð¿Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ ÑÑÑ‹Ð»ÐºÑƒ";
 

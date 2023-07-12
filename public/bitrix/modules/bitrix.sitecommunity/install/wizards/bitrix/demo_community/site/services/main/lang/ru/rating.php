@@ -1,5 +1,5 @@
 <?
-$MESS["MAIN_RATING_NAME"] = "Ðåéòèíã";
-$MESS["MAIN_RATING_AUTHORITY"] = "Àâòîðèòåò";
-$MESS["MAIN_RATING_RULE_NAME"] = "Äîáàâëåíèå â ãðóïïó";
+$MESS["MAIN_RATING_NAME"] = "Ð ÐµÐ¹Ñ‚Ð¸Ð½Ð³";
+$MESS["MAIN_RATING_AUTHORITY"] = "ÐÐ²Ñ‚Ð¾Ñ€Ð¸Ñ‚ÐµÑ‚";
+$MESS["MAIN_RATING_RULE_NAME"] = "Ð”Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ð² Ð³Ñ€ÑƒÐ¿Ð¿Ñƒ";
 ?>

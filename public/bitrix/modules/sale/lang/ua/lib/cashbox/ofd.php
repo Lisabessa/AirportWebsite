@@ -1,4 +1,4 @@
 <?
-$MESS["SALE_CASHBOX_OFD_SETTINGS"] = "Ðåæèì ðîáîòè";
-$MESS["SALE_CASHBOX_OFD_TEST_MODE"] = "Òåñòîâèé ðåæèì ðîáîòè ÎÔÄ";
+$MESS["SALE_CASHBOX_OFD_SETTINGS"] = "Ð ÐµÐ¶Ð¸Ð¼ Ñ€Ð¾Ð±Ð¾Ñ‚Ð¸";
+$MESS["SALE_CASHBOX_OFD_TEST_MODE"] = "Ð¢ÐµÑÑ‚Ð¾Ð²Ð¸Ð¹ Ñ€ÐµÐ¶Ð¸Ð¼ Ñ€Ð¾Ð±Ð¾Ñ‚Ð¸ ÐžÐ¤Ð”";
 ?>

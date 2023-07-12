@@ -1,3 +1,3 @@
 <?php
-$MESS["SALE_HPS_PAYPAL_BUTTON"] = "Îïëàòèòü ÷åðåç PayPal";
+$MESS["SALE_HPS_PAYPAL_BUTTON"] = "ÐžÐ¿Ð»Ð°Ñ‚Ð¸Ñ‚ÑŒ Ñ‡ÐµÑ€ÐµÐ· PayPal";
 $MESS["SALE_HPS_PAYPAL_BUTTON_SRC_DATA"] = "//www.1c-bitrix.ru/download/sale/paypal.jpg";

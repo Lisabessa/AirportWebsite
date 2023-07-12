@@ -1,19 +1,19 @@
 <?
-$MESS["REGISTERED_USERS"] = "Çàðåãèñòðèðîâàííûå ïîëüçîâàòåëè";
-$MESS["COMMUNITY_WIZARD_ADMINISTRATOR"] = "Àäìèíèñòðàòîðû êëóáà";
-$MESS["COMMUNITY_WIZARD_ADMINISTRATOR_DESCR"] = "Ïîëüçîâàòåëè ìîãóò ìîäåðèðîâàòü âñå ðåñóðñû ñîîáùåñòâà";
-$MESS["TASK_WIZARD_CONTENT_EDITOR"] = "Èçìåíåíèå ñâîåãî ïðîôàéëà. Óïðàâëåíèå êåøåì";
-$MESS["TASK_WIZARD_CONTENT_EDITOR_DESC"] = "Ðàçðåøåíî èçìåíÿòü èíôîðìàöèþ â ñâîåì ïðîôàéëå. Óïðàâëåíèå êåøåì";
-$MESS["TASK_WIZARD_USER_NAME_1"] = "Ñåðãåé";
-$MESS["TASK_WIZARD_USER_SURNAME_1"] = "Èâàíîâ";
+$MESS["REGISTERED_USERS"] = "Ð—Ð°Ñ€ÐµÐ³Ð¸ÑÑ‚Ñ€Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ñ‹Ðµ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ð¸";
+$MESS["COMMUNITY_WIZARD_ADMINISTRATOR"] = "ÐÐ´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¾Ñ€Ñ‹ ÐºÐ»ÑƒÐ±Ð°";
+$MESS["COMMUNITY_WIZARD_ADMINISTRATOR_DESCR"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ð¸ Ð¼Ð¾Ð³ÑƒÑ‚ Ð¼Ð¾Ð´ÐµÑ€Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ð²ÑÐµ Ñ€ÐµÑÑƒÑ€ÑÑ‹ ÑÐ¾Ð¾Ð±Ñ‰ÐµÑÑ‚Ð²Ð°";
+$MESS["TASK_WIZARD_CONTENT_EDITOR"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ ÑÐ²Ð¾ÐµÐ³Ð¾ Ð¿Ñ€Ð¾Ñ„Ð°Ð¹Ð»Ð°. Ð£Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ ÐºÐµÑˆÐµÐ¼";
+$MESS["TASK_WIZARD_CONTENT_EDITOR_DESC"] = "Ð Ð°Ð·Ñ€ÐµÑˆÐµÐ½Ð¾ Ð¸Ð·Ð¼ÐµÐ½ÑÑ‚ÑŒ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸ÑŽ Ð² ÑÐ²Ð¾ÐµÐ¼ Ð¿Ñ€Ð¾Ñ„Ð°Ð¹Ð»Ðµ. Ð£Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ ÐºÐµÑˆÐµÐ¼";
+$MESS["TASK_WIZARD_USER_NAME_1"] = "Ð¡ÐµÑ€Ð³ÐµÐ¹";
+$MESS["TASK_WIZARD_USER_SURNAME_1"] = "Ð˜Ð²Ð°Ð½Ð¾Ð²";
 $MESS["TASK_WIZARD_USER_EMAIL_1"] = "ivanov@test.ru";
 $MESS["TASK_WIZARD_USER_LOGIN_1"] = "ivan";
-$MESS["TASK_WIZARD_USER_NAME_2"] = "Èâàí";
-$MESS["TASK_WIZARD_USER_SURNAME_2"] = "Ïåòðîâ";
+$MESS["TASK_WIZARD_USER_NAME_2"] = "Ð˜Ð²Ð°Ð½";
+$MESS["TASK_WIZARD_USER_SURNAME_2"] = "ÐŸÐµÑ‚Ñ€Ð¾Ð²";
 $MESS["TASK_WIZARD_USER_EMAIL_2"] = "petrov@test.ru";
 $MESS["TASK_WIZARD_USER_LOGIN_2"] = "petrov";
-$MESS["TASK_WIZARD_USER_NAME_3"] = "Âèêòîðèÿ";
-$MESS["TASK_WIZARD_USER_SURNAME_3"] = "Ôàäååâà";
+$MESS["TASK_WIZARD_USER_NAME_3"] = "Ð’Ð¸ÐºÑ‚Ð¾Ñ€Ð¸Ñ";
+$MESS["TASK_WIZARD_USER_SURNAME_3"] = "Ð¤Ð°Ð´ÐµÐµÐ²Ð°";
 $MESS["TASK_WIZARD_USER_EMAIL_3"] = "fadeeva@test.ru";
 $MESS["TASK_WIZARD_USER_LOGIN_3"] = "viktoriya";
 ?>

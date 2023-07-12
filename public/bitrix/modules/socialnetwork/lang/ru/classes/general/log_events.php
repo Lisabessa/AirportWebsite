@@ -1,12 +1,12 @@
 <?
-$MESS ['SONET_LE_EMPTY_ENTITY_TYPE'] = "Íå óêàçàí òèï ñóùíîñòè";
-$MESS ['SONET_LE_ERROR_NO_ENTITY_TYPE'] = "Òèï ñóùíîñòè íå âåðåí";
-$MESS ['SONET_LE_EMPTY_ENTITY_ID'] = "Íå óêàçàí êîä ñóùíîñòè";
-$MESS ['SONET_LE_ERROR_CALC_ENTITY_TYPE'] = "Îøèáêà âû÷èñëåíèÿ òèïà ñóùíîñòè";
-$MESS ['SONET_LE_ERROR_NO_ENTITY_ID'] = "Êîä ñóùíîñòè íå âåðåí";
-$MESS ['SONET_LE_EMPTY_EVENT_ID'] = "Íå óêàçàíî ñîáûòèå";
-$MESS ['SONET_LE_ERROR_NO_FEATURE_ID'] = "Ñîáûòèå óêàçàíî íå âåðíî";
-$MESS ['SONET_LE_EMPTY_SITE_ID'] = "Íå óêàçàí ñàéò";
-$MESS ['SONET_LE_ERROR_NO_SITE'] = "Ñàéò óêàçàí íå âåðíî";
-$MESS ['SONET_LE_WRONG_PARAMETER_ID'] = "Ïàðàìåòð ID íå âåðåí";
+$MESS ['SONET_LE_EMPTY_ENTITY_TYPE'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ñ‚Ð¸Ð¿ ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸";
+$MESS ['SONET_LE_ERROR_NO_ENTITY_TYPE'] = "Ð¢Ð¸Ð¿ ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸ Ð½Ðµ Ð²ÐµÑ€ÐµÐ½";
+$MESS ['SONET_LE_EMPTY_ENTITY_ID'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ ÐºÐ¾Ð´ ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸";
+$MESS ['SONET_LE_ERROR_CALC_ENTITY_TYPE'] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð²Ñ‹Ñ‡Ð¸ÑÐ»ÐµÐ½Ð¸Ñ Ñ‚Ð¸Ð¿Ð° ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸";
+$MESS ['SONET_LE_ERROR_NO_ENTITY_ID'] = "ÐšÐ¾Ð´ ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸ Ð½Ðµ Ð²ÐµÑ€ÐµÐ½";
+$MESS ['SONET_LE_EMPTY_EVENT_ID'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ðµ";
+$MESS ['SONET_LE_ERROR_NO_FEATURE_ID'] = "Ð¡Ð¾Ð±Ñ‹Ñ‚Ð¸Ðµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾ Ð½Ðµ Ð²ÐµÑ€Ð½Ð¾";
+$MESS ['SONET_LE_EMPTY_SITE_ID'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ ÑÐ°Ð¹Ñ‚";
+$MESS ['SONET_LE_ERROR_NO_SITE'] = "Ð¡Ð°Ð¹Ñ‚ ÑƒÐºÐ°Ð·Ð°Ð½ Ð½Ðµ Ð²ÐµÑ€Ð½Ð¾";
+$MESS ['SONET_LE_WRONG_PARAMETER_ID'] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€ ID Ð½Ðµ Ð²ÐµÑ€ÐµÐ½";
 ?>

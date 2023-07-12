@@ -1,8 +1,8 @@
 <?
-$MESS["BIZPROC_MAIL_TEMPLATE_NAME"] = "Ñîîáùåíèå äåéñòâèÿ îòïðàâêè ïî÷òû";
-$MESS["BIZPROC_HTML_MAIL_TEMPLATE_NAME"] = "Ñîîáùåíèå äåéñòâèÿ îòïðàâêè ïî÷òû (HTML)";
-$MESS["BIZPROC_MAIL_TEMPLATE_DESC"] = "#SENDER# - Îòïðàâèòåëü ñîîáùåíèÿ
-#RECEIVER# - Ïîëó÷àòåëü ñîîáùåíèÿ
-#TITLE# - Çàãîëîâîê ñîîáùåíèÿ
-#MESSAGE# - Ñîîáùåíèå";
+$MESS["BIZPROC_MAIL_TEMPLATE_NAME"] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²ÐºÐ¸ Ð¿Ð¾Ñ‡Ñ‚Ñ‹";
+$MESS["BIZPROC_HTML_MAIL_TEMPLATE_NAME"] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²ÐºÐ¸ Ð¿Ð¾Ñ‡Ñ‚Ñ‹ (HTML)";
+$MESS["BIZPROC_MAIL_TEMPLATE_DESC"] = "#SENDER# - ÐžÑ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»ÑŒ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
+#RECEIVER# - ÐŸÐ¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»ÑŒ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
+#TITLE# - Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
+#MESSAGE# - Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ";
 ?>

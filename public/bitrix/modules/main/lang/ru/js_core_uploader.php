@@ -1,18 +1,18 @@
 <?
-$MESS["UPLOADER_INPUT_IS_NOT_DEFINED"] = "Íå óêàçàíî ïîëå ââîäà.";
-$MESS["UPLOADER_ACTION_URL_NOT_DEFINED"] = "Íå óêàçàí ïóòü äëÿ çàãðóçêè ôàéëîâ.";
-$MESS["FILE_BAD_SIZE"] = "Ïðåâûøåí ìàêñèìàëüíûé ðàçìåð çàãðóæàåìîãî ôàéëà";
-$MESS["FILE_SIZE_b"] = "Á";
-$MESS["FILE_SIZE_Kb"] = "ÊÁ";
-$MESS["FILE_SIZE_Mb"] = "ÌÁ";
-$MESS["FILE_SIZE_Gb"] = "ÃÁ";
-$MESS["FILE_SIZE_Tb"] = "ÒÁ";
-$MESS["UPLOADER_UPLOADING_ERROR"] = "Îøèáêà çàãðóçêè.";
-$MESS["UPLOADER_UPLOADING_ERROR1"] = "Íåêîððåêòíûé îòâåò ñåðâåðà.";
-$MESS["UPLOADER_UPLOADING_ERROR2"] = "Êîëè÷åñòâî ôàéëîâ óêàçàííîé ôîðìû ïðåâûøàåò äîïóñòèìîå çíà÷åíèå.";
-$MESS["UPLOADER_UPLOADING_ERROR4"] = "Ðàçìåð ôàéëà ïðåâûøàåò äîïóñòèìûé.";
-$MESS["UPLOADER_UPLOADING_ERROR5"] = "Íå ïîëó÷åí îòâåò îò ñåðâåðà.";
-$MESS["UPLOADER_UPLOADING_ERROR6"] = "Íå äîñòàòî÷íî ìåñòà íà ñåðâåðå. ";
-$MESS["UPLOADER_UPLOADING_ERROR3"] = "Ôàéë íå ñêëååí íà ñåðâåðå.";
-$MESS["UPLOADER_UPLOADING_ONBEFOREUNLOAD"] = "Çàãðóçêà ôàéëîâ íå çàâåðøåíà. Âû õîòèòå ïîêèíóòü ñòðàíèöó?";
+$MESS["UPLOADER_INPUT_IS_NOT_DEFINED"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾ Ð¿Ð¾Ð»Ðµ Ð²Ð²Ð¾Ð´Ð°.";
+$MESS["UPLOADER_ACTION_URL_NOT_DEFINED"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ð¿ÑƒÑ‚ÑŒ Ð´Ð»Ñ Ð·Ð°Ð³Ñ€ÑƒÐ·ÐºÐ¸ Ñ„Ð°Ð¹Ð»Ð¾Ð².";
+$MESS["FILE_BAD_SIZE"] = "ÐŸÑ€ÐµÐ²Ñ‹ÑˆÐµÐ½ Ð¼Ð°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ñ‹Ð¹ Ñ€Ð°Ð·Ð¼ÐµÑ€ Ð·Ð°Ð³Ñ€ÑƒÐ¶Ð°ÐµÐ¼Ð¾Ð³Ð¾ Ñ„Ð°Ð¹Ð»Ð°";
+$MESS["FILE_SIZE_b"] = "Ð‘";
+$MESS["FILE_SIZE_Kb"] = "ÐšÐ‘";
+$MESS["FILE_SIZE_Mb"] = "ÐœÐ‘";
+$MESS["FILE_SIZE_Gb"] = "Ð“Ð‘";
+$MESS["FILE_SIZE_Tb"] = "Ð¢Ð‘";
+$MESS["UPLOADER_UPLOADING_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð·Ð°Ð³Ñ€ÑƒÐ·ÐºÐ¸.";
+$MESS["UPLOADER_UPLOADING_ERROR1"] = "ÐÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ñ‹Ð¹ Ð¾Ñ‚Ð²ÐµÑ‚ ÑÐµÑ€Ð²ÐµÑ€Ð°.";
+$MESS["UPLOADER_UPLOADING_ERROR2"] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ñ„Ð°Ð¹Ð»Ð¾Ð² ÑƒÐºÐ°Ð·Ð°Ð½Ð½Ð¾Ð¹ Ñ„Ð¾Ñ€Ð¼Ñ‹ Ð¿Ñ€ÐµÐ²Ñ‹ÑˆÐ°ÐµÑ‚ Ð´Ð¾Ð¿ÑƒÑÑ‚Ð¸Ð¼Ð¾Ðµ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ.";
+$MESS["UPLOADER_UPLOADING_ERROR4"] = "Ð Ð°Ð·Ð¼ÐµÑ€ Ñ„Ð°Ð¹Ð»Ð° Ð¿Ñ€ÐµÐ²Ñ‹ÑˆÐ°ÐµÑ‚ Ð´Ð¾Ð¿ÑƒÑÑ‚Ð¸Ð¼Ñ‹Ð¹.";
+$MESS["UPLOADER_UPLOADING_ERROR5"] = "ÐÐµ Ð¿Ð¾Ð»ÑƒÑ‡ÐµÐ½ Ð¾Ñ‚Ð²ÐµÑ‚ Ð¾Ñ‚ ÑÐµÑ€Ð²ÐµÑ€Ð°.";
+$MESS["UPLOADER_UPLOADING_ERROR6"] = "ÐÐµ Ð´Ð¾ÑÑ‚Ð°Ñ‚Ð¾Ñ‡Ð½Ð¾ Ð¼ÐµÑÑ‚Ð° Ð½Ð° ÑÐµÑ€Ð²ÐµÑ€Ðµ. ";
+$MESS["UPLOADER_UPLOADING_ERROR3"] = "Ð¤Ð°Ð¹Ð» Ð½Ðµ ÑÐºÐ»ÐµÐµÐ½ Ð½Ð° ÑÐµÑ€Ð²ÐµÑ€Ðµ.";
+$MESS["UPLOADER_UPLOADING_ONBEFOREUNLOAD"] = "Ð—Ð°Ð³Ñ€ÑƒÐ·ÐºÐ° Ñ„Ð°Ð¹Ð»Ð¾Ð² Ð½Ðµ Ð·Ð°Ð²ÐµÑ€ÑˆÐµÐ½Ð°. Ð’Ñ‹ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ Ð¿Ð¾ÐºÐ¸Ð½ÑƒÑ‚ÑŒ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ?";
 ?>

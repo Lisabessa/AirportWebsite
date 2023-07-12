@@ -1,10 +1,10 @@
 <?
-$MESS ['BLOG_MENU_MY_BLOG'] = "Ìîé áëîã";
-$MESS ['BLOG_MENU_MY_BLOG_TITLE'] = "Ïåðåéòè â ñâîé áëîã";
-$MESS ['BLOG_MENU_PROFILE'] = "Ìîé ïðîôèëü";
-$MESS ['BLOG_MENU_PROFILE_TITLE'] = "Ïåðåéòè â ñâîé ïðîôèëü";
-$MESS ['BLOG_MENU_ADD_MESSAGE'] = "Íîâîå ñîîáùåíèå";
-$MESS ['BLOG_MENU_ADD_MESSAGE_TITLE'] = "Íàïèñàòü íîâîå ñîîáùåíèå";
-$MESS ['BLOG_MENU_SETTINGS'] = "Íàñòðîéêè";
-$MESS ['BLOG_MENU_SETTINGS_TITLE'] = "Ïåðåéòè â íàñòðîéêè áëîãà";
+$MESS ['BLOG_MENU_MY_BLOG'] = "ÐœÐ¾Ð¹ Ð±Ð»Ð¾Ð³";
+$MESS ['BLOG_MENU_MY_BLOG_TITLE'] = "ÐŸÐµÑ€ÐµÐ¹Ñ‚Ð¸ Ð² ÑÐ²Ð¾Ð¹ Ð±Ð»Ð¾Ð³";
+$MESS ['BLOG_MENU_PROFILE'] = "ÐœÐ¾Ð¹ Ð¿Ñ€Ð¾Ñ„Ð¸Ð»ÑŒ";
+$MESS ['BLOG_MENU_PROFILE_TITLE'] = "ÐŸÐµÑ€ÐµÐ¹Ñ‚Ð¸ Ð² ÑÐ²Ð¾Ð¹ Ð¿Ñ€Ð¾Ñ„Ð¸Ð»ÑŒ";
+$MESS ['BLOG_MENU_ADD_MESSAGE'] = "ÐÐ¾Ð²Ð¾Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ";
+$MESS ['BLOG_MENU_ADD_MESSAGE_TITLE'] = "ÐÐ°Ð¿Ð¸ÑÐ°Ñ‚ÑŒ Ð½Ð¾Ð²Ð¾Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ";
+$MESS ['BLOG_MENU_SETTINGS'] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸";
+$MESS ['BLOG_MENU_SETTINGS_TITLE'] = "ÐŸÐµÑ€ÐµÐ¹Ñ‚Ð¸ Ð² Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð±Ð»Ð¾Ð³Ð°";
 ?>

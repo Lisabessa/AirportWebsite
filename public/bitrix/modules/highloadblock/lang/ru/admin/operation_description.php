@@ -1,7 +1,7 @@
 <?php
-$MESS['OP_NAME_HL_ELEMENT_READ'] = '×òåíèå ýëåìåíòîâ';
-$MESS['OP_DESC_HL_ELEMENT_READ'] = 'Ðàçðåøåíî ÷òåíèå ýëåìåíòîâ highload-áëîêà.';
-$MESS['OP_NAME_HL_ELEMENT_WRITE'] = 'Èçìåíåíèå ýëåìåíòîâ';
-$MESS['OP_DESC_HL_ELEMENT_WRITE'] = 'Ðàçðåøåíî äîáàâëåíèå è èçìåíåíèå ýëåìåíòîâ highload-áëîêà.';
-$MESS['OP_NAME_HL_ELEMENT_DELETE'] = 'Óäàëåíèå ýëåìåíòîâ';
-$MESS['OP_DESC_HL_ELEMENT_DELETE'] = 'Ðàçðåøåíî óäàëåíèå ýëåìåíòîâ highload-áëîêà.';
+$MESS['OP_NAME_HL_ELEMENT_READ'] = 'Ð§Ñ‚ÐµÐ½Ð¸Ðµ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð²';
+$MESS['OP_DESC_HL_ELEMENT_READ'] = 'Ð Ð°Ð·Ñ€ÐµÑˆÐµÐ½Ð¾ Ñ‡Ñ‚ÐµÐ½Ð¸Ðµ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð² highload-Ð±Ð»Ð¾ÐºÐ°.';
+$MESS['OP_NAME_HL_ELEMENT_WRITE'] = 'Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð²';
+$MESS['OP_DESC_HL_ELEMENT_WRITE'] = 'Ð Ð°Ð·Ñ€ÐµÑˆÐµÐ½Ð¾ Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ð¸ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð² highload-Ð±Ð»Ð¾ÐºÐ°.';
+$MESS['OP_NAME_HL_ELEMENT_DELETE'] = 'Ð£Ð´Ð°Ð»ÐµÐ½Ð¸Ðµ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð²';
+$MESS['OP_DESC_HL_ELEMENT_DELETE'] = 'Ð Ð°Ð·Ñ€ÐµÑˆÐµÐ½Ð¾ ÑƒÐ´Ð°Ð»ÐµÐ½Ð¸Ðµ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð² highload-Ð±Ð»Ð¾ÐºÐ°.';

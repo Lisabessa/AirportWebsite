@@ -1,7 +1,7 @@
 <?php
-$MESS["MESSAGESERVICE_SENDER_SMS_REST_NAME"] = "SMS ÷åðåç REST API";
-$MESS["MESSAGESERVICE_SENDER_SMS_REST_ERROR_CAN_USE"] = "Ñëóæáà îòïðàâêè ÷åðåç REST API íåäîñòóïíà";
-$MESS["MESSAGESERVICE_SENDER_SMS_REST_ERROR_APP_NOT_FOUND"] = "Ïðèëîæåíèå äëÿ îòïðàâêè íå çàðåãèñòðèðîâàíî èëè óäàëåíî";
-$MESS["MESSAGESERVICE_SENDER_SMS_REST_ERROR_SESSION"] = "REST ñåññèÿ çàáëîêèðîâàíà";
-$MESS["MESSAGESERVICE_SENDER_SMS_REST_ERROR_PAYMENT_ALLOW"] = "Ïðèëîæåíèå íå îïëà÷åíî";
+$MESS["MESSAGESERVICE_SENDER_SMS_REST_NAME"] = "SMS Ñ‡ÐµÑ€ÐµÐ· REST API";
+$MESS["MESSAGESERVICE_SENDER_SMS_REST_ERROR_CAN_USE"] = "Ð¡Ð»ÑƒÐ¶Ð±Ð° Ð¾Ñ‚Ð¿Ñ€Ð°Ð²ÐºÐ¸ Ñ‡ÐµÑ€ÐµÐ· REST API Ð½ÐµÐ´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ð°";
+$MESS["MESSAGESERVICE_SENDER_SMS_REST_ERROR_APP_NOT_FOUND"] = "ÐŸÑ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ Ð´Ð»Ñ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²ÐºÐ¸ Ð½Ðµ Ð·Ð°Ñ€ÐµÐ³Ð¸ÑÑ‚Ñ€Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¾ Ð¸Ð»Ð¸ ÑƒÐ´Ð°Ð»ÐµÐ½Ð¾";
+$MESS["MESSAGESERVICE_SENDER_SMS_REST_ERROR_SESSION"] = "REST ÑÐµÑÑÐ¸Ñ Ð·Ð°Ð±Ð»Ð¾ÐºÐ¸Ñ€Ð¾Ð²Ð°Ð½Ð°";
+$MESS["MESSAGESERVICE_SENDER_SMS_REST_ERROR_PAYMENT_ALLOW"] = "ÐŸÑ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ Ð½Ðµ Ð¾Ð¿Ð»Ð°Ñ‡ÐµÐ½Ð¾";
 ?>

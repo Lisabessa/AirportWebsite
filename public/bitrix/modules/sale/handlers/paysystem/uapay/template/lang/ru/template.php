@@ -1,6 +1,6 @@
 <?php
-$MESS["SALE_HANDLERS_PAY_SYSTEM_UAPAY_DESCRIPTION"] = "Услугу предоставляет национальный платежный сервис Украины <b>&laquo;UAPAY&raquo;</b>.";
-$MESS["SALE_HANDLERS_PAY_SYSTEM_UAPAY_SUM"] = "Сумма к оплате по счету: ";
-$MESS["SALE_HANDLERS_PAY_SYSTEM_UAPAY_BUTTON_PAID"] = "Оплатить";
-$MESS["SALE_HANDLERS_PAY_SYSTEM_UAPAY_REDIRECT_MESS"] = "Вы будете перенаправлены на страницу оплаты";
-$MESS["SALE_HANDLERS_PAY_SYSTEM_UAPAY_WARNING_RETURN"] = "<b>Обратите внимание:</b> если вы откажетесь от покупки, для возврата денег вам придется обратиться в магазин.";
+$MESS["SALE_HANDLERS_PAY_SYSTEM_UAPAY_DESCRIPTION"] = "РЈСЃР»СѓРіСѓ РїСЂРµРґРѕСЃС‚Р°РІР»СЏРµС‚ РЅР°С†РёРѕРЅР°Р»СЊРЅС‹Р№ РїР»Р°С‚РµР¶РЅС‹Р№ СЃРµСЂРІРёСЃ РЈРєСЂР°РёРЅС‹ <b>&laquo;UAPAY&raquo;</b>.";
+$MESS["SALE_HANDLERS_PAY_SYSTEM_UAPAY_SUM"] = "РЎСѓРјРјР° Рє РѕРїР»Р°С‚Рµ РїРѕ СЃС‡РµС‚Сѓ: ";
+$MESS["SALE_HANDLERS_PAY_SYSTEM_UAPAY_BUTTON_PAID"] = "РћРїР»Р°С‚РёС‚СЊ";
+$MESS["SALE_HANDLERS_PAY_SYSTEM_UAPAY_REDIRECT_MESS"] = "Р’С‹ Р±СѓРґРµС‚Рµ РїРµСЂРµРЅР°РїСЂР°РІР»РµРЅС‹ РЅР° СЃС‚СЂР°РЅРёС†Сѓ РѕРїР»Р°С‚С‹";
+$MESS["SALE_HANDLERS_PAY_SYSTEM_UAPAY_WARNING_RETURN"] = "<b>РћР±СЂР°С‚РёС‚Рµ РІРЅРёРјР°РЅРёРµ:</b> РµСЃР»Рё РІС‹ РѕС‚РєР°Р¶РµС‚РµСЃСЊ РѕС‚ РїРѕРєСѓРїРєРё, РґР»СЏ РІРѕР·РІСЂР°С‚Р° РґРµРЅРµРі РІР°Рј РїСЂРёРґРµС‚СЃСЏ РѕР±СЂР°С‚РёС‚СЊСЃСЏ РІ РјР°РіР°Р·РёРЅ.";

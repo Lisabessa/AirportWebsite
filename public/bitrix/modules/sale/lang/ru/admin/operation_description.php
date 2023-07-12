@@ -1,13 +1,13 @@
 <?
-$MESS['OP_NAME_SALE_STATUS_VIEW'] = 'Ïðîñìîòð';
-$MESS['OP_NAME_SALE_STATUS_CANCEL'] = 'Ôëàã îòìåíû';
-$MESS['OP_NAME_SALE_STATUS_MARK'] = 'Ôëàã îòìåòêè î ïðîáëåìå â çàêàçå';
-$MESS['OP_NAME_SALE_STATUS_DELIVERY'] = 'Ôëàã äîñòàâêè';
-$MESS['OP_NAME_SALE_STATUS_DEDUCTION'] = 'Ôëàã îòãðóçêè';
-$MESS['OP_NAME_SALE_STATUS_PAYMENT'] = 'Ôëàã îïëàòû';
-$MESS['OP_NAME_SALE_STATUS_TO'] = 'Ïåðåâîä â ýòîò ñòàòóñ';
-$MESS['OP_NAME_SALE_STATUS_UPDATE'] = 'Èçìåíåíèå';
-$MESS['OP_NAME_SALE_STATUS_DELETE'] = 'Óäàëåíèå';
-$MESS['OP_NAME_SALE_STATUS_FROM'] = 'Ïåðåâîä èç ýòîãî ñòàòóñà';
-//$MESS["SSE_CAN_SET"] = "Èìåþò ïðàâî ïåðåâîäèòü çàêàç â äàííûé ñòàòóñ:";
-//$MESS["SSE_CAN_UPDATE"] = "Èìåþò ïðàâî èçìåíÿòü è ñîõðàíÿòü çàêàç â äàííîì ñòàòóñå:";
+$MESS['OP_NAME_SALE_STATUS_VIEW'] = 'ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€';
+$MESS['OP_NAME_SALE_STATUS_CANCEL'] = 'Ð¤Ð»Ð°Ð³ Ð¾Ñ‚Ð¼ÐµÐ½Ñ‹';
+$MESS['OP_NAME_SALE_STATUS_MARK'] = 'Ð¤Ð»Ð°Ð³ Ð¾Ñ‚Ð¼ÐµÑ‚ÐºÐ¸ Ð¾ Ð¿Ñ€Ð¾Ð±Ð»ÐµÐ¼Ðµ Ð² Ð·Ð°ÐºÐ°Ð·Ðµ';
+$MESS['OP_NAME_SALE_STATUS_DELIVERY'] = 'Ð¤Ð»Ð°Ð³ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸';
+$MESS['OP_NAME_SALE_STATUS_DEDUCTION'] = 'Ð¤Ð»Ð°Ð³ Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸';
+$MESS['OP_NAME_SALE_STATUS_PAYMENT'] = 'Ð¤Ð»Ð°Ð³ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹';
+$MESS['OP_NAME_SALE_STATUS_TO'] = 'ÐŸÐµÑ€ÐµÐ²Ð¾Ð´ Ð² ÑÑ‚Ð¾Ñ‚ ÑÑ‚Ð°Ñ‚ÑƒÑ';
+$MESS['OP_NAME_SALE_STATUS_UPDATE'] = 'Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ';
+$MESS['OP_NAME_SALE_STATUS_DELETE'] = 'Ð£Ð´Ð°Ð»ÐµÐ½Ð¸Ðµ';
+$MESS['OP_NAME_SALE_STATUS_FROM'] = 'ÐŸÐµÑ€ÐµÐ²Ð¾Ð´ Ð¸Ð· ÑÑ‚Ð¾Ð³Ð¾ ÑÑ‚Ð°Ñ‚ÑƒÑÐ°';
+//$MESS["SSE_CAN_SET"] = "Ð˜Ð¼ÐµÑŽÑ‚ Ð¿Ñ€Ð°Ð²Ð¾ Ð¿ÐµÑ€ÐµÐ²Ð¾Ð´Ð¸Ñ‚ÑŒ Ð·Ð°ÐºÐ°Ð· Ð² Ð´Ð°Ð½Ð½Ñ‹Ð¹ ÑÑ‚Ð°Ñ‚ÑƒÑ:";
+//$MESS["SSE_CAN_UPDATE"] = "Ð˜Ð¼ÐµÑŽÑ‚ Ð¿Ñ€Ð°Ð²Ð¾ Ð¸Ð·Ð¼ÐµÐ½ÑÑ‚ÑŒ Ð¸ ÑÐ¾Ñ…Ñ€Ð°Ð½ÑÑ‚ÑŒ Ð·Ð°ÐºÐ°Ð· Ð² Ð´Ð°Ð½Ð½Ð¾Ð¼ ÑÑ‚Ð°Ñ‚ÑƒÑÐµ:";

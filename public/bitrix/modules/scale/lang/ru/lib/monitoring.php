@@ -1,15 +1,15 @@
 <?
-$MESS ['SCALE_MONITORING_HDD'] = "Диски";
-$MESS ['SCALE_MONITORING_HDD_PARAMS'] = "(всего/исп./своб.)";
-$MESS ['SCALE_MONITORING_NET'] = "Сеть";
-$MESS ['SCALE_MONITORING_NET_SEC'] = "в сек";
-$MESS ['SCALE_MONITORING_NET_PARAMS'] = "(исх./вх.)";
-$MESS ['SCALE_MONITORING_HDDACT'] = "Активность";
-$MESS ['SCALE_MONITORING_HDDACT_PARAMS'] = "(чтение/запись)";
-$MESS ['SCALE_MONITORING_MEMORY'] = "Память";
-$MESS ['SCALE_MONITORING_MEMORY_PARAMS'] = "всего/исп./своб.";
-$MESS ['SCALE_ITS_AVG_LOAD_NAME'] = "Нагрузка"; //<br>(процессов в очереди)";
-$MESS ['SCALE_ITS_AVG_LOAD_MIN'] = "Минимальная";
-$MESS ['SCALE_ITS_AVG_LOAD_CURR'] = "Текущая";
-$MESS ['SCALE_ITS_AVG_LOAD_MAX'] = "Максимальная";
+$MESS ['SCALE_MONITORING_HDD'] = "Р”РёСЃРєРё";
+$MESS ['SCALE_MONITORING_HDD_PARAMS'] = "(РІСЃРµРіРѕ/РёСЃРї./СЃРІРѕР±.)";
+$MESS ['SCALE_MONITORING_NET'] = "РЎРµС‚СЊ";
+$MESS ['SCALE_MONITORING_NET_SEC'] = "РІ СЃРµРє";
+$MESS ['SCALE_MONITORING_NET_PARAMS'] = "(РёСЃС…./РІС….)";
+$MESS ['SCALE_MONITORING_HDDACT'] = "РђРєС‚РёРІРЅРѕСЃС‚СЊ";
+$MESS ['SCALE_MONITORING_HDDACT_PARAMS'] = "(С‡С‚РµРЅРёРµ/Р·Р°РїРёСЃСЊ)";
+$MESS ['SCALE_MONITORING_MEMORY'] = "РџР°РјСЏС‚СЊ";
+$MESS ['SCALE_MONITORING_MEMORY_PARAMS'] = "РІСЃРµРіРѕ/РёСЃРї./СЃРІРѕР±.";
+$MESS ['SCALE_ITS_AVG_LOAD_NAME'] = "РќР°РіСЂСѓР·РєР°"; //<br>(РїСЂРѕС†РµСЃСЃРѕРІ РІ РѕС‡РµСЂРµРґРё)";
+$MESS ['SCALE_ITS_AVG_LOAD_MIN'] = "РњРёРЅРёРјР°Р»СЊРЅР°СЏ";
+$MESS ['SCALE_ITS_AVG_LOAD_CURR'] = "РўРµРєСѓС‰Р°СЏ";
+$MESS ['SCALE_ITS_AVG_LOAD_MAX'] = "РњР°РєСЃРёРјР°Р»СЊРЅР°СЏ";
 ?>

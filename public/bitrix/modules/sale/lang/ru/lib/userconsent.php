@@ -1,5 +1,5 @@
 <?
-$MESS["SALE_USER_CONSENT_PROVIDER_NAME"] = "Çàêàç";
-$MESS["SALE_USER_CONSENT_PROVIDER_ITEM_NAME"] = "Çàêàç #%id%";
-$MESS["SALE_USER_CONSENT_DATA_PROVIDER_NAME"] = "Ðåêâèçèòû êîìïàíèè õîëäèíãà";
+$MESS["SALE_USER_CONSENT_PROVIDER_NAME"] = "Ð—Ð°ÐºÐ°Ð·";
+$MESS["SALE_USER_CONSENT_PROVIDER_ITEM_NAME"] = "Ð—Ð°ÐºÐ°Ð· #%id%";
+$MESS["SALE_USER_CONSENT_DATA_PROVIDER_NAME"] = "Ð ÐµÐºÐ²Ð¸Ð·Ð¸Ñ‚Ñ‹ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸ Ñ…Ð¾Ð»Ð´Ð¸Ð½Ð³Ð°";
 ?>

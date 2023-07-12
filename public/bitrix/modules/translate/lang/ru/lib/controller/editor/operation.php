@@ -1,7 +1,7 @@
 <?
-$MESS["TR_CREATE_BACKUP_ERROR"] = "Íå óäàëîñü ñîçäàòü áýêàï ôàéëà \"#FILE#\"";
-$MESS["TR_ERROR_WRITE_CREATE"] = "Íå óäàëîñü ñîçäàòü ôàéë \"#FILE#\"";
-$MESS["TR_ERROR_DELETE"] = "Íå óäàëîñü óäàëèòü ôàéë \"#FILE#\"";
-$MESS["TR_ERROR_WRITE_UPDATE"] = "Íåâîçìîæíî ïåðåçàïèñàòü ôàéë \"#FILE#\"";
-$MESS["TR_EDIT_SAVING_COMPLETED"] = "Ñîõðàíåíî";
+$MESS["TR_CREATE_BACKUP_ERROR"] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ ÑÐ¾Ð·Ð´Ð°Ñ‚ÑŒ Ð±ÑÐºÐ°Ð¿ Ñ„Ð°Ð¹Ð»Ð° \"#FILE#\"";
+$MESS["TR_ERROR_WRITE_CREATE"] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ ÑÐ¾Ð·Ð´Ð°Ñ‚ÑŒ Ñ„Ð°Ð¹Ð» \"#FILE#\"";
+$MESS["TR_ERROR_DELETE"] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ Ñ„Ð°Ð¹Ð» \"#FILE#\"";
+$MESS["TR_ERROR_WRITE_UPDATE"] = "ÐÐµÐ²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ Ð¿ÐµÑ€ÐµÐ·Ð°Ð¿Ð¸ÑÐ°Ñ‚ÑŒ Ñ„Ð°Ð¹Ð» \"#FILE#\"";
+$MESS["TR_EDIT_SAVING_COMPLETED"] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð¾";
 ?>

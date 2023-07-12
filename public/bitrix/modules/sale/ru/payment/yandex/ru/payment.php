@@ -1,23 +1,23 @@
 <?
 global $MESS;
 
-$MESS["SPCP_DTITLE"] = "ЮMoney";
-$MESS["SPCP_DDESCR"] = "Работа через Центр Приема Платежей <a href=\"https://yookassa.ru\" target=\"_blank\">https://yookassa.ru</a>";
-$MESS["SHOP_ID"] = "Идентификатор магазина в ЦПП (ShopID)";
-$MESS["SHOP_ID_DESCR"] = "Код магазина, который получен от ЮKassa";
-$MESS["SCID"] = "Номер витрины магазина в ЦПП (scid)";
+$MESS["SPCP_DTITLE"] = "Р®Money";
+$MESS["SPCP_DDESCR"] = "Р Р°Р±РѕС‚Р° С‡РµСЂРµР· Р¦РµРЅС‚СЂ РџСЂРёРµРјР° РџР»Р°С‚РµР¶РµР№ <a href=\"https://yookassa.ru\" target=\"_blank\">https://yookassa.ru</a>";
+$MESS["SHOP_ID"] = "РРґРµРЅС‚РёС„РёРєР°С‚РѕСЂ РјР°РіР°Р·РёРЅР° РІ Р¦РџРџ (ShopID)";
+$MESS["SHOP_ID_DESCR"] = "РљРѕРґ РјР°РіР°Р·РёРЅР°, РєРѕС‚РѕСЂС‹Р№ РїРѕР»СѓС‡РµРЅ РѕС‚ Р®Kassa";
+$MESS["SCID"] = "РќРѕРјРµСЂ РІРёС‚СЂРёРЅС‹ РјР°РіР°Р·РёРЅР° РІ Р¦РџРџ (scid)";
 $MESS["SCID_DESCR"] = "";
 $MESS["SCID_DESCT"] = "";
-$MESS["ORDER_ID"] = "Номер заказа";
+$MESS["ORDER_ID"] = "РќРѕРјРµСЂ Р·Р°РєР°Р·Р°";
 $MESS["ORDER_ID_DESCR"] = "";
-$MESS["SHOP_KEY"] = "Пароль магазина";
-$MESS["SHOP_KEY_DESCR"] = "Пароль магазина на ЮKassa";
-$MESS["SHOULD_PAY"] = "Сумма заказа";
-$MESS["SHOULD_PAY_DESCR"] = "Сумма к оплате";
-$MESS["ORDER_DATE"] = "Дата создания заказа";
+$MESS["SHOP_KEY"] = "РџР°СЂРѕР»СЊ РјР°РіР°Р·РёРЅР°";
+$MESS["SHOP_KEY_DESCR"] = "РџР°СЂРѕР»СЊ РјР°РіР°Р·РёРЅР° РЅР° Р®Kassa";
+$MESS["SHOULD_PAY"] = "РЎСѓРјРјР° Р·Р°РєР°Р·Р°";
+$MESS["SHOULD_PAY_DESCR"] = "РЎСѓРјРјР° Рє РѕРїР»Р°С‚Рµ";
+$MESS["ORDER_DATE"] = "Р”Р°С‚Р° СЃРѕР·РґР°РЅРёСЏ Р·Р°РєР°Р·Р°";
 $MESS["ORDER_DATE_DESCR"] = "";
-$MESS["IS_TEST"] = "Тестовый режим";
-$MESS["IS_TEST_DESCR"] = "Если пустое значение - магазин будет работать в обычном режиме";
-$MESS["PYM_CHANGE_STATUS_PAY"] = "Автоматически оплачивать заказ при получении успешного статуса оплаты";
-$MESS["PYM_CHANGE_STATUS_PAY_DESC"] = "Y - оплачивать, N - не оплачивать.";
+$MESS["IS_TEST"] = "РўРµСЃС‚РѕРІС‹Р№ СЂРµР¶РёРј";
+$MESS["IS_TEST_DESCR"] = "Р•СЃР»Рё РїСѓСЃС‚РѕРµ Р·РЅР°С‡РµРЅРёРµ - РјР°РіР°Р·РёРЅ Р±СѓРґРµС‚ СЂР°Р±РѕС‚Р°С‚СЊ РІ РѕР±С‹С‡РЅРѕРј СЂРµР¶РёРјРµ";
+$MESS["PYM_CHANGE_STATUS_PAY"] = "РђРІС‚РѕРјР°С‚РёС‡РµСЃРєРё РѕРїР»Р°С‡РёРІР°С‚СЊ Р·Р°РєР°Р· РїСЂРё РїРѕР»СѓС‡РµРЅРёРё СѓСЃРїРµС€РЅРѕРіРѕ СЃС‚Р°С‚СѓСЃР° РѕРїР»Р°С‚С‹";
+$MESS["PYM_CHANGE_STATUS_PAY_DESC"] = "Y - РѕРїР»Р°С‡РёРІР°С‚СЊ, N - РЅРµ РѕРїР»Р°С‡РёРІР°С‚СЊ.";
 ?>

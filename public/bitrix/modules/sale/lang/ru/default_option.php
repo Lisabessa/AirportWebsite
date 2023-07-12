@@ -1,2 +1,2 @@
 <?
-$MESS["SMOD_PAR_WEIGHT_UNIT"] = "ã";
+$MESS["SMOD_PAR_WEIGHT_UNIT"] = "Ð³";

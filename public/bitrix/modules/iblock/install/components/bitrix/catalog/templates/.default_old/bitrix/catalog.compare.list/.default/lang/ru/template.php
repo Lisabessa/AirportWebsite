@@ -1,6 +1,6 @@
 <?
-$MESS["CATALOG_COMPARE_ELEMENTS"] = "Ñïèñîê ñðàâíèâàåìûõ ýëåìåíòîâ";
-$MESS["CATALOG_DELETE"] = "Óáðàòü";
-$MESS["CP_BCCL_TPL_MESS_COMPARE_COUNT"] = "Êîëè÷åñòâî ýëåìåíòîâ â ñïèñêå ñðàâíåíèÿ:";
-$MESS["CP_BCCL_TPL_MESS_COMPARE_PAGE"] = "Ïåðåéòè íà ñòðàíèöó ñðàâíåíèÿ";
+$MESS["CATALOG_COMPARE_ELEMENTS"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº ÑÑ€Ð°Ð²Ð½Ð¸Ð²Ð°ÐµÐ¼Ñ‹Ñ… ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð²";
+$MESS["CATALOG_DELETE"] = "Ð£Ð±Ñ€Ð°Ñ‚ÑŒ";
+$MESS["CP_BCCL_TPL_MESS_COMPARE_COUNT"] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð² Ð² ÑÐ¿Ð¸ÑÐºÐµ ÑÑ€Ð°Ð²Ð½ÐµÐ½Ð¸Ñ:";
+$MESS["CP_BCCL_TPL_MESS_COMPARE_PAGE"] = "ÐŸÐµÑ€ÐµÐ¹Ñ‚Ð¸ Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ ÑÑ€Ð°Ð²Ð½ÐµÐ½Ð¸Ñ";
 ?>

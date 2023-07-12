@@ -1,3 +1,3 @@
 <?php
-$MESS['SALE_CASHBOX_CREDIT_PAYMENT_RETURN_CASH_NAME'] = 'Âîçâðàò îïëàòû êðåäèòà íàëè÷íûìè';
-$MESS['SALE_CASHBOX_CREDIT_PAYMENT_RETURN_CASH_ITEM_NAME'] = 'Âîçâðàò îïëàòû êðåäèòà';
+$MESS['SALE_CASHBOX_CREDIT_PAYMENT_RETURN_CASH_NAME'] = 'Ð’Ð¾Ð·Ð²Ñ€Ð°Ñ‚ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹ ÐºÑ€ÐµÐ´Ð¸Ñ‚Ð° Ð½Ð°Ð»Ð¸Ñ‡Ð½Ñ‹Ð¼Ð¸';
+$MESS['SALE_CASHBOX_CREDIT_PAYMENT_RETURN_CASH_ITEM_NAME'] = 'Ð’Ð¾Ð·Ð²Ñ€Ð°Ñ‚ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹ ÐºÑ€ÐµÐ´Ð¸Ñ‚Ð°';

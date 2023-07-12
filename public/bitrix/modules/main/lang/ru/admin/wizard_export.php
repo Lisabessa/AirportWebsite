@@ -1,3 +1,3 @@
 <?
-$MESS ['MAIN_WIZARD_EXPORT_ERROR'] = "Îøèáêà ýêñïîðòà ìàñòåðà";
+$MESS ['MAIN_WIZARD_EXPORT_ERROR'] = "ÐžÑˆÐ¸Ð±ÐºÐ° ÑÐºÑÐ¿Ð¾Ñ€Ñ‚Ð° Ð¼Ð°ÑÑ‚ÐµÑ€Ð°";
 ?>

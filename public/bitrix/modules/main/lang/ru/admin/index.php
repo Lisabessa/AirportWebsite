@@ -1,3 +1,3 @@
 <?
-$MESS ['MAIN_ADMIN_SECTION_TITLE'] = "Àäìèíèñòðàòèâíûé ðàçäåë";
+$MESS ['MAIN_ADMIN_SECTION_TITLE'] = "ÐÐ´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¸Ð²Ð½Ñ‹Ð¹ Ñ€Ð°Ð·Ð´ÐµÐ»";
 ?>

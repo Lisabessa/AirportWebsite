@@ -1,2 +1,2 @@
 <?php
-$MESS['SALE_CASHBOX_CORRECTION_BUY_NAME'] = 'Êîððåêöèÿ ðàñõîäà';
+$MESS['SALE_CASHBOX_CORRECTION_BUY_NAME'] = 'ÐšÐ¾Ñ€Ñ€ÐµÐºÑ†Ð¸Ñ Ñ€Ð°ÑÑ…Ð¾Ð´Ð°';

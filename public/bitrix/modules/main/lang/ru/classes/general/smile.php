@@ -1,17 +1,17 @@
 <?
-$MESS["MAIN_SMILE_IMPORT_FILE_ERROR"] = "Îøèáêà îáðàáîòêè àðõèâà, ôàéë íå ñóùåñòâóåò.";
-$MESS["MAIN_SMILE_IMPORT_FILE_EXT_ERROR"] = "Îøèáêà îáðàáîòêè àðõèâà, íåâåðíûé ôîðìàò ôàéëà.";
-$MESS["MAIN_SMILE_IMPORT_UNPACK_ERROR"] = "Îøèáêà ðàñïàêîâêè àðõèâà, ïðîâåðüòå ôàéë.";
-$MESS["MAIN_SMILE_IMPORT_SET_ID_ERROR"] = "Íå óêàçàí èäåíòèôèêàòîð íàáîðà ñìàéëîâ";
-$MESS["MAIN_SMILE_TYPE_ERROR"] = "Óêàçàí íå êîððåêòíûé òèï ñìàéëà";
-$MESS["MAIN_SMILE_SET_ID_ERROR"] = "Íå óêàçàí èäåíòèôèêàòîð íàáîðà ñìàéëîâ";
-$MESS["MAIN_SMILE_TYPING_ERROR"] = "Íå óêàçàíî íàïèñàíèå ñìàéëà â òåêñòå";
-$MESS["MAIN_SMILE_IMAGE_ERROR"] = "Íå óêàçàíî ôèçè÷åñêîå èìÿ êàðòèíêè äëÿ ñìàéëà";
-$MESS["MAIN_SMILE_IMAGE_XY_ERROR"] = "Íå óêàçàíû ðàçìåðû êàðòèíêè äëÿ ñìàéëà";
-$MESS["MAIN_SMILE_ALL_SET"] = "Âñå íàáîðû";
-$MESS["MAIN_SMILE_SET_NAME"] = "Íàáîð: #ID#";
-$MESS["MAIN_SMILE_GALLERY_NAME"] = "Ãàëåðåÿ: #ID#";
-$MESS["MAIN_SMILE_DEF_GALLERY_NAME"] = "Ñòàíäàðòíàÿ ãàëåðåÿ";
-$MESS["MAIN_SMILE_DEF_SET_NAME"] = "Îñíîâíîé íàáîð";
-$MESS["MAIN_SMILE_USER_GALLERY_NAME"] = "Ïîëüçîâàòåëüñêàÿ ãàëåðåÿ";
+$MESS["MAIN_SMILE_IMPORT_FILE_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ¸ Ð°Ñ€Ñ…Ð¸Ð²Ð°, Ñ„Ð°Ð¹Ð» Ð½Ðµ ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÐµÑ‚.";
+$MESS["MAIN_SMILE_IMPORT_FILE_EXT_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ¸ Ð°Ñ€Ñ…Ð¸Ð²Ð°, Ð½ÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚ Ñ„Ð°Ð¹Ð»Ð°.";
+$MESS["MAIN_SMILE_IMPORT_UNPACK_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ñ€Ð°ÑÐ¿Ð°ÐºÐ¾Ð²ÐºÐ¸ Ð°Ñ€Ñ…Ð¸Ð²Ð°, Ð¿Ñ€Ð¾Ð²ÐµÑ€ÑŒÑ‚Ðµ Ñ„Ð°Ð¹Ð».";
+$MESS["MAIN_SMILE_IMPORT_SET_ID_ERROR"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð½Ð°Ð±Ð¾Ñ€Ð° ÑÐ¼Ð°Ð¹Ð»Ð¾Ð²";
+$MESS["MAIN_SMILE_TYPE_ERROR"] = "Ð£ÐºÐ°Ð·Ð°Ð½ Ð½Ðµ ÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ñ‹Ð¹ Ñ‚Ð¸Ð¿ ÑÐ¼Ð°Ð¹Ð»Ð°";
+$MESS["MAIN_SMILE_SET_ID_ERROR"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð½Ð°Ð±Ð¾Ñ€Ð° ÑÐ¼Ð°Ð¹Ð»Ð¾Ð²";
+$MESS["MAIN_SMILE_TYPING_ERROR"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾ Ð½Ð°Ð¿Ð¸ÑÐ°Ð½Ð¸Ðµ ÑÐ¼Ð°Ð¹Ð»Ð° Ð² Ñ‚ÐµÐºÑÑ‚Ðµ";
+$MESS["MAIN_SMILE_IMAGE_ERROR"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾ Ñ„Ð¸Ð·Ð¸Ñ‡ÐµÑÐºÐ¾Ðµ Ð¸Ð¼Ñ ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ¸ Ð´Ð»Ñ ÑÐ¼Ð°Ð¹Ð»Ð°";
+$MESS["MAIN_SMILE_IMAGE_XY_ERROR"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ñ‹ Ñ€Ð°Ð·Ð¼ÐµÑ€Ñ‹ ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ¸ Ð´Ð»Ñ ÑÐ¼Ð°Ð¹Ð»Ð°";
+$MESS["MAIN_SMILE_ALL_SET"] = "Ð’ÑÐµ Ð½Ð°Ð±Ð¾Ñ€Ñ‹";
+$MESS["MAIN_SMILE_SET_NAME"] = "ÐÐ°Ð±Ð¾Ñ€: #ID#";
+$MESS["MAIN_SMILE_GALLERY_NAME"] = "Ð“Ð°Ð»ÐµÑ€ÐµÑ: #ID#";
+$MESS["MAIN_SMILE_DEF_GALLERY_NAME"] = "Ð¡Ñ‚Ð°Ð½Ð´Ð°Ñ€Ñ‚Ð½Ð°Ñ Ð³Ð°Ð»ÐµÑ€ÐµÑ";
+$MESS["MAIN_SMILE_DEF_SET_NAME"] = "ÐžÑÐ½Ð¾Ð²Ð½Ð¾Ð¹ Ð½Ð°Ð±Ð¾Ñ€";
+$MESS["MAIN_SMILE_USER_GALLERY_NAME"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒÑÐºÐ°Ñ Ð³Ð°Ð»ÐµÑ€ÐµÑ";
 ?>

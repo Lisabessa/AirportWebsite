@@ -1,5 +1,5 @@
 <?
-$MESS["MAIN_ANALYTICS_MENU_PERFORMANCE"] = "Ïðîèçâîäèòåëüíîñòü";
-$MESS["MAIN_ANALYTICS_MENU_SITE_SPEED"] = "Ñêîðîñòü ñàéòà";
-$MESS["MAIN_ANALYTICS_MENU_SITE_SPEED_ALT"] = "Ñòàòèñòèêà âðåìåíè çàãðóçêè ñòðàíèö ñàéòà";
+$MESS["MAIN_ANALYTICS_MENU_PERFORMANCE"] = "ÐŸÑ€Ð¾Ð¸Ð·Ð²Ð¾Ð´Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾ÑÑ‚ÑŒ";
+$MESS["MAIN_ANALYTICS_MENU_SITE_SPEED"] = "Ð¡ÐºÐ¾Ñ€Ð¾ÑÑ‚ÑŒ ÑÐ°Ð¹Ñ‚Ð°";
+$MESS["MAIN_ANALYTICS_MENU_SITE_SPEED_ALT"] = "Ð¡Ñ‚Ð°Ñ‚Ð¸ÑÑ‚Ð¸ÐºÐ° Ð²Ñ€ÐµÐ¼ÐµÐ½Ð¸ Ð·Ð°Ð³Ñ€ÑƒÐ·ÐºÐ¸ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ† ÑÐ°Ð¹Ñ‚Ð°";
 ?>

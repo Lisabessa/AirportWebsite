@@ -1,10 +1,10 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Çàäàòü âîïðîñ");
+$APPLICATION->SetTitle("Ð—Ð°Ð´Ð°Ñ‚ÑŒ Ð²Ð¾Ð¿Ñ€Ð¾Ñ");
 ?>
 <p><?$APPLICATION->IncludeComponent("bitrix:main.feedback", "template", array(
 	"USE_CAPTCHA" => "Y",
-	"OK_TEXT" => "Ñïàñèáî, âàø âîïðîñ ïðèíÿò. Â áëèæàéøåå âðåìÿ ìû ñ âàìè ñâÿæåìñÿ ïî óêàçàííîìó E-Mail àäðåñó.",
+	"OK_TEXT" => "Ð¡Ð¿Ð°ÑÐ¸Ð±Ð¾, Ð²Ð°Ñˆ Ð²Ð¾Ð¿Ñ€Ð¾Ñ Ð¿Ñ€Ð¸Ð½ÑÑ‚. Ð’ Ð±Ð»Ð¸Ð¶Ð°Ð¹ÑˆÐµÐµ Ð²Ñ€ÐµÐ¼Ñ Ð¼Ñ‹ Ñ Ð²Ð°Ð¼Ð¸ ÑÐ²ÑÐ¶ÐµÐ¼ÑÑ Ð¿Ð¾ ÑƒÐºÐ°Ð·Ð°Ð½Ð½Ð¾Ð¼Ñƒ E-Mail Ð°Ð´Ñ€ÐµÑÑƒ.",
 	"EMAIL_TO" => "",
 	"REQUIRED_FIELDS" => array(
 		0 => "NAME",

@@ -1,8 +1,8 @@
 <?
-$MESS ['DEMO_IBLOCK_CONTENT_ARTICLES_MENU'] = "Ñòàòüè";
-$MESS ['DEMO_IBLOCK_CONTENT_ARTICLES_FORUM_NAME'] = "Êîììåíòàðèè ê ñòàòüÿì";
-$MESS ['DEMO_IBLOCK_CONTENT_ARTICLES_FORUM_GROUP_NAME'] = "Êîììåíòàðèè ïîëüçîâàòåëåé";
-$MESS ['DEMO_IBLOCK_CONTENT_ARTICLES_NAME'] = "Ýòî ñòàòüÿ îæèäàþùàÿ ïóáëèêàöèè";
-$MESS ['DEMO_IBLOCK_CONTENT_ARTICLES_PREVIEW_TEXT'] = "Ýòî ïðèìåð ñòàòüè êîòîðàÿ áóäåò îïóáëèêîâàíà èñïîëüçóÿ ìîäóëü áèçíåñ ïðîöåññîâ.";
-$MESS ['DEMO_IBLOCK_CONTENT_ARTICLES_KEYWORDS'] = "áèçíåñ ïðîöåññû, ïóáëèêàöèÿ";
+$MESS ['DEMO_IBLOCK_CONTENT_ARTICLES_MENU'] = "Ð¡Ñ‚Ð°Ñ‚ÑŒÐ¸";
+$MESS ['DEMO_IBLOCK_CONTENT_ARTICLES_FORUM_NAME'] = "ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¸ Ðº ÑÑ‚Ð°Ñ‚ÑŒÑÐ¼";
+$MESS ['DEMO_IBLOCK_CONTENT_ARTICLES_FORUM_GROUP_NAME'] = "ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¸ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÐµÐ¹";
+$MESS ['DEMO_IBLOCK_CONTENT_ARTICLES_NAME'] = "Ð­Ñ‚Ð¾ ÑÑ‚Ð°Ñ‚ÑŒÑ Ð¾Ð¶Ð¸Ð´Ð°ÑŽÑ‰Ð°Ñ Ð¿ÑƒÐ±Ð»Ð¸ÐºÐ°Ñ†Ð¸Ð¸";
+$MESS ['DEMO_IBLOCK_CONTENT_ARTICLES_PREVIEW_TEXT'] = "Ð­Ñ‚Ð¾ Ð¿Ñ€Ð¸Ð¼ÐµÑ€ ÑÑ‚Ð°Ñ‚ÑŒÐ¸ ÐºÐ¾Ñ‚Ð¾Ñ€Ð°Ñ Ð±ÑƒÐ´ÐµÑ‚ Ð¾Ð¿ÑƒÐ±Ð»Ð¸ÐºÐ¾Ð²Ð°Ð½Ð° Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÑ Ð¼Ð¾Ð´ÑƒÐ»ÑŒ Ð±Ð¸Ð·Ð½ÐµÑ Ð¿Ñ€Ð¾Ñ†ÐµÑÑÐ¾Ð².";
+$MESS ['DEMO_IBLOCK_CONTENT_ARTICLES_KEYWORDS'] = "Ð±Ð¸Ð·Ð½ÐµÑ Ð¿Ñ€Ð¾Ñ†ÐµÑÑÑ‹, Ð¿ÑƒÐ±Ð»Ð¸ÐºÐ°Ñ†Ð¸Ñ";
 ?>

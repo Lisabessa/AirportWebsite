@@ -1,2 +1,2 @@
 <?php
-$MESS["argument_null_exception_message"] = "Àðãóìåíò '#PARAMETER#' íå ìîæåò áûòü ïóñòûì";
+$MESS["argument_null_exception_message"] = "ÐÑ€Ð³ÑƒÐ¼ÐµÐ½Ñ‚ '#PARAMETER#' Ð½Ðµ Ð¼Ð¾Ð¶ÐµÑ‚ Ð±Ñ‹Ñ‚ÑŒ Ð¿ÑƒÑÑ‚Ñ‹Ð¼";

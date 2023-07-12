@@ -1,6 +1,6 @@
 <?php
 
-$MESS["SALE_BASKET_COMPATIBLE_BASKET_ITEM_NOT_FOUND"] = "Ýëåìåíò êîðçèíû íå íàéäåí";
-$MESS["SALE_BASKET_COMPATIBLE_BASKET_ITEM_PROPS_NOT_FOUND"] = "Ýëåìåíò êîðçèíû ñ äàííûìè ñâîéñòâàìè íå íàéäåí";
-$MESS["SALE_BASKET_COMPATIBLE_BASKET_COLLECTION_NOT_FOUND"] = "Êîðçèíà íå íàéäåíà";
-$MESS["SALE_BASKET_COMPATIBLE_BASKET_ITEM_ERROR_BIND_TO_ORDER"] = "Òîâàð óæå ïðèâÿçàí ê çàêàçó";
+$MESS["SALE_BASKET_COMPATIBLE_BASKET_ITEM_NOT_FOUND"] = "Ð­Ð»ÐµÐ¼ÐµÐ½Ñ‚ ÐºÐ¾Ñ€Ð·Ð¸Ð½Ñ‹ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
+$MESS["SALE_BASKET_COMPATIBLE_BASKET_ITEM_PROPS_NOT_FOUND"] = "Ð­Ð»ÐµÐ¼ÐµÐ½Ñ‚ ÐºÐ¾Ñ€Ð·Ð¸Ð½Ñ‹ Ñ Ð´Ð°Ð½Ð½Ñ‹Ð¼Ð¸ ÑÐ²Ð¾Ð¹ÑÑ‚Ð²Ð°Ð¼Ð¸ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
+$MESS["SALE_BASKET_COMPATIBLE_BASKET_COLLECTION_NOT_FOUND"] = "ÐšÐ¾Ñ€Ð·Ð¸Ð½Ð° Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð°";
+$MESS["SALE_BASKET_COMPATIBLE_BASKET_ITEM_ERROR_BIND_TO_ORDER"] = "Ð¢Ð¾Ð²Ð°Ñ€ ÑƒÐ¶Ðµ Ð¿Ñ€Ð¸Ð²ÑÐ·Ð°Ð½ Ðº Ð·Ð°ÐºÐ°Ð·Ñƒ";

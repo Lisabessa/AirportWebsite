@@ -1,13 +1,13 @@
 <?
-$MESS ['BLOG_BLOG_BLOG_MORE'] = "×èòàòü ïîäðîáíåå...";
-$MESS ['BLOG_BLOG_BLOG_CATEGORY'] = "Òåãè:";
-$MESS ['BLOG_BLOG_BLOG_COMMENTS'] = "Êîììåíòàðèåâ:";
-$MESS ['BLOG_BLOG_BLOG_VIEWS'] = "Ïðîñìîòðîâ:";
-$MESS ['BLOG_BLOG_BLOG_NO_AVAIBLE_MES'] = "Äîñòóïíûõ ñîîáùåíèé íåò";
-$MESS ['BLOG_MES_DELETE_POST_CONFIRM'] = "Âû óâåðåíû, ÷òî õîòèòå óäàëèòü ñîîáùåíèå?";
-$MESS ['BLOG_MES_EDIT'] = "Ðåäàêòèðîâàòü";
-$MESS ['BLOG_MES_DELETE'] = "Óäàëèòü";
-$MESS ['BLOG_MES_HIDE'] = "Ñêðûòü";
-$MESS ['BLOG_MES_HIDE_POST_CONFIRM'] = "Âû óâåðåíû, ÷òî õîòèòå ñêðûòü ýòî ñîîáùåíèå?";
-$MESS["BLOG_PHOTO"] = "Ôîòî:";
+$MESS ['BLOG_BLOG_BLOG_MORE'] = "Ð§Ð¸Ñ‚Ð°Ñ‚ÑŒ Ð¿Ð¾Ð´Ñ€Ð¾Ð±Ð½ÐµÐµ...";
+$MESS ['BLOG_BLOG_BLOG_CATEGORY'] = "Ð¢ÐµÐ³Ð¸:";
+$MESS ['BLOG_BLOG_BLOG_COMMENTS'] = "ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸ÐµÐ²:";
+$MESS ['BLOG_BLOG_BLOG_VIEWS'] = "ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð¾Ð²:";
+$MESS ['BLOG_BLOG_BLOG_NO_AVAIBLE_MES'] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿Ð½Ñ‹Ñ… ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ð¹ Ð½ÐµÑ‚";
+$MESS ['BLOG_MES_DELETE_POST_CONFIRM'] = "Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹, Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ?";
+$MESS ['BLOG_MES_EDIT'] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ";
+$MESS ['BLOG_MES_DELETE'] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";
+$MESS ['BLOG_MES_HIDE'] = "Ð¡ÐºÑ€Ñ‹Ñ‚ÑŒ";
+$MESS ['BLOG_MES_HIDE_POST_CONFIRM'] = "Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹, Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑÐºÑ€Ñ‹Ñ‚ÑŒ ÑÑ‚Ð¾ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ?";
+$MESS["BLOG_PHOTO"] = "Ð¤Ð¾Ñ‚Ð¾:";
 ?>

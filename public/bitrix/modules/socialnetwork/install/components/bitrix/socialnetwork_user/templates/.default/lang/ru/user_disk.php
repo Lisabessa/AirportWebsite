@@ -1,5 +1,5 @@
 <?
-$MESS["DISK_UPLOAD_WITH_FILE_DRAG_AND_DROP"] = "Перетащить с помощью Drag'n'drop";
-$MESS["DISK_UPLOAD_FILE_OR_IMAGE"] = "Загрузить файл<br>или картинку";
-$MESS["DISK_VIEW_SMALL_DETAIL_SIDEBAR"] = "Выберите файл или папку, <br> чтобы просмотреть <br>их свойства.";
+$MESS["DISK_UPLOAD_WITH_FILE_DRAG_AND_DROP"] = "РџРµСЂРµС‚Р°С‰РёС‚СЊ СЃ РїРѕРјРѕС‰СЊСЋ Drag'n'drop";
+$MESS["DISK_UPLOAD_FILE_OR_IMAGE"] = "Р—Р°РіСЂСѓР·РёС‚СЊ С„Р°Р№Р»<br>РёР»Рё РєР°СЂС‚РёРЅРєСѓ";
+$MESS["DISK_VIEW_SMALL_DETAIL_SIDEBAR"] = "Р’С‹Р±РµСЂРёС‚Рµ С„Р°Р№Р» РёР»Рё РїР°РїРєСѓ, <br> С‡С‚РѕР±С‹ РїСЂРѕСЃРјРѕС‚СЂРµС‚СЊ <br>РёС… СЃРІРѕР№СЃС‚РІР°.";
 ?>

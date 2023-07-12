@@ -1,6 +1,6 @@
 <?php
-$MESS['LANDING_OP_NAME_READ'] = 'Ïðîñìîòð';
-$MESS['LANDING_OP_NAME_EDIT'] = 'Ðåäàêòèðîâàíèå';
-$MESS['LANDING_OP_NAME_SETT'] = 'Èçìåíåíèå íàñòðîåê';
-$MESS['LANDING_OP_NAME_PUBLIC'] = 'Ïóáëèêàöèÿ';
-$MESS['LANDING_OP_NAME_DELETE'] = 'Óäàëåíèå';
+$MESS['LANDING_OP_NAME_READ'] = 'ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€';
+$MESS['LANDING_OP_NAME_EDIT'] = 'Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ';
+$MESS['LANDING_OP_NAME_SETT'] = 'Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ Ð½Ð°ÑÑ‚Ñ€Ð¾ÐµÐº';
+$MESS['LANDING_OP_NAME_PUBLIC'] = 'ÐŸÑƒÐ±Ð»Ð¸ÐºÐ°Ñ†Ð¸Ñ';
+$MESS['LANDING_OP_NAME_DELETE'] = 'Ð£Ð´Ð°Ð»ÐµÐ½Ð¸Ðµ';

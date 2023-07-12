@@ -1,6 +1,6 @@
 <?
-$MESS['SALE_LOCATION_MIGRATION_PLZ_MIGRATE_NOTIFIER'] = "Äëÿ àêòèâàö³¿ íîâèõ ì³ñöåçíàõîäæåíü, ïåðåéä³òü, áóäü ëàñêà, íà #ANCHOR_MIGRATE#ñòîð³íêó îíîâëåííÿ#ANCHOR_END#";
-$MESS['SALE_LOCATION_TYPE_CITY'] = "Ì³ñòî";
-$MESS['SALE_LOCATION_TYPE_COUNTRY'] = "Êðà¿íà";
-$MESS['SALE_LOCATION_TYPE_REGION'] = "Ðåã³îí";
+$MESS['SALE_LOCATION_MIGRATION_PLZ_MIGRATE_NOTIFIER'] = "Ð”Ð»Ñ Ð°ÐºÑ‚Ð¸Ð²Ð°Ñ†Ñ–Ñ— Ð½Ð¾Ð²Ð¸Ñ… Ð¼Ñ–ÑÑ†ÐµÐ·Ð½Ð°Ñ…Ð¾Ð´Ð¶ÐµÐ½ÑŒ, Ð¿ÐµÑ€ÐµÐ¹Ð´Ñ–Ñ‚ÑŒ, Ð±ÑƒÐ´ÑŒ Ð»Ð°ÑÐºÐ°, Ð½Ð° #ANCHOR_MIGRATE#ÑÑ‚Ð¾Ñ€Ñ–Ð½ÐºÑƒ Ð¾Ð½Ð¾Ð²Ð»ÐµÐ½Ð½Ñ#ANCHOR_END#";
+$MESS['SALE_LOCATION_TYPE_CITY'] = "ÐœÑ–ÑÑ‚Ð¾";
+$MESS['SALE_LOCATION_TYPE_COUNTRY'] = "ÐšÑ€Ð°Ñ—Ð½Ð°";
+$MESS['SALE_LOCATION_TYPE_REGION'] = "Ð ÐµÐ³Ñ–Ð¾Ð½";
 ?>

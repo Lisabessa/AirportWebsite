@@ -1,10 +1,10 @@
 <?
-$MESS["CSD_INCORRECT_SESSION"] = "Âàøà ñåññèÿ èñòåêëà. Çàêðîéòå äèàëîãîâîå îêíî è àâòîðèçóéòåñü çàíîâî, ïîñëå ÷åãî
-ïîâòîðèòå îïåðàöèþ.";
-$MESS["CSD_MODULE_NOT_INSTALLED"] = "Ìîäóëü \"#NAME#\" íå óñòàíîâëåí";
-$MESS["CSD_ACCESS_DENIED"] = "Äîñòóï çàïðåùåí";
-$MESS["CSD_NUMBER_SUBSCRIPTIONS"] = "Êîëè÷åñòâî ïîäïèñîê:";
-$MESS["CSD_NUMBER_ACTIVE_SUBSCRIPTIONS"] = "Êîëè÷åñòâî àêòèâíûõ ïîäïèñîê:";
-$MESS["CSD_LIST_SUBSCRIPTIONS"] = "Ñïèñîê ïîäïèñîê:";
-$MESS["CSD_LIST_SUBSCRIPTIONS_TEXT"] = "ïîñìîòðåòü";
+$MESS["CSD_INCORRECT_SESSION"] = "Ð’Ð°ÑˆÐ° ÑÐµÑÑÐ¸Ñ Ð¸ÑÑ‚ÐµÐºÐ»Ð°. Ð—Ð°ÐºÑ€Ð¾Ð¹Ñ‚Ðµ Ð´Ð¸Ð°Ð»Ð¾Ð³Ð¾Ð²Ð¾Ðµ Ð¾ÐºÐ½Ð¾ Ð¸ Ð°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·ÑƒÐ¹Ñ‚ÐµÑÑŒ Ð·Ð°Ð½Ð¾Ð²Ð¾, Ð¿Ð¾ÑÐ»Ðµ Ñ‡ÐµÐ³Ð¾
+Ð¿Ð¾Ð²Ñ‚Ð¾Ñ€Ð¸Ñ‚Ðµ Ð¾Ð¿ÐµÑ€Ð°Ñ†Ð¸ÑŽ.";
+$MESS["CSD_MODULE_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ \"#NAME#\" Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½";
+$MESS["CSD_ACCESS_DENIED"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ð·Ð°Ð¿Ñ€ÐµÑ‰ÐµÐ½";
+$MESS["CSD_NUMBER_SUBSCRIPTIONS"] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ð¿Ð¾Ð´Ð¿Ð¸ÑÐ¾Ðº:";
+$MESS["CSD_NUMBER_ACTIVE_SUBSCRIPTIONS"] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ð°ÐºÑ‚Ð¸Ð²Ð½Ñ‹Ñ… Ð¿Ð¾Ð´Ð¿Ð¸ÑÐ¾Ðº:";
+$MESS["CSD_LIST_SUBSCRIPTIONS"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð¿Ð¾Ð´Ð¿Ð¸ÑÐ¾Ðº:";
+$MESS["CSD_LIST_SUBSCRIPTIONS_TEXT"] = "Ð¿Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ÐµÑ‚ÑŒ";
 ?>

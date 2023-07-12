@@ -1,4 +1,4 @@
 <?
-$MESS["FOOTER_DISIGN"] = "Работает на <a href=\"http://www.1c-bitrix.ru\" title=\"Работает на &laquo;1С-Битрикс: Управление сайтом&raquo;\">&laquo;1С-Битрикс: Управление сайтом&raquo;</a>";
+$MESS["FOOTER_DISIGN"] = "Р Р°Р±РѕС‚Р°РµС‚ РЅР° <a href=\"http://www.1c-bitrix.ru\" title=\"Р Р°Р±РѕС‚Р°РµС‚ РЅР° &laquo;1РЎ-Р‘РёС‚СЂРёРєСЃ: РЈРїСЂР°РІР»РµРЅРёРµ СЃР°Р№С‚РѕРј&raquo;\">&laquo;1РЎ-Р‘РёС‚СЂРёРєСЃ: РЈРїСЂР°РІР»РµРЅРёРµ СЃР°Р№С‚РѕРј&raquo;</a>";
 $MESS["DATE_FORMAT"] = "d.m.Y";
 ?>

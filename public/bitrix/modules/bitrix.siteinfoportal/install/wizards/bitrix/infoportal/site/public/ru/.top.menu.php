@@ -1,42 +1,42 @@
 <?
 $aMenuLinks = Array(
 	Array(
-		"Áëîãè", 
+		"Ð‘Ð»Ð¾Ð³Ð¸", 
 		"blogs/", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
-		"Ðàáîòà", 
+		"Ð Ð°Ð±Ð¾Ñ‚Ð°", 
 		"job/", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
-		"Ôîòî", 
+		"Ð¤Ð¾Ñ‚Ð¾", 
 		"photo/", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
-		"Îáúÿâëåíèÿ", 
+		"ÐžÐ±ÑŠÑÐ²Ð»ÐµÐ½Ð¸Ñ", 
 		"board/", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
-		"Ôîðóì", 
+		"Ð¤Ð¾Ñ€ÑƒÐ¼", 
 		"forum/", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
-		"Ñîáûòèÿ", 
+		"Ð¡Ð¾Ð±Ñ‹Ñ‚Ð¸Ñ", 
 		"events-calendar/", 
 		Array(), 
 		Array(), 

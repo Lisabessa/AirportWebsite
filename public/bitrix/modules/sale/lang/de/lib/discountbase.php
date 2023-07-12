@@ -1,12 +1,12 @@
 <?php
 $MESS["BX_SALE_DISCOUNT_APPLY_MODE_ADD_EXT"] = "auch dann anwenden, wenn andere Rabatte im Einsatz sind";
-$MESS["BX_SALE_DISCOUNT_APPLY_MODE_DISABLE_EXT"] = "nicht anwenden für Produkte, für welche irgendein Rabatt bereits angewendet wurde";
-$MESS["BX_SALE_DISCOUNT_APPLY_MODE_FULL_DISABLE"] = "alle Warenkorbregeln deaktivieren, wenn es Produkte gibt, für die irgendein Rabatt bereits angewendet wurde";
+$MESS["BX_SALE_DISCOUNT_APPLY_MODE_DISABLE_EXT"] = "nicht anwenden fÃ¼r Produkte, fÃ¼r welche irgendein Rabatt bereits angewendet wurde";
+$MESS["BX_SALE_DISCOUNT_APPLY_MODE_FULL_DISABLE"] = "alle Warenkorbregeln deaktivieren, wenn es Produkte gibt, fÃ¼r die irgendein Rabatt bereits angewendet wurde";
 $MESS["BX_SALE_DISCOUNT_APPLY_MODE_FULL_LAST"] = "alle Warenkorbregeln deaktivieren, wenn es Produkte gibt, wo beim Rabatt die Option \"Rabatte nicht mehr anwenden\" aktiviert ist";
-$MESS["BX_SALE_DISCOUNT_APPLY_MODE_LAST_EXT"] = "nicht anwenden für Produkte, bei denen im Rabatt die Option \"Rabatte nicht mehr anwenden\" aktiviert ist.";
+$MESS["BX_SALE_DISCOUNT_APPLY_MODE_LAST_EXT"] = "nicht anwenden fÃ¼r Produkte, bei denen im Rabatt die Option \"Rabatte nicht mehr anwenden\" aktiviert ist.";
 $MESS["BX_SALE_DISCOUNT_ERR_APPLY_WITHOUT_EXT_DISCOUNT"] = "Der angewendete Rabatt wurde nicht gefunden. Die komplette Bestellung muss neu kalkuliert werden.";
 $MESS["BX_SALE_DISCOUNT_ERR_APPLY_WITHOUT_SALE_DISCOUNT"] = "Die angewendete Regel wurde nicht gefunden. Die komplette Bestellung muss neu kalkuliert werden.";
-$MESS["BX_SALE_DISCOUNT_ERR_BAD_COUPONS_USED"] = "Die von Ihnen hinzugefügten Gutscheine sind ungültig und können nicht genutzt werden";
+$MESS["BX_SALE_DISCOUNT_ERR_BAD_COUPONS_USED"] = "Die von Ihnen hinzugefÃ¼gten Gutscheine sind ungÃ¼ltig und kÃ¶nnen nicht genutzt werden";
 $MESS["BX_SALE_DISCOUNT_ERR_BAD_PRICES"] = "Achtung! Produktpreise und Gesamtbetrag sind nicht korrekt. Die Bestellung muss neu kalkuliert werden.";
 $MESS["BX_SALE_DISCOUNT_ERR_BAD_USE_MODE"] = "Unbekanntes Verfahren zur Rabattkalkulation.";
 $MESS["BX_SALE_DISCOUNT_ERR_BASKET_BUNDLE_EMPTY"] = "Eins oder mehrere Elemente des Pakets fehlen";

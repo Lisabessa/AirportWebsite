@@ -1,8 +1,8 @@
 <?php
-$MESS["FORUM_PERMISSION_ACCESS_DENIED"] = "нет доступа";
-$MESS["FORUM_PERMISSION_CAN_READ"] = "чтение";
-$MESS["FORUM_PERMISSION_CAN_ADD_MESSAGE"] = "ответ";
-$MESS["FORUM_PERMISSION_CAN_ADD_TOPIC"] = "новая тема";
-$MESS["FORUM_PERMISSION_CAN_MODERATE"] = "модерирование";
-$MESS["FORUM_PERMISSION_CAN_EDIT"] = "редактирование";
-$MESS["FORUM_PERMISSION_FULL_ACCESS"] = "полный доступ";
+$MESS["FORUM_PERMISSION_ACCESS_DENIED"] = "РЅРµС‚ РґРѕСЃС‚СѓРїР°";
+$MESS["FORUM_PERMISSION_CAN_READ"] = "С‡С‚РµРЅРёРµ";
+$MESS["FORUM_PERMISSION_CAN_ADD_MESSAGE"] = "РѕС‚РІРµС‚";
+$MESS["FORUM_PERMISSION_CAN_ADD_TOPIC"] = "РЅРѕРІР°СЏ С‚РµРјР°";
+$MESS["FORUM_PERMISSION_CAN_MODERATE"] = "РјРѕРґРµСЂРёСЂРѕРІР°РЅРёРµ";
+$MESS["FORUM_PERMISSION_CAN_EDIT"] = "СЂРµРґР°РєС‚РёСЂРѕРІР°РЅРёРµ";
+$MESS["FORUM_PERMISSION_FULL_ACCESS"] = "РїРѕР»РЅС‹Р№ РґРѕСЃС‚СѓРї";

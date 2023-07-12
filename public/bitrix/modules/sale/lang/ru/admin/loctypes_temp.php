@@ -1,8 +1,8 @@
 <?
-$MESS['COUNTRY'] = 'Ñòðàíà';
-$MESS['COUNTRY_DISTRICT'] = 'Îêðóã';
-$MESS['REGION'] = 'Îáëàñòü';
-$MESS['SUBREGION'] = 'Ðàéîí îáëàñòè';
-$MESS['CITY'] = 'Ãîðîä';
-$MESS['VILLAGE'] = 'Ñåëî';
-$MESS['STREET'] = 'Óëèöà';
+$MESS['COUNTRY'] = 'Ð¡Ñ‚Ñ€Ð°Ð½Ð°';
+$MESS['COUNTRY_DISTRICT'] = 'ÐžÐºÑ€ÑƒÐ³';
+$MESS['REGION'] = 'ÐžÐ±Ð»Ð°ÑÑ‚ÑŒ';
+$MESS['SUBREGION'] = 'Ð Ð°Ð¹Ð¾Ð½ Ð¾Ð±Ð»Ð°ÑÑ‚Ð¸';
+$MESS['CITY'] = 'Ð“Ð¾Ñ€Ð¾Ð´';
+$MESS['VILLAGE'] = 'Ð¡ÐµÐ»Ð¾';
+$MESS['STREET'] = 'Ð£Ð»Ð¸Ñ†Ð°';

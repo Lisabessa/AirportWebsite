@@ -1,3 +1,3 @@
 <?
-$MESS["MAIN_HELPER_LOADER"] = "Çàãðóçêà...";
-$MESS["MAIN_HELPER_TITLE"] = "Ïîääåðæêà";
+$MESS["MAIN_HELPER_LOADER"] = "Ð—Ð°Ð³Ñ€ÑƒÐ·ÐºÐ°...";
+$MESS["MAIN_HELPER_TITLE"] = "ÐŸÐ¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ°";

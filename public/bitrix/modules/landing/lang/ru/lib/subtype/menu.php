@@ -1,9 +1,9 @@
 <?php
-$MESS['LANDING_BLOCK_ST_PERSONAL_PERSONAL'] = 'Ïåðñîíàëüíûé ðàçäåë';
-$MESS['LANDING_BLOCK_ST_PERSONAL_ORDERS'] = 'Òåêóùèå çàêàçû';
-$MESS['LANDING_BLOCK_ST_PERSONAL_ACCOUNT'] = 'Ëè÷íûé ñ÷åò';
-$MESS['LANDING_BLOCK_ST_PERSONAL_PRIVATE'] = 'Ëè÷íûå äàííûå';
-$MESS['LANDING_BLOCK_ST_PERSONAL_ORDERS_HISTORY'] = 'Èñòîðèÿ çàêàçîâ';
-$MESS['LANDING_BLOCK_ST_PERSONAL_PROFILE'] = 'Ïðîôèëè çàêàçîâ';
-$MESS['LANDING_BLOCK_ST_PERSONAL_CART'] = 'Êîðçèíà';
-$MESS['LANDING_BLOCK_ST_PERSONAL_SUBSCRIBE'] = 'Ïîäïèñêà';
+$MESS['LANDING_BLOCK_ST_PERSONAL_PERSONAL'] = 'ÐŸÐµÑ€ÑÐ¾Ð½Ð°Ð»ÑŒÐ½Ñ‹Ð¹ Ñ€Ð°Ð·Ð´ÐµÐ»';
+$MESS['LANDING_BLOCK_ST_PERSONAL_ORDERS'] = 'Ð¢ÐµÐºÑƒÑ‰Ð¸Ðµ Ð·Ð°ÐºÐ°Ð·Ñ‹';
+$MESS['LANDING_BLOCK_ST_PERSONAL_ACCOUNT'] = 'Ð›Ð¸Ñ‡Ð½Ñ‹Ð¹ ÑÑ‡ÐµÑ‚';
+$MESS['LANDING_BLOCK_ST_PERSONAL_PRIVATE'] = 'Ð›Ð¸Ñ‡Ð½Ñ‹Ðµ Ð´Ð°Ð½Ð½Ñ‹Ðµ';
+$MESS['LANDING_BLOCK_ST_PERSONAL_ORDERS_HISTORY'] = 'Ð˜ÑÑ‚Ð¾Ñ€Ð¸Ñ Ð·Ð°ÐºÐ°Ð·Ð¾Ð²';
+$MESS['LANDING_BLOCK_ST_PERSONAL_PROFILE'] = 'ÐŸÑ€Ð¾Ñ„Ð¸Ð»Ð¸ Ð·Ð°ÐºÐ°Ð·Ð¾Ð²';
+$MESS['LANDING_BLOCK_ST_PERSONAL_CART'] = 'ÐšÐ¾Ñ€Ð·Ð¸Ð½Ð°';
+$MESS['LANDING_BLOCK_ST_PERSONAL_SUBSCRIBE'] = 'ÐŸÐ¾Ð´Ð¿Ð¸ÑÐºÐ°';

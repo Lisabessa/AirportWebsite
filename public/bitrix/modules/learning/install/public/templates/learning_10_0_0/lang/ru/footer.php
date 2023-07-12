@@ -1,3 +1,3 @@
 <?
-$MESS["LEARNING_TEMPLATE_TOP"] = "νΰβεπυ";
+$MESS["LEARNING_TEMPLATE_TOP"] = "Π½Π°Π²ΠµΡ€Ρ…";
 ?>

@@ -1,83 +1,83 @@
 <?
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_ERR_IBLOCK_EMPTY"] = "Не указан идентификатор инфоблока";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_ERR_ELEMENT_EMPTY"] = "Не указан идентификатор элемента инфоблока";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_ERR_CATALOG_ABSENT"] = "Инфоблок не является торговым каталогоам и не имеет торговых предложений";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_ERR_ZERO_RANGE"] = "Найден диапазон количества 0 - 0. Эта проблема может быть следствием неверного использования api.";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_ERR_INVERT_RANGE"] = "Левая граница диапазона количества больше правой: #LEFT# - #RIGHT#";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_ERR_LEFT_BORDER_EXIST"] = "Левая граница диапазона количества #LEFT# - #RIGHT# совпадает с границей другого диапазона";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_ERR_RIGHT_BORDER_EXIST"] = "Правая граница диапазона количества #LEFT# - #RIGHT# совпадает с границей другого диапазона";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_ERR_RANGE_OVERLAP"] = "Диапазон количества #LEFT# - #RIGHT# пересекается с другими диапазонами";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_ERR_IBLOCK_EMPTY"] = "РќРµ СѓРєР°Р·Р°РЅ РёРґРµРЅС‚РёС„РёРєР°С‚РѕСЂ РёРЅС„РѕР±Р»РѕРєР°";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_ERR_ELEMENT_EMPTY"] = "РќРµ СѓРєР°Р·Р°РЅ РёРґРµРЅС‚РёС„РёРєР°С‚РѕСЂ СЌР»РµРјРµРЅС‚Р° РёРЅС„РѕР±Р»РѕРєР°";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_ERR_CATALOG_ABSENT"] = "РРЅС„РѕР±Р»РѕРє РЅРµ СЏРІР»СЏРµС‚СЃСЏ С‚РѕСЂРіРѕРІС‹Рј РєР°С‚Р°Р»РѕРіРѕР°Рј Рё РЅРµ РёРјРµРµС‚ С‚РѕСЂРіРѕРІС‹С… РїСЂРµРґР»РѕР¶РµРЅРёР№";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_ERR_ZERO_RANGE"] = "РќР°Р№РґРµРЅ РґРёР°РїР°Р·РѕРЅ РєРѕР»РёС‡РµСЃС‚РІР° 0 - 0. Р­С‚Р° РїСЂРѕР±Р»РµРјР° РјРѕР¶РµС‚ Р±С‹С‚СЊ СЃР»РµРґСЃС‚РІРёРµРј РЅРµРІРµСЂРЅРѕРіРѕ РёСЃРїРѕР»СЊР·РѕРІР°РЅРёСЏ api.";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_ERR_INVERT_RANGE"] = "Р›РµРІР°СЏ РіСЂР°РЅРёС†Р° РґРёР°РїР°Р·РѕРЅР° РєРѕР»РёС‡РµСЃС‚РІР° Р±РѕР»СЊС€Рµ РїСЂР°РІРѕР№: #LEFT# - #RIGHT#";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_ERR_LEFT_BORDER_EXIST"] = "Р›РµРІР°СЏ РіСЂР°РЅРёС†Р° РґРёР°РїР°Р·РѕРЅР° РєРѕР»РёС‡РµСЃС‚РІР° #LEFT# - #RIGHT# СЃРѕРІРїР°РґР°РµС‚ СЃ РіСЂР°РЅРёС†РµР№ РґСЂСѓРіРѕРіРѕ РґРёР°РїР°Р·РѕРЅР°";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_ERR_RIGHT_BORDER_EXIST"] = "РџСЂР°РІР°СЏ РіСЂР°РЅРёС†Р° РґРёР°РїР°Р·РѕРЅР° РєРѕР»РёС‡РµСЃС‚РІР° #LEFT# - #RIGHT# СЃРѕРІРїР°РґР°РµС‚ СЃ РіСЂР°РЅРёС†РµР№ РґСЂСѓРіРѕРіРѕ РґРёР°РїР°Р·РѕРЅР°";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_ERR_RANGE_OVERLAP"] = "Р”РёР°РїР°Р·РѕРЅ РєРѕР»РёС‡РµСЃС‚РІР° #LEFT# - #RIGHT# РїРµСЂРµСЃРµРєР°РµС‚СЃСЏ СЃ РґСЂСѓРіРёРјРё РґРёР°РїР°Р·РѕРЅР°РјРё";
 
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_PRICE_MODE_CONTROL_TITLE"] = "Метод формирования цены:";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_PRICE_MODE_SIMPLE"] = "простой";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_PRICE_MODE_RANGE"] = "количественный";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_PRICE_MODE_RATIO"] = "коэффициентный";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_PRICE_MODE_CONTROL_TITLE"] = "РњРµС‚РѕРґ С„РѕСЂРјРёСЂРѕРІР°РЅРёСЏ С†РµРЅС‹:";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_PRICE_MODE_SIMPLE"] = "РїСЂРѕСЃС‚РѕР№";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_PRICE_MODE_RANGE"] = "РєРѕР»РёС‡РµСЃС‚РІРµРЅРЅС‹Р№";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_PRICE_MODE_RATIO"] = "РєРѕСЌС„С„РёС†РёРµРЅС‚РЅС‹Р№";
 
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_PRICE_TYPE_CONTROL_TITLE"] = "Тип цены:";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_PRICE_TYPE_CONTROL_TITLE"] = "РўРёРї С†РµРЅС‹:";
 
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_PRODUCT_TAB_GENERAL"] = "Параметры";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_PRODUCT_TAB_GENERAL_TITLE"] = "Параметры товара";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_PRODUCT_TAB_PRICES"] = "Цены";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_PRODUCT_TAB_PRICES_TITLE"] = "Цены товара";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_PRODUCT_TAB_STORES"] = "Склады";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_PRODUCT_TAB_STORES_TITLE"] = "Управление товаром на складах";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_PRODUCT_TAB_BARCODES"] = "Штрихкод";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_PRODUCT_TAB_BARCODES_TITLE"] = "Управление штрихкодами";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_PRODUCT_TAB_SUBSCRIPTION"] = "Группы";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_PRODUCT_TAB_SUBSCRIPTION_TITLE"] = "Группы пользователей";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_PRODUCT_TAB_DISCOUNTS"] = "Скидки";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_PRODUCT_TAB_DISCOUNTS_TITLE"] = "Скидки, действующие на товар";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_PRODUCT_TAB_GENERAL"] = "РџР°СЂР°РјРµС‚СЂС‹";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_PRODUCT_TAB_GENERAL_TITLE"] = "РџР°СЂР°РјРµС‚СЂС‹ С‚РѕРІР°СЂР°";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_PRODUCT_TAB_PRICES"] = "Р¦РµРЅС‹";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_PRODUCT_TAB_PRICES_TITLE"] = "Р¦РµРЅС‹ С‚РѕРІР°СЂР°";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_PRODUCT_TAB_STORES"] = "РЎРєР»Р°РґС‹";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_PRODUCT_TAB_STORES_TITLE"] = "РЈРїСЂР°РІР»РµРЅРёРµ С‚РѕРІР°СЂРѕРј РЅР° СЃРєР»Р°РґР°С…";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_PRODUCT_TAB_BARCODES"] = "РЁС‚СЂРёС…РєРѕРґ";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_PRODUCT_TAB_BARCODES_TITLE"] = "РЈРїСЂР°РІР»РµРЅРёРµ С€С‚СЂРёС…РєРѕРґР°РјРё";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_PRODUCT_TAB_SUBSCRIPTION"] = "Р“СЂСѓРїРїС‹";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_PRODUCT_TAB_SUBSCRIPTION_TITLE"] = "Р“СЂСѓРїРїС‹ РїРѕР»СЊР·РѕРІР°С‚РµР»РµР№";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_PRODUCT_TAB_DISCOUNTS"] = "РЎРєРёРґРєРё";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_PRODUCT_TAB_DISCOUNTS_TITLE"] = "РЎРєРёРґРєРё, РґРµР№СЃС‚РІСѓСЋС‰РёРµ РЅР° С‚РѕРІР°СЂ";
 
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_SECTION_QUANTITY"] = "Количественный учет";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_SECTION_PRODUCT_PARAMS"] = "Параметры";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_SECTION_PRODUCT_SIZES"] = "Вес и размеры";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_SECTION_SUBSCRIPTION"] = "Подписка";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_SECTION_PRICES_PARAMS"] = "Основные параметры";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_SECTION_PRODUCT_PRICES"] = "Цены";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_SECTION_QUANTITY"] = "РљРѕР»РёС‡РµСЃС‚РІРµРЅРЅС‹Р№ СѓС‡РµС‚";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_SECTION_PRODUCT_PARAMS"] = "РџР°СЂР°РјРµС‚СЂС‹";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_SECTION_PRODUCT_SIZES"] = "Р’РµСЃ Рё СЂР°Р·РјРµСЂС‹";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_SECTION_SUBSCRIPTION"] = "РџРѕРґРїРёСЃРєР°";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_SECTION_PRICES_PARAMS"] = "РћСЃРЅРѕРІРЅС‹Рµ РїР°СЂР°РјРµС‚СЂС‹";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_SECTION_PRODUCT_PRICES"] = "Р¦РµРЅС‹";
 
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_FIELD_TITLE_QUANTITY"] = "Доступное количество:";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_FIELD_TITLE_QUANTITY_RESERVED"] = "Зарезервированное количество:";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_FIELD_TITLE_MEASURE"] = "Единица измерения:";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_FIELD_TITLE_DEFAULT_MEASURE_RATIO"] = "Коэффициент единицы измерения:";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_FIELD_TITLE_PURCHASING_PRICE"] = "Закупочная цена:";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_FIELD_TITLE_VAT_ID"] = "Ставка НДС:";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_FIELD_TITLE_VAT_INCLUDED"] = "НДС включен в цену:";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_FIELD_TITLE_QUANTITY_TRACE"] = "Включить количественный учет:";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_FIELD_TITLE_CAN_BUY_ZERO"] = "Разрешить покупку при отсутствии товара (включая разрешение отрицательного количества товара):";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_FIELD_TITLE_SUBSCRIBE"] = "Разрешить подписку при отсутствии товара:";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_FIELD_TITLE_WEIGHT"] = "Вес (грамм):";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_FIELD_TITLE_LENGTH"] = "Длина (мм):";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_FIELD_TITLE_WIDTH"] = "Ширина (мм):";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_FIELD_TITLE_HEIGHT"] = "Высота (мм):";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_FIELD_TITLE_PAYMENT_TYPE"] = "Тип оплаты:";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_FIELD_TITLE_RECUR_SCHEME"] = "Период оплаты:";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_FIELD_TITLE_TRIAL_PRICE_ID"] = "Пробная оплата для товара:";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_FIELD_TITLE_WITHOUT_ORDER"] = "Продление без оформления заказа:";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_FIELD_TITLE_QUANTITY"] = "Р”РѕСЃС‚СѓРїРЅРѕРµ РєРѕР»РёС‡РµСЃС‚РІРѕ:";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_FIELD_TITLE_QUANTITY_RESERVED"] = "Р—Р°СЂРµР·РµСЂРІРёСЂРѕРІР°РЅРЅРѕРµ РєРѕР»РёС‡РµСЃС‚РІРѕ:";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_FIELD_TITLE_MEASURE"] = "Р•РґРёРЅРёС†Р° РёР·РјРµСЂРµРЅРёСЏ:";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_FIELD_TITLE_DEFAULT_MEASURE_RATIO"] = "РљРѕСЌС„С„РёС†РёРµРЅС‚ РµРґРёРЅРёС†С‹ РёР·РјРµСЂРµРЅРёСЏ:";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_FIELD_TITLE_PURCHASING_PRICE"] = "Р—Р°РєСѓРїРѕС‡РЅР°СЏ С†РµРЅР°:";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_FIELD_TITLE_VAT_ID"] = "РЎС‚Р°РІРєР° РќР”РЎ:";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_FIELD_TITLE_VAT_INCLUDED"] = "РќР”РЎ РІРєР»СЋС‡РµРЅ РІ С†РµРЅСѓ:";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_FIELD_TITLE_QUANTITY_TRACE"] = "Р’РєР»СЋС‡РёС‚СЊ РєРѕР»РёС‡РµСЃС‚РІРµРЅРЅС‹Р№ СѓС‡РµС‚:";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_FIELD_TITLE_CAN_BUY_ZERO"] = "Р Р°Р·СЂРµС€РёС‚СЊ РїРѕРєСѓРїРєСѓ РїСЂРё РѕС‚СЃСѓС‚СЃС‚РІРёРё С‚РѕРІР°СЂР° (РІРєР»СЋС‡Р°СЏ СЂР°Р·СЂРµС€РµРЅРёРµ РѕС‚СЂРёС†Р°С‚РµР»СЊРЅРѕРіРѕ РєРѕР»РёС‡РµСЃС‚РІР° С‚РѕРІР°СЂР°):";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_FIELD_TITLE_SUBSCRIBE"] = "Р Р°Р·СЂРµС€РёС‚СЊ РїРѕРґРїРёСЃРєСѓ РїСЂРё РѕС‚СЃСѓС‚СЃС‚РІРёРё С‚РѕРІР°СЂР°:";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_FIELD_TITLE_WEIGHT"] = "Р’РµСЃ (РіСЂР°РјРј):";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_FIELD_TITLE_LENGTH"] = "Р”Р»РёРЅР° (РјРј):";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_FIELD_TITLE_WIDTH"] = "РЁРёСЂРёРЅР° (РјРј):";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_FIELD_TITLE_HEIGHT"] = "Р’С‹СЃРѕС‚Р° (РјРј):";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_FIELD_TITLE_PAYMENT_TYPE"] = "РўРёРї РѕРїР»Р°С‚С‹:";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_FIELD_TITLE_RECUR_SCHEME"] = "РџРµСЂРёРѕРґ РѕРїР»Р°С‚С‹:";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_FIELD_TITLE_TRIAL_PRICE_ID"] = "РџСЂРѕР±РЅР°СЏ РѕРїР»Р°С‚Р° РґР»СЏ С‚РѕРІР°СЂР°:";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_FIELD_TITLE_WITHOUT_ORDER"] = "РџСЂРѕРґР»РµРЅРёРµ Р±РµР· РѕС„РѕСЂРјР»РµРЅРёСЏ Р·Р°РєР°Р·Р°:";
 
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_PRICE_COLUMN_QUANTITY_FROM"] = "От";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_PRICE_COLUMN_QUANTITY_TO"] = "До";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_PRICE_COLUMN_EXTRA"] = "Наценка";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_PRICE_COLUMN_VALUE"] = "Цена";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_PRICE_COLUMN_QUANTITY_FROM"] = "РћС‚";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_PRICE_COLUMN_QUANTITY_TO"] = "Р”Рѕ";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_PRICE_COLUMN_EXTRA"] = "РќР°С†РµРЅРєР°";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_PRICE_COLUMN_VALUE"] = "Р¦РµРЅР°";
 
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_FIELD_HINT_QUANTITY_FOR_SET"] = "Доступное количество комплекта рассчитывается по наличию товаров, у которых включен количественный учет и запрещена покупка при отсутствии товара либо, если таких в комплекте нет, по всем товарам, входящим в комплект";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_FIELD_HINT_MEASURE_FOR_SET"] = "Параметры \"Единица измерения\" и \"Коэффициент единицы измерения\" для комплекта задаются системой и не могут быть изменены";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_FIELD_HINT_PURCHASING_PRICE"] = "Закупочная цена устанавливается через документы складского учета";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_FIELD_HINT_QUANTITY_FOR_SET"] = "Р”РѕСЃС‚СѓРїРЅРѕРµ РєРѕР»РёС‡РµСЃС‚РІРѕ РєРѕРјРїР»РµРєС‚Р° СЂР°СЃСЃС‡РёС‚С‹РІР°РµС‚СЃСЏ РїРѕ РЅР°Р»РёС‡РёСЋ С‚РѕРІР°СЂРѕРІ, Сѓ РєРѕС‚РѕСЂС‹С… РІРєР»СЋС‡РµРЅ РєРѕР»РёС‡РµСЃС‚РІРµРЅРЅС‹Р№ СѓС‡РµС‚ Рё Р·Р°РїСЂРµС‰РµРЅР° РїРѕРєСѓРїРєР° РїСЂРё РѕС‚СЃСѓС‚СЃС‚РІРёРё С‚РѕРІР°СЂР° Р»РёР±Рѕ, РµСЃР»Рё С‚Р°РєРёС… РІ РєРѕРјРїР»РµРєС‚Рµ РЅРµС‚, РїРѕ РІСЃРµРј С‚РѕРІР°СЂР°Рј, РІС…РѕРґСЏС‰РёРј РІ РєРѕРјРїР»РµРєС‚";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_FIELD_HINT_MEASURE_FOR_SET"] = "РџР°СЂР°РјРµС‚СЂС‹ \"Р•РґРёРЅРёС†Р° РёР·РјРµСЂРµРЅРёСЏ\" Рё \"РљРѕСЌС„С„РёС†РёРµРЅС‚ РµРґРёРЅРёС†С‹ РёР·РјРµСЂРµРЅРёСЏ\" РґР»СЏ РєРѕРјРїР»РµРєС‚Р° Р·Р°РґР°СЋС‚СЃСЏ СЃРёСЃС‚РµРјРѕР№ Рё РЅРµ РјРѕРіСѓС‚ Р±С‹С‚СЊ РёР·РјРµРЅРµРЅС‹";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_FIELD_HINT_PURCHASING_PRICE"] = "Р—Р°РєСѓРїРѕС‡РЅР°СЏ С†РµРЅР° СѓСЃС‚Р°РЅР°РІР»РёРІР°РµС‚СЃСЏ С‡РµСЂРµР· РґРѕРєСѓРјРµРЅС‚С‹ СЃРєР»Р°РґСЃРєРѕРіРѕ СѓС‡РµС‚Р°";
 $MESS["BX_CATALOG_HELPER_PRODUCTEDIT_FIELD_HINT_QUANTITY_TRACE_FOR_SET"] = "";
 
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_FIELD_VALUE_IS_EMPTY"] = "не выбрано";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_FIELD_VALUE_IS_EMPTY"] = "РЅРµ РІС‹Р±СЂР°РЅРѕ";
 
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_MESS_STATUS_DEFAULT"] = "по умолчанию (#STATUS#)";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_MESS_STATUS_YES"] = "да";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_MESS_STATUS_NO"] = "нет";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_MESS_QUANTITY_TRACE_SET"] = "Параметры \"Включить количественный учет\", \"Разрешить покупку при отсутствии товара (включая разрешение отрицательного количества товара)\", выставляются автоматически, на основание значений товаров, которые входят в комплект и не могут быть изменены в ручную.<br>
-Если хотя бы для одного товара, входящего в комплект, включен количественный учет и запрещена покупка при отсутствии товара, у комплекта тоже будет включен количественный учет.";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_MESS_ACTIVE_STORES_EMPTY"] = "На данный момент в системе нет ни одного активного склада.";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_MESS_CREATE_STORE"] = "Для заведения склада перейдите на страницу <a href=\"#LINK#\">списка складов</a>";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_MESS_STORES_AMOUNT_INFO"] = "Складкой учет выключен. Количество товара на складах носит информационный характер и не влияет на расчет остатков товара.";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_MESS_BASE_PRICE_TYPE"] = "(базовая)";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_MESS_STATUS_DEFAULT"] = "РїРѕ СѓРјРѕР»С‡Р°РЅРёСЋ (#STATUS#)";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_MESS_STATUS_YES"] = "РґР°";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_MESS_STATUS_NO"] = "РЅРµС‚";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_MESS_QUANTITY_TRACE_SET"] = "РџР°СЂР°РјРµС‚СЂС‹ \"Р’РєР»СЋС‡РёС‚СЊ РєРѕР»РёС‡РµСЃС‚РІРµРЅРЅС‹Р№ СѓС‡РµС‚\", \"Р Р°Р·СЂРµС€РёС‚СЊ РїРѕРєСѓРїРєСѓ РїСЂРё РѕС‚СЃСѓС‚СЃС‚РІРёРё С‚РѕРІР°СЂР° (РІРєР»СЋС‡Р°СЏ СЂР°Р·СЂРµС€РµРЅРёРµ РѕС‚СЂРёС†Р°С‚РµР»СЊРЅРѕРіРѕ РєРѕР»РёС‡РµСЃС‚РІР° С‚РѕРІР°СЂР°)\", РІС‹СЃС‚Р°РІР»СЏСЋС‚СЃСЏ Р°РІС‚РѕРјР°С‚РёС‡РµСЃРєРё, РЅР° РѕСЃРЅРѕРІР°РЅРёРµ Р·РЅР°С‡РµРЅРёР№ С‚РѕРІР°СЂРѕРІ, РєРѕС‚РѕСЂС‹Рµ РІС…РѕРґСЏС‚ РІ РєРѕРјРїР»РµРєС‚ Рё РЅРµ РјРѕРіСѓС‚ Р±С‹С‚СЊ РёР·РјРµРЅРµРЅС‹ РІ СЂСѓС‡РЅСѓСЋ.<br>
+Р•СЃР»Рё С…РѕС‚СЏ Р±С‹ РґР»СЏ РѕРґРЅРѕРіРѕ С‚РѕРІР°СЂР°, РІС…РѕРґСЏС‰РµРіРѕ РІ РєРѕРјРїР»РµРєС‚, РІРєР»СЋС‡РµРЅ РєРѕР»РёС‡РµСЃС‚РІРµРЅРЅС‹Р№ СѓС‡РµС‚ Рё Р·Р°РїСЂРµС‰РµРЅР° РїРѕРєСѓРїРєР° РїСЂРё РѕС‚СЃСѓС‚СЃС‚РІРёРё С‚РѕРІР°СЂР°, Сѓ РєРѕРјРїР»РµРєС‚Р° С‚РѕР¶Рµ Р±СѓРґРµС‚ РІРєР»СЋС‡РµРЅ РєРѕР»РёС‡РµСЃС‚РІРµРЅРЅС‹Р№ СѓС‡РµС‚.";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_MESS_ACTIVE_STORES_EMPTY"] = "РќР° РґР°РЅРЅС‹Р№ РјРѕРјРµРЅС‚ РІ СЃРёСЃС‚РµРјРµ РЅРµС‚ РЅРё РѕРґРЅРѕРіРѕ Р°РєС‚РёРІРЅРѕРіРѕ СЃРєР»Р°РґР°.";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_MESS_CREATE_STORE"] = "Р”Р»СЏ Р·Р°РІРµРґРµРЅРёСЏ СЃРєР»Р°РґР° РїРµСЂРµР№РґРёС‚Рµ РЅР° СЃС‚СЂР°РЅРёС†Сѓ <a href=\"#LINK#\">СЃРїРёСЃРєР° СЃРєР»Р°РґРѕРІ</a>";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_MESS_STORES_AMOUNT_INFO"] = "РЎРєР»Р°РґРєРѕР№ СѓС‡РµС‚ РІС‹РєР»СЋС‡РµРЅ. РљРѕР»РёС‡РµСЃС‚РІРѕ С‚РѕРІР°СЂР° РЅР° СЃРєР»Р°РґР°С… РЅРѕСЃРёС‚ РёРЅС„РѕСЂРјР°С†РёРѕРЅРЅС‹Р№ С…Р°СЂР°РєС‚РµСЂ Рё РЅРµ РІР»РёСЏРµС‚ РЅР° СЂР°СЃС‡РµС‚ РѕСЃС‚Р°С‚РєРѕРІ С‚РѕРІР°СЂР°.";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_MESS_BASE_PRICE_TYPE"] = "(Р±Р°Р·РѕРІР°СЏ)";
 
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_STORES_FIELD_ID"] = "ID склада";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_STORES_FIELD_NAME"] = "Название";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_STORES_FIELD_ADDRESS"] = "Адрес";
-$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_STORES_FIELD_AMOUNT"] = "Количество на складе";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_STORES_FIELD_ID"] = "ID СЃРєР»Р°РґР°";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_STORES_FIELD_NAME"] = "РќР°Р·РІР°РЅРёРµ";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_STORES_FIELD_ADDRESS"] = "РђРґСЂРµСЃ";
+$MESS["BX_CATALOG_HELPER_PRODUCTEDIT_STORES_FIELD_AMOUNT"] = "РљРѕР»РёС‡РµСЃС‚РІРѕ РЅР° СЃРєР»Р°РґРµ";
 ?>

@@ -1,18 +1,18 @@
 <?
-$MESS["HIBLOCK_PROP_DIRECTORY_DESCRIPTION"] = "Ñïðàâî÷íèê";
-$MESS["HIBLOCK_PROP_DIRECTORY_SELECT_DIR"] = "Âûáåðèòå ñïðàâî÷íèê";
-$MESS["HIBLOCK_PROP_DIRECTORY_XML_ID"] = "Âíåøíèé êîä";
-$MESS["HIBLOCK_PROP_DIRECTORY_NAME"] = "Íàçâàíèå";
-$MESS["HIBLOCK_PROP_DIRECTORY_SORT"] = "Ñîðòèðîâêà";
-$MESS["HIBLOCK_PROP_DIRECTORY_DEF"] = "Ïî óìîë÷àíèþ";
-$MESS["HIBLOCK_PROP_DIRECTORY_LINK"] = "Ññûëêà";
-$MESS["HIBLOCK_PROP_DIRECTORY_FILE"] = "Èçîáðàæåíèå";
-$MESS["HIBLOCK_PROP_DIRECTORY_NEW_DIRECTORY"] = "Ñîçäàòü íîâûé ñïðàâî÷íèê";
-$MESS["HIBLOCK_PROP_DIRECTORY_NEW_NAME"] = "Íàçâàíèå ñïðàâî÷íèêà";
-$MESS["HIBLOCK_PROP_DIRECTORY_MORE"] = "Åùå";
-$MESS["HIBLOCK_PROP_DIRECTORY_DECSRIPTION"] = "Îïèñàíèå";
-$MESS["HIBLOCK_PROP_DIRECTORY_FULL_DESCRIPTION"] = "Ïîëíîå îïèñàíèå";
-$MESS["HIBLOCK_PROP_DIRECTORY_EMPTY_VALUE"] = "(íå óñòàíîâëåíî)";
-$MESS["HIBLOCK_PROP_DIRECTORY_EMPTY_DEFAULT_VALUE"] = "(íåò çíà÷åíèÿ ïî óìîë÷àíèþ)";
-$MESS["HIBLOCK_PROP_DIRECTORY_EMPTY_GRID_VALUE"] = "íå âûáðàíî";
+$MESS["HIBLOCK_PROP_DIRECTORY_DESCRIPTION"] = "Ð¡Ð¿Ñ€Ð°Ð²Ð¾Ñ‡Ð½Ð¸Ðº";
+$MESS["HIBLOCK_PROP_DIRECTORY_SELECT_DIR"] = "Ð’Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ ÑÐ¿Ñ€Ð°Ð²Ð¾Ñ‡Ð½Ð¸Ðº";
+$MESS["HIBLOCK_PROP_DIRECTORY_XML_ID"] = "Ð’Ð½ÐµÑˆÐ½Ð¸Ð¹ ÐºÐ¾Ð´";
+$MESS["HIBLOCK_PROP_DIRECTORY_NAME"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
+$MESS["HIBLOCK_PROP_DIRECTORY_SORT"] = "Ð¡Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²ÐºÐ°";
+$MESS["HIBLOCK_PROP_DIRECTORY_DEF"] = "ÐŸÐ¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ";
+$MESS["HIBLOCK_PROP_DIRECTORY_LINK"] = "Ð¡ÑÑ‹Ð»ÐºÐ°";
+$MESS["HIBLOCK_PROP_DIRECTORY_FILE"] = "Ð˜Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ðµ";
+$MESS["HIBLOCK_PROP_DIRECTORY_NEW_DIRECTORY"] = "Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ Ð½Ð¾Ð²Ñ‹Ð¹ ÑÐ¿Ñ€Ð°Ð²Ð¾Ñ‡Ð½Ð¸Ðº";
+$MESS["HIBLOCK_PROP_DIRECTORY_NEW_NAME"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ ÑÐ¿Ñ€Ð°Ð²Ð¾Ñ‡Ð½Ð¸ÐºÐ°";
+$MESS["HIBLOCK_PROP_DIRECTORY_MORE"] = "Ð•Ñ‰Ðµ";
+$MESS["HIBLOCK_PROP_DIRECTORY_DECSRIPTION"] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ";
+$MESS["HIBLOCK_PROP_DIRECTORY_FULL_DESCRIPTION"] = "ÐŸÐ¾Ð»Ð½Ð¾Ðµ Ð¾Ð¿Ð¸ÑÐ°Ð½Ð¸Ðµ";
+$MESS["HIBLOCK_PROP_DIRECTORY_EMPTY_VALUE"] = "(Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð¾)";
+$MESS["HIBLOCK_PROP_DIRECTORY_EMPTY_DEFAULT_VALUE"] = "(Ð½ÐµÑ‚ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ñ Ð¿Ð¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ)";
+$MESS["HIBLOCK_PROP_DIRECTORY_EMPTY_GRID_VALUE"] = "Ð½Ðµ Ð²Ñ‹Ð±Ñ€Ð°Ð½Ð¾";
 ?>

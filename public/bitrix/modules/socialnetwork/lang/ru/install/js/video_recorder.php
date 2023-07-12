@@ -1,20 +1,20 @@
 <?
-$MESS["BLOG_VIDEO_RECORD_BUTTON"] = "Записать видео";
-$MESS["BLOG_VIDEO_RECORD_CANCEL_BUTTON"] = "Отменить";
-$MESS["BLOG_VIDEO_RECORD_LOGO"] = "<span class=\"logo\"><span class=\"logo-text\">Битрикс</span><span class=\"logo-color\">24</span></span>";
-$MESS["BLOG_VIDEO_RECORD_STOP_BUTTON"] = "Стоп";
-$MESS["BLOG_VIDEO_RECORD_USE_BUTTON"] = "Использовать видео";
-$MESS["BLOG_VIDEO_RECORD_IN_PROGRESS_LABEL"] = "Идёт запись";
-$MESS["BLOG_VIDEO_RECORD_AGREE"] = "Разрешить";
-$MESS["BLOG_VIDEO_RECORD_CLOSE"] = "Закрыть";
-$MESS["BLOG_VIDEO_RECORD_ASK_PERMISSIONS"] = "Для записи видеосообщения вам нужно разрешить доступ к камере и микрофону.";
-$MESS["BLOG_VIDEO_RECORD_REQUIREMENTS"] = "К сожалению, ваш браузер не поддерживает запись видеосообщений. Попробуйте другой браузер, например Chrome или FireFox последних версий.";
-$MESS["BLOG_VIDEO_RECORD_REQUIREMENTS_TITLE"] = "Внимание";
-$MESS["BLOG_VIDEO_RECORD_PERMISSIONS_ERROR"] = "Нет доступа к вашей камере и микрофону";
-$MESS["BLOG_VIDEO_RECORD_PERMISSIONS_TITLE"] = "Доступ к устройствам";
-$MESS["BLOG_VIDEO_RECORD_PERMISSIONS_ERROR_TITLE"] = "Ошибка";
-$MESS["BLOG_VIDEO_RECORD_SPOTLIGHT_MESSAGE"] = "<b>Записывайте видеосообщения и делитесь с коллегами.</b>";
-$MESS["BLOG_VIDEO_RECORD_TRANFORM_LIMIT_TEXT"] = "Чтобы видео можно было запустить прямо в Битрикс24, закончите запись в течение <span class=\"bx-videomessage-transform-time-tip\">60 секунд</span> Если получится дольше, то мы обязательно сохраним его, но файл может воспроизводиться не во всех браузерах.";
-$MESS["BLOG_VIDEO_RECORD_RESTART_BUTTON"] = "Записать заново";
-$MESS["BLOG_VIDEO_RECORD_ERROR_CHROME_HTTPS"] = "К сожалению, в вашем браузере не поддерживается http протокол.<br /><br />Попробуйте другой браузер, например, Firefox";
+$MESS["BLOG_VIDEO_RECORD_BUTTON"] = "Р—Р°РїРёСЃР°С‚СЊ РІРёРґРµРѕ";
+$MESS["BLOG_VIDEO_RECORD_CANCEL_BUTTON"] = "РћС‚РјРµРЅРёС‚СЊ";
+$MESS["BLOG_VIDEO_RECORD_LOGO"] = "<span class=\"logo\"><span class=\"logo-text\">Р‘РёС‚СЂРёРєСЃ</span><span class=\"logo-color\">24</span></span>";
+$MESS["BLOG_VIDEO_RECORD_STOP_BUTTON"] = "РЎС‚РѕРї";
+$MESS["BLOG_VIDEO_RECORD_USE_BUTTON"] = "РСЃРїРѕР»СЊР·РѕРІР°С‚СЊ РІРёРґРµРѕ";
+$MESS["BLOG_VIDEO_RECORD_IN_PROGRESS_LABEL"] = "РРґС‘С‚ Р·Р°РїРёСЃСЊ";
+$MESS["BLOG_VIDEO_RECORD_AGREE"] = "Р Р°Р·СЂРµС€РёС‚СЊ";
+$MESS["BLOG_VIDEO_RECORD_CLOSE"] = "Р—Р°РєСЂС‹С‚СЊ";
+$MESS["BLOG_VIDEO_RECORD_ASK_PERMISSIONS"] = "Р”Р»СЏ Р·Р°РїРёСЃРё РІРёРґРµРѕСЃРѕРѕР±С‰РµРЅРёСЏ РІР°Рј РЅСѓР¶РЅРѕ СЂР°Р·СЂРµС€РёС‚СЊ РґРѕСЃС‚СѓРї Рє РєР°РјРµСЂРµ Рё РјРёРєСЂРѕС„РѕРЅСѓ.";
+$MESS["BLOG_VIDEO_RECORD_REQUIREMENTS"] = "Рљ СЃРѕР¶Р°Р»РµРЅРёСЋ, РІР°С€ Р±СЂР°СѓР·РµСЂ РЅРµ РїРѕРґРґРµСЂР¶РёРІР°РµС‚ Р·Р°РїРёСЃСЊ РІРёРґРµРѕСЃРѕРѕР±С‰РµРЅРёР№. РџРѕРїСЂРѕР±СѓР№С‚Рµ РґСЂСѓРіРѕР№ Р±СЂР°СѓР·РµСЂ, РЅР°РїСЂРёРјРµСЂ Chrome РёР»Рё FireFox РїРѕСЃР»РµРґРЅРёС… РІРµСЂСЃРёР№.";
+$MESS["BLOG_VIDEO_RECORD_REQUIREMENTS_TITLE"] = "Р’РЅРёРјР°РЅРёРµ";
+$MESS["BLOG_VIDEO_RECORD_PERMISSIONS_ERROR"] = "РќРµС‚ РґРѕСЃС‚СѓРїР° Рє РІР°С€РµР№ РєР°РјРµСЂРµ Рё РјРёРєСЂРѕС„РѕРЅСѓ";
+$MESS["BLOG_VIDEO_RECORD_PERMISSIONS_TITLE"] = "Р”РѕСЃС‚СѓРї Рє СѓСЃС‚СЂРѕР№СЃС‚РІР°Рј";
+$MESS["BLOG_VIDEO_RECORD_PERMISSIONS_ERROR_TITLE"] = "РћС€РёР±РєР°";
+$MESS["BLOG_VIDEO_RECORD_SPOTLIGHT_MESSAGE"] = "<b>Р—Р°РїРёСЃС‹РІР°Р№С‚Рµ РІРёРґРµРѕСЃРѕРѕР±С‰РµРЅРёСЏ Рё РґРµР»РёС‚РµСЃСЊ СЃ РєРѕР»Р»РµРіР°РјРё.</b>";
+$MESS["BLOG_VIDEO_RECORD_TRANFORM_LIMIT_TEXT"] = "Р§С‚РѕР±С‹ РІРёРґРµРѕ РјРѕР¶РЅРѕ Р±С‹Р»Рѕ Р·Р°РїСѓСЃС‚РёС‚СЊ РїСЂСЏРјРѕ РІ Р‘РёС‚СЂРёРєСЃ24, Р·Р°РєРѕРЅС‡РёС‚Рµ Р·Р°РїРёСЃСЊ РІ С‚РµС‡РµРЅРёРµ <span class=\"bx-videomessage-transform-time-tip\">60 СЃРµРєСѓРЅРґ</span> Р•СЃР»Рё РїРѕР»СѓС‡РёС‚СЃСЏ РґРѕР»СЊС€Рµ, С‚Рѕ РјС‹ РѕР±СЏР·Р°С‚РµР»СЊРЅРѕ СЃРѕС…СЂР°РЅРёРј РµРіРѕ, РЅРѕ С„Р°Р№Р» РјРѕР¶РµС‚ РІРѕСЃРїСЂРѕРёР·РІРѕРґРёС‚СЊСЃСЏ РЅРµ РІРѕ РІСЃРµС… Р±СЂР°СѓР·РµСЂР°С….";
+$MESS["BLOG_VIDEO_RECORD_RESTART_BUTTON"] = "Р—Р°РїРёСЃР°С‚СЊ Р·Р°РЅРѕРІРѕ";
+$MESS["BLOG_VIDEO_RECORD_ERROR_CHROME_HTTPS"] = "Рљ СЃРѕР¶Р°Р»РµРЅРёСЋ, РІ РІР°С€РµРј Р±СЂР°СѓР·РµСЂРµ РЅРµ РїРѕРґРґРµСЂР¶РёРІР°РµС‚СЃСЏ http РїСЂРѕС‚РѕРєРѕР».<br /><br />РџРѕРїСЂРѕР±СѓР№С‚Рµ РґСЂСѓРіРѕР№ Р±СЂР°СѓР·РµСЂ, РЅР°РїСЂРёРјРµСЂ, Firefox";
 ?>

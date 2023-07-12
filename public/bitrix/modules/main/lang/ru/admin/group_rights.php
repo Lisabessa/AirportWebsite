@@ -1,6 +1,6 @@
 <?
-$MESS["group_rights_select"] = "(âûáåðèòå ãðóïïó)";
-$MESS["group_rights_add"] = "Äîáàâèòü ïðàâî äîñòóïà";
-$MESS["group_rights_sites_all"] = "Âñå ñàéòû";
-$MESS["group_rights_default"] = "Ïî óìîë÷àíèþ";
+$MESS["group_rights_select"] = "(Ð²Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ Ð³Ñ€ÑƒÐ¿Ð¿Ñƒ)";
+$MESS["group_rights_add"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð¿Ñ€Ð°Ð²Ð¾ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð°";
+$MESS["group_rights_sites_all"] = "Ð’ÑÐµ ÑÐ°Ð¹Ñ‚Ñ‹";
+$MESS["group_rights_default"] = "ÐŸÐ¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ";
 ?>

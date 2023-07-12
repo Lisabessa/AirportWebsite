@@ -1,7 +1,7 @@
 <?
-$MESS["CT_BCF_FILTER_TITLE"] = "Ôèëüòð";
-$MESS["CT_BCF_SET_FILTER"] = "Ïîêàçàòü";
-$MESS["CT_BCF_DEL_FILTER"] = "Ñáðîñèòü";
-$MESS["CT_BCF_FROM"] = "îò";
-$MESS["CT_BCF_TO"] = "äî";
+$MESS["CT_BCF_FILTER_TITLE"] = "Ð¤Ð¸Ð»ÑŒÑ‚Ñ€";
+$MESS["CT_BCF_SET_FILTER"] = "ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ";
+$MESS["CT_BCF_DEL_FILTER"] = "Ð¡Ð±Ñ€Ð¾ÑÐ¸Ñ‚ÑŒ";
+$MESS["CT_BCF_FROM"] = "Ð¾Ñ‚";
+$MESS["CT_BCF_TO"] = "Ð´Ð¾";
 ?>

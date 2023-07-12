@@ -1,3 +1,3 @@
 <?php
-$MESS['SALE_HPS_WEBMONEY_PAYMENT_DESC'] = 'Îïëàòà #ID# îò #DATE_INSERT#';
-$MESS['SALE_HPS_WEBMONEY_BUTTON'] = 'Îïëàòèòü';
+$MESS['SALE_HPS_WEBMONEY_PAYMENT_DESC'] = 'ÐžÐ¿Ð»Ð°Ñ‚Ð° #ID# Ð¾Ñ‚ #DATE_INSERT#';
+$MESS['SALE_HPS_WEBMONEY_BUTTON'] = 'ÐžÐ¿Ð»Ð°Ñ‚Ð¸Ñ‚ÑŒ';

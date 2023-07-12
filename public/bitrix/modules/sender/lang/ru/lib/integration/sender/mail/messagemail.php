@@ -1,17 +1,17 @@
 <?
-$MESS["SENDER_INTEGRATION_MAIL_MESSAGE_NAME"] = "Email ðàññûëêà";
-$MESS["SENDER_INTEGRATION_MAIL_MESSAGE_CONFIG_SUBJECT"] = "Òåìà ïèñüìà";
-$MESS["SENDER_INTEGRATION_MAIL_MESSAGE_CONFIG_MESSAGE"] = "Òåëî ïèñüìà";
-$MESS["SENDER_INTEGRATION_MAIL_MESSAGE_CONFIG_EMAIL_FROM"] = "Îòïðàâèòåëü";
-$MESS["SENDER_INTEGRATION_MAIL_MESSAGE_CONFIG_PRIORITY"] = "Âàæíîñòü";
-$MESS["SENDER_INTEGRATION_MAIL_MESSAGE_CONFIG_PRIORITY_HINT"] = "Âûñîêàÿ âàæíîñòü âûäåëÿåò ïèñüìî ñðåäè äðóãèõ â ÿùèêå.
-Íî ðåêîìåíäóåòñÿ óñòàíàâëèâàòü âûñîêóþ âàæíîñòü òîëüêî äëÿ äåéñòâèòåëüíî âàæíûõ ïèñåì.
-Íå çëîóïîòðåáëÿéòå - âàæíûõ ïèñåì ìíîãî áûòü íå ìîæåò.";
-$MESS["SENDER_INTEGRATION_MAIL_MESSAGE_CONFIG_PRIORITY_HIGHEST"] = "Âûñîêàÿ";
-$MESS["SENDER_INTEGRATION_MAIL_MESSAGE_CONFIG_PRIORITY_NORMAL"] = "Íîðìàëüíàÿ";
-$MESS["SENDER_INTEGRATION_MAIL_MESSAGE_CONFIG_PRIORITY_LOWEST"] = "Íèçêàÿ";
-$MESS["SENDER_INTEGRATION_MAIL_MESSAGE_CONFIG_LINK_PARAMS"] = "Ïàðàìåòðû ññûëîê";
-$MESS["SENDER_INTEGRATION_MAIL_MESSAGE_CONFIG_ATTACHMENT"] = "Âëîæåíèÿ";
-$MESS["SENDER_INTEGRATION_MAIL_MESSAGE_NO"] = "íåò";
-$MESS["SENDER_INTEGRATION_MAIL_MESSAGE_ERR_NO_UNSUB_LINK"] = "Ñîçäàíèå ðàññûëêè áåç èñïîëüçîâàíèÿ ññûëêè íà îòïèñêó íåâîçìîæíî. Äîáàâüòå â òåëî ñîîáùåíèÿ áëîê Ôóòåð, îí ñîäåðæèò ññûëêó íà îòïèñêó.";
+$MESS["SENDER_INTEGRATION_MAIL_MESSAGE_NAME"] = "Email Ñ€Ð°ÑÑÑ‹Ð»ÐºÐ°";
+$MESS["SENDER_INTEGRATION_MAIL_MESSAGE_CONFIG_SUBJECT"] = "Ð¢ÐµÐ¼Ð° Ð¿Ð¸ÑÑŒÐ¼Ð°";
+$MESS["SENDER_INTEGRATION_MAIL_MESSAGE_CONFIG_MESSAGE"] = "Ð¢ÐµÐ»Ð¾ Ð¿Ð¸ÑÑŒÐ¼Ð°";
+$MESS["SENDER_INTEGRATION_MAIL_MESSAGE_CONFIG_EMAIL_FROM"] = "ÐžÑ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»ÑŒ";
+$MESS["SENDER_INTEGRATION_MAIL_MESSAGE_CONFIG_PRIORITY"] = "Ð’Ð°Ð¶Ð½Ð¾ÑÑ‚ÑŒ";
+$MESS["SENDER_INTEGRATION_MAIL_MESSAGE_CONFIG_PRIORITY_HINT"] = "Ð’Ñ‹ÑÐ¾ÐºÐ°Ñ Ð²Ð°Ð¶Ð½Ð¾ÑÑ‚ÑŒ Ð²Ñ‹Ð´ÐµÐ»ÑÐµÑ‚ Ð¿Ð¸ÑÑŒÐ¼Ð¾ ÑÑ€ÐµÐ´Ð¸ Ð´Ñ€ÑƒÐ³Ð¸Ñ… Ð² ÑÑ‰Ð¸ÐºÐµ.
+ÐÐ¾ Ñ€ÐµÐºÐ¾Ð¼ÐµÐ½Ð´ÑƒÐµÑ‚ÑÑ ÑƒÑÑ‚Ð°Ð½Ð°Ð²Ð»Ð¸Ð²Ð°Ñ‚ÑŒ Ð²Ñ‹ÑÐ¾ÐºÑƒÑŽ Ð²Ð°Ð¶Ð½Ð¾ÑÑ‚ÑŒ Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð´Ð»Ñ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾ Ð²Ð°Ð¶Ð½Ñ‹Ñ… Ð¿Ð¸ÑÐµÐ¼.
+ÐÐµ Ð·Ð»Ð¾ÑƒÐ¿Ð¾Ñ‚Ñ€ÐµÐ±Ð»ÑÐ¹Ñ‚Ðµ - Ð²Ð°Ð¶Ð½Ñ‹Ñ… Ð¿Ð¸ÑÐµÐ¼ Ð¼Ð½Ð¾Ð³Ð¾ Ð±Ñ‹Ñ‚ÑŒ Ð½Ðµ Ð¼Ð¾Ð¶ÐµÑ‚.";
+$MESS["SENDER_INTEGRATION_MAIL_MESSAGE_CONFIG_PRIORITY_HIGHEST"] = "Ð’Ñ‹ÑÐ¾ÐºÐ°Ñ";
+$MESS["SENDER_INTEGRATION_MAIL_MESSAGE_CONFIG_PRIORITY_NORMAL"] = "ÐÐ¾Ñ€Ð¼Ð°Ð»ÑŒÐ½Ð°Ñ";
+$MESS["SENDER_INTEGRATION_MAIL_MESSAGE_CONFIG_PRIORITY_LOWEST"] = "ÐÐ¸Ð·ÐºÐ°Ñ";
+$MESS["SENDER_INTEGRATION_MAIL_MESSAGE_CONFIG_LINK_PARAMS"] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ ÑÑÑ‹Ð»Ð¾Ðº";
+$MESS["SENDER_INTEGRATION_MAIL_MESSAGE_CONFIG_ATTACHMENT"] = "Ð’Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ";
+$MESS["SENDER_INTEGRATION_MAIL_MESSAGE_NO"] = "Ð½ÐµÑ‚";
+$MESS["SENDER_INTEGRATION_MAIL_MESSAGE_ERR_NO_UNSUB_LINK"] = "Ð¡Ð¾Ð·Ð´Ð°Ð½Ð¸Ðµ Ñ€Ð°ÑÑÑ‹Ð»ÐºÐ¸ Ð±ÐµÐ· Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð¸Ñ ÑÑÑ‹Ð»ÐºÐ¸ Ð½Ð° Ð¾Ñ‚Ð¿Ð¸ÑÐºÑƒ Ð½ÐµÐ²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾. Ð”Ð¾Ð±Ð°Ð²ÑŒÑ‚Ðµ Ð² Ñ‚ÐµÐ»Ð¾ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ Ð±Ð»Ð¾Ðº Ð¤ÑƒÑ‚ÐµÑ€, Ð¾Ð½ ÑÐ¾Ð´ÐµÑ€Ð¶Ð¸Ñ‚ ÑÑÑ‹Ð»ÐºÑƒ Ð½Ð° Ð¾Ñ‚Ð¿Ð¸ÑÐºÑƒ.";
 ?>

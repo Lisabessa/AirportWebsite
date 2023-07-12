@@ -1,6 +1,6 @@
 <?
-$MESS["TH_DATE"] = "Äàòà";
-$MESS["TH_EMPLOYER"] = "Ðàáîòîäàòåëü";
-$MESS["TH_POSITION"] = "Äîëæíîñòü";
-$MESS["TH_REMUNERATION"] = "Çàðïëàòà";
+$MESS["TH_DATE"] = "Ð”Ð°Ñ‚Ð°";
+$MESS["TH_EMPLOYER"] = "Ð Ð°Ð±Ð¾Ñ‚Ð¾Ð´Ð°Ñ‚ÐµÐ»ÑŒ";
+$MESS["TH_POSITION"] = "Ð”Ð¾Ð»Ð¶Ð½Ð¾ÑÑ‚ÑŒ";
+$MESS["TH_REMUNERATION"] = "Ð—Ð°Ñ€Ð¿Ð»Ð°Ñ‚Ð°";
 ?>

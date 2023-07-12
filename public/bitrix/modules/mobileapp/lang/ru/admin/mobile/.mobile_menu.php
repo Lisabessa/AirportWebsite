@@ -1,5 +1,5 @@
 <?
-$MESS["MOBILEAPP_ADMIN"] = "Àäìèíèñòðàòîð";
-$MESS["MOBILEAPP_EXIT"] = "Âûõîä";
-$MESS["MOBILEAPP_PUSH_SETTINGS"] = "Íàñòðîéêà óâåäîìëåíèé";
+$MESS["MOBILEAPP_ADMIN"] = "ÐÐ´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¾Ñ€";
+$MESS["MOBILEAPP_EXIT"] = "Ð’Ñ‹Ñ…Ð¾Ð´";
+$MESS["MOBILEAPP_PUSH_SETTINGS"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° ÑƒÐ²ÐµÐ´Ð¾Ð¼Ð»ÐµÐ½Ð¸Ð¹";
 ?>

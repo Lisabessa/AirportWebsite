@@ -1,2 +1,2 @@
 <?php
-$MESS['REPORT_DEFAULT_LABEL_OF_LABEL_FIELD'] = 'Íàçâàíèå:';
+$MESS['REPORT_DEFAULT_LABEL_OF_LABEL_FIELD'] = 'ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ:';

@@ -1,55 +1,55 @@
 <?
-$MESS["IDEA_EVENT_ADD_IDEA_COMMENT"] = "Äîáàâëåí íîâûé êîììåíòàðèé ê èäåå";
-$MESS["IDEA_EVENT_ADD_IDEA_COMMENT_PARAM_FULL_PATH"] = "Ïóòü ê êîììåíòàðèþ ê èäåå";
-$MESS["IDEA_EVENT_ADD_IDEA_COMMENT_PARAM_IDEA_TITLE"] = "Çàãîëîâîê èäåè";
-$MESS["IDEA_EVENT_ADD_IDEA_COMMENT_PARAM_AUTHOR"] = "Èìÿ àâòîðà êîììåíòàðèÿ ê èäåå";
-$MESS["IDEA_EVENT_ADD_IDEA_COMMENT_PARAM_IDEA_COMMENT_TEXT"] = "Òåêñò êîììåíòàðèÿ ê èäåå";
-$MESS["IDEA_EVENT_ADD_IDEA_COMMENT_PARAM_DATE_CREATE"] = "Äàòà è âðåìÿ ñîçäàíèÿ êîììåíòàðèÿ ê èäåå";
-$MESS["IDEA_EVENT_ADD_IDEA_COMMENT_PARAM_EMAIL_TO"] = "Email ïîäïèñ÷èêà";
-$MESS["ADD_IDEA_COMMENT_TEMPLATE"] = "Èíôîðìàöèîííîå ñîîáùåíèå ñàéòà #SITE_NAME#
+$MESS["IDEA_EVENT_ADD_IDEA_COMMENT"] = "Ð”Ð¾Ð±Ð°Ð²Ð»ÐµÐ½ Ð½Ð¾Ð²Ñ‹Ð¹ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹ Ðº Ð¸Ð´ÐµÐµ";
+$MESS["IDEA_EVENT_ADD_IDEA_COMMENT_PARAM_FULL_PATH"] = "ÐŸÑƒÑ‚ÑŒ Ðº ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸ÑŽ Ðº Ð¸Ð´ÐµÐµ";
+$MESS["IDEA_EVENT_ADD_IDEA_COMMENT_PARAM_IDEA_TITLE"] = "Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº Ð¸Ð´ÐµÐ¸";
+$MESS["IDEA_EVENT_ADD_IDEA_COMMENT_PARAM_AUTHOR"] = "Ð˜Ð¼Ñ Ð°Ð²Ñ‚Ð¾Ñ€Ð° ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ñ Ðº Ð¸Ð´ÐµÐµ";
+$MESS["IDEA_EVENT_ADD_IDEA_COMMENT_PARAM_IDEA_COMMENT_TEXT"] = "Ð¢ÐµÐºÑÑ‚ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ñ Ðº Ð¸Ð´ÐµÐµ";
+$MESS["IDEA_EVENT_ADD_IDEA_COMMENT_PARAM_DATE_CREATE"] = "Ð”Ð°Ñ‚Ð° Ð¸ Ð²Ñ€ÐµÐ¼Ñ ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ñ Ðº Ð¸Ð´ÐµÐµ";
+$MESS["IDEA_EVENT_ADD_IDEA_COMMENT_PARAM_EMAIL_TO"] = "Email Ð¿Ð¾Ð´Ð¿Ð¸ÑÑ‡Ð¸ÐºÐ°";
+$MESS["ADD_IDEA_COMMENT_TEMPLATE"] = "Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð¾Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ ÑÐ°Ð¹Ñ‚Ð° #SITE_NAME#
 ------------------------------------------
 
-Äîáàâëåí íîâûé êîììåíòàðèé ê èäåå íà ñàéòå #SERVER_NAME#.
+Ð”Ð¾Ð±Ð°Ð²Ð»ÐµÐ½ Ð½Ð¾Ð²Ñ‹Ð¹ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹ Ðº Ð¸Ð´ÐµÐµ Ð½Ð° ÑÐ°Ð¹Ñ‚Ðµ #SERVER_NAME#.
 
-Òåìà èäåè: #IDEA_TITLE#
+Ð¢ÐµÐ¼Ð° Ð¸Ð´ÐµÐ¸: #IDEA_TITLE#
 
-Àâòîð êîììåíòàðèÿ: #AUTHOR#
+ÐÐ²Ñ‚Ð¾Ñ€ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ñ: #AUTHOR#
 
-Äàòà êîììåíòàðèÿ: #DATE_CREATE#
+Ð”Ð°Ñ‚Ð° ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ñ: #DATE_CREATE#
 
-Òåêñò êîììåíòàðèÿ:
+Ð¢ÐµÐºÑÑ‚ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ñ:
 #IDEA_COMMENT_TEXT#
 
-Àäðåñ ñîîáùåíèÿ:
+ÐÐ´Ñ€ÐµÑ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ:
 #FULL_PATH#
 
-Ñîîáùåíèå ñãåíåðèðîâàíî àâòîìàòè÷åñêè.
+Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ ÑÐ³ÐµÐ½ÐµÑ€Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¾ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸.
 ";
-$MESS["IDEA_EVENT_ADD_IDEA"] = "Äîáàâëåíà íîâàÿ èäåÿ";
-$MESS["IDEA_EVENT_ADD_IDEA_PARAM_FULL_PATH"] = "Ïóòü ê èäåå";
-$MESS["IDEA_EVENT_ADD_IDEA_PARAM_TITLE"] = "Çàãîëîâîê èäåè";
-$MESS["IDEA_EVENT_ADD_IDEA_PARAM_AUTHOR"] = "Èìÿ àâòîðà èäåè";
-$MESS["IDEA_EVENT_ADD_IDEA_PARAM_IDEA_TEXT"] = "Òåêñò èäåè";
-$MESS["IDEA_EVENT_ADD_IDEA_PARAM_DATE_PUBLISH"] = "Äàòà è âðåìÿ ñîçäàíèÿ èäåè";
-$MESS["IDEA_EVENT_ADD_IDEA_PARAM_EMAIL_TO"] = "Email ïîäïèñ÷èêà";
-$MESS["IDEA_EVENT_ADD_IDEA_PARAM_CATEGORY"] = "Êàòåãîðèÿ";
-$MESS["ADD_IDEA_TEMPLATE"] = "Èíôîðìàöèîííîå ñîîáùåíèå ñàéòà #SITE_NAME#
+$MESS["IDEA_EVENT_ADD_IDEA"] = "Ð”Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð° Ð½Ð¾Ð²Ð°Ñ Ð¸Ð´ÐµÑ";
+$MESS["IDEA_EVENT_ADD_IDEA_PARAM_FULL_PATH"] = "ÐŸÑƒÑ‚ÑŒ Ðº Ð¸Ð´ÐµÐµ";
+$MESS["IDEA_EVENT_ADD_IDEA_PARAM_TITLE"] = "Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº Ð¸Ð´ÐµÐ¸";
+$MESS["IDEA_EVENT_ADD_IDEA_PARAM_AUTHOR"] = "Ð˜Ð¼Ñ Ð°Ð²Ñ‚Ð¾Ñ€Ð° Ð¸Ð´ÐµÐ¸";
+$MESS["IDEA_EVENT_ADD_IDEA_PARAM_IDEA_TEXT"] = "Ð¢ÐµÐºÑÑ‚ Ð¸Ð´ÐµÐ¸";
+$MESS["IDEA_EVENT_ADD_IDEA_PARAM_DATE_PUBLISH"] = "Ð”Ð°Ñ‚Ð° Ð¸ Ð²Ñ€ÐµÐ¼Ñ ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ Ð¸Ð´ÐµÐ¸";
+$MESS["IDEA_EVENT_ADD_IDEA_PARAM_EMAIL_TO"] = "Email Ð¿Ð¾Ð´Ð¿Ð¸ÑÑ‡Ð¸ÐºÐ°";
+$MESS["IDEA_EVENT_ADD_IDEA_PARAM_CATEGORY"] = "ÐšÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ñ";
+$MESS["ADD_IDEA_TEMPLATE"] = "Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð¾Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ ÑÐ°Ð¹Ñ‚Ð° #SITE_NAME#
 ------------------------------------------
 
-Äîáàâëåíà íîâàÿ èäåÿ â êàòåãîðèè #CATEGORY# íà ñàéòå #SERVER_NAME#.
+Ð”Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð° Ð½Ð¾Ð²Ð°Ñ Ð¸Ð´ÐµÑ Ð² ÐºÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ð¸ #CATEGORY# Ð½Ð° ÑÐ°Ð¹Ñ‚Ðµ #SERVER_NAME#.
 
-Òåìà: #TITLE#
+Ð¢ÐµÐ¼Ð°: #TITLE#
 
-Àâòîð: #AUTHOR#
+ÐÐ²Ñ‚Ð¾Ñ€: #AUTHOR#
 
-Äîáàâëåíà: #DATE_PUBLISH#
+Ð”Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð°: #DATE_PUBLISH#
 
-Îïèñàíèå:
+ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ:
 #IDEA_TEXT#
 
-Àäðåñ èäåè:
+ÐÐ´Ñ€ÐµÑ Ð¸Ð´ÐµÐ¸:
 #FULL_PATH#
 
-Ñîîáùåíèå ñãåíåðèðîâàíî àâòîìàòè÷åñêè.
+Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ ÑÐ³ÐµÐ½ÐµÑ€Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¾ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸.
 ";
 ?>

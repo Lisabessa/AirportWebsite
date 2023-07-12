@@ -1,7 +1,7 @@
 <?php
-$MESS['LANDING_TABLE_FIELD_ENTITY_ID'] = 'ID ñóùíîñòè';
-$MESS['LANDING_TABLE_FIELD_ENTITY_TYPE'] = 'Òèï ñóùíîñòè';
-$MESS['LANDING_TABLE_FIELD_HOOK'] = 'Êëàññ-îáðàáîò÷èê';
-$MESS['LANDING_TABLE_FIELD_CODE'] = 'Êîä ïîëÿ';
-$MESS['LANDING_TABLE_FIELD_VALUE'] = 'Çíà÷åíèå ïîëÿ';
-$MESS['LANDING_TABLE_FIELD_PUBLIC'] = 'Ïóáëè÷íîñòü';
+$MESS['LANDING_TABLE_FIELD_ENTITY_ID'] = 'ID ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸';
+$MESS['LANDING_TABLE_FIELD_ENTITY_TYPE'] = 'Ð¢Ð¸Ð¿ ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸';
+$MESS['LANDING_TABLE_FIELD_HOOK'] = 'ÐšÐ»Ð°ÑÑ-Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚Ñ‡Ð¸Ðº';
+$MESS['LANDING_TABLE_FIELD_CODE'] = 'ÐšÐ¾Ð´ Ð¿Ð¾Ð»Ñ';
+$MESS['LANDING_TABLE_FIELD_VALUE'] = 'Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð¿Ð¾Ð»Ñ';
+$MESS['LANDING_TABLE_FIELD_PUBLIC'] = 'ÐŸÑƒÐ±Ð»Ð¸Ñ‡Ð½Ð¾ÑÑ‚ÑŒ';

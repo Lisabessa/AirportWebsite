@@ -1,7 +1,7 @@
 <?
-$MESS ['COMP_MAIN_COLORPICKER_SHOW_BUTTON'] = "Ïîêàçûâàòü êíîïêó";
-$MESS ['COMP_MAIN_COLORPICKER_ID'] = "Èäåíòèôèêàòîð";
-$MESS ['COMP_MAIN_COLORPICKER_NAME'] = "Íàçâàíèå";
-$MESS ['COMP_MAIN_COLORPICKER_NAME_DEFAULT'] = "Âûáîð öâåòà";
-$MESS ['COMP_MAIN_COLORPICKER_ONSELECT'] = "Îáðàáîò÷èê ñîáûòèÿ âûáîðà";
+$MESS ['COMP_MAIN_COLORPICKER_SHOW_BUTTON'] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ ÐºÐ½Ð¾Ð¿ÐºÑƒ";
+$MESS ['COMP_MAIN_COLORPICKER_ID'] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€";
+$MESS ['COMP_MAIN_COLORPICKER_NAME'] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
+$MESS ['COMP_MAIN_COLORPICKER_NAME_DEFAULT'] = "Ð’Ñ‹Ð±Ð¾Ñ€ Ñ†Ð²ÐµÑ‚Ð°";
+$MESS ['COMP_MAIN_COLORPICKER_ONSELECT'] = "ÐžÐ±Ñ€Ð°Ð±Ð¾Ñ‚Ñ‡Ð¸Ðº ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ Ð²Ñ‹Ð±Ð¾Ñ€Ð°";
 ?>

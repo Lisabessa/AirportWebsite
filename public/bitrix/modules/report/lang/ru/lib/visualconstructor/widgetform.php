@@ -1,5 +1,5 @@
 <?php
-$MESS['ADD_REPORT_BUTTON'] = 'äîáàâèòü äàííûå';
-$MESS['SAVE_WIDGET_CONFIG_SAVE_BUTTON'] = 'Ñîõðàíèòü';
-$MESS['SAVE_WIDGET_CONFIG_CANCEL_BUTTON'] = 'Îòìåíèòü';
-$MESS['SAVE_WIDGET_AS_PATTERN'] = 'Ñîõðàíèòü êàê ïðåäíàñòðîåííûé';
+$MESS['ADD_REPORT_BUTTON'] = 'Ð´Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð´Ð°Ð½Ð½Ñ‹Ðµ';
+$MESS['SAVE_WIDGET_CONFIG_SAVE_BUTTON'] = 'Ð¡Ð¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ';
+$MESS['SAVE_WIDGET_CONFIG_CANCEL_BUTTON'] = 'ÐžÑ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ';
+$MESS['SAVE_WIDGET_AS_PATTERN'] = 'Ð¡Ð¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ ÐºÐ°Ðº Ð¿Ñ€ÐµÐ´Ð½Ð°ÑÑ‚Ñ€Ð¾ÐµÐ½Ð½Ñ‹Ð¹';

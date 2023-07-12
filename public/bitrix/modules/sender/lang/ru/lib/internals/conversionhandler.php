@@ -1,3 +1,3 @@
 <?
-$MESS["sender_conversion_chain_source"] = "Ïî÷òîâûå ðàññûëêè";
+$MESS["sender_conversion_chain_source"] = "ÐŸÐ¾Ñ‡Ñ‚Ð¾Ð²Ñ‹Ðµ Ñ€Ð°ÑÑÑ‹Ð»ÐºÐ¸";
 ?>

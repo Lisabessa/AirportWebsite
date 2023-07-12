@@ -1,3 +1,3 @@
 <?
-$MESS["SEO_CONVERSION_ATTRIBUTE_YANDEX_DIRECT_NAME"] = "Êîíòåêñòíàÿ ðåêëàìà";
+$MESS["SEO_CONVERSION_ATTRIBUTE_YANDEX_DIRECT_NAME"] = "ÐšÐ¾Ð½Ñ‚ÐµÐºÑÑ‚Ð½Ð°Ñ Ñ€ÐµÐºÐ»Ð°Ð¼Ð°";
 ?>

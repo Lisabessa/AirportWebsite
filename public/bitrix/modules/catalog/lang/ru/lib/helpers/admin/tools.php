@@ -1,4 +1,4 @@
 <?
-$MESS["CATALOG_HELPERS_ADMIN_TOOLS_MESS_PRICE_TYPE_EDIT_TITLE"] = "Ðåäàêòèðîâàòü ïàðàìåòðû òèïà öåí";
-$MESS["CATALOG_HELPERS_ADMIN_TOOLS_MESS_PRICE_TYPE_VIEW_TITLE"] = "Ïðîñìîòðåòü ïàðàìåòðû òèïà öåí";
+$MESS["CATALOG_HELPERS_ADMIN_TOOLS_MESS_PRICE_TYPE_EDIT_TITLE"] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ Ñ‚Ð¸Ð¿Ð° Ñ†ÐµÐ½";
+$MESS["CATALOG_HELPERS_ADMIN_TOOLS_MESS_PRICE_TYPE_VIEW_TITLE"] = "ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ÐµÑ‚ÑŒ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ Ñ‚Ð¸Ð¿Ð° Ñ†ÐµÐ½";
 ?>

@@ -1,6 +1,6 @@
 <?
-$MESS["IBLOCK_FIELD_ENTITY_IBLOCK_ID_FIELD"] = "Èäåíòèôèêàòîð èíôîáëîêà";
-$MESS["IBLOCK_FIELD_ENTITY_FIELD_ID_FIELD"] = "Èäåíòèôèêàòîð ïîëÿ";
-$MESS["IBLOCK_FIELD_ENTITY_IS_REQUIRED_FIELD"] = "Îáÿçàòåëüíîñòü";
-$MESS["IBLOCK_FIELD_ENTITY_DEFAULT_VALUE_FIELD"] = "Çíà÷åíèå ïî óìîë÷àíèþ/Íàñòðîéêè ïîëÿ";
+$MESS["IBLOCK_FIELD_ENTITY_IBLOCK_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ°";
+$MESS["IBLOCK_FIELD_ENTITY_FIELD_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¿Ð¾Ð»Ñ";
+$MESS["IBLOCK_FIELD_ENTITY_IS_REQUIRED_FIELD"] = "ÐžÐ±ÑÐ·Ð°Ñ‚ÐµÐ»ÑŒÐ½Ð¾ÑÑ‚ÑŒ";
+$MESS["IBLOCK_FIELD_ENTITY_DEFAULT_VALUE_FIELD"] = "Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð¿Ð¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ/ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð¿Ð¾Ð»Ñ";
 ?>

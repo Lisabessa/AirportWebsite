@@ -1,14 +1,14 @@
 <?
-$MESS['FM_WRONG_DATE_CREATE_FROM'] = "Ââåäèòå â ôèëüòðå ïðàâèëüíóþ \"Äàòó ñîçäàíèÿ\" \"c\"";
-$MESS['FM_TOPICS'] = "Cîîáùåíèé";
-$MESS['FORUM_TOPICS'] = "Óïðàâëåíèå òåìàìè";
+$MESS['FM_WRONG_DATE_CREATE_FROM'] = "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð² Ñ„Ð¸Ð»ÑŒÑ‚Ñ€Ðµ Ð¿Ñ€Ð°Ð²Ð¸Ð»ÑŒÐ½ÑƒÑŽ \"Ð”Ð°Ñ‚Ñƒ ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ\" \"c\"";
+$MESS['FM_TOPICS'] = "CÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ð¹";
+$MESS['FORUM_TOPICS'] = "Ð£Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ñ‚ÐµÐ¼Ð°Ð¼Ð¸";
 
-$MESS['FM_TITLE_NAME'] = "Íàçâàíèå";
-$MESS['FM_TITLE_AUTHOR'] = "Àâòîð";
-$MESS['FM_TITLE_MESSAGES'] = "Ñîîáùåíèÿ";
-$MESS['FM_TITLE_VIEWS'] = "Ïîñìîòðîâ";
-$MESS['FM_TITLE_FORUM'] = "Ôîðóì";
-$MESS['FM_TITLE_LAST_MESSAGE'] = "Ïîñëåäíåå ñîîáùåíèå";
-$MESS['FM_TITLE_DATE_CREATE'] = "Ñîçäàíî";
-$MESS['FM_TITLE_DATE_LAST_POST'] = "Ïîñëåäíåå ñîîáùåíèå";
+$MESS['FM_TITLE_NAME'] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
+$MESS['FM_TITLE_AUTHOR'] = "ÐÐ²Ñ‚Ð¾Ñ€";
+$MESS['FM_TITLE_MESSAGES'] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
+$MESS['FM_TITLE_VIEWS'] = "ÐŸÐ¾ÑÐ¼Ð¾Ñ‚Ñ€Ð¾Ð²";
+$MESS['FM_TITLE_FORUM'] = "Ð¤Ð¾Ñ€ÑƒÐ¼";
+$MESS['FM_TITLE_LAST_MESSAGE'] = "ÐŸÐ¾ÑÐ»ÐµÐ´Ð½ÐµÐµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ";
+$MESS['FM_TITLE_DATE_CREATE'] = "Ð¡Ð¾Ð·Ð´Ð°Ð½Ð¾";
+$MESS['FM_TITLE_DATE_LAST_POST'] = "ÐŸÐ¾ÑÐ»ÐµÐ´Ð½ÐµÐµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ";
 ?>

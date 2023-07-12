@@ -1,5 +1,5 @@
 <?
-$MESS["TASK_BINDING_STATUS"] = "Статус замовлення";
-$MESS["TASK_NAME_SALE_STATUS_NONE"] = "Доступ закритий";
-$MESS["TASK_NAME_SALE_STATUS_ALL"] = "Повний доступ";
+$MESS["TASK_BINDING_STATUS"] = "РЎС‚Р°С‚СѓСЃ Р·Р°РјРѕРІР»РµРЅРЅСЏ";
+$MESS["TASK_NAME_SALE_STATUS_NONE"] = "Р”РѕСЃС‚СѓРї Р·Р°РєСЂРёС‚РёР№";
+$MESS["TASK_NAME_SALE_STATUS_ALL"] = "РџРѕРІРЅРёР№ РґРѕСЃС‚СѓРї";
 ?>

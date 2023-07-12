@@ -1,7 +1,7 @@
 <?
-$MESS["SENDER_ADS_LETTER_TIME_TMPL_TITLE_NEW"] = "%name% ãîòîâî ê çàïóñêó!";
+$MESS["SENDER_ADS_LETTER_TIME_TMPL_TITLE_NEW"] = "%name% Ð³Ð¾Ñ‚Ð¾Ð²Ð¾ Ðº Ð·Ð°Ð¿ÑƒÑÐºÑƒ!";
 $MESS["SENDER_ADS_LETTER_TIME_TMPL_TITLE_EXISTS"] = "%name%";
-$MESS["SENDER_ADS_LETTER_TIME_TMPL_ACT_SEND"] = "Çàïóñê";
-$MESS["SENDER_ADS_LETTER_TIME_TMPL_ACT_SENT"] = "Áûëà çàïóùåíà";
-$MESS["SENDER_ADS_LETTER_TIME_TMPL_DATE_SEND"] = "Äàòà çàïóñêà";
+$MESS["SENDER_ADS_LETTER_TIME_TMPL_ACT_SEND"] = "Ð—Ð°Ð¿ÑƒÑÐº";
+$MESS["SENDER_ADS_LETTER_TIME_TMPL_ACT_SENT"] = "Ð‘Ñ‹Ð»Ð° Ð·Ð°Ð¿ÑƒÑ‰ÐµÐ½Ð°";
+$MESS["SENDER_ADS_LETTER_TIME_TMPL_DATE_SEND"] = "Ð”Ð°Ñ‚Ð° Ð·Ð°Ð¿ÑƒÑÐºÐ°";
 ?>

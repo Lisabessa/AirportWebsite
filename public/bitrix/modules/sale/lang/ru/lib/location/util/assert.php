@@ -1,13 +1,13 @@
 <?
-$MESS["SALE_LOCATION_ASSERT_INTEGER_EXPECTED"] = "Àðãóìåíò#ARG_NAME#äîëæåí áûòü öåëûì ÷èñëîì";
-$MESS["SALE_LOCATION_ASSERT_INTEGER_NOTNULL_EXPECTED"] = "Àðãóìåíò#ARG_NAME#äîëæåí áûòü ïîëîæèòåëüíûì öåëûì ÷èñëîì";
-$MESS["SALE_LOCATION_ASSERT_ARRAY_NOT_EMPTY_EXPECTED"] = "Àðãóìåíò#ARG_NAME#äîëæåí áûòü íåïóñòûì ìàññèâîì";
-$MESS["SALE_LOCATION_ASSERT_ARRAY_EXPECTED"] = "Àðãóìåíò#ARG_NAME#äîëæåí áûòü ìàññèâîì";
-$MESS["SALE_LOCATION_ASSERT_STRING_NOTNULL_EXPECTED"] = "Àðãóìåíò#ARG_NAME#äîëæåí áûòü íåïóñòîé ñòðîêîé";
-$MESS["SALE_LOCATION_ASSERT_ARRAY_OF_INTEGER_NOT_NULL_EXPECTED"] = "Àðãóìåíò#ARG_NAME#íå ÿâëÿåòñÿ ìàññèâîì ïîëîæèòåëüíûõ öåëûõ ÷èñåë";
-$MESS["SALE_LOCATION_ASSERT_ARRAY_OF_STRING_NOT_NULL_EXPECTED"] = "Àðãóìåíò#ARG_NAME#íå ÿâëÿåòñÿ ìàññèâîì íåïóñòûõ ñòðîê";
-$MESS["SALE_LOCATION_ASSERT_EMPTY_ENUMERATION"] = "Â ìåòîä ïðîâåðêè ïåðåäàíî ïóñòîå ïåðå÷èñëåíèå";
-$MESS["SALE_LOCATION_ASSERT_ITEM_NOT_IN_ENUMERATION"] = "Àðãóìåíò#ARG_NAME#íå íàõîäèòñÿ ñðåäè ñïèñêà çíà÷åíèé ïåðå÷èñëåíèÿ";
-$MESS["SALE_LOCATION_ASSERT_EMPTY_ARGUMENT"] = "Ïåðåäàí ïóñòîé àðãóìåíò";
-$MESS["SALE_LOCATION_ASSERT_INTEGER_NONNEGATIVE_EXPECTED"] = "Àðãóìåíò#ARG_NAME#äîëæåí áûòü íåîòðèöàòåëüíûì öåëûì ÷èñëîì";
+$MESS["SALE_LOCATION_ASSERT_INTEGER_EXPECTED"] = "ÐÑ€Ð³ÑƒÐ¼ÐµÐ½Ñ‚#ARG_NAME#Ð´Ð¾Ð»Ð¶ÐµÐ½ Ð±Ñ‹Ñ‚ÑŒ Ñ†ÐµÐ»Ñ‹Ð¼ Ñ‡Ð¸ÑÐ»Ð¾Ð¼";
+$MESS["SALE_LOCATION_ASSERT_INTEGER_NOTNULL_EXPECTED"] = "ÐÑ€Ð³ÑƒÐ¼ÐµÐ½Ñ‚#ARG_NAME#Ð´Ð¾Ð»Ð¶ÐµÐ½ Ð±Ñ‹Ñ‚ÑŒ Ð¿Ð¾Ð»Ð¾Ð¶Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ð¼ Ñ†ÐµÐ»Ñ‹Ð¼ Ñ‡Ð¸ÑÐ»Ð¾Ð¼";
+$MESS["SALE_LOCATION_ASSERT_ARRAY_NOT_EMPTY_EXPECTED"] = "ÐÑ€Ð³ÑƒÐ¼ÐµÐ½Ñ‚#ARG_NAME#Ð´Ð¾Ð»Ð¶ÐµÐ½ Ð±Ñ‹Ñ‚ÑŒ Ð½ÐµÐ¿ÑƒÑÑ‚Ñ‹Ð¼ Ð¼Ð°ÑÑÐ¸Ð²Ð¾Ð¼";
+$MESS["SALE_LOCATION_ASSERT_ARRAY_EXPECTED"] = "ÐÑ€Ð³ÑƒÐ¼ÐµÐ½Ñ‚#ARG_NAME#Ð´Ð¾Ð»Ð¶ÐµÐ½ Ð±Ñ‹Ñ‚ÑŒ Ð¼Ð°ÑÑÐ¸Ð²Ð¾Ð¼";
+$MESS["SALE_LOCATION_ASSERT_STRING_NOTNULL_EXPECTED"] = "ÐÑ€Ð³ÑƒÐ¼ÐµÐ½Ñ‚#ARG_NAME#Ð´Ð¾Ð»Ð¶ÐµÐ½ Ð±Ñ‹Ñ‚ÑŒ Ð½ÐµÐ¿ÑƒÑÑ‚Ð¾Ð¹ ÑÑ‚Ñ€Ð¾ÐºÐ¾Ð¹";
+$MESS["SALE_LOCATION_ASSERT_ARRAY_OF_INTEGER_NOT_NULL_EXPECTED"] = "ÐÑ€Ð³ÑƒÐ¼ÐµÐ½Ñ‚#ARG_NAME#Ð½Ðµ ÑÐ²Ð»ÑÐµÑ‚ÑÑ Ð¼Ð°ÑÑÐ¸Ð²Ð¾Ð¼ Ð¿Ð¾Ð»Ð¾Ð¶Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ñ… Ñ†ÐµÐ»Ñ‹Ñ… Ñ‡Ð¸ÑÐµÐ»";
+$MESS["SALE_LOCATION_ASSERT_ARRAY_OF_STRING_NOT_NULL_EXPECTED"] = "ÐÑ€Ð³ÑƒÐ¼ÐµÐ½Ñ‚#ARG_NAME#Ð½Ðµ ÑÐ²Ð»ÑÐµÑ‚ÑÑ Ð¼Ð°ÑÑÐ¸Ð²Ð¾Ð¼ Ð½ÐµÐ¿ÑƒÑÑ‚Ñ‹Ñ… ÑÑ‚Ñ€Ð¾Ðº";
+$MESS["SALE_LOCATION_ASSERT_EMPTY_ENUMERATION"] = "Ð’ Ð¼ÐµÑ‚Ð¾Ð´ Ð¿Ñ€Ð¾Ð²ÐµÑ€ÐºÐ¸ Ð¿ÐµÑ€ÐµÐ´Ð°Ð½Ð¾ Ð¿ÑƒÑÑ‚Ð¾Ðµ Ð¿ÐµÑ€ÐµÑ‡Ð¸ÑÐ»ÐµÐ½Ð¸Ðµ";
+$MESS["SALE_LOCATION_ASSERT_ITEM_NOT_IN_ENUMERATION"] = "ÐÑ€Ð³ÑƒÐ¼ÐµÐ½Ñ‚#ARG_NAME#Ð½Ðµ Ð½Ð°Ñ…Ð¾Ð´Ð¸Ñ‚ÑÑ ÑÑ€ÐµÐ´Ð¸ ÑÐ¿Ð¸ÑÐºÐ° Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ð¹ Ð¿ÐµÑ€ÐµÑ‡Ð¸ÑÐ»ÐµÐ½Ð¸Ñ";
+$MESS["SALE_LOCATION_ASSERT_EMPTY_ARGUMENT"] = "ÐŸÐµÑ€ÐµÐ´Ð°Ð½ Ð¿ÑƒÑÑ‚Ð¾Ð¹ Ð°Ñ€Ð³ÑƒÐ¼ÐµÐ½Ñ‚";
+$MESS["SALE_LOCATION_ASSERT_INTEGER_NONNEGATIVE_EXPECTED"] = "ÐÑ€Ð³ÑƒÐ¼ÐµÐ½Ñ‚#ARG_NAME#Ð´Ð¾Ð»Ð¶ÐµÐ½ Ð±Ñ‹Ñ‚ÑŒ Ð½ÐµÐ¾Ñ‚Ñ€Ð¸Ñ†Ð°Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ð¼ Ñ†ÐµÐ»Ñ‹Ð¼ Ñ‡Ð¸ÑÐ»Ð¾Ð¼";
 ?>

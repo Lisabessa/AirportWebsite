@@ -1,18 +1,18 @@
 <?
-$MESS["PRICE_ROUND_EDIT_TAB_NAME_COMMON"] = "Îáùèå ïàðàìåòðû";
-$MESS["PRICE_ROUND_EDIT_TAB_TITLE_COMMON"] = "Îáùèå ïàðàìåòðû ïðàâèëà";
-$MESS["PRICE_ROUND_EDIT_TITLE_ADD"] = "Ñîçäàíèå ïðàâèëà";
-$MESS["PRICE_ROUND_EDIT_TITLE_UPDATE"] = "Ðåäàêòèðîâàíèå ïðàâèëà ñ êîäîì #ID#";
-$MESS["PRICE_ROUND_EDIT_TITLE_COPY"] = "Êîïèðîâàíèå ïðàâèëà ñ êîäîì #ID#";
-$MESS["PRICE_ROUND_EDIT_CONTEXT_LIST"] = "Ñïèñîê ïðàâèë";
-$MESS["PRICE_ROUND_EDIT_CONTEXT_NEW"] = "Äîáàâèòü íîâîå";
-$MESS["PRICE_ROUND_EDIT_CONTEXT_COPY"] = "Ñêîïèðîâàòü";
-$MESS["PRICE_ROUND_EDIT_CONTEXT_DELETE"] = "Óäàëèòü";
-$MESS["PRICE_ROUND_EDIT_CONTEXT_DELETE_CONFIRM"] = "Âû óâåðåíû, ÷òî õîòèòå óäàëèòü ïðàâèëî?";
-$MESS["PRICE_ROUND_EDIT_ERR_SAVE"] = "Îøèáêè ïðè ñîõðàíåíèè";
+$MESS["PRICE_ROUND_EDIT_TAB_NAME_COMMON"] = "ÐžÐ±Ñ‰Ð¸Ðµ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹";
+$MESS["PRICE_ROUND_EDIT_TAB_TITLE_COMMON"] = "ÐžÐ±Ñ‰Ð¸Ðµ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ Ð¿Ñ€Ð°Ð²Ð¸Ð»Ð°";
+$MESS["PRICE_ROUND_EDIT_TITLE_ADD"] = "Ð¡Ð¾Ð·Ð´Ð°Ð½Ð¸Ðµ Ð¿Ñ€Ð°Ð²Ð¸Ð»Ð°";
+$MESS["PRICE_ROUND_EDIT_TITLE_UPDATE"] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð¿Ñ€Ð°Ð²Ð¸Ð»Ð° Ñ ÐºÐ¾Ð´Ð¾Ð¼ #ID#";
+$MESS["PRICE_ROUND_EDIT_TITLE_COPY"] = "ÐšÐ¾Ð¿Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð¿Ñ€Ð°Ð²Ð¸Ð»Ð° Ñ ÐºÐ¾Ð´Ð¾Ð¼ #ID#";
+$MESS["PRICE_ROUND_EDIT_CONTEXT_LIST"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð¿Ñ€Ð°Ð²Ð¸Ð»";
+$MESS["PRICE_ROUND_EDIT_CONTEXT_NEW"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð½Ð¾Ð²Ð¾Ðµ";
+$MESS["PRICE_ROUND_EDIT_CONTEXT_COPY"] = "Ð¡ÐºÐ¾Ð¿Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ";
+$MESS["PRICE_ROUND_EDIT_CONTEXT_DELETE"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";
+$MESS["PRICE_ROUND_EDIT_CONTEXT_DELETE_CONFIRM"] = "Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹, Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ Ð¿Ñ€Ð°Ð²Ð¸Ð»Ð¾?";
+$MESS["PRICE_ROUND_EDIT_ERR_SAVE"] = "ÐžÑˆÐ¸Ð±ÐºÐ¸ Ð¿Ñ€Ð¸ ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð¸Ð¸";
 $MESS["PRICE_ROUND_EDIT_FIELD_ID"] = "ID:";
-$MESS["PRICE_ROUND_EDIT_FIELD_PRICE_TYPE"] = "Òèï öåí:";
-$MESS["PRICE_ROUND_EDIT_FIELD_PRICE"] = "Ìèíèìàëüíàÿ öåíà:";
-$MESS["PRICE_ROUND_EDIT_FIELD_ROUND_TYPE"] = "Òèï îêðóãëåíèÿ:";
-$MESS["PRICE_ROUND_EDIT_FIELD_ROUND_PRECISION"] = "Òî÷íîñòü îêðóãëåíèÿ:";
+$MESS["PRICE_ROUND_EDIT_FIELD_PRICE_TYPE"] = "Ð¢Ð¸Ð¿ Ñ†ÐµÐ½:";
+$MESS["PRICE_ROUND_EDIT_FIELD_PRICE"] = "ÐœÐ¸Ð½Ð¸Ð¼Ð°Ð»ÑŒÐ½Ð°Ñ Ñ†ÐµÐ½Ð°:";
+$MESS["PRICE_ROUND_EDIT_FIELD_ROUND_TYPE"] = "Ð¢Ð¸Ð¿ Ð¾ÐºÑ€ÑƒÐ³Ð»ÐµÐ½Ð¸Ñ:";
+$MESS["PRICE_ROUND_EDIT_FIELD_ROUND_PRECISION"] = "Ð¢Ð¾Ñ‡Ð½Ð¾ÑÑ‚ÑŒ Ð¾ÐºÑ€ÑƒÐ³Ð»ÐµÐ½Ð¸Ñ:";
 ?>

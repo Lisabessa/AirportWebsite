@@ -1,2 +1,2 @@
 <?php
-$MESS['LANDING_CMP_AREA'] = 'Îáëàñòü';
+$MESS['LANDING_CMP_AREA'] = 'ÐžÐ±Ð»Ð°ÑÑ‚ÑŒ';

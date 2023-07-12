@@ -1,3 +1,3 @@
 <?
-$MESS ['FORM_MODULE_TITLE'] = "Âåá-ôîðìû";
+$MESS ['FORM_MODULE_TITLE'] = "Ð’ÐµÐ±-Ñ„Ð¾Ñ€Ð¼Ñ‹";
 ?>

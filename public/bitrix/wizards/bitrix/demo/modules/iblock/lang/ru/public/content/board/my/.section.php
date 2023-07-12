@@ -1,3 +1,3 @@
 <?
-$MESS ['DEMO_IBLOCK_CONTENT_BOARD_MY_SECTION_NAME'] = "Ìîè îáúÿâëåíèÿ";
+$MESS ['DEMO_IBLOCK_CONTENT_BOARD_MY_SECTION_NAME'] = "ÐœÐ¾Ð¸ Ð¾Ð±ÑŠÑÐ²Ð»ÐµÐ½Ð¸Ñ";
 ?>

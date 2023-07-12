@@ -1,4 +1,4 @@
 <?php
-$MESS["SPS_CHAIN_MAIN"] = "Ìîé êàáèíåò";
-$MESS["SPS_CHAIN_ORDERS"] = "Ìîè çàêàçû";
-$MESS["SPS_CHAIN_ORDER_DETAIL"] = "Èíôîðìàöèÿ î çàêàçå ¹#ID#";
+$MESS["SPS_CHAIN_MAIN"] = "ÐœÐ¾Ð¹ ÐºÐ°Ð±Ð¸Ð½ÐµÑ‚";
+$MESS["SPS_CHAIN_ORDERS"] = "ÐœÐ¾Ð¸ Ð·Ð°ÐºÐ°Ð·Ñ‹";
+$MESS["SPS_CHAIN_ORDER_DETAIL"] = "Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ñ Ð¾ Ð·Ð°ÐºÐ°Ð·Ðµ â„–#ID#";

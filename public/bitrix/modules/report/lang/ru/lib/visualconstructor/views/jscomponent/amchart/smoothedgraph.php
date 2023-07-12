@@ -1,2 +1,2 @@
 <?php
-$MESS['REPORT_SMOOTHED_LINEAR_GRAPH_VIEW_LABEL'] = 'Ñãëàæåííûé ãðàôèê';
+$MESS['REPORT_SMOOTHED_LINEAR_GRAPH_VIEW_LABEL'] = 'Ð¡Ð³Ð»Ð°Ð¶ÐµÐ½Ð½Ñ‹Ð¹ Ð³Ñ€Ð°Ñ„Ð¸Ðº';

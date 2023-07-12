@@ -1,19 +1,19 @@
 <?php
-$MESS["REST_MARKETPLACE_NOTIFICATION_REST_BUY_MESS"] = 'Ñ 1 ÿíâàðÿ ïðèëîæåíèÿ Áèòðèêñ24.Ìàðêåò è REST áóäóò äîñòóïíû òîëüêî íà êîììåð÷åñêèõ òàðèôàõ. Ïîäáåðèòå íóæíûé òàðèô çàðàíåå ñî ñêèäêîé äî 40%. #BTN#';
-$MESS["REST_MARKETPLACE_NOTIFICATION_REST_BUY_BTN"] = 'Ïîäðîáíåå';
+$MESS["REST_MARKETPLACE_NOTIFICATION_REST_BUY_MESS"] = 'Ð¡ 1 ÑÐ½Ð²Ð°Ñ€Ñ Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ24.ÐœÐ°Ñ€ÐºÐµÑ‚ Ð¸ REST Ð±ÑƒÐ´ÑƒÑ‚ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ñ‹ Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð½Ð° ÐºÐ¾Ð¼Ð¼ÐµÑ€Ñ‡ÐµÑÐºÐ¸Ñ… Ñ‚Ð°Ñ€Ð¸Ñ„Ð°Ñ…. ÐŸÐ¾Ð´Ð±ÐµÑ€Ð¸Ñ‚Ðµ Ð½ÑƒÐ¶Ð½Ñ‹Ð¹ Ñ‚Ð°Ñ€Ð¸Ñ„ Ð·Ð°Ñ€Ð°Ð½ÐµÐµ ÑÐ¾ ÑÐºÐ¸Ð´ÐºÐ¾Ð¹ Ð´Ð¾ 40%. #BTN#';
+$MESS["REST_MARKETPLACE_NOTIFICATION_REST_BUY_BTN"] = 'ÐŸÐ¾Ð´Ñ€Ð¾Ð±Ð½ÐµÐµ';
 $MESS["REST_MARKETPLACE_NOTIFICATION_REST_BUY_URL"] = 'https://goodbye2020.bitrix24.tech/';
 
-$MESS["REST_MARKETPLACE_NOTIFICATION_SUBSCRIPTION_MARKET_DEMO_END_MESS"] = 'Äåìîðåæèì ïîäïèñêè çàêîí÷èëñÿ. Íà ëþáîì êîììåð÷åñêîì òàðèôå âû ìîæåòå óñòàíîâèòü äî 2 áåñïëàòíûõ ïðèëîæåíèé. #BTN#';
-$MESS["REST_MARKETPLACE_NOTIFICATION_SUBSCRIPTION_MARKET_DEMO_END_BTN"] = 'Êóïèòü òàðèô';
+$MESS["REST_MARKETPLACE_NOTIFICATION_SUBSCRIPTION_MARKET_DEMO_END_MESS"] = 'Ð”ÐµÐ¼Ð¾Ñ€ÐµÐ¶Ð¸Ð¼ Ð¿Ð¾Ð´Ð¿Ð¸ÑÐºÐ¸ Ð·Ð°ÐºÐ¾Ð½Ñ‡Ð¸Ð»ÑÑ. ÐÐ° Ð»ÑŽÐ±Ð¾Ð¼ ÐºÐ¾Ð¼Ð¼ÐµÑ€Ñ‡ÐµÑÐºÐ¾Ð¼ Ñ‚Ð°Ñ€Ð¸Ñ„Ðµ Ð²Ñ‹ Ð¼Ð¾Ð¶ÐµÑ‚Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð¸Ñ‚ÑŒ Ð´Ð¾ 2 Ð±ÐµÑÐ¿Ð»Ð°Ñ‚Ð½Ñ‹Ñ… Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹. #BTN#';
+$MESS["REST_MARKETPLACE_NOTIFICATION_SUBSCRIPTION_MARKET_DEMO_END_BTN"] = 'ÐšÑƒÐ¿Ð¸Ñ‚ÑŒ Ñ‚Ð°Ñ€Ð¸Ñ„';
 $MESS["REST_MARKETPLACE_NOTIFICATION_SUBSCRIPTION_MARKET_DEMO_END_URL"] = '/settings/license_all.php';
 
-$MESS["REST_MARKETPLACE_NOTIFICATION_SUBSCRIPTION_MARKET_TARIFF_MARKET_MESS"] = 'Äåìîðåæèì ïîäïèñêè çàêîí÷èëñÿ. ×òîáû ïðîäîëæàòü ïîëüçîâàòüñÿ óñòàíîâëåííûìè è äðóãèìè ïðèëîæåíèÿìè, ïåðåéäèòå íà ðàñøèðåííûé òàðèô ñ ïîäïèñêîé. #BTN#';
-$MESS["REST_MARKETPLACE_NOTIFICATION_SUBSCRIPTION_MARKET_TARIFF_MARKET_BTN"] = 'Êóïèòü';
+$MESS["REST_MARKETPLACE_NOTIFICATION_SUBSCRIPTION_MARKET_TARIFF_MARKET_MESS"] = 'Ð”ÐµÐ¼Ð¾Ñ€ÐµÐ¶Ð¸Ð¼ Ð¿Ð¾Ð´Ð¿Ð¸ÑÐºÐ¸ Ð·Ð°ÐºÐ¾Ð½Ñ‡Ð¸Ð»ÑÑ. Ð§Ñ‚Ð¾Ð±Ñ‹ Ð¿Ñ€Ð¾Ð´Ð¾Ð»Ð¶Ð°Ñ‚ÑŒ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒÑÑ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð½Ñ‹Ð¼Ð¸ Ð¸ Ð´Ñ€ÑƒÐ³Ð¸Ð¼Ð¸ Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸ÑÐ¼Ð¸, Ð¿ÐµÑ€ÐµÐ¹Ð´Ð¸Ñ‚Ðµ Ð½Ð° Ñ€Ð°ÑÑˆÐ¸Ñ€ÐµÐ½Ð½Ñ‹Ð¹ Ñ‚Ð°Ñ€Ð¸Ñ„ Ñ Ð¿Ð¾Ð´Ð¿Ð¸ÑÐºÐ¾Ð¹. #BTN#';
+$MESS["REST_MARKETPLACE_NOTIFICATION_SUBSCRIPTION_MARKET_TARIFF_MARKET_BTN"] = 'ÐšÑƒÐ¿Ð¸Ñ‚ÑŒ';
 $MESS["REST_MARKETPLACE_NOTIFICATION_SUBSCRIPTION_MARKET_TARIFF_MARKET_URL"] = '/settings/license_all.php';
 
-$MESS["REST_MARKETPLACE_NOTIFICATION_SUBSCRIPTION_MARKET_TRIAL_END_MESS"] = 'Äåìîðåæèì ïîäïèñêè çàêîí÷èëñÿ. Îôîðìèòå ïîäïèñêó, ÷òîáû ïðîäîëæèòü ïîëüçîâàòüñÿ âñåìè ïðèëîæåíèÿìè. #BTN#';
-$MESS["REST_MARKETPLACE_NOTIFICATION_SUBSCRIPTION_MARKET_TRIAL_END_BTN"] = 'Êóïèòü ïîäïèñêó';
+$MESS["REST_MARKETPLACE_NOTIFICATION_SUBSCRIPTION_MARKET_TRIAL_END_MESS"] = 'Ð”ÐµÐ¼Ð¾Ñ€ÐµÐ¶Ð¸Ð¼ Ð¿Ð¾Ð´Ð¿Ð¸ÑÐºÐ¸ Ð·Ð°ÐºÐ¾Ð½Ñ‡Ð¸Ð»ÑÑ. ÐžÑ„Ð¾Ñ€Ð¼Ð¸Ñ‚Ðµ Ð¿Ð¾Ð´Ð¿Ð¸ÑÐºÑƒ, Ñ‡Ñ‚Ð¾Ð±Ñ‹ Ð¿Ñ€Ð¾Ð´Ð¾Ð»Ð¶Ð¸Ñ‚ÑŒ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒÑÑ Ð²ÑÐµÐ¼Ð¸ Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸ÑÐ¼Ð¸. #BTN#';
+$MESS["REST_MARKETPLACE_NOTIFICATION_SUBSCRIPTION_MARKET_TRIAL_END_BTN"] = 'ÐšÑƒÐ¿Ð¸Ñ‚ÑŒ Ð¿Ð¾Ð´Ð¿Ð¸ÑÐºÑƒ';
 $MESS["REST_MARKETPLACE_NOTIFICATION_SUBSCRIPTION_MARKET_TRIAL_END_URL"] = '/settings/license_buy.php?product=subscr';
 
-$MESS["REST_MARKETPLACE_NOTIFICATION_HOLD_REST_OVERLOAD_MESS"] = 'REST API áûë ÷àñòè÷íî çàáëîêèðîâàí. Ïîæàëóéñòà, îáðàòèòåñü â ïîääåðæêó äëÿ ðåøåíèÿ äàííîé ïðîáëåìû. #BTN#';
-$MESS["REST_MARKETPLACE_NOTIFICATION_HOLD_REST_OVERLOAD_BTN"] = 'Ïîñìîòðåòü';
+$MESS["REST_MARKETPLACE_NOTIFICATION_HOLD_REST_OVERLOAD_MESS"] = 'REST API Ð±Ñ‹Ð» Ñ‡Ð°ÑÑ‚Ð¸Ñ‡Ð½Ð¾ Ð·Ð°Ð±Ð»Ð¾ÐºÐ¸Ñ€Ð¾Ð²Ð°Ð½. ÐŸÐ¾Ð¶Ð°Ð»ÑƒÐ¹ÑÑ‚Ð°, Ð¾Ð±Ñ€Ð°Ñ‚Ð¸Ñ‚ÐµÑÑŒ Ð² Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÑƒ Ð´Ð»Ñ Ñ€ÐµÑˆÐµÐ½Ð¸Ñ Ð´Ð°Ð½Ð½Ð¾Ð¹ Ð¿Ñ€Ð¾Ð±Ð»ÐµÐ¼Ñ‹. #BTN#';
+$MESS["REST_MARKETPLACE_NOTIFICATION_HOLD_REST_OVERLOAD_BTN"] = 'ÐŸÐ¾ÑÐ¼Ð¾Ñ‚Ñ€ÐµÑ‚ÑŒ';

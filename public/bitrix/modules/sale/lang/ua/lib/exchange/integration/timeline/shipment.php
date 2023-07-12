@@ -1,3 +1,3 @@
 <?
-$MESS["SALE_INTEGRATION_B24_TIMELINE_SHIPMENT_NUMBER"] = "Â³äâàíòàæåííÿ ¹";
+$MESS["SALE_INTEGRATION_B24_TIMELINE_SHIPMENT_NUMBER"] = "Ð’Ñ–Ð´Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ â„–";
 ?>

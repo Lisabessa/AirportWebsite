@@ -1,64 +1,64 @@
 <?
-$MESS["SMAIL_FOOTER_BR"] = "С уважением, администрация";
-$MESS["SMAIL_FOOTER_SHOP"] = "Интернет-магазина";
-$MESS["SMAIL_UNSUBSCRIBE"] = "Отписаться";
-$MESS["CATALOG_PRODUCT_SUBSCRIBE_LIST_CONFIRM_NAME"] = "Код подтверждения";
+$MESS["SMAIL_FOOTER_BR"] = "РЎ СѓРІР°Р¶РµРЅРёРµРј, Р°РґРјРёРЅРёСЃС‚СЂР°С†РёСЏ";
+$MESS["SMAIL_FOOTER_SHOP"] = "РРЅС‚РµСЂРЅРµС‚-РјР°РіР°Р·РёРЅР°";
+$MESS["SMAIL_UNSUBSCRIBE"] = "РћС‚РїРёСЃР°С‚СЊСЃСЏ";
+$MESS["CATALOG_PRODUCT_SUBSCRIBE_LIST_CONFIRM_NAME"] = "РљРѕРґ РїРѕРґС‚РІРµСЂР¶РґРµРЅРёСЏ";
 $MESS["CATALOG_PRODUCT_SUBSCRIBE_LIST_CONFIRM_DESC"] = "
-#TOKEN# - Код подтверждения
-#TOKEN_URL# - Ссылка с кодом подтверждения
-#LIST_SUBSCRIBES# - Список подписок
-#URL_PARAMETERS# - Параметры ссылки для подтверждения кода доступа
+#TOKEN# - РљРѕРґ РїРѕРґС‚РІРµСЂР¶РґРµРЅРёСЏ
+#TOKEN_URL# - РЎСЃС‹Р»РєР° СЃ РєРѕРґРѕРј РїРѕРґС‚РІРµСЂР¶РґРµРЅРёСЏ
+#LIST_SUBSCRIBES# - РЎРїРёСЃРѕРє РїРѕРґРїРёСЃРѕРє
+#URL_PARAMETERS# - РџР°СЂР°РјРµС‚СЂС‹ СЃСЃС‹Р»РєРё РґР»СЏ РїРѕРґС‚РІРµСЂР¶РґРµРЅРёСЏ РєРѕРґР° РґРѕСЃС‚СѓРїР°
 ";
-$MESS["CATALOG_PRODUCT_SUBSCRIBE_LIST_CONFIRM_SUBJECT"] = "#SITE_NAME#: Код подтверждения";
-$MESS["CATALOG_PRODUCT_SUBSCRIBE_LIST_CONFIRM_HTML_TITLE"] = "Информационное сообщение сайта #SITE_NAME#";
-$MESS["CATALOG_PRODUCT_SUBSCRIBE_LIST_CONFIRM_HTML_SUB_TITLE"] = "Уважаемый, #USER_NAME#!";
+$MESS["CATALOG_PRODUCT_SUBSCRIBE_LIST_CONFIRM_SUBJECT"] = "#SITE_NAME#: РљРѕРґ РїРѕРґС‚РІРµСЂР¶РґРµРЅРёСЏ";
+$MESS["CATALOG_PRODUCT_SUBSCRIBE_LIST_CONFIRM_HTML_TITLE"] = "РРЅС„РѕСЂРјР°С†РёРѕРЅРЅРѕРµ СЃРѕРѕР±С‰РµРЅРёРµ СЃР°Р№С‚Р° #SITE_NAME#";
+$MESS["CATALOG_PRODUCT_SUBSCRIBE_LIST_CONFIRM_HTML_SUB_TITLE"] = "РЈРІР°Р¶Р°РµРјС‹Р№, #USER_NAME#!";
 $MESS["CATALOG_PRODUCT_SUBSCRIBE_LIST_CONFIRM_HTML_TEXT"] = "
-Вы получили это сообщение, так как на ваш адрес был запрошен код подтверждения для доступа к подпискам сайта #SERVER_NAME#. <br><br> 
-Ваш код для подтверждения подписки: #TOKEN# <br><br> 
-Для получения доступа к подпискам перейдите по следующей ссылке: #TOKEN_URL# <br><br>
-Вы также можете ввести код на странице: #LIST_SUBSCRIBES# <br><br>
-Письмо содержит информацию для авторизации.<br>
-Используя код подтверждения, вы cможете получить доступ к списку подписок.<br>
-Не отвечайте на письмо, оно сформировано автоматически.<br><br>
-Спасибо, что вы с нами!<br>
+Р’С‹ РїРѕР»СѓС‡РёР»Рё СЌС‚Рѕ СЃРѕРѕР±С‰РµРЅРёРµ, С‚Р°Рє РєР°Рє РЅР° РІР°С€ Р°РґСЂРµСЃ Р±С‹Р» Р·Р°РїСЂРѕС€РµРЅ РєРѕРґ РїРѕРґС‚РІРµСЂР¶РґРµРЅРёСЏ РґР»СЏ РґРѕСЃС‚СѓРїР° Рє РїРѕРґРїРёСЃРєР°Рј СЃР°Р№С‚Р° #SERVER_NAME#. <br><br> 
+Р’Р°С€ РєРѕРґ РґР»СЏ РїРѕРґС‚РІРµСЂР¶РґРµРЅРёСЏ РїРѕРґРїРёСЃРєРё: #TOKEN# <br><br> 
+Р”Р»СЏ РїРѕР»СѓС‡РµРЅРёСЏ РґРѕСЃС‚СѓРїР° Рє РїРѕРґРїРёСЃРєР°Рј РїРµСЂРµР№РґРёС‚Рµ РїРѕ СЃР»РµРґСѓСЋС‰РµР№ СЃСЃС‹Р»РєРµ: #TOKEN_URL# <br><br>
+Р’С‹ С‚Р°РєР¶Рµ РјРѕР¶РµС‚Рµ РІРІРµСЃС‚Рё РєРѕРґ РЅР° СЃС‚СЂР°РЅРёС†Рµ: #LIST_SUBSCRIBES# <br><br>
+РџРёСЃСЊРјРѕ СЃРѕРґРµСЂР¶РёС‚ РёРЅС„РѕСЂРјР°С†РёСЋ РґР»СЏ Р°РІС‚РѕСЂРёР·Р°С†РёРё.<br>
+РСЃРїРѕР»СЊР·СѓСЏ РєРѕРґ РїРѕРґС‚РІРµСЂР¶РґРµРЅРёСЏ, РІС‹ cРјРѕР¶РµС‚Рµ РїРѕР»СѓС‡РёС‚СЊ РґРѕСЃС‚СѓРї Рє СЃРїРёСЃРєСѓ РїРѕРґРїРёСЃРѕРє.<br>
+РќРµ РѕС‚РІРµС‡Р°Р№С‚Рµ РЅР° РїРёСЃСЊРјРѕ, РѕРЅРѕ СЃС„РѕСЂРјРёСЂРѕРІР°РЅРѕ Р°РІС‚РѕРјР°С‚РёС‡РµСЃРєРё.<br><br>
+РЎРїР°СЃРёР±Рѕ, С‡С‚Рѕ РІС‹ СЃ РЅР°РјРё!<br>
 ";
-$MESS["CATALOG_PRODUCT_SUBSCRIBE_NOTIFY_NAME"] = "Уведомление о поступлении товара";
-$MESS["CATALOG_PRODUCT_SUBSCRIBE_NOTIFY_DESC"] = "#USER_NAME# - имя пользователя
-#EMAIL_TO# - email пользователя
-#NAME# - название товара
-#PAGE_URL# - детальная страница товара
-#CHECKOUT_URL# - добавление товара в корзину
-#CHECKOUT_URL_PARAMETERS# - параметры ссылки добавления товара в корзину
-#PRODUCT_ID# - id товара для формирования ссылок
-#UNSUBSCRIBE_URL# - ссылка отписки от товара
-#UNSUBSCRIBE_URL_PARAMETERS# - параметры ссылки отписки от товара
+$MESS["CATALOG_PRODUCT_SUBSCRIBE_NOTIFY_NAME"] = "РЈРІРµРґРѕРјР»РµРЅРёРµ Рѕ РїРѕСЃС‚СѓРїР»РµРЅРёРё С‚РѕРІР°СЂР°";
+$MESS["CATALOG_PRODUCT_SUBSCRIBE_NOTIFY_DESC"] = "#USER_NAME# - РёРјСЏ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ
+#EMAIL_TO# - email РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ
+#NAME# - РЅР°Р·РІР°РЅРёРµ С‚РѕРІР°СЂР°
+#PAGE_URL# - РґРµС‚Р°Р»СЊРЅР°СЏ СЃС‚СЂР°РЅРёС†Р° С‚РѕРІР°СЂР°
+#CHECKOUT_URL# - РґРѕР±Р°РІР»РµРЅРёРµ С‚РѕРІР°СЂР° РІ РєРѕСЂР·РёРЅСѓ
+#CHECKOUT_URL_PARAMETERS# - РїР°СЂР°РјРµС‚СЂС‹ СЃСЃС‹Р»РєРё РґРѕР±Р°РІР»РµРЅРёСЏ С‚РѕРІР°СЂР° РІ РєРѕСЂР·РёРЅСѓ
+#PRODUCT_ID# - id С‚РѕРІР°СЂР° РґР»СЏ С„РѕСЂРјРёСЂРѕРІР°РЅРёСЏ СЃСЃС‹Р»РѕРє
+#UNSUBSCRIBE_URL# - СЃСЃС‹Р»РєР° РѕС‚РїРёСЃРєРё РѕС‚ С‚РѕРІР°СЂР°
+#UNSUBSCRIBE_URL_PARAMETERS# - РїР°СЂР°РјРµС‚СЂС‹ СЃСЃС‹Р»РєРё РѕС‚РїРёСЃРєРё РѕС‚ С‚РѕРІР°СЂР°
 ";
-$MESS["CATALOG_PRODUCT_SUBSCRIBE_NOTIFY_SUBJECT"] = "#SITE_NAME#: Уведомление о поступлении товара";
-$MESS["CATALOG_PRODUCT_SUBSCRIBE_NOTIFY_HTML_TITLE"] = "Уведомление о поступлении товара в магазин #SITE_NAME#";
-$MESS["CATALOG_PRODUCT_SUBSCRIBE_NOTIFY_HTML_SUB_TITLE"] = "Уважаемый, #USER_NAME#!";
+$MESS["CATALOG_PRODUCT_SUBSCRIBE_NOTIFY_SUBJECT"] = "#SITE_NAME#: РЈРІРµРґРѕРјР»РµРЅРёРµ Рѕ РїРѕСЃС‚СѓРїР»РµРЅРёРё С‚РѕРІР°СЂР°";
+$MESS["CATALOG_PRODUCT_SUBSCRIBE_NOTIFY_HTML_TITLE"] = "РЈРІРµРґРѕРјР»РµРЅРёРµ Рѕ РїРѕСЃС‚СѓРїР»РµРЅРёРё С‚РѕРІР°СЂР° РІ РјР°РіР°Р·РёРЅ #SITE_NAME#";
+$MESS["CATALOG_PRODUCT_SUBSCRIBE_NOTIFY_HTML_SUB_TITLE"] = "РЈРІР°Р¶Р°РµРјС‹Р№, #USER_NAME#!";
 $MESS["CATALOG_PRODUCT_SUBSCRIBE_NOTIFY_HTML_TEXT"] = "
-Товар \"#NAME#\" (#PAGE_URL#) поступил на склад.<br><br>
-Вы просили оповестить вас о поступлении товара.<br><br>
-Товар поступил к нам в магазин, вы можете оформить заказ прямо сейчас: (#CHECKOUT_URL#)<br><br>
-Не отвечайте на письмо, оно сформировано автоматически.<br><br>
-Спасибо, что вы с нами!<br>
+РўРѕРІР°СЂ \"#NAME#\" (#PAGE_URL#) РїРѕСЃС‚СѓРїРёР» РЅР° СЃРєР»Р°Рґ.<br><br>
+Р’С‹ РїСЂРѕСЃРёР»Рё РѕРїРѕРІРµСЃС‚РёС‚СЊ РІР°СЃ Рѕ РїРѕСЃС‚СѓРїР»РµРЅРёРё С‚РѕРІР°СЂР°.<br><br>
+РўРѕРІР°СЂ РїРѕСЃС‚СѓРїРёР» Рє РЅР°Рј РІ РјР°РіР°Р·РёРЅ, РІС‹ РјРѕР¶РµС‚Рµ РѕС„РѕСЂРјРёС‚СЊ Р·Р°РєР°Р· РїСЂСЏРјРѕ СЃРµР№С‡Р°СЃ: (#CHECKOUT_URL#)<br><br>
+РќРµ РѕС‚РІРµС‡Р°Р№С‚Рµ РЅР° РїРёСЃСЊРјРѕ, РѕРЅРѕ СЃС„РѕСЂРјРёСЂРѕРІР°РЅРѕ Р°РІС‚РѕРјР°С‚РёС‡РµСЃРєРё.<br><br>
+РЎРїР°СЃРёР±Рѕ, С‡С‚Рѕ РІС‹ СЃ РЅР°РјРё!<br>
 ";
-$MESS["CATALOG_PRODUCT_SUBSCRIBE_NOTIFY_REPEATED_NAME"] = "Уведомление о товаре в магазине";
-$MESS["CATALOG_PRODUCT_SUBSCRIBE_NOTIFY_REPEATED_DESC"] = "#USER_NAME# - имя пользователя
-#EMAIL_TO# - email пользователя
-#NAME# - название товара
-#PAGE_URL# - детальная страница товара
-#PRODUCT_ID# - id товара для формирования ссылок
-#UNSUBSCRIBE_URL# - ссылка отписки от товара
-#UNSUBSCRIBE_URL_PARAMETERS# - параметры ссылки отписки от товара
+$MESS["CATALOG_PRODUCT_SUBSCRIBE_NOTIFY_REPEATED_NAME"] = "РЈРІРµРґРѕРјР»РµРЅРёРµ Рѕ С‚РѕРІР°СЂРµ РІ РјР°РіР°Р·РёРЅРµ";
+$MESS["CATALOG_PRODUCT_SUBSCRIBE_NOTIFY_REPEATED_DESC"] = "#USER_NAME# - РёРјСЏ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ
+#EMAIL_TO# - email РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ
+#NAME# - РЅР°Р·РІР°РЅРёРµ С‚РѕРІР°СЂР°
+#PAGE_URL# - РґРµС‚Р°Р»СЊРЅР°СЏ СЃС‚СЂР°РЅРёС†Р° С‚РѕРІР°СЂР°
+#PRODUCT_ID# - id С‚РѕРІР°СЂР° РґР»СЏ С„РѕСЂРјРёСЂРѕРІР°РЅРёСЏ СЃСЃС‹Р»РѕРє
+#UNSUBSCRIBE_URL# - СЃСЃС‹Р»РєР° РѕС‚РїРёСЃРєРё РѕС‚ С‚РѕРІР°СЂР°
+#UNSUBSCRIBE_URL_PARAMETERS# - РїР°СЂР°РјРµС‚СЂС‹ СЃСЃС‹Р»РєРё РѕС‚РїРёСЃРєРё РѕС‚ С‚РѕРІР°СЂР°
 ";
-$MESS["CATALOG_PRODUCT_SUBSCRIBE_NOTIFY_REPEATED_SUBJECT"] = "Уведомление о товаре в магазине #SITE_NAME#";
-$MESS["CATALOG_PRODUCT_SUBSCRIBE_NOTIFY_REPEATED_HTML_TITLE"] = "Уведомление о товаре в магазине #SITE_NAME#";
-$MESS["CATALOG_PRODUCT_SUBSCRIBE_NOTIFY_REPEATED_HTML_SUB_TITLE"] = "Уважаемый, #USER_NAME#!";
+$MESS["CATALOG_PRODUCT_SUBSCRIBE_NOTIFY_REPEATED_SUBJECT"] = "РЈРІРµРґРѕРјР»РµРЅРёРµ Рѕ С‚РѕРІР°СЂРµ РІ РјР°РіР°Р·РёРЅРµ #SITE_NAME#";
+$MESS["CATALOG_PRODUCT_SUBSCRIBE_NOTIFY_REPEATED_HTML_TITLE"] = "РЈРІРµРґРѕРјР»РµРЅРёРµ Рѕ С‚РѕРІР°СЂРµ РІ РјР°РіР°Р·РёРЅРµ #SITE_NAME#";
+$MESS["CATALOG_PRODUCT_SUBSCRIBE_NOTIFY_REPEATED_HTML_SUB_TITLE"] = "РЈРІР°Р¶Р°РµРјС‹Р№, #USER_NAME#!";
 $MESS["CATALOG_PRODUCT_SUBSCRIBE_NOTIFY_REPEATED_HTML_TEXT"] = "
-Товар \"#NAME#\" (#PAGE_URL#) к сожалению снова закончился.<br><br>
-Мы обязательно сообщим вам о поступлении товара.<br><br>
-Не отвечайте на письмо, оно сформировано автоматически.<br><br>
-Спасибо, что вы с нами!<br>
+РўРѕРІР°СЂ \"#NAME#\" (#PAGE_URL#) Рє СЃРѕР¶Р°Р»РµРЅРёСЋ СЃРЅРѕРІР° Р·Р°РєРѕРЅС‡РёР»СЃСЏ.<br><br>
+РњС‹ РѕР±СЏР·Р°С‚РµР»СЊРЅРѕ СЃРѕРѕР±С‰РёРј РІР°Рј Рѕ РїРѕСЃС‚СѓРїР»РµРЅРёРё С‚РѕРІР°СЂР°.<br><br>
+РќРµ РѕС‚РІРµС‡Р°Р№С‚Рµ РЅР° РїРёСЃСЊРјРѕ, РѕРЅРѕ СЃС„РѕСЂРјРёСЂРѕРІР°РЅРѕ Р°РІС‚РѕРјР°С‚РёС‡РµСЃРєРё.<br><br>
+РЎРїР°СЃРёР±Рѕ, С‡С‚Рѕ РІС‹ СЃ РЅР°РјРё!<br>
 ";
 ?>

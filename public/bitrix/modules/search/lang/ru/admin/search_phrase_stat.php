@@ -1,13 +1,13 @@
 <?
-$MESS["SEARCH_PHS_TITLE"] = "Ñòàòèñòèêà ïîèñêîâûõ ôðàç";
+$MESS["SEARCH_PHS_TITLE"] = "Ð¡Ñ‚Ð°Ñ‚Ð¸ÑÑ‚Ð¸ÐºÐ° Ð¿Ð¾Ð¸ÑÐºÐ¾Ð²Ñ‹Ñ… Ñ„Ñ€Ð°Ð·";
 $MESS["SEARCH_PHS_ID"] = "ID";
-$MESS["SEARCH_PHS_DATE"] = "Äàòà";
-$MESS["SEARCH_PHS_SITE_ID"] = "Ñàéò";
-$MESS["SEARCH_PHS_SITE"] = "(ñàéò)";
-$MESS["SEARCH_PHS_PHRASE"] = "Ïîèñêîâàÿ ôðàçà";
-$MESS["SEARCH_PHS_STAT_SESS_ID"] = "ID ñåññèè";
-$MESS["SEARCH_PHS_URL_TO"] = "Êóäà ïðèøëè";
-$MESS["SEARCH_PHS_404"] = "(îøèáêà 404)";
-$MESS["SEARCH_PHS_PHRASES"] = "ôðàçû";
-$MESS["SEARCH_PHS_COUNT"] = "Êîëè÷åñòâî";
+$MESS["SEARCH_PHS_DATE"] = "Ð”Ð°Ñ‚Ð°";
+$MESS["SEARCH_PHS_SITE_ID"] = "Ð¡Ð°Ð¹Ñ‚";
+$MESS["SEARCH_PHS_SITE"] = "(ÑÐ°Ð¹Ñ‚)";
+$MESS["SEARCH_PHS_PHRASE"] = "ÐŸÐ¾Ð¸ÑÐºÐ¾Ð²Ð°Ñ Ñ„Ñ€Ð°Ð·Ð°";
+$MESS["SEARCH_PHS_STAT_SESS_ID"] = "ID ÑÐµÑÑÐ¸Ð¸";
+$MESS["SEARCH_PHS_URL_TO"] = "ÐšÑƒÐ´Ð° Ð¿Ñ€Ð¸ÑˆÐ»Ð¸";
+$MESS["SEARCH_PHS_404"] = "(Ð¾ÑˆÐ¸Ð±ÐºÐ° 404)";
+$MESS["SEARCH_PHS_PHRASES"] = "Ñ„Ñ€Ð°Ð·Ñ‹";
+$MESS["SEARCH_PHS_COUNT"] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾";
 ?>

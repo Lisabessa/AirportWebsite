@@ -1,195 +1,195 @@
 <?
-$MESS["SOC_EMPTY_ORDER_ID"] = "Ïðè ñîõðàíåíèè èíôîðìàöèè îá èçìåíåíèè çàêàçà íå óêàçàí ID çàêàçà.";
-$MESS["SOC_EMPTY_USER_ID"] = "Ïðè ñîõðàíåíèè èíôîðìàöèè îá èçìåíåíèè çàêàçà íå óêàçàí ID ïîëüçîâàòåëÿ.";
-$MESS["SOC_EMPTY_TYPE"] = "Ïðè ñîõðàíåíèè èíôîðìàöèè îá èçìåíåíèè çàêàçà íå óêàçàí òèï çàïèñè.";
-$MESS["SOC_BASKET_ADDED"] = "Äîáàâëåíèå òîâàðà";
-$MESS["SOC_BASKET_ADDED_INFO"] = "Äîáàâëåí òîâàð \"#NAME#\" (##PRODUCT_ID#) â êîëè÷åñòâå #QUANTITY#.";
-$MESS["SOC_BASKET_REMOVED"] = "Óäàëåíèå òîâàðà";
-$MESS["SOC_BASKET_REMOVED_INFO"] = "Óäàëåí òîâàð \"#NAME#\" (##PRODUCT_ID#).";
-$MESS["SOC_BASKET_QUANTITY_CHANGED"] = "Èçìåíåíèå êîëè÷åñòâà òîâàðà";
-$MESS["SOC_BASKET_QUANTITY_CHANGED_INFO"] = "Êîëè÷åñòâî òîâàðà \"#NAME#\" (##PRODUCT_ID#) èçìåíåíî íà #QUANTITY#";
-$MESS["SOC_BASKET_PRICE_CHANGED"] = "Èçìåíåíèå öåíû òîâàðà";
-$MESS["SOC_BASKET_PRICE_CHANGED_INFO"] = "Öåíà òîâàðà \"#NAME#\" (##PRODUCT_ID#) èçìåíåíà íà #AMOUNT#";
-$MESS["SOC_ORDER_CANCELED"] = "Îòìåíà çàêàçà";
-$MESS["SOC_ORDER_CANCELED_Y"] = "Çàêàç îòìåíåí. Ïðè÷èíà: #REASON_CANCELED#";
-$MESS["SOC_ORDER_CANCELED_N"] = "Ñíÿòèå îòìåíû çàêàçà.";
-$MESS["SOC_ORDER_RESERVED"] = "Ðåçåðâèðîâàíèå çàêàçà";
-$MESS["SOC_ORDER_RESERVED_Y"] = "Çàêàç çàðåçåðâèðîâàí";
-$MESS["SOC_ORDER_RESERVED_N"] = "Îòìåíà ðåçåðâèðîâàíèÿ çàêàçà";
-$MESS["SOC_ORDER_DEDUCTED"] = "Îòãðóçêà çàêàçà";
-$MESS["SOC_ORDER_DEDUCTED_N"] = "Îòìåíà îòãðóçêè. Ïðè÷èíà: #REASON_UNDO_DEDUCTED#";
-$MESS["SOC_ORDER_DEDUCTED_Y"] = "Çàêàç îòãðóæåí";
-$MESS["SOC_ORDER_MARKED"] = "Ïðîáëåìà ñ çàêàçîì";
-$MESS["SOC_ORDER_MARKED_INFO"] = "Îïèñàíèå ïðîáëåìû: #REASON_MARKED#";
-$MESS["SOC_ORDER_NOT_MARKED"] = "Îòìåòêà î ïðîáëåìå óáðàíà";
-$MESS["SOC_ORDER_COMMENTED"] = "Êîììåíòàðèé ê çàêàçó";
+$MESS["SOC_EMPTY_ORDER_ID"] = "ÐŸÑ€Ð¸ ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð¸Ð¸ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¸ Ð¾Ð± Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ð¸ Ð·Ð°ÐºÐ°Ð·Ð° Ð½Ðµ ÑƒÐºÐ°Ð·Ð°Ð½ ID Ð·Ð°ÐºÐ°Ð·Ð°.";
+$MESS["SOC_EMPTY_USER_ID"] = "ÐŸÑ€Ð¸ ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð¸Ð¸ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¸ Ð¾Ð± Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ð¸ Ð·Ð°ÐºÐ°Ð·Ð° Ð½Ðµ ÑƒÐºÐ°Ð·Ð°Ð½ ID Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ.";
+$MESS["SOC_EMPTY_TYPE"] = "ÐŸÑ€Ð¸ ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð¸Ð¸ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¸ Ð¾Ð± Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ð¸ Ð·Ð°ÐºÐ°Ð·Ð° Ð½Ðµ ÑƒÐºÐ°Ð·Ð°Ð½ Ñ‚Ð¸Ð¿ Ð·Ð°Ð¿Ð¸ÑÐ¸.";
+$MESS["SOC_BASKET_ADDED"] = "Ð”Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ñ‚Ð¾Ð²Ð°Ñ€Ð°";
+$MESS["SOC_BASKET_ADDED_INFO"] = "Ð”Ð¾Ð±Ð°Ð²Ð»ÐµÐ½ Ñ‚Ð¾Ð²Ð°Ñ€ \"#NAME#\" (##PRODUCT_ID#) Ð² ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ðµ #QUANTITY#.";
+$MESS["SOC_BASKET_REMOVED"] = "Ð£Ð´Ð°Ð»ÐµÐ½Ð¸Ðµ Ñ‚Ð¾Ð²Ð°Ñ€Ð°";
+$MESS["SOC_BASKET_REMOVED_INFO"] = "Ð£Ð´Ð°Ð»ÐµÐ½ Ñ‚Ð¾Ð²Ð°Ñ€ \"#NAME#\" (##PRODUCT_ID#).";
+$MESS["SOC_BASKET_QUANTITY_CHANGED"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð° Ñ‚Ð¾Ð²Ð°Ñ€Ð°";
+$MESS["SOC_BASKET_QUANTITY_CHANGED_INFO"] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ñ‚Ð¾Ð²Ð°Ñ€Ð° \"#NAME#\" (##PRODUCT_ID#) Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¾ Ð½Ð° #QUANTITY#";
+$MESS["SOC_BASKET_PRICE_CHANGED"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ Ñ†ÐµÐ½Ñ‹ Ñ‚Ð¾Ð²Ð°Ñ€Ð°";
+$MESS["SOC_BASKET_PRICE_CHANGED_INFO"] = "Ð¦ÐµÐ½Ð° Ñ‚Ð¾Ð²Ð°Ñ€Ð° \"#NAME#\" (##PRODUCT_ID#) Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð° Ð½Ð° #AMOUNT#";
+$MESS["SOC_ORDER_CANCELED"] = "ÐžÑ‚Ð¼ÐµÐ½Ð° Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["SOC_ORDER_CANCELED_Y"] = "Ð—Ð°ÐºÐ°Ð· Ð¾Ñ‚Ð¼ÐµÐ½ÐµÐ½. ÐŸÑ€Ð¸Ñ‡Ð¸Ð½Ð°: #REASON_CANCELED#";
+$MESS["SOC_ORDER_CANCELED_N"] = "Ð¡Ð½ÑÑ‚Ð¸Ðµ Ð¾Ñ‚Ð¼ÐµÐ½Ñ‹ Ð·Ð°ÐºÐ°Ð·Ð°.";
+$MESS["SOC_ORDER_RESERVED"] = "Ð ÐµÐ·ÐµÑ€Ð²Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["SOC_ORDER_RESERVED_Y"] = "Ð—Ð°ÐºÐ°Ð· Ð·Ð°Ñ€ÐµÐ·ÐµÑ€Ð²Ð¸Ñ€Ð¾Ð²Ð°Ð½";
+$MESS["SOC_ORDER_RESERVED_N"] = "ÐžÑ‚Ð¼ÐµÐ½Ð° Ñ€ÐµÐ·ÐµÑ€Ð²Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["SOC_ORDER_DEDUCTED"] = "ÐžÑ‚Ð³Ñ€ÑƒÐ·ÐºÐ° Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["SOC_ORDER_DEDUCTED_N"] = "ÐžÑ‚Ð¼ÐµÐ½Ð° Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸. ÐŸÑ€Ð¸Ñ‡Ð¸Ð½Ð°: #REASON_UNDO_DEDUCTED#";
+$MESS["SOC_ORDER_DEDUCTED_Y"] = "Ð—Ð°ÐºÐ°Ð· Ð¾Ñ‚Ð³Ñ€ÑƒÐ¶ÐµÐ½";
+$MESS["SOC_ORDER_MARKED"] = "ÐŸÑ€Ð¾Ð±Ð»ÐµÐ¼Ð° Ñ Ð·Ð°ÐºÐ°Ð·Ð¾Ð¼";
+$MESS["SOC_ORDER_MARKED_INFO"] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ Ð¿Ñ€Ð¾Ð±Ð»ÐµÐ¼Ñ‹: #REASON_MARKED#";
+$MESS["SOC_ORDER_NOT_MARKED"] = "ÐžÑ‚Ð¼ÐµÑ‚ÐºÐ° Ð¾ Ð¿Ñ€Ð¾Ð±Ð»ÐµÐ¼Ðµ ÑƒÐ±Ñ€Ð°Ð½Ð°";
+$MESS["SOC_ORDER_COMMENTED"] = "ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹ Ðº Ð·Ð°ÐºÐ°Ð·Ñƒ";
 $MESS["SOC_ORDER_COMMENTED_INFO"] = "#COMMENTS#";
-$MESS["SOC_ORDER_STATUS_CHANGED"] = "Èçìåíåíèå ñòàòóñà çàêàçà";
-$MESS["SOC_ORDER_STATUS_CHANGED_INFO"] = "Ñòàòóñ èçìåíåí íà: #STATUS_ID#";
-$MESS["SOC_ORDER_DELIVERY_ALLOWED"] = "Ðàçðåøåíèå äîñòàâêè";
-$MESS["SOC_ORDER_DELIVERY_ALLOWED_Y"] = "Äîñòàâêà ðàçðåøåíà";
-$MESS["SOC_ORDER_DELIVERY_ALLOWED_N"] = "Îòìåíà ðàçðåøåíèÿ äîñòàâêè";
-$MESS["SOC_ORDER_DELIVERY_DOC_CHANGED"] = "Èçìåíåíèå äîêóìåíòà äîñòàâêè";
-$MESS["SOC_ORDER_DELIVERY_DOC_CHANGED_INFO"] = "Íîìåð äîêóìåíòà: #DELIVERY_DOC_NUM#. Äàòà äîêóìåíòà: #DELIVERY_DOC_DATE#";
-$MESS["SOC_ORDER_DELIVERY_SYSTEM_CHANGED"] = "Èçìåíåíèå ñëóæáû äîñòàâêè";
-$MESS["SOC_ORDER_DELIVERY_SYSTEM_CHANGED_INFO"] = "Èçìåíåíà íà: #DELIVERY_ID#";
-$MESS["SOC_ORDER_PAYMENT_SYSTEM_CHANGED"] = "Èçìåíåíèå ïëàòåæíîé ñèñòåìû";
-$MESS["SOC_ORDER_PAYMENT_SYSTEM_CHANGED_INFO"] = "Èçìåíåíà íà: #PAY_SYSTEM_ID#";
-$MESS["SOC_ORDER_PERSON_TYPE_CHANGED"] = "Èçìåíåíèå òèïà ïëàòåëüùèêà";
-$MESS["SOC_ORDER_PERSON_TYPE_CHANGED_INFO"] = "Òèï ïëàòåëüùèêà èçìåíåí íà: #PERSON_TYPE_ID#";
-$MESS["SOC_ORDER_PAYMENT_VOUCHER_CHANGED"] = "Èçìåíåíèå äîêóìåíòà îïëàòû";
-$MESS["SOC_ORDER_PAYMENT_VOUCHER_CHANGED_INFO"] = "Íîìåð äîêóìåíòà: #PAY_VOUCHER_NUM#. Äàòà äîêóìåíòà: #PAY_VOUCHER_DATE#";
-$MESS["SOC_ORDER_PAYED"] = "Îïëàòà çàêàçà";
-$MESS["SOC_ORDER_PAYED_Y"] = "Çàêàç îïëà÷åí";
-$MESS["SOC_ORDER_PAYED_N"] = "Îòìåíà îïëàòû çàêàçà";
-$MESS["SOC_ORDER_TRACKING_NUMBER_CHANGED"] = "Èçìåíåíèå èäåíòèôèêàòîðà îòïðàâëåíèÿ";
+$MESS["SOC_ORDER_STATUS_CHANGED"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ ÑÑ‚Ð°Ñ‚ÑƒÑÐ° Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["SOC_ORDER_STATUS_CHANGED_INFO"] = "Ð¡Ñ‚Ð°Ñ‚ÑƒÑ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½ Ð½Ð°: #STATUS_ID#";
+$MESS["SOC_ORDER_DELIVERY_ALLOWED"] = "Ð Ð°Ð·Ñ€ÐµÑˆÐµÐ½Ð¸Ðµ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸";
+$MESS["SOC_ORDER_DELIVERY_ALLOWED_Y"] = "Ð”Ð¾ÑÑ‚Ð°Ð²ÐºÐ° Ñ€Ð°Ð·Ñ€ÐµÑˆÐµÐ½Ð°";
+$MESS["SOC_ORDER_DELIVERY_ALLOWED_N"] = "ÐžÑ‚Ð¼ÐµÐ½Ð° Ñ€Ð°Ð·Ñ€ÐµÑˆÐµÐ½Ð¸Ñ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸";
+$MESS["SOC_ORDER_DELIVERY_DOC_CHANGED"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð° Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸";
+$MESS["SOC_ORDER_DELIVERY_DOC_CHANGED_INFO"] = "ÐÐ¾Ð¼ÐµÑ€ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð°: #DELIVERY_DOC_NUM#. Ð”Ð°Ñ‚Ð° Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð°: #DELIVERY_DOC_DATE#";
+$MESS["SOC_ORDER_DELIVERY_SYSTEM_CHANGED"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ ÑÐ»ÑƒÐ¶Ð±Ñ‹ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸";
+$MESS["SOC_ORDER_DELIVERY_SYSTEM_CHANGED_INFO"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð° Ð½Ð°: #DELIVERY_ID#";
+$MESS["SOC_ORDER_PAYMENT_SYSTEM_CHANGED"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ð½Ð¾Ð¹ ÑÐ¸ÑÑ‚ÐµÐ¼Ñ‹";
+$MESS["SOC_ORDER_PAYMENT_SYSTEM_CHANGED_INFO"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð° Ð½Ð°: #PAY_SYSTEM_ID#";
+$MESS["SOC_ORDER_PERSON_TYPE_CHANGED"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ Ñ‚Ð¸Ð¿Ð° Ð¿Ð»Ð°Ñ‚ÐµÐ»ÑŒÑ‰Ð¸ÐºÐ°";
+$MESS["SOC_ORDER_PERSON_TYPE_CHANGED_INFO"] = "Ð¢Ð¸Ð¿ Ð¿Ð»Ð°Ñ‚ÐµÐ»ÑŒÑ‰Ð¸ÐºÐ° Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½ Ð½Ð°: #PERSON_TYPE_ID#";
+$MESS["SOC_ORDER_PAYMENT_VOUCHER_CHANGED"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð° Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹";
+$MESS["SOC_ORDER_PAYMENT_VOUCHER_CHANGED_INFO"] = "ÐÐ¾Ð¼ÐµÑ€ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð°: #PAY_VOUCHER_NUM#. Ð”Ð°Ñ‚Ð° Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð°: #PAY_VOUCHER_DATE#";
+$MESS["SOC_ORDER_PAYED"] = "ÐžÐ¿Ð»Ð°Ñ‚Ð° Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["SOC_ORDER_PAYED_Y"] = "Ð—Ð°ÐºÐ°Ð· Ð¾Ð¿Ð»Ð°Ñ‡ÐµÐ½";
+$MESS["SOC_ORDER_PAYED_N"] = "ÐžÑ‚Ð¼ÐµÐ½Ð° Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹ Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["SOC_ORDER_TRACKING_NUMBER_CHANGED"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€Ð° Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ñ";
 $MESS["SOC_ORDER_TRACKING_NUMBER_CHANGED_INFO"] = "#TRACKING_NUMBER#";
-$MESS["SOC_ORDER_USER_DESCRIPTION_CHANGED"] = "Èçìåíåíèå êîììåíòàðèÿ ïîëüçîâàòåëÿ";
+$MESS["SOC_ORDER_USER_DESCRIPTION_CHANGED"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ñ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
 $MESS["SOC_ORDER_USER_DESCRIPTION_CHANGED_INFO"] = "#USER_DESCRIPTION#";
-$MESS["SOC_ORDER_PRICE_DELIVERY_CHANGED"] = "Èçìåíåíèå ñòîèìîñòè äîñòàâêè";
-$MESS["SOC_ORDER_PRICE_DELIVERY_CHANGED_INFO"] = "Ñòîèìîñòü äîñòàâêè #AMOUNT#";
-$MESS["SOC_ORDER_PRICE_CHANGED"] = "Èçìåíåíèå ñòîèìîñòè çàêàçà";
-$MESS["SOC_ORDER_PRICE_CHANGED_INFO"] = "Ñòîèìîñòü çàêàçà èçìåíèëàñü ñ #OLD_AMOUNT# íà #AMOUNT#";
-$MESS["SOC_ORDER_1C_IMPORT"] = "Èìïîðò ñâåäåíèé î çàêàçå èç 1C";
+$MESS["SOC_ORDER_PRICE_DELIVERY_CHANGED"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ ÑÑ‚Ð¾Ð¸Ð¼Ð¾ÑÑ‚Ð¸ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸";
+$MESS["SOC_ORDER_PRICE_DELIVERY_CHANGED_INFO"] = "Ð¡Ñ‚Ð¾Ð¸Ð¼Ð¾ÑÑ‚ÑŒ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸ #AMOUNT#";
+$MESS["SOC_ORDER_PRICE_CHANGED"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ ÑÑ‚Ð¾Ð¸Ð¼Ð¾ÑÑ‚Ð¸ Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["SOC_ORDER_PRICE_CHANGED_INFO"] = "Ð¡Ñ‚Ð¾Ð¸Ð¼Ð¾ÑÑ‚ÑŒ Ð·Ð°ÐºÐ°Ð·Ð° Ð¸Ð·Ð¼ÐµÐ½Ð¸Ð»Ð°ÑÑŒ Ñ #OLD_AMOUNT# Ð½Ð° #AMOUNT#";
+$MESS["SOC_ORDER_1C_IMPORT"] = "Ð˜Ð¼Ð¿Ð¾Ñ€Ñ‚ ÑÐ²ÐµÐ´ÐµÐ½Ð¸Ð¹ Ð¾ Ð·Ð°ÐºÐ°Ð·Ðµ Ð¸Ð· 1C";
 
-$MESS["SOC_ORDER_SYNCHRONIZATION_IMPORT_TITLE"] = "Èìïîðò çàêàçà èç âíåøíåé ñècòåìû";
-$MESS["SOC_ORDER_SYNCHRONIZATION_IMPORT_INFO"] = "Èìïîðò âíåøíåãî çàêàçà  \"#EXTERNAL_ORDER_ID#\"";
+$MESS["SOC_ORDER_SYNCHRONIZATION_IMPORT_TITLE"] = "Ð˜Ð¼Ð¿Ð¾Ñ€Ñ‚ Ð·Ð°ÐºÐ°Ð·Ð° Ð¸Ð· Ð²Ð½ÐµÑˆÐ½ÐµÐ¹ ÑÐ¸cÑ‚ÐµÐ¼Ñ‹";
+$MESS["SOC_ORDER_SYNCHRONIZATION_IMPORT_INFO"] = "Ð˜Ð¼Ð¿Ð¾Ñ€Ñ‚ Ð²Ð½ÐµÑˆÐ½ÐµÐ³Ð¾ Ð·Ð°ÐºÐ°Ð·Ð°  \"#EXTERNAL_ORDER_ID#\"";
 
-$MESS["SOC_ORDER_SYNCHRONIZATION_EXPORT_TITLE"] = "Ýêñïîðò çàêàçà âî âíåøóþ ñècòåìó";
-$MESS["SOC_ORDER_SYNCHRONIZATION_EXPORT_ERROR_TITLE"] = "Îøèáêà ýêñïîðòà çàêàçà âî âíåøóþ ñècòåìó";
-$MESS["SOC_ORDER_SYNCHRONIZATION_EXPORT_ERROR_INFO"] = "Ïðè ýêñïîðòå âîçíèêëà îøèáêà \"#ERROR#\"";
+$MESS["SOC_ORDER_SYNCHRONIZATION_EXPORT_TITLE"] = "Ð­ÐºÑÐ¿Ð¾Ñ€Ñ‚ Ð·Ð°ÐºÐ°Ð·Ð° Ð²Ð¾ Ð²Ð½ÐµÑˆÑƒÑŽ ÑÐ¸cÑ‚ÐµÐ¼Ñƒ";
+$MESS["SOC_ORDER_SYNCHRONIZATION_EXPORT_ERROR_TITLE"] = "ÐžÑˆÐ¸Ð±ÐºÐ° ÑÐºÑÐ¿Ð¾Ñ€Ñ‚Ð° Ð·Ð°ÐºÐ°Ð·Ð° Ð²Ð¾ Ð²Ð½ÐµÑˆÑƒÑŽ ÑÐ¸cÑ‚ÐµÐ¼Ñƒ";
+$MESS["SOC_ORDER_SYNCHRONIZATION_EXPORT_ERROR_INFO"] = "ÐŸÑ€Ð¸ ÑÐºÑÐ¿Ð¾Ñ€Ñ‚Ðµ Ð²Ð¾Ð·Ð½Ð¸ÐºÐ»Ð° Ð¾ÑˆÐ¸Ð±ÐºÐ° \"#ERROR#\"";
 
-$MESS["SOC_ORDER_ADDED"] = "Ñîçäàíèå çàêàçà";
-$MESS["SOC_ORDER_DELIVERY_REQUEST_SENT"] = "Çàÿâêà â ÒÊ";
-$MESS["SOC_ORDER_DELIVERY_REQUEST_SENT_ERROR"] = "Îøèáêà";
-$MESS["SOC_ORDER_DELIVERY_REQUEST_SENT_SUCCESS"] = "Óñïåøíî îòïðàâëåí";
-$MESS["SOC_ORDER_DELIVERY_REQUEST_SENT_ADD_INFO"] = "Äîïîëíèòåëüíàÿ èíôîðìàöèÿ";
-$MESS["SOC_PAYMENT_DELETE"] = "Óäàëåíèå îïëàòû";
-$MESS["SOC_PAYMENT_DELETE_INFO"] = "Îïëàòà \"#PAY_SYSTEM_NAME#\" íà ñóììó #SUM# ðóá. óäàëåíà";
-$MESS["SOC_ORDER_UPDATED"] = "Îáíîâëåíèå çàêàçà";
+$MESS["SOC_ORDER_ADDED"] = "Ð¡Ð¾Ð·Ð´Ð°Ð½Ð¸Ðµ Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["SOC_ORDER_DELIVERY_REQUEST_SENT"] = "Ð—Ð°ÑÐ²ÐºÐ° Ð² Ð¢Ðš";
+$MESS["SOC_ORDER_DELIVERY_REQUEST_SENT_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ°";
+$MESS["SOC_ORDER_DELIVERY_REQUEST_SENT_SUCCESS"] = "Ð£ÑÐ¿ÐµÑˆÐ½Ð¾ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½";
+$MESS["SOC_ORDER_DELIVERY_REQUEST_SENT_ADD_INFO"] = "Ð”Ð¾Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð°Ñ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ñ";
+$MESS["SOC_PAYMENT_DELETE"] = "Ð£Ð´Ð°Ð»ÐµÐ½Ð¸Ðµ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹";
+$MESS["SOC_PAYMENT_DELETE_INFO"] = "ÐžÐ¿Ð»Ð°Ñ‚Ð° \"#PAY_SYSTEM_NAME#\" Ð½Ð° ÑÑƒÐ¼Ð¼Ñƒ #SUM# Ñ€ÑƒÐ±. ÑƒÐ´Ð°Ð»ÐµÐ½Ð°";
+$MESS["SOC_ORDER_UPDATED"] = "ÐžÐ±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ðµ Ð·Ð°ÐºÐ°Ð·Ð°";
 
-$MESS["SOC_PAYMENT_PAID"] = "Îïëàòà çàêàçà";
-$MESS["SOC_PAYMENT_PAID_Y"] = "Îïëàòà \"#PAY_SYSTEM_NAME#\" (##ID#) ïðîèçâåäåíà";
-$MESS["SOC_PAYMENT_PAID_N"] = "Îòìåíà îïëàòû \"#PAY_SYSTEM_NAME#\" (##ID#)";
-$MESS["SOC_PAYMENT_CREATE_INFO"] = "Ñîçäàíà îïëàòà ñ ïëàòåæíîé ñèñòåìîé \"#PAY_SYSTEM_NAME#\"";
-$MESS["SOC_PAYMENT_CREATE"] = "Ñîçäàíèå îïëàòû";
-$MESS["SOC_PAYMENT_REMOVED"] = "Óäàëåíèå îïëàòû";
-$MESS["SOC_PAYMENT_REMOVED_INFO"] = "Îïëàòà \"#PAY_SYSTEM_NAME#\" (##ID#) íà ñóììó #SUM# ðóá. óäàëåíà";
-$MESS["SOC_PAYMENT_PAY_SYSTEM_CHANGE"] = "Èçìåíåíèå ïëàòåæíîé ñèñòåìû";
-$MESS["SOC_PAYMENT_PAY_SYSTEM_CHANGE_INFO"] = "Ïëàòåæíàÿ ñèñòåìà #PAY_SYSTEM_ID#";
+$MESS["SOC_PAYMENT_PAID"] = "ÐžÐ¿Ð»Ð°Ñ‚Ð° Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["SOC_PAYMENT_PAID_Y"] = "ÐžÐ¿Ð»Ð°Ñ‚Ð° \"#PAY_SYSTEM_NAME#\" (##ID#) Ð¿Ñ€Ð¾Ð¸Ð·Ð²ÐµÐ´ÐµÐ½Ð°";
+$MESS["SOC_PAYMENT_PAID_N"] = "ÐžÑ‚Ð¼ÐµÐ½Ð° Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹ \"#PAY_SYSTEM_NAME#\" (##ID#)";
+$MESS["SOC_PAYMENT_CREATE_INFO"] = "Ð¡Ð¾Ð·Ð´Ð°Ð½Ð° Ð¾Ð¿Ð»Ð°Ñ‚Ð° Ñ Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ð½Ð¾Ð¹ ÑÐ¸ÑÑ‚ÐµÐ¼Ð¾Ð¹ \"#PAY_SYSTEM_NAME#\"";
+$MESS["SOC_PAYMENT_CREATE"] = "Ð¡Ð¾Ð·Ð´Ð°Ð½Ð¸Ðµ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹";
+$MESS["SOC_PAYMENT_REMOVED"] = "Ð£Ð´Ð°Ð»ÐµÐ½Ð¸Ðµ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹";
+$MESS["SOC_PAYMENT_REMOVED_INFO"] = "ÐžÐ¿Ð»Ð°Ñ‚Ð° \"#PAY_SYSTEM_NAME#\" (##ID#) Ð½Ð° ÑÑƒÐ¼Ð¼Ñƒ #SUM# Ñ€ÑƒÐ±. ÑƒÐ´Ð°Ð»ÐµÐ½Ð°";
+$MESS["SOC_PAYMENT_PAY_SYSTEM_CHANGE"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ð½Ð¾Ð¹ ÑÐ¸ÑÑ‚ÐµÐ¼Ñ‹";
+$MESS["SOC_PAYMENT_PAY_SYSTEM_CHANGE_INFO"] = "ÐŸÐ»Ð°Ñ‚ÐµÐ¶Ð½Ð°Ñ ÑÐ¸ÑÑ‚ÐµÐ¼Ð° #PAY_SYSTEM_ID#";
 
-$MESS["SOC_SHIPMENT_ALLOWED"] = "Ðàçðåøåíèå äîñòàâêè";
-$MESS["SOC_SHIPMENT_ALLOWED_Y"] = "Äîñòàâêà ðàçðåøåíà";
-$MESS["SOC_SHIPMENT_ALLOWED_N"] = "Îòìåíà ðàçðåøåíèÿ äîñòàâêè";
-$MESS["SOC_SHIPMENT_CREATE_INFO"] = "Ñîçäàíà îòãðóçêà \"#DELIVERY_NAME#\"";
-$MESS["SOC_SHIPMENT_CREATE"] = "Ñîçäàíèå îòãðóçêè";
-$MESS["SOC_SHIPMENT_DEDUCTED"] = "Îòãðóçêà";
-$MESS["SOC_SHIPMENT_DEDUCTED_Y"] = "Îòãðóæåíî";
-$MESS["SOC_SHIPMENT_DEDUCTED_N"] = "Îòìåíà îòãðóçêè";
-$MESS["SOC_SHIPMENT_RESERVED"] = "Ðåçåðâèðîâàíèå îòãðóçêè";
-$MESS["SOC_SHIPMENT_RESERVED_Y"] = "Îòãðóçêà çàðåçåðâèðîâàíà";
-$MESS["SOC_SHIPMENT_RESERVED_N"] = "Îòìåíà ðåçåðâèðîâàíèÿ îòãðóçêè";
-$MESS["SOC_SHIPMENT_PRICE_DELIVERY_CHANGED"] = "Èçìåíåíèå ñòîèìîñòè äîñòàâêè";
-$MESS["SOC_SHIPMENT_PRICE_DELIVERY_CHANGED_INFO"] = "Ñòîèìîñòü äîñòàâêè #PRICE_DELIVERY#";
-$MESS["SOC_SHIPMENT_STATUS_CHANGE"] = "Ñòàòóñ äîñòàâêè";
-$MESS["SOC_SHIPMENT_STATUS_CHANGE_INFO"] = "Ñëóæáà äîñòàâêè #STATUS_ID#";
+$MESS["SOC_SHIPMENT_ALLOWED"] = "Ð Ð°Ð·Ñ€ÐµÑˆÐµÐ½Ð¸Ðµ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸";
+$MESS["SOC_SHIPMENT_ALLOWED_Y"] = "Ð”Ð¾ÑÑ‚Ð°Ð²ÐºÐ° Ñ€Ð°Ð·Ñ€ÐµÑˆÐµÐ½Ð°";
+$MESS["SOC_SHIPMENT_ALLOWED_N"] = "ÐžÑ‚Ð¼ÐµÐ½Ð° Ñ€Ð°Ð·Ñ€ÐµÑˆÐµÐ½Ð¸Ñ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸";
+$MESS["SOC_SHIPMENT_CREATE_INFO"] = "Ð¡Ð¾Ð·Ð´Ð°Ð½Ð° Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ° \"#DELIVERY_NAME#\"";
+$MESS["SOC_SHIPMENT_CREATE"] = "Ð¡Ð¾Ð·Ð´Ð°Ð½Ð¸Ðµ Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸";
+$MESS["SOC_SHIPMENT_DEDUCTED"] = "ÐžÑ‚Ð³Ñ€ÑƒÐ·ÐºÐ°";
+$MESS["SOC_SHIPMENT_DEDUCTED_Y"] = "ÐžÑ‚Ð³Ñ€ÑƒÐ¶ÐµÐ½Ð¾";
+$MESS["SOC_SHIPMENT_DEDUCTED_N"] = "ÐžÑ‚Ð¼ÐµÐ½Ð° Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸";
+$MESS["SOC_SHIPMENT_RESERVED"] = "Ð ÐµÐ·ÐµÑ€Ð²Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸";
+$MESS["SOC_SHIPMENT_RESERVED_Y"] = "ÐžÑ‚Ð³Ñ€ÑƒÐ·ÐºÐ° Ð·Ð°Ñ€ÐµÐ·ÐµÑ€Ð²Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð°";
+$MESS["SOC_SHIPMENT_RESERVED_N"] = "ÐžÑ‚Ð¼ÐµÐ½Ð° Ñ€ÐµÐ·ÐµÑ€Ð²Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸";
+$MESS["SOC_SHIPMENT_PRICE_DELIVERY_CHANGED"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ ÑÑ‚Ð¾Ð¸Ð¼Ð¾ÑÑ‚Ð¸ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸";
+$MESS["SOC_SHIPMENT_PRICE_DELIVERY_CHANGED_INFO"] = "Ð¡Ñ‚Ð¾Ð¸Ð¼Ð¾ÑÑ‚ÑŒ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸ #PRICE_DELIVERY#";
+$MESS["SOC_SHIPMENT_STATUS_CHANGE"] = "Ð¡Ñ‚Ð°Ñ‚ÑƒÑ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸";
+$MESS["SOC_SHIPMENT_STATUS_CHANGE_INFO"] = "Ð¡Ð»ÑƒÐ¶Ð±Ð° Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸ #STATUS_ID#";
 
-$MESS["SOC_SHIPMENT_REMOVED_INFO"] = "Óäàëåíà îòãðóçêà \"#DELIVERY_NAME#\" (##ID#)";
-$MESS["SOC_SHIPMENT_REMOVED"] = "Óäàëåíèå îòãðóçêè";
+$MESS["SOC_SHIPMENT_REMOVED_INFO"] = "Ð£Ð´Ð°Ð»ÐµÐ½Ð° Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ° \"#DELIVERY_NAME#\" (##ID#)";
+$MESS["SOC_SHIPMENT_REMOVED"] = "Ð£Ð´Ð°Ð»ÐµÐ½Ð¸Ðµ Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸";
 
-$MESS["SOC_SHIPMENT_CANCELED"] = "Îòìåíà îòãðóçêè";
-$MESS["SOC_SHIPMENT_CANCELED_Y"] = "Îòãðóçêà îòìåíåíà. Ïðè÷èíà: #REASON_CANCELED#";
-$MESS["SOC_SHIPMENT_CANCELED_N"] = "Ñíÿòèå îòìåíû îòãðóçêè.";
+$MESS["SOC_SHIPMENT_CANCELED"] = "ÐžÑ‚Ð¼ÐµÐ½Ð° Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸";
+$MESS["SOC_SHIPMENT_CANCELED_Y"] = "ÐžÑ‚Ð³Ñ€ÑƒÐ·ÐºÐ° Ð¾Ñ‚Ð¼ÐµÐ½ÐµÐ½Ð°. ÐŸÑ€Ð¸Ñ‡Ð¸Ð½Ð°: #REASON_CANCELED#";
+$MESS["SOC_SHIPMENT_CANCELED_N"] = "Ð¡Ð½ÑÑ‚Ð¸Ðµ Ð¾Ñ‚Ð¼ÐµÐ½Ñ‹ Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸.";
 
-$MESS["SOC_SHIPMENT_MARKED"] = "Ïðîáëåìà ñ îòãðóçêîé";
-$MESS["SOC_SHIPMENT_MARKED_INFO"] = "Îïèñàíèå ïðîáëåìû: #REASON_MARKED#";
-
-
-$MESS["SOC_SHIPMENT_ITEM_BASKET_ADDED_INFO"] = "Â îòãðóçêó äîáàâëåí òîâàð \"#NAME#\" (##PRODUCT_ID#) â êîëè÷åñòâå #QUANTITY#.";
-$MESS["SOC_SHIPMENT_ITEM_BASKET_ADDED"] = "Äîáàâëåíèå òîâàðà â îòãðóçêó";
-$MESS["SOC_SHIPMENT_ITEM_BASKET_REMOVED_INFO"] = "Èç îòãðóçêè óäàëåí òîâàð \"#NAME#\" (##PRODUCT_ID#).";
-$MESS["SOC_SHIPMENT_ITEM_BASKET_REMOVED"] = "Óäàëåíèå òîâàðà èç îòãðóçêè";
-
-$MESS["SOC_SHIPMENT_ITEM_QUANTITY_CHANGE_INFO"] = "Êîëè÷åñòâî òîâàðà \"#NAME#\" (##PRODUCT_ID#) â îòãðóçêå (##ORDER_DELIVERY_ID#) èçìåíåíî íà #QUANTITY#";
-$MESS["SOC_SHIPMENT_ITEM_QUANTITY_CHANGE"] = "Èçìåíåíèå êîëè÷åñòâà òîâàðà â îòãðóçêå";
+$MESS["SOC_SHIPMENT_MARKED"] = "ÐŸÑ€Ð¾Ð±Ð»ÐµÐ¼Ð° Ñ Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¾Ð¹";
+$MESS["SOC_SHIPMENT_MARKED_INFO"] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ Ð¿Ñ€Ð¾Ð±Ð»ÐµÐ¼Ñ‹: #REASON_MARKED#";
 
 
-$MESS["SOC_ORDER_TITLE"] = "Èçìåíåíèå çàêàçà";
-$MESS["SOC_BASKET_TITLE"] = "Èçìåíåíèå êîðçèíû";
+$MESS["SOC_SHIPMENT_ITEM_BASKET_ADDED_INFO"] = "Ð’ Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÑƒ Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½ Ñ‚Ð¾Ð²Ð°Ñ€ \"#NAME#\" (##PRODUCT_ID#) Ð² ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ðµ #QUANTITY#.";
+$MESS["SOC_SHIPMENT_ITEM_BASKET_ADDED"] = "Ð”Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ñ‚Ð¾Ð²Ð°Ñ€Ð° Ð² Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÑƒ";
+$MESS["SOC_SHIPMENT_ITEM_BASKET_REMOVED_INFO"] = "Ð˜Ð· Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸ ÑƒÐ´Ð°Ð»ÐµÐ½ Ñ‚Ð¾Ð²Ð°Ñ€ \"#NAME#\" (##PRODUCT_ID#).";
+$MESS["SOC_SHIPMENT_ITEM_BASKET_REMOVED"] = "Ð£Ð´Ð°Ð»ÐµÐ½Ð¸Ðµ Ñ‚Ð¾Ð²Ð°Ñ€Ð° Ð¸Ð· Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸";
 
-$MESS["SOC_BASKET_ITEM_UPDATE_TITLE"] = "Èçìåíåíèå ýëåìåíòà êîðçèíû";
-$MESS["SOC_PAYMENT_TITLE"] = "Èçìåíåíèå îïëàòû";
-$MESS["SOC_SHIPMENT_TITLE"] = "Èçìåíåíèå îòãðóçêè";
-$MESS["SOC_SHIPMENT_ITEM_TITLE"] = "Èçìåíåíèå ýëåìåíòà îòãðóçêè";
-$MESS["SOC_TAX_TITLE"] = "Èçìåíåíèå íàëîãîâ";
-$MESS["SOC_PROPERTY_TITLE"] = "Èçìåíåíèå ñâîéñòâà çàêàçà";
-$MESS["SOC_DISCOUNT_TITLE"] = "Èçìåíåíèå ñêèäêè";
-
-$MESS["SOC_BASKET_ITEM_ADD_TITLE"] = "Äîáàâëåíèå ýëåìåíòà êîðçèíû";
-$MESS["SOC_BASKET_ITEM_DELETE_BUNDLE_TITLE"] = "Óäàëåíèå êîìïëåêòà";
-$MESS["SOC_BASKET_ITEM_DELETED_TITLE"] = "Óäàëåíèå ýëåìåíòà êîðçèíû";
-$MESS["SOC_PAYMENT_ADD_TITLE"] = "Äîáàâëåíèå îïëàòû";
-$MESS["SOC_SHIPMENT_ADD_TITLE"] = "Äîáàâëåíèå îòãðóçêè";
-$MESS["SOC_SHIPMENT_ITEM_ADD_TITLE"] = "Äîáàâëåíèå ýëåìåíòà îòãðóçêè";
-$MESS["SOC_PROPERTY_ADD_TITLE"] = "Äîáàâëåíèå ñâîéñòâà çàêàçà";
-$MESS["SOC_PROPERTY_REMOVE_TITLE"] = "Óäàëåíèå ñâîéñòâà çàêàçà";
-$MESS["SOC_TAX_DELETED_TITLE"] = "Óäàëåíèå íàëîãà";
-$MESS["SOC_TAX_DUPLICATE_DELETED_TITLE"] = "Óäàëåíèå äóáëèêàòà íàëîãà";
-$MESS["SOC_DISCOUNT_SAVED_TITLE"] = "Ñîõðàíåíèå ñêèäîê";
+$MESS["SOC_SHIPMENT_ITEM_QUANTITY_CHANGE_INFO"] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ñ‚Ð¾Ð²Ð°Ñ€Ð° \"#NAME#\" (##PRODUCT_ID#) Ð² Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐµ (##ORDER_DELIVERY_ID#) Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¾ Ð½Ð° #QUANTITY#";
+$MESS["SOC_SHIPMENT_ITEM_QUANTITY_CHANGE"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð° Ñ‚Ð¾Ð²Ð°Ñ€Ð° Ð² Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐµ";
 
 
-$MESS["SOC_ORDER_RESPONSIBLE_CHANGE_TITLE"] = "Èçìåíåíèå îòâåòñòâåííîãî çàêàçà";
-$MESS["SOC_ORDER_RESPONSIBLE_CHANGE_INFO"] = "Îòâåòñòâåííûé çàêàçà èçìåíèëñÿ ñ \"#OLD_RESPONSIBLE_NAME#\"(##OLD_RESPONSIBLE_ID#) íà \"#RESPONSIBLE_NAME#\"(##RESPONSIBLE_ID#)";
+$MESS["SOC_ORDER_TITLE"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["SOC_BASKET_TITLE"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ ÐºÐ¾Ñ€Ð·Ð¸Ð½Ñ‹";
 
-$MESS["SOC_SHIPMENT_RESPONSIBLE_CHANGE_TITLE"] = "Èçìåíåíèå îòâåòñòâåííîãî îòãðóçêè";
-$MESS["SOC_SHIPMENT_RESPONSIBLE_CHANGE_INFO"] = "Îòâåòñòâåííûé îòãðóçêè èçìåíèëñÿ ñ \"#OLD_RESPONSIBLE_NAME#\"(##OLD_RESPONSIBLE_ID#) íà \"#RESPONSIBLE_NAME#\"(##RESPONSIBLE_ID#)";
+$MESS["SOC_BASKET_ITEM_UPDATE_TITLE"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð° ÐºÐ¾Ñ€Ð·Ð¸Ð½Ñ‹";
+$MESS["SOC_PAYMENT_TITLE"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹";
+$MESS["SOC_SHIPMENT_TITLE"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸";
+$MESS["SOC_SHIPMENT_ITEM_TITLE"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð° Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸";
+$MESS["SOC_TAX_TITLE"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ Ð½Ð°Ð»Ð¾Ð³Ð¾Ð²";
+$MESS["SOC_PROPERTY_TITLE"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ ÑÐ²Ð¾Ð¹ÑÑ‚Ð²Ð° Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["SOC_DISCOUNT_TITLE"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ ÑÐºÐ¸Ð´ÐºÐ¸";
 
-
-$MESS["SOC_ORDER_SAVED_TITLE"] = "Ñîõðàíåíèå çàêàçà";
-$MESS["SOC_BASKET_SAVED_TITLE"] = "Ñîõðàíåíèå êîðçèíû";
-
-$MESS["SOC_PAYMENT_SAVED_TITLE"] = "Ñîõðàíåíèå îïëàòû";
-$MESS["SOC_SHIPMENT_SAVED_TITLE"] = "Ñîõðàíåíèå îòãðóçêè";
-$MESS["SOC_TAX_SAVED_TITLE"] = "Ñîõðàíåíèå íàëîãîâ";
-$MESS["SOC_DISCOUNT_SAVED_TITLE"] = "Ñîõðàíåíèå ñêèäîê";
-$MESS["SOC_PROPERTY_SAVED_TITLE"] = "Ñîõðàíåíèå ñâîéñòâ çàêàçà";
-
-
-$MESS["SOC_ORDER_UPDATE_ERROR_TITLE"] = "Îøèáêà îáíîâëåíèÿ çàêàçà";
-$MESS["SOC_ORDER_UPDATE_ERROR_INFO"] = "Ïðè îáíîâëåíèè çàêàçà âîçíèêëà îøèáêà \"#ERROR#\"";
-
-$MESS["SOC_BASKET_ITEM_ADD_ERROR_TITLE"] = "Îøèáêà äîáàâëåíèÿ ïîçèöèè êîðçèíû";
-$MESS["SOC_BASKET_ITEM_ADD_ERROR_INFO"] = "Ïðè äîáàâëåíèè ïîçèöèè êîðçèíû âîçíèêëà îøèáêà \"#ERROR#\"";
-
-$MESS["SOC_BASKET_ITEM_UPDATE_ERROR_TITLE"] = "Îøèáêà îáíîâëåíèè ïîçèöèè êîðçèíû";
-$MESS["SOC_BASKET_ITEM_UPDATE_ERROR_INFO"] = "Ïðè îáíîâëåíèè ïîçèöèè êîðçèíû âîçíèêëà îøèáêà \"#ERROR#\"";
-
-$MESS["SOC_SHIPMENT_ADD_ERROR_TITLE"] = "Îøèáêà äîáàâëåíèè îòãðóçêè";
-$MESS["SOC_SHIPMENT_ADD_ERROR_INFO"] = "Ïðè äîáàâëåíèè îòãðóçêè âîçíèêëà îøèáêà \"#ERROR#\"";
-
-$MESS["SOC_SHIPMENT_UPDATE_ERROR_TITLE"] = "Îøèáêà îáíîâëåíèè îòãðóçêè";
-$MESS["SOC_SHIPMENT_UPDATE_ERROR_INFO"] = "Ïðè îáíîâëåíèè îòãðóçêè âîçíèêëà îøèáêà \"#ERROR#\"";
-
-$MESS["SOC_SHIPMENT_ITEM_ADD_ERROR_TITLE"] = "Îøèáêà äîáàâëåíèè ýëåìåíòà îòãðóçêè";
-$MESS["SOC_SHIPMENT_ITEM_ADD_ERROR_INFO"] = "Ïðè äîáàâëåíèè ýëåìåíòà îòãðóçêè âîçíèêëà îøèáêà \"#ERROR#\"";
-
-$MESS["SOC_SHIPMENT_ITEM_UPDATE_ERROR_TITLE"] = "Îøèáêà îáíîâëåíèè ýëåìåíòà îòãðóçêè";
-$MESS["SOC_SHIPMENT_ITEM_UPDATE_ERROR_INFO"] = "Ïðè îáíîâëåíèè ýëåìåíòà îòãðóçêè âîçíèêëà îøèáêà \"#ERROR#\"";
-
-$MESS["SOC_SHIPMENT_ITEM_STORE_ADD_ERROR_TITLE"] = "Îøèáêà äîáàâëåíèè ýëåìåíòà îòãðóçêè";
-$MESS["SOC_SHIPMENT_ITEM_STORE_ADD_ERROR_INFO"] = "Ïðè äîáàâëåíèè ýëåìåíòà îòãðóçêè âîçíèêëà îøèáêà \"#ERROR#\"";
-
-$MESS["SOC_SHIPMENT_ITEM_STORE_UPDATE_ERROR_TITLE"] = "Îøèáêà îáíîâëåíèè ýëåìåíòà îòãðóçêè";
-$MESS["SOC_SHIPMENT_ITEM_STORE_UPDATE_ERROR_INFO"] = "Ïðè îáíîâëåíèè ýëåìåíòà îòãðóçêè âîçíèêëà îøèáêà \"#ERROR#\"";
-
-$MESS["SOC_SHIPMENT_ITEM_BASKET_ITEM_EMPTY_ERROR_TITLE"] = "Îøèáêà îáíîâëåíèè ýëåìåíòà îòãðóçêè";
-$MESS["SOC_SHIPMENT_ITEM_BASKET_ITEM_EMPTY_ERROR_INFO"] = "Ïðè îáíîâëåíèè ýëåìåíòà îòãðóçêè âîçíèêëà îøèáêà \"#ERROR#\"";
+$MESS["SOC_BASKET_ITEM_ADD_TITLE"] = "Ð”Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð° ÐºÐ¾Ñ€Ð·Ð¸Ð½Ñ‹";
+$MESS["SOC_BASKET_ITEM_DELETE_BUNDLE_TITLE"] = "Ð£Ð´Ð°Ð»ÐµÐ½Ð¸Ðµ ÐºÐ¾Ð¼Ð¿Ð»ÐµÐºÑ‚Ð°";
+$MESS["SOC_BASKET_ITEM_DELETED_TITLE"] = "Ð£Ð´Ð°Ð»ÐµÐ½Ð¸Ðµ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð° ÐºÐ¾Ñ€Ð·Ð¸Ð½Ñ‹";
+$MESS["SOC_PAYMENT_ADD_TITLE"] = "Ð”Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹";
+$MESS["SOC_SHIPMENT_ADD_TITLE"] = "Ð”Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸";
+$MESS["SOC_SHIPMENT_ITEM_ADD_TITLE"] = "Ð”Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð° Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸";
+$MESS["SOC_PROPERTY_ADD_TITLE"] = "Ð”Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ ÑÐ²Ð¾Ð¹ÑÑ‚Ð²Ð° Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["SOC_PROPERTY_REMOVE_TITLE"] = "Ð£Ð´Ð°Ð»ÐµÐ½Ð¸Ðµ ÑÐ²Ð¾Ð¹ÑÑ‚Ð²Ð° Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["SOC_TAX_DELETED_TITLE"] = "Ð£Ð´Ð°Ð»ÐµÐ½Ð¸Ðµ Ð½Ð°Ð»Ð¾Ð³Ð°";
+$MESS["SOC_TAX_DUPLICATE_DELETED_TITLE"] = "Ð£Ð´Ð°Ð»ÐµÐ½Ð¸Ðµ Ð´ÑƒÐ±Ð»Ð¸ÐºÐ°Ñ‚Ð° Ð½Ð°Ð»Ð¾Ð³Ð°";
+$MESS["SOC_DISCOUNT_SAVED_TITLE"] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð¸Ðµ ÑÐºÐ¸Ð´Ð¾Ðº";
 
 
-$MESS["SOC_MARKER_SHIPMENT_INFO"] = "îòãðóçêè";
-$MESS["SOC_MARKER_ORDER_INFO"] = "çàêàçà";
-$MESS["SOC_MARKER_PAYMENT_INFO"] = "îïëàòû";
-$MESS["SOC_MARKER_SUCCESS"] = "Èñïðàâëåíèå îøèáêè";
-$MESS["SOC_MARKER_SUCCESS_INFO"] = "Îøèáêà \"#MESSAGE#\" ó #ENTITY_NAME# (##ENTITY_ID#) èñïðàâëåíà.";
+$MESS["SOC_ORDER_RESPONSIBLE_CHANGE_TITLE"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ Ð¾Ñ‚Ð²ÐµÑ‚ÑÑ‚Ð²ÐµÐ½Ð½Ð¾Ð³Ð¾ Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["SOC_ORDER_RESPONSIBLE_CHANGE_INFO"] = "ÐžÑ‚Ð²ÐµÑ‚ÑÑ‚Ð²ÐµÐ½Ð½Ñ‹Ð¹ Ð·Ð°ÐºÐ°Ð·Ð° Ð¸Ð·Ð¼ÐµÐ½Ð¸Ð»ÑÑ Ñ \"#OLD_RESPONSIBLE_NAME#\"(##OLD_RESPONSIBLE_ID#) Ð½Ð° \"#RESPONSIBLE_NAME#\"(##RESPONSIBLE_ID#)";
+
+$MESS["SOC_SHIPMENT_RESPONSIBLE_CHANGE_TITLE"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ Ð¾Ñ‚Ð²ÐµÑ‚ÑÑ‚Ð²ÐµÐ½Ð½Ð¾Ð³Ð¾ Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸";
+$MESS["SOC_SHIPMENT_RESPONSIBLE_CHANGE_INFO"] = "ÐžÑ‚Ð²ÐµÑ‚ÑÑ‚Ð²ÐµÐ½Ð½Ñ‹Ð¹ Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸ Ð¸Ð·Ð¼ÐµÐ½Ð¸Ð»ÑÑ Ñ \"#OLD_RESPONSIBLE_NAME#\"(##OLD_RESPONSIBLE_ID#) Ð½Ð° \"#RESPONSIBLE_NAME#\"(##RESPONSIBLE_ID#)";
+
+
+$MESS["SOC_ORDER_SAVED_TITLE"] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð¸Ðµ Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["SOC_BASKET_SAVED_TITLE"] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð¸Ðµ ÐºÐ¾Ñ€Ð·Ð¸Ð½Ñ‹";
+
+$MESS["SOC_PAYMENT_SAVED_TITLE"] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð¸Ðµ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹";
+$MESS["SOC_SHIPMENT_SAVED_TITLE"] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð¸Ðµ Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸";
+$MESS["SOC_TAX_SAVED_TITLE"] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð¸Ðµ Ð½Ð°Ð»Ð¾Ð³Ð¾Ð²";
+$MESS["SOC_DISCOUNT_SAVED_TITLE"] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð¸Ðµ ÑÐºÐ¸Ð´Ð¾Ðº";
+$MESS["SOC_PROPERTY_SAVED_TITLE"] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð¸Ðµ ÑÐ²Ð¾Ð¹ÑÑ‚Ð² Ð·Ð°ÐºÐ°Ð·Ð°";
+
+
+$MESS["SOC_ORDER_UPDATE_ERROR_TITLE"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ñ Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["SOC_ORDER_UPDATE_ERROR_INFO"] = "ÐŸÑ€Ð¸ Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ð¸ Ð·Ð°ÐºÐ°Ð·Ð° Ð²Ð¾Ð·Ð½Ð¸ÐºÐ»Ð° Ð¾ÑˆÐ¸Ð±ÐºÐ° \"#ERROR#\"";
+
+$MESS["SOC_BASKET_ITEM_ADD_ERROR_TITLE"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ñ Ð¿Ð¾Ð·Ð¸Ñ†Ð¸Ð¸ ÐºÐ¾Ñ€Ð·Ð¸Ð½Ñ‹";
+$MESS["SOC_BASKET_ITEM_ADD_ERROR_INFO"] = "ÐŸÑ€Ð¸ Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ð¸ Ð¿Ð¾Ð·Ð¸Ñ†Ð¸Ð¸ ÐºÐ¾Ñ€Ð·Ð¸Ð½Ñ‹ Ð²Ð¾Ð·Ð½Ð¸ÐºÐ»Ð° Ð¾ÑˆÐ¸Ð±ÐºÐ° \"#ERROR#\"";
+
+$MESS["SOC_BASKET_ITEM_UPDATE_ERROR_TITLE"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ð¸ Ð¿Ð¾Ð·Ð¸Ñ†Ð¸Ð¸ ÐºÐ¾Ñ€Ð·Ð¸Ð½Ñ‹";
+$MESS["SOC_BASKET_ITEM_UPDATE_ERROR_INFO"] = "ÐŸÑ€Ð¸ Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ð¸ Ð¿Ð¾Ð·Ð¸Ñ†Ð¸Ð¸ ÐºÐ¾Ñ€Ð·Ð¸Ð½Ñ‹ Ð²Ð¾Ð·Ð½Ð¸ÐºÐ»Ð° Ð¾ÑˆÐ¸Ð±ÐºÐ° \"#ERROR#\"";
+
+$MESS["SOC_SHIPMENT_ADD_ERROR_TITLE"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ð¸ Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸";
+$MESS["SOC_SHIPMENT_ADD_ERROR_INFO"] = "ÐŸÑ€Ð¸ Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ð¸ Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸ Ð²Ð¾Ð·Ð½Ð¸ÐºÐ»Ð° Ð¾ÑˆÐ¸Ð±ÐºÐ° \"#ERROR#\"";
+
+$MESS["SOC_SHIPMENT_UPDATE_ERROR_TITLE"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ð¸ Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸";
+$MESS["SOC_SHIPMENT_UPDATE_ERROR_INFO"] = "ÐŸÑ€Ð¸ Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ð¸ Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸ Ð²Ð¾Ð·Ð½Ð¸ÐºÐ»Ð° Ð¾ÑˆÐ¸Ð±ÐºÐ° \"#ERROR#\"";
+
+$MESS["SOC_SHIPMENT_ITEM_ADD_ERROR_TITLE"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ð¸ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð° Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸";
+$MESS["SOC_SHIPMENT_ITEM_ADD_ERROR_INFO"] = "ÐŸÑ€Ð¸ Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ð¸ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð° Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸ Ð²Ð¾Ð·Ð½Ð¸ÐºÐ»Ð° Ð¾ÑˆÐ¸Ð±ÐºÐ° \"#ERROR#\"";
+
+$MESS["SOC_SHIPMENT_ITEM_UPDATE_ERROR_TITLE"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ð¸ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð° Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸";
+$MESS["SOC_SHIPMENT_ITEM_UPDATE_ERROR_INFO"] = "ÐŸÑ€Ð¸ Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ð¸ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð° Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸ Ð²Ð¾Ð·Ð½Ð¸ÐºÐ»Ð° Ð¾ÑˆÐ¸Ð±ÐºÐ° \"#ERROR#\"";
+
+$MESS["SOC_SHIPMENT_ITEM_STORE_ADD_ERROR_TITLE"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ð¸ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð° Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸";
+$MESS["SOC_SHIPMENT_ITEM_STORE_ADD_ERROR_INFO"] = "ÐŸÑ€Ð¸ Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ð¸ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð° Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸ Ð²Ð¾Ð·Ð½Ð¸ÐºÐ»Ð° Ð¾ÑˆÐ¸Ð±ÐºÐ° \"#ERROR#\"";
+
+$MESS["SOC_SHIPMENT_ITEM_STORE_UPDATE_ERROR_TITLE"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ð¸ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð° Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸";
+$MESS["SOC_SHIPMENT_ITEM_STORE_UPDATE_ERROR_INFO"] = "ÐŸÑ€Ð¸ Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ð¸ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð° Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸ Ð²Ð¾Ð·Ð½Ð¸ÐºÐ»Ð° Ð¾ÑˆÐ¸Ð±ÐºÐ° \"#ERROR#\"";
+
+$MESS["SOC_SHIPMENT_ITEM_BASKET_ITEM_EMPTY_ERROR_TITLE"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ð¸ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð° Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸";
+$MESS["SOC_SHIPMENT_ITEM_BASKET_ITEM_EMPTY_ERROR_INFO"] = "ÐŸÑ€Ð¸ Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ð¸ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð° Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸ Ð²Ð¾Ð·Ð½Ð¸ÐºÐ»Ð° Ð¾ÑˆÐ¸Ð±ÐºÐ° \"#ERROR#\"";
+
+
+$MESS["SOC_MARKER_SHIPMENT_INFO"] = "Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸";
+$MESS["SOC_MARKER_ORDER_INFO"] = "Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["SOC_MARKER_PAYMENT_INFO"] = "Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹";
+$MESS["SOC_MARKER_SUCCESS"] = "Ð˜ÑÐ¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ð¾ÑˆÐ¸Ð±ÐºÐ¸";
+$MESS["SOC_MARKER_SUCCESS_INFO"] = "ÐžÑˆÐ¸Ð±ÐºÐ° \"#MESSAGE#\" Ñƒ #ENTITY_NAME# (##ENTITY_ID#) Ð¸ÑÐ¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð°.";
 
 ?>

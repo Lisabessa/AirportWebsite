@@ -1,10 +1,10 @@
 <?php
-$MESS['SALE_PAY_SYSTEM_ACCESS_DENIED'] = 'Äîñòóï çàïðåùåí';
-$MESS['SALE_PAY_SYSTEM_ACCOUNT_NOT_FOUND'] = 'Íåò äîñòóïíûõ àêêàóíòîâ äëÿ íàñòðîéêè';
-$MESS['SALE_PAY_SYSTEM_ERROR_NO_HANDLER_EXIST'] = 'Íåâåðíûé îáðàáîò÷èê êàññû';
-$MESS['SALE_PAY_SYSTEM_CASHBOX_FISCALIZATION'] = 'Ôèñêàëèçàöèÿ';
-$MESS['SALE_PAY_SYSTEM_CASHBOX_SETTINGS'] = 'Ïàðàìåòðû êàññû';
-$MESS['SALE_PAY_SYSTEM_CASHBOX_OFD_SETTINGS'] = 'Íàñòðîéêè ÎÔÄ';
-$MESS['SALE_PAY_SYSTEM_CASHBOX_OFD_TITLE'] = 'ÎÔÄ';
-$MESS['SALE_PAY_SYSTEM_CASHBOX_OFD_OPTION_OTHER'] = 'Äðóãîé';
-$MESS['SALE_PAY_SYSTEM_EMAIL_HINT'] = 'Â ñëó÷àå âîçíèêíîâåíèÿ îøèáîê ïðè ïå÷àòè ÷åêîâ íà äàííûé email áóäóò îòïðàâëÿòüñÿ óâåäîìëåíèÿ';
+$MESS['SALE_PAY_SYSTEM_ACCESS_DENIED'] = 'Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ð·Ð°Ð¿Ñ€ÐµÑ‰ÐµÐ½';
+$MESS['SALE_PAY_SYSTEM_ACCOUNT_NOT_FOUND'] = 'ÐÐµÑ‚ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ñ‹Ñ… Ð°ÐºÐºÐ°ÑƒÐ½Ñ‚Ð¾Ð² Ð´Ð»Ñ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸';
+$MESS['SALE_PAY_SYSTEM_ERROR_NO_HANDLER_EXIST'] = 'ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚Ñ‡Ð¸Ðº ÐºÐ°ÑÑÑ‹';
+$MESS['SALE_PAY_SYSTEM_CASHBOX_FISCALIZATION'] = 'Ð¤Ð¸ÑÐºÐ°Ð»Ð¸Ð·Ð°Ñ†Ð¸Ñ';
+$MESS['SALE_PAY_SYSTEM_CASHBOX_SETTINGS'] = 'ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ ÐºÐ°ÑÑÑ‹';
+$MESS['SALE_PAY_SYSTEM_CASHBOX_OFD_SETTINGS'] = 'ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ ÐžÐ¤Ð”';
+$MESS['SALE_PAY_SYSTEM_CASHBOX_OFD_TITLE'] = 'ÐžÐ¤Ð”';
+$MESS['SALE_PAY_SYSTEM_CASHBOX_OFD_OPTION_OTHER'] = 'Ð”Ñ€ÑƒÐ³Ð¾Ð¹';
+$MESS['SALE_PAY_SYSTEM_EMAIL_HINT'] = 'Ð’ ÑÐ»ÑƒÑ‡Ð°Ðµ Ð²Ð¾Ð·Ð½Ð¸ÐºÐ½Ð¾Ð²ÐµÐ½Ð¸Ñ Ð¾ÑˆÐ¸Ð±Ð¾Ðº Ð¿Ñ€Ð¸ Ð¿ÐµÑ‡Ð°Ñ‚Ð¸ Ñ‡ÐµÐºÐ¾Ð² Ð½Ð° Ð´Ð°Ð½Ð½Ñ‹Ð¹ email Ð±ÑƒÐ´ÑƒÑ‚ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð»ÑÑ‚ÑŒÑÑ ÑƒÐ²ÐµÐ´Ð¾Ð¼Ð»ÐµÐ½Ð¸Ñ';

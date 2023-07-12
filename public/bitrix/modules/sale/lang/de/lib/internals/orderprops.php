@@ -1,6 +1,6 @@
 <?
-$MESS["SALE_ORDER_PROPS_DEFAULT_ERROR"] = "Länge des Wertes #LENGTH# ist höher als #MAXLENGTH#";
-$MESS["SALE_ORDER_PROPS_SETTINGS_ERROR"] = "Länge der Einstellungen des Datentyps #LENGTH# ist höher als #MAXLENGTH#";
+$MESS["SALE_ORDER_PROPS_DEFAULT_ERROR"] = "LÃ¤nge des Wertes #LENGTH# ist hÃ¶her als #MAXLENGTH#";
+$MESS["SALE_ORDER_PROPS_SETTINGS_ERROR"] = "LÃ¤nge der Einstellungen des Datentyps #LENGTH# ist hÃ¶her als #MAXLENGTH#";
 $MESS["ORDER_PROPS_ENTITY_NAME_FIELD"] = "Name";
 $MESS["ORDER_PROPS_ENTITY_DEFAULT_VALUE_FIELD"] = "Standardwert";
 $MESS["ORDER_PROPS_ENTITY_SORT_FIELD"] = "Sortierung";

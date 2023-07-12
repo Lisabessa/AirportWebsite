@@ -1,4 +1,4 @@
 <?php
-$MESS["SHIPMENT_ITEM_STORE_BARCODE_MULTI_EMPTY"] = "Ó òîâàðà \"#PRODUCT_NAME#\" äëÿ ñêëàäà ##STORE_ID# íå óêàçàí øòðèõêîä.";
+$MESS["SHIPMENT_ITEM_STORE_BARCODE_MULTI_EMPTY"] = "Ð£ Ñ‚Ð¾Ð²Ð°Ñ€Ð° \"#PRODUCT_NAME#\" Ð´Ð»Ñ ÑÐºÐ»Ð°Ð´Ð° ##STORE_ID# Ð½Ðµ ÑƒÐºÐ°Ð·Ð°Ð½ ÑˆÑ‚Ñ€Ð¸Ñ…ÐºÐ¾Ð´.";
 
-$MESS["SALE_EVENT_ON_BEFORE_SALESHIPMENTITEMSTORE_SET_FIELD_ERROR"] = "Îøèáêà ñîáûòèÿ óñòàíîâêè çíà÷åíèÿ ïîëþ øòðèõêîäà";
+$MESS["SALE_EVENT_ON_BEFORE_SALESHIPMENTITEMSTORE_SET_FIELD_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ¸ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ñ Ð¿Ð¾Ð»ÑŽ ÑˆÑ‚Ñ€Ð¸Ñ…ÐºÐ¾Ð´Ð°";

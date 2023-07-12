@@ -1,14 +1,14 @@
 <?php
-$MESS['SALE_HPS_YANDEX_INVOICE'] = 'ßíäåêñ.Êàññà Á2Á';
-$MESS["SALE_HPS_YANDEX_INVOICE_SHOP_ID"] = "Èäåíòèôèêàòîð ìàãàçèíà â ÖÏÏ (ShopID)";
-$MESS["SALE_HPS_YANDEX_INVOICE_SHOP_ID_DESC"] = "Êîä ìàãàçèíà, êîòîðûé ïîëó÷åí îò ßíäåêñ";
-$MESS["SALE_HPS_YANDEX_INVOICE_PAYMENT_ID"] = "Íîìåð îïëàòû";
-$MESS["SALE_HPS_YANDEX_INVOICE_SHOP_ARTICLE_ID"] = "Íîìåð òîâàðà";
-$MESS["SALE_HPS_YANDEX_INVOICE_SHOP_ARTICLE_ID_DESC"] = "Íîìåð òîâàðà, êîòîðûé ïîëó÷åí îò ßíäåêñ";
-$MESS["SALE_HPS_YANDEX_INVOICE_SHOULD_PAY"] = "Ñóììà ê îïëàòå";
-$MESS["SALE_HPS_YANDEX_INVOICE_PAYMENT_DATE"] = "Äàòà ñîçäàíèÿ îïëàòû";
-$MESS["SALE_HPS_YANDEX_INVOICE_IS_TEST"] = "Òåñòîâûé ðåæèì";
-$MESS["SALE_HPS_YANDEX_INVOICE_CHANGE_STATUS_PAY"] = "Àâòîìàòè÷åñêè îïëà÷èâàòü çàêàç ïðè ïîëó÷åíèè óñïåøíîãî ñòàòóñà îïëàòû";
-$MESS["SALE_HPS_YANDEX_INVOICE_PAYMENT_TYPE"] = "Òèï ïëàò¸æíîé ñèñòåìû";
-$MESS["SALE_HPS_YANDEX_INVOICE_BUYER_ID"] = "Êîä ïîêóïàòåëÿ";
-$MESS["SALE_HPS_YANDEX_INVOICE_BUYER_PHONE"] = "Òåëåôîí ïîêóïàòåëÿ";
+$MESS['SALE_HPS_YANDEX_INVOICE'] = 'Ð¯Ð½Ð´ÐµÐºÑ.ÐšÐ°ÑÑÐ° Ð‘2Ð‘';
+$MESS["SALE_HPS_YANDEX_INVOICE_SHOP_ID"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ð° Ð² Ð¦ÐŸÐŸ (ShopID)";
+$MESS["SALE_HPS_YANDEX_INVOICE_SHOP_ID_DESC"] = "ÐšÐ¾Ð´ Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ð°, ÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ð¹ Ð¿Ð¾Ð»ÑƒÑ‡ÐµÐ½ Ð¾Ñ‚ Ð¯Ð½Ð´ÐµÐºÑ";
+$MESS["SALE_HPS_YANDEX_INVOICE_PAYMENT_ID"] = "ÐÐ¾Ð¼ÐµÑ€ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹";
+$MESS["SALE_HPS_YANDEX_INVOICE_SHOP_ARTICLE_ID"] = "ÐÐ¾Ð¼ÐµÑ€ Ñ‚Ð¾Ð²Ð°Ñ€Ð°";
+$MESS["SALE_HPS_YANDEX_INVOICE_SHOP_ARTICLE_ID_DESC"] = "ÐÐ¾Ð¼ÐµÑ€ Ñ‚Ð¾Ð²Ð°Ñ€Ð°, ÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ð¹ Ð¿Ð¾Ð»ÑƒÑ‡ÐµÐ½ Ð¾Ñ‚ Ð¯Ð½Ð´ÐµÐºÑ";
+$MESS["SALE_HPS_YANDEX_INVOICE_SHOULD_PAY"] = "Ð¡ÑƒÐ¼Ð¼Ð° Ðº Ð¾Ð¿Ð»Ð°Ñ‚Ðµ";
+$MESS["SALE_HPS_YANDEX_INVOICE_PAYMENT_DATE"] = "Ð”Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹";
+$MESS["SALE_HPS_YANDEX_INVOICE_IS_TEST"] = "Ð¢ÐµÑÑ‚Ð¾Ð²Ñ‹Ð¹ Ñ€ÐµÐ¶Ð¸Ð¼";
+$MESS["SALE_HPS_YANDEX_INVOICE_CHANGE_STATUS_PAY"] = "ÐÐ²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸ Ð¾Ð¿Ð»Ð°Ñ‡Ð¸Ð²Ð°Ñ‚ÑŒ Ð·Ð°ÐºÐ°Ð· Ð¿Ñ€Ð¸ Ð¿Ð¾Ð»ÑƒÑ‡ÐµÐ½Ð¸Ð¸ ÑƒÑÐ¿ÐµÑˆÐ½Ð¾Ð³Ð¾ ÑÑ‚Ð°Ñ‚ÑƒÑÐ° Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹";
+$MESS["SALE_HPS_YANDEX_INVOICE_PAYMENT_TYPE"] = "Ð¢Ð¸Ð¿ Ð¿Ð»Ð°Ñ‚Ñ‘Ð¶Ð½Ð¾Ð¹ ÑÐ¸ÑÑ‚ÐµÐ¼Ñ‹";
+$MESS["SALE_HPS_YANDEX_INVOICE_BUYER_ID"] = "ÐšÐ¾Ð´ Ð¿Ð¾ÐºÑƒÐ¿Ð°Ñ‚ÐµÐ»Ñ";
+$MESS["SALE_HPS_YANDEX_INVOICE_BUYER_PHONE"] = "Ð¢ÐµÐ»ÐµÑ„Ð¾Ð½ Ð¿Ð¾ÐºÑƒÐ¿Ð°Ñ‚ÐµÐ»Ñ";

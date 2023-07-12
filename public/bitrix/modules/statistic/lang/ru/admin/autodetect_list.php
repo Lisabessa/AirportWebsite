@@ -1,19 +1,19 @@
 <?
-$MESS["STAT_SESSIONS"] = "Ñåññèé";
-$MESS["STAT_RECORDS_LIST"] = "Àâòîäåòåêò íåèçâåñòíûõ UserAgent";
+$MESS["STAT_SESSIONS"] = "Ð¡ÐµÑÑÐ¸Ð¹";
+$MESS["STAT_RECORDS_LIST"] = "ÐÐ²Ñ‚Ð¾Ð´ÐµÑ‚ÐµÐºÑ‚ Ð½ÐµÐ¸Ð·Ð²ÐµÑÑ‚Ð½Ñ‹Ñ… UserAgent";
 $MESS["STAT_F_USER_AGENT"] = "UserAgent:";
-$MESS["STAT_F_COUNTER"] = "Ñåññèé:";
-$MESS["STAT_BROWSER"] = "Áðàóçåð";
-$MESS["STAT_SEARCHER"] = "Ïîèñêîâèê";
-$MESS["STAT_MASK"] = "Äîáàâëÿåìàÿ ìàñêà [%_]";
-$MESS["STAT_ADDED_SEARCHERS"] = "Äîáàâëåíî ìàñîê äëÿ ïîèñêîâèêîâ:";
-$MESS["STAT_ADDED_BROWSERS"] = "Äîáàâëåíî ìàñîê äëÿ áðàóçåðîâ:";
+$MESS["STAT_F_COUNTER"] = "Ð¡ÐµÑÑÐ¸Ð¹:";
+$MESS["STAT_BROWSER"] = "Ð‘Ñ€Ð°ÑƒÐ·ÐµÑ€";
+$MESS["STAT_SEARCHER"] = "ÐŸÐ¾Ð¸ÑÐºÐ¾Ð²Ð¸Ðº";
+$MESS["STAT_MASK"] = "Ð”Ð¾Ð±Ð°Ð²Ð»ÑÐµÐ¼Ð°Ñ Ð¼Ð°ÑÐºÐ° [%_]";
+$MESS["STAT_ADDED_SEARCHERS"] = "Ð”Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¾ Ð¼Ð°ÑÐ¾Ðº Ð´Ð»Ñ Ð¿Ð¾Ð¸ÑÐºÐ¾Ð²Ð¸ÐºÐ¾Ð²:";
+$MESS["STAT_ADDED_BROWSERS"] = "Ð”Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¾ Ð¼Ð°ÑÐ¾Ðº Ð´Ð»Ñ Ð±Ñ€Ð°ÑƒÐ·ÐµÑ€Ð¾Ð²:";
 $MESS["STAT_USER_AGENT"] = "UserAgent";
-$MESS["STAT_F_LAST_DAY"] = "Èñêàòü çà òåêóùèé äåíü:";
-$MESS["STAT_FL_DAY"] = "Èñêàòü çà äåíü";
-$MESS["STAT_FL_SESS"] = "×èñëî ñåññèé";
-$MESS["STAT_SESS_LIST"] = "Ïåðåéòè ê ñïèñêó ñåññèé";
-$MESS["STAT_USER_AGENT_PAGES"] = "UserAgent'û";
-$MESS["STAT_ADD_AS_SEARCHER"] = "Äîáàâèòü êàê ïîèñêîâèê";
-$MESS["STAT_ADD_AS_BROWSER"] = "Äîáàâèòü êàê áðàóçåð";
+$MESS["STAT_F_LAST_DAY"] = "Ð˜ÑÐºÐ°Ñ‚ÑŒ Ð·Ð° Ñ‚ÐµÐºÑƒÑ‰Ð¸Ð¹ Ð´ÐµÐ½ÑŒ:";
+$MESS["STAT_FL_DAY"] = "Ð˜ÑÐºÐ°Ñ‚ÑŒ Ð·Ð° Ð´ÐµÐ½ÑŒ";
+$MESS["STAT_FL_SESS"] = "Ð§Ð¸ÑÐ»Ð¾ ÑÐµÑÑÐ¸Ð¹";
+$MESS["STAT_SESS_LIST"] = "ÐŸÐµÑ€ÐµÐ¹Ñ‚Ð¸ Ðº ÑÐ¿Ð¸ÑÐºÑƒ ÑÐµÑÑÐ¸Ð¹";
+$MESS["STAT_USER_AGENT_PAGES"] = "UserAgent'Ñ‹";
+$MESS["STAT_ADD_AS_SEARCHER"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ ÐºÐ°Ðº Ð¿Ð¾Ð¸ÑÐºÐ¾Ð²Ð¸Ðº";
+$MESS["STAT_ADD_AS_BROWSER"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ ÐºÐ°Ðº Ð±Ñ€Ð°ÑƒÐ·ÐµÑ€";
 ?>

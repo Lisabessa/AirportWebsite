@@ -1,4 +1,4 @@
 <?
-$MESS["SALE_DA_SORT"] = "Ñîðòóâàííÿ";
-$MESS["SALE_DA_DESCR"] = "Îïèñ";
+$MESS["SALE_DA_SORT"] = "Ð¡Ð¾Ñ€Ñ‚ÑƒÐ²Ð°Ð½Ð½Ñ";
+$MESS["SALE_DA_DESCR"] = "ÐžÐ¿Ð¸Ñ";
 ?>

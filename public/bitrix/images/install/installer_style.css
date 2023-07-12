@@ -365,11 +365,11 @@ a:hover {
 .instal-btn:active,
 .instal-btn-inp:active {
 	background:url("ni/instal-sprite.png") no-repeat 10px -114px #b7c4c9;
-	background:url("ni/instal-sprite.png") no-repeat 10px -114px, -webkit-linear-gradient(top, #acbbc0, #c2cfd2);
-	background:url("ni/instal-sprite.png") no-repeat 10px -114px, -moz-linear-gradient(top, #acbbc0, #c2cfd2);
-	background:url("ni/instal-sprite.png") no-repeat 10px -114px, -ms-linear-gradient(top, #acbbc0, #c2cfd2);
-	background:url("ni/instal-sprite.png") no-repeat 10px -114px, -o-linear-gradient(top, #acbbc0, #c2cfd2);
-	background:url("ni/instal-sprite.png") no-repeat 10px -114px, linear-gradient(to bottom, #acbbc0, #c2cfd2);
+	background:url("ni/instal-sprite.png") no-repeat 10px -114px, -webkit-linear-gradient(top, #acbbc0, #c2cfd2) 0 0;
+	background:url("ni/instal-sprite.png") no-repeat 10px -114px, -moz-linear-gradient(top, #acbbc0, #c2cfd2) 0 0;
+	background:url("ni/instal-sprite.png") no-repeat 10px -114px, -ms-linear-gradient(top, #acbbc0, #c2cfd2) 0 0;
+	background:url("ni/instal-sprite.png") no-repeat 10px -114px, -o-linear-gradient(top, #acbbc0, #c2cfd2) 0 0;
+	background:url("ni/instal-sprite.png") no-repeat 10px -114px, linear-gradient(to bottom, #acbbc0, #c2cfd2) 0 0;
 	border: 1px solid;
 	border-color: #767e8a #88919b #b0bcc1;
 	border-radius: 3px;
@@ -391,20 +391,20 @@ a:hover {
 
 .wizard-next-button:hover {
 	background:url("ni/instal-sprite.png") no-repeat right -286px #9cc60f;
-	background:url("ni/instal-sprite.png") no-repeat right -286px, -webkit-linear-gradient(top, #abce11, #88ba0d);
-	background:url("ni/instal-sprite.png") no-repeat right -286px, -moz-linear-gradient(top, #abce11, #88ba0d);
-	background:url("ni/instal-sprite.png") no-repeat right -286px, -ms-linear-gradient(top, #abce11, #88ba0d);
-	background:url("ni/instal-sprite.png") no-repeat right -286px, -o-linear-gradient(top, #abce11, #88ba0d);
-	background:url("ni/instal-sprite.png") no-repeat right -286px, linear-gradient(to bottom, #abce11, #88ba0d);
+	background:url("ni/instal-sprite.png") no-repeat right -286px, -webkit-linear-gradient(top, #abce11, #88ba0d) 0 0;
+	background:url("ni/instal-sprite.png") no-repeat right -286px, -moz-linear-gradient(top, #abce11, #88ba0d) 0 0;
+	background:url("ni/instal-sprite.png") no-repeat right -286px, -ms-linear-gradient(top, #abce11, #88ba0d) 0 0;
+	background:url("ni/instal-sprite.png") no-repeat right -286px, -o-linear-gradient(top, #abce11, #88ba0d) 0 0;
+	background:url("ni/instal-sprite.png") no-repeat right -286px, linear-gradient(to bottom, #abce11, #88ba0d) 0 0;
 }
 
 .wizard-next-button:active {
 	background:url("ni/instal-sprite.png") no-repeat right -286px #6e910c;
-	background:url("ni/instal-sprite.png") no-repeat right -286px, -webkit-linear-gradient(top, #698f00, #698f00);
-	background:url("ni/instal-sprite.png") no-repeat right -286px, -moz-linear-gradient(top, #698f00, #698f00);
-	background:url("ni/instal-sprite.png") no-repeat right -286px, -ms-linear-gradient(top, #698f00, #698f00);
-	background:url("ni/instal-sprite.png") no-repeat right -286px, -o-linear-gradient(top, #698f00, #698f00);
-	background:url("ni/instal-sprite.png") no-repeat right -286px, linear-gradient(to bottom, #698f00, #698f00);
+	background:url("ni/instal-sprite.png") no-repeat right -286px, -webkit-linear-gradient(top, #698f00, #698f00) 0 0;
+	background:url("ni/instal-sprite.png") no-repeat right -286px, -moz-linear-gradient(top, #698f00, #698f00) 0 0;
+	background:url("ni/instal-sprite.png") no-repeat right -286px, -ms-linear-gradient(top, #698f00, #698f00) 0 0;
+	background:url("ni/instal-sprite.png") no-repeat right -286px, -o-linear-gradient(top, #698f00, #698f00) 0 0;
+	background:url("ni/instal-sprite.png") no-repeat right -286px, linear-gradient(to bottom, #698f00, #698f00) 0 0;
 	border-color: #4d650c #628503 #698f00;
 	-webkit-box-shadow: inset 0 1px 1px #547009;
 	box-shadow: inset 0 1px 0 #547009, inset 0 2px 0 #628503;
@@ -1001,7 +1001,7 @@ textarea.wizard-field {
 .inst-note-block-text {
 	text-shadow: 0 1px rgba(255,255,255,.8);
 	overflow: hidden;
-	/*	padding-left: 9px;*/
+/*	padding-left: 9px;*/
 }
 
 .inst-note-block-icon {

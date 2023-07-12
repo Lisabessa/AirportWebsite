@@ -1,17 +1,17 @@
 <?
-$MESS["SALE_DATE"] = "Äàòà ";
-$MESS["SALE_SUMM"] = "Âàðò³ñòü";
-$MESS["SALE_S_DATE"] = "Äàòà çàìîâëåííÿ";
-$MESS["SALE_S_BY"] = "Ãðóïóâàòè çà";
-$MESS["SALE_S_DAY"] = "äíÿìè";
-$MESS["SALE_S_WEEK"] = "òèæíÿìè";
-$MESS["SALE_S_MONTH"] = "ì³ñÿöÿìè";
-$MESS["SALE_S_YEAR"] = "ðîêàìè";
-$MESS["SALE_SECTION_TITLE"] = "Ñòàòèñòèêà çà çàìîâëåííÿìè";
-$MESS["SALE_SHOW"] = "Ïîêàçóâàòè";
-$MESS["SALE_S_SITE"] = "Ñàéò";
-$MESS["SALE_COUNT"] = "Çàãàëüíà ê³ëüê³ñòü";
-$MESS["SALE_PAYED"] = "Âàðò³ñòü ñïëà÷åíèõ";
-$MESS["SALE_ALLOW_DELIVERY"] = "Âàðò³ñòü ç äîçâîëåíîþ äîñòàâêîþ";
-$MESS["SALE_CANCELED"] = "Âàðò³ñòü ñêàñîâàíèõ";
+$MESS["SALE_DATE"] = "Ð”Ð°Ñ‚Ð° ";
+$MESS["SALE_SUMM"] = "Ð’Ð°Ñ€Ñ‚Ñ–ÑÑ‚ÑŒ";
+$MESS["SALE_S_DATE"] = "Ð”Ð°Ñ‚Ð° Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ";
+$MESS["SALE_S_BY"] = "Ð“Ñ€ÑƒÐ¿ÑƒÐ²Ð°Ñ‚Ð¸ Ð·Ð°";
+$MESS["SALE_S_DAY"] = "Ð´Ð½ÑÐ¼Ð¸";
+$MESS["SALE_S_WEEK"] = "Ñ‚Ð¸Ð¶Ð½ÑÐ¼Ð¸";
+$MESS["SALE_S_MONTH"] = "Ð¼Ñ–ÑÑÑ†ÑÐ¼Ð¸";
+$MESS["SALE_S_YEAR"] = "Ñ€Ð¾ÐºÐ°Ð¼Ð¸";
+$MESS["SALE_SECTION_TITLE"] = "Ð¡Ñ‚Ð°Ñ‚Ð¸ÑÑ‚Ð¸ÐºÐ° Ð·Ð° Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½ÑÐ¼Ð¸";
+$MESS["SALE_SHOW"] = "ÐŸÐ¾ÐºÐ°Ð·ÑƒÐ²Ð°Ñ‚Ð¸";
+$MESS["SALE_S_SITE"] = "Ð¡Ð°Ð¹Ñ‚";
+$MESS["SALE_COUNT"] = "Ð—Ð°Ð³Ð°Ð»ÑŒÐ½Ð° ÐºÑ–Ð»ÑŒÐºÑ–ÑÑ‚ÑŒ";
+$MESS["SALE_PAYED"] = "Ð’Ð°Ñ€Ñ‚Ñ–ÑÑ‚ÑŒ ÑÐ¿Ð»Ð°Ñ‡ÐµÐ½Ð¸Ñ…";
+$MESS["SALE_ALLOW_DELIVERY"] = "Ð’Ð°Ñ€Ñ‚Ñ–ÑÑ‚ÑŒ Ð· Ð´Ð¾Ð·Ð²Ð¾Ð»ÐµÐ½Ð¾ÑŽ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¾ÑŽ";
+$MESS["SALE_CANCELED"] = "Ð’Ð°Ñ€Ñ‚Ñ–ÑÑ‚ÑŒ ÑÐºÐ°ÑÐ¾Ð²Ð°Ð½Ð¸Ñ…";
 ?>

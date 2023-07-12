@@ -1,9 +1,9 @@
 <?
-$MESS["BX_SALE_DISCOUNT_PRESET_TITLE"] = "Майстер правил кошика";
-$MESS["BX_SALE_DISCOUNT_PRESET_ANNOUNCE"] = "Опис";
-$MESS["BX_SALE_DISCOUNT_PRESET_CREATE"] = "Створити правило";
-$MESS["BX_SALE_DISCOUNT_PRESET_TYPE_EMPTY"] = "Активних пресетів цього типу не знайдено";
-$MESS["BX_SALE_DISCOUNT_PRESETS_EMPTY"] = "Пресети відсутні. Для створення базових пресетів перейдіть за <a href=\"#LINK#\">посиланням</a>";
-$MESS["BX_SALE_DISCOUNT_PRESET_CREATE_ERROR"] = "Помилки створення пресетів";
-$MESS["BX_SALE_DISCOUNT_PRESET_CREATE_DEFAULT_ERROR"] = "Помилки при створенні базових пресетів";
+$MESS["BX_SALE_DISCOUNT_PRESET_TITLE"] = "РњР°Р№СЃС‚РµСЂ РїСЂР°РІРёР» РєРѕС€РёРєР°";
+$MESS["BX_SALE_DISCOUNT_PRESET_ANNOUNCE"] = "РћРїРёСЃ";
+$MESS["BX_SALE_DISCOUNT_PRESET_CREATE"] = "РЎС‚РІРѕСЂРёС‚Рё РїСЂР°РІРёР»Рѕ";
+$MESS["BX_SALE_DISCOUNT_PRESET_TYPE_EMPTY"] = "РђРєС‚РёРІРЅРёС… РїСЂРµСЃРµС‚С–РІ С†СЊРѕРіРѕ С‚РёРїСѓ РЅРµ Р·РЅР°Р№РґРµРЅРѕ";
+$MESS["BX_SALE_DISCOUNT_PRESETS_EMPTY"] = "РџСЂРµСЃРµС‚Рё РІС–РґСЃСѓС‚РЅС–. Р”Р»СЏ СЃС‚РІРѕСЂРµРЅРЅСЏ Р±Р°Р·РѕРІРёС… РїСЂРµСЃРµС‚С–РІ РїРµСЂРµР№РґС–С‚СЊ Р·Р° <a href=\"#LINK#\">РїРѕСЃРёР»Р°РЅРЅСЏРј</a>";
+$MESS["BX_SALE_DISCOUNT_PRESET_CREATE_ERROR"] = "РџРѕРјРёР»РєРё СЃС‚РІРѕСЂРµРЅРЅСЏ РїСЂРµСЃРµС‚С–РІ";
+$MESS["BX_SALE_DISCOUNT_PRESET_CREATE_DEFAULT_ERROR"] = "РџРѕРјРёР»РєРё РїСЂРё СЃС‚РІРѕСЂРµРЅРЅС– Р±Р°Р·РѕРІРёС… РїСЂРµСЃРµС‚С–РІ";
 ?>

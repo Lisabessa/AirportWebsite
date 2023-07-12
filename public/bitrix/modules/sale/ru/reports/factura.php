@@ -1,24 +1,24 @@
 <?if (!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED !== true) die();?><?
 /*
-Данный документ учитывает только налог с мнемоническим кодом "NDS". Остальные налоги при формировании документа не отображаются
+Р”Р°РЅРЅС‹Р№ РґРѕРєСѓРјРµРЅС‚ СѓС‡РёС‚С‹РІР°РµС‚ С‚РѕР»СЊРєРѕ РЅР°Р»РѕРі СЃ РјРЅРµРјРѕРЅРёС‡РµСЃРєРёРј РєРѕРґРѕРј "NDS". РћСЃС‚Р°Р»СЊРЅС‹Рµ РЅР°Р»РѕРіРё РїСЂРё С„РѕСЂРјРёСЂРѕРІР°РЅРёРё РґРѕРєСѓРјРµРЅС‚Р° РЅРµ РѕС‚РѕР±СЂР°Р¶Р°СЋС‚СЃСЏ
 
-Скопируйте этот файл в папку /bitrix/admin/reports и измените по своему усмотрению
+РЎРєРѕРїРёСЂСѓР№С‚Рµ СЌС‚РѕС‚ С„Р°Р№Р» РІ РїР°РїРєСѓ /bitrix/admin/reports Рё РёР·РјРµРЅРёС‚Рµ РїРѕ СЃРІРѕРµРјСѓ СѓСЃРјРѕС‚СЂРµРЅРёСЋ
 
-$ORDER_ID - ID текущего заказа
+$ORDER_ID - ID С‚РµРєСѓС‰РµРіРѕ Р·Р°РєР°Р·Р°
 
-$arOrder - массив атрибутов заказа (ID, доставка, стоимость, дата создания и т.д.)
-Следующий PHP код:
+$arOrder - РјР°СЃСЃРёРІ Р°С‚СЂРёР±СѓС‚РѕРІ Р·Р°РєР°Р·Р° (ID, РґРѕСЃС‚Р°РІРєР°, СЃС‚РѕРёРјРѕСЃС‚СЊ, РґР°С‚Р° СЃРѕР·РґР°РЅРёСЏ Рё С‚.Рґ.)
+РЎР»РµРґСѓСЋС‰РёР№ PHP РєРѕРґ:
 print_r($arOrder);
-выведет на экран содержимое массива $arOrder.
+РІС‹РІРµРґРµС‚ РЅР° СЌРєСЂР°РЅ СЃРѕРґРµСЂР¶РёРјРѕРµ РјР°СЃСЃРёРІР° $arOrder.
 
-$arOrderProps - массив свойств заказа (вводятся покупателями при оформлении заказа) следующей структуры:
+$arOrderProps - РјР°СЃСЃРёРІ СЃРІРѕР№СЃС‚РІ Р·Р°РєР°Р·Р° (РІРІРѕРґСЏС‚СЃСЏ РїРѕРєСѓРїР°С‚РµР»СЏРјРё РїСЂРё РѕС„РѕСЂРјР»РµРЅРёРё Р·Р°РєР°Р·Р°) СЃР»РµРґСѓСЋС‰РµР№ СЃС‚СЂСѓРєС‚СѓСЂС‹:
 array(
-	"мнемонический код (или ID если мнемонический код пуст) свойства" => "значение свойства"
+	"РјРЅРµРјРѕРЅРёС‡РµСЃРєРёР№ РєРѕРґ (РёР»Рё ID РµСЃР»Рё РјРЅРµРјРѕРЅРёС‡РµСЃРєРёР№ РєРѕРґ РїСѓСЃС‚) СЃРІРѕР№СЃС‚РІР°" => "Р·РЅР°С‡РµРЅРёРµ СЃРІРѕР№СЃС‚РІР°"
 	)
 
-$arParams - массив из настроек Печатных форм
+$arParams - РјР°СЃСЃРёРІ РёР· РЅР°СЃС‚СЂРѕРµРє РџРµС‡Р°С‚РЅС‹С… С„РѕСЂРј
 
-$arUser - массив из настроек пользователя, совершившего заказ
+$arUser - РјР°СЃСЃРёРІ РёР· РЅР°СЃС‚СЂРѕРµРє РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ, СЃРѕРІРµСЂС€РёРІС€РµРіРѕ Р·Р°РєР°Р·
 */
 ?><html xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:x="urn:schemas-microsoft-com:office:excel"
@@ -27,7 +27,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <head>
 <meta http-equiv=Content-Type content="text/html; charset=<?=LANG_CHARSET?>">
 <meta name=ProgId content=Excel.Sheet>
-<title langs="ru">Счет-фактура</title>
+<title langs="ru">РЎС‡РµС‚-С„Р°РєС‚СѓСЂР°</title>
 <style>
 <!--table
 	{mso-displayed-decimal-separator:"\.";
@@ -61,7 +61,7 @@ br
 	mso-font-charset:204;
 	border:none;
 	mso-protection:locked visible;
-	mso-style-name:Обычный;
+	mso-style-name:РћР±С‹С‡РЅС‹Р№;
 	mso-style-id:0;}
 .style22
 	{mso-number-format:General;
@@ -80,10 +80,10 @@ br
 	mso-font-charset:204;
 	border:none;
 	mso-protection:locked visible;
-	mso-style-name:Обычный_Sf_131;}
+	mso-style-name:РћР±С‹С‡РЅС‹Р№_Sf_131;}
 .style27
 	{mso-number-format:0%;
-	mso-style-name:Процентный;
+	mso-style-name:РџСЂРѕС†РµРЅС‚РЅС‹Р№;
 	mso-style-id:5;}
 td
 	{mso-style-parent:style0;
@@ -398,7 +398,7 @@ td
 	vertical-align:top;}
 -->
 </style>
-<title>Счет-фактура</title>
+<title>РЎС‡РµС‚-С„Р°РєС‚СѓСЂР°</title>
 </head>
 
 <body link=blue vlink=purple class=xl32>
@@ -430,49 +430,49 @@ width:86pt'>
 
 <tr height=24 style='mso-height-source:userset;height:18.6pt'>
 	<td nowrap height=24 class=xl67 colspan=11 style='height:18.6pt;mso-ignore:
-	colspan;'>СЧЕТ-ФАКТУРА № 
-	<input size="25" style="border:0px solid #000000;font-size:16px;font-style:bold;" type="text" value="_____ от '__' _______ ">
+	colspan;'>РЎР§Р•Рў-Р¤РђРљРўРЈР Рђ в„– 
+	<input size="25" style="border:0px solid #000000;font-size:16px;font-style:bold;" type="text" value="_____ РѕС‚ '__' _______ ">
 	</td>
 	</tr>
 
 	<tr height=24 style='mso-height-source:userset;height:18.6pt'>
 	<td nowrap height=24 class=xl67 colspan=11 style='height:18.6pt;mso-ignore:
-	colspan;'>ИСПРАВЛЕНИЕ №
-	<input size="25" style="border:0px solid #000000;font-size:16px;font-style:bold;" type="text" value="_____ от '__' _______ ">
+	colspan;'>РРЎРџР РђР’Р›Р•РќРР• в„–
+	<input size="25" style="border:0px solid #000000;font-size:16px;font-style:bold;" type="text" value="_____ РѕС‚ '__' _______ ">
 	</td>
 </tr>
 <tr height=12 style='mso-height-source:userset;height:9.6pt'>
 	<td colspan=11 height=12 class=xl34 style='height:9.6pt'>&nbsp;</td>
 </tr>
 <tr class=xl50 height=19 style='mso-height-source:userset;height:14.25pt'>
-	<td height=19 class=xl47 style='height:14.25pt'>Продавец</td>
+	<td height=19 class=xl47 style='height:14.25pt'>РџСЂРѕРґР°РІРµС†</td>
 	<td class=xl64 colspan=10 style='mso-ignore:colspan'><?=$arParams["COMPANY_NAME"]?></td>
 </tr>
 <tr class=xl50 height=18 style='mso-height-source:userset;height:13.5pt'>
-	<td height=18 class=xl50 style='height:13.5pt'>Адрес</td>
-	<td class=xl50 colspan=10 style='mso-ignore:colspan'><? echo $arParams["COUNTRY"].", ".$arParams["INDEX"].", г. ".$arParams["CITY"].", ".$arParams["ADDRESS"];?></td>
+	<td height=18 class=xl50 style='height:13.5pt'>РђРґСЂРµСЃ</td>
+	<td class=xl50 colspan=10 style='mso-ignore:colspan'><? echo $arParams["COUNTRY"].", ".$arParams["INDEX"].", Рі. ".$arParams["CITY"].", ".$arParams["ADDRESS"];?></td>
 </tr>	 
 <tr class=xl50 height=18 style='mso-height-source:userset;height:13.5pt'>
-	<td height=18 class=xl50 style='height:13.5pt'>ИНН/КПП продавца</td>
+	<td height=18 class=xl50 style='height:13.5pt'>РРќРќ/РљРџРџ РїСЂРѕРґР°РІС†Р°</td>
 	<td colspan=10 class=xl73><?=$arParams["INN"]?> / <?=$arParams["KPP"]?></td>
 </tr>
 <tr class=xl50 height=18 style='mso-height-source:userset;height:13.5pt'>
-	<td height=18 class=xl50 style='height:13.5pt'>Грузоотправитель и его адрес</td>
-	<td colspan=10 class=xl50><?=$arParams["COMPANY_NAME"]?>, <?=$arParams["COUNTRY"]?>, <?=$arParams["INDEX"]?>, г. <?=$arParams["CITY"]?>, <?=$arParams["ADDRESS"]?></td>
+	<td height=18 class=xl50 style='height:13.5pt'>Р“СЂСѓР·РѕРѕС‚РїСЂР°РІРёС‚РµР»СЊ Рё РµРіРѕ Р°РґСЂРµСЃ</td>
+	<td colspan=10 class=xl50><?=$arParams["COMPANY_NAME"]?>, <?=$arParams["COUNTRY"]?>, <?=$arParams["INDEX"]?>, Рі. <?=$arParams["CITY"]?>, <?=$arParams["ADDRESS"]?></td>
 </tr>
 <tr class=xl50 height=18 style='mso-height-source:userset;height:13.5pt'>
-	<td height=18 class=xl50 style='height:13.5pt'>Грузополучатель и его адрес</td>
+	<td height=18 class=xl50 style='height:13.5pt'>Р“СЂСѓР·РѕРїРѕР»СѓС‡Р°С‚РµР»СЊ Рё РµРіРѕ Р°РґСЂРµСЃ</td>
 	<td class=xl64 colspan=10 style='mso-ignore:colspan'>
 	<?if(empty($arParams))
 	{	?>
-		<?//изменить F_NAME, F_INDEX,... на реальные мнемонические коды свойств?>
+		<?//РёР·РјРµРЅРёС‚СЊ F_NAME, F_INDEX,... РЅР° СЂРµР°Р»СЊРЅС‹Рµ РјРЅРµРјРѕРЅРёС‡РµСЃРєРёРµ РєРѕРґС‹ СЃРІРѕР№СЃС‚РІ?>
 		<?echo $arOrderProps["F_NAME"];?>,
 		<?echo $arOrderProps["F_INDEX"];?>
 		<?
 		$arVal = CSaleLocation::GetByID($arOrderProps["F_LOCATION"], "ru");
 		echo htmlspecialcharsbx($arVal["COUNTRY_NAME"]." - ".$arVal["CITY_NAME"]);
 		?>
-		<?if ($arOrderProps["F_CITY"] <> '') echo ", г. ".$arOrderProps["F_CITY"];?>
+		<?if ($arOrderProps["F_CITY"] <> '') echo ", Рі. ".$arOrderProps["F_CITY"];?>
 		<?if ($arOrderProps["F_ADDRESS"] <> '') echo ", ".$arOrderProps["F_ADDRESS"];?>
 		<?
 	}
@@ -483,24 +483,24 @@ width:86pt'>
 	    else
 			$buyerName = $arParams["BUYER_LAST_NAME"]." ".$arParams["BUYER_FIRST_NAME"]." ".$arParams["BUYER_SECOND_NAME"];
 		?>
-		<?=$buyerName;?>, <?=$arParams["BUYER_COUNTRY"]?>, <?=$arParams["BUYER_INDEX"]?>, г. <?=$arParams["BUYER_CITY"]?>, <?=$arParams["BUYER_ADDRESS"]?>
+		<?=$buyerName;?>, <?=$arParams["BUYER_COUNTRY"]?>, <?=$arParams["BUYER_INDEX"]?>, Рі. <?=$arParams["BUYER_CITY"]?>, <?=$arParams["BUYER_ADDRESS"]?>
 		<?
 	}
 	?>
 </td>
 </tr>
 <tr class=xl50 height=19 style='mso-height-source:userset;height:14.25pt'>
-	<td height=19 class=xl50 style='height:14.25pt'>К платежно-расчетному документу</td>
+	<td height=19 class=xl50 style='height:14.25pt'>Рљ РїР»Р°С‚РµР¶РЅРѕ-СЂР°СЃС‡РµС‚РЅРѕРјСѓ РґРѕРєСѓРјРµРЅС‚Сѓ</td>
 	<td colspan=10 class=xl64 style='mso-ignore:colspan'>
-	<input size="50" style="border:0px solid #000000;" type="text" value="№_______ от _______________">
+	<input size="50" style="border:0px solid #000000;" type="text" value="в„–_______ РѕС‚ _______________">
 	</td>
 </tr>
 <tr class=xl50 height=18 style='mso-height-source:userset;height:13.5pt'>
-	<td height=18 class=xl47 style='height:13.5pt'>Покупатель</td>
+	<td height=18 class=xl47 style='height:13.5pt'>РџРѕРєСѓРїР°С‚РµР»СЊ</td>
 	<td class=xl64 colspan=10>
 	<?if(empty($arParams))
 	{	
-		//изменить F_NAME на реальный мнемонический код свойства заказа "название компании"
+		//РёР·РјРµРЅРёС‚СЊ F_NAME РЅР° СЂРµР°Р»СЊРЅС‹Р№ РјРЅРµРјРѕРЅРёС‡РµСЃРєРёР№ РєРѕРґ СЃРІРѕР№СЃС‚РІР° Р·Р°РєР°Р·Р° "РЅР°Р·РІР°РЅРёРµ РєРѕРјРїР°РЅРёРё"
 		echo $arOrderProps["F_NAME"];
 	}
 	else
@@ -510,32 +510,32 @@ width:86pt'>
 	</td>
 </tr>
 <tr class=xl50 height=18 style='mso-height-source:userset;height:13.5pt'>
-	<td height=18 class=xl50 style='height:13.5pt'>Адрес</td>
+	<td height=18 class=xl50 style='height:13.5pt'>РђРґСЂРµСЃ</td>
 	<td colspan=10 class=xl50 style='mso-ignore:colspan'>
 	<?if(empty($arParams))
 	{	
 		
-		//изменить F_INDEX, F_LOCATION,... на реальные мнемонические коды свойств
+		//РёР·РјРµРЅРёС‚СЊ F_INDEX, F_LOCATION,... РЅР° СЂРµР°Р»СЊРЅС‹Рµ РјРЅРµРјРѕРЅРёС‡РµСЃРєРёРµ РєРѕРґС‹ СЃРІРѕР№СЃС‚РІ
 		echo $arOrderProps["F_INDEX"];
 		$arVal = CSaleLocation::GetByID($arOrderProps["F_LOCATION"], "ru");
 		echo htmlspecialcharsbx($arVal["COUNTRY_NAME"]." - ".$arVal["CITY_NAME"]);
-		if ($arOrderProps["F_CITY"] <> '') echo ", г. ".$arOrderProps["F_CITY"];
+		if ($arOrderProps["F_CITY"] <> '') echo ", Рі. ".$arOrderProps["F_CITY"];
 		if ($arOrderProps["F_ADDRESS"] <> '') echo ", ".$arOrderProps["F_ADDRESS"];
 
 	}
 	else
 	{
-		echo $arParams["BUYER_COUNTRY"].", ".$arParams["BUYER_INDEX"].", г. ".$arParams["BUYER_CITY"].", ".$arParams["BUYER_ADDRESS"];
+		echo $arParams["BUYER_COUNTRY"].", ".$arParams["BUYER_INDEX"].", Рі. ".$arParams["BUYER_CITY"].", ".$arParams["BUYER_ADDRESS"];
 	}?>
 
 	</td>
 </tr>
 <tr class=xl50 height=18 style='mso-height-source:userset;height:13.5pt'>
-	<td height=18 class=xl50 style='height:13.5pt'>ИНН/КПП покупателя</td>
+	<td height=18 class=xl50 style='height:13.5pt'>РРќРќ/РљРџРџ РїРѕРєСѓРїР°С‚РµР»СЏ</td>
 	<td colspan=10 class=xl68>
 	<?if(empty($arParams))
 	{	
-		//изменить F_INN на реальный мнемонический код свойства заказа "INN компании"
+		//РёР·РјРµРЅРёС‚СЊ F_INN РЅР° СЂРµР°Р»СЊРЅС‹Р№ РјРЅРµРјРѕРЅРёС‡РµСЃРєРёР№ РєРѕРґ СЃРІРѕР№СЃС‚РІР° Р·Р°РєР°Р·Р° "INN РєРѕРјРїР°РЅРёРё"
 		echo $arOrderProps["F_INN"];
 	}
 	else
@@ -546,7 +546,7 @@ width:86pt'>
 	</td>
 </tr>
 <tr class=xl50 height=19 style='mso-height-source:userset;height:14.25pt'>
-	<td height=19 class=xl50 style='height:14.25pt;mso-ignore:colspan'>Валюта: наименование, код </td>
+	<td height=19 class=xl50 style='height:14.25pt;mso-ignore:colspan'>Р’Р°Р»СЋС‚Р°: РЅР°РёРјРµРЅРѕРІР°РЅРёРµ, РєРѕРґ </td>
 	<td colspan=6 class=xl50 style='mso-ignore:colspan'><input size="50" style="border:0px solid #000000;" type="text" value="__________________________"></td>
 </tr>
 <tr height=15 style='mso-height-source:userset;height:11.25pt'>
@@ -557,23 +557,23 @@ width:86pt'>
 	<td colspan="11">
 		<table cellpadding=0 cellspacing=0 width=987 style='border-collapse:collapse;table-layout:fixed;width:100%'>
 			<tr class=xl37 height=44 style='mso-height-source:userset;height:33.6pt'>
-				<td rowspan="2" class="xl54" style='width:150pt'>Наименование товара (описание  <br>выполненных работ, оказанных услуг),  <br>имущественного права</td>
-				<td colspan="2" class="xl54" style='width:80pt'>Единица измерения</td>
-				<td rowspan="2" class="xl54" style='width:30pt'>Коли-<br>чество<br>(объем)</td>
-				<td rowspan="2" class="xl54" style='width:60pt'>Цена<br>(тариф)<br>за единицу<br>измерения</td>
-				<td rowspan="2" class="xl54" style='width:60pt'>Стоимость товаров (работ, услуг), имущественных прав без налога - всего</td>
-				<td rowspan="2" class="xl54" style='width:30pt'>В том числе сумма акциза</td>
-				<td rowspan="2" class="xl54" style='width:40pt'>Налоговая<br>ставка</td>
-				<td rowspan="2" class="xl54" style='width:60pt'>Сумма налога, предъяв-ляемая покупателю</td>
-				<td rowspan="2" class="xl54" style='width:60pt'>Стоимость товаров (работ, услуг), имущественных прав с налогом - всего</td>
-				<td colspan="2" class="xl54" style='width:70pt'>Страна происхождения товара</td>
-				<td rowspan="2" class="xl56" style='width:40pt'>Номер таможенной декларации</td>
+				<td rowspan="2" class="xl54" style='width:150pt'>РќР°РёРјРµРЅРѕРІР°РЅРёРµ С‚РѕРІР°СЂР° (РѕРїРёСЃР°РЅРёРµ  <br>РІС‹РїРѕР»РЅРµРЅРЅС‹С… СЂР°Р±РѕС‚, РѕРєР°Р·Р°РЅРЅС‹С… СѓСЃР»СѓРі),  <br>РёРјСѓС‰РµСЃС‚РІРµРЅРЅРѕРіРѕ РїСЂР°РІР°</td>
+				<td colspan="2" class="xl54" style='width:80pt'>Р•РґРёРЅРёС†Р° РёР·РјРµСЂРµРЅРёСЏ</td>
+				<td rowspan="2" class="xl54" style='width:30pt'>РљРѕР»Рё-<br>С‡РµСЃС‚РІРѕ<br>(РѕР±СЉРµРј)</td>
+				<td rowspan="2" class="xl54" style='width:60pt'>Р¦РµРЅР°<br>(С‚Р°СЂРёС„)<br>Р·Р° РµРґРёРЅРёС†Сѓ<br>РёР·РјРµСЂРµРЅРёСЏ</td>
+				<td rowspan="2" class="xl54" style='width:60pt'>РЎС‚РѕРёРјРѕСЃС‚СЊ С‚РѕРІР°СЂРѕРІ (СЂР°Р±РѕС‚, СѓСЃР»СѓРі), РёРјСѓС‰РµСЃС‚РІРµРЅРЅС‹С… РїСЂР°РІ Р±РµР· РЅР°Р»РѕРіР° - РІСЃРµРіРѕ</td>
+				<td rowspan="2" class="xl54" style='width:30pt'>Р’ С‚РѕРј С‡РёСЃР»Рµ СЃСѓРјРјР° Р°РєС†РёР·Р°</td>
+				<td rowspan="2" class="xl54" style='width:40pt'>РќР°Р»РѕРіРѕРІР°СЏ<br>СЃС‚Р°РІРєР°</td>
+				<td rowspan="2" class="xl54" style='width:60pt'>РЎСѓРјРјР° РЅР°Р»РѕРіР°, РїСЂРµРґСЉСЏРІ-Р»СЏРµРјР°СЏ РїРѕРєСѓРїР°С‚РµР»СЋ</td>
+				<td rowspan="2" class="xl54" style='width:60pt'>РЎС‚РѕРёРјРѕСЃС‚СЊ С‚РѕРІР°СЂРѕРІ (СЂР°Р±РѕС‚, СѓСЃР»СѓРі), РёРјСѓС‰РµСЃС‚РІРµРЅРЅС‹С… РїСЂР°РІ СЃ РЅР°Р»РѕРіРѕРј - РІСЃРµРіРѕ</td>
+				<td colspan="2" class="xl54" style='width:70pt'>РЎС‚СЂР°РЅР° РїСЂРѕРёСЃС…РѕР¶РґРµРЅРёСЏ С‚РѕРІР°СЂР°</td>
+				<td rowspan="2" class="xl56" style='width:40pt'>РќРѕРјРµСЂ С‚Р°РјРѕР¶РµРЅРЅРѕР№ РґРµРєР»Р°СЂР°С†РёРё</td>
 			</tr>
 			<tr>
-				<td class="xl56" style='width:20pt'>код</td>
-				<td class="xl56" style='width:60pt'>условное обозначение (националь<br>ное)</td>
-				<td class="xl56" >цифровой код</td>
-				<td class="xl56" >краткое наименова<br>ние</td>
+				<td class="xl56" style='width:20pt'>РєРѕРґ</td>
+				<td class="xl56" style='width:60pt'>СѓСЃР»РѕРІРЅРѕРµ РѕР±РѕР·РЅР°С‡РµРЅРёРµ (РЅР°С†РёРѕРЅР°Р»СЊ<br>РЅРѕРµ)</td>
+				<td class="xl56" >С†РёС„СЂРѕРІРѕР№ РєРѕРґ</td>
+				<td class="xl56" >РєСЂР°С‚РєРѕРµ РЅР°РёРјРµРЅРѕРІР°<br>РЅРёРµ</td>
 			</tr>
 			<tr>
 				<td class="xl38">1</td>
@@ -630,13 +630,13 @@ if (is_array($arBasketOrder) && !empty($arBasketOrder))
 	$arBasketOrder = getMeasures($arBasketOrder);
 }
 
-//разбрасываем скидку на заказ по товарам
+//СЂР°Р·Р±СЂР°СЃС‹РІР°РµРј СЃРєРёРґРєСѓ РЅР° Р·Р°РєР°Р· РїРѕ С‚РѕРІР°СЂР°Рј
 if (floatval($arOrder["DISCOUNT_VALUE"]) > 0)
 {
 	$arBasketOrder = GetUniformDestribution($arBasketOrder, $arOrder["DISCOUNT_VALUE"], $priceTotal);
 }
 
-//налоги
+//РЅР°Р»РѕРіРё
 $arTaxList = array();
 $db_tax_list = CSaleOrderTax::GetList(array("APPLY_ORDER"=>"ASC"), Array("ORDER_ID"=>$ORDER_ID));
 $iNds = -1;
@@ -644,15 +644,15 @@ $i = 0;
 while ($ar_tax_list = $db_tax_list->Fetch())
 {
 	$arTaxList[$i] = $ar_tax_list;
-	// определяем, какой из налогов - НДС
-	// НДС должен иметь код NDS, либо необходимо перенести этот шаблон 
-	// в каталог пользовательских шаблонов и исправить
+	// РѕРїСЂРµРґРµР»СЏРµРј, РєР°РєРѕР№ РёР· РЅР°Р»РѕРіРѕРІ - РќР”РЎ
+	// РќР”РЎ РґРѕР»Р¶РµРЅ РёРјРµС‚СЊ РєРѕРґ NDS, Р»РёР±Рѕ РЅРµРѕР±С…РѕРґРёРјРѕ РїРµСЂРµРЅРµСЃС‚Рё СЌС‚РѕС‚ С€Р°Р±Р»РѕРЅ 
+	// РІ РєР°С‚Р°Р»РѕРі РїРѕР»СЊР·РѕРІР°С‚РµР»СЊСЃРєРёС… С€Р°Р±Р»РѕРЅРѕРІ Рё РёСЃРїСЂР°РІРёС‚СЊ
 	if ($arTaxList[$i]["CODE"] == "NDS")
 		$iNds = $i;
 	$i++;
 }
 
-//состав заказа
+//СЃРѕСЃС‚Р°РІ Р·Р°РєР°Р·Р°
 $total_price = 0.00;
 $total_sum = 0.00;
 $total_nds = 0.00;
@@ -668,7 +668,7 @@ foreach ($arBasketOrder as $arBasket):
 	
 	$b_AMOUNT = DoubleVal($arBasket["PRICE"]);
 
-	//определяем начальную цену
+	//РѕРїСЂРµРґРµР»СЏРµРј РЅР°С‡Р°Р»СЊРЅСѓСЋ С†РµРЅСѓ
 	$item_price = $b_AMOUNT;
 
 	$nds_val = 0;
@@ -725,7 +725,7 @@ foreach ($arBasketOrder as $arBasket):
 	</td>
 	<td class=xl43 style='border-top:none;border-left:none'>&nbsp;</td>
 	<td class=xl44 align=right width=43 style='border-top:none;border-left:none;
-	width:32pt'><?=($taxRate > 0 || count($arTaxList) > 0) ? $taxRate."%" : "Без НДС";?></td>
+	width:32pt'><?=($taxRate > 0 || count($arTaxList) > 0) ? $taxRate."%" : "Р‘РµР· РќР”РЎ";?></td>
 	<td class=xl45 align=right width=78 style='border-top:none;border-left:none;
 	width:59pt' x:num>
 		<?
@@ -757,14 +757,14 @@ endforeach;
 
 if ($arOrder["DELIVERY_ID"]):
 	$basket_tax = CSaleOrderTax::CountTaxes(DoubleVal($arOrder["PRICE_DELIVERY"]), $arTaxList, $arOrder["CURRENCY"]);
-	//определяем начальную цену
+	//РѕРїСЂРµРґРµР»СЏРµРј РЅР°С‡Р°Р»СЊРЅСѓСЋ С†РµРЅСѓ
 	$nds_val = $arOrder['DELIVERY_VAT_SUM'];
 	$taxRate = $arOrder['DELIVERY_VAT_RATE'] * 100;
 	$item_price = DoubleVal($arOrder["PRICE_DELIVERY"]) - $arOrder['DELIVERY_VAT_SUM'];
 	?>
 <tr class=xl39>
 	<td class=xl66 width=213 style='border-top:none;
-	width:213px'>Доставка</td>
+	width:213px'>Р”РѕСЃС‚Р°РІРєР°</td>
 	<td class=xl40>---</td>
 	<td class=xl40 width=40 style='border-top:none;border-left:none;width:30pt'></td>
 	<td class=xl41 style='border-top:none;border-left:none'>1</td>
@@ -772,7 +772,7 @@ if ($arOrder["DELIVERY_ID"]):
 	<td class=xl42 align=right style='border-top:none;border-left:none' x:num><?=CCurrencyLang::CurrencyFormat($item_price, $arOrder["CURRENCY"], false); $total_price += $item_price;?></td>
 	<td class=xl43 style='border-top:none;border-left:none'>&nbsp;</td>
 	<td class=xl44 align=right width=43 style='border-top:none;border-left:none;
-	width:32pt'><?=($taxRate > 0 || count($arTaxList) > 0) ? $taxRate."%" : "Без НДС";?></td>
+	width:32pt'><?=($taxRate > 0 || count($arTaxList) > 0) ? $taxRate."%" : "Р‘РµР· РќР”РЎ";?></td>
 	<td class=xl45 align=right width=78 style='border-top:none;border-left:none;
 	width:59pt' x:num><?=CCurrencyLang::CurrencyFormat($nds_val, $arOrder["CURRENCY"], false); $total_nds += $nds_val;?></td>
 	<td class=xl45 align=right width=83 style='border-top:none;border-left:none;
@@ -783,7 +783,7 @@ if ($arOrder["DELIVERY_ID"]):
 </tr>
 <?endif?>
 <tr>
-	<td class=xl58>Всего к оплате:</td>
+	<td class=xl58>Р’СЃРµРіРѕ Рє РѕРїР»Р°С‚Рµ:</td>
 	<td class=xl59>&nbsp;</td>
 	<td class=xl59>&nbsp;</td>
 	<td class=xl59>&nbsp;</td>
@@ -803,10 +803,10 @@ if ($arOrder["DELIVERY_ID"]):
 	<td colspan=2 class=xl32 style='mso-ignore:colspan'></td>
 </tr>
 <tr valign="top">
-	<td colspan=4 class=xl36>Руководитель организации<br> или иное уполномоченное лицо
+	<td colspan=4 class=xl36>Р СѓРєРѕРІРѕРґРёС‚РµР»СЊ РѕСЂРіР°РЅРёР·Р°С†РёРё<br> РёР»Рё РёРЅРѕРµ СѓРїРѕР»РЅРѕРјРѕС‡РµРЅРЅРѕРµ Р»РёС†Рѕ
 		_______________ <input size="16" style="border:0px solid #000000;font-size:14px;font-style:bold;" type="text" value="/ <?echo (($arParams["DIRECTOR"] <> '') ? $arParams["DIRECTOR"] : "_______________")?> /"></td>
 	<td class=xl36 colspan=2 style='mso-ignore:colspan'></td>
-	<td colspan=6 class=xl32 style='mso-ignore:colspan'>Главный бухгалтер<br> или иное уполномоченное лицо _______________ <input size="16" style="border:0px solid #000000;font-size:14px;font-style:bold;" type="text" value="/ <?echo (($arParams["BUHG"] <> '') ? $arParams["BUHG"] : "_______________")?> /"></td>
+	<td colspan=6 class=xl32 style='mso-ignore:colspan'>Р“Р»Р°РІРЅС‹Р№ Р±СѓС…РіР°Р»С‚РµСЂ<br> РёР»Рё РёРЅРѕРµ СѓРїРѕР»РЅРѕРјРѕС‡РµРЅРЅРѕРµ Р»РёС†Рѕ _______________ <input size="16" style="border:0px solid #000000;font-size:14px;font-style:bold;" type="text" value="/ <?echo (($arParams["BUHG"] <> '') ? $arParams["BUHG"] : "_______________")?> /"></td>
 </tr>
 <tr height=0 style='display:none'>
 	<td height=0 colspan=11 class=xl32 style='mso-ignore:colspan'></td>
@@ -818,15 +818,15 @@ if ($arOrder["DELIVERY_ID"]):
 	<td height=17 colspan=11 class=xl32 style='height:12.75pt;mso-ignore:colspan'></td>
 </tr>
 <tr height=22 style='mso-height-source:userset;height:16.5pt'>
-	<td height=22 colspan=5 class=xl32 style='height:16.5pt;mso-ignore:colspan'>Индивидуальный предприниматель _____________ / <input size="16" style="border:0px solid #000000;font-size:14px;font-style:bold;" type="text" value="_______________"> /</td>
+	<td height=22 colspan=5 class=xl32 style='height:16.5pt;mso-ignore:colspan'>РРЅРґРёРІРёРґСѓР°Р»СЊРЅС‹Р№ РїСЂРµРґРїСЂРёРЅРёРјР°С‚РµР»СЊ _____________ / <input size="16" style="border:0px solid #000000;font-size:14px;font-style:bold;" type="text" value="_______________"> /</td>
 	<td height=22 colspan=1 class=xl32 style='height:16.5pt;mso-ignore:colspan'></td>
 	<td colspan=5 class=xl36><input size="40" style="border:0px solid #000000;font-size:14px;font-style:bold;" type="text" value="_____________________________________"> </td>
 </tr>
 <tr height=20 style='mso-height-source:userset;height:15.0pt'>
 	<td height=20 colspan=5 class=xl33 style='height:15.0pt;mso-ignore:colspan'></td>
 	<td height=20 colspan=1 class=xl32 style='height:15.0pt;mso-ignore:colspan'></td>
-	<td class=xl33 colspan=5 style='mso-ignore:colspan' align="center">(реквизиты свидетельства о государственной регистрации<br>
-индивидуального предпринимателя)</td>
+	<td class=xl33 colspan=5 style='mso-ignore:colspan' align="center">(СЂРµРєРІРёР·РёС‚С‹ СЃРІРёРґРµС‚РµР»СЊСЃС‚РІР° Рѕ РіРѕСЃСѓРґР°СЂСЃС‚РІРµРЅРЅРѕР№ СЂРµРіРёСЃС‚СЂР°С†РёРё<br>
+РёРЅРґРёРІРёРґСѓР°Р»СЊРЅРѕРіРѕ РїСЂРµРґРїСЂРёРЅРёРјР°С‚РµР»СЏ)</td>
 </tr>
 <tr height=9 style='mso-height-source:userset;height:6.75pt'>
 	<td height=9 colspan=11 class=xl32 style='height:6.75pt;mso-ignore:colspan'></td>

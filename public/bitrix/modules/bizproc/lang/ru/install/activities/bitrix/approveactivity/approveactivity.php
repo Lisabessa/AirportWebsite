@@ -1,5 +1,5 @@
 <?
-$MESS ['BPAA_LOG_Y'] = "Óòâåðæäåí";
-$MESS ['BPAA_LOG_N'] = "Îòêëîíåí";
-$MESS ['BPAA_LOG_COMMENTS'] = "Êîììåíòàðèé";
+$MESS ['BPAA_LOG_Y'] = "Ð£Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½";
+$MESS ['BPAA_LOG_N'] = "ÐžÑ‚ÐºÐ»Ð¾Ð½ÐµÐ½";
+$MESS ['BPAA_LOG_COMMENTS'] = "ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹";
 ?>

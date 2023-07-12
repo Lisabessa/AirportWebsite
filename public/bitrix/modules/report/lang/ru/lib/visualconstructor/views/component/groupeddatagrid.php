@@ -1,2 +1,2 @@
 <?php
-$MESS['REPORT_GROUPED_DATA_GRID_VIEW_LABEL'] = 'Ñïèñîê';
+$MESS['REPORT_GROUPED_DATA_GRID_VIEW_LABEL'] = 'Ð¡Ð¿Ð¸ÑÐ¾Ðº';

@@ -1,4 +1,4 @@
 <?
-$MESS["sender_trigger_basket_forgotten_name"] = "Çàáóòèé êîøèê";
-$MESS["sender_trigger_basket_forgotten_days"] = "Çàáóâ á³ëüøå(äí³â)";
+$MESS["sender_trigger_basket_forgotten_name"] = "Ð—Ð°Ð±ÑƒÑ‚Ð¸Ð¹ ÐºÐ¾ÑˆÐ¸Ðº";
+$MESS["sender_trigger_basket_forgotten_days"] = "Ð—Ð°Ð±ÑƒÐ² Ð±Ñ–Ð»ÑŒÑˆÐµ(Ð´Ð½Ñ–Ð²)";
 ?>

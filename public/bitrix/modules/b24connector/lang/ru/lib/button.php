@@ -1,10 +1,10 @@
 <?
-$MESS["B24C_BUTTON_TYPE_NAME_OPENLINE"] = "Îòêðûòàÿ ëèíèÿ";
-$MESS["B24C_BUTTON_TYPE_NAME_CRMFORM"] = "CRM-ôîðìà";
-$MESS["B24C_BUTTON_TYPE_NAME_CALLBACK"] = "Îáðàòíûé çâîíîê";
-$MESS["B24C_BUTTON_LOCATION_TOP_LEFT"] = "Ñëåâà ââåðõó";
-$MESS["B24C_BUTTON_LOCATION_TOP_MIDDLE"] = "Ïî ñåðåäèíå ñâåðõó";
-$MESS["B24C_BUTTON_LOCATION_TOP_RIGHT"] = "Ñïðàâà ââåðõó";
-$MESS["B24C_BUTTON_LOCATION_BOTTOM_RIGHT"] = "Ñïðàâà âíèçó";
-$MESS["B24C_BUTTON_LOCATION_BOTTOM_MIDDLE"] = "Ïî ñåðåäèíå âíèçó";
-$MESS["B24C_BUTTON_LOCATION_BOTTOM_LEFT"] = "Ñëåâà âíèçó";
+$MESS["B24C_BUTTON_TYPE_NAME_OPENLINE"] = "ÐžÑ‚ÐºÑ€Ñ‹Ñ‚Ð°Ñ Ð»Ð¸Ð½Ð¸Ñ";
+$MESS["B24C_BUTTON_TYPE_NAME_CRMFORM"] = "CRM-Ñ„Ð¾Ñ€Ð¼Ð°";
+$MESS["B24C_BUTTON_TYPE_NAME_CALLBACK"] = "ÐžÐ±Ñ€Ð°Ñ‚Ð½Ñ‹Ð¹ Ð·Ð²Ð¾Ð½Ð¾Ðº";
+$MESS["B24C_BUTTON_LOCATION_TOP_LEFT"] = "Ð¡Ð»ÐµÐ²Ð° Ð²Ð²ÐµÑ€Ñ…Ñƒ";
+$MESS["B24C_BUTTON_LOCATION_TOP_MIDDLE"] = "ÐŸÐ¾ ÑÐµÑ€ÐµÐ´Ð¸Ð½Ðµ ÑÐ²ÐµÑ€Ñ…Ñƒ";
+$MESS["B24C_BUTTON_LOCATION_TOP_RIGHT"] = "Ð¡Ð¿Ñ€Ð°Ð²Ð° Ð²Ð²ÐµÑ€Ñ…Ñƒ";
+$MESS["B24C_BUTTON_LOCATION_BOTTOM_RIGHT"] = "Ð¡Ð¿Ñ€Ð°Ð²Ð° Ð²Ð½Ð¸Ð·Ñƒ";
+$MESS["B24C_BUTTON_LOCATION_BOTTOM_MIDDLE"] = "ÐŸÐ¾ ÑÐµÑ€ÐµÐ´Ð¸Ð½Ðµ Ð²Ð½Ð¸Ð·Ñƒ";
+$MESS["B24C_BUTTON_LOCATION_BOTTOM_LEFT"] = "Ð¡Ð»ÐµÐ²Ð° Ð²Ð½Ð¸Ð·Ñƒ";

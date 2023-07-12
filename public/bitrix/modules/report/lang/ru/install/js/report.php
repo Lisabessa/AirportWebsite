@@ -1,5 +1,5 @@
 <?
-$MESS["REPORT_JS_STATUS_ACTION_SUCCESS"] = "Óñïåøíî";
-$MESS["REPORT_JS_STATUS_ACTION_ERROR"] = "Ïðîèçîøëà îøèáêà";
-$MESS["REPORT_JS_SHARING_RIGHT_READ"] = "×òåíèå";
-$MESS["REPORT_JS_SHARING_RIGHT_EDIT"] = "Ðåäàêòèðîâàíèå";
+$MESS["REPORT_JS_STATUS_ACTION_SUCCESS"] = "Ð£ÑÐ¿ÐµÑˆÐ½Ð¾";
+$MESS["REPORT_JS_STATUS_ACTION_ERROR"] = "ÐŸÑ€Ð¾Ð¸Ð·Ð¾ÑˆÐ»Ð° Ð¾ÑˆÐ¸Ð±ÐºÐ°";
+$MESS["REPORT_JS_SHARING_RIGHT_READ"] = "Ð§Ñ‚ÐµÐ½Ð¸Ðµ";
+$MESS["REPORT_JS_SHARING_RIGHT_EDIT"] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ";

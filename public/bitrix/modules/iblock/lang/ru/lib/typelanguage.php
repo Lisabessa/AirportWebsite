@@ -1,7 +1,7 @@
 <?
-$MESS["IBLOCK_TYPE_LANG_ENTITY_IBLOCK_TYPE_ID_FIELD"] = "Èäåíòèôèêàòîð òèïà èíôîáëîêà";
-$MESS["IBLOCK_TYPE_LANG_ENTITY_LID_FIELD"] = "ßçûê";
-$MESS["IBLOCK_TYPE_LANG_ENTITY_NAME_FIELD"] = "Íàçâàíèå òèïà èíôîáëîêà";
-$MESS["IBLOCK_TYPE_LANG_ENTITY_SECTION_NAME_FIELD"] = "Íàçâàíèå äëÿ ðàçäåëîâ";
-$MESS["IBLOCK_TYPE_LANG_ENTITY_ELEMENT_NAME_FIELD"] = "Íàçâàíèå äëÿ ýëåìåíòîâ";
+$MESS["IBLOCK_TYPE_LANG_ENTITY_IBLOCK_TYPE_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ñ‚Ð¸Ð¿Ð° Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ°";
+$MESS["IBLOCK_TYPE_LANG_ENTITY_LID_FIELD"] = "Ð¯Ð·Ñ‹Ðº";
+$MESS["IBLOCK_TYPE_LANG_ENTITY_NAME_FIELD"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ñ‚Ð¸Ð¿Ð° Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ°";
+$MESS["IBLOCK_TYPE_LANG_ENTITY_SECTION_NAME_FIELD"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð´Ð»Ñ Ñ€Ð°Ð·Ð´ÐµÐ»Ð¾Ð²";
+$MESS["IBLOCK_TYPE_LANG_ENTITY_ELEMENT_NAME_FIELD"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð´Ð»Ñ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð²";
 ?>

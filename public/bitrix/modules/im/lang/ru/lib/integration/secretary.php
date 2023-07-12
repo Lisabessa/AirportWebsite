@@ -1,2 +1,2 @@
 <?
-$MESS["IM_INT_SECRETARY_CHAT_CREATION_ERROR"] = "Ïðîèçîøëà îøèáêà ïðè ñîçäàíèè ÷àòà";
+$MESS["IM_INT_SECRETARY_CHAT_CREATION_ERROR"] = "ÐŸÑ€Ð¾Ð¸Ð·Ð¾ÑˆÐ»Ð° Ð¾ÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ð¸ Ñ‡Ð°Ñ‚Ð°";

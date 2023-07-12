@@ -1,36 +1,36 @@
 <?
-$MESS["IDEA_DEMO_BLOG_GROUP_NAME"] = "Èäåè êîìïàíèè";
-$MESS["IDEA_DEMO_BLOG_NAME"] = "Èäåè";
+$MESS["IDEA_DEMO_BLOG_GROUP_NAME"] = "Ð˜Ð´ÐµÐ¸ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸";
+$MESS["IDEA_DEMO_BLOG_NAME"] = "Ð˜Ð´ÐµÐ¸";
 
-$MESS["IDEA_BLOG_DEMO_MESSAGE_TITLE_1"] = "Ìåáåëü èç êðàñíîãî äåðåâà!";
-$MESS["IDEA_BLOG_DEMO_MESSAGE_BODY_1"] = "Ïî÷åìó íåò â êàòàëîãå òàêîé ìåáåëè?!
-Ïðåäëàãàþ ïîïîëíèòü àññîðòèìåíò ìåáåëè!";
+$MESS["IDEA_BLOG_DEMO_MESSAGE_TITLE_1"] = "ÐœÐµÐ±ÐµÐ»ÑŒ Ð¸Ð· ÐºÑ€Ð°ÑÐ½Ð¾Ð³Ð¾ Ð´ÐµÑ€ÐµÐ²Ð°!";
+$MESS["IDEA_BLOG_DEMO_MESSAGE_BODY_1"] = "ÐŸÐ¾Ñ‡ÐµÐ¼Ñƒ Ð½ÐµÑ‚ Ð² ÐºÐ°Ñ‚Ð°Ð»Ð¾Ð³Ðµ Ñ‚Ð°ÐºÐ¾Ð¹ Ð¼ÐµÐ±ÐµÐ»Ð¸?!
+ÐŸÑ€ÐµÐ´Ð»Ð°Ð³Ð°ÑŽ Ð¿Ð¾Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÑŒ Ð°ÑÑÐ¾Ñ€Ñ‚Ð¸Ð¼ÐµÐ½Ñ‚ Ð¼ÐµÐ±ÐµÐ»Ð¸!";
 
-$MESS["IDEA_BLOG_DEMO_MESSAGE_TITLE_2"] = "Äîáàâüòå êóðüåðñêóþ äîñòàâêó!";
-$MESS["IDEA_BLOG_DEMO_MESSAGE_BODY_2"] = "Áûëî áû î÷åíü óäîáíî ïîëó÷àòü òîâàðû ïðÿìî íà äîì.
-Íå õî÷åòñÿ áåãàòü íà ïî÷òó çà òîâàðàìè. :)";
+$MESS["IDEA_BLOG_DEMO_MESSAGE_TITLE_2"] = "Ð”Ð¾Ð±Ð°Ð²ÑŒÑ‚Ðµ ÐºÑƒÑ€ÑŒÐµÑ€ÑÐºÑƒÑŽ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÑƒ!";
+$MESS["IDEA_BLOG_DEMO_MESSAGE_BODY_2"] = "Ð‘Ñ‹Ð»Ð¾ Ð±Ñ‹ Ð¾Ñ‡ÐµÐ½ÑŒ ÑƒÐ´Ð¾Ð±Ð½Ð¾ Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÑŒ Ñ‚Ð¾Ð²Ð°Ñ€Ñ‹ Ð¿Ñ€ÑÐ¼Ð¾ Ð½Ð° Ð´Ð¾Ð¼.
+ÐÐµ Ñ…Ð¾Ñ‡ÐµÑ‚ÑÑ Ð±ÐµÐ³Ð°Ñ‚ÑŒ Ð½Ð° Ð¿Ð¾Ñ‡Ñ‚Ñƒ Ð·Ð° Ñ‚Ð¾Ð²Ð°Ñ€Ð°Ð¼Ð¸. :)";
 
-$MESS["IDEA_BLOG_DEMO_MESSAGE_TITLE_3"] = "Ñïàñèáî Èâàíó Ôðîëîâó çà êà÷åñòâåííîå îáñëóæèâàíèå!";
-$MESS["IDEA_BLOG_DEMO_MESSAGE_BODY_3"] = "Ñïàñèáî çà âíèìàíèå è ÷óòêîñòü!
-Çà ïîìîùü â ïîäáîðå òîâàðà è îòâåòû íà ÂÑÅ âîïðîñû!";
+$MESS["IDEA_BLOG_DEMO_MESSAGE_TITLE_3"] = "Ð¡Ð¿Ð°ÑÐ¸Ð±Ð¾ Ð˜Ð²Ð°Ð½Ñƒ Ð¤Ñ€Ð¾Ð»Ð¾Ð²Ñƒ Ð·Ð° ÐºÐ°Ñ‡ÐµÑÑ‚Ð²ÐµÐ½Ð½Ð¾Ðµ Ð¾Ð±ÑÐ»ÑƒÐ¶Ð¸Ð²Ð°Ð½Ð¸Ðµ!";
+$MESS["IDEA_BLOG_DEMO_MESSAGE_BODY_3"] = "Ð¡Ð¿Ð°ÑÐ¸Ð±Ð¾ Ð·Ð° Ð²Ð½Ð¸Ð¼Ð°Ð½Ð¸Ðµ Ð¸ Ñ‡ÑƒÑ‚ÐºÐ¾ÑÑ‚ÑŒ!
+Ð—Ð° Ð¿Ð¾Ð¼Ð¾Ñ‰ÑŒ Ð² Ð¿Ð¾Ð´Ð±Ð¾Ñ€Ðµ Ñ‚Ð¾Ð²Ð°Ñ€Ð° Ð¸ Ð¾Ñ‚Ð²ÐµÑ‚Ñ‹ Ð½Ð° Ð’Ð¡Ð• Ð²Ð¾Ð¿Ñ€Ð¾ÑÑ‹!";
 
-$MESS["IDEA_BLOG_DEMO_MESSAGE_TITLE_4"] = "Ñìåíèòü äèçàéí ìàãàçèíà";
-$MESS["IDEA_BLOG_DEMO_MESSAGE_BODY_4"] = "Ïîðà èçìåíèòü îôîðìëåíèå ìàãàçèíà.
-Äîáàâèòü íîâûé ôóíêöèîíàë è íîâûå \"ïëþøêè\"";
+$MESS["IDEA_BLOG_DEMO_MESSAGE_TITLE_4"] = "Ð¡Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ð´Ð¸Ð·Ð°Ð¹Ð½ Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ð°";
+$MESS["IDEA_BLOG_DEMO_MESSAGE_BODY_4"] = "ÐŸÐ¾Ñ€Ð° Ð¸Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ð¾Ñ„Ð¾Ñ€Ð¼Ð»ÐµÐ½Ð¸Ðµ Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ð°.
+Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð½Ð¾Ð²Ñ‹Ð¹ Ñ„ÑƒÐ½ÐºÑ†Ð¸Ð¾Ð½Ð°Ð» Ð¸ Ð½Ð¾Ð²Ñ‹Ðµ \"Ð¿Ð»ÑŽÑˆÐºÐ¸\"";
 
-$MESS["IDEA_BLOG_DEMO_CATEGORY_1"] = "Íåìåöêèå";
-$MESS["IDEA_BLOG_DEMO_CATEGORY_2"] = "Òîâàðû";
-$MESS["IDEA_BLOG_DEMO_CATEGORY_3"] = "Äîñòàâêà";
-$MESS["IDEA_BLOG_DEMO_CATEGORY_4"] = "Áëàãîäàðíîñòü";
-$MESS["IDEA_BLOG_DEMO_CATEGORY_5"] = "Äèçàéí";
+$MESS["IDEA_BLOG_DEMO_CATEGORY_1"] = "ÐÐµÐ¼ÐµÑ†ÐºÐ¸Ðµ";
+$MESS["IDEA_BLOG_DEMO_CATEGORY_2"] = "Ð¢Ð¾Ð²Ð°Ñ€Ñ‹";
+$MESS["IDEA_BLOG_DEMO_CATEGORY_3"] = "Ð”Ð¾ÑÑ‚Ð°Ð²ÐºÐ°";
+$MESS["IDEA_BLOG_DEMO_CATEGORY_4"] = "Ð‘Ð»Ð°Ð³Ð¾Ð´Ð°Ñ€Ð½Ð¾ÑÑ‚ÑŒ";
+$MESS["IDEA_BLOG_DEMO_CATEGORY_5"] = "Ð”Ð¸Ð·Ð°Ð¹Ð½";
 
 $MESS["IDEA_UF_CATEGORY_CODE_1"] = "assortment";
 $MESS["IDEA_UF_CATEGORY_CODE_2"] = "delivery";
 $MESS["IDEA_UF_CATEGORY_CODE_3"] = "acknowledgments";
 $MESS["IDEA_UF_CATEGORY_CODE_4"] = "common";
 
-$MESS["IDEA_BLOG_DEMO_COMMENT_BODY_1"] = "Cïàñèáî!
-Ìû îòìåòèëè íàøåãî ñîòðóäíèêà ïðåìèåé!";
-$MESS["IDEA_BLOG_DEMO_COMMENT_BODY_2"] = "Â áëèæàéøåå âðåìÿ áóäóò èíòåãðèðîâàíû ñàìûå ïîïóëÿðíûå êóðüåðñêèå ñëóæáû!";
-$MESS["IDEA_BLOG_DEMO_COMMENT_BODY_3"] = "Îòëè÷íûé ñïåöèàëèñò!";
+$MESS["IDEA_BLOG_DEMO_COMMENT_BODY_1"] = "CÐ¿Ð°ÑÐ¸Ð±Ð¾!
+ÐœÑ‹ Ð¾Ñ‚Ð¼ÐµÑ‚Ð¸Ð»Ð¸ Ð½Ð°ÑˆÐµÐ³Ð¾ ÑÐ¾Ñ‚Ñ€ÑƒÐ´Ð½Ð¸ÐºÐ° Ð¿Ñ€ÐµÐ¼Ð¸ÐµÐ¹!";
+$MESS["IDEA_BLOG_DEMO_COMMENT_BODY_2"] = "Ð’ Ð±Ð»Ð¸Ð¶Ð°Ð¹ÑˆÐµÐµ Ð²Ñ€ÐµÐ¼Ñ Ð±ÑƒÐ´ÑƒÑ‚ Ð¸Ð½Ñ‚ÐµÐ³Ñ€Ð¸Ñ€Ð¾Ð²Ð°Ð½Ñ‹ ÑÐ°Ð¼Ñ‹Ðµ Ð¿Ð¾Ð¿ÑƒÐ»ÑÑ€Ð½Ñ‹Ðµ ÐºÑƒÑ€ÑŒÐµÑ€ÑÐºÐ¸Ðµ ÑÐ»ÑƒÐ¶Ð±Ñ‹!";
+$MESS["IDEA_BLOG_DEMO_COMMENT_BODY_3"] = "ÐžÑ‚Ð»Ð¸Ñ‡Ð½Ñ‹Ð¹ ÑÐ¿ÐµÑ†Ð¸Ð°Ð»Ð¸ÑÑ‚!";
 ?>

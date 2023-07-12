@@ -1,4 +1,4 @@
 <?
-$MESS ['SENDER_ADS_SEGMENT_SELECTOR_INCLUDE_EDIT_TITLE'] = "Âûáîð ñåãìåíòîâ";
-$MESS ['SENDER_ADS_SEGMENT_SELECTOR_INCLUDE_VIEW_TITLE'] = "Âûáðàííûå ñåãìåíòû";
-$MESS ['SENDER_ADS_SEGMENT_SELECTOR_RECIPIENT_COUNT'] = "Îòîáðàíî íà òåêóùèé ìîìåíò";
+$MESS ['SENDER_ADS_SEGMENT_SELECTOR_INCLUDE_EDIT_TITLE'] = "Ð’Ñ‹Ð±Ð¾Ñ€ ÑÐµÐ³Ð¼ÐµÐ½Ñ‚Ð¾Ð²";
+$MESS ['SENDER_ADS_SEGMENT_SELECTOR_INCLUDE_VIEW_TITLE'] = "Ð’Ñ‹Ð±Ñ€Ð°Ð½Ð½Ñ‹Ðµ ÑÐµÐ³Ð¼ÐµÐ½Ñ‚Ñ‹";
+$MESS ['SENDER_ADS_SEGMENT_SELECTOR_RECIPIENT_COUNT'] = "ÐžÑ‚Ð¾Ð±Ñ€Ð°Ð½Ð¾ Ð½Ð° Ñ‚ÐµÐºÑƒÑ‰Ð¸Ð¹ Ð¼Ð¾Ð¼ÐµÐ½Ñ‚";

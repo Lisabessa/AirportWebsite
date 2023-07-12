@@ -1,3 +1,3 @@
 <?
-$MESS["SALE_REGISTRY_CODE_VALUE_NO_EXISTS"] = "Â ðåºñòð³ #TYPE# â³äñóòíº çíà÷åííÿ äëÿ êîäó #CODE#";
+$MESS["SALE_REGISTRY_CODE_VALUE_NO_EXISTS"] = "Ð’ Ñ€ÐµÑ”ÑÑ‚Ñ€Ñ– #TYPE# Ð²Ñ–Ð´ÑÑƒÑ‚Ð½Ñ” Ð·Ð½Ð°Ñ‡ÐµÐ½Ð½Ñ Ð´Ð»Ñ ÐºÐ¾Ð´Ñƒ #CODE#";
 ?>

@@ -1,4 +1,4 @@
 <?
-$MESS ['MAIN_WIZARD_INSTALL_SESSION_EXPIRED'] = "Âàøà ñåññèÿ èñòåêëà. Ïîæàëóéñòà, ïåðåãðóçèòå ñòðàíèöó åùå ðàç.";
-$MESS ['MAIN_WIZARD_INSTALL_RELOAD_PAGE'] = "Ïåðåãðóçèòü";
+$MESS ['MAIN_WIZARD_INSTALL_SESSION_EXPIRED'] = "Ð’Ð°ÑˆÐ° ÑÐµÑÑÐ¸Ñ Ð¸ÑÑ‚ÐµÐºÐ»Ð°. ÐŸÐ¾Ð¶Ð°Ð»ÑƒÐ¹ÑÑ‚Ð°, Ð¿ÐµÑ€ÐµÐ³Ñ€ÑƒÐ·Ð¸Ñ‚Ðµ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ ÐµÑ‰Ðµ Ñ€Ð°Ð·.";
+$MESS ['MAIN_WIZARD_INSTALL_RELOAD_PAGE'] = "ÐŸÐµÑ€ÐµÐ³Ñ€ÑƒÐ·Ð¸Ñ‚ÑŒ";
 ?>

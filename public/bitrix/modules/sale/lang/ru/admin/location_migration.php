@@ -1,16 +1,16 @@
 <?
-$MESS["SALE_LOCATION_MIGRATION_TITLE"] = "Ïåðåõîä íà ìåñòîïîëîæåíèÿ 2.0";
-$MESS["SALE_LOCATION_MIGRATION_TAB_MIGRATION_TITLE"] = "Ïåðåõîä íà ìåñòîïîëîæåíèÿ 2.0";
-$MESS["SALE_LOCATION_MIGRATION_START"] = "Âûïîëíèòü ïåðåõîä";
-$MESS["SALE_LOCATION_MIGRATION_NEUTRAL_ERROR"] = "Ê ñîæàëåíèþ, ïðîèçîøëà îøèáêà";
-$MESS["SALE_LOCATION_MIGRATION_ERROR"] = "Îøèáêà";
-$MESS["SALE_LOCATION_MIGRATION_ALREADY_DONE"] = "Ïåðåõîä íà íîâûå ìåñòîïîëîæåíèÿ óæå áûë ïðîèçâåä¸í. Ïîâòîðíûé ïåðåõîä íå òðåáóåòñÿ.";
-$MESS["SALE_LOCATION_MIGRATION_STAGE_CREATE_TYPES"] = "Ñîçäàíèå òèïîâ ìåñòîïîëîæåíèé";
-$MESS["SALE_LOCATION_MIGRATION_STAGE_CONVERT_TREE"] = "Êîíâåðòàöèÿ äåðåâà ìåñòîïîëîæåíèé";
-$MESS["SALE_LOCATION_MIGRATION_STAGE_CONVERT_ZONES"] = "Êîíâåðòàöèÿ çîí îòâåòñòâåííîñòè ìàãàçèíîâ";
-$MESS["SALE_LOCATION_MIGRATION_STAGE_CONVERT_LINKS"] = "Êîíâåðòàöèÿ ñâÿçåé ìåæäó ñóùíîñòÿìè";
-$MESS["SALE_LOCATION_MIGRATION_STAGE_COPY_DEFAULT_LOCATIONS"] = "Êîïèðîâàíèå èçáðàííûõ ìåñòîïîëîæåíèé";
-$MESS["SALE_LOCATION_MIGRATION_STAGE_COPY_ZIP_CODES"] = "Êîïèðîâàíèå ZIP-êîäîâ";
-$MESS["SALE_LOCATION_MIGRATION_STAGE_COMPLETE"] = "Ïåðåõîä íà íîâûå ìåñòîïîëîæåíèÿ çàâåðø¸í, ïåðåíàïðàâëåíèå ...";
-$MESS["SALE_LOCATION_MIGRATION_STATUS"] = "Ñòàòóñ";
+$MESS["SALE_LOCATION_MIGRATION_TITLE"] = "ÐŸÐµÑ€ÐµÑ…Ð¾Ð´ Ð½Ð° Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ 2.0";
+$MESS["SALE_LOCATION_MIGRATION_TAB_MIGRATION_TITLE"] = "ÐŸÐµÑ€ÐµÑ…Ð¾Ð´ Ð½Ð° Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ 2.0";
+$MESS["SALE_LOCATION_MIGRATION_START"] = "Ð’Ñ‹Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÑŒ Ð¿ÐµÑ€ÐµÑ…Ð¾Ð´";
+$MESS["SALE_LOCATION_MIGRATION_NEUTRAL_ERROR"] = "Ðš ÑÐ¾Ð¶Ð°Ð»ÐµÐ½Ð¸ÑŽ, Ð¿Ñ€Ð¾Ð¸Ð·Ð¾ÑˆÐ»Ð° Ð¾ÑˆÐ¸Ð±ÐºÐ°";
+$MESS["SALE_LOCATION_MIGRATION_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ°";
+$MESS["SALE_LOCATION_MIGRATION_ALREADY_DONE"] = "ÐŸÐµÑ€ÐµÑ…Ð¾Ð´ Ð½Ð° Ð½Ð¾Ð²Ñ‹Ðµ Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ ÑƒÐ¶Ðµ Ð±Ñ‹Ð» Ð¿Ñ€Ð¾Ð¸Ð·Ð²ÐµÐ´Ñ‘Ð½. ÐŸÐ¾Ð²Ñ‚Ð¾Ñ€Ð½Ñ‹Ð¹ Ð¿ÐµÑ€ÐµÑ…Ð¾Ð´ Ð½Ðµ Ñ‚Ñ€ÐµÐ±ÑƒÐµÑ‚ÑÑ.";
+$MESS["SALE_LOCATION_MIGRATION_STAGE_CREATE_TYPES"] = "Ð¡Ð¾Ð·Ð´Ð°Ð½Ð¸Ðµ Ñ‚Ð¸Ð¿Ð¾Ð² Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹";
+$MESS["SALE_LOCATION_MIGRATION_STAGE_CONVERT_TREE"] = "ÐšÐ¾Ð½Ð²ÐµÑ€Ñ‚Ð°Ñ†Ð¸Ñ Ð´ÐµÑ€ÐµÐ²Ð° Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹";
+$MESS["SALE_LOCATION_MIGRATION_STAGE_CONVERT_ZONES"] = "ÐšÐ¾Ð½Ð²ÐµÑ€Ñ‚Ð°Ñ†Ð¸Ñ Ð·Ð¾Ð½ Ð¾Ñ‚Ð²ÐµÑ‚ÑÑ‚Ð²ÐµÐ½Ð½Ð¾ÑÑ‚Ð¸ Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ð¾Ð²";
+$MESS["SALE_LOCATION_MIGRATION_STAGE_CONVERT_LINKS"] = "ÐšÐ¾Ð½Ð²ÐµÑ€Ñ‚Ð°Ñ†Ð¸Ñ ÑÐ²ÑÐ·ÐµÐ¹ Ð¼ÐµÐ¶Ð´Ñƒ ÑÑƒÑ‰Ð½Ð¾ÑÑ‚ÑÐ¼Ð¸";
+$MESS["SALE_LOCATION_MIGRATION_STAGE_COPY_DEFAULT_LOCATIONS"] = "ÐšÐ¾Ð¿Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð¸Ð·Ð±Ñ€Ð°Ð½Ð½Ñ‹Ñ… Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹";
+$MESS["SALE_LOCATION_MIGRATION_STAGE_COPY_ZIP_CODES"] = "ÐšÐ¾Ð¿Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ ZIP-ÐºÐ¾Ð´Ð¾Ð²";
+$MESS["SALE_LOCATION_MIGRATION_STAGE_COMPLETE"] = "ÐŸÐµÑ€ÐµÑ…Ð¾Ð´ Ð½Ð° Ð½Ð¾Ð²Ñ‹Ðµ Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ Ð·Ð°Ð²ÐµÑ€ÑˆÑ‘Ð½, Ð¿ÐµÑ€ÐµÐ½Ð°Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ ...";
+$MESS["SALE_LOCATION_MIGRATION_STATUS"] = "Ð¡Ñ‚Ð°Ñ‚ÑƒÑ";
 ?>

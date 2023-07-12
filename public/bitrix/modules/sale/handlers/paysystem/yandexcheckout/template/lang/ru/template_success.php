@@ -1,3 +1,3 @@
 <?php
-$MESS["SALE_HANDLERS_PAY_SYSTEM_YANDEX_CHECKOUT_SUCCESS_TITLE"] = "Âàø çàêàç îáðàáàòûâàåòñÿ";
-$MESS["SALE_HANDLERS_PAY_SYSTEM_YANDEX_CHECKOUT_SUCCESS_DESC"] = "Îæèäàåì ïîäòâåðæäåíèå îò ïëàò¸æíîé ñèñòåìû. Ýòî ìîæåò çàíÿòü íåñêîëüêî ìèíóò";
+$MESS["SALE_HANDLERS_PAY_SYSTEM_YANDEX_CHECKOUT_SUCCESS_TITLE"] = "Ð’Ð°Ñˆ Ð·Ð°ÐºÐ°Ð· Ð¾Ð±Ñ€Ð°Ð±Ð°Ñ‚Ñ‹Ð²Ð°ÐµÑ‚ÑÑ";
+$MESS["SALE_HANDLERS_PAY_SYSTEM_YANDEX_CHECKOUT_SUCCESS_DESC"] = "ÐžÐ¶Ð¸Ð´Ð°ÐµÐ¼ Ð¿Ð¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð¸Ðµ Ð¾Ñ‚ Ð¿Ð»Ð°Ñ‚Ñ‘Ð¶Ð½Ð¾Ð¹ ÑÐ¸ÑÑ‚ÐµÐ¼Ñ‹. Ð­Ñ‚Ð¾ Ð¼Ð¾Ð¶ÐµÑ‚ Ð·Ð°Ð½ÑÑ‚ÑŒ Ð½ÐµÑÐºÐ¾Ð»ÑŒÐºÐ¾ Ð¼Ð¸Ð½ÑƒÑ‚";

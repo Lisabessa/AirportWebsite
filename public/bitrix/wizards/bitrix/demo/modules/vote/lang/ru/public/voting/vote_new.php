@@ -1,3 +1,3 @@
 <?
-$MESS ['VOTING_INSTALL_TITLE_VOTING_FORM'] = "Ôîðìà îïðîñà";
+$MESS ['VOTING_INSTALL_TITLE_VOTING_FORM'] = "Ð¤Ð¾Ñ€Ð¼Ð° Ð¾Ð¿Ñ€Ð¾ÑÐ°";
 ?>

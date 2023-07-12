@@ -1,2 +1,2 @@
 <?
-$MESS['SALE_ORDER_TP_LANDING'] = 'Ëåíäèíã';
+$MESS['SALE_ORDER_TP_LANDING'] = 'Ð›ÐµÐ½Ð´Ð¸Ð½Ð³';

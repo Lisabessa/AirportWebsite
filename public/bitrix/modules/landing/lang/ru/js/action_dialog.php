@@ -1,5 +1,5 @@
 <?
-$MESS["LANDING_ACTION_DIALOG_TITLE"] = "Âíèìàíèå";
-$MESS["LANDING_ACTION_DIALOG_CONTENT"] = "Ïîäòâåðäèòå äåéñòâèå";
-$MESS["LANDING_ACTION_DIALOG_CONFIRM_BUTTON"] = "Ïðîäîëæèòü";
-$MESS["LANDING_ACTION_DIALOG_CANCEL_BUTTON"] = "Îòìåíèòü";
+$MESS["LANDING_ACTION_DIALOG_TITLE"] = "Ð’Ð½Ð¸Ð¼Ð°Ð½Ð¸Ðµ";
+$MESS["LANDING_ACTION_DIALOG_CONTENT"] = "ÐŸÐ¾Ð´Ñ‚Ð²ÐµÑ€Ð´Ð¸Ñ‚Ðµ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ðµ";
+$MESS["LANDING_ACTION_DIALOG_CONFIRM_BUTTON"] = "ÐŸÑ€Ð¾Ð´Ð¾Ð»Ð¶Ð¸Ñ‚ÑŒ";
+$MESS["LANDING_ACTION_DIALOG_CANCEL_BUTTON"] = "ÐžÑ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";

@@ -1,2 +1,2 @@
 <?php
-$MESS['LANDING_HOOK_UP_SHOW'] = 'Êíîïêà &laquo;Ââåðõ&raquo;';
+$MESS['LANDING_HOOK_UP_SHOW'] = 'ÐšÐ½Ð¾Ð¿ÐºÐ° &laquo;Ð’Ð²ÐµÑ€Ñ…&raquo;';

@@ -1,12 +1,12 @@
 <?
-$MESS ['get_start_menu_dbl'] = "(äâîéíîé ùåë÷îê - ïåðåéòè)";
-$MESS ['get_start_menu_loading'] = "Çàãðóçêà...";
-$MESS ['get_start_menu_loading_title'] = "Çàãðóæàþòñÿ ïóíêòû ìåíþ...";
-$MESS ['get_start_menu_no_data'] = "- Íåò äàííûõ -";
-$MESS ['get_start_menu_add_fav'] = "Äîáàâèòü â èçáðàííîå...";
-$MESS ['get_start_menu_add_fav_title'] = "Äîáàâèòü òåêóùóþ ñòðàíèöó â èçáðàííîå";
-$MESS ['get_start_menu_org_fav'] = "Îðãàíèçîâàòü èçáðàííîå...";
-$MESS ['get_start_menu_org_fav_title'] = "Îòêðûòü ñïèñîê èçáðàííûõ ññûëîê";
-$MESS ['get_start_menu_fav'] = "Èçáðàííîå";
-$MESS ['get_start_menu_fav_title'] = "Èçáðàííûå ññûëêè";
+$MESS ['get_start_menu_dbl'] = "(Ð´Ð²Ð¾Ð¹Ð½Ð¾Ð¹ Ñ‰ÐµÐ»Ñ‡Ð¾Ðº - Ð¿ÐµÑ€ÐµÐ¹Ñ‚Ð¸)";
+$MESS ['get_start_menu_loading'] = "Ð—Ð°Ð³Ñ€ÑƒÐ·ÐºÐ°...";
+$MESS ['get_start_menu_loading_title'] = "Ð—Ð°Ð³Ñ€ÑƒÐ¶Ð°ÑŽÑ‚ÑÑ Ð¿ÑƒÐ½ÐºÑ‚Ñ‹ Ð¼ÐµÐ½ÑŽ...";
+$MESS ['get_start_menu_no_data'] = "- ÐÐµÑ‚ Ð´Ð°Ð½Ð½Ñ‹Ñ… -";
+$MESS ['get_start_menu_add_fav'] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð² Ð¸Ð·Ð±Ñ€Ð°Ð½Ð½Ð¾Ðµ...";
+$MESS ['get_start_menu_add_fav_title'] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ñ‚ÐµÐºÑƒÑ‰ÑƒÑŽ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ Ð² Ð¸Ð·Ð±Ñ€Ð°Ð½Ð½Ð¾Ðµ";
+$MESS ['get_start_menu_org_fav'] = "ÐžÑ€Ð³Ð°Ð½Ð¸Ð·Ð¾Ð²Ð°Ñ‚ÑŒ Ð¸Ð·Ð±Ñ€Ð°Ð½Ð½Ð¾Ðµ...";
+$MESS ['get_start_menu_org_fav_title'] = "ÐžÑ‚ÐºÑ€Ñ‹Ñ‚ÑŒ ÑÐ¿Ð¸ÑÐ¾Ðº Ð¸Ð·Ð±Ñ€Ð°Ð½Ð½Ñ‹Ñ… ÑÑÑ‹Ð»Ð¾Ðº";
+$MESS ['get_start_menu_fav'] = "Ð˜Ð·Ð±Ñ€Ð°Ð½Ð½Ð¾Ðµ";
+$MESS ['get_start_menu_fav_title'] = "Ð˜Ð·Ð±Ñ€Ð°Ð½Ð½Ñ‹Ðµ ÑÑÑ‹Ð»ÐºÐ¸";
 ?>

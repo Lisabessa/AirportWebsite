@@ -1,3 +1,3 @@
 <?
-$MESS["SALE_SRV_LOCATION_CANT_INCLUDE_MODULE"] = "Íå óäàëîñü ïîäêëþ÷èòü ìîäóëü \"Èíòåðíåò ìàãàçèí\"";
-$MESS["SALE_SRV_LOCATION_ACCESS_DENIED"] = "Äîñòóï çàïðåùåí!";
+$MESS["SALE_SRV_LOCATION_CANT_INCLUDE_MODULE"] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ Ð¿Ð¾Ð´ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ Ð¼Ð¾Ð´ÑƒÐ»ÑŒ \"Ð˜Ð½Ñ‚ÐµÑ€Ð½ÐµÑ‚ Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½\"";
+$MESS["SALE_SRV_LOCATION_ACCESS_DENIED"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ð·Ð°Ð¿Ñ€ÐµÑ‰ÐµÐ½!";

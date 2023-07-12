@@ -1,7 +1,7 @@
 <?if (!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED !== true) die();?><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
 <head>
-<title>Оплата через WebMoney</title>
+<title>РћРїР»Р°С‚Р° С‡РµСЂРµР· WebMoney</title>
 <meta http-equiv="Content-Type" content="text/html; charset=<?= LANG_CHARSET ?>">
 </head>
 <body bgColor="#ffffff">
@@ -11,37 +11,37 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && $_POST["SendAdditionalInfo"] <> '')
 {
 	$strSql = 
 		"UPDATE b_sale_order SET ".
-		"	ADDITIONAL_INFO = 'Идентификатор в системе WebMoney: ".$DB->ForSql($_POST["WEBMONEY_ID"], 150)."' ".
+		"	ADDITIONAL_INFO = 'РРґРµРЅС‚РёС„РёРєР°С‚РѕСЂ РІ СЃРёСЃС‚РµРјРµ WebMoney: ".$DB->ForSql($_POST["WEBMONEY_ID"], 150)."' ".
 		"WHERE ID=".$ORDER_ID." AND USER_ID=".intval($USER->GetID())." AND PAYED<>'Y'";
 	$DB->Query($strSql);
 	?>
-	<font class="text"><font color="#006600"><b>Спасибо, ваш идентификатор записан. Вы можете закрыть данное окно.</b></font></font>
+	<font class="text"><font color="#006600"><b>РЎРїР°СЃРёР±Рѕ, РІР°С€ РёРґРµРЅС‚РёС„РёРєР°С‚РѕСЂ Р·Р°РїРёСЃР°РЅ. Р’С‹ РјРѕР¶РµС‚Рµ Р·Р°РєСЂС‹С‚СЊ РґР°РЅРЅРѕРµ РѕРєРЅРѕ.</b></font></font>
 	<?
 }
 ?>
-<p><font class="tablebodytext"><b>Счет № <?= $ORDER_ID ?> от <?= htmlspecialcharsbx($GLOBALS["SALE_INPUT_PARAMS"]["ORDER"]["DATE_INSERT"]) ?></b></font></p>
+<p><font class="tablebodytext"><b>РЎС‡РµС‚ в„– <?= $ORDER_ID ?> РѕС‚ <?= htmlspecialcharsbx($GLOBALS["SALE_INPUT_PARAMS"]["ORDER"]["DATE_INSERT"]) ?></b></font></p>
 <p>
-Сумма к оплате: <b><?echo SaleFormatCurrency($GLOBALS["SALE_INPUT_PARAMS"]["ORDER"]["SHOULD_PAY"], $GLOBALS["SALE_INPUT_PARAMS"]["ORDER"]["CURRENCY"]) ?></b>
+РЎСѓРјРјР° Рє РѕРїР»Р°С‚Рµ: <b><?echo SaleFormatCurrency($GLOBALS["SALE_INPUT_PARAMS"]["ORDER"]["SHOULD_PAY"], $GLOBALS["SALE_INPUT_PARAMS"]["ORDER"]["CURRENCY"]) ?></b>
 </font></p>
 
 <form method="POST" action="">
 <p><font class="tablebodytext">
-Пожалуйста, сообщите ваш идентификатор в системе WebMoney. 
-В течение 24 часов мы вышлем вам счет для
-оплаты средствами системы WebMoney.</font></p>
+РџРѕР¶Р°Р»СѓР№СЃС‚Р°, СЃРѕРѕР±С‰РёС‚Рµ РІР°С€ РёРґРµРЅС‚РёС„РёРєР°С‚РѕСЂ РІ СЃРёСЃС‚РµРјРµ WebMoney. 
+Р’ С‚РµС‡РµРЅРёРµ 24 С‡Р°СЃРѕРІ РјС‹ РІС‹С€Р»РµРј РІР°Рј СЃС‡РµС‚ РґР»СЏ
+РѕРїР»Р°С‚С‹ СЃСЂРµРґСЃС‚РІР°РјРё СЃРёСЃС‚РµРјС‹ WebMoney.</font></p>
 <table border="0" cellspacing="0" cellpadding="3">
 <tr>
-	<td><font class="tableheadtext">Идентификатор:</font></td>
+	<td><font class="tableheadtext">РРґРµРЅС‚РёС„РёРєР°С‚РѕСЂ:</font></td>
 	<td><font size="-1"><input type="text" name="WEBMONEY_ID" size="30" value="<?= htmlspecialcharsbx($WEBMONEY_ID) ?>"></font></td>
 </tr>
 </table>
 <p><font class="tablebodytext">
 <input type="hidden" name="ORDER_ID" value="<?= $ORDER_ID ?>">
 <input type="hidden" name="SendAdditionalInfo" value="send">
-<input type="submit" name="SendAdditionalInfo" value="Отправить"></font></p>
+<input type="submit" name="SendAdditionalInfo" value="РћС‚РїСЂР°РІРёС‚СЊ"></font></p>
 </form>
 
-<p><font class="tablebodytext">Счет действителен в течение трех дней.</font></p>
+<p><font class="tablebodytext">РЎС‡РµС‚ РґРµР№СЃС‚РІРёС‚РµР»РµРЅ РІ С‚РµС‡РµРЅРёРµ С‚СЂРµС… РґРЅРµР№.</font></p>
 
 </body>
 </html>

@@ -1,15 +1,15 @@
 <?
-$MESS ['SONET_C24_T_SEARCH_TITLE'] = "Ïîèñê ïî ãðóïïàì";
-$MESS ['SONET_C24_T_SEARCH'] = "Èñêàòü";
-$MESS ['SONET_C24_T_SUBJECT'] = "Â òåìå";
-$MESS ['SONET_C24_T_ANY'] = "Ëþáàÿ";
-$MESS ['SONET_C24_T_DO_SEARCH'] = "&nbsp;&nbsp;Èñêàòü&nbsp;&nbsp;";
-$MESS ['SONET_C24_T_DO_CANCEL'] = "&nbsp;&nbsp;Îòìåíà&nbsp;&nbsp;";
-$MESS ['SONET_C24_T_CREATE_GROUP'] = "Ñîçäàòü ãðóïïó";
-$MESS ['SONET_C24_T_SUBJ'] = "Òåìà";
-$MESS ['SONET_C24_T_MEMBERS'] = "ó÷àñòíèêîâ";
-$MESS ['SONET_C24_T_ACTIVITY'] = "èçìåíåíèÿ";
-$MESS ['SONET_C24_T_ORDER_REL'] = "Ñîðòèðîâàòü ïî ðåëåâàíòíîñòè";
-$MESS ['SONET_C24_T_ORDER_DATE'] = "Ñîðòèðîâàòü ïî äàòå";
-$MESS ['SONET_C39_ARCHIVE_GROUP'] = "Àðõèâíàÿ ãðóïïà";
+$MESS ['SONET_C24_T_SEARCH_TITLE'] = "ÐŸÐ¾Ð¸ÑÐº Ð¿Ð¾ Ð³Ñ€ÑƒÐ¿Ð¿Ð°Ð¼";
+$MESS ['SONET_C24_T_SEARCH'] = "Ð˜ÑÐºÐ°Ñ‚ÑŒ";
+$MESS ['SONET_C24_T_SUBJECT'] = "Ð’ Ñ‚ÐµÐ¼Ðµ";
+$MESS ['SONET_C24_T_ANY'] = "Ð›ÑŽÐ±Ð°Ñ";
+$MESS ['SONET_C24_T_DO_SEARCH'] = "&nbsp;&nbsp;Ð˜ÑÐºÐ°Ñ‚ÑŒ&nbsp;&nbsp;";
+$MESS ['SONET_C24_T_DO_CANCEL'] = "&nbsp;&nbsp;ÐžÑ‚Ð¼ÐµÐ½Ð°&nbsp;&nbsp;";
+$MESS ['SONET_C24_T_CREATE_GROUP'] = "Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ Ð³Ñ€ÑƒÐ¿Ð¿Ñƒ";
+$MESS ['SONET_C24_T_SUBJ'] = "Ð¢ÐµÐ¼Ð°";
+$MESS ['SONET_C24_T_MEMBERS'] = "ÑƒÑ‡Ð°ÑÑ‚Ð½Ð¸ÐºÐ¾Ð²";
+$MESS ['SONET_C24_T_ACTIVITY'] = "Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ";
+$MESS ['SONET_C24_T_ORDER_REL'] = "Ð¡Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ð¿Ð¾ Ñ€ÐµÐ»ÐµÐ²Ð°Ð½Ñ‚Ð½Ð¾ÑÑ‚Ð¸";
+$MESS ['SONET_C24_T_ORDER_DATE'] = "Ð¡Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ð¿Ð¾ Ð´Ð°Ñ‚Ðµ";
+$MESS ['SONET_C39_ARCHIVE_GROUP'] = "ÐÑ€Ñ…Ð¸Ð²Ð½Ð°Ñ Ð³Ñ€ÑƒÐ¿Ð¿Ð°";
 ?>

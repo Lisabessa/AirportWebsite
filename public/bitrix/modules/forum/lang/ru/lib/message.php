@@ -1,3 +1,3 @@
 <?
-$MESS["FORUM_EVENT_BEFOREUPDATE_ERROR"] = "Îøèáêà èçìåíåíèÿ ñîîáùåíèÿ";
-$MESS["FORUM_EVENT_BEFOREADD_ERROR"] = "Îøèáêà äîáàâëåíèÿ ñîîáùåíèÿ";
+$MESS["FORUM_EVENT_BEFOREUPDATE_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
+$MESS["FORUM_EVENT_BEFOREADD_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ñ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";

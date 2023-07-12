@@ -1,3 +1,3 @@
 <?
-$MESS["CALENDAR_UPDATE_STRUCTURE_TITLE"] = "Âûïîëíÿåòñÿ îïòèìèçàöèÿ ñòðóêòóðû";
+$MESS["CALENDAR_UPDATE_STRUCTURE_TITLE"] = "Ð’Ñ‹Ð¿Ð¾Ð»Ð½ÑÐµÑ‚ÑÑ Ð¾Ð¿Ñ‚Ð¸Ð¼Ð¸Ð·Ð°Ñ†Ð¸Ñ ÑÑ‚Ñ€ÑƒÐºÑ‚ÑƒÑ€Ñ‹";
 ?>

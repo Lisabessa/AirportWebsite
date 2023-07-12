@@ -1,5 +1,5 @@
 <?
-$MESS["top_panel_updates"] = "Доступны обновления продукта";
-$MESS["top_panel_updates_modules"] = " (обновлений модулей: <b>#MODULE_COUNT#</b>)";
-$MESS["top_panel_updates_err"] = "Ошибки при обновлении:";
-$MESS["top_panel_updates_settings"] = "Настроить автопроверку";
+$MESS["top_panel_updates"] = "Р”РѕСЃС‚СѓРїРЅС‹ РѕР±РЅРѕРІР»РµРЅРёСЏ РїСЂРѕРґСѓРєС‚Р°";
+$MESS["top_panel_updates_modules"] = " (РѕР±РЅРѕРІР»РµРЅРёР№ РјРѕРґСѓР»РµР№: <b>#MODULE_COUNT#</b>)";
+$MESS["top_panel_updates_err"] = "РћС€РёР±РєРё РїСЂРё РѕР±РЅРѕРІР»РµРЅРёРё:";
+$MESS["top_panel_updates_settings"] = "РќР°СЃС‚СЂРѕРёС‚СЊ Р°РІС‚РѕРїСЂРѕРІРµСЂРєСѓ";

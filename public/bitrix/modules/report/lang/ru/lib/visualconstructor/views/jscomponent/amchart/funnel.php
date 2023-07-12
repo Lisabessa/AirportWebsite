@@ -1,2 +1,2 @@
 <?php
-$MESS['REPORT_FUNNEL_VIEW_LABEL'] = 'Воронка';
+$MESS['REPORT_FUNNEL_VIEW_LABEL'] = 'Р’РѕСЂРѕРЅРєР°';

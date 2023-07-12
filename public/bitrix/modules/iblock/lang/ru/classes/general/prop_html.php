@@ -1,7 +1,7 @@
 <?
-$MESS["IBLOCK_PROP_HTML_DESCRIPTION_TITLE"] = "Îïèñàíèå çíà÷åíèÿ ñâîéñòâà";
-$MESS["IBLOCK_PROP_HTML_DESCRIPTION_LABEL"] = "Îïèñàíèå";
-$MESS["IBLOCK_PROP_HTML_NOFILEMAN_ERROR"] = "Ìîäóëü \"Óïðàâëåíèå ñòðóêòóðîé\" íå óñòàíîâëåí";
-$MESS["IBLOCK_PROP_HTML_SETTING_HEIGHT"] = "Âûñîòà îêíà ðåäàêòîðà";
-$MESS["IBLOCK_PROP_HTML_DESC"] = "HTML/òåêñò";
+$MESS["IBLOCK_PROP_HTML_DESCRIPTION_TITLE"] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ñ ÑÐ²Ð¾Ð¹ÑÑ‚Ð²Ð°";
+$MESS["IBLOCK_PROP_HTML_DESCRIPTION_LABEL"] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ";
+$MESS["IBLOCK_PROP_HTML_NOFILEMAN_ERROR"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ \"Ð£Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ ÑÑ‚Ñ€ÑƒÐºÑ‚ÑƒÑ€Ð¾Ð¹\" Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½";
+$MESS["IBLOCK_PROP_HTML_SETTING_HEIGHT"] = "Ð’Ñ‹ÑÐ¾Ñ‚Ð° Ð¾ÐºÐ½Ð° Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¾Ñ€Ð°";
+$MESS["IBLOCK_PROP_HTML_DESC"] = "HTML/Ñ‚ÐµÐºÑÑ‚";
 ?>

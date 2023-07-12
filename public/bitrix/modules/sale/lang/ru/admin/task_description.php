@@ -1,5 +1,5 @@
 <?
-$MESS['TASK_BINDING_STATUS'] = 'Ñòàòóñ çàêàçà';
-$MESS['TASK_NAME_SALE_STATUS_NONE'] = 'Äîñòóï çàêðûò';
+$MESS['TASK_BINDING_STATUS'] = 'Ð¡Ñ‚Ð°Ñ‚ÑƒÑ Ð·Ð°ÐºÐ°Ð·Ð°';
+$MESS['TASK_NAME_SALE_STATUS_NONE'] = 'Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ð·Ð°ÐºÑ€Ñ‹Ñ‚';
 //$MESS['TASK_DESC_SALE_STATUS_NONE'] = '';
-$MESS['TASK_NAME_SALE_STATUS_ALL'] = 'Ïîëíûé äîñòóï';
+$MESS['TASK_NAME_SALE_STATUS_ALL'] = 'ÐŸÐ¾Ð»Ð½Ñ‹Ð¹ Ð´Ð¾ÑÑ‚ÑƒÐ¿';

@@ -1,11 +1,11 @@
 <?php
-$MESS['LANDING_HOOK_SETTINGS_IBLOCK_ID'] = 'Èíôîáëîê';
-$MESS['LANDING_HOOK_SETTINGS_CART_POSITION'] = 'Ïîëîæåíèå êîðçèíû';
-$MESS['LANDING_HOOK_SETTINGS_CART_POSITION_TC'] = 'Ââåðõó ïî öåíòðó';
-$MESS['LANDING_HOOK_SETTINGS_CART_POSITION_TR'] = 'Ñïðàâà ââåðõó';
-$MESS['LANDING_HOOK_SETTINGS_CART_POSITION_CR'] = 'Ñïðàâà ïî öåíòðó';
-$MESS['LANDING_HOOK_SETTINGS_CART_POSITION_BR'] = 'Ñïðàâà âíèçó';
-$MESS['LANDING_HOOK_SETTINGS_CART_POSITION_BC'] = 'Âíèçó ïî öåíòðó';
-$MESS['LANDING_HOOK_SETTINGS_CART_POSITION_BL'] = 'Ñëåâà âíèçó';
-$MESS['LANDING_HOOK_SETTINGS_CART_POSITION_CL'] = 'Ñëåâà ïî öåíòðó';
-$MESS['LANDING_HOOK_SETTINGS_CART_POSITION_TL'] = 'Ñëåâà ââåðõó';
+$MESS['LANDING_HOOK_SETTINGS_IBLOCK_ID'] = 'Ð˜Ð½Ñ„Ð¾Ð±Ð»Ð¾Ðº';
+$MESS['LANDING_HOOK_SETTINGS_CART_POSITION'] = 'ÐŸÐ¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ ÐºÐ¾Ñ€Ð·Ð¸Ð½Ñ‹';
+$MESS['LANDING_HOOK_SETTINGS_CART_POSITION_TC'] = 'Ð’Ð²ÐµÑ€Ñ…Ñƒ Ð¿Ð¾ Ñ†ÐµÐ½Ñ‚Ñ€Ñƒ';
+$MESS['LANDING_HOOK_SETTINGS_CART_POSITION_TR'] = 'Ð¡Ð¿Ñ€Ð°Ð²Ð° Ð²Ð²ÐµÑ€Ñ…Ñƒ';
+$MESS['LANDING_HOOK_SETTINGS_CART_POSITION_CR'] = 'Ð¡Ð¿Ñ€Ð°Ð²Ð° Ð¿Ð¾ Ñ†ÐµÐ½Ñ‚Ñ€Ñƒ';
+$MESS['LANDING_HOOK_SETTINGS_CART_POSITION_BR'] = 'Ð¡Ð¿Ñ€Ð°Ð²Ð° Ð²Ð½Ð¸Ð·Ñƒ';
+$MESS['LANDING_HOOK_SETTINGS_CART_POSITION_BC'] = 'Ð’Ð½Ð¸Ð·Ñƒ Ð¿Ð¾ Ñ†ÐµÐ½Ñ‚Ñ€Ñƒ';
+$MESS['LANDING_HOOK_SETTINGS_CART_POSITION_BL'] = 'Ð¡Ð»ÐµÐ²Ð° Ð²Ð½Ð¸Ð·Ñƒ';
+$MESS['LANDING_HOOK_SETTINGS_CART_POSITION_CL'] = 'Ð¡Ð»ÐµÐ²Ð° Ð¿Ð¾ Ñ†ÐµÐ½Ñ‚Ñ€Ñƒ';
+$MESS['LANDING_HOOK_SETTINGS_CART_POSITION_TL'] = 'Ð¡Ð»ÐµÐ²Ð° Ð²Ð²ÐµÑ€Ñ…Ñƒ';

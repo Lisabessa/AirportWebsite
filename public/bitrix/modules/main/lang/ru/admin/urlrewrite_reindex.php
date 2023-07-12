@@ -1,18 +1,18 @@
 <?
-$MESS ['MURL_REINDEX_TOTAL'] = "Îáðàáîòàíî äîêóìåíòîâ:";
-$MESS ['MURL_REINDEX_COMPLETE'] = "Ïåðåñîçäàíèå ïðàâèë çàâåðøåíî.";
-$MESS ['MURL_REINDEX_TITLE'] = "Ïåðåñîçäàíèå ïðàâèë îáðàáîòêè àäðåñîâ";
-$MESS ['MURL_REINDEX_TAB'] = "Ïåðåñîçäàíèå";
-$MESS ['MURL_REINDEX_TAB_TITLE'] = "Ïàðàìåòðû ñîçäàíèÿ";
-$MESS ['MURL_REINDEX_MAX_SIZE'] = "Ìàêñèìàëüíûé ðàçìåð äîêóìåíòà:";
-$MESS ['MURL_REINDEX_MAX_SIZE_kb'] = "êá";
-$MESS ['MURL_REINDEX_STEPPED'] = "Ñîçäàòü ïî øàãàì:";
-$MESS ['MURL_REINDEX_STEP'] = "Øàã:";
-$MESS ['MURL_REINDEX_STEP_sec'] = "ñåêóíä";
-$MESS ['MURL_REINDEX_SITE'] = "Ñàéò:";
-$MESS ['MURL_REINDEX_ALL'] = "(âñå)";
-$MESS ['MURL_REINDEX_REINDEX_BUTTON'] = "Ïåðåñîçäàòü";
-$MESS ['MURL_REINDEX_STOP'] = "Îñòàíîâèòü";
-$MESS ['MURL_REINDEX_CONTINUE'] = "Ïðîäîëæèòü";
-$MESS ['url_rewrite_mess_title'] = "Ïåðåèíäåêñàöèÿ...";
+$MESS ['MURL_REINDEX_TOTAL'] = "ÐžÐ±Ñ€Ð°Ð±Ð¾Ñ‚Ð°Ð½Ð¾ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð¾Ð²:";
+$MESS ['MURL_REINDEX_COMPLETE'] = "ÐŸÐµÑ€ÐµÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ðµ Ð¿Ñ€Ð°Ð²Ð¸Ð» Ð·Ð°Ð²ÐµÑ€ÑˆÐµÐ½Ð¾.";
+$MESS ['MURL_REINDEX_TITLE'] = "ÐŸÐµÑ€ÐµÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ðµ Ð¿Ñ€Ð°Ð²Ð¸Ð» Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ¸ Ð°Ð´Ñ€ÐµÑÐ¾Ð²";
+$MESS ['MURL_REINDEX_TAB'] = "ÐŸÐµÑ€ÐµÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ðµ";
+$MESS ['MURL_REINDEX_TAB_TITLE'] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ";
+$MESS ['MURL_REINDEX_MAX_SIZE'] = "ÐœÐ°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ñ‹Ð¹ Ñ€Ð°Ð·Ð¼ÐµÑ€ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð°:";
+$MESS ['MURL_REINDEX_MAX_SIZE_kb'] = "ÐºÐ±";
+$MESS ['MURL_REINDEX_STEPPED'] = "Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ Ð¿Ð¾ ÑˆÐ°Ð³Ð°Ð¼:";
+$MESS ['MURL_REINDEX_STEP'] = "Ð¨Ð°Ð³:";
+$MESS ['MURL_REINDEX_STEP_sec'] = "ÑÐµÐºÑƒÐ½Ð´";
+$MESS ['MURL_REINDEX_SITE'] = "Ð¡Ð°Ð¹Ñ‚:";
+$MESS ['MURL_REINDEX_ALL'] = "(Ð²ÑÐµ)";
+$MESS ['MURL_REINDEX_REINDEX_BUTTON'] = "ÐŸÐµÑ€ÐµÑÐ¾Ð·Ð´Ð°Ñ‚ÑŒ";
+$MESS ['MURL_REINDEX_STOP'] = "ÐžÑÑ‚Ð°Ð½Ð¾Ð²Ð¸Ñ‚ÑŒ";
+$MESS ['MURL_REINDEX_CONTINUE'] = "ÐŸÑ€Ð¾Ð´Ð¾Ð»Ð¶Ð¸Ñ‚ÑŒ";
+$MESS ['url_rewrite_mess_title'] = "ÐŸÐµÑ€ÐµÐ¸Ð½Ð´ÐµÐºÑÐ°Ñ†Ð¸Ñ...";
 ?>

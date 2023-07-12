@@ -1,3 +1,3 @@
 <?
-$MESS["SENDER_ENTITY_SEGMENT_ERROR_NO_FILTERS"] = "Íå äîáàâëåí íè îäèí ôèëüòð.";
+$MESS["SENDER_ENTITY_SEGMENT_ERROR_NO_FILTERS"] = "ÐÐµ Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½ Ð½Ð¸ Ð¾Ð´Ð¸Ð½ Ñ„Ð¸Ð»ÑŒÑ‚Ñ€.";
 ?>

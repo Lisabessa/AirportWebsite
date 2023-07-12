@@ -1,6 +1,6 @@
 <?php
-$MESS["IM_CONFERENCE_EDIT_ERROR_IM_NOT_INSTALLED"] = "Ìîäóëü âåá-ìåññåíäæåðà íå óñòàíîâëåí";
-$MESS["IM_CONFERENCE_EDIT_ERROR_WRONG_ID"] = "Íåâåðíûé èäåíòèôèêàòîð êîíôåðåíöèè";
-$MESS["IM_CONFERENCE_EDIT_ERROR_CANT_EDIT"] = "Âû íå ìîæåòå ðåäàêòèðîâàòü ýòó êîíôåðåíöèþ";
-$MESS["IM_CONFERENCE_EDIT_CREATION_ERROR"] = "Ïðîèçîøëà îøèáêà ïðè ñîçäàíèè êîíôåðåíöèè";
-$MESS["IM_CONFERENCE_EDIT_ERROR_WRONG_ALIAS"] = "Ïðîèçîøëà îøèáêà ïðè ñîçäàíèè êîíôåðåíöèè";
+$MESS["IM_CONFERENCE_EDIT_ERROR_IM_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð²ÐµÐ±-Ð¼ÐµÑÑÐµÐ½Ð´Ð¶ÐµÑ€Ð° Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½";
+$MESS["IM_CONFERENCE_EDIT_ERROR_WRONG_ID"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÐºÐ¾Ð½Ñ„ÐµÑ€ÐµÐ½Ñ†Ð¸Ð¸";
+$MESS["IM_CONFERENCE_EDIT_ERROR_CANT_EDIT"] = "Ð’Ñ‹ Ð½Ðµ Ð¼Ð¾Ð¶ÐµÑ‚Ðµ Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ ÑÑ‚Ñƒ ÐºÐ¾Ð½Ñ„ÐµÑ€ÐµÐ½Ñ†Ð¸ÑŽ";
+$MESS["IM_CONFERENCE_EDIT_CREATION_ERROR"] = "ÐŸÑ€Ð¾Ð¸Ð·Ð¾ÑˆÐ»Ð° Ð¾ÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ð¸ ÐºÐ¾Ð½Ñ„ÐµÑ€ÐµÐ½Ñ†Ð¸Ð¸";
+$MESS["IM_CONFERENCE_EDIT_ERROR_WRONG_ALIAS"] = "ÐŸÑ€Ð¾Ð¸Ð·Ð¾ÑˆÐ»Ð° Ð¾ÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ð¸ ÐºÐ¾Ð½Ñ„ÐµÑ€ÐµÐ½Ñ†Ð¸Ð¸";

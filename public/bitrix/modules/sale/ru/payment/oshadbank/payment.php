@@ -1,7 +1,7 @@
 <?if (!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED !== true) die();?><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
 <head>
-<title>КВИТАНЦІЯ</title>
+<title>РљР’РРўРђРќР¦Р†РЇ</title>
 <meta http-equiv="Content-Type" content="text/html; charset=<?= LANG_CHARSET ?>">
 
 <style type="text/css">
@@ -140,16 +140,16 @@
 </head>
 <body bgColor="#fff">
 <?
-$arKvit = array(0 => "ПОВІДОМЛЕННЯ", 1 => "КВИТАНЦІЯ");
+$arKvit = array(0 => "РџРћР’Р†Р”РћРњР›Р•РќРќРЇ", 1 => "РљР’РРўРђРќР¦Р†РЇ");
 ?>
 <table class="b_kvit">
 	<?for ($i = 0;$i < 2;$i++):?>
 	<tr>
 		<td class="print"><?=$arKvit[$i]?></td>
 		<td class="content">
-			<div class="form">додаток №61 ф.3</div>
+			<div class="form">РґРѕРґР°С‚РѕРє в„–61 С„.3</div>
 
-			<div class="text">Отримувач платежу<span><?=(CSalePaySystemAction::GetParamValue("RECIPIENT_NAME"))?></span></div>
+			<div class="text">РћС‚СЂРёРјСѓРІР°С‡ РїР»Р°С‚РµР¶Сѓ<span><?=(CSalePaySystemAction::GetParamValue("RECIPIENT_NAME"))?></span></div>
 
 			<table>
 				<tr>
@@ -158,13 +158,13 @@ $arKvit = array(0 => "ПОВІДОМЛЕННЯ", 1 => "КВИТАНЦІЯ");
 					<td class="id"><?=(CSalePaySystemAction::GetParamValue("RECIPIENT_ID"))?></td>
 				</tr>
 				<tr class="comment">
-					<td>Поточний рахунок отримувача</td>
+					<td>РџРѕС‚РѕС‡РЅРёР№ СЂР°С…СѓРЅРѕРє РѕС‚СЂРёРјСѓРІР°С‡Р°</td>
 					<td></td>
-					<td>Ідентифікаційний код отримувача</td>
+					<td>Р†РґРµРЅС‚РёС„С–РєР°С†С–Р№РЅРёР№ РєРѕРґ РѕС‚СЂРёРјСѓРІР°С‡Р°</td>
 				</tr>
 			</table>
 
-			<div class="text">Дата валютування <b><input type="text" value="<?=date("d.m.Y")?>" ></b></div>
+			<div class="text">Р”Р°С‚Р° РІР°Р»СЋС‚СѓРІР°РЅРЅСЏ <b><input type="text" value="<?=date("d.m.Y")?>" ></b></div>
 
 			<table>
 				<tr>
@@ -172,8 +172,8 @@ $arKvit = array(0 => "ПОВІДОМЛЕННЯ", 1 => "КВИТАНЦІЯ");
 					<td class="id"><?=(CSalePaySystemAction::GetParamValue("RECIPIENT_CODE_BANK"))?></td>
 				</tr>
 				<tr class="comment">
-					<td>Установа банку</td>
-					<td>Код установи банку</td>
+					<td>РЈСЃС‚Р°РЅРѕРІР° Р±Р°РЅРєСѓ</td>
+					<td>РљРѕРґ СѓСЃС‚Р°РЅРѕРІРё Р±Р°РЅРєСѓ</td>
 				</tr>
 			</table>
 
@@ -185,7 +185,7 @@ $arKvit = array(0 => "ПОВІДОМЛЕННЯ", 1 => "КВИТАНЦІЯ");
 					$adres .= ($adres<>""? ", ":"").CSalePaySystemAction::GetParamValue("PAYER_INDEX");
 
 				if (CSalePaySystemAction::GetParamValue("PAYER_TOWN") <> '')
-					$adres .= ($adres<>""? ", ":"")."г.".CSalePaySystemAction::GetParamValue("PAYER_TOWN");
+					$adres .= ($adres<>""? ", ":"")."Рі.".CSalePaySystemAction::GetParamValue("PAYER_TOWN");
 
 				if (CSalePaySystemAction::GetParamValue("PAYER_ADRES") <> '')
 					$adres .= ($adres<>""? ", ":"").CSalePaySystemAction::GetParamValue("PAYER_ADRES");
@@ -193,7 +193,7 @@ $arKvit = array(0 => "ПОВІДОМЛЕННЯ", 1 => "КВИТАНЦІЯ");
 				echo $adres;
 				?>
 			</div>
-			<div class="text comment">Прізвище, ім'я та по батькові, адреса платника</div>
+			<div class="text comment">РџСЂС–Р·РІРёС‰Рµ, С–Рј'СЏ С‚Р° РїРѕ Р±Р°С‚СЊРєРѕРІС–, Р°РґСЂРµСЃР° РїР»Р°С‚РЅРёРєР°</div>
 
 			<table>
 				<tr>
@@ -202,25 +202,25 @@ $arKvit = array(0 => "ПОВІДОМЛЕННЯ", 1 => "КВИТАНЦІЯ");
 				</tr>
 				<tr class="comment">
 					<td></td>
-					<td>Код установи банку</td>
+					<td>РљРѕРґ СѓСЃС‚Р°РЅРѕРІРё Р±Р°РЅРєСѓ</td>
 				</tr>
 			</table>
 
 			<table>
 				<tr>
-					<td class="list">Призначення платежу</td>
-					<td class="list val">оплата заказа № <?=(CSalePaySystemAction::GetParamValue("ORDER_ID"))?> от <?=(CSalePaySystemAction::GetParamValue("ORDER_DATE"))?></td>
+					<td class="list">РџСЂРёР·РЅР°С‡РµРЅРЅСЏ РїР»Р°С‚РµР¶Сѓ</td>
+					<td class="list val">РѕРїР»Р°С‚Р° Р·Р°РєР°Р·Р° в„– <?=(CSalePaySystemAction::GetParamValue("ORDER_ID"))?> РѕС‚ <?=(CSalePaySystemAction::GetParamValue("ORDER_DATE"))?></td>
 				</tr>
 				<tr>
-					<td class="list">Період платежу</td>
+					<td class="list">РџРµСЂС–РѕРґ РїР»Р°С‚РµР¶Сѓ</td>
 					<td class="list val"><?=(CSalePaySystemAction::GetParamValue("PAYMENT_PERIOD"))?></td>
 				</tr>
 				<tr>
-					<td class="list">Код виду платежу</td>
+					<td class="list">РљРѕРґ РІРёРґСѓ РїР»Р°С‚РµР¶Сѓ</td>
 					<td class="list val"><?=(CSalePaySystemAction::GetParamValue("PAYMENT_CODE"))?></td>
 				</tr>
 				<tr>
-					<td class="list">Код бюджетної класифікації</td>
+					<td class="list">РљРѕРґ Р±СЋРґР¶РµС‚РЅРѕС— РєР»Р°СЃРёС„С–РєР°С†С–С—</td>
 					<td class="list val"><?=(CSalePaySystemAction::GetParamValue("PAYMENT_CLASSIC"))?></td>
 				</tr>
 			</table>
@@ -228,18 +228,18 @@ $arKvit = array(0 => "ПОВІДОМЛЕННЯ", 1 => "КВИТАНЦІЯ");
 			<table>
 				<tr>
 					<td rowspan="3" class="singuar">
-						<div class="text">Підпис платника<span>&nbsp;</span></div>
+						<div class="text">РџС–РґРїРёСЃ РїР»Р°С‚РЅРёРєР°<span>&nbsp;</span></div>
 					</td>
-					<td class="sum_title">Сума</td>
-					<td class="summa"><?=(CSalePaySystemAction::GetParamValue("SHOULD_PAY"))?> грн.</td>
+					<td class="sum_title">РЎСѓРјР°</td>
+					<td class="summa"><?=(CSalePaySystemAction::GetParamValue("SHOULD_PAY"))?> РіСЂРЅ.</td>
 				</tr>
 				<tr>
-					<td class="sum_title">Пеня</td>
+					<td class="sum_title">РџРµРЅСЏ</td>
 					<td class="summa">&nbsp;</td>
 				</tr>
 				<tr>
-					<td class="sum_title">Усього</td>
-					<td class="summa"><?=(CSalePaySystemAction::GetParamValue("SHOULD_PAY"))?> грн.</td>
+					<td class="sum_title">РЈСЃСЊРѕРіРѕ</td>
+					<td class="summa"><?=(CSalePaySystemAction::GetParamValue("SHOULD_PAY"))?> РіСЂРЅ.</td>
 				</tr>
 			</table>
 		</td>

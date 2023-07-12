@@ -1,9 +1,9 @@
 <?
-$MESS ['PAR_MAN_SELECT_OTHER'] = "(другое)";
-$MESS ['PAR_MAN_SELECT_NO_VALUE'] = "(не выбрано)";
-$MESS ['PAR_MAN_SEARCH'] = "Поиск";
-$MESS ['PAR_MAN_NO_SEARCH_RESULTS'] = "Ничего не найдено";
-$MESS ['PAR_MAN_TEMPLATE_GROUP'] = "Шаблон компонента";
-$MESS ['PAR_MAN_DEF_TEMPLATE'] = "Встроенный шаблон";
-$MESS ['PAR_MAN_DEFAULT'] = "Общий шаблон";
+$MESS ['PAR_MAN_SELECT_OTHER'] = "(РґСЂСѓРіРѕРµ)";
+$MESS ['PAR_MAN_SELECT_NO_VALUE'] = "(РЅРµ РІС‹Р±СЂР°РЅРѕ)";
+$MESS ['PAR_MAN_SEARCH'] = "РџРѕРёСЃРє";
+$MESS ['PAR_MAN_NO_SEARCH_RESULTS'] = "РќРёС‡РµРіРѕ РЅРµ РЅР°Р№РґРµРЅРѕ";
+$MESS ['PAR_MAN_TEMPLATE_GROUP'] = "РЁР°Р±Р»РѕРЅ РєРѕРјРїРѕРЅРµРЅС‚Р°";
+$MESS ['PAR_MAN_DEF_TEMPLATE'] = "Р’СЃС‚СЂРѕРµРЅРЅС‹Р№ С€Р°Р±Р»РѕРЅ";
+$MESS ['PAR_MAN_DEFAULT'] = "РћР±С‰РёР№ С€Р°Р±Р»РѕРЅ";
 ?>

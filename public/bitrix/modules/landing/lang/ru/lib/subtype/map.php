@@ -1,17 +1,17 @@
 <?php
-$MESS['LANDING_BLOCK_EMPTY_GMAP_TITLE'] = 'Íå óêàçàí êëþ÷ Google êàðò';
-$MESS['LANDING_BLOCK_EMPTY_GMAP_DESC'] = 'Âàì íåîáõîäèìî ñíà÷àëà óêàçàòü êëþ÷ Google&nbsp;êàðò â&nbsp;íàñòðîéêàõ ñàéòà.';
-$MESS['LANDING_BLOCK_EMPTY_GMAP_SETTINGS'] = 'Îòêðûòü íàñòðîéêè';
+$MESS['LANDING_BLOCK_EMPTY_GMAP_TITLE'] = 'ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ ÐºÐ»ÑŽÑ‡ Google ÐºÐ°Ñ€Ñ‚';
+$MESS['LANDING_BLOCK_EMPTY_GMAP_DESC'] = 'Ð’Ð°Ð¼ Ð½ÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ð¾ ÑÐ½Ð°Ñ‡Ð°Ð»Ð° ÑƒÐºÐ°Ð·Ð°Ñ‚ÑŒ ÐºÐ»ÑŽÑ‡ Google&nbsp;ÐºÐ°Ñ€Ñ‚ Ð²&nbsp;Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ°Ñ… ÑÐ°Ð¹Ñ‚Ð°.';
+$MESS['LANDING_BLOCK_EMPTY_GMAP_SETTINGS'] = 'ÐžÑ‚ÐºÑ€Ñ‹Ñ‚ÑŒ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸';
 
-$MESS['LANDING_GOOGLE_MAP--STYLE_TITLE'] = 'Êàðòà';
-$MESS['LANDING_GOOGLE_MAP--STYLE_THEME_TITLE'] = 'Öâåòîâàÿ ñõåìà';
-$MESS['LANDING_GOOGLE_MAP--STYLE_THEME_DEFAULT'] = 'Ïî óìîë÷àíèþ';
-$MESS['LANDING_GOOGLE_MAP--STYLE_THEME_SILVER'] = '×åðíî-áåëàÿ';
-$MESS['LANDING_GOOGLE_MAP--STYLE_THEME_RETRO'] = 'Ðåòðî';
-$MESS['LANDING_GOOGLE_MAP--STYLE_THEME_DARK'] = 'Òåìíàÿ';
-$MESS['LANDING_GOOGLE_MAP--STYLE_THEME_NIGHT'] = 'Íî÷íàÿ';
-$MESS['LANDING_GOOGLE_MAP--STYLE_THEME_AUBERGINE'] = 'Áàêëàæàí';
-$MESS['LANDING_GOOGLE_MAP--STYLE_ROADS_TITLE'] = 'Äîðîãè';
-$MESS['LANDING_GOOGLE_MAP--STYLE_LANDMARKS_TITLE'] = 'Îðèåíòèðû';
-$MESS['LANDING_GOOGLE_MAP--STYLE_ON'] = 'Ïîêàçàòü';
-$MESS['LANDING_GOOGLE_MAP--STYLE_OFF'] = 'Ñêðûòü';
+$MESS['LANDING_GOOGLE_MAP--STYLE_TITLE'] = 'ÐšÐ°Ñ€Ñ‚Ð°';
+$MESS['LANDING_GOOGLE_MAP--STYLE_THEME_TITLE'] = 'Ð¦Ð²ÐµÑ‚Ð¾Ð²Ð°Ñ ÑÑ…ÐµÐ¼Ð°';
+$MESS['LANDING_GOOGLE_MAP--STYLE_THEME_DEFAULT'] = 'ÐŸÐ¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ';
+$MESS['LANDING_GOOGLE_MAP--STYLE_THEME_SILVER'] = 'Ð§ÐµÑ€Ð½Ð¾-Ð±ÐµÐ»Ð°Ñ';
+$MESS['LANDING_GOOGLE_MAP--STYLE_THEME_RETRO'] = 'Ð ÐµÑ‚Ñ€Ð¾';
+$MESS['LANDING_GOOGLE_MAP--STYLE_THEME_DARK'] = 'Ð¢ÐµÐ¼Ð½Ð°Ñ';
+$MESS['LANDING_GOOGLE_MAP--STYLE_THEME_NIGHT'] = 'ÐÐ¾Ñ‡Ð½Ð°Ñ';
+$MESS['LANDING_GOOGLE_MAP--STYLE_THEME_AUBERGINE'] = 'Ð‘Ð°ÐºÐ»Ð°Ð¶Ð°Ð½';
+$MESS['LANDING_GOOGLE_MAP--STYLE_ROADS_TITLE'] = 'Ð”Ð¾Ñ€Ð¾Ð³Ð¸';
+$MESS['LANDING_GOOGLE_MAP--STYLE_LANDMARKS_TITLE'] = 'ÐžÑ€Ð¸ÐµÐ½Ñ‚Ð¸Ñ€Ñ‹';
+$MESS['LANDING_GOOGLE_MAP--STYLE_ON'] = 'ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ';
+$MESS['LANDING_GOOGLE_MAP--STYLE_OFF'] = 'Ð¡ÐºÑ€Ñ‹Ñ‚ÑŒ';

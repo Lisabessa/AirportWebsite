@@ -1,7 +1,7 @@
 <?
-$MESS["VK_EXPORT_MAP__ALBUM_NAME"] = "Альбом ВКонтакте";
-$MESS["VK_EXPORT_MAP__ELEMENT_CNT"] = "Количество<br>товаров";
-$MESS["VK_EXPORT_MAP__ELEMENT_CNT_2"] = "товаров";
-$MESS["VK_EXPORT_MAP__SECTIONS_NAME"] = "Разделы каталога";
-$MESS["VK_EXPORT_MAP__SECTION_SETTINGS"] = "изменить";
-$MESS["VK_EXPORT_MAP__NO_SECTIONS"] = "Разделы не выбраны";
+$MESS["VK_EXPORT_MAP__ALBUM_NAME"] = "РђР»СЊР±РѕРј Р’РљРѕРЅС‚Р°РєС‚Рµ";
+$MESS["VK_EXPORT_MAP__ELEMENT_CNT"] = "РљРѕР»РёС‡РµСЃС‚РІРѕ<br>С‚РѕРІР°СЂРѕРІ";
+$MESS["VK_EXPORT_MAP__ELEMENT_CNT_2"] = "С‚РѕРІР°СЂРѕРІ";
+$MESS["VK_EXPORT_MAP__SECTIONS_NAME"] = "Р Р°Р·РґРµР»С‹ РєР°С‚Р°Р»РѕРіР°";
+$MESS["VK_EXPORT_MAP__SECTION_SETTINGS"] = "РёР·РјРµРЅРёС‚СЊ";
+$MESS["VK_EXPORT_MAP__NO_SECTIONS"] = "Р Р°Р·РґРµР»С‹ РЅРµ РІС‹Р±СЂР°РЅС‹";

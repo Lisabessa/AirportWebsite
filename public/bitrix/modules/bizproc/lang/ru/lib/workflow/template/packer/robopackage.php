@@ -1,3 +1,3 @@
 <?php
-$MESS["BIZPROC_WF_TEMPLATE_ROBOPACKAGE_WRONG_DATA"] = "Некорректный шаблон Роботов";
-$MESS["BIZPROC_WF_TEMPLATE_ROBOPACKAGE_EXTERNAL_MODIFIED"] = "Невозможно экспортировать Роботов из шаблона";
+$MESS["BIZPROC_WF_TEMPLATE_ROBOPACKAGE_WRONG_DATA"] = "РќРµРєРѕСЂСЂРµРєС‚РЅС‹Р№ С€Р°Р±Р»РѕРЅ Р РѕР±РѕС‚РѕРІ";
+$MESS["BIZPROC_WF_TEMPLATE_ROBOPACKAGE_EXTERNAL_MODIFIED"] = "РќРµРІРѕР·РјРѕР¶РЅРѕ СЌРєСЃРїРѕСЂС‚РёСЂРѕРІР°С‚СЊ Р РѕР±РѕС‚РѕРІ РёР· С€Р°Р±Р»РѕРЅР°";

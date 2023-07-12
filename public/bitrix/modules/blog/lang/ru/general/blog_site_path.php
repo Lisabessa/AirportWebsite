@@ -1,7 +1,7 @@
 <?
-$MESS ['BLG_GSP_EMPTY_PATH'] = "Íå óêàçàí ïóòü ê áëîãó";
-$MESS ['BLG_GSP_EMPTY_TYPE'] = "Íå óêàçàí òèï ïóòè";
-$MESS ['BLG_GSP_EMPTY_SITE_ID'] = "Íå óêàçàí ñàéò";
-$MESS ['BLG_GSP_ERROR_NO_SITE'] = "Ñàéò ñ êîäîì &quot;#ID#&quot; íå íàéäåí";
-$MESS ['BLG_GSP_ERROR_DUPLICATE'] = "Çàïèñü äëÿ äàííîãî ñàéò è òèïà ïóòè óæå åñòü";
+$MESS ['BLG_GSP_EMPTY_PATH'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ð¿ÑƒÑ‚ÑŒ Ðº Ð±Ð»Ð¾Ð³Ñƒ";
+$MESS ['BLG_GSP_EMPTY_TYPE'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ñ‚Ð¸Ð¿ Ð¿ÑƒÑ‚Ð¸";
+$MESS ['BLG_GSP_EMPTY_SITE_ID'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ ÑÐ°Ð¹Ñ‚";
+$MESS ['BLG_GSP_ERROR_NO_SITE'] = "Ð¡Ð°Ð¹Ñ‚ Ñ ÐºÐ¾Ð´Ð¾Ð¼ &quot;#ID#&quot; Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
+$MESS ['BLG_GSP_ERROR_DUPLICATE'] = "Ð—Ð°Ð¿Ð¸ÑÑŒ Ð´Ð»Ñ Ð´Ð°Ð½Ð½Ð¾Ð³Ð¾ ÑÐ°Ð¹Ñ‚ Ð¸ Ñ‚Ð¸Ð¿Ð° Ð¿ÑƒÑ‚Ð¸ ÑƒÐ¶Ðµ ÐµÑÑ‚ÑŒ";
 ?>

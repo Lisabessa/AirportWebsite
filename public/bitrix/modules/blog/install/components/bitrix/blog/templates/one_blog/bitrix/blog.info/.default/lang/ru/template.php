@@ -1,5 +1,5 @@
 <?
-$MESS["BLOG_BLOG_BLOGINFO_CAT"] = "Òåãè";
-$MESS["BLOG_BLOG_BLOGINFO_CAT_VIEW"] = "Ïðîñìîòðåòü âñå ñîîáùåíèÿ ñ äàííûì òåãîì";
-$MESS["BLOG_BLOG_TAG_CLOUD"] = "Îáëàêî òåãîâ";
+$MESS["BLOG_BLOG_BLOGINFO_CAT"] = "Ð¢ÐµÐ³Ð¸";
+$MESS["BLOG_BLOG_BLOGINFO_CAT_VIEW"] = "ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ÐµÑ‚ÑŒ Ð²ÑÐµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ Ñ Ð´Ð°Ð½Ð½Ñ‹Ð¼ Ñ‚ÐµÐ³Ð¾Ð¼";
+$MESS["BLOG_BLOG_TAG_CLOUD"] = "ÐžÐ±Ð»Ð°ÐºÐ¾ Ñ‚ÐµÐ³Ð¾Ð²";
 ?>

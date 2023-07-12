@@ -1,5 +1,5 @@
 <?
-$MESS["IBLOCK_MESSAGE_ENTITY_IBLOCK_ID_FIELD"] = "Èäåíòèôèêàòîð èíôîáëîêà";
-$MESS["IBLOCK_MESSAGE_ENTITY_MESSAGE_ID_FIELD"] = "Èäåíòèôèêàòîð ñîîáùåíèÿ";
-$MESS["IBLOCK_MESSAGE_ENTITY_MESSAGE_TEXT_FIELD"] = "Òåêñò ñîîáùåíèÿ";
+$MESS["IBLOCK_MESSAGE_ENTITY_IBLOCK_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ°";
+$MESS["IBLOCK_MESSAGE_ENTITY_MESSAGE_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
+$MESS["IBLOCK_MESSAGE_ENTITY_MESSAGE_TEXT_FIELD"] = "Ð¢ÐµÐºÑÑ‚ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
 ?>

@@ -1,12 +1,12 @@
 <?
-$MESS["SALE_ORDER_INFO"] = "Çàìîâëåííÿ ID(#ID#) | ¹#NUM#, ñòâîðåíî #DATE#";
-$MESS["SALE_ORDER_INFO_FIO"] = "Ï.².Á.";
-$MESS["SALE_ORDER_INFO_PHONE"] = "Òåëåôîí";
-$MESS["SALE_ORDER_INFO_PRICE"] = "Çàãàëüíà âàðò³ñòü òîâàð³â";
-$MESS["SALE_ORDER_INFO_DISCOUNT_PRICE"] = "Âàðò³ñòü ç óðàõóâàííÿì çíèæîê ³ íàö³íîê";
-$MESS["SALE_ORDER_INFO_DELIVERY_PRICE"] = "Äîñòàâêà";
-$MESS["SALE_ORDER_INFO_ALL_PRICE"] = "Ðàçîì";
-$MESS["SALE_ORDER_INFO_PAYMENT"] = "Îïëàòà";
-$MESS["SALE_ORDER_INFO_SHIPMENT"] = "Äîñòàâêà";
-$MESS["SALE_ORDER_INFO_PAYED"] = "Ïî çàìîâëåííþ îïëà÷åíî";
+$MESS["SALE_ORDER_INFO"] = "Ð—Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ ID(#ID#) | â„–#NUM#, ÑÑ‚Ð²Ð¾Ñ€ÐµÐ½Ð¾ #DATE#";
+$MESS["SALE_ORDER_INFO_FIO"] = "ÐŸ.Ð†.Ð‘.";
+$MESS["SALE_ORDER_INFO_PHONE"] = "Ð¢ÐµÐ»ÐµÑ„Ð¾Ð½";
+$MESS["SALE_ORDER_INFO_PRICE"] = "Ð—Ð°Ð³Ð°Ð»ÑŒÐ½Ð° Ð²Ð°Ñ€Ñ‚Ñ–ÑÑ‚ÑŒ Ñ‚Ð¾Ð²Ð°Ñ€Ñ–Ð²";
+$MESS["SALE_ORDER_INFO_DISCOUNT_PRICE"] = "Ð’Ð°Ñ€Ñ‚Ñ–ÑÑ‚ÑŒ Ð· ÑƒÑ€Ð°Ñ…ÑƒÐ²Ð°Ð½Ð½ÑÐ¼ Ð·Ð½Ð¸Ð¶Ð¾Ðº Ñ– Ð½Ð°Ñ†Ñ–Ð½Ð¾Ðº";
+$MESS["SALE_ORDER_INFO_DELIVERY_PRICE"] = "Ð”Ð¾ÑÑ‚Ð°Ð²ÐºÐ°";
+$MESS["SALE_ORDER_INFO_ALL_PRICE"] = "Ð Ð°Ð·Ð¾Ð¼";
+$MESS["SALE_ORDER_INFO_PAYMENT"] = "ÐžÐ¿Ð»Ð°Ñ‚Ð°";
+$MESS["SALE_ORDER_INFO_SHIPMENT"] = "Ð”Ð¾ÑÑ‚Ð°Ð²ÐºÐ°";
+$MESS["SALE_ORDER_INFO_PAYED"] = "ÐŸÐ¾ Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½ÑŽ Ð¾Ð¿Ð»Ð°Ñ‡ÐµÐ½Ð¾";
 ?>

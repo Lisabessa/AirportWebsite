@@ -1,3 +1,3 @@
 <?
-$MESS ['MAIL_PROLOG_ALT'] = "Модуль почты";
+$MESS ['MAIL_PROLOG_ALT'] = "РњРѕРґСѓР»СЊ РїРѕС‡С‚С‹";
 ?>

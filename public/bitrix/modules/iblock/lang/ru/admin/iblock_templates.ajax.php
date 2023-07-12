@@ -1,3 +1,3 @@
 <?
-$MESS["IB_TA_CANONICAL_PAGE_URL"] = "Êàíîíè÷åñêèé URL ýëåìåíòà:";
+$MESS["IB_TA_CANONICAL_PAGE_URL"] = "ÐšÐ°Ð½Ð¾Ð½Ð¸Ñ‡ÐµÑÐºÐ¸Ð¹ URL ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð°:";
 ?>

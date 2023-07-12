@@ -1,7 +1,7 @@
 <?
-$MESS["socserv_office365_form_note"] = "Необходимо зарегистрировать приложение в Azure AD в соответствии <a href=\"https://msdn.microsoft.com/en-us/office/office365/howto/add-common-consent-manually\">с инструкцией</a>. <br>В поле \"Reply URL\" укажите адрес: <a href=\"#URL#\">#URL#</a><br />Для авторизации и подключения аккаунтов нужно дать приложению разрешение <b>Sign in and read user profile</b> для <b>Microsoft Graph</b>.<br />Для работы интеграции Битрикс24.Диск нужно дать приложению разрешение <b>Read and write user files</b> для <b>Office365 SharePoint Online</b>.<br /><br />Если вы укажете значение настройки \"Домен организации\", то авторизация будет разрешена только аккаунтам Office365 из указанного домена даже для мультитенантного приложения.";
-$MESS["socserv_office365_client_id"] = "ИД клиента (Client ID):";
-$MESS["socserv_office365_client_secret"] = "Ключ (Key):";
-$MESS["socserv_office365_tenant"] = "Домен организации (Tenant):";
-$MESS["MAIN_OPTION_COMMENT"] = "Используйте аккаунт Office365 для входа на сайт.";
+$MESS["socserv_office365_form_note"] = "РќРµРѕР±С…РѕРґРёРјРѕ Р·Р°СЂРµРіРёСЃС‚СЂРёСЂРѕРІР°С‚СЊ РїСЂРёР»РѕР¶РµРЅРёРµ РІ Azure AD РІ СЃРѕРѕС‚РІРµС‚СЃС‚РІРёРё <a href=\"https://msdn.microsoft.com/en-us/office/office365/howto/add-common-consent-manually\">СЃ РёРЅСЃС‚СЂСѓРєС†РёРµР№</a>. <br>Р’ РїРѕР»Рµ \"Reply URL\" СѓРєР°Р¶РёС‚Рµ Р°РґСЂРµСЃ: <a href=\"#URL#\">#URL#</a><br />Р”Р»СЏ Р°РІС‚РѕСЂРёР·Р°С†РёРё Рё РїРѕРґРєР»СЋС‡РµРЅРёСЏ Р°РєРєР°СѓРЅС‚РѕРІ РЅСѓР¶РЅРѕ РґР°С‚СЊ РїСЂРёР»РѕР¶РµРЅРёСЋ СЂР°Р·СЂРµС€РµРЅРёРµ <b>Sign in and read user profile</b> РґР»СЏ <b>Microsoft Graph</b>.<br />Р”Р»СЏ СЂР°Р±РѕС‚С‹ РёРЅС‚РµРіСЂР°С†РёРё Р‘РёС‚СЂРёРєСЃ24.Р”РёСЃРє РЅСѓР¶РЅРѕ РґР°С‚СЊ РїСЂРёР»РѕР¶РµРЅРёСЋ СЂР°Р·СЂРµС€РµРЅРёРµ <b>Read and write user files</b> РґР»СЏ <b>Office365 SharePoint Online</b>.<br /><br />Р•СЃР»Рё РІС‹ СѓРєР°Р¶РµС‚Рµ Р·РЅР°С‡РµРЅРёРµ РЅР°СЃС‚СЂРѕР№РєРё \"Р”РѕРјРµРЅ РѕСЂРіР°РЅРёР·Р°С†РёРё\", С‚Рѕ Р°РІС‚РѕСЂРёР·Р°С†РёСЏ Р±СѓРґРµС‚ СЂР°Р·СЂРµС€РµРЅР° С‚РѕР»СЊРєРѕ Р°РєРєР°СѓРЅС‚Р°Рј Office365 РёР· СѓРєР°Р·Р°РЅРЅРѕРіРѕ РґРѕРјРµРЅР° РґР°Р¶Рµ РґР»СЏ РјСѓР»СЊС‚РёС‚РµРЅР°РЅС‚РЅРѕРіРѕ РїСЂРёР»РѕР¶РµРЅРёСЏ.";
+$MESS["socserv_office365_client_id"] = "РР” РєР»РёРµРЅС‚Р° (Client ID):";
+$MESS["socserv_office365_client_secret"] = "РљР»СЋС‡ (Key):";
+$MESS["socserv_office365_tenant"] = "Р”РѕРјРµРЅ РѕСЂРіР°РЅРёР·Р°С†РёРё (Tenant):";
+$MESS["MAIN_OPTION_COMMENT"] = "РСЃРїРѕР»СЊР·СѓР№С‚Рµ Р°РєРєР°СѓРЅС‚ Office365 РґР»СЏ РІС…РѕРґР° РЅР° СЃР°Р№С‚.";
 ?>

@@ -1,10 +1,10 @@
 <?
-$MESS ['USER_TYPE_INTEGER_DESCRIPTION'] = "Öåëîå ÷èñëî";
-$MESS ['USER_TYPE_INTEGER_SIZE'] = "Ðàçìåð ïîëÿ ââîäà äëÿ îòîáðàæåíèÿ";
-$MESS ['USER_TYPE_INTEGER_MIN_VALUE'] = "Ìèíèìàëüíîå çíà÷åíèå (0 - íå ïðîâåðÿòü)";
-$MESS ['USER_TYPE_INTEGER_MAX_VALUE'] = "Ìàêñèìàëüíîå çíà÷åíèå (0 - íå ïðîâåðÿòü)";
-$MESS ['USER_TYPE_INTEGER_MIN_VALUE_ERROR'] = "Çíà÷åíèå ïîëÿ \"#FIELD_NAME#\" íå äîëæíî áûòü ìåíüøå #MIN_VALUE#.";
-$MESS ['USER_TYPE_INTEGER_MAX_VALUE_ERROR'] = "Çíà÷åíèå ïîëÿ \"#FIELD_NAME#\" íå äîëæíî áûòü áîëüøå #MAX_VALUE#.";
-$MESS ['USER_TYPE_INTEGER_DEFAULT_VALUE'] = "Çíà÷åíèå ïî óìîë÷àíèþ";
-$MESS ['USER_TYPE_INTEGER_TYPE_ERROR'] = "Çíà÷åíèå ïîëÿ \"#FIELD_NAME#\" äîëæíî áûòü öåëûì ÷èñëîì";
+$MESS ['USER_TYPE_INTEGER_DESCRIPTION'] = "Ð¦ÐµÐ»Ð¾Ðµ Ñ‡Ð¸ÑÐ»Ð¾";
+$MESS ['USER_TYPE_INTEGER_SIZE'] = "Ð Ð°Ð·Ð¼ÐµÑ€ Ð¿Ð¾Ð»Ñ Ð²Ð²Ð¾Ð´Ð° Ð´Ð»Ñ Ð¾Ñ‚Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ñ";
+$MESS ['USER_TYPE_INTEGER_MIN_VALUE'] = "ÐœÐ¸Ð½Ð¸Ð¼Ð°Ð»ÑŒÐ½Ð¾Ðµ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ (0 - Ð½Ðµ Ð¿Ñ€Ð¾Ð²ÐµÑ€ÑÑ‚ÑŒ)";
+$MESS ['USER_TYPE_INTEGER_MAX_VALUE'] = "ÐœÐ°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ð¾Ðµ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ (0 - Ð½Ðµ Ð¿Ñ€Ð¾Ð²ÐµÑ€ÑÑ‚ÑŒ)";
+$MESS ['USER_TYPE_INTEGER_MIN_VALUE_ERROR'] = "Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð¿Ð¾Ð»Ñ \"#FIELD_NAME#\" Ð½Ðµ Ð´Ð¾Ð»Ð¶Ð½Ð¾ Ð±Ñ‹Ñ‚ÑŒ Ð¼ÐµÐ½ÑŒÑˆÐµ #MIN_VALUE#.";
+$MESS ['USER_TYPE_INTEGER_MAX_VALUE_ERROR'] = "Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð¿Ð¾Ð»Ñ \"#FIELD_NAME#\" Ð½Ðµ Ð´Ð¾Ð»Ð¶Ð½Ð¾ Ð±Ñ‹Ñ‚ÑŒ Ð±Ð¾Ð»ÑŒÑˆÐµ #MAX_VALUE#.";
+$MESS ['USER_TYPE_INTEGER_DEFAULT_VALUE'] = "Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð¿Ð¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ";
+$MESS ['USER_TYPE_INTEGER_TYPE_ERROR'] = "Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð¿Ð¾Ð»Ñ \"#FIELD_NAME#\" Ð´Ð¾Ð»Ð¶Ð½Ð¾ Ð±Ñ‹Ñ‚ÑŒ Ñ†ÐµÐ»Ñ‹Ð¼ Ñ‡Ð¸ÑÐ»Ð¾Ð¼";
 ?>

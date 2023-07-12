@@ -1,11 +1,11 @@
 <?
-$MESS["BX_SALE_DISCOUNT_PRESET_FORM_EDIT_TAB_NAME_COMMON"] = "Ïàðàìåòðû";
-$MESS["BX_SALE_DISCOUNT_PRESET_FORM_EDIT_TAB_TITLE_COMMON"] = "Ïàðàìåòðû ïðàâèëà";
-$MESS["BX_SALE_DISCOUNT_PRESET_ABSENT"] = "Íå íàéäåí ïðåñåò";
-$MESS["BX_SALE_DISCOUNT_PRESET_TITLE_ADD_DISCOUNT"] = "Ñîçäàíèå íîâîãî ïðàâèëà";
-$MESS["BX_SALE_DISCOUNT_PRESET_TITLE_EDIT_DISCOUNT"] = "Èçìåíåíèå ïðàâèëà ñ êîäîì #ID#";
-$MESS["BX_SALE_DISCOUNT_PRESET_CONTEXT_DISCOUNT_LIST"] = "Ñïèñîê ïðàâèë";
-$MESS["BX_SALE_DISCOUNT_PRESET_CONTEXT_NEW"] = "Ñîçäàòü íîâîå ïðàâèëî";
-$MESS["BX_SALE_DISCOUNT_PRESET_CONTEXT_DELETE"] = "Óäàëèòü ïðàâèëî";
-$MESS["BX_SALE_DISCOUNT_PRESET_CONTEXT_DELETE_CONFIRM"] = "Âû óâåðåíû, ÷òî õîòèòå óäàëèòü ýòî ïðàâèëî?";
+$MESS["BX_SALE_DISCOUNT_PRESET_FORM_EDIT_TAB_NAME_COMMON"] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹";
+$MESS["BX_SALE_DISCOUNT_PRESET_FORM_EDIT_TAB_TITLE_COMMON"] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ Ð¿Ñ€Ð°Ð²Ð¸Ð»Ð°";
+$MESS["BX_SALE_DISCOUNT_PRESET_ABSENT"] = "ÐÐµ Ð½Ð°Ð¹Ð´ÐµÐ½ Ð¿Ñ€ÐµÑÐµÑ‚";
+$MESS["BX_SALE_DISCOUNT_PRESET_TITLE_ADD_DISCOUNT"] = "Ð¡Ð¾Ð·Ð´Ð°Ð½Ð¸Ðµ Ð½Ð¾Ð²Ð¾Ð³Ð¾ Ð¿Ñ€Ð°Ð²Ð¸Ð»Ð°";
+$MESS["BX_SALE_DISCOUNT_PRESET_TITLE_EDIT_DISCOUNT"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ Ð¿Ñ€Ð°Ð²Ð¸Ð»Ð° Ñ ÐºÐ¾Ð´Ð¾Ð¼ #ID#";
+$MESS["BX_SALE_DISCOUNT_PRESET_CONTEXT_DISCOUNT_LIST"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð¿Ñ€Ð°Ð²Ð¸Ð»";
+$MESS["BX_SALE_DISCOUNT_PRESET_CONTEXT_NEW"] = "Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ Ð½Ð¾Ð²Ð¾Ðµ Ð¿Ñ€Ð°Ð²Ð¸Ð»Ð¾";
+$MESS["BX_SALE_DISCOUNT_PRESET_CONTEXT_DELETE"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ Ð¿Ñ€Ð°Ð²Ð¸Ð»Ð¾";
+$MESS["BX_SALE_DISCOUNT_PRESET_CONTEXT_DELETE_CONFIRM"] = "Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹, Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ ÑÑ‚Ð¾ Ð¿Ñ€Ð°Ð²Ð¸Ð»Ð¾?";
 ?>

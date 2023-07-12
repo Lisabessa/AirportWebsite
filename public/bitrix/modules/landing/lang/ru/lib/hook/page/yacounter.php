@@ -1,5 +1,5 @@
 <?php
-$MESS['LANDING_HOOK_YACOUNTER_USE'] = 'ßíäåêñ.Ìåòðèêà';
-$MESS['LANDING_HOOK_YACOUNTER_COUNTER'] = 'ßíäåêñ.Ìåòðèêà';
-$MESS['LANDING_HOOK_YACOUNTER_PLACEHOLDER'] = 'Ââåäèòå ID';
-$MESS['LANDING_HOOK_DETAIL_HELP'] = 'Ïîäðîáíåå';
+$MESS['LANDING_HOOK_YACOUNTER_USE'] = 'Ð¯Ð½Ð´ÐµÐºÑ.ÐœÐµÑ‚Ñ€Ð¸ÐºÐ°';
+$MESS['LANDING_HOOK_YACOUNTER_COUNTER'] = 'Ð¯Ð½Ð´ÐµÐºÑ.ÐœÐµÑ‚Ñ€Ð¸ÐºÐ°';
+$MESS['LANDING_HOOK_YACOUNTER_PLACEHOLDER'] = 'Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ ID';
+$MESS['LANDING_HOOK_DETAIL_HELP'] = 'ÐŸÐ¾Ð´Ñ€Ð¾Ð±Ð½ÐµÐµ';

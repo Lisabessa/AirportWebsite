@@ -1,11 +1,11 @@
 <?
-$MESS["FLTR_IS_NOT_ADD"] = "Èçìåíåíèÿ íå ñîõðàíåíû.";
-$MESS["FLTR_IS_NOT_UPDATE"] = "Èçìåíåíèÿ íå ñîõðàíåíû.";
-$MESS["FLTR_NEW"] = "Äîáàâèòü ñëîâàðü";
-$MESS["FLTR_UPDATE"] = "Èçìåíèòü ñëîâàðü";
-$MESS["FLTR_LIST"] = "Ñïèñîê";
-$MESS["FLTR_HEAD_TITLE"] = "Íàçâàíèå";
-$MESS["FLTR_HEAD_TYPE"] = "Òèï ñëîâàðÿ";
-$MESS["FLTR_HEAD_TYPE_T"] = "Ñëîâàðü òðàíñëèòåðàöèè";
-$MESS["FLTR_HEAD_TYPE_W"] = "Ñëîâàðü ñëîâ";
+$MESS["FLTR_IS_NOT_ADD"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ Ð½Ðµ ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ñ‹.";
+$MESS["FLTR_IS_NOT_UPDATE"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ Ð½Ðµ ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ñ‹.";
+$MESS["FLTR_NEW"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ ÑÐ»Ð¾Ð²Ð°Ñ€ÑŒ";
+$MESS["FLTR_UPDATE"] = "Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ ÑÐ»Ð¾Ð²Ð°Ñ€ÑŒ";
+$MESS["FLTR_LIST"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº";
+$MESS["FLTR_HEAD_TITLE"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
+$MESS["FLTR_HEAD_TYPE"] = "Ð¢Ð¸Ð¿ ÑÐ»Ð¾Ð²Ð°Ñ€Ñ";
+$MESS["FLTR_HEAD_TYPE_T"] = "Ð¡Ð»Ð¾Ð²Ð°Ñ€ÑŒ Ñ‚Ñ€Ð°Ð½ÑÐ»Ð¸Ñ‚ÐµÑ€Ð°Ñ†Ð¸Ð¸";
+$MESS["FLTR_HEAD_TYPE_W"] = "Ð¡Ð»Ð¾Ð²Ð°Ñ€ÑŒ ÑÐ»Ð¾Ð²";
 ?>

@@ -1,17 +1,17 @@
 <?
-$MESS["IM_CALL_CONFERENCE_ERROR_ID_NOT_PROVIDED"] = 'Íåâåðíûé èäåíòèôèêàòîð êîíôåðåíöèè';
-$MESS["IM_CALL_CONFERENCE_ERROR_RENAMING_CHAT"] = 'Îøèáêà ïðè ïåðåèìåíîâàíèè ÷àòà';
-$MESS["IM_CALL_CONFERENCE_ERROR_ADDING_USERS"] = 'Îøèáêà ïðè äîáàâëåíèè ïîëüçîâàòåëåé â ÷àò';
-$MESS["IM_CALL_CONFERENCE_ERROR_MAX_USERS"] = 'Ïðåâûøåíî ìàêñèìàëüíîå êîëè÷åñòâî ó÷àñòíèêîâ êîíôåðåíöèè';
-$MESS["IM_CALL_CONFERENCE_ERROR_DELETING_USERS"] = 'Îøèáêà ïðè èñêëþ÷åíèè ïîëüçîâàòåëåé èç ÷àòà';
-$MESS["IM_CALL_CONFERENCE_ERROR_TITLE_REQUIRED"] = 'Íå óêàçàíî íàçâàíèå êîíôåðåíöèè';
-$MESS["IM_CALL_CONFERENCE_ERROR_TITLE_TYPE"] = 'Íåêîððåêòíîå íàçâàíèå êîíôåðåíöèè';
-$MESS["IM_CALL_CONFERENCE_ERROR_TITLE_LENGTH"] = 'Íàçâàíèå êîíôåðåíöèè íå ìîæåò áûòü êîðî÷å äâóõ ñèìâîëîâ';
-$MESS["IM_CALL_CONFERENCE_ERROR_PASSWORD_TYPE"] = 'Íåêîððåêòíûé ïàðîëü êîíôåðåíöèè';
-$MESS["IM_CALL_CONFERENCE_ERROR_PASSWORD_LENGTH"] = 'Ïàðîëü êîíôåðåíöèè íå ìîæåò áûòü êîðî÷å äâóõ ñèìâîëîâ';
-$MESS["IM_CALL_CONFERENCE_ERROR_INVITATION_TYPE"] = 'Íåêîððåêòíîå ïðèãëàøåíèå';
-$MESS["IM_CALL_CONFERENCE_ERROR_INVITATION_LENGTH"] = 'Ïðèãëàøåíèå íå ìîæåò áûòü äëèííåå 255 ñèìâîëîâ';
-$MESS["IM_CALL_CONFERENCE_ERROR_CREATING"] = 'Ïðîèçîøëà îøèáêà ïðè ñîçäàíèè êîíôåðåíöèè';
-$MESS["IM_CALL_CONFERENCE_ERROR_NO_PRESENTERS"] = 'Ñïèñîê ñïèêåðîâ íå ìîæåò áûòü ïóñòûì';
-$MESS["IM_CALL_CONFERENCE_ERROR_TOO_MANY_PRESENTERS"] = 'Âû âûáðàëè ñëèøêîì ìíîãî ñïèêåðîâ';
+$MESS["IM_CALL_CONFERENCE_ERROR_ID_NOT_PROVIDED"] = 'ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÐºÐ¾Ð½Ñ„ÐµÑ€ÐµÐ½Ñ†Ð¸Ð¸';
+$MESS["IM_CALL_CONFERENCE_ERROR_RENAMING_CHAT"] = 'ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ Ð¿ÐµÑ€ÐµÐ¸Ð¼ÐµÐ½Ð¾Ð²Ð°Ð½Ð¸Ð¸ Ñ‡Ð°Ñ‚Ð°';
+$MESS["IM_CALL_CONFERENCE_ERROR_ADDING_USERS"] = 'ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ð¸ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÐµÐ¹ Ð² Ñ‡Ð°Ñ‚';
+$MESS["IM_CALL_CONFERENCE_ERROR_MAX_USERS"] = 'ÐŸÑ€ÐµÐ²Ñ‹ÑˆÐµÐ½Ð¾ Ð¼Ð°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ð¾Ðµ ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ ÑƒÑ‡Ð°ÑÑ‚Ð½Ð¸ÐºÐ¾Ð² ÐºÐ¾Ð½Ñ„ÐµÑ€ÐµÐ½Ñ†Ð¸Ð¸';
+$MESS["IM_CALL_CONFERENCE_ERROR_DELETING_USERS"] = 'ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ Ð¸ÑÐºÐ»ÑŽÑ‡ÐµÐ½Ð¸Ð¸ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÐµÐ¹ Ð¸Ð· Ñ‡Ð°Ñ‚Ð°';
+$MESS["IM_CALL_CONFERENCE_ERROR_TITLE_REQUIRED"] = 'ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾ Ð½Ð°Ð·Ð²Ð°Ð½Ð¸Ðµ ÐºÐ¾Ð½Ñ„ÐµÑ€ÐµÐ½Ñ†Ð¸Ð¸';
+$MESS["IM_CALL_CONFERENCE_ERROR_TITLE_TYPE"] = 'ÐÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ð¾Ðµ Ð½Ð°Ð·Ð²Ð°Ð½Ð¸Ðµ ÐºÐ¾Ð½Ñ„ÐµÑ€ÐµÐ½Ñ†Ð¸Ð¸';
+$MESS["IM_CALL_CONFERENCE_ERROR_TITLE_LENGTH"] = 'ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ ÐºÐ¾Ð½Ñ„ÐµÑ€ÐµÐ½Ñ†Ð¸Ð¸ Ð½Ðµ Ð¼Ð¾Ð¶ÐµÑ‚ Ð±Ñ‹Ñ‚ÑŒ ÐºÐ¾Ñ€Ð¾Ñ‡Ðµ Ð´Ð²ÑƒÑ… ÑÐ¸Ð¼Ð²Ð¾Ð»Ð¾Ð²';
+$MESS["IM_CALL_CONFERENCE_ERROR_PASSWORD_TYPE"] = 'ÐÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ñ‹Ð¹ Ð¿Ð°Ñ€Ð¾Ð»ÑŒ ÐºÐ¾Ð½Ñ„ÐµÑ€ÐµÐ½Ñ†Ð¸Ð¸';
+$MESS["IM_CALL_CONFERENCE_ERROR_PASSWORD_LENGTH"] = 'ÐŸÐ°Ñ€Ð¾Ð»ÑŒ ÐºÐ¾Ð½Ñ„ÐµÑ€ÐµÐ½Ñ†Ð¸Ð¸ Ð½Ðµ Ð¼Ð¾Ð¶ÐµÑ‚ Ð±Ñ‹Ñ‚ÑŒ ÐºÐ¾Ñ€Ð¾Ñ‡Ðµ Ð´Ð²ÑƒÑ… ÑÐ¸Ð¼Ð²Ð¾Ð»Ð¾Ð²';
+$MESS["IM_CALL_CONFERENCE_ERROR_INVITATION_TYPE"] = 'ÐÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ð¾Ðµ Ð¿Ñ€Ð¸Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ðµ';
+$MESS["IM_CALL_CONFERENCE_ERROR_INVITATION_LENGTH"] = 'ÐŸÑ€Ð¸Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ðµ Ð½Ðµ Ð¼Ð¾Ð¶ÐµÑ‚ Ð±Ñ‹Ñ‚ÑŒ Ð´Ð»Ð¸Ð½Ð½ÐµÐµ 255 ÑÐ¸Ð¼Ð²Ð¾Ð»Ð¾Ð²';
+$MESS["IM_CALL_CONFERENCE_ERROR_CREATING"] = 'ÐŸÑ€Ð¾Ð¸Ð·Ð¾ÑˆÐ»Ð° Ð¾ÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ð¸ ÐºÐ¾Ð½Ñ„ÐµÑ€ÐµÐ½Ñ†Ð¸Ð¸';
+$MESS["IM_CALL_CONFERENCE_ERROR_NO_PRESENTERS"] = 'Ð¡Ð¿Ð¸ÑÐ¾Ðº ÑÐ¿Ð¸ÐºÐµÑ€Ð¾Ð² Ð½Ðµ Ð¼Ð¾Ð¶ÐµÑ‚ Ð±Ñ‹Ñ‚ÑŒ Ð¿ÑƒÑÑ‚Ñ‹Ð¼';
+$MESS["IM_CALL_CONFERENCE_ERROR_TOO_MANY_PRESENTERS"] = 'Ð’Ñ‹ Ð²Ñ‹Ð±Ñ€Ð°Ð»Ð¸ ÑÐ»Ð¸ÑˆÐºÐ¾Ð¼ Ð¼Ð½Ð¾Ð³Ð¾ ÑÐ¿Ð¸ÐºÐµÑ€Ð¾Ð²';
 ?>

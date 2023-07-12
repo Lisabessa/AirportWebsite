@@ -1,15 +1,15 @@
 <?
-$MESS['LISTS_MODULE_NAME'] = "Óíèâåðñàëüíûå ñïèñêè";
-$MESS['LISTS_MODULE_DESCRIPTION'] = "Ìîäóëü äëÿ îðãàíèçàöèè ðàáîòû ñ ðàçëè÷íîé èíôîðìàöèåé èç ïóáëè÷íîé ÷àñòè ñàéòà.";
-$MESS['LISTS_INSTALL_TITLE'] = "Óñòàíîâêà ìîäóëÿ Óíèâåðñàëüíûå ñïèñêè";
-$MESS['LISTS_UNINSTALL_TITLE'] = "Óäàëåíèå ìîäóëÿ Óíèâåðñàëüíûå ñïèñêè";
-$MESS["LISTS_TYPE_NAME"] = "Ñïèñêè";
-$MESS["LISTS_ELEMENT_NAME"] = "Ýëåìåíòû";
-$MESS["LISTS_SECTION_NAME"] = "Ðàçäåëû";
-$MESS["LISTS_SOCNET_TYPE_NAME"] = "Ñïèñêè ãðóïï ñîöñåòè";
-$MESS["LISTS_SOCNET_ELEMENT_NAME"] = "Ýëåìåíòû";
-$MESS["LISTS_SOCNET_SECTION_NAME"] = "Ðàçäåëû";
-$MESS["BITRIX_PROCESSES_TYPE_NAME"] = "Ïðîöåññû";
-$MESS["BITRIX_PROCESSES_ELEMENT_NAME"] = "Ýëåìåíòû";
-$MESS["BITRIX_PROCESSES_SECTION_NAME"] = "Ðàçäåëû";
+$MESS['LISTS_MODULE_NAME'] = "Ð£Ð½Ð¸Ð²ÐµÑ€ÑÐ°Ð»ÑŒÐ½Ñ‹Ðµ ÑÐ¿Ð¸ÑÐºÐ¸";
+$MESS['LISTS_MODULE_DESCRIPTION'] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð´Ð»Ñ Ð¾Ñ€Ð³Ð°Ð½Ð¸Ð·Ð°Ñ†Ð¸Ð¸ Ñ€Ð°Ð±Ð¾Ñ‚Ñ‹ Ñ Ñ€Ð°Ð·Ð»Ð¸Ñ‡Ð½Ð¾Ð¹ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸ÐµÐ¹ Ð¸Ð· Ð¿ÑƒÐ±Ð»Ð¸Ñ‡Ð½Ð¾Ð¹ Ñ‡Ð°ÑÑ‚Ð¸ ÑÐ°Ð¹Ñ‚Ð°.";
+$MESS['LISTS_INSTALL_TITLE'] = "Ð£ÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ° Ð¼Ð¾Ð´ÑƒÐ»Ñ Ð£Ð½Ð¸Ð²ÐµÑ€ÑÐ°Ð»ÑŒÐ½Ñ‹Ðµ ÑÐ¿Ð¸ÑÐºÐ¸";
+$MESS['LISTS_UNINSTALL_TITLE'] = "Ð£Ð´Ð°Ð»ÐµÐ½Ð¸Ðµ Ð¼Ð¾Ð´ÑƒÐ»Ñ Ð£Ð½Ð¸Ð²ÐµÑ€ÑÐ°Ð»ÑŒÐ½Ñ‹Ðµ ÑÐ¿Ð¸ÑÐºÐ¸";
+$MESS["LISTS_TYPE_NAME"] = "Ð¡Ð¿Ð¸ÑÐºÐ¸";
+$MESS["LISTS_ELEMENT_NAME"] = "Ð­Ð»ÐµÐ¼ÐµÐ½Ñ‚Ñ‹";
+$MESS["LISTS_SECTION_NAME"] = "Ð Ð°Ð·Ð´ÐµÐ»Ñ‹";
+$MESS["LISTS_SOCNET_TYPE_NAME"] = "Ð¡Ð¿Ð¸ÑÐºÐ¸ Ð³Ñ€ÑƒÐ¿Ð¿ ÑÐ¾Ñ†ÑÐµÑ‚Ð¸";
+$MESS["LISTS_SOCNET_ELEMENT_NAME"] = "Ð­Ð»ÐµÐ¼ÐµÐ½Ñ‚Ñ‹";
+$MESS["LISTS_SOCNET_SECTION_NAME"] = "Ð Ð°Ð·Ð´ÐµÐ»Ñ‹";
+$MESS["BITRIX_PROCESSES_TYPE_NAME"] = "ÐŸÑ€Ð¾Ñ†ÐµÑÑÑ‹";
+$MESS["BITRIX_PROCESSES_ELEMENT_NAME"] = "Ð­Ð»ÐµÐ¼ÐµÐ½Ñ‚Ñ‹";
+$MESS["BITRIX_PROCESSES_SECTION_NAME"] = "Ð Ð°Ð·Ð´ÐµÐ»Ñ‹";
 ?>

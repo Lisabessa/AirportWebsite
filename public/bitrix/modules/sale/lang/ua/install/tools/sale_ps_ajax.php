@@ -1,4 +1,4 @@
 <?
-$MESS["SALE_PS_AJAX_ORDER_PAID_ERROR"] = "Çàìîâëåííÿ íåäîñòóïíå äëÿ îïëàòè";
-$MESS["SALE_PS_AJAX_PARAMS_ERROR"] = "Ïîìèëêà âõ³äíèõ ïàðàìåòð³â";
+$MESS["SALE_PS_AJAX_ORDER_PAID_ERROR"] = "Ð—Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ Ð½ÐµÐ´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ðµ Ð´Ð»Ñ Ð¾Ð¿Ð»Ð°Ñ‚Ð¸";
+$MESS["SALE_PS_AJAX_PARAMS_ERROR"] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ° Ð²Ñ…Ñ–Ð´Ð½Ð¸Ñ… Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ–Ð²";
 ?>

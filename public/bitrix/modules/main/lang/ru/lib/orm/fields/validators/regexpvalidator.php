@@ -1,3 +1,3 @@
 <?php
 
-$MESS['MAIN_ENTITY_VALIDATOR_REGEXP'] = 'Íåïðàâèëüíûé ôîðìàò "#FIELD_TITLE#"';
+$MESS['MAIN_ENTITY_VALIDATOR_REGEXP'] = 'ÐÐµÐ¿Ñ€Ð°Ð²Ð¸Ð»ÑŒÐ½Ñ‹Ð¹ Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚ "#FIELD_TITLE#"';

@@ -1,6 +1,6 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/main/include/prolog_before.php");
-$APPLICATION->SetTitle("Îïëàòà çàêàçà");
+$APPLICATION->SetTitle("ÐžÐ¿Ð»Ð°Ñ‚Ð° Ð·Ð°ÐºÐ°Ð·Ð°");
 ?><?$APPLICATION->IncludeComponent(
 	"bitrix:sale.order.payment",
 	"",

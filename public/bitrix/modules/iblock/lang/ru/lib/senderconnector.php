@@ -1,11 +1,11 @@
 <?
-$MESS["sender_connector_iblock_name"] = "Èíôîáëîêè";
-$MESS["sender_connector_iblock_required_settings"] = "Òðåáóåòñÿ îáÿçàòåëüíàÿ íàñòðîéêà";
-$MESS["sender_connector_iblock_select"] = "(âûáåðèòå èíôîáëîê)";
-$MESS["sender_connector_iblock_empty"] = "(íåò äîñòóïíûõ èíôîáëîêîâ)";
-$MESS["sender_connector_iblock_prop_empty"] = "(íåò äîñòóïíûõ ïîëåé)";
-$MESS["sender_connector_iblock_field_select"] = "(âûáåðèòå ïîëå)";
-$MESS["sender_connector_iblock_field_iblock"] = "Èíôîáëîê:";
-$MESS["sender_connector_iblock_field_name"] = "Ïîëå ñ èìåíåì:";
-$MESS["sender_connector_iblock_field_email"] = "Ïîëå ñ email:";
+$MESS["sender_connector_iblock_name"] = "Ð˜Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ¸";
+$MESS["sender_connector_iblock_required_settings"] = "Ð¢Ñ€ÐµÐ±ÑƒÐµÑ‚ÑÑ Ð¾Ð±ÑÐ·Ð°Ñ‚ÐµÐ»ÑŒÐ½Ð°Ñ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ°";
+$MESS["sender_connector_iblock_select"] = "(Ð²Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾Ðº)";
+$MESS["sender_connector_iblock_empty"] = "(Ð½ÐµÑ‚ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ñ‹Ñ… Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ¾Ð²)";
+$MESS["sender_connector_iblock_prop_empty"] = "(Ð½ÐµÑ‚ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ñ‹Ñ… Ð¿Ð¾Ð»ÐµÐ¹)";
+$MESS["sender_connector_iblock_field_select"] = "(Ð²Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ Ð¿Ð¾Ð»Ðµ)";
+$MESS["sender_connector_iblock_field_iblock"] = "Ð˜Ð½Ñ„Ð¾Ð±Ð»Ð¾Ðº:";
+$MESS["sender_connector_iblock_field_name"] = "ÐŸÐ¾Ð»Ðµ Ñ Ð¸Ð¼ÐµÐ½ÐµÐ¼:";
+$MESS["sender_connector_iblock_field_email"] = "ÐŸÐ¾Ð»Ðµ Ñ email:";
 ?>

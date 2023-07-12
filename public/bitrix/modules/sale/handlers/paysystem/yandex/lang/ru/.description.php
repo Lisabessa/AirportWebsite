@@ -1,32 +1,32 @@
 <?php
-$MESS['SALE_HPS_YANDEX'] = 'ЮKassa (устаревшая версия)';
-$MESS["SALE_HPS_YANDEX_SHOP_ID"] = "Идентификатор магазина в ЦПП (ShopID)";
-$MESS["SALE_HPS_YANDEX_SHOP_ID_DESC"] = "Код магазина, который получен от ЮKassa";
-$MESS["SALE_HPS_YANDEX_SCID"] = "Номер витрины магазина в ЦПП (scid)";
-$MESS["SALE_HPS_YANDEX_SCID_DESC"] = "Номер витрины магазина в ЦПП (scid)";
-$MESS["SALE_HPS_YANDEX_PAYMENT_ID"] = "Номер оплаты";
-$MESS["SALE_HPS_YANDEX_SHOP_KEY"] = "Пароль магазина";
-$MESS["SALE_HPS_YANDEX_SHOP_KEY_DESC"] = "Пароль магазина на ЮKassa";
-$MESS["SALE_HPS_YANDEX_SHOULD_PAY"] = "Сумма к оплате";
-$MESS["SALE_HPS_YANDEX_PAYMENT_DATE"] = "Дата создания оплаты";
-$MESS["SALE_HPS_YANDEX_IS_TEST"] = "Тестовый режим";
-$MESS["SALE_HPS_YANDEX_CHANGE_STATUS_PAY"] = "Автоматически оплачивать заказ при получении успешного статуса оплаты";
-$MESS["SALE_HPS_YANDEX_PAYMENT_TYPE"] = "Тип платёжной системы";
-$MESS["SALE_HPS_YANDEX_BUYER_ID"] = "Код покупателя";
+$MESS['SALE_HPS_YANDEX'] = 'Р®Kassa (СѓСЃС‚Р°СЂРµРІС€Р°СЏ РІРµСЂСЃРёСЏ)';
+$MESS["SALE_HPS_YANDEX_SHOP_ID"] = "РРґРµРЅС‚РёС„РёРєР°С‚РѕСЂ РјР°РіР°Р·РёРЅР° РІ Р¦РџРџ (ShopID)";
+$MESS["SALE_HPS_YANDEX_SHOP_ID_DESC"] = "РљРѕРґ РјР°РіР°Р·РёРЅР°, РєРѕС‚РѕСЂС‹Р№ РїРѕР»СѓС‡РµРЅ РѕС‚ Р®Kassa";
+$MESS["SALE_HPS_YANDEX_SCID"] = "РќРѕРјРµСЂ РІРёС‚СЂРёРЅС‹ РјР°РіР°Р·РёРЅР° РІ Р¦РџРџ (scid)";
+$MESS["SALE_HPS_YANDEX_SCID_DESC"] = "РќРѕРјРµСЂ РІРёС‚СЂРёРЅС‹ РјР°РіР°Р·РёРЅР° РІ Р¦РџРџ (scid)";
+$MESS["SALE_HPS_YANDEX_PAYMENT_ID"] = "РќРѕРјРµСЂ РѕРїР»Р°С‚С‹";
+$MESS["SALE_HPS_YANDEX_SHOP_KEY"] = "РџР°СЂРѕР»СЊ РјР°РіР°Р·РёРЅР°";
+$MESS["SALE_HPS_YANDEX_SHOP_KEY_DESC"] = "РџР°СЂРѕР»СЊ РјР°РіР°Р·РёРЅР° РЅР° Р®Kassa";
+$MESS["SALE_HPS_YANDEX_SHOULD_PAY"] = "РЎСѓРјРјР° Рє РѕРїР»Р°С‚Рµ";
+$MESS["SALE_HPS_YANDEX_PAYMENT_DATE"] = "Р”Р°С‚Р° СЃРѕР·РґР°РЅРёСЏ РѕРїР»Р°С‚С‹";
+$MESS["SALE_HPS_YANDEX_IS_TEST"] = "РўРµСЃС‚РѕРІС‹Р№ СЂРµР¶РёРј";
+$MESS["SALE_HPS_YANDEX_CHANGE_STATUS_PAY"] = "РђРІС‚РѕРјР°С‚РёС‡РµСЃРєРё РѕРїР»Р°С‡РёРІР°С‚СЊ Р·Р°РєР°Р· РїСЂРё РїРѕР»СѓС‡РµРЅРёРё СѓСЃРїРµС€РЅРѕРіРѕ СЃС‚Р°С‚СѓСЃР° РѕРїР»Р°С‚С‹";
+$MESS["SALE_HPS_YANDEX_PAYMENT_TYPE"] = "РўРёРї РїР»Р°С‚С‘Р¶РЅРѕР№ СЃРёСЃС‚РµРјС‹";
+$MESS["SALE_HPS_YANDEX_BUYER_ID"] = "РљРѕРґ РїРѕРєСѓРїР°С‚РµР»СЏ";
 
-$MESS["SALE_HPS_YANDEX_RETURN"] = "Возвраты платежей не поддерживаются";
-$MESS["SALE_HPS_YANDEX_RESTRICTION"] = "Ограничение по сумме платежей зависит от способа оплаты, который выберет покупатель";
-$MESS["SALE_HPS_YANDEX_COMMISSION"] = "Без комисси для покупателя";
-$MESS["SALE_HPS_YANDEX_REFERRER"] = "<a href=\"https://money.yandex.ru/joinups/?source=bitrix24\" target=\"_blank\">Быстрая регистрация</a>";
+$MESS["SALE_HPS_YANDEX_RETURN"] = "Р’РѕР·РІСЂР°С‚С‹ РїР»Р°С‚РµР¶РµР№ РЅРµ РїРѕРґРґРµСЂР¶РёРІР°СЋС‚СЃСЏ";
+$MESS["SALE_HPS_YANDEX_RESTRICTION"] = "РћРіСЂР°РЅРёС‡РµРЅРёРµ РїРѕ СЃСѓРјРјРµ РїР»Р°С‚РµР¶РµР№ Р·Р°РІРёСЃРёС‚ РѕС‚ СЃРїРѕСЃРѕР±Р° РѕРїР»Р°С‚С‹, РєРѕС‚РѕСЂС‹Р№ РІС‹Р±РµСЂРµС‚ РїРѕРєСѓРїР°С‚РµР»СЊ";
+$MESS["SALE_HPS_YANDEX_COMMISSION"] = "Р‘РµР· РєРѕРјРёСЃСЃРё РґР»СЏ РїРѕРєСѓРїР°С‚РµР»СЏ";
+$MESS["SALE_HPS_YANDEX_REFERRER"] = "<a href=\"https://money.yandex.ru/joinups/?source=bitrix24\" target=\"_blank\">Р‘С‹СЃС‚СЂР°СЏ СЂРµРіРёСЃС‚СЂР°С†РёСЏ</a>";
 
-$MESS["SALE_HPS_YANDEX_DESCRIPTION"] = "Работа через Центр Приема Платежей <a href=\"https://yookassa.ru\" target=\"_blank\">https://yookassa.ru</a>
-<br/>Используется протокол commonHTTP-3.0
+$MESS["SALE_HPS_YANDEX_DESCRIPTION"] = "Р Р°Р±РѕС‚Р° С‡РµСЂРµР· Р¦РµРЅС‚СЂ РџСЂРёРµРјР° РџР»Р°С‚РµР¶РµР№ <a href=\"https://yookassa.ru\" target=\"_blank\">https://yookassa.ru</a>
+<br/>РСЃРїРѕР»СЊР·СѓРµС‚СЃСЏ РїСЂРѕС‚РѕРєРѕР» commonHTTP-3.0
 <br/><br/>
 <input
 	id=\"https_check_button\"
 	type=\"button\"
-	value=\"Проверка HTTPS\"
-	title=\"Проверка доступности сайта по протоколу HTTPS. Необходимо для корректной работы платежной системы\"
+	value=\"РџСЂРѕРІРµСЂРєР° HTTPS\"
+	title=\"РџСЂРѕРІРµСЂРєР° РґРѕСЃС‚СѓРїРЅРѕСЃС‚Рё СЃР°Р№С‚Р° РїРѕ РїСЂРѕС‚РѕРєРѕР»Сѓ HTTPS. РќРµРѕР±С…РѕРґРёРјРѕ РґР»СЏ РєРѕСЂСЂРµРєС‚РЅРѕР№ СЂР°Р±РѕС‚С‹ РїР»Р°С‚РµР¶РЅРѕР№ СЃРёСЃС‚РµРјС‹\"
 	onclick=\"
 		var checkHTTPS = function(){
 			BX.showWait()

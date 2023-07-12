@@ -1,4 +1,4 @@
 <?php
-$MESS["CRM_ENTITY_CREATOR_STEPPER_TITLE"] = "Обработка заказов";
-$MESS["CRM_ENTITY_CREATOR_STEPPER_SUCCESS_NOTIFY"] = "Обработка заказов завершена. <a href=\"#ORDER_LINK#\">Перейти к заказам</a>";
-$MESS["CRM_ENTITY_CREATOR_STEPPER_ERROR_NOTIFY"] = "Обработка заказов завершена. В процессе обработки заказов возникли ошибки. <a href='/bitrix/admin/sale_crm_site_master.php'>Подробнее</a>";
+$MESS["CRM_ENTITY_CREATOR_STEPPER_TITLE"] = "РћР±СЂР°Р±РѕС‚РєР° Р·Р°РєР°Р·РѕРІ";
+$MESS["CRM_ENTITY_CREATOR_STEPPER_SUCCESS_NOTIFY"] = "РћР±СЂР°Р±РѕС‚РєР° Р·Р°РєР°Р·РѕРІ Р·Р°РІРµСЂС€РµРЅР°. <a href=\"#ORDER_LINK#\">РџРµСЂРµР№С‚Рё Рє Р·Р°РєР°Р·Р°Рј</a>";
+$MESS["CRM_ENTITY_CREATOR_STEPPER_ERROR_NOTIFY"] = "РћР±СЂР°Р±РѕС‚РєР° Р·Р°РєР°Р·РѕРІ Р·Р°РІРµСЂС€РµРЅР°. Р’ РїСЂРѕС†РµСЃСЃРµ РѕР±СЂР°Р±РѕС‚РєРё Р·Р°РєР°Р·РѕРІ РІРѕР·РЅРёРєР»Рё РѕС€РёР±РєРё. <a href='/bitrix/admin/sale_crm_site_master.php'>РџРѕРґСЂРѕР±РЅРµРµ</a>";

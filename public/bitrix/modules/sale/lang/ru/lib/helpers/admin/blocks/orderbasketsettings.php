@@ -1,12 +1,12 @@
 <?
-$MESS["SALE_ORDER_BASKET_JS_SETTINGS_TITLE"] = "Íàñòðîéêè ïðåäñòàâëåíèÿ";
-$MESS["SALE_ORDER_BASKET_JS_SETTINGS_APPLY"] = "Ïðèìåíèòü";
-$MESS["SALE_ORDER_BASKET_SETTINGS_AVAILABLE_COLUMNS"] = "Äîñòóïíûå êîëîíêè";
-$MESS["SALE_ORDER_BASKET_SETTINGS_ADD_COLUMN"] = "Äîáàâèòü êîëîíêó";
-$MESS["SALE_ORDER_BASKET_SETTINGS_DELETE_COLUMN"] = "Óäàëèòü êîëîíêó";
-$MESS["SALE_ORDER_BASKET_SETTINGS_SELECTED_COLUMNS"] = "Âûáðàííûå êîëîíêè";
-$MESS["SALE_ORDER_BASKET_SETTINGS_UP"] = "Âûøå";
-$MESS["SALE_ORDER_BASKET_SETTINGS_DOWN"] = "Íèæå";
-$MESS["SALE_ORDER_BASKET_SETTINGS_MOVE_UP"] = "Ïåðåìåñòèòü âûøå â ñïèñêå";
-$MESS["SALE_ORDER_BASKET_SETTINGS_MOVE_DOWN"] = "Ïåðåìåñòèòü íèæå â ñïèñêå";
+$MESS["SALE_ORDER_BASKET_JS_SETTINGS_TITLE"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð¿Ñ€ÐµÐ´ÑÑ‚Ð°Ð²Ð»ÐµÐ½Ð¸Ñ";
+$MESS["SALE_ORDER_BASKET_JS_SETTINGS_APPLY"] = "ÐŸÑ€Ð¸Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
+$MESS["SALE_ORDER_BASKET_SETTINGS_AVAILABLE_COLUMNS"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿Ð½Ñ‹Ðµ ÐºÐ¾Ð»Ð¾Ð½ÐºÐ¸";
+$MESS["SALE_ORDER_BASKET_SETTINGS_ADD_COLUMN"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ ÐºÐ¾Ð»Ð¾Ð½ÐºÑƒ";
+$MESS["SALE_ORDER_BASKET_SETTINGS_DELETE_COLUMN"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ ÐºÐ¾Ð»Ð¾Ð½ÐºÑƒ";
+$MESS["SALE_ORDER_BASKET_SETTINGS_SELECTED_COLUMNS"] = "Ð’Ñ‹Ð±Ñ€Ð°Ð½Ð½Ñ‹Ðµ ÐºÐ¾Ð»Ð¾Ð½ÐºÐ¸";
+$MESS["SALE_ORDER_BASKET_SETTINGS_UP"] = "Ð’Ñ‹ÑˆÐµ";
+$MESS["SALE_ORDER_BASKET_SETTINGS_DOWN"] = "ÐÐ¸Ð¶Ðµ";
+$MESS["SALE_ORDER_BASKET_SETTINGS_MOVE_UP"] = "ÐŸÐµÑ€ÐµÐ¼ÐµÑÑ‚Ð¸Ñ‚ÑŒ Ð²Ñ‹ÑˆÐµ Ð² ÑÐ¿Ð¸ÑÐºÐµ";
+$MESS["SALE_ORDER_BASKET_SETTINGS_MOVE_DOWN"] = "ÐŸÐµÑ€ÐµÐ¼ÐµÑÑ‚Ð¸Ñ‚ÑŒ Ð½Ð¸Ð¶Ðµ Ð² ÑÐ¿Ð¸ÑÐºÐµ";
 ?>

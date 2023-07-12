@@ -1,6 +1,6 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Ñïèñîê îáðàùåíèé");
+$APPLICATION->SetTitle("Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ð¹");
 ?><?$APPLICATION->IncludeComponent(
 	"bitrix:support.ticket",
 	"",

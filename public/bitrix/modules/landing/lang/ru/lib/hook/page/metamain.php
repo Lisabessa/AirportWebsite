@@ -1,9 +1,9 @@
 <?php
-$MESS['LANDING_HOOK_METAMAIN_NAME'] = 'Ìåòà-òåãè ñòðàíèöû';
-$MESS['LANDING_HOOK_METAMAIN_DESCRIPTION'] = 'Çàäàéòå ìåòà-òåãè äëÿ íàèëó÷øåé èíäåêñàöèè ñòðàíèöû ïîèñêîâûìè ñèñòåìàìè. Ïî óìîë÷àíèþ ìåòà-òåãè ôîðìèðóþòñÿ àâòîìàòè÷åñêè.';
-$MESS['LANDING_HOOK_METAMAIN_USE'] = 'Íàñòðîèòü ìåòà-òåãè';
-$MESS['LANDING_HOOK_METAMAIN_TITLE'] = 'Çàãîëîâîê, òåã title';
-$MESS['LANDING_HOOK_METAMAIN_TITLE_PLACEHOLDER'] = 'Ââåäèòå çàãîëîâîê ñòðàíèöû';
-$MESS['LANDING_HOOK_METAMAIN_DESCRIPTION_TITLE'] = 'Îïèñàíèå, òåã description';
-$MESS['LANDING_HOOK_METAMAIN_DESCRIPTION_PLACEHOLDER'] = 'Ââåäèòå îïèñàíèå ñòðàíèöû';
-$MESS['LANDING_HOOK_METAMAIN_KEYWORDS_TITLE'] = 'Êëþ÷åâûå ñëîâà, òåã keywords';
+$MESS['LANDING_HOOK_METAMAIN_NAME'] = 'ÐœÐµÑ‚Ð°-Ñ‚ÐµÐ³Ð¸ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹';
+$MESS['LANDING_HOOK_METAMAIN_DESCRIPTION'] = 'Ð—Ð°Ð´Ð°Ð¹Ñ‚Ðµ Ð¼ÐµÑ‚Ð°-Ñ‚ÐµÐ³Ð¸ Ð´Ð»Ñ Ð½Ð°Ð¸Ð»ÑƒÑ‡ÑˆÐµÐ¹ Ð¸Ð½Ð´ÐµÐºÑÐ°Ñ†Ð¸Ð¸ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹ Ð¿Ð¾Ð¸ÑÐºÐ¾Ð²Ñ‹Ð¼Ð¸ ÑÐ¸ÑÑ‚ÐµÐ¼Ð°Ð¼Ð¸. ÐŸÐ¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ Ð¼ÐµÑ‚Ð°-Ñ‚ÐµÐ³Ð¸ Ñ„Ð¾Ñ€Ð¼Ð¸Ñ€ÑƒÑŽÑ‚ÑÑ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸.';
+$MESS['LANDING_HOOK_METAMAIN_USE'] = 'ÐÐ°ÑÑ‚Ñ€Ð¾Ð¸Ñ‚ÑŒ Ð¼ÐµÑ‚Ð°-Ñ‚ÐµÐ³Ð¸';
+$MESS['LANDING_HOOK_METAMAIN_TITLE'] = 'Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº, Ñ‚ÐµÐ³ title';
+$MESS['LANDING_HOOK_METAMAIN_TITLE_PLACEHOLDER'] = 'Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð·Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹';
+$MESS['LANDING_HOOK_METAMAIN_DESCRIPTION_TITLE'] = 'ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ, Ñ‚ÐµÐ³ description';
+$MESS['LANDING_HOOK_METAMAIN_DESCRIPTION_PLACEHOLDER'] = 'Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð¾Ð¿Ð¸ÑÐ°Ð½Ð¸Ðµ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹';
+$MESS['LANDING_HOOK_METAMAIN_KEYWORDS_TITLE'] = 'ÐšÐ»ÑŽÑ‡ÐµÐ²Ñ‹Ðµ ÑÐ»Ð¾Ð²Ð°, Ñ‚ÐµÐ³ keywords';

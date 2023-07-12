@@ -1,4 +1,4 @@
 <?php
-$MESS["SALE_DLVR_RSTR_BY_LOCATION_NAME"] = "по местоположению";
-$MESS["SALE_DLVR_RSTR_BY_LOCATION_DESCRIPT"] = "Ограничение использования службы доставки по местоположению покупателя";
-$MESS["SALE_DLVR_RSTR_BY_LOCATION_LOC"] = "Местоположение";
+$MESS["SALE_DLVR_RSTR_BY_LOCATION_NAME"] = "РїРѕ РјРµСЃС‚РѕРїРѕР»РѕР¶РµРЅРёСЋ";
+$MESS["SALE_DLVR_RSTR_BY_LOCATION_DESCRIPT"] = "РћРіСЂР°РЅРёС‡РµРЅРёРµ РёСЃРїРѕР»СЊР·РѕРІР°РЅРёСЏ СЃР»СѓР¶Р±С‹ РґРѕСЃС‚Р°РІРєРё РїРѕ РјРµСЃС‚РѕРїРѕР»РѕР¶РµРЅРёСЋ РїРѕРєСѓРїР°С‚РµР»СЏ";
+$MESS["SALE_DLVR_RSTR_BY_LOCATION_LOC"] = "РњРµСЃС‚РѕРїРѕР»РѕР¶РµРЅРёРµ";

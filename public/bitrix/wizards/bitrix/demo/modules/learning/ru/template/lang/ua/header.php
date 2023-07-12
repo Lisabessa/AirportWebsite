@@ -1,14 +1,14 @@
 <?
-$MESS["LEARNING_COURSE_DESCRIPTION"] = "Îïèñ êóðñó";
-$MESS["LEARNING_FORWARD"] = "Âïåðåä";
-$MESS["LEARNING_BACK"] = "Íàçàä";
-$MESS["LEARNING_LOGO_TEXT"] = "Íàâ÷àëüíèé êóðñ";
-$MESS["LEARNING_PRINT_PAGE"] = "Âåðñ³ÿ äëÿ äðóêó";
-$MESS["LEARNING_ALL_COURSE_CONTENTS"] = "Âñ³ ìàòåð³àëè êóðñó";
-$MESS["LEARNING_PASS_TEST"] = "Ïðîéòè ñåðòèô³êàö³þ";
-$MESS["LEARNING_ALL_LESSONS"] = "Âñüîãî óðîê³â";
-$MESS["LEARNING_GRADEBOOK"] = "Æóðíàë";
-$MESS["LEARNING_CURRENT_LESSON"] = "Ïðîéäåíî óðîê³â";
-$MESS["LEARNING_EXPAND"] = "Ðîçêðèòè ãëàâó";
-$MESS["LEARNING_COLLAPSE"] = "Ïðèõîâàòè ãëàâó";
+$MESS["LEARNING_COURSE_DESCRIPTION"] = "ÐžÐ¿Ð¸Ñ ÐºÑƒÑ€ÑÑƒ";
+$MESS["LEARNING_FORWARD"] = "Ð’Ð¿ÐµÑ€ÐµÐ´";
+$MESS["LEARNING_BACK"] = "ÐÐ°Ð·Ð°Ð´";
+$MESS["LEARNING_LOGO_TEXT"] = "ÐÐ°Ð²Ñ‡Ð°Ð»ÑŒÐ½Ð¸Ð¹ ÐºÑƒÑ€Ñ";
+$MESS["LEARNING_PRINT_PAGE"] = "Ð’ÐµÑ€ÑÑ–Ñ Ð´Ð»Ñ Ð´Ñ€ÑƒÐºÑƒ";
+$MESS["LEARNING_ALL_COURSE_CONTENTS"] = "Ð’ÑÑ– Ð¼Ð°Ñ‚ÐµÑ€Ñ–Ð°Ð»Ð¸ ÐºÑƒÑ€ÑÑƒ";
+$MESS["LEARNING_PASS_TEST"] = "ÐŸÑ€Ð¾Ð¹Ñ‚Ð¸ ÑÐµÑ€Ñ‚Ð¸Ñ„Ñ–ÐºÐ°Ñ†Ñ–ÑŽ";
+$MESS["LEARNING_ALL_LESSONS"] = "Ð’ÑÑŒÐ¾Ð³Ð¾ ÑƒÑ€Ð¾ÐºÑ–Ð²";
+$MESS["LEARNING_GRADEBOOK"] = "Ð–ÑƒÑ€Ð½Ð°Ð»";
+$MESS["LEARNING_CURRENT_LESSON"] = "ÐŸÑ€Ð¾Ð¹Ð´ÐµÐ½Ð¾ ÑƒÑ€Ð¾ÐºÑ–Ð²";
+$MESS["LEARNING_EXPAND"] = "Ð Ð¾Ð·ÐºÑ€Ð¸Ñ‚Ð¸ Ð³Ð»Ð°Ð²Ñƒ";
+$MESS["LEARNING_COLLAPSE"] = "ÐŸÑ€Ð¸Ñ…Ð¾Ð²Ð°Ñ‚Ð¸ Ð³Ð»Ð°Ð²Ñƒ";
 ?>

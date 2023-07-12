@@ -1,7 +1,7 @@
 <?
-$MESS["SALE_MENU_LOCATION_THE_REST_OF"] = "Ïðî÷èå ïóíêòû ...";
-$MESS["SALE_LOCATION_ADMIN_LOCATION_HELPER_ENTITY_TYPE_ID_UNKNOWN_ERROR"] = "Íåèçâåñòíûé òèï ìåñòîïîëîæåíèÿ";
-$MESS["SALE_LOCATION_ADMIN_LOCATION_HELPER_ENTITY_UNKNOWN_EXTERNAL_SERVICE_ID_ERROR"] = "Íåèçâåñòíûé èäåíòèôèêàòîð âíåøíåãî ñåðâèñà";
-$MESS["SALE_LOCATION_ADMIN_LOCATION_HELPER_DATABASE_FAILURE"] = "Îáíàðóæåíû îøèáêè â áàçå ìåñòîïîëîæåíèé. Ïîæàëóéñòà, #ANCHOR_IMPORT_URL#ñäåëàéòå ïîâòîðíûé èìïîðò#ANCHOR_END# èëè îáðàòèòåñü â ñëóæáó òåõíè÷åñêîé ïîääåðæêè";
-$MESS["SALE_LOCATION_ADMIN_LOCATION_HELPER_ENTITY_NAME_EMPTY_ERROR"] = "Íåîáõîäèìî óêàçàòü íàçâàíèå ìåñòîïîëîæåíèÿ";
+$MESS["SALE_MENU_LOCATION_THE_REST_OF"] = "ÐŸÑ€Ð¾Ñ‡Ð¸Ðµ Ð¿ÑƒÐ½ÐºÑ‚Ñ‹ ...";
+$MESS["SALE_LOCATION_ADMIN_LOCATION_HELPER_ENTITY_TYPE_ID_UNKNOWN_ERROR"] = "ÐÐµÐ¸Ð·Ð²ÐµÑÑ‚Ð½Ñ‹Ð¹ Ñ‚Ð¸Ð¿ Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ";
+$MESS["SALE_LOCATION_ADMIN_LOCATION_HELPER_ENTITY_UNKNOWN_EXTERNAL_SERVICE_ID_ERROR"] = "ÐÐµÐ¸Ð·Ð²ÐµÑÑ‚Ð½Ñ‹Ð¹ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð²Ð½ÐµÑˆÐ½ÐµÐ³Ð¾ ÑÐµÑ€Ð²Ð¸ÑÐ°";
+$MESS["SALE_LOCATION_ADMIN_LOCATION_HELPER_DATABASE_FAILURE"] = "ÐžÐ±Ð½Ð°Ñ€ÑƒÐ¶ÐµÐ½Ñ‹ Ð¾ÑˆÐ¸Ð±ÐºÐ¸ Ð² Ð±Ð°Ð·Ðµ Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹. ÐŸÐ¾Ð¶Ð°Ð»ÑƒÐ¹ÑÑ‚Ð°, #ANCHOR_IMPORT_URL#ÑÐ´ÐµÐ»Ð°Ð¹Ñ‚Ðµ Ð¿Ð¾Ð²Ñ‚Ð¾Ñ€Ð½Ñ‹Ð¹ Ð¸Ð¼Ð¿Ð¾Ñ€Ñ‚#ANCHOR_END# Ð¸Ð»Ð¸ Ð¾Ð±Ñ€Ð°Ñ‚Ð¸Ñ‚ÐµÑÑŒ Ð² ÑÐ»ÑƒÐ¶Ð±Ñƒ Ñ‚ÐµÑ…Ð½Ð¸Ñ‡ÐµÑÐºÐ¾Ð¹ Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ¸";
+$MESS["SALE_LOCATION_ADMIN_LOCATION_HELPER_ENTITY_NAME_EMPTY_ERROR"] = "ÐÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ð¾ ÑƒÐºÐ°Ð·Ð°Ñ‚ÑŒ Ð½Ð°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ";
 ?>

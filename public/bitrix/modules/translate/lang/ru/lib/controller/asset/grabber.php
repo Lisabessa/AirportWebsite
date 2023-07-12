@@ -1,11 +1,11 @@
 <?
-$MESS["TR_IMPORT_EMPTY_FILE_ERROR"] = "Íåò ôàéëà äëÿ èìïîðòà";
-$MESS["TR_ERROR_TARFILE_EXTENTION"] = "Íåâåðíûé òèï ôàéëà";
-$MESS["TR_ERROR_UPLOAD_SIZE"] = "Ðàçìåð ïðèíÿòîãî ôàéëà ïðåâûñèë ìàêñèìàëüíî äîïóñòèìûé ðàçìåð #SIZE#";
-$MESS["TR_EXPORT_ACTION_CANCELED"] = "Âûãðóçêà ëîêàëèçàöèè îòìåíåíà.";
-$MESS["TR_IMPORT_ACTION_CANCELED"] = "Çàãðóçêà ëîêàëèçàöèè îòìåíåíà.";
-$MESS["TR_IMPORT_UPLOAD_OK"] = "Ôàéë óñïåøíî çàêà÷àí";
-$MESS["TR_ERROR_DELETE_TEMP_FOLDER"] = "Íå óäàåòñÿ óäàëèòü âðåìåííóþ äèðåêòîðèþ \"#PATH#\"";
-$MESS["TR_EXPORT_FILE_DROPPED"] = "Ôàéë ýêñïîðòà óäàë¸í";
-$MESS["TR_ERROR_TARFILE"] = "Íå âûáðàí ôàéë";
+$MESS["TR_IMPORT_EMPTY_FILE_ERROR"] = "ÐÐµÑ‚ Ñ„Ð°Ð¹Ð»Ð° Ð´Ð»Ñ Ð¸Ð¼Ð¿Ð¾Ñ€Ñ‚Ð°";
+$MESS["TR_ERROR_TARFILE_EXTENTION"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ñ‚Ð¸Ð¿ Ñ„Ð°Ð¹Ð»Ð°";
+$MESS["TR_ERROR_UPLOAD_SIZE"] = "Ð Ð°Ð·Ð¼ÐµÑ€ Ð¿Ñ€Ð¸Ð½ÑÑ‚Ð¾Ð³Ð¾ Ñ„Ð°Ð¹Ð»Ð° Ð¿Ñ€ÐµÐ²Ñ‹ÑÐ¸Ð» Ð¼Ð°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ð¾ Ð´Ð¾Ð¿ÑƒÑÑ‚Ð¸Ð¼Ñ‹Ð¹ Ñ€Ð°Ð·Ð¼ÐµÑ€ #SIZE#";
+$MESS["TR_EXPORT_ACTION_CANCELED"] = "Ð’Ñ‹Ð³Ñ€ÑƒÐ·ÐºÐ° Ð»Ð¾ÐºÐ°Ð»Ð¸Ð·Ð°Ñ†Ð¸Ð¸ Ð¾Ñ‚Ð¼ÐµÐ½ÐµÐ½Ð°.";
+$MESS["TR_IMPORT_ACTION_CANCELED"] = "Ð—Ð°Ð³Ñ€ÑƒÐ·ÐºÐ° Ð»Ð¾ÐºÐ°Ð»Ð¸Ð·Ð°Ñ†Ð¸Ð¸ Ð¾Ñ‚Ð¼ÐµÐ½ÐµÐ½Ð°.";
+$MESS["TR_IMPORT_UPLOAD_OK"] = "Ð¤Ð°Ð¹Ð» ÑƒÑÐ¿ÐµÑˆÐ½Ð¾ Ð·Ð°ÐºÐ°Ñ‡Ð°Ð½";
+$MESS["TR_ERROR_DELETE_TEMP_FOLDER"] = "ÐÐµ ÑƒÐ´Ð°ÐµÑ‚ÑÑ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ Ð²Ñ€ÐµÐ¼ÐµÐ½Ð½ÑƒÑŽ Ð´Ð¸Ñ€ÐµÐºÑ‚Ð¾Ñ€Ð¸ÑŽ \"#PATH#\"";
+$MESS["TR_EXPORT_FILE_DROPPED"] = "Ð¤Ð°Ð¹Ð» ÑÐºÑÐ¿Ð¾Ñ€Ñ‚Ð° ÑƒÐ´Ð°Ð»Ñ‘Ð½";
+$MESS["TR_ERROR_TARFILE"] = "ÐÐµ Ð²Ñ‹Ð±Ñ€Ð°Ð½ Ñ„Ð°Ð¹Ð»";
 ?>

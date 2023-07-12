@@ -1,10 +1,10 @@
 <?
-$MESS["STATUS_ENTITY_USER_ID_FIELD"] = "Èäåíòèôèêàòîð ïîëüçîâàòåëÿ";
-$MESS["STATUS_ENTITY_STATUS_FIELD"] = "Ñòàòóñ";
-$MESS["STATUS_ENTITY_IDLE_FIELD"] = "Âðåìÿ ïðîñòîÿ";
-$MESS["STATUS_ENTITY_DESKTOP_LAST_DATE_FIELD"] = "Äåñêòîï, âðåìÿ ïîñëåäíåé àêòèâíîñòè";
-$MESS["STATUS_ENTITY_MOBILE_LAST_DATE_FIELD"] = "Ìîáèëüíîå ïðèëîæåíèå, âðåìÿ ïîñëåäíåé àêòèâíîñòè";
-$MESS["STATUS_ENTITY_EVENT_ID_FIELD"] = "Èäåíòèôèêàòîð ñîáûòèÿ";
-$MESS["STATUS_ENTITY_EVENT_UNTIL_DATE_FIELD"] = "Ñîáûòèå àêòóàëüíî äî äàòû";
-$MESS["STATUS_ENTITY_COLOR_FIELD"] = "Öâåò ïîëüçîâàòåëÿ";
+$MESS["STATUS_ENTITY_USER_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
+$MESS["STATUS_ENTITY_STATUS_FIELD"] = "Ð¡Ñ‚Ð°Ñ‚ÑƒÑ";
+$MESS["STATUS_ENTITY_IDLE_FIELD"] = "Ð’Ñ€ÐµÐ¼Ñ Ð¿Ñ€Ð¾ÑÑ‚Ð¾Ñ";
+$MESS["STATUS_ENTITY_DESKTOP_LAST_DATE_FIELD"] = "Ð”ÐµÑÐºÑ‚Ð¾Ð¿, Ð²Ñ€ÐµÐ¼Ñ Ð¿Ð¾ÑÐ»ÐµÐ´Ð½ÐµÐ¹ Ð°ÐºÑ‚Ð¸Ð²Ð½Ð¾ÑÑ‚Ð¸";
+$MESS["STATUS_ENTITY_MOBILE_LAST_DATE_FIELD"] = "ÐœÐ¾Ð±Ð¸Ð»ÑŒÐ½Ð¾Ðµ Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ, Ð²Ñ€ÐµÐ¼Ñ Ð¿Ð¾ÑÐ»ÐµÐ´Ð½ÐµÐ¹ Ð°ÐºÑ‚Ð¸Ð²Ð½Ð¾ÑÑ‚Ð¸";
+$MESS["STATUS_ENTITY_EVENT_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ";
+$MESS["STATUS_ENTITY_EVENT_UNTIL_DATE_FIELD"] = "Ð¡Ð¾Ð±Ñ‹Ñ‚Ð¸Ðµ Ð°ÐºÑ‚ÑƒÐ°Ð»ÑŒÐ½Ð¾ Ð´Ð¾ Ð´Ð°Ñ‚Ñ‹";
+$MESS["STATUS_ENTITY_COLOR_FIELD"] = "Ð¦Ð²ÐµÑ‚ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
 ?>

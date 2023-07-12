@@ -1,13 +1,13 @@
 <?
-$MESS ['STAT_RECORDS_LIST'] = "Äèíàìèêà ïîñåùàåìîñòè ïî ñòðàíàì";
-$MESS ['STAT_F_PERIOD'] = "Ïåðèîä";
-$MESS ['STAT_F_COUNTRY_ID'] = "Ñòðàíà";
-$MESS ['STAT_F_DATA_TYPE'] = "Òèï äàííûõ:";
-$MESS ['STAT_SESSIONS'] = "Ñåññèè";
-$MESS ['STAT_HITS'] = "Õèòû";
-$MESS ['STAT_NEW_GUESTS'] = "Íîâûå ïîñåòèòåëè";
-$MESS ['STAT_EVENTS'] = "Ñîáûòèÿ";
-$MESS ['STAT_DYNAMIC_GRAPH'] = "Çà îïðåäåëåííûé ïåðèîä âðåìåíè";
-$MESS ['STAT_STATIC_GRAPH'] = "Çà âñå âðåìÿ âåäåíèÿ ñòàòèñòèêè";
-$MESS ['STAT_NO_DATA'] = "Íåò äàííûõ äëÿ ïîñòðîåíèÿ äèàãðàììû";
+$MESS ['STAT_RECORDS_LIST'] = "Ð”Ð¸Ð½Ð°Ð¼Ð¸ÐºÐ° Ð¿Ð¾ÑÐµÑ‰Ð°ÐµÐ¼Ð¾ÑÑ‚Ð¸ Ð¿Ð¾ ÑÑ‚Ñ€Ð°Ð½Ð°Ð¼";
+$MESS ['STAT_F_PERIOD'] = "ÐŸÐµÑ€Ð¸Ð¾Ð´";
+$MESS ['STAT_F_COUNTRY_ID'] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð°";
+$MESS ['STAT_F_DATA_TYPE'] = "Ð¢Ð¸Ð¿ Ð´Ð°Ð½Ð½Ñ‹Ñ…:";
+$MESS ['STAT_SESSIONS'] = "Ð¡ÐµÑÑÐ¸Ð¸";
+$MESS ['STAT_HITS'] = "Ð¥Ð¸Ñ‚Ñ‹";
+$MESS ['STAT_NEW_GUESTS'] = "ÐÐ¾Ð²Ñ‹Ðµ Ð¿Ð¾ÑÐµÑ‚Ð¸Ñ‚ÐµÐ»Ð¸";
+$MESS ['STAT_EVENTS'] = "Ð¡Ð¾Ð±Ñ‹Ñ‚Ð¸Ñ";
+$MESS ['STAT_DYNAMIC_GRAPH'] = "Ð—Ð° Ð¾Ð¿Ñ€ÐµÐ´ÐµÐ»ÐµÐ½Ð½Ñ‹Ð¹ Ð¿ÐµÑ€Ð¸Ð¾Ð´ Ð²Ñ€ÐµÐ¼ÐµÐ½Ð¸";
+$MESS ['STAT_STATIC_GRAPH'] = "Ð—Ð° Ð²ÑÐµ Ð²Ñ€ÐµÐ¼Ñ Ð²ÐµÐ´ÐµÐ½Ð¸Ñ ÑÑ‚Ð°Ñ‚Ð¸ÑÑ‚Ð¸ÐºÐ¸";
+$MESS ['STAT_NO_DATA'] = "ÐÐµÑ‚ Ð´Ð°Ð½Ð½Ñ‹Ñ… Ð´Ð»Ñ Ð¿Ð¾ÑÑ‚Ñ€Ð¾ÐµÐ½Ð¸Ñ Ð´Ð¸Ð°Ð³Ñ€Ð°Ð¼Ð¼Ñ‹";
 ?>

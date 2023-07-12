@@ -1,3 +1,3 @@
 <?
-$MESS["SALE_CASHBOX_1C_TITLE"] = "Êàñà 1Ñ";
+$MESS["SALE_CASHBOX_1C_TITLE"] = "ÐšÐ°ÑÐ° 1Ð¡";
 ?>

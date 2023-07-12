@@ -1,7 +1,7 @@
 <?php
-$MESS["USER_TYPE_ADDRESS_DESCRIPTION"] = "Адрес";
-$MESS["USER_TYPE_ADDRESS_SHOW_MAP"] = "Показывать карту";
-$MESS["USER_TYPE_ADDRESS_NO_KEY_HINT"] = "Для работы с картами нужен ключ Google API. Введите его <a href=\"#settings_path##google_api_key\" target=\"_blank\">в настройках</a>.";
-$MESS["USER_TYPE_ADDRESS_NO_KEY_HINT_B24"] = "Для работы с картами нужен ключ Google API. Введите его <a href=\"#settings_path##google_api_key\" target=\"_blank\">в настройках</a>.";
-$MESS["USER_TYPE_ADDRESS_TRIAL_TITLE"] = "Пробный период работы Google-карт подошел к концу";
-$MESS["USER_TYPE_ADDRESS_TRIAL"] = "<span>Google-карты – всемирно известный сервис, который позволяет:</span><ol><li>Использовать подсказки при наборе адреса</li><li>Показывать сам адрес на интерактивной карте</li></ol><span>Добавление Google-карт к карточке CRM доступно, начиная с тарифа \"Проект+\" всего за 990 рублей.</span>";
+$MESS["USER_TYPE_ADDRESS_DESCRIPTION"] = "РђРґСЂРµСЃ";
+$MESS["USER_TYPE_ADDRESS_SHOW_MAP"] = "РџРѕРєР°Р·С‹РІР°С‚СЊ РєР°СЂС‚Сѓ";
+$MESS["USER_TYPE_ADDRESS_NO_KEY_HINT"] = "Р”Р»СЏ СЂР°Р±РѕС‚С‹ СЃ РєР°СЂС‚Р°РјРё РЅСѓР¶РµРЅ РєР»СЋС‡ Google API. Р’РІРµРґРёС‚Рµ РµРіРѕ <a href=\"#settings_path##google_api_key\" target=\"_blank\">РІ РЅР°СЃС‚СЂРѕР№РєР°С…</a>.";
+$MESS["USER_TYPE_ADDRESS_NO_KEY_HINT_B24"] = "Р”Р»СЏ СЂР°Р±РѕС‚С‹ СЃ РєР°СЂС‚Р°РјРё РЅСѓР¶РµРЅ РєР»СЋС‡ Google API. Р’РІРµРґРёС‚Рµ РµРіРѕ <a href=\"#settings_path##google_api_key\" target=\"_blank\">РІ РЅР°СЃС‚СЂРѕР№РєР°С…</a>.";
+$MESS["USER_TYPE_ADDRESS_TRIAL_TITLE"] = "РџСЂРѕР±РЅС‹Р№ РїРµСЂРёРѕРґ СЂР°Р±РѕС‚С‹ Google-РєР°СЂС‚ РїРѕРґРѕС€РµР» Рє РєРѕРЅС†Сѓ";
+$MESS["USER_TYPE_ADDRESS_TRIAL"] = "<span>Google-РєР°СЂС‚С‹ вЂ“ РІСЃРµРјРёСЂРЅРѕ РёР·РІРµСЃС‚РЅС‹Р№ СЃРµСЂРІРёСЃ, РєРѕС‚РѕСЂС‹Р№ РїРѕР·РІРѕР»СЏРµС‚:</span><ol><li>РСЃРїРѕР»СЊР·РѕРІР°С‚СЊ РїРѕРґСЃРєР°Р·РєРё РїСЂРё РЅР°Р±РѕСЂРµ Р°РґСЂРµСЃР°</li><li>РџРѕРєР°Р·С‹РІР°С‚СЊ СЃР°Рј Р°РґСЂРµСЃ РЅР° РёРЅС‚РµСЂР°РєС‚РёРІРЅРѕР№ РєР°СЂС‚Рµ</li></ol><span>Р”РѕР±Р°РІР»РµРЅРёРµ Google-РєР°СЂС‚ Рє РєР°СЂС‚РѕС‡РєРµ CRM РґРѕСЃС‚СѓРїРЅРѕ, РЅР°С‡РёРЅР°СЏ СЃ С‚Р°СЂРёС„Р° \"РџСЂРѕРµРєС‚+\" РІСЃРµРіРѕ Р·Р° 990 СЂСѓР±Р»РµР№.</span>";

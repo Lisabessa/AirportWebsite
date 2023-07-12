@@ -1,11 +1,11 @@
 <?
-$MESS ['MAIN_ADM_CONTROLLER_ERR8'] = "Äëÿ äîáàâëåíèÿ íåîáõîäèìû àäìèíèñòðàòèâíûå ïðèâèëåãèè íà ïîäêëþ÷àåìîì ñàéòå";
-$MESS ['MAIN_ADM_CONTROLLER_ERR2'] = "Ðàçîâûé êóïîí íà ðåãèñòðàöèþ ïðîñðî÷åí";
-$MESS ['MAIN_ADM_CONTROLLER_ERR3'] = "Íå çàäàí URL êîíòðîëëåðà";
-$MESS ['MAIN_ADM_CONTROLLER_ERR4'] = "Ðàçîâûé êóïîí íà ðåãèñòðàöèþ çàäàí íåâåðíî";
-$MESS ['MAIN_ADM_CONTROLLER_ERR5'] = "Îòâåò êîíòðîëëåðà ïîäïèñàí íåêîððåêòíî";
-$MESS ['MAIN_ADM_CONTROLLER_ERR6'] = "Íåèçâåñòíàÿ îïåðàöèÿ:";
-$MESS ['MAIN_ADM_CONTROLLER_ERR7'] = "Îøèáêà âûïîëíåíèÿ:";
-$MESS ['MAIN_ADM_CONTROLLER_ERR7_AGAIN'] = "Ïîïðîáóéòå, ïîæàëóéñòà, åùå ðàç.";
-$MESS ['MAIN_ADM_CONTROLLER_BACK_URL'] = "Âåðíóòüñÿ";
+$MESS ['MAIN_ADM_CONTROLLER_ERR8'] = "Ð”Ð»Ñ Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ñ Ð½ÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ñ‹ Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¸Ð²Ð½Ñ‹Ðµ Ð¿Ñ€Ð¸Ð²Ð¸Ð»ÐµÐ³Ð¸Ð¸ Ð½Ð° Ð¿Ð¾Ð´ÐºÐ»ÑŽÑ‡Ð°ÐµÐ¼Ð¾Ð¼ ÑÐ°Ð¹Ñ‚Ðµ";
+$MESS ['MAIN_ADM_CONTROLLER_ERR2'] = "Ð Ð°Ð·Ð¾Ð²Ñ‹Ð¹ ÐºÑƒÐ¿Ð¾Ð½ Ð½Ð° Ñ€ÐµÐ³Ð¸ÑÑ‚Ñ€Ð°Ñ†Ð¸ÑŽ Ð¿Ñ€Ð¾ÑÑ€Ð¾Ñ‡ÐµÐ½";
+$MESS ['MAIN_ADM_CONTROLLER_ERR3'] = "ÐÐµ Ð·Ð°Ð´Ð°Ð½ URL ÐºÐ¾Ð½Ñ‚Ñ€Ð¾Ð»Ð»ÐµÑ€Ð°";
+$MESS ['MAIN_ADM_CONTROLLER_ERR4'] = "Ð Ð°Ð·Ð¾Ð²Ñ‹Ð¹ ÐºÑƒÐ¿Ð¾Ð½ Ð½Ð° Ñ€ÐµÐ³Ð¸ÑÑ‚Ñ€Ð°Ñ†Ð¸ÑŽ Ð·Ð°Ð´Ð°Ð½ Ð½ÐµÐ²ÐµÑ€Ð½Ð¾";
+$MESS ['MAIN_ADM_CONTROLLER_ERR5'] = "ÐžÑ‚Ð²ÐµÑ‚ ÐºÐ¾Ð½Ñ‚Ñ€Ð¾Ð»Ð»ÐµÑ€Ð° Ð¿Ð¾Ð´Ð¿Ð¸ÑÐ°Ð½ Ð½ÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ð¾";
+$MESS ['MAIN_ADM_CONTROLLER_ERR6'] = "ÐÐµÐ¸Ð·Ð²ÐµÑÑ‚Ð½Ð°Ñ Ð¾Ð¿ÐµÑ€Ð°Ñ†Ð¸Ñ:";
+$MESS ['MAIN_ADM_CONTROLLER_ERR7'] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð²Ñ‹Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¸Ñ:";
+$MESS ['MAIN_ADM_CONTROLLER_ERR7_AGAIN'] = "ÐŸÐ¾Ð¿Ñ€Ð¾Ð±ÑƒÐ¹Ñ‚Ðµ, Ð¿Ð¾Ð¶Ð°Ð»ÑƒÐ¹ÑÑ‚Ð°, ÐµÑ‰Ðµ Ñ€Ð°Ð·.";
+$MESS ['MAIN_ADM_CONTROLLER_BACK_URL'] = "Ð’ÐµÑ€Ð½ÑƒÑ‚ÑŒÑÑ";
 ?>

@@ -1,10 +1,10 @@
 <?
-$MESS ['FLOW_MENU_MAIN'] = "Äîêóìåíòîîáîðîò";
-$MESS ['FLOW_MENU_DOCUMENTS'] = "Äîêóìåíòû";
-$MESS ['FLOW_MENU_DOCUMENTS_ALT'] = "Äîêóìåíòû, âêëþ÷åííûå â ñèñòåìó äîêóìåíòîîáîðîòà";
-$MESS ['FLOW_MENU_STAGE'] = "Ñòàòóñû";
-$MESS ['FLOW_MENU_STAGE_ALT'] = "Âîçìîæíûå ñòàòóñû äîêóìåíòà";
-$MESS ['FLOW_MENU_HISTORY'] = "Èñòîðèÿ";
-$MESS ['FLOW_MENU_HISTORY_ALT'] = "Èñòîðèÿ èçìåíåíèé äîêóìåíòîâ";
-$MESS ['FLOW_MENU_MAIN_TITLE'] = "Óïðàâëåíèå äîêóìåíòàìè";
+$MESS ['FLOW_MENU_MAIN'] = "Ð”Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð¾Ð¾Ð±Ð¾Ñ€Ð¾Ñ‚";
+$MESS ['FLOW_MENU_DOCUMENTS'] = "Ð”Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ñ‹";
+$MESS ['FLOW_MENU_DOCUMENTS_ALT'] = "Ð”Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ñ‹, Ð²ÐºÐ»ÑŽÑ‡ÐµÐ½Ð½Ñ‹Ðµ Ð² ÑÐ¸ÑÑ‚ÐµÐ¼Ñƒ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð¾Ð¾Ð±Ð¾Ñ€Ð¾Ñ‚Ð°";
+$MESS ['FLOW_MENU_STAGE'] = "Ð¡Ñ‚Ð°Ñ‚ÑƒÑÑ‹";
+$MESS ['FLOW_MENU_STAGE_ALT'] = "Ð’Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ñ‹Ðµ ÑÑ‚Ð°Ñ‚ÑƒÑÑ‹ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð°";
+$MESS ['FLOW_MENU_HISTORY'] = "Ð˜ÑÑ‚Ð¾Ñ€Ð¸Ñ";
+$MESS ['FLOW_MENU_HISTORY_ALT'] = "Ð˜ÑÑ‚Ð¾Ñ€Ð¸Ñ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ð¹ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð¾Ð²";
+$MESS ['FLOW_MENU_MAIN_TITLE'] = "Ð£Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð°Ð¼Ð¸";
 ?>

@@ -1,2 +1,2 @@
 <?php
-$MESS['EMPTY_REPORT_HANDLER'] = 'Без данных';
+$MESS['EMPTY_REPORT_HANDLER'] = 'Р‘РµР· РґР°РЅРЅС‹С…';

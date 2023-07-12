@@ -1,7 +1,7 @@
 <?
-$MESS["SENDER_TEMPLATES_CATEGORY_RECENT"] = "Недавно использованные";
-$MESS["SENDER_TEMPLATES_CATEGORY_BASE"] = "Предустановленные";
-$MESS["SENDER_TEMPLATES_CATEGORY_USER"] = "Мои шаблоны";
-$MESS["SENDER_TEMPLATES_CATEGORY_CASES"] = "Проверенные решения от профессионалов и полезные вам";
-$MESS["SENDER_TEMPLATES_CATEGORY_ADDITIONAL"] = "Дополнительно";
+$MESS["SENDER_TEMPLATES_CATEGORY_RECENT"] = "РќРµРґР°РІРЅРѕ РёСЃРїРѕР»СЊР·РѕРІР°РЅРЅС‹Рµ";
+$MESS["SENDER_TEMPLATES_CATEGORY_BASE"] = "РџСЂРµРґСѓСЃС‚Р°РЅРѕРІР»РµРЅРЅС‹Рµ";
+$MESS["SENDER_TEMPLATES_CATEGORY_USER"] = "РњРѕРё С€Р°Р±Р»РѕРЅС‹";
+$MESS["SENDER_TEMPLATES_CATEGORY_CASES"] = "РџСЂРѕРІРµСЂРµРЅРЅС‹Рµ СЂРµС€РµРЅРёСЏ РѕС‚ РїСЂРѕС„РµСЃСЃРёРѕРЅР°Р»РѕРІ Рё РїРѕР»РµР·РЅС‹Рµ РІР°Рј";
+$MESS["SENDER_TEMPLATES_CATEGORY_ADDITIONAL"] = "Р”РѕРїРѕР»РЅРёС‚РµР»СЊРЅРѕ";
 ?>

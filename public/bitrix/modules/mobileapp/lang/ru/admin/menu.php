@@ -1,5 +1,5 @@
 <?
-$MESS["MOBILE_APP"] = "Мобильное приложение";
-$MESS["MOBILE_APP_LIST"] = "Список приложений";
-$MESS["MOBILE_DESIGNER"] = "Конструктор мобильных приложений";
-$MESS["MOBILEAPP_PUSH_NOTIFICATIONS"] = "Push-уведомления";
+$MESS["MOBILE_APP"] = "РњРѕР±РёР»СЊРЅРѕРµ РїСЂРёР»РѕР¶РµРЅРёРµ";
+$MESS["MOBILE_APP_LIST"] = "РЎРїРёСЃРѕРє РїСЂРёР»РѕР¶РµРЅРёР№";
+$MESS["MOBILE_DESIGNER"] = "РљРѕРЅСЃС‚СЂСѓРєС‚РѕСЂ РјРѕР±РёР»СЊРЅС‹С… РїСЂРёР»РѕР¶РµРЅРёР№";
+$MESS["MOBILEAPP_PUSH_NOTIFICATIONS"] = "Push-СѓРІРµРґРѕРјР»РµРЅРёСЏ";

@@ -1,2 +1,2 @@
 <?php
-$MESS['SALE_HPS_LIQPAY_POST_ERROR'] = 'Íåêîððåêòíûé îòâåò îò ñåðâåðà';
+$MESS['SALE_HPS_LIQPAY_POST_ERROR'] = 'ÐÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ñ‹Ð¹ Ð¾Ñ‚Ð²ÐµÑ‚ Ð¾Ñ‚ ÑÐµÑ€Ð²ÐµÑ€Ð°';

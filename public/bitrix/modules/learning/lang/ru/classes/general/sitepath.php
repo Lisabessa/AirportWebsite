@@ -1,6 +1,6 @@
 <?
-$MESS ['LRN_GSP_EMPTY_PATH'] = "Íå óêàçàí ïóòü ê êóðñó";
-$MESS ['LRN_GSP_EMPTY_TYPE'] = "Íå óêàçàí òèï ïóòè";
-$MESS ['LRN_GSP_EMPTY_SITE_ID'] = "Íå óêàçàí ñàéò";
-$MESS ['LRN_GSP_ERROR_NO_SITE'] = "Ñàéò ñ êîäîì &quot;#ID#&quot; íå íàéäåí";
+$MESS ['LRN_GSP_EMPTY_PATH'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ð¿ÑƒÑ‚ÑŒ Ðº ÐºÑƒÑ€ÑÑƒ";
+$MESS ['LRN_GSP_EMPTY_TYPE'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ñ‚Ð¸Ð¿ Ð¿ÑƒÑ‚Ð¸";
+$MESS ['LRN_GSP_EMPTY_SITE_ID'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ ÑÐ°Ð¹Ñ‚";
+$MESS ['LRN_GSP_ERROR_NO_SITE'] = "Ð¡Ð°Ð¹Ñ‚ Ñ ÐºÐ¾Ð´Ð¾Ð¼ &quot;#ID#&quot; Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
 ?>

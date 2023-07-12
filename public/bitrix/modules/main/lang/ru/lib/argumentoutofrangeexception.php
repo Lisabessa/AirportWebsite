@@ -1,6 +1,6 @@
 <?php
-$MESS["argument_out_of_range_array_exception_message"] = "Àðãóìåíò '#PARAMETER#' äîëæåí ïðèíèìàòü îäíî èç ñëåäóþùèõ çíà÷åíèé: #ALLOWABLE_VALUES#";
-$MESS["argument_out_of_range_between_exception_message"] = "Çíà÷åíèå àðãóìåíòà '#PARAMETER#' äîëæíî áûòü ìåæäó #LOWER_LIMIT# è #UPPER_LIMIT#";
-$MESS["argument_out_of_range_upper_exception_message"] = "Çíà÷åíèå àðãóìåíòà '#PARAMETER#' äîëæíî áûòü íå áîëüøå #UPPER_LIMIT#";
-$MESS["argument_out_of_range_lower_exception_message"] = "Çíà÷åíèå àðãóìåíòà '#PARAMETER#' äîëæíî áûòü íå ìåíüøå #LOWER_LIMIT#";
-$MESS["argument_out_of_range_exception_message"] = "Çíà÷åíèå àðãóìåíòà '#PARAMETER#' íå ïîïàäàåò â äèàïàçîí äîïóñòèìûõ çíà÷åíèé";
+$MESS["argument_out_of_range_array_exception_message"] = "ÐÑ€Ð³ÑƒÐ¼ÐµÐ½Ñ‚ '#PARAMETER#' Ð´Ð¾Ð»Ð¶ÐµÐ½ Ð¿Ñ€Ð¸Ð½Ð¸Ð¼Ð°Ñ‚ÑŒ Ð¾Ð´Ð½Ð¾ Ð¸Ð· ÑÐ»ÐµÐ´ÑƒÑŽÑ‰Ð¸Ñ… Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ð¹: #ALLOWABLE_VALUES#";
+$MESS["argument_out_of_range_between_exception_message"] = "Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð°Ñ€Ð³ÑƒÐ¼ÐµÐ½Ñ‚Ð° '#PARAMETER#' Ð´Ð¾Ð»Ð¶Ð½Ð¾ Ð±Ñ‹Ñ‚ÑŒ Ð¼ÐµÐ¶Ð´Ñƒ #LOWER_LIMIT# Ð¸ #UPPER_LIMIT#";
+$MESS["argument_out_of_range_upper_exception_message"] = "Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð°Ñ€Ð³ÑƒÐ¼ÐµÐ½Ñ‚Ð° '#PARAMETER#' Ð´Ð¾Ð»Ð¶Ð½Ð¾ Ð±Ñ‹Ñ‚ÑŒ Ð½Ðµ Ð±Ð¾Ð»ÑŒÑˆÐµ #UPPER_LIMIT#";
+$MESS["argument_out_of_range_lower_exception_message"] = "Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð°Ñ€Ð³ÑƒÐ¼ÐµÐ½Ñ‚Ð° '#PARAMETER#' Ð´Ð¾Ð»Ð¶Ð½Ð¾ Ð±Ñ‹Ñ‚ÑŒ Ð½Ðµ Ð¼ÐµÐ½ÑŒÑˆÐµ #LOWER_LIMIT#";
+$MESS["argument_out_of_range_exception_message"] = "Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð°Ñ€Ð³ÑƒÐ¼ÐµÐ½Ñ‚Ð° '#PARAMETER#' Ð½Ðµ Ð¿Ð¾Ð¿Ð°Ð´Ð°ÐµÑ‚ Ð² Ð´Ð¸Ð°Ð¿Ð°Ð·Ð¾Ð½ Ð´Ð¾Ð¿ÑƒÑÑ‚Ð¸Ð¼Ñ‹Ñ… Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ð¹";

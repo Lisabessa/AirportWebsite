@@ -1,10 +1,10 @@
 <?
-$MESS["SKGOP_EMPTY_PERS_TYPE"]="Íå óñòàíîâëåí òèï ïëàòåëüùèêà";
-$MESS["SKGOP_EMPTY_PROP_NAME"]="Íå óñòàíîâëåíî íàçâàíèå ñâîéñòâà";
-$MESS["SKGOP_EMPTY_PROP_TYPE"]="Íå óñòàíîâëåí òèï ñâîéñòâà";
-$MESS["SKGOP_WRONG_PROP_TYPE"]="Òèï ñâîéñòâà íå âåðåí";
-$MESS["SKGOP_EMPTY_PROP_GROUP"]="Íå óñòàíîâëåíà ãðóïïà ñâîéñòâ";
-$MESS["SKGOP_NO_PERS_TYPE"]="Òèï ïëàòåëüùèêà ñ êîäîì #ID# íå íàéäåí";
-$MESS['SALE_GOPE_WRONG_EMAIL'] = "E-Mail àäðåñ '#EMAIL#' â ïîëå '#NAME#' íå êîððåêòåí";
-$MESS['SALE_GOPE_FIELD_EMPTY'] = "Ïîëå '#NAME#' äîëæíî áûòü çàïîëíåíî";
+$MESS["SKGOP_EMPTY_PERS_TYPE"]="ÐÐµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½ Ñ‚Ð¸Ð¿ Ð¿Ð»Ð°Ñ‚ÐµÐ»ÑŒÑ‰Ð¸ÐºÐ°";
+$MESS["SKGOP_EMPTY_PROP_NAME"]="ÐÐµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð¾ Ð½Ð°Ð·Ð²Ð°Ð½Ð¸Ðµ ÑÐ²Ð¾Ð¹ÑÑ‚Ð²Ð°";
+$MESS["SKGOP_EMPTY_PROP_TYPE"]="ÐÐµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½ Ñ‚Ð¸Ð¿ ÑÐ²Ð¾Ð¹ÑÑ‚Ð²Ð°";
+$MESS["SKGOP_WRONG_PROP_TYPE"]="Ð¢Ð¸Ð¿ ÑÐ²Ð¾Ð¹ÑÑ‚Ð²Ð° Ð½Ðµ Ð²ÐµÑ€ÐµÐ½";
+$MESS["SKGOP_EMPTY_PROP_GROUP"]="ÐÐµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð° Ð³Ñ€ÑƒÐ¿Ð¿Ð° ÑÐ²Ð¾Ð¹ÑÑ‚Ð²";
+$MESS["SKGOP_NO_PERS_TYPE"]="Ð¢Ð¸Ð¿ Ð¿Ð»Ð°Ñ‚ÐµÐ»ÑŒÑ‰Ð¸ÐºÐ° Ñ ÐºÐ¾Ð´Ð¾Ð¼ #ID# Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
+$MESS['SALE_GOPE_WRONG_EMAIL'] = "E-Mail Ð°Ð´Ñ€ÐµÑ '#EMAIL#' Ð² Ð¿Ð¾Ð»Ðµ '#NAME#' Ð½Ðµ ÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚ÐµÐ½";
+$MESS['SALE_GOPE_FIELD_EMPTY'] = "ÐŸÐ¾Ð»Ðµ '#NAME#' Ð´Ð¾Ð»Ð¶Ð½Ð¾ Ð±Ñ‹Ñ‚ÑŒ Ð·Ð°Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¾";
 ?>

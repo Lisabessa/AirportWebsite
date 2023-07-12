@@ -1,6 +1,6 @@
 <?
-$MESS ['SONET_GS_EMPTY_SITE_ID'] = "Íå óêàçàí ñàéò òåìû";
-$MESS ['SONET_GS_ERROR_NO_SITE'] = "Ñàéò òåìû óêàçàí íåâåðíî";
-$MESS ['SONET_GS_EMPTY_NAME'] = "Íå óêàçàíî íàçâàíèå òåìû";
-$MESS ['SONET_GS_NOT_EMPTY_SUBJECT'] = "Äàííàÿ òåìà íå ïóñòà";
+$MESS ['SONET_GS_EMPTY_SITE_ID'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ ÑÐ°Ð¹Ñ‚ Ñ‚ÐµÐ¼Ñ‹";
+$MESS ['SONET_GS_ERROR_NO_SITE'] = "Ð¡Ð°Ð¹Ñ‚ Ñ‚ÐµÐ¼Ñ‹ ÑƒÐºÐ°Ð·Ð°Ð½ Ð½ÐµÐ²ÐµÑ€Ð½Ð¾";
+$MESS ['SONET_GS_EMPTY_NAME'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾ Ð½Ð°Ð·Ð²Ð°Ð½Ð¸Ðµ Ñ‚ÐµÐ¼Ñ‹";
+$MESS ['SONET_GS_NOT_EMPTY_SUBJECT'] = "Ð”Ð°Ð½Ð½Ð°Ñ Ñ‚ÐµÐ¼Ð° Ð½Ðµ Ð¿ÑƒÑÑ‚Ð°";
 ?>

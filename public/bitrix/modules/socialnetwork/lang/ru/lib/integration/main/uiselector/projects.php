@@ -1,3 +1,3 @@
 <?
-$MESS["MAIN_UI_SELECTOR_TAB_PROJECTS"] = "Мои проекты";
+$MESS["MAIN_UI_SELECTOR_TAB_PROJECTS"] = "РњРѕРё РїСЂРѕРµРєС‚С‹";
 ?>

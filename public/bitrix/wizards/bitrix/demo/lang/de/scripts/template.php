@@ -1,3 +1,3 @@
 <?
-$MESS["JAVASCRIPT_NOT_ENABLE"] = "Um den Installationsassistenten zu starten, benˆtigen Sie Javascript. Es scheint so, als ob Javascript bei Ihnen entweder deaktiviert ist oder von Ihrem Browser nicht unterst¸tzt wird. ƒndern sie Ihre  Browsereinstellungen und <a href=\"\">versuchen Sie es erneut</a>.";
+$MESS["JAVASCRIPT_NOT_ENABLE"] = "Um den Installationsassistenten zu starten, ben—Ütigen Sie Javascript. Es scheint so, als ob Javascript bei Ihnen entweder deaktiviert ist oder von Ihrem Browser nicht unterst—åtzt wird. –îndern sie Ihre  Browsereinstellungen und <a href=\"\">versuchen Sie es erneut</a>.";
 ?>

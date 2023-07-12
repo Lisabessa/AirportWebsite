@@ -1,5 +1,5 @@
 <?php
 
-$MESS['BP_FIELDTYPE_MAIL_SENDER'] = 'Îòïðàâèòåëü E-mail';
-$MESS['BP_FIELDTYPE_MAIL_SENDER_AUTO'] = 'Àâòîìàòè÷åñêèé âûáîð';
-$MESS['BP_FIELDTYPE_MAIL_SENDER_ADD'] = 'Äîáàâèòü îòïðàâèòåëÿ';
+$MESS['BP_FIELDTYPE_MAIL_SENDER'] = 'ÐžÑ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»ÑŒ E-mail';
+$MESS['BP_FIELDTYPE_MAIL_SENDER_AUTO'] = 'ÐÐ²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸Ð¹ Ð²Ñ‹Ð±Ð¾Ñ€';
+$MESS['BP_FIELDTYPE_MAIL_SENDER_ADD'] = 'Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»Ñ';

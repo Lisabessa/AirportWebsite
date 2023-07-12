@@ -1,6 +1,6 @@
 <?
-$MESS["SALE_JS_ADMIN_ORDER_CONF_BARCODE"] = "Øòðèõêîä";
-$MESS["SALE_JS_ADMIN_ORDER_CONF_BARCODES"] = "Øòðèõêîäû";
-$MESS["SALE_JS_ADMIN_ORDER_CONF_CLOSE"] = "Çàêðûòü";
-$MESS["SALE_JS_ADMIN_ORDER_CONF_MARKING_CODE"] = "Ìàðêèðîâî÷íûé êîä";
-$MESS["SALE_JS_ADMIN_ORDER_CONF_INPUT_BARCODES"] = "Ââåäèòå øòðèõêîäû";
+$MESS["SALE_JS_ADMIN_ORDER_CONF_BARCODE"] = "Ð¨Ñ‚Ñ€Ð¸Ñ…ÐºÐ¾Ð´";
+$MESS["SALE_JS_ADMIN_ORDER_CONF_BARCODES"] = "Ð¨Ñ‚Ñ€Ð¸Ñ…ÐºÐ¾Ð´Ñ‹";
+$MESS["SALE_JS_ADMIN_ORDER_CONF_CLOSE"] = "Ð—Ð°ÐºÑ€Ñ‹Ñ‚ÑŒ";
+$MESS["SALE_JS_ADMIN_ORDER_CONF_MARKING_CODE"] = "ÐœÐ°Ñ€ÐºÐ¸Ñ€Ð¾Ð²Ð¾Ñ‡Ð½Ñ‹Ð¹ ÐºÐ¾Ð´";
+$MESS["SALE_JS_ADMIN_ORDER_CONF_INPUT_BARCODES"] = "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ ÑˆÑ‚Ñ€Ð¸Ñ…ÐºÐ¾Ð´Ñ‹";

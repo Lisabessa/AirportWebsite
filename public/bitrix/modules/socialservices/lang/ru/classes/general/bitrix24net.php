@@ -1,8 +1,8 @@
 <?
-$MESS["socserv_b24net_id"] = "Идентификатор сайта:";
-$MESS["socserv_b24net_secret"] = "Секретный код сайта:";
-$MESS["socserv_b24net_domain"] = "Домен регистрации:";
-$MESS["socserv_b24net_note"] = "Используйте вашу учетную запись на Битрикс24 для входа на сайт.";
-$MESS["socserv_b24net_note_intranet"] = "Войти, используя аккаунт Битрикс24.";
-$MESS["socserv_b24net_sett_note"] = "<a href=\"javascript:void(0)\" onclick=\"networkRegister(this)\">Зарегистрировать сайт в Битрикс24</a>";
+$MESS["socserv_b24net_id"] = "РРґРµРЅС‚РёС„РёРєР°С‚РѕСЂ СЃР°Р№С‚Р°:";
+$MESS["socserv_b24net_secret"] = "РЎРµРєСЂРµС‚РЅС‹Р№ РєРѕРґ СЃР°Р№С‚Р°:";
+$MESS["socserv_b24net_domain"] = "Р”РѕРјРµРЅ СЂРµРіРёСЃС‚СЂР°С†РёРё:";
+$MESS["socserv_b24net_note"] = "РСЃРїРѕР»СЊР·СѓР№С‚Рµ РІР°С€Сѓ СѓС‡РµС‚РЅСѓСЋ Р·Р°РїРёСЃСЊ РЅР° Р‘РёС‚СЂРёРєСЃ24 РґР»СЏ РІС…РѕРґР° РЅР° СЃР°Р№С‚.";
+$MESS["socserv_b24net_note_intranet"] = "Р’РѕР№С‚Рё, РёСЃРїРѕР»СЊР·СѓСЏ Р°РєРєР°СѓРЅС‚ Р‘РёС‚СЂРёРєСЃ24.";
+$MESS["socserv_b24net_sett_note"] = "<a href=\"javascript:void(0)\" onclick=\"networkRegister(this)\">Р—Р°СЂРµРіРёСЃС‚СЂРёСЂРѕРІР°С‚СЊ СЃР°Р№С‚ РІ Р‘РёС‚СЂРёРєСЃ24</a>";
 ?>

@@ -1,11 +1,11 @@
 <?
-$MESS["PAGE_ENTITY_CACHE_KEY_FIELD"] = "ID êåøà";
-$MESS["PAGE_ENTITY_HOST_FIELD"] = "Õîñò";
-$MESS["PAGE_ENTITY_URI_FIELD"] = "Àäðåñ ñòðàíèöû";
-$MESS["PAGE_ENTITY_TITLE_FIELD"] = "Íàçâàíèå ñòðàíèöû";
-$MESS["PAGE_ENTITY_CREATED_FIELD"] = "Äàòà ñîçäàíèÿ";
-$MESS["PAGE_ENTITY_CHANGED_FIELD"] = "Äàòà èçìåíåíèÿ";
-$MESS["PAGE_ENTITY_LAST_VIEWED_FIELD"] = "Äàòà ïðîñìîòðà";
-$MESS["PAGE_ENTITY_VIEWS_FIELD"] = "Ïðîñìîòðîâ";
-$MESS["PAGE_ENTITY_REWRITES_FIELD"] = "Ïåðåçàïèñåé";
-$MESS["PAGE_ENTITY_SIZE_FIELD"] = "Ðàçìåð";
+$MESS["PAGE_ENTITY_CACHE_KEY_FIELD"] = "ID ÐºÐµÑˆÐ°";
+$MESS["PAGE_ENTITY_HOST_FIELD"] = "Ð¥Ð¾ÑÑ‚";
+$MESS["PAGE_ENTITY_URI_FIELD"] = "ÐÐ´Ñ€ÐµÑ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹";
+$MESS["PAGE_ENTITY_TITLE_FIELD"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹";
+$MESS["PAGE_ENTITY_CREATED_FIELD"] = "Ð”Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ";
+$MESS["PAGE_ENTITY_CHANGED_FIELD"] = "Ð”Ð°Ñ‚Ð° Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ";
+$MESS["PAGE_ENTITY_LAST_VIEWED_FIELD"] = "Ð”Ð°Ñ‚Ð° Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð°";
+$MESS["PAGE_ENTITY_VIEWS_FIELD"] = "ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð¾Ð²";
+$MESS["PAGE_ENTITY_REWRITES_FIELD"] = "ÐŸÐµÑ€ÐµÐ·Ð°Ð¿Ð¸ÑÐµÐ¹";
+$MESS["PAGE_ENTITY_SIZE_FIELD"] = "Ð Ð°Ð·Ð¼ÐµÑ€";

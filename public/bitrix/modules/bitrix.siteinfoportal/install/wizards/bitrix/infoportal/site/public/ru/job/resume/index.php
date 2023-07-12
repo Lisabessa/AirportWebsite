@@ -1,8 +1,8 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Резюме");
+$APPLICATION->SetTitle("Р РµР·СЋРјРµ");
 ?>
-<h4><a href="#SITE_DIR#job/resume/my/?edit=Y">Добавить резюме</a> | <a href="#SITE_DIR#job/resume/my/">Мои резюме</a></h4>
+<h4><a href="#SITE_DIR#job/resume/my/?edit=Y">Р”РѕР±Р°РІРёС‚СЊ СЂРµР·СЋРјРµ</a> | <a href="#SITE_DIR#job/resume/my/">РњРѕРё СЂРµР·СЋРјРµ</a></h4>
 <?$APPLICATION->IncludeComponent("bitrix:catalog", "resume", array(
 	"IBLOCK_TYPE" => "job",
 	"IBLOCK_ID" => "#RESUME_IBLOCK_ID#",
@@ -72,7 +72,7 @@ $APPLICATION->SetTitle("Резюме");
 	"USE_ALSO_BUY" => "N",
 	"DISPLAY_TOP_PAGER" => "N",
 	"DISPLAY_BOTTOM_PAGER" => "Y",
-	"PAGER_TITLE" => "Резюме",
+	"PAGER_TITLE" => "Р РµР·СЋРјРµ",
 	"PAGER_SHOW_ALWAYS" => "N",
 	"PAGER_TEMPLATE" => "",
 	"PAGER_DESC_NUMBERING" => "N",

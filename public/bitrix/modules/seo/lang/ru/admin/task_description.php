@@ -1,5 +1,5 @@
 <?
-$MESS ['TASK_NAME_SEO_DENIED'] = "Äîñòóï çàïðåùåí";
-$MESS ['TASK_NAME_SEO_EDIT'] = "Àíàëèç ñòðàíèö è ñàéòà";
-$MESS ['TASK_NAME_SEO_FULL_ACCESS'] = "Ïîëíûé äîñòóï";
+$MESS ['TASK_NAME_SEO_DENIED'] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ð·Ð°Ð¿Ñ€ÐµÑ‰ÐµÐ½";
+$MESS ['TASK_NAME_SEO_EDIT'] = "ÐÐ½Ð°Ð»Ð¸Ð· ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ† Ð¸ ÑÐ°Ð¹Ñ‚Ð°";
+$MESS ['TASK_NAME_SEO_FULL_ACCESS'] = "ÐŸÐ¾Ð»Ð½Ñ‹Ð¹ Ð´Ð¾ÑÑ‚ÑƒÐ¿";
 ?>

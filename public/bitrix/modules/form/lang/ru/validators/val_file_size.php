@@ -1,7 +1,7 @@
 <?
-$MESS['FORM_VALIDATOR_FILE_SIZE_DESCRIPTION'] = "Ðàçìåð ôàéëà";
-$MESS['FORM_VALIDATOR_FILE_SIZE_SETTINGS_SIZE_FROM'] = "Ìèíèìàëüíûé ðàçìåð (áàéò)";
-$MESS['FORM_VALIDATOR_FILE_SIZE_SETTINGS_SIZE_TO'] = "Ìàêñèìàëüíûé ðàçìåð (áàéò)";
-$MESS['FORM_VALIDATOR_FILE_SIZE_ERROR_LESS'] = "#FIELD_NAME#: ñëèøêîì ìàëåíüêèé ôàéë";
-$MESS['FORM_VALIDATOR_FILE_SIZE_ERROR_MORE'] = "#FIELD_NAME#: ñëèøêîì áîëüøîé ôàéë";
+$MESS['FORM_VALIDATOR_FILE_SIZE_DESCRIPTION'] = "Ð Ð°Ð·Ð¼ÐµÑ€ Ñ„Ð°Ð¹Ð»Ð°";
+$MESS['FORM_VALIDATOR_FILE_SIZE_SETTINGS_SIZE_FROM'] = "ÐœÐ¸Ð½Ð¸Ð¼Ð°Ð»ÑŒÐ½Ñ‹Ð¹ Ñ€Ð°Ð·Ð¼ÐµÑ€ (Ð±Ð°Ð¹Ñ‚)";
+$MESS['FORM_VALIDATOR_FILE_SIZE_SETTINGS_SIZE_TO'] = "ÐœÐ°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ñ‹Ð¹ Ñ€Ð°Ð·Ð¼ÐµÑ€ (Ð±Ð°Ð¹Ñ‚)";
+$MESS['FORM_VALIDATOR_FILE_SIZE_ERROR_LESS'] = "#FIELD_NAME#: ÑÐ»Ð¸ÑˆÐºÐ¾Ð¼ Ð¼Ð°Ð»ÐµÐ½ÑŒÐºÐ¸Ð¹ Ñ„Ð°Ð¹Ð»";
+$MESS['FORM_VALIDATOR_FILE_SIZE_ERROR_MORE'] = "#FIELD_NAME#: ÑÐ»Ð¸ÑˆÐºÐ¾Ð¼ Ð±Ð¾Ð»ÑŒÑˆÐ¾Ð¹ Ñ„Ð°Ð¹Ð»";
 ?>

@@ -1,8 +1,8 @@
 <?
-$MESS ['LEARNING_ADMIN_TITLE'] = "Ñïèñîê òåñòîâ";
-$MESS ['LEARNING_ADD'] = "Äîáàâèòü òåñò";
-$MESS ['LEARNING_ADD_ALT'] = "Äîáàâèòü íîâûé òåñò";
-$MESS ['LEARNING_ERROR'] = "Îøèáêà ïðè ñîõðàíåíèè òåñòà";
-$MESS ['SAVE_ERROR'] = "Îøèáêà ïðè èçìåíåíèè òåñòà #";
-$MESS ['LEARNING_TEST_ADM_STATS'] = "Êîë-âî ïîïûòîê (óñïåøíûõ/âñåãî)";
+$MESS ['LEARNING_ADMIN_TITLE'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ñ‚ÐµÑÑ‚Ð¾Ð²";
+$MESS ['LEARNING_ADD'] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ñ‚ÐµÑÑ‚";
+$MESS ['LEARNING_ADD_ALT'] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð½Ð¾Ð²Ñ‹Ð¹ Ñ‚ÐµÑÑ‚";
+$MESS ['LEARNING_ERROR'] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð¸Ð¸ Ñ‚ÐµÑÑ‚Ð°";
+$MESS ['SAVE_ERROR'] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ð¸ Ñ‚ÐµÑÑ‚Ð° #";
+$MESS ['LEARNING_TEST_ADM_STATS'] = "ÐšÐ¾Ð»-Ð²Ð¾ Ð¿Ð¾Ð¿Ñ‹Ñ‚Ð¾Ðº (ÑƒÑÐ¿ÐµÑˆÐ½Ñ‹Ñ…/Ð²ÑÐµÐ³Ð¾)";
 ?>

@@ -29,7 +29,7 @@ $MESS["WWW"] = "Website";
 $MESS["Tax"] = "Steuer";
 $MESS["Sum"] = "Summe";
 $MESS["TaxSum"] = "Steuersumme";
-$MESS["Name"] = "Überschrift";
-$MESS["Currency"] = "Währung";
+$MESS["Name"] = "Ãœberschrift";
+$MESS["Currency"] = "WÃ¤hrung";
 $MESS["TimeDoc"] = "Zeit";
 ?>

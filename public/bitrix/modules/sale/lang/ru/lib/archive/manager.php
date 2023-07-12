@@ -1,4 +1,4 @@
 <?
-$MESS["ARCHIVE_ORDER_NOT_FOUND"] = "Çàêàçû äëÿ ïåðåíîñà â àðõèâ íå íàéäåíû";
-$MESS["ARCHIVE_ERROR_ORDER_MESSAGE"] = "Îøèáêà àðõèâèðîâàíèÿ çàêàçà ¹#ID#";
+$MESS["ARCHIVE_ORDER_NOT_FOUND"] = "Ð—Ð°ÐºÐ°Ð·Ñ‹ Ð´Ð»Ñ Ð¿ÐµÑ€ÐµÐ½Ð¾ÑÐ° Ð² Ð°Ñ€Ñ…Ð¸Ð² Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ñ‹";
+$MESS["ARCHIVE_ERROR_ORDER_MESSAGE"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð°Ñ€Ñ…Ð¸Ð²Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ Ð·Ð°ÐºÐ°Ð·Ð° â„–#ID#";
 

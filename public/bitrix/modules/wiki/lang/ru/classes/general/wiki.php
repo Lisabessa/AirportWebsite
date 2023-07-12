@@ -1,8 +1,8 @@
 <?
-$MESS["Service:Categories"] = "Êàòåãîðèè";
-$MESS["Service:Categories_TITLE"] = "Ñïèñîê âñåõ êàòåãîðèé";
-$MESS["Service:Categories_TITLE"] = "Ñïèñîê âñåõ êàòåãîðèé";
-$MESS["WIKI_USER_T_ADD_ERR"] = "Îøèáêà ñîõðàíåíèÿ ïåðâîé ñòðàíèöû";
-$MESS["WIKI_RECOVER_COMMENT"] = "Âîññòàíîâëåí äîêóìåíò îò";
-$MESS["WIKI_ERROR_IMAGE_ATTACHED"] = "Èçîáðàæåíèå ñ òàêèì èìåíåì óæå ñóùåñòâóåò";
+$MESS["Service:Categories"] = "ÐšÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ð¸";
+$MESS["Service:Categories_TITLE"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð²ÑÐµÑ… ÐºÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ð¹";
+$MESS["Service:Categories_TITLE"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð²ÑÐµÑ… ÐºÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ð¹";
+$MESS["WIKI_USER_T_ADD_ERR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð¸Ñ Ð¿ÐµÑ€Ð²Ð¾Ð¹ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹";
+$MESS["WIKI_RECOVER_COMMENT"] = "Ð’Ð¾ÑÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚ Ð¾Ñ‚";
+$MESS["WIKI_ERROR_IMAGE_ATTACHED"] = "Ð˜Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ðµ Ñ Ñ‚Ð°ÐºÐ¸Ð¼ Ð¸Ð¼ÐµÐ½ÐµÐ¼ ÑƒÐ¶Ðµ ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÐµÑ‚";
 ?>

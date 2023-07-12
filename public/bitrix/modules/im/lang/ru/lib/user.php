@@ -1,4 +1,4 @@
 <?
-$MESS["IM_USER_CHAT_PRIVATE"] = "×àò îäèí-íà-îäèí";
-$MESS["IM_USER_GUEST_NAME"] = "Ãîñòü";
-$MESS["IM_USER_ANONYM_NAME"] = "Àíîíèì";
+$MESS["IM_USER_CHAT_PRIVATE"] = "Ð§Ð°Ñ‚ Ð¾Ð´Ð¸Ð½-Ð½Ð°-Ð¾Ð´Ð¸Ð½";
+$MESS["IM_USER_GUEST_NAME"] = "Ð“Ð¾ÑÑ‚ÑŒ";
+$MESS["IM_USER_ANONYM_NAME"] = "ÐÐ½Ð¾Ð½Ð¸Ð¼";

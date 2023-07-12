@@ -1,10 +1,10 @@
 <?
-$MESS ['STAT_TITLE'] = "Âûáîð òèïîâ ñîáûòèÿ";
-$MESS ['STAT_DESCRIPTION'] = "Îïèñàíèå";
-$MESS ['STAT_NAME'] = "Íàçâàíèå";
-$MESS ['STAT_EVENT_TYPE_PAGES'] = "Òèïû ñîáûòèÿ";
-$MESS ['STAT_SELECT'] = "Âûáðàòü";
-$MESS ['STAT_CHOOSE'] = "Âûáðàòü";
-$MESS ['STAT_CHOOSE_TITLE'] = "Âûáðàòü òèï ñîáûòèÿ è çàêðûòü îêíî.";
-$MESS ['STAT_SELECT_TITLE'] = "Âûáðàòü îòìå÷åííûå òèïû";
+$MESS ['STAT_TITLE'] = "Ð’Ñ‹Ð±Ð¾Ñ€ Ñ‚Ð¸Ð¿Ð¾Ð² ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ";
+$MESS ['STAT_DESCRIPTION'] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ";
+$MESS ['STAT_NAME'] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
+$MESS ['STAT_EVENT_TYPE_PAGES'] = "Ð¢Ð¸Ð¿Ñ‹ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ";
+$MESS ['STAT_SELECT'] = "Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ";
+$MESS ['STAT_CHOOSE'] = "Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ";
+$MESS ['STAT_CHOOSE_TITLE'] = "Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ Ñ‚Ð¸Ð¿ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ Ð¸ Ð·Ð°ÐºÑ€Ñ‹Ñ‚ÑŒ Ð¾ÐºÐ½Ð¾.";
+$MESS ['STAT_SELECT_TITLE'] = "Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ Ð¾Ñ‚Ð¼ÐµÑ‡ÐµÐ½Ð½Ñ‹Ðµ Ñ‚Ð¸Ð¿Ñ‹";
 ?>

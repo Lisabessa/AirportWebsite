@@ -1,11 +1,11 @@
 <?
-$MESS["T_IBLOCK_DESC_NEWS_DATE"] = "Âûâîäèòü äàòó ýëåìåíòà";
-$MESS["T_IBLOCK_DESC_NEWS_NAME"] = "Âûâîäèòü íàçâàíèå ýëåìåíòà";
-$MESS["T_IBLOCK_DESC_NEWS_PICTURE"] = "Âûâîäèòü èçîáðàæåíèå äëÿ àíîíñà";
-$MESS["T_IBLOCK_DESC_NEWS_TEXT"] = "Âûâîäèòü òåêñò àíîíñà";
-$MESS["T_IBLOCK_DESC_IMG_WIDTH"] = "Øèðèíà êàðòèíêè äëÿ àíîíñà";
-$MESS["T_IBLOCK_DESC_IMG_HEIGHT"] = "Âûñîòà êàðòèíêè äëÿ àíîíñà";
-$MESS["T_IBLOCK_DESC_LINE_NEWS_COUNT"] = "Êîëè÷åñòâî ýëåìåíòîâ âûâîäèìûõ â îäíîé ñòðîêå òàáëèöû";
-$MESS["T_IBLOCK_NAME_BLOCK"] = "Çàãîëîâîê äëÿ áëîêà ñ íîâîñòÿìè îò ïîëüçîâàòåëåé";
-$MESS["T_IBLOCK_DESC_NAME_BLOCK"] = "Íàðîäíûå íîâîñòè";
+$MESS["T_IBLOCK_DESC_NEWS_DATE"] = "Ð’Ñ‹Ð²Ð¾Ð´Ð¸Ñ‚ÑŒ Ð´Ð°Ñ‚Ñƒ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð°";
+$MESS["T_IBLOCK_DESC_NEWS_NAME"] = "Ð’Ñ‹Ð²Ð¾Ð´Ð¸Ñ‚ÑŒ Ð½Ð°Ð·Ð²Ð°Ð½Ð¸Ðµ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð°";
+$MESS["T_IBLOCK_DESC_NEWS_PICTURE"] = "Ð’Ñ‹Ð²Ð¾Ð´Ð¸Ñ‚ÑŒ Ð¸Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ðµ Ð´Ð»Ñ Ð°Ð½Ð¾Ð½ÑÐ°";
+$MESS["T_IBLOCK_DESC_NEWS_TEXT"] = "Ð’Ñ‹Ð²Ð¾Ð´Ð¸Ñ‚ÑŒ Ñ‚ÐµÐºÑÑ‚ Ð°Ð½Ð¾Ð½ÑÐ°";
+$MESS["T_IBLOCK_DESC_IMG_WIDTH"] = "Ð¨Ð¸Ñ€Ð¸Ð½Ð° ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ¸ Ð´Ð»Ñ Ð°Ð½Ð¾Ð½ÑÐ°";
+$MESS["T_IBLOCK_DESC_IMG_HEIGHT"] = "Ð’Ñ‹ÑÐ¾Ñ‚Ð° ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ¸ Ð´Ð»Ñ Ð°Ð½Ð¾Ð½ÑÐ°";
+$MESS["T_IBLOCK_DESC_LINE_NEWS_COUNT"] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð² Ð²Ñ‹Ð²Ð¾Ð´Ð¸Ð¼Ñ‹Ñ… Ð² Ð¾Ð´Ð½Ð¾Ð¹ ÑÑ‚Ñ€Ð¾ÐºÐµ Ñ‚Ð°Ð±Ð»Ð¸Ñ†Ñ‹";
+$MESS["T_IBLOCK_NAME_BLOCK"] = "Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº Ð´Ð»Ñ Ð±Ð»Ð¾ÐºÐ° Ñ Ð½Ð¾Ð²Ð¾ÑÑ‚ÑÐ¼Ð¸ Ð¾Ñ‚ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÐµÐ¹";
+$MESS["T_IBLOCK_DESC_NAME_BLOCK"] = "ÐÐ°Ñ€Ð¾Ð´Ð½Ñ‹Ðµ Ð½Ð¾Ð²Ð¾ÑÑ‚Ð¸";
 ?>

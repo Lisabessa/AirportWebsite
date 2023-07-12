@@ -1,9 +1,9 @@
 <?
-$MESS["CONTACT_PULL_LIST_PREFIX"] = "Èñòî÷íèê: ";
-$MESS["SENDER_ENTITY_CONTACT_VALID_EMAIL"] = "Ïîëå 'Email' íå ÿâëÿåòñÿ email-àäðåñîì.";
+$MESS["CONTACT_PULL_LIST_PREFIX"] = "Ð˜ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº: ";
+$MESS["SENDER_ENTITY_CONTACT_VALID_EMAIL"] = "ÐŸÐ¾Ð»Ðµ 'Email' Ð½Ðµ ÑÐ²Ð»ÑÐµÑ‚ÑÑ email-Ð°Ð´Ñ€ÐµÑÐ¾Ð¼.";
 
-$MESS["SENDER_ENTITY_LIST_FIELD_TITLE_NAME"] = "Íàçâàíèå";
-$MESS["SENDER_ENTITY_LIST_FIELD_TITLE_SORT"] = "Ñîðòèðîâêà";
-$MESS["SENDER_ENTITY_LIST_FIELD_TITLE_CODE"] = "Ñèìâîëüíûé êîä";
-$MESS["SENDER_ENTITY_LIST_FIELD_NAME_PATTERN"] = "Íàáîð îò %date%";
+$MESS["SENDER_ENTITY_LIST_FIELD_TITLE_NAME"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
+$MESS["SENDER_ENTITY_LIST_FIELD_TITLE_SORT"] = "Ð¡Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²ÐºÐ°";
+$MESS["SENDER_ENTITY_LIST_FIELD_TITLE_CODE"] = "Ð¡Ð¸Ð¼Ð²Ð¾Ð»ÑŒÐ½Ñ‹Ð¹ ÐºÐ¾Ð´";
+$MESS["SENDER_ENTITY_LIST_FIELD_NAME_PATTERN"] = "ÐÐ°Ð±Ð¾Ñ€ Ð¾Ñ‚ %date%";
 ?>

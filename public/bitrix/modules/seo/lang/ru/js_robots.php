@@ -1,19 +1,19 @@
 <?
-$MESS["SEO_ROBOT_ACTION_AUTO"] = "Ñòàðòîâûé íàáîð";
-$MESS["SEO_ROBOT_ACTION_AUTO_TITLE"] = "Íàáîð ñòàíäàðòíûõ ïðàâèë è îãðàíè÷åíèé";
-$MESS["SEO_ROBOT_ACTION_DISALLOW"] = "Çàïðåòèòü ôàéë/ïàïêó (Disallow)";
-$MESS["SEO_ROBOT_ACTION_DISALLOW_TITLE"] = "Çàïðåòèòü èíäåêñèðîâàíèå ôàéëîâ èëè ïàïîê ïî ìàñêå ïóòè";
-$MESS["SEO_ROBOT_ACTION_DISALLOW_PATH"] = "Çàïðåùàåìûå ïóòè";
-$MESS["SEO_ROBOT_ACTION_ALLOW"] = "Ðàçðåøèòü ôàéë/ïàïêó (Allow)";
-$MESS["SEO_ROBOT_ACTION_ALLOW_TITLE"] = "Ðàçðåøèòü èíäåêñèðîâàíèå ôàéëîâ èëè ïàïîê ïî ìàñêå ïóòè";
-$MESS["SEO_ROBOT_ACTION_ALLOW_PATH"] = "Ðàçðåøàåìûå ïóòè";
-$MESS["SEO_ROBOT_ACTION_MAIN_HOST"] = "Ãëàâíîå çåðêàëî (Host)";
-$MESS["SEO_ROBOT_ACTION_MAIN_HOST_TITLE"] = "Çàäàòü àäðåñ ãëàâíîãî çåðêàëà ñàéòà";
-$MESS["SEO_ROBOT_MAIN_HOST"] = "Ãëàâíîå çåðêàëî";
-$MESS["SEO_ROBOT_ACTION_CRAWL_DELAY"] = "Èíòåðâàë ìåæäó çàïðîñàìè (Crawl-delay)";
-$MESS["SEO_ROBOT_ACTION_CRAWL_DELAY_TITLE"] = "Ìèíèìàëüíûé âðåìåííîé èíòåðâàë ìåæäó çàïðîñàìè ïîèñêîâîãî ðîáîòà";
-$MESS["SEO_ROBOT_CRAWL_DELAY"] = "Èíòåðâàë";
-$MESS["SEO_ROBOT_ACTION_SITEMAP"] = "Êàðòà ñàéòà (Sitemap)";
-$MESS["SEO_ROBOT_ACTION_SITEMAP_URL"] = "Ññûëêà íà êàðòó ñàéòà";
-$MESS["SEO_ROBOT_ACTION_SITEMAP_TITLE"] = "Óêàçàòü ññûëêó íà ôàéë sitemap.xml";
+$MESS["SEO_ROBOT_ACTION_AUTO"] = "Ð¡Ñ‚Ð°Ñ€Ñ‚Ð¾Ð²Ñ‹Ð¹ Ð½Ð°Ð±Ð¾Ñ€";
+$MESS["SEO_ROBOT_ACTION_AUTO_TITLE"] = "ÐÐ°Ð±Ð¾Ñ€ ÑÑ‚Ð°Ð½Ð´Ð°Ñ€Ñ‚Ð½Ñ‹Ñ… Ð¿Ñ€Ð°Ð²Ð¸Ð» Ð¸ Ð¾Ð³Ñ€Ð°Ð½Ð¸Ñ‡ÐµÐ½Ð¸Ð¹";
+$MESS["SEO_ROBOT_ACTION_DISALLOW"] = "Ð—Ð°Ð¿Ñ€ÐµÑ‚Ð¸Ñ‚ÑŒ Ñ„Ð°Ð¹Ð»/Ð¿Ð°Ð¿ÐºÑƒ (Disallow)";
+$MESS["SEO_ROBOT_ACTION_DISALLOW_TITLE"] = "Ð—Ð°Ð¿Ñ€ÐµÑ‚Ð¸Ñ‚ÑŒ Ð¸Ð½Ð´ÐµÐºÑÐ¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ñ„Ð°Ð¹Ð»Ð¾Ð² Ð¸Ð»Ð¸ Ð¿Ð°Ð¿Ð¾Ðº Ð¿Ð¾ Ð¼Ð°ÑÐºÐµ Ð¿ÑƒÑ‚Ð¸";
+$MESS["SEO_ROBOT_ACTION_DISALLOW_PATH"] = "Ð—Ð°Ð¿Ñ€ÐµÑ‰Ð°ÐµÐ¼Ñ‹Ðµ Ð¿ÑƒÑ‚Ð¸";
+$MESS["SEO_ROBOT_ACTION_ALLOW"] = "Ð Ð°Ð·Ñ€ÐµÑˆÐ¸Ñ‚ÑŒ Ñ„Ð°Ð¹Ð»/Ð¿Ð°Ð¿ÐºÑƒ (Allow)";
+$MESS["SEO_ROBOT_ACTION_ALLOW_TITLE"] = "Ð Ð°Ð·Ñ€ÐµÑˆÐ¸Ñ‚ÑŒ Ð¸Ð½Ð´ÐµÐºÑÐ¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ñ„Ð°Ð¹Ð»Ð¾Ð² Ð¸Ð»Ð¸ Ð¿Ð°Ð¿Ð¾Ðº Ð¿Ð¾ Ð¼Ð°ÑÐºÐµ Ð¿ÑƒÑ‚Ð¸";
+$MESS["SEO_ROBOT_ACTION_ALLOW_PATH"] = "Ð Ð°Ð·Ñ€ÐµÑˆÐ°ÐµÐ¼Ñ‹Ðµ Ð¿ÑƒÑ‚Ð¸";
+$MESS["SEO_ROBOT_ACTION_MAIN_HOST"] = "Ð“Ð»Ð°Ð²Ð½Ð¾Ðµ Ð·ÐµÑ€ÐºÐ°Ð»Ð¾ (Host)";
+$MESS["SEO_ROBOT_ACTION_MAIN_HOST_TITLE"] = "Ð—Ð°Ð´Ð°Ñ‚ÑŒ Ð°Ð´Ñ€ÐµÑ Ð³Ð»Ð°Ð²Ð½Ð¾Ð³Ð¾ Ð·ÐµÑ€ÐºÐ°Ð»Ð° ÑÐ°Ð¹Ñ‚Ð°";
+$MESS["SEO_ROBOT_MAIN_HOST"] = "Ð“Ð»Ð°Ð²Ð½Ð¾Ðµ Ð·ÐµÑ€ÐºÐ°Ð»Ð¾";
+$MESS["SEO_ROBOT_ACTION_CRAWL_DELAY"] = "Ð˜Ð½Ñ‚ÐµÑ€Ð²Ð°Ð» Ð¼ÐµÐ¶Ð´Ñƒ Ð·Ð°Ð¿Ñ€Ð¾ÑÐ°Ð¼Ð¸ (Crawl-delay)";
+$MESS["SEO_ROBOT_ACTION_CRAWL_DELAY_TITLE"] = "ÐœÐ¸Ð½Ð¸Ð¼Ð°Ð»ÑŒÐ½Ñ‹Ð¹ Ð²Ñ€ÐµÐ¼ÐµÐ½Ð½Ð¾Ð¹ Ð¸Ð½Ñ‚ÐµÑ€Ð²Ð°Ð» Ð¼ÐµÐ¶Ð´Ñƒ Ð·Ð°Ð¿Ñ€Ð¾ÑÐ°Ð¼Ð¸ Ð¿Ð¾Ð¸ÑÐºÐ¾Ð²Ð¾Ð³Ð¾ Ñ€Ð¾Ð±Ð¾Ñ‚Ð°";
+$MESS["SEO_ROBOT_CRAWL_DELAY"] = "Ð˜Ð½Ñ‚ÐµÑ€Ð²Ð°Ð»";
+$MESS["SEO_ROBOT_ACTION_SITEMAP"] = "ÐšÐ°Ñ€Ñ‚Ð° ÑÐ°Ð¹Ñ‚Ð° (Sitemap)";
+$MESS["SEO_ROBOT_ACTION_SITEMAP_URL"] = "Ð¡ÑÑ‹Ð»ÐºÐ° Ð½Ð° ÐºÐ°Ñ€Ñ‚Ñƒ ÑÐ°Ð¹Ñ‚Ð°";
+$MESS["SEO_ROBOT_ACTION_SITEMAP_TITLE"] = "Ð£ÐºÐ°Ð·Ð°Ñ‚ÑŒ ÑÑÑ‹Ð»ÐºÑƒ Ð½Ð° Ñ„Ð°Ð¹Ð» sitemap.xml";
 ?>

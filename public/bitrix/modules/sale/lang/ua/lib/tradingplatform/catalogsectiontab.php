@@ -1,5 +1,5 @@
 <?
-$MESS["SALE_TRADING_PLATFORMS_TAB"] = "Òîðãîâ³ ïëàòôîðìè";
-$MESS["SALE_TRADING_PLATFORMS_TAB_TITLE"] = "Íàëàøòóâàííÿ ïàðàìåòð³â òîðãîâèõ ïëàòôîðì";
-$MESS["SALE_TRADING_PLATFORMS_NOT_ACTIVE"] = "Òîðãîâà ïëàòôîðìà íå íàëàøòîâàíà äëÿ öüîãî ñàéòó";
+$MESS["SALE_TRADING_PLATFORMS_TAB"] = "Ð¢Ð¾Ñ€Ð³Ð¾Ð²Ñ– Ð¿Ð»Ð°Ñ‚Ñ„Ð¾Ñ€Ð¼Ð¸";
+$MESS["SALE_TRADING_PLATFORMS_TAB_TITLE"] = "ÐÐ°Ð»Ð°ÑˆÑ‚ÑƒÐ²Ð°Ð½Ð½Ñ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ–Ð² Ñ‚Ð¾Ñ€Ð³Ð¾Ð²Ð¸Ñ… Ð¿Ð»Ð°Ñ‚Ñ„Ð¾Ñ€Ð¼";
+$MESS["SALE_TRADING_PLATFORMS_NOT_ACTIVE"] = "Ð¢Ð¾Ñ€Ð³Ð¾Ð²Ð° Ð¿Ð»Ð°Ñ‚Ñ„Ð¾Ñ€Ð¼Ð° Ð½Ðµ Ð½Ð°Ð»Ð°ÑˆÑ‚Ð¾Ð²Ð°Ð½Ð° Ð´Ð»Ñ Ñ†ÑŒÐ¾Ð³Ð¾ ÑÐ°Ð¹Ñ‚Ñƒ";
 ?>

@@ -1,7 +1,7 @@
 <?
-$MESS["SALE_EBAY_TITLE"] = "Íàñòðîéêè \"Ebay\"";
-$MESS["SALE_EBAY_AUTH_FAIL"] = "Îøèáêà àâòîðèçàöèè";
-$MESS["SALE_EBAY_GET_TOKEN_FAIL"] = "Îøèáêà ïîëó÷åíèÿ òîêåíà";
-$MESS["SALE_EBAY_YOUR_TOKEN"] = "Âàø òîêåí	 (ñêîïèðóéòå è âñòàâüòå â ïîëå \"Àâòîðèçàöèîííûé òîêåí\")";
-$MESS["SALE_EBAY_YOUR_TOKEN_EXP"] = "Äåéñòâèòåëåí äî";
-$MESS["SALE_EBAY_CLOSE"] = "Çàêðûòü";
+$MESS["SALE_EBAY_TITLE"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ \"Ebay\"";
+$MESS["SALE_EBAY_AUTH_FAIL"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·Ð°Ñ†Ð¸Ð¸";
+$MESS["SALE_EBAY_GET_TOKEN_FAIL"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ð¾Ð»ÑƒÑ‡ÐµÐ½Ð¸Ñ Ñ‚Ð¾ÐºÐµÐ½Ð°";
+$MESS["SALE_EBAY_YOUR_TOKEN"] = "Ð’Ð°Ñˆ Ñ‚Ð¾ÐºÐµÐ½	 (ÑÐºÐ¾Ð¿Ð¸Ñ€ÑƒÐ¹Ñ‚Ðµ Ð¸ Ð²ÑÑ‚Ð°Ð²ÑŒÑ‚Ðµ Ð² Ð¿Ð¾Ð»Ðµ \"ÐÐ²Ñ‚Ð¾Ñ€Ð¸Ð·Ð°Ñ†Ð¸Ð¾Ð½Ð½Ñ‹Ð¹ Ñ‚Ð¾ÐºÐµÐ½\")";
+$MESS["SALE_EBAY_YOUR_TOKEN_EXP"] = "Ð”ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ‚ÐµÐ»ÐµÐ½ Ð´Ð¾";
+$MESS["SALE_EBAY_CLOSE"] = "Ð—Ð°ÐºÑ€Ñ‹Ñ‚ÑŒ";

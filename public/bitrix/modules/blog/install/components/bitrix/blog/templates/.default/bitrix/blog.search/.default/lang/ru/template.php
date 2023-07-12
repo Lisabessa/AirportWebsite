@@ -1,7 +1,7 @@
 <?
-$MESS ['BLOG_MAIN_SEARCH_SEARCH'] = "Íàéòè:";
-$MESS ['BLOG_MAIN_SEARCH_SORT_RELEVATION'] = "Ñîðòèðîâàòü ïî ðåëåâàíòíîñòè";
-$MESS ['BLOG_MAIN_SEARCH_SORTED_DATE'] = "Îòñîðòèðîâàíî ïî äàòå";
-$MESS ['BLOG_MAIN_SEARCH_SORTED_RELEVATION'] = "Îòñîðòèðîâàíî ïî ðåëåâàíòíîñòè";
-$MESS ['BLOG_MAIN_SEARCH_SORT_DATE'] = "Ñîðòèðîâàòü ïî äàòå";
+$MESS ['BLOG_MAIN_SEARCH_SEARCH'] = "ÐÐ°Ð¹Ñ‚Ð¸:";
+$MESS ['BLOG_MAIN_SEARCH_SORT_RELEVATION'] = "Ð¡Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ð¿Ð¾ Ñ€ÐµÐ»ÐµÐ²Ð°Ð½Ñ‚Ð½Ð¾ÑÑ‚Ð¸";
+$MESS ['BLOG_MAIN_SEARCH_SORTED_DATE'] = "ÐžÑ‚ÑÐ¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¾ Ð¿Ð¾ Ð´Ð°Ñ‚Ðµ";
+$MESS ['BLOG_MAIN_SEARCH_SORTED_RELEVATION'] = "ÐžÑ‚ÑÐ¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¾ Ð¿Ð¾ Ñ€ÐµÐ»ÐµÐ²Ð°Ð½Ñ‚Ð½Ð¾ÑÑ‚Ð¸";
+$MESS ['BLOG_MAIN_SEARCH_SORT_DATE'] = "Ð¡Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ð¿Ð¾ Ð´Ð°Ñ‚Ðµ";
 ?>

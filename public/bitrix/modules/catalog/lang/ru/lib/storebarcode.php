@@ -1,11 +1,11 @@
 <?
-$MESS["STORE_BARCODE_ENTITY_ID_FIELD"] = "Èäåíòèôèêàòîð øòðèõêîäà";
-$MESS["STORE_BARCODE_ENTITY_PRODUCT_ID_FIELD"] = "Èäåíòèôèêàòîð òîâàðà";
-$MESS["STORE_BARCODE_ENTITY_BARCODE_FIELD"] = "Øòðèõêîä";
-$MESS["STORE_BARCODE_ENTITY_STORE_ID_FIELD"] = "Èäåíòèôèêàòîð ñêëàäà";
-$MESS["STORE_BARCODE_ENTITY_ORDER_ID_FIELD"] = "Èäåíòèôèêàòîð çàêàçà";
-$MESS["STORE_BARCODE_ENTITY_DATE_MODIFY_FIELD"] = "Äàòà èçìåíåíèÿ";
-$MESS["STORE_BARCODE_ENTITY_DATE_CREATE_FIELD"] = "Äàòà ñîçäàíèÿ";
-$MESS["STORE_BARCODE_ENTITY_CREATED_BY_FIELD"] = "Êåì ñîçäàí";
-$MESS["STORE_BARCODE_ENTITY_MODIFIED_BY_FIELD"] = "Êåì èçìåíåí";
+$MESS["STORE_BARCODE_ENTITY_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑˆÑ‚Ñ€Ð¸Ñ…ÐºÐ¾Ð´Ð°";
+$MESS["STORE_BARCODE_ENTITY_PRODUCT_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ñ‚Ð¾Ð²Ð°Ñ€Ð°";
+$MESS["STORE_BARCODE_ENTITY_BARCODE_FIELD"] = "Ð¨Ñ‚Ñ€Ð¸Ñ…ÐºÐ¾Ð´";
+$MESS["STORE_BARCODE_ENTITY_STORE_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÐºÐ»Ð°Ð´Ð°";
+$MESS["STORE_BARCODE_ENTITY_ORDER_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["STORE_BARCODE_ENTITY_DATE_MODIFY_FIELD"] = "Ð”Ð°Ñ‚Ð° Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ";
+$MESS["STORE_BARCODE_ENTITY_DATE_CREATE_FIELD"] = "Ð”Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ";
+$MESS["STORE_BARCODE_ENTITY_CREATED_BY_FIELD"] = "ÐšÐµÐ¼ ÑÐ¾Ð·Ð´Ð°Ð½";
+$MESS["STORE_BARCODE_ENTITY_MODIFIED_BY_FIELD"] = "ÐšÐµÐ¼ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½";
 ?>

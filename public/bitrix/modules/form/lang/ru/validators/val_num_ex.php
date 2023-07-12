@@ -1,10 +1,10 @@
 <?
-$MESS['FORM_VALIDATOR_VAL_NUM_EX_DESCRIPTION'] = "×èñëî â ïðåäåëàõ";
-$MESS['FORM_VALIDATOR_VAL_NUM_EX_SETTINGS_NUMBER_FROM'] = "Íèæíèé ïîðîã ÷èñëà";
-$MESS['FORM_VALIDATOR_VAL_NUM_EX_SETTINGS_NUMBER_TO'] = "Âåðõíèé ïîðîã ÷èñëà";
-$MESS['FORM_VALIDATOR_VAL_NUM_EX_SETTINGS_NUMBER_FLOAT'] = "Íå òîëüêî öåëîå";
-$MESS['FORM_VALIDATOR_VAL_NUM_EX_ERROR_NAN'] = "#FIELD_NAME#: ââåäåííîå çíà÷åíèå äîëæíî áûòü ÷èñëîì";
-$MESS['FORM_VALIDATOR_VAL_NUM_EX_ERROR_NOTINT'] = "#FIELD_NAME#: ââåäåííîå çíà÷åíèå äîëæíî áûòü öåëûì ÷èñëîì";
-$MESS['FORM_VALIDATOR_VAL_NUM_EX_ERROR_LESS'] = "#FIELD_NAME#: ñëèøêîì ìàëåíüêîå çíà÷åíèå";
-$MESS['FORM_VALIDATOR_VAL_NUM_EX_ERROR_MORE'] = "#FIELD_NAME#: ñëèøêîì áîëüøîå çíà÷åíèå";
+$MESS['FORM_VALIDATOR_VAL_NUM_EX_DESCRIPTION'] = "Ð§Ð¸ÑÐ»Ð¾ Ð² Ð¿Ñ€ÐµÐ´ÐµÐ»Ð°Ñ…";
+$MESS['FORM_VALIDATOR_VAL_NUM_EX_SETTINGS_NUMBER_FROM'] = "ÐÐ¸Ð¶Ð½Ð¸Ð¹ Ð¿Ð¾Ñ€Ð¾Ð³ Ñ‡Ð¸ÑÐ»Ð°";
+$MESS['FORM_VALIDATOR_VAL_NUM_EX_SETTINGS_NUMBER_TO'] = "Ð’ÐµÑ€Ñ…Ð½Ð¸Ð¹ Ð¿Ð¾Ñ€Ð¾Ð³ Ñ‡Ð¸ÑÐ»Ð°";
+$MESS['FORM_VALIDATOR_VAL_NUM_EX_SETTINGS_NUMBER_FLOAT'] = "ÐÐµ Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ñ†ÐµÐ»Ð¾Ðµ";
+$MESS['FORM_VALIDATOR_VAL_NUM_EX_ERROR_NAN'] = "#FIELD_NAME#: Ð²Ð²ÐµÐ´ÐµÐ½Ð½Ð¾Ðµ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð´Ð¾Ð»Ð¶Ð½Ð¾ Ð±Ñ‹Ñ‚ÑŒ Ñ‡Ð¸ÑÐ»Ð¾Ð¼";
+$MESS['FORM_VALIDATOR_VAL_NUM_EX_ERROR_NOTINT'] = "#FIELD_NAME#: Ð²Ð²ÐµÐ´ÐµÐ½Ð½Ð¾Ðµ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð´Ð¾Ð»Ð¶Ð½Ð¾ Ð±Ñ‹Ñ‚ÑŒ Ñ†ÐµÐ»Ñ‹Ð¼ Ñ‡Ð¸ÑÐ»Ð¾Ð¼";
+$MESS['FORM_VALIDATOR_VAL_NUM_EX_ERROR_LESS'] = "#FIELD_NAME#: ÑÐ»Ð¸ÑˆÐºÐ¾Ð¼ Ð¼Ð°Ð»ÐµÐ½ÑŒÐºÐ¾Ðµ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ";
+$MESS['FORM_VALIDATOR_VAL_NUM_EX_ERROR_MORE'] = "#FIELD_NAME#: ÑÐ»Ð¸ÑˆÐºÐ¾Ð¼ Ð±Ð¾Ð»ÑŒÑˆÐ¾Ðµ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ";
 ?>

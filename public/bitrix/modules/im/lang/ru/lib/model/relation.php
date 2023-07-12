@@ -1,15 +1,15 @@
 <?
-$MESS["RELATION_ENTITY_ID_FIELD"] = "Óíèêàëüíûé èäåíòèôèêàòîð";
-$MESS["RELATION_ENTITY_CHAT_ID_FIELD"] = "Èäåíòèôèêàòîð ÷àòà";
-$MESS["RELATION_ENTITY_MESSAGE_TYPE_FIELD"] = "Òèï ÷àòà";
-$MESS["RELATION_ENTITY_USER_ID_FIELD"] = "Èäåíòèôèêàòîð ïîëüçîâàòåëÿ";
-$MESS["RELATION_ENTITY_START_ID_FIELD"] = "Èäåíòèôèêàòîð íà÷àëüíîãî ñîîáùåíèÿ";
-$MESS["RELATION_ENTITY_LAST_ID_FIELD"] = "Èäåíòèôèêàòîð ïîñëåäíåãî ñîîáùåíèÿ";
-$MESS["RELATION_ENTITY_UNREAD_ID_FIELD"] = "Èäåíòèôèêàòîð ïåðâîãî íå ïðî÷èòàííîãî ñîîáùåíèÿ";
-$MESS["RELATION_ENTITY_LAST_SEND_ID_FIELD"] = "Èäåíòèôèêàòîð ïîñëåäíåãî îòïðàâëåííîãî ñîîáùåíèÿ";
-$MESS["RELATION_ENTITY_LAST_FILE_ID_FIELD"] = "Èäåíòèôèêàòîð ïîñëåäíåãî ôàéëà";
-$MESS["RELATION_ENTITY_LAST_READ_FIELD"] = "Èäåíòèôèêàòîð ïîñëåäíåãî ïðî÷èòàííîãî ñîîáùåíèÿ";
-$MESS["RELATION_ENTITY_STATUS_FIELD"] = "Ñòàòóñ";
-$MESS["RELATION_ENTITY_CALL_STATUS_FIELD"] = "Ñòàòóñ çâîíêà";
-$MESS["RELATION_ENTITY_NOTIFY_BLOCK_FIELD"] = "Íîòèôèêàöèÿ";
+$MESS["RELATION_ENTITY_ID_FIELD"] = "Ð£Ð½Ð¸ÐºÐ°Ð»ÑŒÐ½Ñ‹Ð¹ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€";
+$MESS["RELATION_ENTITY_CHAT_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ñ‡Ð°Ñ‚Ð°";
+$MESS["RELATION_ENTITY_MESSAGE_TYPE_FIELD"] = "Ð¢Ð¸Ð¿ Ñ‡Ð°Ñ‚Ð°";
+$MESS["RELATION_ENTITY_USER_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
+$MESS["RELATION_ENTITY_START_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð½Ð°Ñ‡Ð°Ð»ÑŒÐ½Ð¾Ð³Ð¾ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
+$MESS["RELATION_ENTITY_LAST_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¿Ð¾ÑÐ»ÐµÐ´Ð½ÐµÐ³Ð¾ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
+$MESS["RELATION_ENTITY_UNREAD_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¿ÐµÑ€Ð²Ð¾Ð³Ð¾ Ð½Ðµ Ð¿Ñ€Ð¾Ñ‡Ð¸Ñ‚Ð°Ð½Ð½Ð¾Ð³Ð¾ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
+$MESS["RELATION_ENTITY_LAST_SEND_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¿Ð¾ÑÐ»ÐµÐ´Ð½ÐµÐ³Ð¾ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð½Ð¾Ð³Ð¾ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
+$MESS["RELATION_ENTITY_LAST_FILE_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¿Ð¾ÑÐ»ÐµÐ´Ð½ÐµÐ³Ð¾ Ñ„Ð°Ð¹Ð»Ð°";
+$MESS["RELATION_ENTITY_LAST_READ_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¿Ð¾ÑÐ»ÐµÐ´Ð½ÐµÐ³Ð¾ Ð¿Ñ€Ð¾Ñ‡Ð¸Ñ‚Ð°Ð½Ð½Ð¾Ð³Ð¾ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
+$MESS["RELATION_ENTITY_STATUS_FIELD"] = "Ð¡Ñ‚Ð°Ñ‚ÑƒÑ";
+$MESS["RELATION_ENTITY_CALL_STATUS_FIELD"] = "Ð¡Ñ‚Ð°Ñ‚ÑƒÑ Ð·Ð²Ð¾Ð½ÐºÐ°";
+$MESS["RELATION_ENTITY_NOTIFY_BLOCK_FIELD"] = "ÐÐ¾Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ†Ð¸Ñ";
 ?>

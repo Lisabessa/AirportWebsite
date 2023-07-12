@@ -1,15 +1,15 @@
 <?
-$MESS["SONET_UM_GENERAL"] = "Îñíîâíîå";
-$MESS["SONET_UM_FRIENDS"] = "Äðóçüÿ";
-$MESS["SONET_UM_GROUPS"] = "Ãðóïïû";
-$MESS["SONET_UM_PHOTO"] = "Ôîòî";
-$MESS["SONET_UM_FORUM"] = "Ôîðóì";
-$MESS["SONET_UM_CALENDAR"] = "Êàëåíäàðü";
-$MESS["SONET_UM_FILES"] = "Ìîé Äèñê";
-$MESS["SONET_UM_BLOG"] = "Áëîã";
-$MESS["SONET_UM_TASKS"] = "Çàäà÷è";
-$MESS["SONET_UM_SEND_MESSAGE"] = "Íàïèñàòü ñîîáùåíèå";
-$MESS["SONET_UM_VIDEO_CALL"] = "Âèäåîçâîíîê";
-$MESS["SONET_UM_ONLINE"] = "íà ñàéòå";
-$MESS["SONET_UM_ABSENT"] = "(âíå îôèñà)";
+$MESS["SONET_UM_GENERAL"] = "ÐžÑÐ½Ð¾Ð²Ð½Ð¾Ðµ";
+$MESS["SONET_UM_FRIENDS"] = "Ð”Ñ€ÑƒÐ·ÑŒÑ";
+$MESS["SONET_UM_GROUPS"] = "Ð“Ñ€ÑƒÐ¿Ð¿Ñ‹";
+$MESS["SONET_UM_PHOTO"] = "Ð¤Ð¾Ñ‚Ð¾";
+$MESS["SONET_UM_FORUM"] = "Ð¤Ð¾Ñ€ÑƒÐ¼";
+$MESS["SONET_UM_CALENDAR"] = "ÐšÐ°Ð»ÐµÐ½Ð´Ð°Ñ€ÑŒ";
+$MESS["SONET_UM_FILES"] = "ÐœÐ¾Ð¹ Ð”Ð¸ÑÐº";
+$MESS["SONET_UM_BLOG"] = "Ð‘Ð»Ð¾Ð³";
+$MESS["SONET_UM_TASKS"] = "Ð—Ð°Ð´Ð°Ñ‡Ð¸";
+$MESS["SONET_UM_SEND_MESSAGE"] = "ÐÐ°Ð¿Ð¸ÑÐ°Ñ‚ÑŒ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ";
+$MESS["SONET_UM_VIDEO_CALL"] = "Ð’Ð¸Ð´ÐµÐ¾Ð·Ð²Ð¾Ð½Ð¾Ðº";
+$MESS["SONET_UM_ONLINE"] = "Ð½Ð° ÑÐ°Ð¹Ñ‚Ðµ";
+$MESS["SONET_UM_ABSENT"] = "(Ð²Ð½Ðµ Ð¾Ñ„Ð¸ÑÐ°)";
 ?>

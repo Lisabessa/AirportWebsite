@@ -1,6 +1,6 @@
 <?
 $MESS["ACCESS_DENIED"] = "Zugriff verweigert";
-$MESS["SALE_REFUND_HANDLERS_TITLE"] = "Rückgaben konfigurieren";
+$MESS["SALE_REFUND_HANDLERS_TITLE"] = "RÃ¼ckgaben konfigurieren";
 $MESS["SALE_REFUND_HANDLERS_LIST_EXTERNAL_ID"] = "Shop-ID";
 $MESS["SALE_REFUND_HANDLERS_LIST_NAME"] = "Handler-Name";
 $MESS["SALE_REFUND_HANDLERS_LIST_CONFIGURED"] = "Verbunden";

@@ -1,3 +1,3 @@
 <?
-$MESS["CONTROLLER_ERROR_PROPERTY_VALUE_NOT_EXISTS"] = "Çíà÷åííÿ âëàñòèâîñò³ íå ³ñíóº. [#ID#]";
+$MESS["CONTROLLER_ERROR_PROPERTY_VALUE_NOT_EXISTS"] = "Ð—Ð½Ð°Ñ‡ÐµÐ½Ð½Ñ Ð²Ð»Ð°ÑÑ‚Ð¸Ð²Ð¾ÑÑ‚Ñ– Ð½Ðµ Ñ–ÑÐ½ÑƒÑ”. [#ID#]";
 ?>

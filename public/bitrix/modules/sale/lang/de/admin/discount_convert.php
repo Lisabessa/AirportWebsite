@@ -13,9 +13,9 @@ $MESS["SALE_DISC_CONVERT_STEP"] = "Maximale Dauer pro Konvertierungsschritt:";
 $MESS["SALE_DISC_CONVERT_STEP_SEC"] = "Sekunden";
 $MESS["SALE_DISC_CONVERT_BUTTON"] = "Konvertieren";
 $MESS["SALE_DISC_CONVERT_STOP"] = "Stopp";
-$MESS["SALE_DISC_CONVERT_ERR"] = "Während der Konvertierung sind folgende Fehler aufgetreten:";
+$MESS["SALE_DISC_CONVERT_ERR"] = "WÃ¤hrend der Konvertierung sind folgende Fehler aufgetreten:";
 $MESS["SALE_DISC_CONVERT_ONE_ERROR"] = "Rabatt <a href=\"#LINK#\" target=\"_blank\">#NAME#</a><br>#MESS#";
-$MESS["SALE_DISC_CONVERT_ERROR_RESUME"] = "Bitte überprüfen und korrigieren Sie die Rabattbedingungen";
+$MESS["SALE_DISC_CONVERT_ERROR_RESUME"] = "Bitte Ã¼berprÃ¼fen und korrigieren Sie die Rabattbedingungen";
 $MESS["SALE_DISC_CONVERT_DISABLE"] = "Rabatte werden deaktiviert, nachdem die Konvertierung abgeschlossen ist.";
-$MESS["SALE_DISC_CONVERT_DISABLE_ALL"] = "Das Verfahren der Rabattanwendung hat sich geändert. Sie werden Rabatte manuell aktivieren müssen, nachdem die Konvertierung abgeschlossen sein wird.";
+$MESS["SALE_DISC_CONVERT_DISABLE_ALL"] = "Das Verfahren der Rabattanwendung hat sich geÃ¤ndert. Sie werden Rabatte manuell aktivieren mÃ¼ssen, nachdem die Konvertierung abgeschlossen sein wird.";
 ?>

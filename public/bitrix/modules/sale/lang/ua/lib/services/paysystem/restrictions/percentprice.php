@@ -1,5 +1,5 @@
 <?
-$MESS["SALE_PS_RESTRICTIONS_BY_PERCENT_PRICE"] = "% â³ä âàðòîñò³ çàìîâëåííÿ";
-$MESS["SALE_PS_RESTRICTIONS_BY_PRICE_PERCENT_TYPE_MORE"] = "% â³ä âàðòîñò³ çàìîâëåííÿ â³ä";
-$MESS["SALE_PS_RESTRICTIONS_BY_PRICE_PERCENT_TYPE_LESS"] = "% â³ä âàðòîñò³ çàìîâëåííÿ äî";
+$MESS["SALE_PS_RESTRICTIONS_BY_PERCENT_PRICE"] = "% Ð²Ñ–Ð´ Ð²Ð°Ñ€Ñ‚Ð¾ÑÑ‚Ñ– Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ";
+$MESS["SALE_PS_RESTRICTIONS_BY_PRICE_PERCENT_TYPE_MORE"] = "% Ð²Ñ–Ð´ Ð²Ð°Ñ€Ñ‚Ð¾ÑÑ‚Ñ– Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ Ð²Ñ–Ð´";
+$MESS["SALE_PS_RESTRICTIONS_BY_PRICE_PERCENT_TYPE_LESS"] = "% Ð²Ñ–Ð´ Ð²Ð°Ñ€Ñ‚Ð¾ÑÑ‚Ñ– Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ Ð´Ð¾";
 ?>

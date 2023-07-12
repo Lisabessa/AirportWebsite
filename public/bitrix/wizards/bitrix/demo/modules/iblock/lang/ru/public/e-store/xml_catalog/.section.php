@@ -1,3 +1,3 @@
 <?
-$MESS ['DEMO_IBLOCK_ESTORE_XMLCAT_SECTION_NAME'] = "Êàòàëîã òîâàðîâ èç 1Ñ.Ïðåäïðèÿòèå";
+$MESS ['DEMO_IBLOCK_ESTORE_XMLCAT_SECTION_NAME'] = "ÐšÐ°Ñ‚Ð°Ð»Ð¾Ð³ Ñ‚Ð¾Ð²Ð°Ñ€Ð¾Ð² Ð¸Ð· 1Ð¡.ÐŸÑ€ÐµÐ´Ð¿Ñ€Ð¸ÑÑ‚Ð¸Ðµ";
 ?>

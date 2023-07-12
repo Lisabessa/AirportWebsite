@@ -1,5 +1,5 @@
 <?
-$MESS["FORUM_EVENT_BEFORE_TOPIC_ADD"] = "Îøèáêà äîáàâëåíèÿ òåìû";
-$MESS["FORUM_ERROR_FIRST_POST_WAS_NOT_FOUND"] = "Ïåðâîå ñîîáùåíèå òåìû íå íàéäåíî.";
-$MESS["FORUM_EVENT_BEFORE_TOPIC_UPDATE_ERROR"] = "Îøèáêà èçìåíåíèÿ òåìû";
-$MESS["F_ERROR_TID_IS_LOST"] = "Òåìà íå íàéäåíà [#id#].";
+$MESS["FORUM_EVENT_BEFORE_TOPIC_ADD"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ñ Ñ‚ÐµÐ¼Ñ‹";
+$MESS["FORUM_ERROR_FIRST_POST_WAS_NOT_FOUND"] = "ÐŸÐµÑ€Ð²Ð¾Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ Ñ‚ÐµÐ¼Ñ‹ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾.";
+$MESS["FORUM_EVENT_BEFORE_TOPIC_UPDATE_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ Ñ‚ÐµÐ¼Ñ‹";
+$MESS["F_ERROR_TID_IS_LOST"] = "Ð¢ÐµÐ¼Ð° Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð° [#id#].";

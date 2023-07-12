@@ -1,17 +1,17 @@
 <?
-$MESS["ACCESS_DENIED"] = "Ошибка доступа";
-$MESS["SALE_SYNCHRONIZER_TITLE"] = "Выгрузка заказов в Битрикс24";
-$MESS["SALE_SYNCHRONIZER_DESCRIPTION"] = '<p class="crm-admin-paragraph"><a href="https://www.bitrix24.ru/apps/?app=bitrix.eshop" target="_blank">Установить решение</a> для интеграции в своем Битрикс24</p>';
-$MESS["SALE_SYNCHRONIZER_SETTINGS_TITLE"] = "Настройка подключения к Битрикс24.";
-$MESS["SALE_SYNCHRONIZER_SETTINGS_ACCESS_TOKEN"] = "Код доступа:";
-$MESS["SALE_SYNCHRONIZER_APPLY"] = "Подключиться";
-$MESS["SALE_SYNCHRONIZER_DISABLE"] = "Отключить";
+$MESS["ACCESS_DENIED"] = "РћС€РёР±РєР° РґРѕСЃС‚СѓРїР°";
+$MESS["SALE_SYNCHRONIZER_TITLE"] = "Р’С‹РіСЂСѓР·РєР° Р·Р°РєР°Р·РѕРІ РІ Р‘РёС‚СЂРёРєСЃ24";
+$MESS["SALE_SYNCHRONIZER_DESCRIPTION"] = '<p class="crm-admin-paragraph"><a href="https://www.bitrix24.ru/apps/?app=bitrix.eshop" target="_blank">РЈСЃС‚Р°РЅРѕРІРёС‚СЊ СЂРµС€РµРЅРёРµ</a> РґР»СЏ РёРЅС‚РµРіСЂР°С†РёРё РІ СЃРІРѕРµРј Р‘РёС‚СЂРёРєСЃ24</p>';
+$MESS["SALE_SYNCHRONIZER_SETTINGS_TITLE"] = "РќР°СЃС‚СЂРѕР№РєР° РїРѕРґРєР»СЋС‡РµРЅРёСЏ Рє Р‘РёС‚СЂРёРєСЃ24.";
+$MESS["SALE_SYNCHRONIZER_SETTINGS_ACCESS_TOKEN"] = "РљРѕРґ РґРѕСЃС‚СѓРїР°:";
+$MESS["SALE_SYNCHRONIZER_APPLY"] = "РџРѕРґРєР»СЋС‡РёС‚СЊСЃСЏ";
+$MESS["SALE_SYNCHRONIZER_DISABLE"] = "РћС‚РєР»СЋС‡РёС‚СЊ";
 
-$MESS["SALE_SYNCHRONIZER_DISABLED"] = "Синхронизация отключена";
-$MESS["SALE_SYNCHRONIZER_TOKEN"] = "Ошибка обработки обязательного поля. Укажите код доступа";
-$MESS["SALE_SYNCHRONIZER_REFRESH_TOKEN"] = "Ошибка продления ключа доступа.";
-$MESS["SALE_SYNCHRONIZER_CREATE_TOKEN"] = "Ошибка создания ключа доступа.";
-$MESS["SALE_SYNCHRONIZER_CONNECTED"] = "Подключение выполнено";
-$MESS["SALE_SYNCHRONIZER_PORT"] = "Подключение возможно только по защищённому соединению (https://)";
+$MESS["SALE_SYNCHRONIZER_DISABLED"] = "РЎРёРЅС…СЂРѕРЅРёР·Р°С†РёСЏ РѕС‚РєР»СЋС‡РµРЅР°";
+$MESS["SALE_SYNCHRONIZER_TOKEN"] = "РћС€РёР±РєР° РѕР±СЂР°Р±РѕС‚РєРё РѕР±СЏР·Р°С‚РµР»СЊРЅРѕРіРѕ РїРѕР»СЏ. РЈРєР°Р¶РёС‚Рµ РєРѕРґ РґРѕСЃС‚СѓРїР°";
+$MESS["SALE_SYNCHRONIZER_REFRESH_TOKEN"] = "РћС€РёР±РєР° РїСЂРѕРґР»РµРЅРёСЏ РєР»СЋС‡Р° РґРѕСЃС‚СѓРїР°.";
+$MESS["SALE_SYNCHRONIZER_CREATE_TOKEN"] = "РћС€РёР±РєР° СЃРѕР·РґР°РЅРёСЏ РєР»СЋС‡Р° РґРѕСЃС‚СѓРїР°.";
+$MESS["SALE_SYNCHRONIZER_CONNECTED"] = "РџРѕРґРєР»СЋС‡РµРЅРёРµ РІС‹РїРѕР»РЅРµРЅРѕ";
+$MESS["SALE_SYNCHRONIZER_PORT"] = "РџРѕРґРєР»СЋС‡РµРЅРёРµ РІРѕР·РјРѕР¶РЅРѕ С‚РѕР»СЊРєРѕ РїРѕ Р·Р°С‰РёС‰С‘РЅРЅРѕРјСѓ СЃРѕРµРґРёРЅРµРЅРёСЋ (https://)";
 
 

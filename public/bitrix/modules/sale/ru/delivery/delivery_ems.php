@@ -213,26 +213,26 @@ class CDeliveryEMS
 						require_once(dirname(__FILE__).'/ems/region.php');
 				}
 
-				if($arLocation['REGION_NAME_ORIG'] == '—аха /якути€/ –есп' || $arLocation['REGION_NAME_ORIG'] == '–еспублика —аха (якути€)')
-					$arLocation['REGION_NAME_ORIG']  = '—ј’ј (я ”“»я) –≈—ѕ”ЅЋ» ј';
-				elseif($arLocation['REGION_NAME_ORIG'] == '≈врейска€ јобл')
-					$arLocation['REGION_NAME_ORIG']  = '≈¬–≈…— јя ј¬“ќЌќћЌјя ќЅЋј—“№';
-				elseif($arLocation['REGION_NAME_ORIG'] == 'Ќенецкий јќ')
-					$arLocation['REGION_NAME_ORIG']  = 'Ќ≈Ќ≈÷ »… ј¬“ќЌќћЌџ… ќ –”√';
-				elseif($arLocation['REGION_NAME_ORIG'] == '—еверна€ ќсети€ - јлани€ –есп')
-					$arLocation['REGION_NAME_ORIG']  = '—≈¬≈–Ќјя ќ—≈“»я-јЋјЌ»я –≈—ѕ”ЅЋ» ј';
-				elseif($arLocation['REGION_NAME_ORIG'] == '’анты-ћансийский јвтономный округ - ёгра јќ' || $arLocation['REGION_NAME_ORIG'] == '’анты-ћансийский автономный округ')
-					$arLocation['REGION_NAME_ORIG']  = '’јЌ“џ-ћјЌ—»…— »…-ё√–ј ј¬“ќЌќћЌџ… ќ –”√';
-				elseif($arLocation['REGION_NAME_ORIG'] == '„укотский јќ')
-					$arLocation['REGION_NAME_ORIG']  = '„” ќ“— »… ј¬“ќЌќћЌџ… ќ –”√';
-				elseif($arLocation['REGION_NAME_ORIG'] == 'ямало-Ќенецкий јќ')
-					$arLocation['REGION_NAME_ORIG']  = 'яћјЋќ-Ќ≈Ќ≈÷ »… ј¬“ќЌќћЌџ… ќ –”√';
-				elseif($arLocation['REGION_NAME_ORIG'] == ' рым')
-					$arLocation['REGION_NAME_ORIG']  = ' –џћ –≈—ѕ”ЅЋ» ј';
+				if($arLocation['REGION_NAME_ORIG'] == '–°–∞—Е–∞ /–ѓ–Ї—Г—В–Є—П/ –†–µ—Б–њ' || $arLocation['REGION_NAME_ORIG'] == '–†–µ—Б–њ—Г–±–ї–Є–Ї–∞ –°–∞—Е–∞ (–ѓ–Ї—Г—В–Є—П)')
+					$arLocation['REGION_NAME_ORIG']  = '–°–Р–•–Р (–ѓ–Ъ–£–Ґ–Ш–ѓ) –†–Х–°–Я–£–С–Ы–Ш–Ъ–Р';
+				elseif($arLocation['REGION_NAME_ORIG'] == '–Х–≤—А–µ–є—Б–Ї–∞—П –Р–Њ–±–ї')
+					$arLocation['REGION_NAME_ORIG']  = '–Х–Т–†–Х–Щ–°–Ъ–Р–ѓ –Р–Т–Ґ–Ю–Э–Ю–Ь–Э–Р–ѓ –Ю–С–Ы–Р–°–Ґ–ђ';
+				elseif($arLocation['REGION_NAME_ORIG'] == '–Э–µ–љ–µ—Ж–Ї–Є–є –Р–Ю')
+					$arLocation['REGION_NAME_ORIG']  = '–Э–Х–Э–Х–¶–Ъ–Ш–Щ –Р–Т–Ґ–Ю–Э–Ю–Ь–Э–Ђ–Щ –Ю–Ъ–†–£–У';
+				elseif($arLocation['REGION_NAME_ORIG'] == '–°–µ–≤–µ—А–љ–∞—П –Ю—Б–µ—В–Є—П - –Р–ї–∞–љ–Є—П –†–µ—Б–њ')
+					$arLocation['REGION_NAME_ORIG']  = '–°–Х–Т–Х–†–Э–Р–ѓ –Ю–°–Х–Ґ–Ш–ѓ-–Р–Ы–Р–Э–Ш–ѓ –†–Х–°–Я–£–С–Ы–Ш–Ъ–Р';
+				elseif($arLocation['REGION_NAME_ORIG'] == '–•–∞–љ—В—Л-–Ь–∞–љ—Б–Є–є—Б–Ї–Є–є –Р–≤—В–Њ–љ–Њ–Љ–љ—Л–є –Њ–Ї—А—Г–≥ - –Ѓ–≥—А–∞ –Р–Ю' || $arLocation['REGION_NAME_ORIG'] == '–•–∞–љ—В—Л-–Ь–∞–љ—Б–Є–є—Б–Ї–Є–є –∞–≤—В–Њ–љ–Њ–Љ–љ—Л–є –Њ–Ї—А—Г–≥')
+					$arLocation['REGION_NAME_ORIG']  = '–•–Р–Э–Ґ–Ђ-–Ь–Р–Э–°–Ш–Щ–°–Ъ–Ш–Щ-–Ѓ–У–†–Р –Р–Т–Ґ–Ю–Э–Ю–Ь–Э–Ђ–Щ –Ю–Ъ–†–£–У';
+				elseif($arLocation['REGION_NAME_ORIG'] == '–І—Г–Ї–Њ—В—Б–Ї–Є–є –Р–Ю')
+					$arLocation['REGION_NAME_ORIG']  = '–І–£–Ъ–Ю–Ґ–°–Ъ–Ш–Щ –Р–Т–Ґ–Ю–Э–Ю–Ь–Э–Ђ–Щ –Ю–Ъ–†–£–У';
+				elseif($arLocation['REGION_NAME_ORIG'] == '–ѓ–Љ–∞–ї–Њ-–Э–µ–љ–µ—Ж–Ї–Є–є –Р–Ю')
+					$arLocation['REGION_NAME_ORIG']  = '–ѓ–Ь–Р–Ы–Ю-–Э–Х–Э–Х–¶–Ъ–Ш–Щ –Р–Т–Ґ–Ю–Э–Ю–Ь–Э–Ђ–Щ –Ю–Ъ–†–£–У';
+				elseif($arLocation['REGION_NAME_ORIG'] == '–Ъ—А—Л–Љ')
+					$arLocation['REGION_NAME_ORIG']  = '–Ъ–†–Ђ–Ь –†–Х–°–Я–£–С–Ы–Ш–Ъ–Р';
 
-				$arLocation['REGION_NAME_ORIG'] = preg_replace('/\sќЅЋ$/i'.BX_UTF_PCRE_MODIFIER, ' ќЅЋј—“№', ToUpper($arLocation['REGION_NAME_ORIG']));
-				$arLocation['REGION_NAME_ORIG'] = preg_replace('/\s–≈—ѕ$/'.BX_UTF_PCRE_MODIFIER, ' –≈—ѕ”ЅЋ» ј', ToUpper($arLocation['REGION_NAME_ORIG']));
-				$arLocation['REGION_NAME_ORIG'] = preg_replace('/^(–≈—ѕ”ЅЋ» ј)\s*(.*)$/'.BX_UTF_PCRE_MODIFIER, '$2 $1', ToUpper($arLocation['REGION_NAME_ORIG']));
+				$arLocation['REGION_NAME_ORIG'] = preg_replace('/\s–Ю–С–Ы$/i'.BX_UTF_PCRE_MODIFIER, ' –Ю–С–Ы–Р–°–Ґ–ђ', ToUpper($arLocation['REGION_NAME_ORIG']));
+				$arLocation['REGION_NAME_ORIG'] = preg_replace('/\s–†–Х–°–Я$/'.BX_UTF_PCRE_MODIFIER, ' –†–Х–°–Я–£–С–Ы–Ш–Ъ–Р', ToUpper($arLocation['REGION_NAME_ORIG']));
+				$arLocation['REGION_NAME_ORIG'] = preg_replace('/^(–†–Х–°–Я–£–С–Ы–Ш–Ъ–Р)\s*(.*)$/'.BX_UTF_PCRE_MODIFIER, '$2 $1', ToUpper($arLocation['REGION_NAME_ORIG']));
 
 				$arLocation['REGION_NAME_ORIG'] = ToUpper($arLocation['REGION_NAME_ORIG']);
 				$arLocation['REGION_SHORT_NAME'] = ToUpper($arLocation['REGION_SHORT_NAME']);
@@ -549,15 +549,15 @@ class CDeliveryEMS
 	public static function __IsRussian($arLocation)
 	{
 		return
-			(ToUpper($arLocation["COUNTRY_NAME_ORIG"]) == "–ќ——»я"
-			|| ToUpper($arLocation["COUNTRY_SHORT_NAME"]) == "–ќ——»я"
-			|| ToUpper($arLocation["COUNTRY_NAME_LANG"]) == "–ќ——»я"
+			(ToUpper($arLocation["COUNTRY_NAME_ORIG"]) == "–†–Ю–°–°–Ш–ѓ"
+			|| ToUpper($arLocation["COUNTRY_SHORT_NAME"]) == "–†–Ю–°–°–Ш–ѓ"
+			|| ToUpper($arLocation["COUNTRY_NAME_LANG"]) == "–†–Ю–°–°–Ш–ѓ"
 			|| ToUpper($arLocation["COUNTRY_NAME_ORIG"]) == "RUSSIA"
 			|| ToUpper($arLocation["COUNTRY_SHORT_NAME"]) == "RUSSIA"
 			|| ToUpper($arLocation["COUNTRY_NAME_LANG"]) == "RUSSIA"
-			|| ToUpper($arLocation["COUNTRY_NAME_ORIG"]) == "–ќ——»…— јя ‘≈ƒ≈–ј÷»я"
-			|| ToUpper($arLocation["COUNTRY_SHORT_NAME"]) == "–ќ——»…— јя ‘≈ƒ≈–ј÷»я"
-			|| ToUpper($arLocation["COUNTRY_NAME_LANG"]) == "–ќ——»…— јя ‘≈ƒ≈–ј÷»я"
+			|| ToUpper($arLocation["COUNTRY_NAME_ORIG"]) == "–†–Ю–°–°–Ш–Щ–°–Ъ–Р–ѓ –§–Х–Ф–Х–†–Р–¶–Ш–ѓ"
+			|| ToUpper($arLocation["COUNTRY_SHORT_NAME"]) == "–†–Ю–°–°–Ш–Щ–°–Ъ–Р–ѓ –§–Х–Ф–Х–†–Р–¶–Ш–ѓ"
+			|| ToUpper($arLocation["COUNTRY_NAME_LANG"]) == "–†–Ю–°–°–Ш–Щ–°–Ъ–Р–ѓ –§–Х–Ф–Х–†–Р–¶–Ш–ѓ"
 			|| ToUpper($arLocation["COUNTRY_NAME_ORIG"]) == "RUSSIAN FEDERATION"
 			|| ToUpper($arLocation["COUNTRY_SHORT_NAME"]) == "RUSSIAN FEDERATION"
 			|| ToUpper($arLocation["COUNTRY_NAME_LANG"]) == "RUSSIAN FEDERATION"

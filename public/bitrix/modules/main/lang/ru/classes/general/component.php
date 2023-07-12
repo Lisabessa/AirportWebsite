@@ -1,5 +1,5 @@
 <?
-$MESS["EDIT_ACTION_TITLE_DEFAULT"] = "Ðåäàêòèðîâàòü";
-$MESS["DELETE_ACTION_TITLE_DEFAULT"] = "Óäàëèòü";
-$MESS["DELETE_ACTION_CONFIRM"] = "Âû óâåðåíû, ÷òî õîòèòå óäàëèòü ýòó çàïèñü?";
+$MESS["EDIT_ACTION_TITLE_DEFAULT"] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ";
+$MESS["DELETE_ACTION_TITLE_DEFAULT"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";
+$MESS["DELETE_ACTION_CONFIRM"] = "Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹, Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ ÑÑ‚Ñƒ Ð·Ð°Ð¿Ð¸ÑÑŒ?";
 ?>

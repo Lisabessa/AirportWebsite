@@ -1,2 +1,2 @@
 <?php
-$MESS["BIZPROC_WF_TEMPLATE_BPT_WRONG_DATA"] = "Íåêîððåêòíûé øàáëîí áèçíåñ-ïðîöåññà";
+$MESS["BIZPROC_WF_TEMPLATE_BPT_WRONG_DATA"] = "ÐÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ñ‹Ð¹ ÑˆÐ°Ð±Ð»Ð¾Ð½ Ð±Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑÐ°";

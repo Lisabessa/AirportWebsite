@@ -1,10 +1,10 @@
 <?
-$MESS["CLO_STORAGE_OPENSTACK_EMPTY_HOST"] = "Íå çàäàíî èìÿ ñåðâåðà.";
-$MESS["CLO_STORAGE_OPENSTACK_EMPTY_USER"] = "Íå çàäàíî èìÿ ïîëüçîâàòåëÿ.";
-$MESS["CLO_STORAGE_OPENSTACK_EMPTY_KEY"] = "Íå çàäàí êëþ÷ äîñòóïà.";
-$MESS["CLO_STORAGE_OPENSTACK_ERROR_GET_TOKEN"] = "Îøèáêà àâòîðèçàöèè. Ïðîâåðüòå ïðàâèëüíîñòü ââåäåííûõ íàñòðîåê.";
-$MESS["CLO_STORAGE_OPENSTACK_EDIT_USER"] = "Èìÿ ïîëüçîâàòåëÿ (API user)";
-$MESS["CLO_STORAGE_OPENSTACK_EDIT_KEY"] = "Êëþ÷ äîñòóïà (API key)";
-$MESS["CLO_STORAGE_OPENSTACK_EDIT_HOST"] = "Èìÿ ñåðâåðà (API host)";
-$MESS["CLO_STORAGE_OPENSTACK_FORCE_HTTP"] = "Âñåãäà èñïîëüçîâàòü ïðîòîêîë http";
+$MESS["CLO_STORAGE_OPENSTACK_EMPTY_HOST"] = "ÐÐµ Ð·Ð°Ð´Ð°Ð½Ð¾ Ð¸Ð¼Ñ ÑÐµÑ€Ð²ÐµÑ€Ð°.";
+$MESS["CLO_STORAGE_OPENSTACK_EMPTY_USER"] = "ÐÐµ Ð·Ð°Ð´Ð°Ð½Ð¾ Ð¸Ð¼Ñ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ.";
+$MESS["CLO_STORAGE_OPENSTACK_EMPTY_KEY"] = "ÐÐµ Ð·Ð°Ð´Ð°Ð½ ÐºÐ»ÑŽÑ‡ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð°.";
+$MESS["CLO_STORAGE_OPENSTACK_ERROR_GET_TOKEN"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·Ð°Ñ†Ð¸Ð¸. ÐŸÑ€Ð¾Ð²ÐµÑ€ÑŒÑ‚Ðµ Ð¿Ñ€Ð°Ð²Ð¸Ð»ÑŒÐ½Ð¾ÑÑ‚ÑŒ Ð²Ð²ÐµÐ´ÐµÐ½Ð½Ñ‹Ñ… Ð½Ð°ÑÑ‚Ñ€Ð¾ÐµÐº.";
+$MESS["CLO_STORAGE_OPENSTACK_EDIT_USER"] = "Ð˜Ð¼Ñ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ (API user)";
+$MESS["CLO_STORAGE_OPENSTACK_EDIT_KEY"] = "ÐšÐ»ÑŽÑ‡ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð° (API key)";
+$MESS["CLO_STORAGE_OPENSTACK_EDIT_HOST"] = "Ð˜Ð¼Ñ ÑÐµÑ€Ð²ÐµÑ€Ð° (API host)";
+$MESS["CLO_STORAGE_OPENSTACK_FORCE_HTTP"] = "Ð’ÑÐµÐ³Ð´Ð° Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ Ð¿Ñ€Ð¾Ñ‚Ð¾ÐºÐ¾Ð» http";
 ?>

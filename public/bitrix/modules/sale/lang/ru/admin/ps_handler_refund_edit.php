@@ -1,2 +1,2 @@
 <?
-$MESS["SALE_REFUND_HANDLERS_TITLE"] = "Íàñòðîéêà âîçâðàòîâ";
+$MESS["SALE_REFUND_HANDLERS_TITLE"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° Ð²Ð¾Ð·Ð²Ñ€Ð°Ñ‚Ð¾Ð²";

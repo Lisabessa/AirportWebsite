@@ -1,5 +1,5 @@
 <?
-$MESS["SONET_ENTITY_SELECTOR_ERR_SONET_MODULE_NOT_INSTALLED"] = "Ìîäóëü \"Ñîöèàëüíàÿ ñåòü\" íå óñòàíîâëåí";
-$MESS["SONET_ENTITY_SELECTOR_ERR_INTRANET_MODULE_NOT_INSTALLED"] = "Ìîäóëü \"Èíòðàíåò\" íå óñòàíîâëåí";
-$MESS["SONET_ENTITY_SELECTOR_FILTER_FIELD_GROUP_TITLE"] = "Ãðóïïà èëè ïðîåêò";
-$MESS["SONET_ENTITY_SELECTOR_FILTER_FIELD_AUTHOR_TITLE"] = "Àâòîð";
+$MESS["SONET_ENTITY_SELECTOR_ERR_SONET_MODULE_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ \"Ð¡Ð¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð°Ñ ÑÐµÑ‚ÑŒ\" Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½";
+$MESS["SONET_ENTITY_SELECTOR_ERR_INTRANET_MODULE_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ \"Ð˜Ð½Ñ‚Ñ€Ð°Ð½ÐµÑ‚\" Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½";
+$MESS["SONET_ENTITY_SELECTOR_FILTER_FIELD_GROUP_TITLE"] = "Ð“Ñ€ÑƒÐ¿Ð¿Ð° Ð¸Ð»Ð¸ Ð¿Ñ€Ð¾ÐµÐºÑ‚";
+$MESS["SONET_ENTITY_SELECTOR_FILTER_FIELD_AUTHOR_TITLE"] = "ÐÐ²Ñ‚Ð¾Ñ€";

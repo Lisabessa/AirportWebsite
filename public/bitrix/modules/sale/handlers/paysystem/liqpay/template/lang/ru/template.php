@@ -1,4 +1,4 @@
 <?php
-$MESS["PAYMENT_PAY"] = "Îïëàòèòü";
-$MESS["PAYMENT_DESCRIPTION_PS"] = "Âû õîòèòå îïëàòèòü ÷åðåç ñèñòåìó";
-$MESS["PAYMENT_DESCRIPTION_SUM"] = "Ñóììà ê îïëàòå ïî ñ÷åòó";
+$MESS["PAYMENT_PAY"] = "ÐžÐ¿Ð»Ð°Ñ‚Ð¸Ñ‚ÑŒ";
+$MESS["PAYMENT_DESCRIPTION_PS"] = "Ð’Ñ‹ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ Ð¾Ð¿Ð»Ð°Ñ‚Ð¸Ñ‚ÑŒ Ñ‡ÐµÑ€ÐµÐ· ÑÐ¸ÑÑ‚ÐµÐ¼Ñƒ";
+$MESS["PAYMENT_DESCRIPTION_SUM"] = "Ð¡ÑƒÐ¼Ð¼Ð° Ðº Ð¾Ð¿Ð»Ð°Ñ‚Ðµ Ð¿Ð¾ ÑÑ‡ÐµÑ‚Ñƒ";

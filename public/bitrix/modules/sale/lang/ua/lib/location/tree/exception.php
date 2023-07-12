@@ -1,2 +1,2 @@
 <?
-$MESS["SALE_TREE_ENTITY_NODE_NOT_FOUND_EXCEPTION"] = "Зазначений вузол не знайдений";
+$MESS["SALE_TREE_ENTITY_NODE_NOT_FOUND_EXCEPTION"] = "Р—Р°Р·РЅР°С‡РµРЅРёР№ РІСѓР·РѕР» РЅРµ Р·РЅР°Р№РґРµРЅРёР№";

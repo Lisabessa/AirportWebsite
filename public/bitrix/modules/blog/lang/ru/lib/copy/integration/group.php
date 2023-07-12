@@ -1,3 +1,3 @@
 <?php
-$MESS["GROUP_STEPPER_PROGRESS_TITLE"] = "Копирование сообщений";
-$MESS["GROUP_STEPPER_PROGRESS_ERROR"] = "Не удалось скопировать сообщения с идентификаторами: ";
+$MESS["GROUP_STEPPER_PROGRESS_TITLE"] = "РљРѕРїРёСЂРѕРІР°РЅРёРµ СЃРѕРѕР±С‰РµРЅРёР№";
+$MESS["GROUP_STEPPER_PROGRESS_ERROR"] = "РќРµ СѓРґР°Р»РѕСЃСЊ СЃРєРѕРїРёСЂРѕРІР°С‚СЊ СЃРѕРѕР±С‰РµРЅРёСЏ СЃ РёРґРµРЅС‚РёС„РёРєР°С‚РѕСЂР°РјРё: ";

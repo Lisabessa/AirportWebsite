@@ -1,6 +1,6 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Новости");
+$APPLICATION->SetTitle("РќРѕРІРѕСЃС‚Рё");
 ?> <?$APPLICATION->IncludeComponent("bitrix:news", "template", array(
 	"IBLOCK_TYPE" => "news",
 	"IBLOCK_ID" => "#NEWS_IBLOCK_ID#",
@@ -68,12 +68,12 @@ $APPLICATION->SetTitle("Новости");
 	),
 	"DETAIL_DISPLAY_TOP_PAGER" => "N",
 	"DETAIL_DISPLAY_BOTTOM_PAGER" => "N",
-	"DETAIL_PAGER_TITLE" => "Страница",
+	"DETAIL_PAGER_TITLE" => "РЎС‚СЂР°РЅРёС†Р°",
 	"DETAIL_PAGER_TEMPLATE" => "",
 	"DETAIL_PAGER_SHOW_ALL" => "N",
 	"DISPLAY_TOP_PAGER" => "N",
 	"DISPLAY_BOTTOM_PAGER" => "Y",
-	"PAGER_TITLE" => "Новости",
+	"PAGER_TITLE" => "РќРѕРІРѕСЃС‚Рё",
 	"PAGER_SHOW_ALWAYS" => "N",
 	"PAGER_TEMPLATE" => "",
 	"PAGER_DESC_NUMBERING" => "N",

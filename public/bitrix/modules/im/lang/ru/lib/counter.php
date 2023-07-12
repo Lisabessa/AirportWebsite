@@ -1,3 +1,3 @@
 <?
-$MESS["IM_COUNTER_TYPE_MESSENGER_2"] = "×àò è óâåäîìëåíèÿ";
+$MESS["IM_COUNTER_TYPE_MESSENGER_2"] = "Ð§Ð°Ñ‚ Ð¸ ÑƒÐ²ÐµÐ´Ð¾Ð¼Ð»ÐµÐ½Ð¸Ñ";
 ?>

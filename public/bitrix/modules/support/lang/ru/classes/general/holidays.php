@@ -1,9 +1,9 @@
 <?
-$MESS ['SUP_ERROR_EMPTY_NAME'] = "Íàçâàíèå Èñêëþ÷åíèÿ íå çàïîëíåíî!";
-$MESS ['SUP_ERROR_EMPTY_OPEN_TIME'] = "Äåéñòâèå Èñêëþ÷åíèÿ íå çàïîëíåíî!";
-$MESS ['SUP_ERROR_EMPTY_DATE'] = "Ïåðèîä äåéñòâèÿ Èñêëþ÷åíèÿ íå çàïîëíåí!";
-$MESS ['SUP_DATE_FROM'] = "Äåéñòâóåò Ñ";
-$MESS ['SUP_DATE_TILL'] = "Ïî";
-$MESS ['SUP_ERROR_DB_ERROR'] = "Îøèáêà áàçû äàííûõ!";
-$MESS ['SUP_ERROR_ACCESS_DENIED'] = "Äîñòóï çàïðåùåí!";
+$MESS ['SUP_ERROR_EMPTY_NAME'] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð˜ÑÐºÐ»ÑŽÑ‡ÐµÐ½Ð¸Ñ Ð½Ðµ Ð·Ð°Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¾!";
+$MESS ['SUP_ERROR_EMPTY_OPEN_TIME'] = "Ð”ÐµÐ¹ÑÑ‚Ð²Ð¸Ðµ Ð˜ÑÐºÐ»ÑŽÑ‡ÐµÐ½Ð¸Ñ Ð½Ðµ Ð·Ð°Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¾!";
+$MESS ['SUP_ERROR_EMPTY_DATE'] = "ÐŸÐµÑ€Ð¸Ð¾Ð´ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ Ð˜ÑÐºÐ»ÑŽÑ‡ÐµÐ½Ð¸Ñ Ð½Ðµ Ð·Ð°Ð¿Ð¾Ð»Ð½ÐµÐ½!";
+$MESS ['SUP_DATE_FROM'] = "Ð”ÐµÐ¹ÑÑ‚Ð²ÑƒÐµÑ‚ Ð¡";
+$MESS ['SUP_DATE_TILL'] = "ÐŸÐ¾";
+$MESS ['SUP_ERROR_DB_ERROR'] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð±Ð°Ð·Ñ‹ Ð´Ð°Ð½Ð½Ñ‹Ñ…!";
+$MESS ['SUP_ERROR_ACCESS_DENIED'] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ð·Ð°Ð¿Ñ€ÐµÑ‰ÐµÐ½!";
 ?>

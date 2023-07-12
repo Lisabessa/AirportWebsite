@@ -1,7 +1,7 @@
 <?
-$MESS["BPTS_AI_BIZ_PROC"] = "Áèçíåñ-ïðîöåññû";
-$MESS["BPTS_AI_EX_TASKS"] = "Åñòü çàäàíèÿ.";
-$MESS["BPTS_AI_TASKS_NUM"] = "Çàäàíèé ê èñïîëíåíèþ:";
-$MESS["BPTS_AI_TASKS_PERF"] = "Ïåðåéòè ê ñïèñêó çàäàíèé";
-$MESS["BPTS_AI_AR_USERS"] = "Ñïèñîê ïîëüçîâàòåëåé ïóñò";
+$MESS["BPTS_AI_BIZ_PROC"] = "Ð‘Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑÑ‹";
+$MESS["BPTS_AI_EX_TASKS"] = "Ð•ÑÑ‚ÑŒ Ð·Ð°Ð´Ð°Ð½Ð¸Ñ.";
+$MESS["BPTS_AI_TASKS_NUM"] = "Ð—Ð°Ð´Ð°Ð½Ð¸Ð¹ Ðº Ð¸ÑÐ¿Ð¾Ð»Ð½ÐµÐ½Ð¸ÑŽ:";
+$MESS["BPTS_AI_TASKS_PERF"] = "ÐŸÐµÑ€ÐµÐ¹Ñ‚Ð¸ Ðº ÑÐ¿Ð¸ÑÐºÑƒ Ð·Ð°Ð´Ð°Ð½Ð¸Ð¹";
+$MESS["BPTS_AI_AR_USERS"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÐµÐ¹ Ð¿ÑƒÑÑ‚";
 ?>

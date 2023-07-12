@@ -1,5 +1,5 @@
 <?php
-$MESS["SALE_DELIVERY_REST_PROFILE_NAME"] = "Ïðîôèëü rest äîñòàâêè";
-$MESS["SALE_DELIVERY_REST_PROFILE_DESCRIPTION"] = "Ïðîôèëü íàáîðà rest äîñòàâîê";
-$MESS["SALE_DELIVERY_REST_PROFILE_SETTING_TITLE"] = "Íàñòðîéêà";
-$MESS["SALE_DELIVERY_REST_PROFILE_SETTING_DESCRIPTION"] = "Íàñòðîéêà rest-îáðàáîò÷èêà";
+$MESS["SALE_DELIVERY_REST_PROFILE_NAME"] = "ÐŸÑ€Ð¾Ñ„Ð¸Ð»ÑŒ rest Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸";
+$MESS["SALE_DELIVERY_REST_PROFILE_DESCRIPTION"] = "ÐŸÑ€Ð¾Ñ„Ð¸Ð»ÑŒ Ð½Ð°Ð±Ð¾Ñ€Ð° rest Ð´Ð¾ÑÑ‚Ð°Ð²Ð¾Ðº";
+$MESS["SALE_DELIVERY_REST_PROFILE_SETTING_TITLE"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ°";
+$MESS["SALE_DELIVERY_REST_PROFILE_SETTING_DESCRIPTION"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° rest-Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚Ñ‡Ð¸ÐºÐ°";

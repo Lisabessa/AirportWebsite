@@ -1,3 +1,3 @@
 <?php
-$MESS["SALE_EXCHANGE_ENTITY_PAYMENT_PAYMENT_SYSTEM_IS_NOT_AVAILABLE_ERROR"] = "Ïëàòåæíàÿ ñèñòåìà íå äîñòóïíà";
-$MESS["SALE_EXCHANGE_ENTITY_PAYMENT_ORDER_IS_NOT_LOADED_ERROR"] = "Îáúåêò çàêàçà íå çàãðóæåí";
+$MESS["SALE_EXCHANGE_ENTITY_PAYMENT_PAYMENT_SYSTEM_IS_NOT_AVAILABLE_ERROR"] = "ÐŸÐ»Ð°Ñ‚ÐµÐ¶Ð½Ð°Ñ ÑÐ¸ÑÑ‚ÐµÐ¼Ð° Ð½Ðµ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ð°";
+$MESS["SALE_EXCHANGE_ENTITY_PAYMENT_ORDER_IS_NOT_LOADED_ERROR"] = "ÐžÐ±ÑŠÐµÐºÑ‚ Ð·Ð°ÐºÐ°Ð·Ð° Ð½Ðµ Ð·Ð°Ð³Ñ€ÑƒÐ¶ÐµÐ½";

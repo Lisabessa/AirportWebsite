@@ -1,9 +1,9 @@
 <?
-$MESS["SALE_EXCHANGE_EXTERNAL_ID_NOT_FOUND"] = "Íå ïåðåäàíèé êîä äîêóìåíòà";
-$MESS["SALE_EXCHANGE_PACKAGE_ERROR_ORDER_CANNOT_UPDATE"] = "Ïîìèëêà ñèíõðîí³çàö³¿ çàìîâëåííÿ ç 1Ñ. Çàìîâëåííÿ íå ìîæå áóòè îíîâëåíî";
-$MESS["SALE_EXCHANGE_PACKAGE_ERROR_PAYMENT_IS_NOT_RELATED_TO_ORDER_OR_DELETED"] = "Îïëàòà #DOCUMENT_ID# íå ïîâ'ÿàçíà ç ³ñíóþ÷èì çàìîâëåííÿì";
-$MESS["SALE_EXCHANGE_PACKAGE_ERROR_SHIPMENT_IS_NOT_RELATED_TO_ORDER_OR_DELETED"] = "Â³äâàíòàæåííÿ #DOCUMENT_ID# íå ïîâ'ÿàçíå ç ³ñíóþ÷èì çàìîâëåííÿì";
-$MESS["SALE_EXCHANGE_PACKAGE_ERROR_ORDER_IS_NOT_LOADED"] = "Ïîìèëêà çàâàíòàæåííÿ äîêóìåíòà ï³äñòàâè #DOCUMENT_ID#. Çàìîâëåííÿ ï³äñòàâó äëÿ ïîâ'ÿçàíèõ äîêóìåíò³â íå çíàéäåíî";
-$MESS["SALE_EXCHANGE_PACKAGE_ERROR_USER_IS_EMPTY"] = "Íå âäàëîñÿ ³äåíòèô³êóâàòè êîðèñòóâà÷à çà ïðîô³ëåì  #DOCUMENT_ID#";
-$MESS["SALE_EXCHANGE_PACKAGE_ERROR_PERSONAL_TYPE_IS_EMPTY"] = "Íå âäàëîñÿ ³äåíòèô³êóâàòè òèï ïëàòíèêà çà ïðîô³ëåì #DOCUMENT_ID#";
+$MESS["SALE_EXCHANGE_EXTERNAL_ID_NOT_FOUND"] = "ÐÐµ Ð¿ÐµÑ€ÐµÐ´Ð°Ð½Ð¸Ð¹ ÐºÐ¾Ð´ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð°";
+$MESS["SALE_EXCHANGE_PACKAGE_ERROR_ORDER_CANNOT_UPDATE"] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ° ÑÐ¸Ð½Ñ…Ñ€Ð¾Ð½Ñ–Ð·Ð°Ñ†Ñ–Ñ— Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ Ð· 1Ð¡. Ð—Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ Ð½Ðµ Ð¼Ð¾Ð¶Ðµ Ð±ÑƒÑ‚Ð¸ Ð¾Ð½Ð¾Ð²Ð»ÐµÐ½Ð¾";
+$MESS["SALE_EXCHANGE_PACKAGE_ERROR_PAYMENT_IS_NOT_RELATED_TO_ORDER_OR_DELETED"] = "ÐžÐ¿Ð»Ð°Ñ‚Ð° #DOCUMENT_ID# Ð½Ðµ Ð¿Ð¾Ð²'ÑÐ°Ð·Ð½Ð° Ð· Ñ–ÑÐ½ÑƒÑŽÑ‡Ð¸Ð¼ Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½ÑÐ¼";
+$MESS["SALE_EXCHANGE_PACKAGE_ERROR_SHIPMENT_IS_NOT_RELATED_TO_ORDER_OR_DELETED"] = "Ð’Ñ–Ð´Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ #DOCUMENT_ID# Ð½Ðµ Ð¿Ð¾Ð²'ÑÐ°Ð·Ð½Ðµ Ð· Ñ–ÑÐ½ÑƒÑŽÑ‡Ð¸Ð¼ Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½ÑÐ¼";
+$MESS["SALE_EXCHANGE_PACKAGE_ERROR_ORDER_IS_NOT_LOADED"] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ° Ð·Ð°Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð° Ð¿Ñ–Ð´ÑÑ‚Ð°Ð²Ð¸ #DOCUMENT_ID#. Ð—Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ Ð¿Ñ–Ð´ÑÑ‚Ð°Ð²Ñƒ Ð´Ð»Ñ Ð¿Ð¾Ð²'ÑÐ·Ð°Ð½Ð¸Ñ… Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ñ–Ð² Ð½Ðµ Ð·Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾";
+$MESS["SALE_EXCHANGE_PACKAGE_ERROR_USER_IS_EMPTY"] = "ÐÐµ Ð²Ð´Ð°Ð»Ð¾ÑÑ Ñ–Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÑƒÐ²Ð°Ñ‚Ð¸ ÐºÐ¾Ñ€Ð¸ÑÑ‚ÑƒÐ²Ð°Ñ‡Ð° Ð·Ð° Ð¿Ñ€Ð¾Ñ„Ñ–Ð»ÐµÐ¼  #DOCUMENT_ID#";
+$MESS["SALE_EXCHANGE_PACKAGE_ERROR_PERSONAL_TYPE_IS_EMPTY"] = "ÐÐµ Ð²Ð´Ð°Ð»Ð¾ÑÑ Ñ–Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÑƒÐ²Ð°Ñ‚Ð¸ Ñ‚Ð¸Ð¿ Ð¿Ð»Ð°Ñ‚Ð½Ð¸ÐºÐ° Ð·Ð° Ð¿Ñ€Ð¾Ñ„Ñ–Ð»ÐµÐ¼ #DOCUMENT_ID#";
 ?>

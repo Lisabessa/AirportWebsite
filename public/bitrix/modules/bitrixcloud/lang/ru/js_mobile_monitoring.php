@@ -1,7 +1,7 @@
 <?
-$MESS ['BCL_MOBILE_MONITORING_SITE_DEL_ERROR'] = "Ïðè óäàëåíèè ñàéòà ïðîèçîøëà îøèáêà";
-$MESS ['BCL_MOBILE_MONITORING_SITE_DELETING'] = "Óäàëåíèå";
-$MESS ['BCL_MOBILE_MONITORING_SITE_SAVE_ERROR'] = "Ïðè ñîõðàíåíèè ïàðàìåòðîâ ïðîèçîøëà îøèáêà";
-$MESS ['BCL_MOBILE_MONITORING_SITE_SAVING'] = "Ñîõðàíåíèå";
-$MESS ['BCL_MOBILE_MONITORING_SITE_REFRESHING'] = "Îáíîâëåíèå";
+$MESS ['BCL_MOBILE_MONITORING_SITE_DEL_ERROR'] = "ÐŸÑ€Ð¸ ÑƒÐ´Ð°Ð»ÐµÐ½Ð¸Ð¸ ÑÐ°Ð¹Ñ‚Ð° Ð¿Ñ€Ð¾Ð¸Ð·Ð¾ÑˆÐ»Ð° Ð¾ÑˆÐ¸Ð±ÐºÐ°";
+$MESS ['BCL_MOBILE_MONITORING_SITE_DELETING'] = "Ð£Ð´Ð°Ð»ÐµÐ½Ð¸Ðµ";
+$MESS ['BCL_MOBILE_MONITORING_SITE_SAVE_ERROR'] = "ÐŸÑ€Ð¸ ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð¸Ð¸ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð¾Ð² Ð¿Ñ€Ð¾Ð¸Ð·Ð¾ÑˆÐ»Ð° Ð¾ÑˆÐ¸Ð±ÐºÐ°";
+$MESS ['BCL_MOBILE_MONITORING_SITE_SAVING'] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð¸Ðµ";
+$MESS ['BCL_MOBILE_MONITORING_SITE_REFRESHING'] = "ÐžÐ±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ðµ";
 ?>

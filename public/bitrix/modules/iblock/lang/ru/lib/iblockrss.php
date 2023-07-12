@@ -1,6 +1,6 @@
 <?
-$MESS["IBLOCK_RSS_ENTITY_ID_FIELD"] = "Èäåíòèôèêàòîð";
-$MESS["IBLOCK_RSS_ENTITY_IBLOCK_ID_FIELD"] = "Èäåíòèôèêàòîð èíôîáëîêà";
-$MESS["IBLOCK_RSS_ENTITY_NODE_FIELD"] = "Ïîëå RSS";
-$MESS["IBLOCK_ENTITY_NODE_VALUE_FIELD"] = "Øàáëîí ïîëÿ";
+$MESS["IBLOCK_RSS_ENTITY_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€";
+$MESS["IBLOCK_RSS_ENTITY_IBLOCK_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ°";
+$MESS["IBLOCK_RSS_ENTITY_NODE_FIELD"] = "ÐŸÐ¾Ð»Ðµ RSS";
+$MESS["IBLOCK_ENTITY_NODE_VALUE_FIELD"] = "Ð¨Ð°Ð±Ð»Ð¾Ð½ Ð¿Ð¾Ð»Ñ";
 ?>

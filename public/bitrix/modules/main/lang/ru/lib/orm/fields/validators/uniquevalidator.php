@@ -1,3 +1,3 @@
 <?php
 
-$MESS['MAIN_ENTITY_VALIDATOR_UNIQUE'] = 'Çàïèñü ñî çíà÷åíèåì "#FIELD_TITLE#", ðàâíûì "#VALUE#", óæå åñòü â áàçå äàííûõ';
+$MESS['MAIN_ENTITY_VALIDATOR_UNIQUE'] = 'Ð—Ð°Ð¿Ð¸ÑÑŒ ÑÐ¾ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸ÐµÐ¼ "#FIELD_TITLE#", Ñ€Ð°Ð²Ð½Ñ‹Ð¼ "#VALUE#", ÑƒÐ¶Ðµ ÐµÑÑ‚ÑŒ Ð² Ð±Ð°Ð·Ðµ Ð´Ð°Ð½Ð½Ñ‹Ñ…';

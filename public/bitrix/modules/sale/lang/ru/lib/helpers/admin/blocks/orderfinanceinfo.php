@@ -1,7 +1,7 @@
 <?
-$MESS['SALE_ORDER_FINANCEINFO_USE_INNER_BUDGET'] = 'Èñïîëüçîâàòü âíóòðåííèé ñ÷åò';
-$MESS['SALE_ORDER_FINANCEINFO_SUM_PAID'] = 'Îïëà÷åíî';
-$MESS['SALE_ORDER_FINANCEINFO_PAYABLE'] = 'Îñòàëîñü îïëàòèòü';
-$MESS['SALE_ORDER_FINANCEINFO_BALANCE_INNER_BUDGET'] = 'Îñòàòîê ñðåäñòâ íà ëè÷íîì ñ÷åòå êëèåíòà';
-$MESS['SALE_ORDER_FINANCEINFO_FOR_PAYMENT'] = 'Ê îïëàòå';
+$MESS['SALE_ORDER_FINANCEINFO_USE_INNER_BUDGET'] = 'Ð˜ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ Ð²Ð½ÑƒÑ‚Ñ€ÐµÐ½Ð½Ð¸Ð¹ ÑÑ‡ÐµÑ‚';
+$MESS['SALE_ORDER_FINANCEINFO_SUM_PAID'] = 'ÐžÐ¿Ð»Ð°Ñ‡ÐµÐ½Ð¾';
+$MESS['SALE_ORDER_FINANCEINFO_PAYABLE'] = 'ÐžÑÑ‚Ð°Ð»Ð¾ÑÑŒ Ð¾Ð¿Ð»Ð°Ñ‚Ð¸Ñ‚ÑŒ';
+$MESS['SALE_ORDER_FINANCEINFO_BALANCE_INNER_BUDGET'] = 'ÐžÑÑ‚Ð°Ñ‚Ð¾Ðº ÑÑ€ÐµÐ´ÑÑ‚Ð² Ð½Ð° Ð»Ð¸Ñ‡Ð½Ð¾Ð¼ ÑÑ‡ÐµÑ‚Ðµ ÐºÐ»Ð¸ÐµÐ½Ñ‚Ð°';
+$MESS['SALE_ORDER_FINANCEINFO_FOR_PAYMENT'] = 'Ðš Ð¾Ð¿Ð»Ð°Ñ‚Ðµ';
 

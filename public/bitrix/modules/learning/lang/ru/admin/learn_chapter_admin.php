@@ -1,11 +1,11 @@
 <?
-$MESS ['LEARNING_ADMIN_TITLE'] = "Ñïèñîê ãëàâ";
-$MESS ['LEARNING_ADD'] = "Äîáàâèòü ãëàâó";
-$MESS ['LEARNING_ADD_ALT'] = "Äîáàâèòü íîâóþ ãëàâó";
-$MESS ['LEARNING_ERROR'] = "Îøèáêà ïðè ñîõðàíåíèè ãëàâû";
-$MESS ['SAVE_ERROR'] = "Îøèáêà ïðè èçìåíåíèè ãëàâû #";
+$MESS ['LEARNING_ADMIN_TITLE'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð³Ð»Ð°Ð²";
+$MESS ['LEARNING_ADD'] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð³Ð»Ð°Ð²Ñƒ";
+$MESS ['LEARNING_ADD_ALT'] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð½Ð¾Ð²ÑƒÑŽ Ð³Ð»Ð°Ð²Ñƒ";
+$MESS ['LEARNING_ERROR'] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð¸Ð¸ Ð³Ð»Ð°Ð²Ñ‹";
+$MESS ['SAVE_ERROR'] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ð¸ Ð³Ð»Ð°Ð²Ñ‹ #";
 
 
-$MESS ['LEARNING_CHAPTER_TITLE'] = "Ñïèñîê ãëàâ";
-$MESS ['LEARNING_LESSON_TITLE'] = "Ñïèñîê óðîêîâ";
+$MESS ['LEARNING_CHAPTER_TITLE'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð³Ð»Ð°Ð²";
+$MESS ['LEARNING_LESSON_TITLE'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº ÑƒÑ€Ð¾ÐºÐ¾Ð²";
 ?>

@@ -1,4 +1,4 @@
 <?
-$MESS ['SENDER_UI_TILE_SELECTOR_SELECT'] = "âûáðàòü";
-$MESS ['SENDER_UI_TILE_SELECTOR_ADD'] = "ñîçäàòü";
+$MESS ['SENDER_UI_TILE_SELECTOR_SELECT'] = "Ð²Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ";
+$MESS ['SENDER_UI_TILE_SELECTOR_ADD'] = "ÑÐ¾Ð·Ð´Ð°Ñ‚ÑŒ";
 ?>

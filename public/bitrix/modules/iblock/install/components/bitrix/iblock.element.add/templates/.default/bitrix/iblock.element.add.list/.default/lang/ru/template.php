@@ -1,9 +1,9 @@
 <?
-$MESS ['IBLOCK_ADD_LIST_TITLE'] = "Ìîè ýëåìåíòû";
-$MESS ['IBLOCK_ADD_LIST_EMPTY'] = "Âû íå äîáàâëÿëè íèêàêèõ ýëåìåíòîâ";
-$MESS ['IBLOCK_ADD_LIST_EDIT'] = "ðåäàêòèðîâàòü";
-$MESS ['IBLOCK_ADD_LIST_DELETE'] = "óäàëèòü";
-$MESS ['IBLOCK_ADD_LIST_DELETE_CONFIRM'] = "Âû äåéñòâèòåëüíî õîòèòå óäàëèòü ýëåìåíò #ELEMENT_NAME#?";
-$MESS ['IBLOCK_ADD_LINK_TITLE'] = "Äîáàâèòü";
-$MESS ['IBLOCK_LIST_CANT_ADD_MORE'] = "Âû íå ìîæåòå äîáàâëÿòü íîâûå ýëåìåíòû";
+$MESS ['IBLOCK_ADD_LIST_TITLE'] = "ÐœÐ¾Ð¸ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ñ‹";
+$MESS ['IBLOCK_ADD_LIST_EMPTY'] = "Ð’Ñ‹ Ð½Ðµ Ð´Ð¾Ð±Ð°Ð²Ð»ÑÐ»Ð¸ Ð½Ð¸ÐºÐ°ÐºÐ¸Ñ… ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð²";
+$MESS ['IBLOCK_ADD_LIST_EDIT'] = "Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ";
+$MESS ['IBLOCK_ADD_LIST_DELETE'] = "ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ";
+$MESS ['IBLOCK_ADD_LIST_DELETE_CONFIRM'] = "Ð’Ñ‹ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚ #ELEMENT_NAME#?";
+$MESS ['IBLOCK_ADD_LINK_TITLE'] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ";
+$MESS ['IBLOCK_LIST_CANT_ADD_MORE'] = "Ð’Ñ‹ Ð½Ðµ Ð¼Ð¾Ð¶ÐµÑ‚Ðµ Ð´Ð¾Ð±Ð°Ð²Ð»ÑÑ‚ÑŒ Ð½Ð¾Ð²Ñ‹Ðµ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ñ‹";
 ?>

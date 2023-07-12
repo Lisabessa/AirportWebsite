@@ -1,4 +1,4 @@
 <?
-$MESS["DESKTOP_DEFAULT_NAME"] = "Ðàáî÷èé ñòîë #NUM#";
-$MESS["DESKTOP_ADD"] = "Äîáàâèòü ðàáî÷èé ñòîë";
+$MESS["DESKTOP_DEFAULT_NAME"] = "Ð Ð°Ð±Ð¾Ñ‡Ð¸Ð¹ ÑÑ‚Ð¾Ð» #NUM#";
+$MESS["DESKTOP_ADD"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ñ€Ð°Ð±Ð¾Ñ‡Ð¸Ð¹ ÑÑ‚Ð¾Ð»";
 ?>

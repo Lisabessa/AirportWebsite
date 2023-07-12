@@ -1,17 +1,17 @@
 <?
-$MESS["SALE_CASHBOX_ENTITY_ID_FIELD"] = "²äåíòèô³êàòîð êàñè";
-$MESS["SALE_CASHBOX_ENTITY_NAME_FIELD"] = "Íàçâà";
-$MESS["SALE_CASHBOX_ENTITY_ACTIVE_FIELD"] = "Àêòèâí³ñòü";
-$MESS["SALE_CASHBOX_ENTITY_HANDLER_FIELD"] = "Îáðîáíèê";
-$MESS["SALE_CASHBOX_ENTITY_SORT_FIELD"] = "Ñîðòóâàííÿ";
-$MESS["SALE_CASHBOX_ENTITY_DATE_CREATE_FIELD"] = "Äàòà ñòâîðåííÿ";
-$MESS["SALE_CASHBOX_ENTITY_DATE_LAST_CHECK_FIELD"] = "Îñòàííÿ äàòà ïåðåâ³ðêè";
-$MESS["SALE_CASHBOX_ENTITY_KKM_ID_FIELD"] = "Ìàðêà ÊÊÌ";
-$MESS["SALE_CASHBOX_ENTITY_OFD_FIELD"] = "ÎÔÄ";
-$MESS["SALE_CASHBOX_ENTITY_NUMBER_KKM_FIELD"] = "Çîâí³øí³é ³äåíòèô³êàòîð êàñè";
-$MESS["SALE_CASHBOX_ENTITY_SETTINGS_FIELD"] = "Íàëàøòóâàííÿ êàñè";
-$MESS["SALE_CASHBOX_ENTITY_USE_OFFLINE_FIELD"] = "Âèêîðèñòîâóºòüñÿ îôôëàéí";
-$MESS["SALE_CASHBOX_ENTITY_OFD_TEST_MODE_FIELD"] = "Òåñòîâûé ðåæèì ÎÔÄ";
-$MESS["SALE_CASHBOX_ENTITY_ENABLED_FIELD"] = "Â ìåðåæ³";
+$MESS["SALE_CASHBOX_ENTITY_ID_FIELD"] = "Ð†Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÐ°Ñ‚Ð¾Ñ€ ÐºÐ°ÑÐ¸";
+$MESS["SALE_CASHBOX_ENTITY_NAME_FIELD"] = "ÐÐ°Ð·Ð²Ð°";
+$MESS["SALE_CASHBOX_ENTITY_ACTIVE_FIELD"] = "ÐÐºÑ‚Ð¸Ð²Ð½Ñ–ÑÑ‚ÑŒ";
+$MESS["SALE_CASHBOX_ENTITY_HANDLER_FIELD"] = "ÐžÐ±Ñ€Ð¾Ð±Ð½Ð¸Ðº";
+$MESS["SALE_CASHBOX_ENTITY_SORT_FIELD"] = "Ð¡Ð¾Ñ€Ñ‚ÑƒÐ²Ð°Ð½Ð½Ñ";
+$MESS["SALE_CASHBOX_ENTITY_DATE_CREATE_FIELD"] = "Ð”Ð°Ñ‚Ð° ÑÑ‚Ð²Ð¾Ñ€ÐµÐ½Ð½Ñ";
+$MESS["SALE_CASHBOX_ENTITY_DATE_LAST_CHECK_FIELD"] = "ÐžÑÑ‚Ð°Ð½Ð½Ñ Ð´Ð°Ñ‚Ð° Ð¿ÐµÑ€ÐµÐ²Ñ–Ñ€ÐºÐ¸";
+$MESS["SALE_CASHBOX_ENTITY_KKM_ID_FIELD"] = "ÐœÐ°Ñ€ÐºÐ° ÐšÐšÐœ";
+$MESS["SALE_CASHBOX_ENTITY_OFD_FIELD"] = "ÐžÐ¤Ð”";
+$MESS["SALE_CASHBOX_ENTITY_NUMBER_KKM_FIELD"] = "Ð—Ð¾Ð²Ð½Ñ–ÑˆÐ½Ñ–Ð¹ Ñ–Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÐ°Ñ‚Ð¾Ñ€ ÐºÐ°ÑÐ¸";
+$MESS["SALE_CASHBOX_ENTITY_SETTINGS_FIELD"] = "ÐÐ°Ð»Ð°ÑˆÑ‚ÑƒÐ²Ð°Ð½Ð½Ñ ÐºÐ°ÑÐ¸";
+$MESS["SALE_CASHBOX_ENTITY_USE_OFFLINE_FIELD"] = "Ð’Ð¸ÐºÐ¾Ñ€Ð¸ÑÑ‚Ð¾Ð²ÑƒÑ”Ñ‚ÑŒÑÑ Ð¾Ñ„Ñ„Ð»Ð°Ð¹Ð½";
+$MESS["SALE_CASHBOX_ENTITY_OFD_TEST_MODE_FIELD"] = "Ð¢ÐµÑÑ‚Ð¾Ð²Ñ‹Ð¹ Ñ€ÐµÐ¶Ð¸Ð¼ ÐžÐ¤Ð”";
+$MESS["SALE_CASHBOX_ENTITY_ENABLED_FIELD"] = "Ð’ Ð¼ÐµÑ€ÐµÐ¶Ñ–";
 $MESS["SALE_CASHBOX_ENTITY_EMAIL_FIELD"] = "Email";
 ?>

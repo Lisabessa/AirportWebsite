@@ -1,6 +1,6 @@
 <?
-$MESS ['TRANS_MODULE_NAME'] = "Ïåðåâîä";
-$MESS ['TRANS_MODULE_DESCRIPTION'] = "Ìîäóëü ïåðåâîäà ÿçûêîâûõ ôàéëîâ.";
-$MESS ['TRANSLATE_INSTALL_TITLE'] = "Óñòàíîâêà ìîäóëÿ Ïåðåâîäà";
-$MESS ['TRANSLATE_UNINSTALL_TITLE'] = "Óäàëåíèå ìîäóëÿ Ïåðåâîäà";
+$MESS ['TRANS_MODULE_NAME'] = "ÐŸÐµÑ€ÐµÐ²Ð¾Ð´";
+$MESS ['TRANS_MODULE_DESCRIPTION'] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð¿ÐµÑ€ÐµÐ²Ð¾Ð´Ð° ÑÐ·Ñ‹ÐºÐ¾Ð²Ñ‹Ñ… Ñ„Ð°Ð¹Ð»Ð¾Ð².";
+$MESS ['TRANSLATE_INSTALL_TITLE'] = "Ð£ÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ° Ð¼Ð¾Ð´ÑƒÐ»Ñ ÐŸÐµÑ€ÐµÐ²Ð¾Ð´Ð°";
+$MESS ['TRANSLATE_UNINSTALL_TITLE'] = "Ð£Ð´Ð°Ð»ÐµÐ½Ð¸Ðµ Ð¼Ð¾Ð´ÑƒÐ»Ñ ÐŸÐµÑ€ÐµÐ²Ð¾Ð´Ð°";
 ?>

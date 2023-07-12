@@ -1,7 +1,7 @@
 <?
-$MESS ['BCL_MONITORING_INTERVAL'] = "Èíòåðâàë ðàñ÷¸òîâ";
-$MESS ['BCL_MONITORING_INTERVAL_WEEK'] = "Íåäåëÿ";
-$MESS ['BCL_MONITORING_INTERVAL_MONTH'] = "Ìåñÿö";
-$MESS ['BCL_MONITORING_INTERVAL_QUARTER'] = "Êâàðòàë";
-$MESS ['BCL_MONITORING_INTERVAL_YEAR'] = "Ãîä";
+$MESS ['BCL_MONITORING_INTERVAL'] = "Ð˜Ð½Ñ‚ÐµÑ€Ð²Ð°Ð» Ñ€Ð°ÑÑ‡Ñ‘Ñ‚Ð¾Ð²";
+$MESS ['BCL_MONITORING_INTERVAL_WEEK'] = "ÐÐµÐ´ÐµÐ»Ñ";
+$MESS ['BCL_MONITORING_INTERVAL_MONTH'] = "ÐœÐµÑÑÑ†";
+$MESS ['BCL_MONITORING_INTERVAL_QUARTER'] = "ÐšÐ²Ð°Ñ€Ñ‚Ð°Ð»";
+$MESS ['BCL_MONITORING_INTERVAL_YEAR'] = "Ð“Ð¾Ð´";
 ?>

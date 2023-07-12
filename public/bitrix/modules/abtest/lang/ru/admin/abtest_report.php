@@ -1,90 +1,90 @@
 <?php
 
-$MESS['ABTEST_REPORT_NOTFOUND'] = "Отчет не найден";
-$MESS['ABTEST_REPORT_DISABLED'] = "А/B-тест не существует или не настроен";
+$MESS['ABTEST_REPORT_NOTFOUND'] = "РћС‚С‡РµС‚ РЅРµ РЅР°Р№РґРµРЅ";
+$MESS['ABTEST_REPORT_DISABLED'] = "Рђ/B-С‚РµСЃС‚ РЅРµ СЃСѓС‰РµСЃС‚РІСѓРµС‚ РёР»Рё РЅРµ РЅР°СЃС‚СЂРѕРµРЅ";
 
-$MESS['ABTEST_REPORT_TITLE1'] = "Выполнение А/B-теста ##ID#";
-$MESS['ABTEST_REPORT_TITLE2'] = "Выполнение А/B-теста: #NAME#";
+$MESS['ABTEST_REPORT_TITLE1'] = "Р’С‹РїРѕР»РЅРµРЅРёРµ Рђ/B-С‚РµСЃС‚Р° ##ID#";
+$MESS['ABTEST_REPORT_TITLE2'] = "Р’С‹РїРѕР»РЅРµРЅРёРµ Рђ/B-С‚РµСЃС‚Р°: #NAME#";
 
-$MESS['ABTEST_GOTO_LIST'] = "Список тестов";
+$MESS['ABTEST_GOTO_LIST'] = "РЎРїРёСЃРѕРє С‚РµСЃС‚РѕРІ";
 
-$MESS['ABTEST_TAB_NAME'] = "A/B-тест";
-$MESS['ABTEST_TAB_TITLE'] = "Результаты теста";
+$MESS['ABTEST_TAB_NAME'] = "A/B-С‚РµСЃС‚";
+$MESS['ABTEST_TAB_TITLE'] = "Р РµР·СѓР»СЊС‚Р°С‚С‹ С‚РµСЃС‚Р°";
 
-$MESS['ABTEST_STARTED_BY'] = "Запустил";
-$MESS['ABTEST_STOPPED_BY'] = "Остановил";
-$MESS['ABTEST_DURATION'] = "Работает";
-$MESS['ABTEST_DURATION2'] = "Работал";
-$MESS['ABTEST_DURATION_NA'] = "нет данных";
+$MESS['ABTEST_STARTED_BY'] = "Р—Р°РїСѓСЃС‚РёР»";
+$MESS['ABTEST_STOPPED_BY'] = "РћСЃС‚Р°РЅРѕРІРёР»";
+$MESS['ABTEST_DURATION'] = "Р Р°Р±РѕС‚Р°РµС‚";
+$MESS['ABTEST_DURATION2'] = "Р Р°Р±РѕС‚Р°Р»";
+$MESS['ABTEST_DURATION_NA'] = "РЅРµС‚ РґР°РЅРЅС‹С…";
 
-$MESS['ABTEST_START_DATE'] = 'Тест запущен';
-$MESS['ABTEST_STOP_DATE'] = 'Тест завершен';
-$MESS['ABTEST_START_DATE2'] = 'Дата последнего запуска';
-$MESS['ABTEST_STOP_DATE2'] = 'Ожидаемая дата завершения';
-$MESS['ABTEST_NEVER_LAUNCHED'] = 'Никогда не запускался';
+$MESS['ABTEST_START_DATE'] = 'РўРµСЃС‚ Р·Р°РїСѓС‰РµРЅ';
+$MESS['ABTEST_STOP_DATE'] = 'РўРµСЃС‚ Р·Р°РІРµСЂС€РµРЅ';
+$MESS['ABTEST_START_DATE2'] = 'Р”Р°С‚Р° РїРѕСЃР»РµРґРЅРµРіРѕ Р·Р°РїСѓСЃРєР°';
+$MESS['ABTEST_STOP_DATE2'] = 'РћР¶РёРґР°РµРјР°СЏ РґР°С‚Р° Р·Р°РІРµСЂС€РµРЅРёСЏ';
+$MESS['ABTEST_NEVER_LAUNCHED'] = 'РќРёРєРѕРіРґР° РЅРµ Р·Р°РїСѓСЃРєР°Р»СЃСЏ';
 
-$MESS['ABTEST_BTN_START'] = "Запустить";
-$MESS['ABTEST_BTN_STOP'] = "Остановить";
+$MESS['ABTEST_BTN_START'] = "Р—Р°РїСѓСЃС‚РёС‚СЊ";
+$MESS['ABTEST_BTN_STOP'] = "РћСЃС‚Р°РЅРѕРІРёС‚СЊ";
 
-$MESS['ABTEST_ONLYONE_WARNING'] = "Уже запущено активное тестирование, для запуска нового, дождитесь окончания или остановите тест вручную.";
-$MESS['ABTEST_START_CONFIRM'] = "Вы действительно хотите запустить тест?";
-$MESS['ABTEST_STOP_CONFIRM'] = "Вы действительно хотите остановить тест?";
+$MESS['ABTEST_ONLYONE_WARNING'] = "РЈР¶Рµ Р·Р°РїСѓС‰РµРЅРѕ Р°РєС‚РёРІРЅРѕРµ С‚РµСЃС‚РёСЂРѕРІР°РЅРёРµ, РґР»СЏ Р·Р°РїСѓСЃРєР° РЅРѕРІРѕРіРѕ, РґРѕР¶РґРёС‚РµСЃСЊ РѕРєРѕРЅС‡Р°РЅРёСЏ РёР»Рё РѕСЃС‚Р°РЅРѕРІРёС‚Рµ С‚РµСЃС‚ РІСЂСѓС‡РЅСѓСЋ.";
+$MESS['ABTEST_START_CONFIRM'] = "Р’С‹ РґРµР№СЃС‚РІРёС‚РµР»СЊРЅРѕ С…РѕС‚РёС‚Рµ Р·Р°РїСѓСЃС‚РёС‚СЊ С‚РµСЃС‚?";
+$MESS['ABTEST_STOP_CONFIRM'] = "Р’С‹ РґРµР№СЃС‚РІРёС‚РµР»СЊРЅРѕ С…РѕС‚РёС‚Рµ РѕСЃС‚Р°РЅРѕРІРёС‚СЊ С‚РµСЃС‚?";
 
-$MESS['ABTEST_DURATION_DAYS1_PLURAL_1'] = 'день';
-$MESS['ABTEST_DURATION_DAYS1_PLURAL_2'] = 'дня';
-$MESS['ABTEST_DURATION_DAYS1_PLURAL_3'] = 'дней';
+$MESS['ABTEST_DURATION_DAYS1_PLURAL_1'] = 'РґРµРЅСЊ';
+$MESS['ABTEST_DURATION_DAYS1_PLURAL_2'] = 'РґРЅСЏ';
+$MESS['ABTEST_DURATION_DAYS1_PLURAL_3'] = 'РґРЅРµР№';
 
-$MESS['ABTEST_DURATION_DAYS2_PLURAL_1'] = 'дня';
-$MESS['ABTEST_DURATION_DAYS2_PLURAL_2'] = 'дней';
-$MESS['ABTEST_DURATION_DAYS2_PLURAL_3'] = 'дней';
+$MESS['ABTEST_DURATION_DAYS2_PLURAL_1'] = 'РґРЅСЏ';
+$MESS['ABTEST_DURATION_DAYS2_PLURAL_2'] = 'РґРЅРµР№';
+$MESS['ABTEST_DURATION_DAYS2_PLURAL_3'] = 'РґРЅРµР№';
 
-$MESS['ABTEST_DURATION_HOURS_PLURAL_1'] = 'час';
-$MESS['ABTEST_DURATION_HOURS_PLURAL_2'] = 'часа';
-$MESS['ABTEST_DURATION_HOURS_PLURAL_3'] = 'часов';
+$MESS['ABTEST_DURATION_HOURS_PLURAL_1'] = 'С‡Р°СЃ';
+$MESS['ABTEST_DURATION_HOURS_PLURAL_2'] = 'С‡Р°СЃР°';
+$MESS['ABTEST_DURATION_HOURS_PLURAL_3'] = 'С‡Р°СЃРѕРІ';
 
-$MESS['ABTEST_DURATION_HOURS_0'] = 'менее <span>1</span> часа';
-$MESS['ABTEST_DURATION_OF'] = 'из';
+$MESS['ABTEST_DURATION_HOURS_0'] = 'РјРµРЅРµРµ <span>1</span> С‡Р°СЃР°';
+$MESS['ABTEST_DURATION_OF'] = 'РёР·';
 
-$MESS['ABTEST_TEST_TITLE_A'] = 'Группа A';
-$MESS['ABTEST_TEST_TITLE_B'] = 'Группа B';
+$MESS['ABTEST_TEST_TITLE_A'] = 'Р“СЂСѓРїРїР° A';
+$MESS['ABTEST_TEST_TITLE_B'] = 'Р“СЂСѓРїРїР° B';
 
-$MESS['ABTEST_CONVERSION_GRAPH_HINT_A'] = 'Конверсия группы A';
-$MESS['ABTEST_CONVERSION_GRAPH_HINT_B'] = 'Конверсия группы B';
+$MESS['ABTEST_CONVERSION_GRAPH_HINT_A'] = 'РљРѕРЅРІРµСЂСЃРёСЏ РіСЂСѓРїРїС‹ A';
+$MESS['ABTEST_CONVERSION_GRAPH_HINT_B'] = 'РљРѕРЅРІРµСЂСЃРёСЏ РіСЂСѓРїРїС‹ B';
 
-$MESS['ABTEST_CONVERSION_GRAPH_SHOW_ALL'] = 'Показать все';
+$MESS['ABTEST_CONVERSION_GRAPH_SHOW_ALL'] = 'РџРѕРєР°Р·Р°С‚СЊ РІСЃРµ';
 
-$MESS['ABTEST_VISITS'] = 'посетителей';
+$MESS['ABTEST_VISITS'] = 'РїРѕСЃРµС‚РёС‚РµР»РµР№';
 
-$MESS['ABTEST_CONVERSION_VALUE_TITLE'] = 'Конверсия';
-$MESS['ABTEST_CONVERSION_DIFF_TITLE'] = 'Динамика';
+$MESS['ABTEST_CONVERSION_VALUE_TITLE'] = 'РљРѕРЅРІРµСЂСЃРёСЏ';
+$MESS['ABTEST_CONVERSION_DIFF_TITLE'] = 'Р”РёРЅР°РјРёРєР°';
 
-$MESS['ABTEST_CONVERSION_CNT_TITLE'] = 'Количество';
-$MESS['ABTEST_CONVERSION_SUM_TITLE'] = 'Сумма';
-$MESS['ABTEST_CONVERSION_SUM_UNIT'] = 'руб';
+$MESS['ABTEST_CONVERSION_CNT_TITLE'] = 'РљРѕР»РёС‡РµСЃС‚РІРѕ';
+$MESS['ABTEST_CONVERSION_SUM_TITLE'] = 'РЎСѓРјРјР°';
+$MESS['ABTEST_CONVERSION_SUM_UNIT'] = 'СЂСѓР±';
 
-$MESS['ABTEST_CONVERSION_UNAVAILABLE'] = 'Для просмотра данных по конверсии необходим модуль конверсии.';
-$MESS['ABTEST_CONVRATES_UNAVAILABLE'] = 'Нет данных для формирования отчета по конверсии.';
+$MESS['ABTEST_CONVERSION_UNAVAILABLE'] = 'Р”Р»СЏ РїСЂРѕСЃРјРѕС‚СЂР° РґР°РЅРЅС‹С… РїРѕ РєРѕРЅРІРµСЂСЃРёРё РЅРµРѕР±С…РѕРґРёРј РјРѕРґСѓР»СЊ РєРѕРЅРІРµСЂСЃРёРё.';
+$MESS['ABTEST_CONVRATES_UNAVAILABLE'] = 'РќРµС‚ РґР°РЅРЅС‹С… РґР»СЏ С„РѕСЂРјРёСЂРѕРІР°РЅРёСЏ РѕС‚С‡РµС‚Р° РїРѕ РєРѕРЅРІРµСЂСЃРёРё.';
 
-$MESS['ABTEST_CONVERSION_RESULT_TITLE'] = 'Результат теста';
+$MESS['ABTEST_CONVERSION_RESULT_TITLE'] = 'Р РµР·СѓР»СЊС‚Р°С‚ С‚РµСЃС‚Р°';
 
-$MESS['ABTEST_CONVERSION_GRAPH_TITLE1'] = 'A/B-тестирование "Тест ##ID#"';
-$MESS['ABTEST_CONVERSION_GRAPH_TITLE2'] = 'A/B-тестирование "#NAME#"';
-$MESS['ABTEST_CONVERSION_GRAPH_DESCR'] = 'Убедитесь в том, что показатели конверсии в группе B выше.';
+$MESS['ABTEST_CONVERSION_GRAPH_TITLE1'] = 'A/B-С‚РµСЃС‚РёСЂРѕРІР°РЅРёРµ "РўРµСЃС‚ ##ID#"';
+$MESS['ABTEST_CONVERSION_GRAPH_TITLE2'] = 'A/B-С‚РµСЃС‚РёСЂРѕРІР°РЅРёРµ "#NAME#"';
+$MESS['ABTEST_CONVERSION_GRAPH_DESCR'] = 'РЈР±РµРґРёС‚РµСЃСЊ РІ С‚РѕРј, С‡С‚Рѕ РїРѕРєР°Р·Р°С‚РµР»Рё РєРѕРЅРІРµСЂСЃРёРё РІ РіСЂСѓРїРїРµ B РІС‹С€Рµ.';
 
-$MESS['ABTEST_CONVERSION_GRAPH_EMPTY'] = 'Нет данных';
-$MESS['ABTEST_CONVERSION_GRAPH_LOADING'] = 'Загрузка данных';
+$MESS['ABTEST_CONVERSION_GRAPH_EMPTY'] = 'РќРµС‚ РґР°РЅРЅС‹С…';
+$MESS['ABTEST_CONVERSION_GRAPH_LOADING'] = 'Р—Р°РіСЂСѓР·РєР° РґР°РЅРЅС‹С…';
 
-$MESS['ABTEST_CONVERSION_DETAILS'] = 'Смотреть сводные данные';
+$MESS['ABTEST_CONVERSION_DETAILS'] = 'РЎРјРѕС‚СЂРµС‚СЊ СЃРІРѕРґРЅС‹Рµ РґР°РЅРЅС‹Рµ';
 
-$MESS['ABTEST_CONVERSION_FUNNEL_TITLE'] = 'Основной показатель конверсии';
-$MESS['ABTEST_CONVERSION_COUNTERS_TITLE'] = 'Все показатели конверсии';
+$MESS['ABTEST_CONVERSION_FUNNEL_TITLE'] = 'РћСЃРЅРѕРІРЅРѕР№ РїРѕРєР°Р·Р°С‚РµР»СЊ РєРѕРЅРІРµСЂСЃРёРё';
+$MESS['ABTEST_CONVERSION_COUNTERS_TITLE'] = 'Р’СЃРµ РїРѕРєР°Р·Р°С‚РµР»Рё РєРѕРЅРІРµСЂСЃРёРё';
 
-$MESS['ABTEST_MATH_POWER_YES'] = 'Достигнута достаточная статистическая мощность';
-$MESS['ABTEST_MATH_POWER_NO'] = 'Не достигнута достаточная статистическая мощность';
-$MESS['ABTEST_MATH_SIGNIFICANCE_YES'] = 'Результат теста является статистически значимым';
-$MESS['ABTEST_MATH_SIGNIFICANCE_NO'] = 'Результат теста не является статистически значимым';
+$MESS['ABTEST_MATH_POWER_YES'] = 'Р”РѕСЃС‚РёРіРЅСѓС‚Р° РґРѕСЃС‚Р°С‚РѕС‡РЅР°СЏ СЃС‚Р°С‚РёСЃС‚РёС‡РµСЃРєР°СЏ РјРѕС‰РЅРѕСЃС‚СЊ';
+$MESS['ABTEST_MATH_POWER_NO'] = 'РќРµ РґРѕСЃС‚РёРіРЅСѓС‚Р° РґРѕСЃС‚Р°С‚РѕС‡РЅР°СЏ СЃС‚Р°С‚РёСЃС‚РёС‡РµСЃРєР°СЏ РјРѕС‰РЅРѕСЃС‚СЊ';
+$MESS['ABTEST_MATH_SIGNIFICANCE_YES'] = 'Р РµР·СѓР»СЊС‚Р°С‚ С‚РµСЃС‚Р° СЏРІР»СЏРµС‚СЃСЏ СЃС‚Р°С‚РёСЃС‚РёС‡РµСЃРєРё Р·РЅР°С‡РёРјС‹Рј';
+$MESS['ABTEST_MATH_SIGNIFICANCE_NO'] = 'Р РµР·СѓР»СЊС‚Р°С‚ С‚РµСЃС‚Р° РЅРµ СЏРІР»СЏРµС‚СЃСЏ СЃС‚Р°С‚РёСЃС‚РёС‡РµСЃРєРё Р·РЅР°С‡РёРјС‹Рј';
 
-$MESS['ABTEST_MATH_POWER_HINT'] = 'Статистическая мощность &mdash; вероятность того, что тест определит разницу между двумя вариантами, если эта разница действительно существует. Статистическая мощность увеличивается при увеличении размера выборки. Если статистическая мощность меньше 80%, то доверять результатам теста нельзя.';
-$MESS['ABTEST_MATH_SIGNIFICANCE_HINT'] = 'Статистическая значимость &mdash; вероятность того, что результат теста не является случайным. Результат A/B-теста считается статистически значимым, если мала вероятность увидеть разницу там, где ее на самом деле нет (или мала вероятность получить подобный результат при проведении A/A-теста). Уровень статистической значимости не должен быть меньше 95%.';
+$MESS['ABTEST_MATH_POWER_HINT'] = 'РЎС‚Р°С‚РёСЃС‚РёС‡РµСЃРєР°СЏ РјРѕС‰РЅРѕСЃС‚СЊ &mdash; РІРµСЂРѕСЏС‚РЅРѕСЃС‚СЊ С‚РѕРіРѕ, С‡С‚Рѕ С‚РµСЃС‚ РѕРїСЂРµРґРµР»РёС‚ СЂР°Р·РЅРёС†Сѓ РјРµР¶РґСѓ РґРІСѓРјСЏ РІР°СЂРёР°РЅС‚Р°РјРё, РµСЃР»Рё СЌС‚Р° СЂР°Р·РЅРёС†Р° РґРµР№СЃС‚РІРёС‚РµР»СЊРЅРѕ СЃСѓС‰РµСЃС‚РІСѓРµС‚. РЎС‚Р°С‚РёСЃС‚РёС‡РµСЃРєР°СЏ РјРѕС‰РЅРѕСЃС‚СЊ СѓРІРµР»РёС‡РёРІР°РµС‚СЃСЏ РїСЂРё СѓРІРµР»РёС‡РµРЅРёРё СЂР°Р·РјРµСЂР° РІС‹Р±РѕСЂРєРё. Р•СЃР»Рё СЃС‚Р°С‚РёСЃС‚РёС‡РµСЃРєР°СЏ РјРѕС‰РЅРѕСЃС‚СЊ РјРµРЅСЊС€Рµ 80%, С‚Рѕ РґРѕРІРµСЂСЏС‚СЊ СЂРµР·СѓР»СЊС‚Р°С‚Р°Рј С‚РµСЃС‚Р° РЅРµР»СЊР·СЏ.';
+$MESS['ABTEST_MATH_SIGNIFICANCE_HINT'] = 'РЎС‚Р°С‚РёСЃС‚РёС‡РµСЃРєР°СЏ Р·РЅР°С‡РёРјРѕСЃС‚СЊ &mdash; РІРµСЂРѕСЏС‚РЅРѕСЃС‚СЊ С‚РѕРіРѕ, С‡С‚Рѕ СЂРµР·СѓР»СЊС‚Р°С‚ С‚РµСЃС‚Р° РЅРµ СЏРІР»СЏРµС‚СЃСЏ СЃР»СѓС‡Р°Р№РЅС‹Рј. Р РµР·СѓР»СЊС‚Р°С‚ A/B-С‚РµСЃС‚Р° СЃС‡РёС‚Р°РµС‚СЃСЏ СЃС‚Р°С‚РёСЃС‚РёС‡РµСЃРєРё Р·РЅР°С‡РёРјС‹Рј, РµСЃР»Рё РјР°Р»Р° РІРµСЂРѕСЏС‚РЅРѕСЃС‚СЊ СѓРІРёРґРµС‚СЊ СЂР°Р·РЅРёС†Сѓ С‚Р°Рј, РіРґРµ РµРµ РЅР° СЃР°РјРѕРј РґРµР»Рµ РЅРµС‚ (РёР»Рё РјР°Р»Р° РІРµСЂРѕСЏС‚РЅРѕСЃС‚СЊ РїРѕР»СѓС‡РёС‚СЊ РїРѕРґРѕР±РЅС‹Р№ СЂРµР·СѓР»СЊС‚Р°С‚ РїСЂРё РїСЂРѕРІРµРґРµРЅРёРё A/A-С‚РµСЃС‚Р°). РЈСЂРѕРІРµРЅСЊ СЃС‚Р°С‚РёСЃС‚РёС‡РµСЃРєРѕР№ Р·РЅР°С‡РёРјРѕСЃС‚Рё РЅРµ РґРѕР»Р¶РµРЅ Р±С‹С‚СЊ РјРµРЅСЊС€Рµ 95%.';
 
-$MESS['ABTEST_DURATION_EST'] = 'осталось примерно: #NUM# #UNIT#';
+$MESS['ABTEST_DURATION_EST'] = 'РѕСЃС‚Р°Р»РѕСЃСЊ РїСЂРёРјРµСЂРЅРѕ: #NUM# #UNIT#';

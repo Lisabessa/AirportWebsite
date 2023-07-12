@@ -1,14 +1,14 @@
 <?
-$MESS['SALE_LOCATION_E_CANNOT_SAVE_ITEM'] = "Ïîìèëêà çáåðåæåííÿ ãðóïè";
-$MESS['SALE_LOCATION_E_CANNOT_UPDATE_ITEM'] = "Ïîìèëêà îíîâëåííÿ ãðóïè";
-$MESS['SALE_LOCATION_E_GO_BACK'] = "Ïîâåðíóòèñÿ äî ñïèñêó";
-$MESS['SALE_LOCATION_E_HEADING_LOCATION'] = "Âèá³ð ì³ñöåçíàõîäæåíü";
-$MESS['SALE_LOCATION_E_HEADING_NAME'] = "Ìîâí³ íàçâè (#LANGUAGE_ID#)";
-$MESS['SALE_LOCATION_E_HEADING_NAME_ALL'] = "Ìîâí³ íàçâè";
-$MESS['SALE_LOCATION_E_ITEM_EDIT'] = "Ðåäàãóâàííÿ ãðóïè: #ITEM_NAME#";
-$MESS['SALE_LOCATION_E_ITEM_NEW'] = "Ãðóïà ì³ñöåçíàõîäæåíü: äîäàâàííÿ";
-$MESS['SALE_LOCATION_E_ITEM_NOT_FOUND'] = "Ãðóïà íå çíàéäåíà";
-$MESS['SALE_LOCATION_E_MAIN_TAB'] = "Ãðóïà";
-$MESS['SALE_LOCATION_E_MAIN_TAB_TITLE'] = "Ïàðàìåòðè ãðóïè";
-$MESS['SALE_MODULE_ACCES_DENIED'] = "Äîñòóï äî ìîäóëÿ çàáîðîíåíèé";
+$MESS['SALE_LOCATION_E_CANNOT_SAVE_ITEM'] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ° Ð·Ð±ÐµÑ€ÐµÐ¶ÐµÐ½Ð½Ñ Ð³Ñ€ÑƒÐ¿Ð¸";
+$MESS['SALE_LOCATION_E_CANNOT_UPDATE_ITEM'] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ° Ð¾Ð½Ð¾Ð²Ð»ÐµÐ½Ð½Ñ Ð³Ñ€ÑƒÐ¿Ð¸";
+$MESS['SALE_LOCATION_E_GO_BACK'] = "ÐŸÐ¾Ð²ÐµÑ€Ð½ÑƒÑ‚Ð¸ÑÑ Ð´Ð¾ ÑÐ¿Ð¸ÑÐºÑƒ";
+$MESS['SALE_LOCATION_E_HEADING_LOCATION'] = "Ð’Ð¸Ð±Ñ–Ñ€ Ð¼Ñ–ÑÑ†ÐµÐ·Ð½Ð°Ñ…Ð¾Ð´Ð¶ÐµÐ½ÑŒ";
+$MESS['SALE_LOCATION_E_HEADING_NAME'] = "ÐœÐ¾Ð²Ð½Ñ– Ð½Ð°Ð·Ð²Ð¸ (#LANGUAGE_ID#)";
+$MESS['SALE_LOCATION_E_HEADING_NAME_ALL'] = "ÐœÐ¾Ð²Ð½Ñ– Ð½Ð°Ð·Ð²Ð¸";
+$MESS['SALE_LOCATION_E_ITEM_EDIT'] = "Ð ÐµÐ´Ð°Ð³ÑƒÐ²Ð°Ð½Ð½Ñ Ð³Ñ€ÑƒÐ¿Ð¸: #ITEM_NAME#";
+$MESS['SALE_LOCATION_E_ITEM_NEW'] = "Ð“Ñ€ÑƒÐ¿Ð° Ð¼Ñ–ÑÑ†ÐµÐ·Ð½Ð°Ñ…Ð¾Ð´Ð¶ÐµÐ½ÑŒ: Ð´Ð¾Ð´Ð°Ð²Ð°Ð½Ð½Ñ";
+$MESS['SALE_LOCATION_E_ITEM_NOT_FOUND'] = "Ð“Ñ€ÑƒÐ¿Ð° Ð½Ðµ Ð·Ð½Ð°Ð¹Ð´ÐµÐ½Ð°";
+$MESS['SALE_LOCATION_E_MAIN_TAB'] = "Ð“Ñ€ÑƒÐ¿Ð°";
+$MESS['SALE_LOCATION_E_MAIN_TAB_TITLE'] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð¸ Ð³Ñ€ÑƒÐ¿Ð¸";
+$MESS['SALE_MODULE_ACCES_DENIED'] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ð´Ð¾ Ð¼Ð¾Ð´ÑƒÐ»Ñ Ð·Ð°Ð±Ð¾Ñ€Ð¾Ð½ÐµÐ½Ð¸Ð¹";
 ?>

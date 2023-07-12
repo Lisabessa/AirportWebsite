@@ -1,12 +1,12 @@
 <?
-$MESS["FILE_UPLOAD_ENTITY_ID_FIELD"] = "Èäåíòèôèêàòîð çàäàíèÿ íà çàãðóçêó";
-$MESS["FILE_UPLOAD_ENTITY_TIMESTAMP_X_FIELD"] = "Âðåìÿ ñîçäàíèÿ çàäàíèÿ";
-$MESS["FILE_UPLOAD_ENTITY_FILE_PATH_FIELD"] = "Ïóòü ê ôàéëó";
-$MESS["FILE_UPLOAD_ENTITY_FILE_SIZE_FIELD"] = "Ðàçìåð ôàéëà";
-$MESS["FILE_UPLOAD_ENTITY_TMP_FILE_FIELD"] = "Ïóòü ê âðåìåííîìó ôàéëó";
-$MESS["FILE_UPLOAD_ENTITY_BUCKET_ID_FIELD"] = "Èäåíòèôèêàòîð õðàíèëèùà";
-$MESS["FILE_UPLOAD_ENTITY_PART_SIZE_FIELD"] = "Ðàçìåð ÷àñòè äëÿ çàãðóçêè";
-$MESS["FILE_UPLOAD_ENTITY_PART_NO_FIELD"] = "Íîìåð òåêóùåé çàãðóæàåìîé ÷àñòè";
-$MESS["FILE_UPLOAD_ENTITY_PART_FAIL_COUNTER_FIELD"] = "Ñ÷¸ò÷èê îøèáîê";
-$MESS["FILE_UPLOAD_ENTITY_NEXT_STEP_FIELD"] = "Íàñòðîéêè";
+$MESS["FILE_UPLOAD_ENTITY_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð·Ð°Ð´Ð°Ð½Ð¸Ñ Ð½Ð° Ð·Ð°Ð³Ñ€ÑƒÐ·ÐºÑƒ";
+$MESS["FILE_UPLOAD_ENTITY_TIMESTAMP_X_FIELD"] = "Ð’Ñ€ÐµÐ¼Ñ ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ Ð·Ð°Ð´Ð°Ð½Ð¸Ñ";
+$MESS["FILE_UPLOAD_ENTITY_FILE_PATH_FIELD"] = "ÐŸÑƒÑ‚ÑŒ Ðº Ñ„Ð°Ð¹Ð»Ñƒ";
+$MESS["FILE_UPLOAD_ENTITY_FILE_SIZE_FIELD"] = "Ð Ð°Ð·Ð¼ÐµÑ€ Ñ„Ð°Ð¹Ð»Ð°";
+$MESS["FILE_UPLOAD_ENTITY_TMP_FILE_FIELD"] = "ÐŸÑƒÑ‚ÑŒ Ðº Ð²Ñ€ÐµÐ¼ÐµÐ½Ð½Ð¾Ð¼Ñƒ Ñ„Ð°Ð¹Ð»Ñƒ";
+$MESS["FILE_UPLOAD_ENTITY_BUCKET_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ñ…Ñ€Ð°Ð½Ð¸Ð»Ð¸Ñ‰Ð°";
+$MESS["FILE_UPLOAD_ENTITY_PART_SIZE_FIELD"] = "Ð Ð°Ð·Ð¼ÐµÑ€ Ñ‡Ð°ÑÑ‚Ð¸ Ð´Ð»Ñ Ð·Ð°Ð³Ñ€ÑƒÐ·ÐºÐ¸";
+$MESS["FILE_UPLOAD_ENTITY_PART_NO_FIELD"] = "ÐÐ¾Ð¼ÐµÑ€ Ñ‚ÐµÐºÑƒÑ‰ÐµÐ¹ Ð·Ð°Ð³Ñ€ÑƒÐ¶Ð°ÐµÐ¼Ð¾Ð¹ Ñ‡Ð°ÑÑ‚Ð¸";
+$MESS["FILE_UPLOAD_ENTITY_PART_FAIL_COUNTER_FIELD"] = "Ð¡Ñ‡Ñ‘Ñ‚Ñ‡Ð¸Ðº Ð¾ÑˆÐ¸Ð±Ð¾Ðº";
+$MESS["FILE_UPLOAD_ENTITY_NEXT_STEP_FIELD"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸";
 ?>

@@ -1,11 +1,11 @@
 <?
-$MESS['FORM_VALIDATOR_IMAGE_SIZE_DESCRIPTION'] = "Ðàçìåð èçîáðàæåíèÿ";
-$MESS['FORM_VALIDATOR_IMAGE_SIZE_SETTINGS_WIDTH_FROM'] = "Ìèíèìàëüíàÿ øèðèíà";
-$MESS['FORM_VALIDATOR_IMAGE_SIZE_SETTINGS_WIDTH_TO'] = "Ìàêñèìàëüíàÿ øèðèíà";
-$MESS['FORM_VALIDATOR_IMAGE_SIZE_SETTINGS_HEIGHT_FROM'] = "Ìèíèìàëüíàÿ âûñîòà";
-$MESS['FORM_VALIDATOR_IMAGE_SIZE_SETTINGS_HEIGHT_TO'] = "Ìàêñèìàëüíàÿ âûñîòà";
-$MESS['FORM_VALIDATOR_IMAGE_SIZE_ERROR_WIDTH_LESS'] = "#FIELD_NAME#: ñëèøêîì ìàëåíüêàÿ øèðèíà èçîáðàæåíèÿ";
-$MESS['FORM_VALIDATOR_IMAGE_SIZE_ERROR_WIDTH_MORE'] = "#FIELD_NAME#: ñëèøêîì áîëüøàÿ øèðèíà èçîáðàæåíèÿ";
-$MESS['FORM_VALIDATOR_IMAGE_SIZE_ERROR_HEIGHT_LESS'] = "#FIELD_NAME#: ñëèøêîì ìàëåíüêàÿ âûñîòà èçîáðàæåíèÿ";
-$MESS['FORM_VALIDATOR_IMAGE_SIZE_ERROR_HEIGHT_MORE'] = "#FIELD_NAME#: ñëèøêîì áîëüøàÿ âûñîòà èçîáðàæåíèÿ";
+$MESS['FORM_VALIDATOR_IMAGE_SIZE_DESCRIPTION'] = "Ð Ð°Ð·Ð¼ÐµÑ€ Ð¸Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ñ";
+$MESS['FORM_VALIDATOR_IMAGE_SIZE_SETTINGS_WIDTH_FROM'] = "ÐœÐ¸Ð½Ð¸Ð¼Ð°Ð»ÑŒÐ½Ð°Ñ ÑˆÐ¸Ñ€Ð¸Ð½Ð°";
+$MESS['FORM_VALIDATOR_IMAGE_SIZE_SETTINGS_WIDTH_TO'] = "ÐœÐ°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ð°Ñ ÑˆÐ¸Ñ€Ð¸Ð½Ð°";
+$MESS['FORM_VALIDATOR_IMAGE_SIZE_SETTINGS_HEIGHT_FROM'] = "ÐœÐ¸Ð½Ð¸Ð¼Ð°Ð»ÑŒÐ½Ð°Ñ Ð²Ñ‹ÑÐ¾Ñ‚Ð°";
+$MESS['FORM_VALIDATOR_IMAGE_SIZE_SETTINGS_HEIGHT_TO'] = "ÐœÐ°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ð°Ñ Ð²Ñ‹ÑÐ¾Ñ‚Ð°";
+$MESS['FORM_VALIDATOR_IMAGE_SIZE_ERROR_WIDTH_LESS'] = "#FIELD_NAME#: ÑÐ»Ð¸ÑˆÐºÐ¾Ð¼ Ð¼Ð°Ð»ÐµÐ½ÑŒÐºÐ°Ñ ÑˆÐ¸Ñ€Ð¸Ð½Ð° Ð¸Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ñ";
+$MESS['FORM_VALIDATOR_IMAGE_SIZE_ERROR_WIDTH_MORE'] = "#FIELD_NAME#: ÑÐ»Ð¸ÑˆÐºÐ¾Ð¼ Ð±Ð¾Ð»ÑŒÑˆÐ°Ñ ÑˆÐ¸Ñ€Ð¸Ð½Ð° Ð¸Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ñ";
+$MESS['FORM_VALIDATOR_IMAGE_SIZE_ERROR_HEIGHT_LESS'] = "#FIELD_NAME#: ÑÐ»Ð¸ÑˆÐºÐ¾Ð¼ Ð¼Ð°Ð»ÐµÐ½ÑŒÐºÐ°Ñ Ð²Ñ‹ÑÐ¾Ñ‚Ð° Ð¸Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ñ";
+$MESS['FORM_VALIDATOR_IMAGE_SIZE_ERROR_HEIGHT_MORE'] = "#FIELD_NAME#: ÑÐ»Ð¸ÑˆÐºÐ¾Ð¼ Ð±Ð¾Ð»ÑŒÑˆÐ°Ñ Ð²Ñ‹ÑÐ¾Ñ‚Ð° Ð¸Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ñ";
 ?>

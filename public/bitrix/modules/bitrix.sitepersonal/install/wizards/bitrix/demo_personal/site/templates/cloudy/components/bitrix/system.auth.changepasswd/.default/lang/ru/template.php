@@ -1,12 +1,12 @@
 <?
-$MESS ['AUTH_CHANGE_PASSWORD'] = "Ñìåíà ïàðîëÿ";
-$MESS ['AUTH_LOGIN'] = "Ëîãèí";
-$MESS ['AUTH_CHECKWORD'] = "Êîíòðîëüíàÿ ñòðîêà";
-$MESS ['AUTH_NEW_PASSWORD'] = "Íîâûé ïàðîëü";
-$MESS ['AUTH_NEW_PASSWORD_CONFIRM'] = "Ïîäòâåðæäåíèå ïàðîëÿ";
-$MESS ['AUTH_CHANGE'] = "Èçìåíèòü ïàðîëü";
-$MESS ['AUTH_REQ'] = "Îáÿçàòåëüíûå ïîëÿ";
-$MESS ['AUTH_AUTH'] = "Àâòîðèçàöèÿ";
-$MESS ['AUTH_NEW_PASSWORD_REQ'] = "Íîâûé ïàðîëü";
-$MESS ['AUTH_CAPTCHA_PROMT'] = "Êîä íà êàðòèíêå";
+$MESS ['AUTH_CHANGE_PASSWORD'] = "Ð¡Ð¼ÐµÐ½Ð° Ð¿Ð°Ñ€Ð¾Ð»Ñ";
+$MESS ['AUTH_LOGIN'] = "Ð›Ð¾Ð³Ð¸Ð½";
+$MESS ['AUTH_CHECKWORD'] = "ÐšÐ¾Ð½Ñ‚Ñ€Ð¾Ð»ÑŒÐ½Ð°Ñ ÑÑ‚Ñ€Ð¾ÐºÐ°";
+$MESS ['AUTH_NEW_PASSWORD'] = "ÐÐ¾Ð²Ñ‹Ð¹ Ð¿Ð°Ñ€Ð¾Ð»ÑŒ";
+$MESS ['AUTH_NEW_PASSWORD_CONFIRM'] = "ÐŸÐ¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð¸Ðµ Ð¿Ð°Ñ€Ð¾Ð»Ñ";
+$MESS ['AUTH_CHANGE'] = "Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ð¿Ð°Ñ€Ð¾Ð»ÑŒ";
+$MESS ['AUTH_REQ'] = "ÐžÐ±ÑÐ·Ð°Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ðµ Ð¿Ð¾Ð»Ñ";
+$MESS ['AUTH_AUTH'] = "ÐÐ²Ñ‚Ð¾Ñ€Ð¸Ð·Ð°Ñ†Ð¸Ñ";
+$MESS ['AUTH_NEW_PASSWORD_REQ'] = "ÐÐ¾Ð²Ñ‹Ð¹ Ð¿Ð°Ñ€Ð¾Ð»ÑŒ";
+$MESS ['AUTH_CAPTCHA_PROMT'] = "ÐšÐ¾Ð´ Ð½Ð° ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐµ";
 ?>

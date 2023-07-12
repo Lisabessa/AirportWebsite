@@ -1,5 +1,5 @@
 <?php
-$MESS['LANDING_HOOK_HEADBLOCK_NAME2'] = 'Ïîëüçîâàòåëüñêèé HTML';
-$MESS['LANDING_HOOK_HEADBLOCK_USE2'] = 'Äîáàâèòü/ðåäàêòèðîâàòü äëÿ ñòðàíèöû';
-$MESS['LANDING_HOOK_HEADBLOCK_CODE'] = 'Áëîê HEAD';
-$MESS['LANDING_HOOK_HEADBLOCK_CODE_HELP3'] = 'Âñòàâêà ïðîèçâîëüíîãî html-êîäà âíóòðè òåãà HEAD. Îáû÷íî ýòî áûâàåò êîä ñòàòèñòèêè, ìåòà-òåãè ïîäòâåðæäåíèÿ, è òàê äàëåå.';
+$MESS['LANDING_HOOK_HEADBLOCK_NAME2'] = 'ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒÑÐºÐ¸Ð¹ HTML';
+$MESS['LANDING_HOOK_HEADBLOCK_USE2'] = 'Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ/Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ð´Ð»Ñ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹';
+$MESS['LANDING_HOOK_HEADBLOCK_CODE'] = 'Ð‘Ð»Ð¾Ðº HEAD';
+$MESS['LANDING_HOOK_HEADBLOCK_CODE_HELP3'] = 'Ð’ÑÑ‚Ð°Ð²ÐºÐ° Ð¿Ñ€Ð¾Ð¸Ð·Ð²Ð¾Ð»ÑŒÐ½Ð¾Ð³Ð¾ html-ÐºÐ¾Ð´Ð° Ð²Ð½ÑƒÑ‚Ñ€Ð¸ Ñ‚ÐµÐ³Ð° HEAD. ÐžÐ±Ñ‹Ñ‡Ð½Ð¾ ÑÑ‚Ð¾ Ð±Ñ‹Ð²Ð°ÐµÑ‚ ÐºÐ¾Ð´ ÑÑ‚Ð°Ñ‚Ð¸ÑÑ‚Ð¸ÐºÐ¸, Ð¼ÐµÑ‚Ð°-Ñ‚ÐµÐ³Ð¸ Ð¿Ð¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð¸Ñ, Ð¸ Ñ‚Ð°Ðº Ð´Ð°Ð»ÐµÐµ.';

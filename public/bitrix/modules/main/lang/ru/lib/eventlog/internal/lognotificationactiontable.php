@@ -1,3 +1,3 @@
 <?
-$MESS["log_notification_action_type"] = "Òèï îïîâåùåíèÿ";
+$MESS["log_notification_action_type"] = "Ð¢Ð¸Ð¿ Ð¾Ð¿Ð¾Ð²ÐµÑ‰ÐµÐ½Ð¸Ñ";
 ?>

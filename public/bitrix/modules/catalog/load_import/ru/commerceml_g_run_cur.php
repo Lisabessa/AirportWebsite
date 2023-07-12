@@ -6,7 +6,7 @@ $arCMLCurrencies = array(
 		"EUR" => "EUR",
 		"RUR" => $base_currency,
 		"RUB" => $base_currency,
-		"ðóá." => $base_currency,
-		"ðóá" => $base_currency
+		"Ñ€ÑƒÐ±." => $base_currency,
+		"Ñ€ÑƒÐ±" => $base_currency
 	);
 ?>

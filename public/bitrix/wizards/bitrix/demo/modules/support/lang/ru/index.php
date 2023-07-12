@@ -1,7 +1,7 @@
 <?
-$MESS['SUPP_DEMO_INSTALL_MENUITEM'] = 'Òåõïîääåðæêà';
-$MESS["SUPP_DEMO_INSTALL_COMMON_QUESTION"] = "Îáùèå âîïðîñû";
-$MESS["SUPP_DEMO_INSTALL_ESTORE_QUESTION"] = "Âîïðîñû ïî çàêàçàì";
-$MESS['SUPP_DEMO_INSTALL_GROUP_NAME'] = 'Àäìèíèñòðàòîðû òåõïîääåðæêè';
-$MESS['SUPP_DEMO_INSTALL_GROUP_DESCRIPTION'] = 'Ïîëíûé äîñòóï ê ñïðàâî÷íèêó òåõïîääåðæêè è âñåì îáðàùåíèÿì, íàçíà÷åíèå îòâåòñòâåííûõ çà ðàññìîòðåíèå îáðàùåíèé.';
+$MESS['SUPP_DEMO_INSTALL_MENUITEM'] = 'Ð¢ÐµÑ…Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ°';
+$MESS["SUPP_DEMO_INSTALL_COMMON_QUESTION"] = "ÐžÐ±Ñ‰Ð¸Ðµ Ð²Ð¾Ð¿Ñ€Ð¾ÑÑ‹";
+$MESS["SUPP_DEMO_INSTALL_ESTORE_QUESTION"] = "Ð’Ð¾Ð¿Ñ€Ð¾ÑÑ‹ Ð¿Ð¾ Ð·Ð°ÐºÐ°Ð·Ð°Ð¼";
+$MESS['SUPP_DEMO_INSTALL_GROUP_NAME'] = 'ÐÐ´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¾Ñ€Ñ‹ Ñ‚ÐµÑ…Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ¸';
+$MESS['SUPP_DEMO_INSTALL_GROUP_DESCRIPTION'] = 'ÐŸÐ¾Ð»Ð½Ñ‹Ð¹ Ð´Ð¾ÑÑ‚ÑƒÐ¿ Ðº ÑÐ¿Ñ€Ð°Ð²Ð¾Ñ‡Ð½Ð¸ÐºÑƒ Ñ‚ÐµÑ…Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ¸ Ð¸ Ð²ÑÐµÐ¼ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸ÑÐ¼, Ð½Ð°Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð¾Ñ‚Ð²ÐµÑ‚ÑÑ‚Ð²ÐµÐ½Ð½Ñ‹Ñ… Ð·Ð° Ñ€Ð°ÑÑÐ¼Ð¾Ñ‚Ñ€ÐµÐ½Ð¸Ðµ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ð¹.';
 ?>

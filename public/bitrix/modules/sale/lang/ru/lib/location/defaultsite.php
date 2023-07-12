@@ -1,9 +1,9 @@
 <?
-$MESS["SALE_LOCATION_DEFAULTSITE_ENTITY_SORT_FIELD"] = "Ñîðòèðîâêà";
-$MESS["SALE_LOCATION_DEFAULTSITE_ENTITY_LOCATION_ID_FIELD"] = "Ìåñòîïîëîæåíèå";
-$MESS["SALE_LOCATION_DEFAULTSITE_ENTITY_SITE_ID_FIELD"] = "Êîä ñàéòà";
-$MESS["SALE_LOCATION_DEFAULTSITE_ENTITY_SITE_ID_UNKNOWN_EXCEPTION"] = "Íåèçâåñòíûé èäåíòèôèêàòîð ñàéòà";
-$MESS["SALE_LOCATION_DEFAULTSITE_ENTITY_CANNOT_DELETE_EXCEPTION"] = "Îøèáêà óäàëåíèÿ ìåñòîïîëîæåíèÿ";
-$MESS["SALE_LOCATION_DEFAULTSITE_ENTITY_CANNOT_ADD_EXCEPTION"] = "Îøèáêà óäàëåíèÿ ìåñòîïîëîæåíèÿ";
-$MESS["SALE_LOCATION_DEFAULTSITE_ENTITY_CANNOT_UPDATE_EXCEPTION"] = "Îøèáêà óäàëåíèÿ ìåñòîïîëîæåíèÿ";
+$MESS["SALE_LOCATION_DEFAULTSITE_ENTITY_SORT_FIELD"] = "Ð¡Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²ÐºÐ°";
+$MESS["SALE_LOCATION_DEFAULTSITE_ENTITY_LOCATION_ID_FIELD"] = "ÐœÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ";
+$MESS["SALE_LOCATION_DEFAULTSITE_ENTITY_SITE_ID_FIELD"] = "ÐšÐ¾Ð´ ÑÐ°Ð¹Ñ‚Ð°";
+$MESS["SALE_LOCATION_DEFAULTSITE_ENTITY_SITE_ID_UNKNOWN_EXCEPTION"] = "ÐÐµÐ¸Ð·Ð²ÐµÑÑ‚Ð½Ñ‹Ð¹ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÐ°Ð¹Ñ‚Ð°";
+$MESS["SALE_LOCATION_DEFAULTSITE_ENTITY_CANNOT_DELETE_EXCEPTION"] = "ÐžÑˆÐ¸Ð±ÐºÐ° ÑƒÐ´Ð°Ð»ÐµÐ½Ð¸Ñ Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ";
+$MESS["SALE_LOCATION_DEFAULTSITE_ENTITY_CANNOT_ADD_EXCEPTION"] = "ÐžÑˆÐ¸Ð±ÐºÐ° ÑƒÐ´Ð°Ð»ÐµÐ½Ð¸Ñ Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ";
+$MESS["SALE_LOCATION_DEFAULTSITE_ENTITY_CANNOT_UPDATE_EXCEPTION"] = "ÐžÑˆÐ¸Ð±ÐºÐ° ÑƒÐ´Ð°Ð»ÐµÐ½Ð¸Ñ Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ";
 ?>

@@ -1,19 +1,19 @@
 <?
-$MESS["CALENDAR_FILTER_CREATED_BY"] = "Îðãàíèçàòîð";
-$MESS["CALENDAR_FILTER_ATTENDEES"] = "Ó÷àñòíèêè";
-$MESS["CALENDAR_FILTER_DATE"] = "Äàòà";
-$MESS["CALENDAR_FILTER_LOCATION"] = "Ìåñòî ïðîâåäåíèÿ";
-$MESS["CALENDAR_FILTER_MEETING_STATUS"] = "Ñòàòóñ ó÷àñòèÿ";
-$MESS["CALENDAR_FILTER_MEETING_STATUS_H"] = "Îðãàíèçàòîð";
-$MESS["CALENDAR_FILTER_MEETING_STATUS_Q"] = "Ïðèãëàøåí";
-$MESS["CALENDAR_FILTER_MEETING_STATUS_Y"] = "Ó÷àñòâóþ";
-$MESS["CALENDAR_FILTER_MEETING_STATUS_N"] = "Îòêàçàëñÿ";
-$MESS["CALENDAR_FILTER_MEETING_STATUS_I"] = "Âîçìîæíî";
-$MESS["CALENDAR_FILTER_IS_MEETING"] = "Ñîáûòèå ñ ó÷àñòíèêàìè";
-$MESS["CALENDAR_FILTER_IS_RECURSIVE"] = "Ïîâòîðÿåìîå ñîáûòèå";
+$MESS["CALENDAR_FILTER_CREATED_BY"] = "ÐžÑ€Ð³Ð°Ð½Ð¸Ð·Ð°Ñ‚Ð¾Ñ€";
+$MESS["CALENDAR_FILTER_ATTENDEES"] = "Ð£Ñ‡Ð°ÑÑ‚Ð½Ð¸ÐºÐ¸";
+$MESS["CALENDAR_FILTER_DATE"] = "Ð”Ð°Ñ‚Ð°";
+$MESS["CALENDAR_FILTER_LOCATION"] = "ÐœÐµÑÑ‚Ð¾ Ð¿Ñ€Ð¾Ð²ÐµÐ´ÐµÐ½Ð¸Ñ";
+$MESS["CALENDAR_FILTER_MEETING_STATUS"] = "Ð¡Ñ‚Ð°Ñ‚ÑƒÑ ÑƒÑ‡Ð°ÑÑ‚Ð¸Ñ";
+$MESS["CALENDAR_FILTER_MEETING_STATUS_H"] = "ÐžÑ€Ð³Ð°Ð½Ð¸Ð·Ð°Ñ‚Ð¾Ñ€";
+$MESS["CALENDAR_FILTER_MEETING_STATUS_Q"] = "ÐŸÑ€Ð¸Ð³Ð»Ð°ÑˆÐµÐ½";
+$MESS["CALENDAR_FILTER_MEETING_STATUS_Y"] = "Ð£Ñ‡Ð°ÑÑ‚Ð²ÑƒÑŽ";
+$MESS["CALENDAR_FILTER_MEETING_STATUS_N"] = "ÐžÑ‚ÐºÐ°Ð·Ð°Ð»ÑÑ";
+$MESS["CALENDAR_FILTER_MEETING_STATUS_I"] = "Ð’Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾";
+$MESS["CALENDAR_FILTER_IS_MEETING"] = "Ð¡Ð¾Ð±Ñ‹Ñ‚Ð¸Ðµ Ñ ÑƒÑ‡Ð°ÑÑ‚Ð½Ð¸ÐºÐ°Ð¼Ð¸";
+$MESS["CALENDAR_FILTER_IS_RECURSIVE"] = "ÐŸÐ¾Ð²Ñ‚Ð¾Ñ€ÑÐµÐ¼Ð¾Ðµ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ðµ";
 
 
-$MESS["CALENDAR_PRESET_MEETING_STATUS_Q"] = "Ïðèãëàøåíèÿ";
-$MESS["CALENDAR_PRESET_I_AM_HOST"] = "ß îðãàíèçàòîð";
-$MESS["CALENDAR_PRESET_I_AM_ATTENDEE"] = "ß ó÷àñòíèê";
+$MESS["CALENDAR_PRESET_MEETING_STATUS_Q"] = "ÐŸÑ€Ð¸Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ñ";
+$MESS["CALENDAR_PRESET_I_AM_HOST"] = "Ð¯ Ð¾Ñ€Ð³Ð°Ð½Ð¸Ð·Ð°Ñ‚Ð¾Ñ€";
+$MESS["CALENDAR_PRESET_I_AM_ATTENDEE"] = "Ð¯ ÑƒÑ‡Ð°ÑÑ‚Ð½Ð¸Ðº";
 ?>

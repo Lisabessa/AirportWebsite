@@ -1,13 +1,13 @@
 <?
-$MESS["APP_ENTITY_ID_FIELD"] = "Èäåíòèôèêàòîð çàïèñè";
-$MESS["APP_ENTITY_CODE_FIELD"] = "Ñèìâîëüíûé êîä";
-$MESS["APP_ENTITY_PLATFORM_FIELD"] = "Ïëàòôîðìà";
-$MESS["APP_ENTITY_FOLDER_FIELD"] = "Ïàïêà ïðèëîæåíèÿ";
-$MESS["APP_ENTITY_NAME_FIELD"] = "Íàçâàíèå";
-$MESS["APP_ENTITY_SHORT_NAME_FIELD"] = "Êðàòêîå íàçâàíèå";
-$MESS["APP_ENTITY_DESCRIPTION_FIELD"] = "Îïèñàíèå";
-$MESS["APP_ENTITY_DATE_CREATE_FIELD"] = "Äàòà ñîçäàíèÿ";
-$MESS["APP_ENTITY_FILES_FIELD"] = "Èçîáðàæåíèÿ";
-$MESS["APP_ENTITY_LAUNCH_ICONS_FIELD"] = "Èêîíêè";
-$MESS["APP_ENTITY_LAUNCH_SCREENS_FIELD"] = "Ñòàðòîâûå ýêðàíû";
+$MESS["APP_ENTITY_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð·Ð°Ð¿Ð¸ÑÐ¸";
+$MESS["APP_ENTITY_CODE_FIELD"] = "Ð¡Ð¸Ð¼Ð²Ð¾Ð»ÑŒÐ½Ñ‹Ð¹ ÐºÐ¾Ð´";
+$MESS["APP_ENTITY_PLATFORM_FIELD"] = "ÐŸÐ»Ð°Ñ‚Ñ„Ð¾Ñ€Ð¼Ð°";
+$MESS["APP_ENTITY_FOLDER_FIELD"] = "ÐŸÐ°Ð¿ÐºÐ° Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ";
+$MESS["APP_ENTITY_NAME_FIELD"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
+$MESS["APP_ENTITY_SHORT_NAME_FIELD"] = "ÐšÑ€Ð°Ñ‚ÐºÐ¾Ðµ Ð½Ð°Ð·Ð²Ð°Ð½Ð¸Ðµ";
+$MESS["APP_ENTITY_DESCRIPTION_FIELD"] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ";
+$MESS["APP_ENTITY_DATE_CREATE_FIELD"] = "Ð”Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ";
+$MESS["APP_ENTITY_FILES_FIELD"] = "Ð˜Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ñ";
+$MESS["APP_ENTITY_LAUNCH_ICONS_FIELD"] = "Ð˜ÐºÐ¾Ð½ÐºÐ¸";
+$MESS["APP_ENTITY_LAUNCH_SCREENS_FIELD"] = "Ð¡Ñ‚Ð°Ñ€Ñ‚Ð¾Ð²Ñ‹Ðµ ÑÐºÑ€Ð°Ð½Ñ‹";
 ?>

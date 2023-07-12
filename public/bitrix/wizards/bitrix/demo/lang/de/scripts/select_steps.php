@@ -1,8 +1,8 @@
 <?
 $MESS ['DEMO_SITE_SELECT_THEME_TITLE'] = "Farbschema (Schritt 2 von 4)";
-$MESS ['DEMO_SITE_SELECT_THEME_SUBTITLE'] = "Auswahl eines Farbschemas für Ihre Seite";
-$MESS ['DEMO_SITE_SELECT_THEME_ERROR'] = "Sie haben kein Farbschema ausgewählt";
-$MESS ['DEMO_SITE_SELECT_THEME_RADIO_TEXT'] = "Auswählen";
+$MESS ['DEMO_SITE_SELECT_THEME_SUBTITLE'] = "Auswahl eines Farbschemas fÑŒr Ihre Seite";
+$MESS ['DEMO_SITE_SELECT_THEME_ERROR'] = "Sie haben kein Farbschema ausgewÐ´hlt";
+$MESS ['DEMO_SITE_SELECT_THEME_RADIO_TEXT'] = "AuswÐ´hlen";
 $MESS ['DEMO_SITE_CUSTOMIZE_DATA_TITLE'] = "Seitendaten (Schritt 3 von 4)";
 $MESS ['DEMO_SITE_CUSTOMIZE_DATA_SUBTITLE'] = "Einstellung der Seitendaten";
 $MESS ['DEMO_SITE_COMPANY_NAME'] = "Seitenname (Name der Firma)";
@@ -15,9 +15,9 @@ $MESS ['DEMO_SITE_COLOR_RED'] = "Rot";
 $MESS ['DEMO_SITE_COLOR_BLUE'] = "Blau";
 $MESS ['DEMO_SITE_COLOR_ORANGE'] = "Orange";
 $MESS ['DEMO_SITE_COLOR_GRAY'] = "Grau";
-$MESS ['DEMO_SITE_COLOR_GREEN'] = "Grün";
-$MESS ['DEMO_SITE_CUSTOMIZE_DATA_HINT'] = "Geben Sie den Namen Ihrer Seite bzw. den Firmennamen, den Firmenslogan und die URL ein und laden Sie ein Logo für die Seite bzw. Ihr Firmenlogo hoch. Der Name, der Slogan und das Logo werden dann als oberer Teil aller Seiten angezeigt.";
-$MESS ['SELECT_SERVICES_TITLE'] = "Services auswählen(Schritt 4 von 4)";
+$MESS ['DEMO_SITE_COLOR_GREEN'] = "GrÑŒn";
+$MESS ['DEMO_SITE_CUSTOMIZE_DATA_HINT'] = "Geben Sie den Namen Ihrer Seite bzw. den Firmennamen, den Firmenslogan und die URL ein und laden Sie ein Logo fÑŒr die Seite bzw. Ihr Firmenlogo hoch. Der Name, der Slogan und das Logo werden dann als oberer Teil aller Seiten angezeigt.";
+$MESS ['SELECT_SERVICES_TITLE'] = "Services auswÐ´hlen(Schritt 4 von 4)";
 $MESS ['SELECT_SERVICES_SUBTITLE'] = "Auswahl der Services, die auf Ihrer Seite installiert werden sollen";
 $MESS ['SELECT_SERVICES_BUTTON_INSTALL'] = "Installieren";
 ?>

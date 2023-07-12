@@ -1,3 +1,3 @@
 <?
-$MESS["SONET_MAILHANDLER_ATTACHMENTS"] = "Ïðèëîæåíû ôàéëû:";
+$MESS["SONET_MAILHANDLER_ATTACHMENTS"] = "ÐŸÑ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ñ‹ Ñ„Ð°Ð¹Ð»Ñ‹:";
 ?>

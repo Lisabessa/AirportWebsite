@@ -1,7 +1,7 @@
 <?
-$MESS["CAT_EXTRA_ERROR_NONAME"] = "Íå óêàçàíî íàçâàíèå íàöåíêè";
-$MESS["CAT_EXTRA_ERR_UPDATE_NOT_ID"] = "Íå óêàçàí ID íàöåíêè";
-$MESS["CAT_EXTRA_ERR_ADD_EXISTS_ID"] = "Íàöåíêà ñ òàêèì ID óæå ñóùåñòâóåò";
-$MESS["CAT_EXTRA_ERR_ADD_FIELDS_EMPTY"] = "Îòñóòñòâóåò èíôîðìàöèÿ î ñîçäàâàåìîé íàöåíêå";
-$MESS["CAT_EXTRA_ERROR_NOPERCENTAGE"] = "Íå óêàçàíî çíà÷åíèå íàöåíêè";
+$MESS["CAT_EXTRA_ERROR_NONAME"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾ Ð½Ð°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð½Ð°Ñ†ÐµÐ½ÐºÐ¸";
+$MESS["CAT_EXTRA_ERR_UPDATE_NOT_ID"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ ID Ð½Ð°Ñ†ÐµÐ½ÐºÐ¸";
+$MESS["CAT_EXTRA_ERR_ADD_EXISTS_ID"] = "ÐÐ°Ñ†ÐµÐ½ÐºÐ° Ñ Ñ‚Ð°ÐºÐ¸Ð¼ ID ÑƒÐ¶Ðµ ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÐµÑ‚";
+$MESS["CAT_EXTRA_ERR_ADD_FIELDS_EMPTY"] = "ÐžÑ‚ÑÑƒÑ‚ÑÑ‚Ð²ÑƒÐµÑ‚ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ñ Ð¾ ÑÐ¾Ð·Ð´Ð°Ð²Ð°ÐµÐ¼Ð¾Ð¹ Ð½Ð°Ñ†ÐµÐ½ÐºÐµ";
+$MESS["CAT_EXTRA_ERROR_NOPERCENTAGE"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð½Ð°Ñ†ÐµÐ½ÐºÐ¸";
 ?>

@@ -1,4 +1,4 @@
 <?php
-$MESS['LANDING_CONNECTOR_INTRANET_HIDE_ALERT_TITLE'] = 'Ñêðûòü áàçó çíàíèé: #title#';
-$MESS['LANDING_CONNECTOR_INTRANET_HIDE_ALERT_MESSAGE'] = 'Âû äåéñòâèòåëüíî õîòèòå ñêðûòü áàçó çíàíèé èç âñòðîéêè?';
-$MESS['LANDING_CONNECTOR_INTRANET_HIDE_ALERT_BUTTON'] = 'Ñêðûòü';
+$MESS['LANDING_CONNECTOR_INTRANET_HIDE_ALERT_TITLE'] = 'Ð¡ÐºÑ€Ñ‹Ñ‚ÑŒ Ð±Ð°Ð·Ñƒ Ð·Ð½Ð°Ð½Ð¸Ð¹: #title#';
+$MESS['LANDING_CONNECTOR_INTRANET_HIDE_ALERT_MESSAGE'] = 'Ð’Ñ‹ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑÐºÑ€Ñ‹Ñ‚ÑŒ Ð±Ð°Ð·Ñƒ Ð·Ð½Ð°Ð½Ð¸Ð¹ Ð¸Ð· Ð²ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸?';
+$MESS['LANDING_CONNECTOR_INTRANET_HIDE_ALERT_BUTTON'] = 'Ð¡ÐºÑ€Ñ‹Ñ‚ÑŒ';

@@ -1,15 +1,15 @@
 <?
-$MESS ['LEARNING_ADMIN_TAB1'] = "Ôàéë äàííûõ";
-$MESS ['LEARNING_ADMIN_TAB1_EX'] = "Âûáîð ôàéëà äàííûõ";
-$MESS ['LEARNING_ADMIN_TAB2'] = "Ðåçóëüòàò";
-$MESS ['LEARNING_ADMIN_TAB2_EX'] = "Ðåçóëüòàò èìïîðòà";
-$MESS ['LEARNING_NEXT_STEP_F'] = "Çàãðóçèòü äàííûå";
-$MESS ['LEARNING_PAGE_TITLE'] = "Çàãðóçêà êóðñà";
-$MESS ['LEARNING_DATA_FILE'] = "Ôàéë äàííûõ";
-$MESS ['LEARNING_OPEN'] = "Îòêðûòü";
-$MESS ['LEARNING_NOT_TAR_GZ'] = "Âûáðàííûé ôàéë íå ÿâëÿåòñÿ àðõèâîì";
-$MESS ['LEARNING_DATA_FILE_NOT_FOUND'] = "Íå óêàçàí ôàéë ñ äàííûìè";
-$MESS ['LEARNING_SUCCESS'] = "Èìïîðò óñïåøíî çàâåðøåí";
-$MESS ['LEARNING_BACK'] = "Íàçàä";
+$MESS ['LEARNING_ADMIN_TAB1'] = "Ð¤Ð°Ð¹Ð» Ð´Ð°Ð½Ð½Ñ‹Ñ…";
+$MESS ['LEARNING_ADMIN_TAB1_EX'] = "Ð’Ñ‹Ð±Ð¾Ñ€ Ñ„Ð°Ð¹Ð»Ð° Ð´Ð°Ð½Ð½Ñ‹Ñ…";
+$MESS ['LEARNING_ADMIN_TAB2'] = "Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚";
+$MESS ['LEARNING_ADMIN_TAB2_EX'] = "Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚ Ð¸Ð¼Ð¿Ð¾Ñ€Ñ‚Ð°";
+$MESS ['LEARNING_NEXT_STEP_F'] = "Ð—Ð°Ð³Ñ€ÑƒÐ·Ð¸Ñ‚ÑŒ Ð´Ð°Ð½Ð½Ñ‹Ðµ";
+$MESS ['LEARNING_PAGE_TITLE'] = "Ð—Ð°Ð³Ñ€ÑƒÐ·ÐºÐ° ÐºÑƒÑ€ÑÐ°";
+$MESS ['LEARNING_DATA_FILE'] = "Ð¤Ð°Ð¹Ð» Ð´Ð°Ð½Ð½Ñ‹Ñ…";
+$MESS ['LEARNING_OPEN'] = "ÐžÑ‚ÐºÑ€Ñ‹Ñ‚ÑŒ";
+$MESS ['LEARNING_NOT_TAR_GZ'] = "Ð’Ñ‹Ð±Ñ€Ð°Ð½Ð½Ñ‹Ð¹ Ñ„Ð°Ð¹Ð» Ð½Ðµ ÑÐ²Ð»ÑÐµÑ‚ÑÑ Ð°Ñ€Ñ…Ð¸Ð²Ð¾Ð¼";
+$MESS ['LEARNING_DATA_FILE_NOT_FOUND'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ñ„Ð°Ð¹Ð» Ñ Ð´Ð°Ð½Ð½Ñ‹Ð¼Ð¸";
+$MESS ['LEARNING_SUCCESS'] = "Ð˜Ð¼Ð¿Ð¾Ñ€Ñ‚ ÑƒÑÐ¿ÐµÑˆÐ½Ð¾ Ð·Ð°Ð²ÐµÑ€ÑˆÐµÐ½";
+$MESS ['LEARNING_BACK'] = "ÐÐ°Ð·Ð°Ð´";
 $MESS ['LEARNING_IF_SCORM'] = "SCORM";
 ?>

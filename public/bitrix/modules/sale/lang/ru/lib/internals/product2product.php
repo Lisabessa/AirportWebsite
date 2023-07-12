@@ -1,4 +1,4 @@
 <?php
-$MESS['SALE_EVENT_PRODUCT2PRODUCT_WRONG_ORDER'] = "Ïîëó÷åí íåêîððåêòíûé îáúåêò çàêàçà";
-$MESS['SALE_EVENT_PRODUCT2PRODUCT_WRONG_SHIPMENT'] = "Ïîëó÷åí íåêîððåêòíûé îáúåêò îòãðóçêè";
-$MESS['SALE_EVENT_PRODUCT2PRODUCT_WRONG_SHIPMENTCOLLECTION'] = "Íåêîððåêòíàÿ êîëëåêöèÿ îòãðóçîê";
+$MESS['SALE_EVENT_PRODUCT2PRODUCT_WRONG_ORDER'] = "ÐŸÐ¾Ð»ÑƒÑ‡ÐµÐ½ Ð½ÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ñ‹Ð¹ Ð¾Ð±ÑŠÐµÐºÑ‚ Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS['SALE_EVENT_PRODUCT2PRODUCT_WRONG_SHIPMENT'] = "ÐŸÐ¾Ð»ÑƒÑ‡ÐµÐ½ Ð½ÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ñ‹Ð¹ Ð¾Ð±ÑŠÐµÐºÑ‚ Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸";
+$MESS['SALE_EVENT_PRODUCT2PRODUCT_WRONG_SHIPMENTCOLLECTION'] = "ÐÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ð°Ñ ÐºÐ¾Ð»Ð»ÐµÐºÑ†Ð¸Ñ Ð¾Ñ‚Ð³Ñ€ÑƒÐ·Ð¾Ðº";

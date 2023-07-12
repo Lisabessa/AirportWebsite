@@ -1,3 +1,3 @@
 <?
-$MESS["SALE_CASHBOX_SELL_NAME"] = "Повна оплата";
+$MESS["SALE_CASHBOX_SELL_NAME"] = "РџРѕРІРЅР° РѕРїР»Р°С‚Р°";
 ?>

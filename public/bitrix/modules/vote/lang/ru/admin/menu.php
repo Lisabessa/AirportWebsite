@@ -1,12 +1,12 @@
 <?
-$MESS ['VOTE_MENU_MAIN'] = "Îïðîñû";
-$MESS ['VOTE_MENU_VOTE'] = "Ñïèñîê îïðîñîâ";
-$MESS ['VOTE_MENU_ADDITIONAL'] = "Äîïîëíèòåëüíî";
-$MESS ['VOTE_MENU_VOTE_ALT'] = "Óïðàâëåíèå îïðîñàìè ïîñåòèòåëåé ñàéòà";
-$MESS ['VOTE_MENU_CHANNEL'] = "Ãðóïïû îïðîñîâ";
-$MESS ['VOTE_MENU_CHANNEL_ALT'] = "Óïðàâëåíèå ãðóïïàìè îïðîñîâ";
-$MESS ['VOTE_MENU_USER'] = "Ïîñåòèòåëè";
-$MESS ['VOTE_MENU_USER_ALT'] = "Ñïèñîê îïðîøåííûõ ïîñåòèòåëåé ñàéòà";
-$MESS ['VOTE_MENU_MAIN_TITLE'] = "Óïðàâëåíèå îïðîñàìè è ãîëîñîâàíèÿìè";
-$MESS ['VOTE_MENU_POLL_DESCRIPTION'] = "Ðåçóëüòàòû ãîëîñîâàíèÿ ";
+$MESS ['VOTE_MENU_MAIN'] = "ÐžÐ¿Ñ€Ð¾ÑÑ‹";
+$MESS ['VOTE_MENU_VOTE'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð¾Ð¿Ñ€Ð¾ÑÐ¾Ð²";
+$MESS ['VOTE_MENU_ADDITIONAL'] = "Ð”Ð¾Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾";
+$MESS ['VOTE_MENU_VOTE_ALT'] = "Ð£Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ð¾Ð¿Ñ€Ð¾ÑÐ°Ð¼Ð¸ Ð¿Ð¾ÑÐµÑ‚Ð¸Ñ‚ÐµÐ»ÐµÐ¹ ÑÐ°Ð¹Ñ‚Ð°";
+$MESS ['VOTE_MENU_CHANNEL'] = "Ð“Ñ€ÑƒÐ¿Ð¿Ñ‹ Ð¾Ð¿Ñ€Ð¾ÑÐ¾Ð²";
+$MESS ['VOTE_MENU_CHANNEL_ALT'] = "Ð£Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ð³Ñ€ÑƒÐ¿Ð¿Ð°Ð¼Ð¸ Ð¾Ð¿Ñ€Ð¾ÑÐ¾Ð²";
+$MESS ['VOTE_MENU_USER'] = "ÐŸÐ¾ÑÐµÑ‚Ð¸Ñ‚ÐµÐ»Ð¸";
+$MESS ['VOTE_MENU_USER_ALT'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð¾Ð¿Ñ€Ð¾ÑˆÐµÐ½Ð½Ñ‹Ñ… Ð¿Ð¾ÑÐµÑ‚Ð¸Ñ‚ÐµÐ»ÐµÐ¹ ÑÐ°Ð¹Ñ‚Ð°";
+$MESS ['VOTE_MENU_MAIN_TITLE'] = "Ð£Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ð¾Ð¿Ñ€Ð¾ÑÐ°Ð¼Ð¸ Ð¸ Ð³Ð¾Ð»Ð¾ÑÐ¾Ð²Ð°Ð½Ð¸ÑÐ¼Ð¸";
+$MESS ['VOTE_MENU_POLL_DESCRIPTION'] = "Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ñ‹ Ð³Ð¾Ð»Ð¾ÑÐ¾Ð²Ð°Ð½Ð¸Ñ ";
 ?>

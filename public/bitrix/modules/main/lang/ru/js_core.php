@@ -1,18 +1,18 @@
 <?
-$MESS["JS_CORE_LOADING"] = "Çàãðóçêà...";
-$MESS["JS_CORE_NO_DATA"] = "- Íåò äàííûõ -";
-$MESS["JS_CORE_WINDOW_CLOSE"] = "Çàêðûòü";
-$MESS["JS_CORE_WINDOW_EXPAND"] = "Ðàçâåðíóòü";
-$MESS["JS_CORE_WINDOW_NARROW"] = "Ñâåðíóòü â îêíî";
-$MESS["JS_CORE_WINDOW_SAVE"] = "Ñîõðàíèòü";
-$MESS["JS_CORE_WINDOW_CANCEL"] = "Îòìåíèòü";
-$MESS["JS_CORE_WINDOW_CONTINUE"] = "Ïðîäîëæèòü";
-$MESS["JS_CORE_H"] = "÷";
-$MESS["JS_CORE_M"] = "ì";
-$MESS["JS_CORE_S"] = "ñ";
-$MESS["JSADM_AI_HIDE_EXTRA"] = "Ñêðûòü ëèøíèå";
-$MESS["JSADM_AI_ALL_NOTIF"] = "Ïîêàçàòü âñå";
-$MESS["JSADM_AUTH_REQ"] = "Òðåáóåòñÿ àâòîðèçàöèÿ!";
-$MESS["JS_CORE_WINDOW_AUTH"] = "Âîéòè";
-$MESS["JS_CORE_IMAGE_FULL"] = "Ïîëíûé ðàçìåð";
+$MESS["JS_CORE_LOADING"] = "Ð—Ð°Ð³Ñ€ÑƒÐ·ÐºÐ°...";
+$MESS["JS_CORE_NO_DATA"] = "- ÐÐµÑ‚ Ð´Ð°Ð½Ð½Ñ‹Ñ… -";
+$MESS["JS_CORE_WINDOW_CLOSE"] = "Ð—Ð°ÐºÑ€Ñ‹Ñ‚ÑŒ";
+$MESS["JS_CORE_WINDOW_EXPAND"] = "Ð Ð°Ð·Ð²ÐµÑ€Ð½ÑƒÑ‚ÑŒ";
+$MESS["JS_CORE_WINDOW_NARROW"] = "Ð¡Ð²ÐµÑ€Ð½ÑƒÑ‚ÑŒ Ð² Ð¾ÐºÐ½Ð¾";
+$MESS["JS_CORE_WINDOW_SAVE"] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ";
+$MESS["JS_CORE_WINDOW_CANCEL"] = "ÐžÑ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
+$MESS["JS_CORE_WINDOW_CONTINUE"] = "ÐŸÑ€Ð¾Ð´Ð¾Ð»Ð¶Ð¸Ñ‚ÑŒ";
+$MESS["JS_CORE_H"] = "Ñ‡";
+$MESS["JS_CORE_M"] = "Ð¼";
+$MESS["JS_CORE_S"] = "Ñ";
+$MESS["JSADM_AI_HIDE_EXTRA"] = "Ð¡ÐºÑ€Ñ‹Ñ‚ÑŒ Ð»Ð¸ÑˆÐ½Ð¸Ðµ";
+$MESS["JSADM_AI_ALL_NOTIF"] = "ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ Ð²ÑÐµ";
+$MESS["JSADM_AUTH_REQ"] = "Ð¢Ñ€ÐµÐ±ÑƒÐµÑ‚ÑÑ Ð°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·Ð°Ñ†Ð¸Ñ!";
+$MESS["JS_CORE_WINDOW_AUTH"] = "Ð’Ð¾Ð¹Ñ‚Ð¸";
+$MESS["JS_CORE_IMAGE_FULL"] = "ÐŸÐ¾Ð»Ð½Ñ‹Ð¹ Ñ€Ð°Ð·Ð¼ÐµÑ€";
 ?>

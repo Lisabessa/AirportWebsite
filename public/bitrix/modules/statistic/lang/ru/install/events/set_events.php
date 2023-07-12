@@ -1,37 +1,37 @@
 <?
-$MESS ['STATISTIC_ACTIVITY_EXCEEDING_NAME'] = "Превышение лимита активности";
-$MESS ['STATISTIC_ACTIVITY_EXCEEDING_DESC'] = "#ACTIVITY_TIME_LIMIT# - тестовый интервал времени
-#ACTIVITY_HITS# - кол-во хитов за тестовый интервал времени
-#ACTIVITY_HITS_LIMIT# - максимальное кол-во хитов за тестовый интервал времени (лимит активности)
-#ACTIVITY_EXCEEDING# - превышение кол-ва хитов
-#CURRENT_TIME# - момент блокировки (время на сервере)
-#DELAY_TIME# - длительность блокировки
+$MESS ['STATISTIC_ACTIVITY_EXCEEDING_NAME'] = "РџСЂРµРІС‹С€РµРЅРёРµ Р»РёРјРёС‚Р° Р°РєС‚РёРІРЅРѕСЃС‚Рё";
+$MESS ['STATISTIC_ACTIVITY_EXCEEDING_DESC'] = "#ACTIVITY_TIME_LIMIT# - С‚РµСЃС‚РѕРІС‹Р№ РёРЅС‚РµСЂРІР°Р» РІСЂРµРјРµРЅРё
+#ACTIVITY_HITS# - РєРѕР»-РІРѕ С…РёС‚РѕРІ Р·Р° С‚РµСЃС‚РѕРІС‹Р№ РёРЅС‚РµСЂРІР°Р» РІСЂРµРјРµРЅРё
+#ACTIVITY_HITS_LIMIT# - РјР°РєСЃРёРјР°Р»СЊРЅРѕРµ РєРѕР»-РІРѕ С…РёС‚РѕРІ Р·Р° С‚РµСЃС‚РѕРІС‹Р№ РёРЅС‚РµСЂРІР°Р» РІСЂРµРјРµРЅРё (Р»РёРјРёС‚ Р°РєС‚РёРІРЅРѕСЃС‚Рё)
+#ACTIVITY_EXCEEDING# - РїСЂРµРІС‹С€РµРЅРёРµ РєРѕР»-РІР° С…РёС‚РѕРІ
+#CURRENT_TIME# - РјРѕРјРµРЅС‚ Р±Р»РѕРєРёСЂРѕРІРєРё (РІСЂРµРјСЏ РЅР° СЃРµСЂРІРµСЂРµ)
+#DELAY_TIME# - РґР»РёС‚РµР»СЊРЅРѕСЃС‚СЊ Р±Р»РѕРєРёСЂРѕРІРєРё
 #USER_AGENT# - UserAgent
-#SESSION_ID# - ID сессии
-#SESSION_LINK# - ссылка на сессию
-#SERACHER_ID# - ID поисковика
-#SEARCHER_NAME# - наименование поисковика
-#SEARCHER_LINK# - ссылка на список хитов поисковика
-#VISITOR_ID# - ID посетителя
-#VISITOR_LINK# - ссылка на профайл посетителя
-#STOPLIST_LINK# - ссылка для добавления посетителя в стоп-лист
+#SESSION_ID# - ID СЃРµСЃСЃРёРё
+#SESSION_LINK# - СЃСЃС‹Р»РєР° РЅР° СЃРµСЃСЃРёСЋ
+#SERACHER_ID# - ID РїРѕРёСЃРєРѕРІРёРєР°
+#SEARCHER_NAME# - РЅР°РёРјРµРЅРѕРІР°РЅРёРµ РїРѕРёСЃРєРѕРІРёРєР°
+#SEARCHER_LINK# - СЃСЃС‹Р»РєР° РЅР° СЃРїРёСЃРѕРє С…РёС‚РѕРІ РїРѕРёСЃРєРѕРІРёРєР°
+#VISITOR_ID# - ID РїРѕСЃРµС‚РёС‚РµР»СЏ
+#VISITOR_LINK# - СЃСЃС‹Р»РєР° РЅР° РїСЂРѕС„Р°Р№Р» РїРѕСЃРµС‚РёС‚РµР»СЏ
+#STOPLIST_LINK# - СЃСЃС‹Р»РєР° РґР»СЏ РґРѕР±Р°РІР»РµРЅРёСЏ РїРѕСЃРµС‚РёС‚РµР»СЏ РІ СЃС‚РѕРї-Р»РёСЃС‚
 ";
-$MESS ['STATISTIC_DAILY_REPORT_NAME'] = "Ежедневная статистика сайта";
-$MESS ['STATISTIC_DAILY_REPORT_DESC'] = "#EMAIL_TO# - email администратора сайта
-#SERVER_TIME# - время на сервере в момент отсылки отчета
-#HTML_HEADER# - открытие тэга HTML + CSS стили
-#HTML_COMMON# - таблица посещаемости сайта (хиты, сессии, хосты, посетители, события) (HTML)
-#HTML_ADV# - таблица рекламных кампаний (TOP 10) (HTML)
-#HTML_EVENTS# - таблица типов событий (TOP 10) (HTML)
-#HTML_REFERERS# - таблица ссылающихся сайтов (TOP 10) (HTML)
-#HTML_PHRASES# - таблица поисковых фраз (TOP 10) (HTML)
-#HTML_SEARCHERS# - таблица индексации сайта (TOP 10) (HTML)
-#HTML_FOOTER# - закрытие тэга HTML
+$MESS ['STATISTIC_DAILY_REPORT_NAME'] = "Р•Р¶РµРґРЅРµРІРЅР°СЏ СЃС‚Р°С‚РёСЃС‚РёРєР° СЃР°Р№С‚Р°";
+$MESS ['STATISTIC_DAILY_REPORT_DESC'] = "#EMAIL_TO# - email Р°РґРјРёРЅРёСЃС‚СЂР°С‚РѕСЂР° СЃР°Р№С‚Р°
+#SERVER_TIME# - РІСЂРµРјСЏ РЅР° СЃРµСЂРІРµСЂРµ РІ РјРѕРјРµРЅС‚ РѕС‚СЃС‹Р»РєРё РѕС‚С‡РµС‚Р°
+#HTML_HEADER# - РѕС‚РєСЂС‹С‚РёРµ С‚СЌРіР° HTML + CSS СЃС‚РёР»Рё
+#HTML_COMMON# - С‚Р°Р±Р»РёС†Р° РїРѕСЃРµС‰Р°РµРјРѕСЃС‚Рё СЃР°Р№С‚Р° (С…РёС‚С‹, СЃРµСЃСЃРёРё, С…РѕСЃС‚С‹, РїРѕСЃРµС‚РёС‚РµР»Рё, СЃРѕР±С‹С‚РёСЏ) (HTML)
+#HTML_ADV# - С‚Р°Р±Р»РёС†Р° СЂРµРєР»Р°РјРЅС‹С… РєР°РјРїР°РЅРёР№ (TOP 10) (HTML)
+#HTML_EVENTS# - С‚Р°Р±Р»РёС†Р° С‚РёРїРѕРІ СЃРѕР±С‹С‚РёР№ (TOP 10) (HTML)
+#HTML_REFERERS# - С‚Р°Р±Р»РёС†Р° СЃСЃС‹Р»Р°СЋС‰РёС…СЃСЏ СЃР°Р№С‚РѕРІ (TOP 10) (HTML)
+#HTML_PHRASES# - С‚Р°Р±Р»РёС†Р° РїРѕРёСЃРєРѕРІС‹С… С„СЂР°Р· (TOP 10) (HTML)
+#HTML_SEARCHERS# - С‚Р°Р±Р»РёС†Р° РёРЅРґРµРєСЃР°С†РёРё СЃР°Р№С‚Р° (TOP 10) (HTML)
+#HTML_FOOTER# - Р·Р°РєСЂС‹С‚РёРµ С‚СЌРіР° HTML
 ";
-$MESS ['STATISTIC_DAILY_REPORT_SUBJECT'] = "#SERVER_NAME#: Статистика сайта (#SERVER_TIME#)";
+$MESS ['STATISTIC_DAILY_REPORT_SUBJECT'] = "#SERVER_NAME#: РЎС‚Р°С‚РёСЃС‚РёРєР° СЃР°Р№С‚Р° (#SERVER_TIME#)";
 $MESS ['STATISTIC_DAILY_REPORT_MESSAGE'] = "#HTML_HEADER#
-<font class='h2'>Обобщенная статистика сайта <font color='#A52929'>#SITE_NAME#</font><br>
-Данные на <font color='#0D716F'>#SERVER_TIME#</font></font>
+<font class='h2'>РћР±РѕР±С‰РµРЅРЅР°СЏ СЃС‚Р°С‚РёСЃС‚РёРєР° СЃР°Р№С‚Р° <font color='#A52929'>#SITE_NAME#</font><br>
+Р”Р°РЅРЅС‹Рµ РЅР° <font color='#0D716F'>#SERVER_TIME#</font></font>
 <br><br>
 <a class='tablebodylink' href='http://#SERVER_NAME#/bitrix/admin/stat_list.php?lang=#LANGUAGE_ID#'>http://#SERVER_NAME#/bitrix/admin/stat_list.php?lang=#LANGUAGE_ID#</a>
 <br>
@@ -52,25 +52,25 @@ $MESS ['STATISTIC_DAILY_REPORT_MESSAGE'] = "#HTML_HEADER#
 <a class='tablebodylink' href='http://#SERVER_NAME#/bitrix/admin/stat_list.php?lang=#LANGUAGE_ID#'>http://#SERVER_NAME#/bitrix/admin/stat_list.php?lang=#LANGUAGE_ID#</a>
 #HTML_FOOTER#
 ";
-$MESS ['STATISTIC_ACTIVITY_EXCEEDING_SUBJECT'] = "#SERVER_NAME#: Превышен лимит активности";
-$MESS ['STATISTIC_ACTIVITY_EXCEEDING_MESSAGE'] = "На сайте #SERVER_NAME# посетитель превысил установленный лимит активности.
+$MESS ['STATISTIC_ACTIVITY_EXCEEDING_SUBJECT'] = "#SERVER_NAME#: РџСЂРµРІС‹С€РµРЅ Р»РёРјРёС‚ Р°РєС‚РёРІРЅРѕСЃС‚Рё";
+$MESS ['STATISTIC_ACTIVITY_EXCEEDING_MESSAGE'] = "РќР° СЃР°Р№С‚Рµ #SERVER_NAME# РїРѕСЃРµС‚РёС‚РµР»СЊ РїСЂРµРІС‹СЃРёР» СѓСЃС‚Р°РЅРѕРІР»РµРЅРЅС‹Р№ Р»РёРјРёС‚ Р°РєС‚РёРІРЅРѕСЃС‚Рё.
 
-Начиная с #CURRENT_TIME# посетитель заблокирован на #DELAY_TIME# сек.
+РќР°С‡РёРЅР°СЏ СЃ #CURRENT_TIME# РїРѕСЃРµС‚РёС‚РµР»СЊ Р·Р°Р±Р»РѕРєРёСЂРѕРІР°РЅ РЅР° #DELAY_TIME# СЃРµРє.
 
-Активность  - #ACTIVITY_HITS# хитов за #ACTIVITY_TIME_LIMIT# сек. (лимит - #ACTIVITY_HITS_LIMIT#)
-Посетитель  - #VISITOR_ID#
-Сессия      - #SESSION_ID#
-Поисковик   - [#SERACHER_ID#] #SEARCHER_NAME#
+РђРєС‚РёРІРЅРѕСЃС‚СЊ  - #ACTIVITY_HITS# С…РёС‚РѕРІ Р·Р° #ACTIVITY_TIME_LIMIT# СЃРµРє. (Р»РёРјРёС‚ - #ACTIVITY_HITS_LIMIT#)
+РџРѕСЃРµС‚РёС‚РµР»СЊ  - #VISITOR_ID#
+РЎРµСЃСЃРёСЏ      - #SESSION_ID#
+РџРѕРёСЃРєРѕРІРёРє   - [#SERACHER_ID#] #SEARCHER_NAME#
 UserAgent   - #USER_AGENT#
 
 >===============================================================================================
-Для добавления в стоп-лист воспользуйтесь нижеследующей ссылкой:
+Р”Р»СЏ РґРѕР±Р°РІР»РµРЅРёСЏ РІ СЃС‚РѕРї-Р»РёСЃС‚ РІРѕСЃРїРѕР»СЊР·СѓР№С‚РµСЃСЊ РЅРёР¶РµСЃР»РµРґСѓСЋС‰РµР№ СЃСЃС‹Р»РєРѕР№:
 http://#SERVER_NAME##STOPLIST_LINK#
-Для просмотра сессии посетителя воспользуйтесь нижеследующей ссылкой:
+Р”Р»СЏ РїСЂРѕСЃРјРѕС‚СЂР° СЃРµСЃСЃРёРё РїРѕСЃРµС‚РёС‚РµР»СЏ РІРѕСЃРїРѕР»СЊР·СѓР№С‚РµСЃСЊ РЅРёР¶РµСЃР»РµРґСѓСЋС‰РµР№ СЃСЃС‹Р»РєРѕР№:
 http://#SERVER_NAME##SESSION_LINK#
-Для просмотра профайла посетителя воспользуйтесь нижеследующей ссылкой:
+Р”Р»СЏ РїСЂРѕСЃРјРѕС‚СЂР° РїСЂРѕС„Р°Р№Р»Р° РїРѕСЃРµС‚РёС‚РµР»СЏ РІРѕСЃРїРѕР»СЊР·СѓР№С‚РµСЃСЊ РЅРёР¶РµСЃР»РµРґСѓСЋС‰РµР№ СЃСЃС‹Р»РєРѕР№:
 http://#SERVER_NAME##VISITOR_LINK#
-Для просмотра статистики хитов поисковика воспользуйтесь нижеследующей ссылкой:
+Р”Р»СЏ РїСЂРѕСЃРјРѕС‚СЂР° СЃС‚Р°С‚РёСЃС‚РёРєРё С…РёС‚РѕРІ РїРѕРёСЃРєРѕРІРёРєР° РІРѕСЃРїРѕР»СЊР·СѓР№С‚РµСЃСЊ РЅРёР¶РµСЃР»РµРґСѓСЋС‰РµР№ СЃСЃС‹Р»РєРѕР№:
 http://#SERVER_NAME##SEARCHER_LINK#
 ";
 ?>

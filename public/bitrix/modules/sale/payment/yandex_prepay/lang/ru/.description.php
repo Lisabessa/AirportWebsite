@@ -1,5 +1,5 @@
 <?php
 global $MESS;
-$MESS['SALE_YANDEX_PREPAY_TITLE'] = "Ïðåäîïëàòà ÷åðåç ßíäåêñ";
+$MESS['SALE_YANDEX_PREPAY_TITLE'] = "ÐŸÑ€ÐµÐ´Ð¾Ð¿Ð»Ð°Ñ‚Ð° Ñ‡ÐµÑ€ÐµÐ· Ð¯Ð½Ð´ÐµÐºÑ";
 $MESS['SALE_YANDEX_PREPAY_DESCRIPTION'] = " ";
 ?>

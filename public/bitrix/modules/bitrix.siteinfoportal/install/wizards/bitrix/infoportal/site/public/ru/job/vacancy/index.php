@@ -1,8 +1,8 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Вакансии");
+$APPLICATION->SetTitle("Р’Р°РєР°РЅСЃРёРё");
 ?>
-<h4><a href="#SITE_DIR#job/vacancy/my/?edit=Y" >Добавить вакансию</a>  <span class="small-grey">|</span>  <a href="#SITE_DIR#job/vacancy/my/" >Мои вакансии</a></h4>
+<h4><a href="#SITE_DIR#job/vacancy/my/?edit=Y" >Р”РѕР±Р°РІРёС‚СЊ РІР°РєР°РЅСЃРёСЋ</a>  <span class="small-grey">|</span>  <a href="#SITE_DIR#job/vacancy/my/" >РњРѕРё РІР°РєР°РЅСЃРёРё</a></h4>
  <?$APPLICATION->IncludeComponent("bitrix:catalog", "job", array(
 	"IBLOCK_TYPE" => "job",
 	"IBLOCK_ID" => "#VACANCY_IBLOCK_ID#",
@@ -71,7 +71,7 @@ $APPLICATION->SetTitle("Вакансии");
 	"USE_ALSO_BUY" => "N",
 	"DISPLAY_TOP_PAGER" => "N",
 	"DISPLAY_BOTTOM_PAGER" => "Y",
-	"PAGER_TITLE" => "Вакансии",
+	"PAGER_TITLE" => "Р’Р°РєР°РЅСЃРёРё",
 	"PAGER_SHOW_ALWAYS" => "N",
 	"PAGER_TEMPLATE" => "",
 	"PAGER_DESC_NUMBERING" => "N",

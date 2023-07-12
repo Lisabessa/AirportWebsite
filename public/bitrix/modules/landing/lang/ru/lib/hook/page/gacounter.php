@@ -1,10 +1,10 @@
 <?php
 $MESS['LANDING_HOOK_GACOUNTER_USE'] = 'Google Analytics';
 $MESS['LANDING_HOOK_GACOUNTER_COUNTER'] = 'Google Analytics';
-$MESS['LANDING_HOOK_GACOUNTER_PLACEHOLDER'] = 'Ââåäèòå ID';
-$MESS['LANDING_HOOK_GACOUNTER_SEND_CLICK'] = 'Îòïðàâëÿòü äàííûå î êëèêàõ ïî êíîïêàì è ññûëêàì';
-$MESS['LANDING_HOOK_GACOUNTER_CLICK_TYPE'] = 'Òèï äàííûõ';
-$MESS['LANDING_HOOK_GACOUNTER_CLICK_TYPE_HREF'] = 'Ññûëêà';
-$MESS['LANDING_HOOK_GACOUNTER_CLICK_TYPE_TEXT'] = 'Òåêñò ññûëêè';
-$MESS['LANDING_HOOK_GACOUNTER_SEND_SHOW'] = 'Îòïðàâëÿòü äàííûå î ïðîñìîòðå áëîêîâ ñòðàíèöû';
-$MESS['LANDING_HOOK_DETAIL_HELP'] = 'Ïîäðîáíåå';
+$MESS['LANDING_HOOK_GACOUNTER_PLACEHOLDER'] = 'Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ ID';
+$MESS['LANDING_HOOK_GACOUNTER_SEND_CLICK'] = 'ÐžÑ‚Ð¿Ñ€Ð°Ð²Ð»ÑÑ‚ÑŒ Ð´Ð°Ð½Ð½Ñ‹Ðµ Ð¾ ÐºÐ»Ð¸ÐºÐ°Ñ… Ð¿Ð¾ ÐºÐ½Ð¾Ð¿ÐºÐ°Ð¼ Ð¸ ÑÑÑ‹Ð»ÐºÐ°Ð¼';
+$MESS['LANDING_HOOK_GACOUNTER_CLICK_TYPE'] = 'Ð¢Ð¸Ð¿ Ð´Ð°Ð½Ð½Ñ‹Ñ…';
+$MESS['LANDING_HOOK_GACOUNTER_CLICK_TYPE_HREF'] = 'Ð¡ÑÑ‹Ð»ÐºÐ°';
+$MESS['LANDING_HOOK_GACOUNTER_CLICK_TYPE_TEXT'] = 'Ð¢ÐµÐºÑÑ‚ ÑÑÑ‹Ð»ÐºÐ¸';
+$MESS['LANDING_HOOK_GACOUNTER_SEND_SHOW'] = 'ÐžÑ‚Ð¿Ñ€Ð°Ð²Ð»ÑÑ‚ÑŒ Ð´Ð°Ð½Ð½Ñ‹Ðµ Ð¾ Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ðµ Ð±Ð»Ð¾ÐºÐ¾Ð² ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹';
+$MESS['LANDING_HOOK_DETAIL_HELP'] = 'ÐŸÐ¾Ð´Ñ€Ð¾Ð±Ð½ÐµÐµ';

@@ -1,3 +1,3 @@
 <?
-$MESS ['SCALE_AM_MYAR_MYSQL_PASS'] = "Ïàðîëü ïîëüçîâàòåëÿ root äëÿ MySQL";
+$MESS ['SCALE_AM_MYAR_MYSQL_PASS'] = "ÐŸÐ°Ñ€Ð¾Ð»ÑŒ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ root Ð´Ð»Ñ MySQL";
 ?>

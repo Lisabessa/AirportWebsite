@@ -1,8 +1,8 @@
 <?php
-$MESS['LANDING_HOOK_B24BUTTONCODE'] = 'Âèäæåò íà ñàéò';
-$MESS['LANDING_HOOK_B24BUTTONCODE_NO'] = 'Íåò';
-$MESS['LANDING_HOOK_B24BUTTONCOLOR'] = 'Öâåò âèäæåòà';
-$MESS['LANDING_HOOK_B24BUTTONCOLOR_SITE'] = 'èñïîëüçîâàòü îñíîâíîé öâåò ñàéòà';
-$MESS['LANDING_HOOK_B24BUTTONCOLOR_BUTTON'] = 'èñïîëüçîâàòü öâåò èç íàñòðîåê âèäæåòà';
-$MESS['LANDING_HOOK_B24BUTTONCOLOR_CUSTOM'] = 'èñïîëüçîâàòü ñâîé öâåò';
-$MESS['LANDING_HOOK_B24BUTTONCOLOR_VALUE'] = 'Ñâîé öâåò';
+$MESS['LANDING_HOOK_B24BUTTONCODE'] = 'Ð’Ð¸Ð´Ð¶ÐµÑ‚ Ð½Ð° ÑÐ°Ð¹Ñ‚';
+$MESS['LANDING_HOOK_B24BUTTONCODE_NO'] = 'ÐÐµÑ‚';
+$MESS['LANDING_HOOK_B24BUTTONCOLOR'] = 'Ð¦Ð²ÐµÑ‚ Ð²Ð¸Ð´Ð¶ÐµÑ‚Ð°';
+$MESS['LANDING_HOOK_B24BUTTONCOLOR_SITE'] = 'Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ Ð¾ÑÐ½Ð¾Ð²Ð½Ð¾Ð¹ Ñ†Ð²ÐµÑ‚ ÑÐ°Ð¹Ñ‚Ð°';
+$MESS['LANDING_HOOK_B24BUTTONCOLOR_BUTTON'] = 'Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ Ñ†Ð²ÐµÑ‚ Ð¸Ð· Ð½Ð°ÑÑ‚Ñ€Ð¾ÐµÐº Ð²Ð¸Ð´Ð¶ÐµÑ‚Ð°';
+$MESS['LANDING_HOOK_B24BUTTONCOLOR_CUSTOM'] = 'Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ ÑÐ²Ð¾Ð¹ Ñ†Ð²ÐµÑ‚';
+$MESS['LANDING_HOOK_B24BUTTONCOLOR_VALUE'] = 'Ð¡Ð²Ð¾Ð¹ Ñ†Ð²ÐµÑ‚';

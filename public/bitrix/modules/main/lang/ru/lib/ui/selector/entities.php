@@ -1,3 +1,3 @@
 <?
-$MESS["MAIN_UI_SELECTOR_TAB_LAST"] = "Последние";
+$MESS["MAIN_UI_SELECTOR_TAB_LAST"] = "РџРѕСЃР»РµРґРЅРёРµ";
 ?>

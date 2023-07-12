@@ -1,8 +1,8 @@
 <?php
-$MESS['LANDING_TABLE_FIELD_RULE'] = 'Ïðàâèëî';
-$MESS['LANDING_TABLE_FIELD_SITE_ID'] = 'Èäåíòèôèêàòîð ñàéòà';
-$MESS['LANDING_TABLE_FIELD_LANDING_ID'] = 'Èäåíòèôèêàòîð ñòðàíèöû';
-$MESS['LANDING_TABLE_FIELD_CREATED_BY_ID'] = 'Èäåíòèôèêàòîð ñîçäàâøåãî ïîëüçîâàòåëÿ';
-$MESS['LANDING_TABLE_FIELD_MODIFIED_BY_ID'] = 'Èäåíòèôèêàòîð èçìåíèâøåãî ïîëüçîâàòåëÿ';
-$MESS['LANDING_TABLE_FIELD_DATE_CREATE'] = 'Äàòà ñîçäàíèÿ';
-$MESS['LANDING_TABLE_FIELD_DATE_MODIFY'] = 'Äàòà èçìåíåíèÿ';
+$MESS['LANDING_TABLE_FIELD_RULE'] = 'ÐŸÑ€Ð°Ð²Ð¸Ð»Ð¾';
+$MESS['LANDING_TABLE_FIELD_SITE_ID'] = 'Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÐ°Ð¹Ñ‚Ð°';
+$MESS['LANDING_TABLE_FIELD_LANDING_ID'] = 'Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹';
+$MESS['LANDING_TABLE_FIELD_CREATED_BY_ID'] = 'Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÐ¾Ð·Ð´Ð°Ð²ÑˆÐµÐ³Ð¾ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ';
+$MESS['LANDING_TABLE_FIELD_MODIFIED_BY_ID'] = 'Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¸Ð·Ð¼ÐµÐ½Ð¸Ð²ÑˆÐµÐ³Ð¾ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ';
+$MESS['LANDING_TABLE_FIELD_DATE_CREATE'] = 'Ð”Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ';
+$MESS['LANDING_TABLE_FIELD_DATE_MODIFY'] = 'Ð”Ð°Ñ‚Ð° Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ';

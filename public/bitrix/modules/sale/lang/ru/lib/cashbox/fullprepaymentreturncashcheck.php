@@ -1,2 +1,2 @@
 <?php
-$MESS['SALE_CASHBOX_FULLPREPAYMENT_RETURN_CASH_NAME'] = 'Возврат 100% предоплаты наличными';
+$MESS['SALE_CASHBOX_FULLPREPAYMENT_RETURN_CASH_NAME'] = 'Р’РѕР·РІСЂР°С‚ 100% РїСЂРµРґРѕРїР»Р°С‚С‹ РЅР°Р»РёС‡РЅС‹РјРё';

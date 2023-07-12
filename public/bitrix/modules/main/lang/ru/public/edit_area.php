@@ -1,17 +1,17 @@
 <?
-$MESS ['main_incl_file_comp_param'] = "Ðåäàêòèðîâàòü ïàðàìåòðû êîìïîíåíòà";
-$MESS ['main_comp_button_menu_title'] = "Ðåäàêòèðîâàòü ïàðàìåòðû êîìïîíåíòà";
-$MESS ['main_comp_copy_templ'] = "Êîïèðîâàòü øàáëîí êîìïîíåíòà";
-$MESS ['main_comp_edit_templ'] = "Ðåäàêòèðîâàòü øàáëîí êîìïîíåíòà";
-$MESS ['main_comp_edit_css'] = "Ðåäàêòèðîâàòü CSS-ôàéë øàáëîíà";
-$MESS ['main_comp_copy_title'] = "Êîïèðîâàòü ñèñòåìíûé øàáëîí äëÿ ðåäàêòèðîâàíèÿ";
-$MESS ['main_incl_comp_component'] = "êîìïîíåíò";
-$MESS ['MAIN_BX_COMPONENT_CACHE_CLEAR_CONF'] = "Âû óâåðåíû, ÷òî õîòèòå î÷èñòèòü êåø êîìïîíåíòà?";
-$MESS ['MAIN_BX_COMPONENT_CACHE_CLEAR'] = "Îáíîâèòü êåø êîìïîíåíòà";
-$MESS ['main_comp_disable'] = "Îòêëþ÷èòü êîìïîíåíò";
-$MESS ['main_comp_enable'] = "Âêëþ÷èòü êîìïîíåíò";
-$MESS ['main_comp_disable_title'] = "Âðåìåííî îòêëþ÷èòü êîìïîíåíò ñ ñîõðàíåíèåì íàñòðîåê";
-$MESS ['main_comp_enable_title'] = "Âêëþ÷èòü êîìïîíåíò ñ ñîõðàíåííûìè íàñòðîéêàìè";
-$MESS ['main_comp_edit_res_mod'] = "Ðåäàêòèðîâàòü ôàéë result_modifier.php";
-$MESS ['main_comp_edit_epilog'] = "Ðåäàêòèðîâàòü ôàéë component_epilog.php";
+$MESS ['main_incl_file_comp_param'] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ ÐºÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚Ð°";
+$MESS ['main_comp_button_menu_title'] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ ÐºÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚Ð°";
+$MESS ['main_comp_copy_templ'] = "ÐšÐ¾Ð¿Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ ÑˆÐ°Ð±Ð»Ð¾Ð½ ÐºÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚Ð°";
+$MESS ['main_comp_edit_templ'] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ ÑˆÐ°Ð±Ð»Ð¾Ð½ ÐºÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚Ð°";
+$MESS ['main_comp_edit_css'] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ CSS-Ñ„Ð°Ð¹Ð» ÑˆÐ°Ð±Ð»Ð¾Ð½Ð°";
+$MESS ['main_comp_copy_title'] = "ÐšÐ¾Ð¿Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ ÑÐ¸ÑÑ‚ÐµÐ¼Ð½Ñ‹Ð¹ ÑˆÐ°Ð±Ð»Ð¾Ð½ Ð´Ð»Ñ Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ";
+$MESS ['main_incl_comp_component'] = "ÐºÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚";
+$MESS ['MAIN_BX_COMPONENT_CACHE_CLEAR_CONF'] = "Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹, Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ Ð¾Ñ‡Ð¸ÑÑ‚Ð¸Ñ‚ÑŒ ÐºÐµÑˆ ÐºÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚Ð°?";
+$MESS ['MAIN_BX_COMPONENT_CACHE_CLEAR'] = "ÐžÐ±Ð½Ð¾Ð²Ð¸Ñ‚ÑŒ ÐºÐµÑˆ ÐºÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚Ð°";
+$MESS ['main_comp_disable'] = "ÐžÑ‚ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ ÐºÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚";
+$MESS ['main_comp_enable'] = "Ð’ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ ÐºÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚";
+$MESS ['main_comp_disable_title'] = "Ð’Ñ€ÐµÐ¼ÐµÐ½Ð½Ð¾ Ð¾Ñ‚ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ ÐºÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚ Ñ ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð¸ÐµÐ¼ Ð½Ð°ÑÑ‚Ñ€Ð¾ÐµÐº";
+$MESS ['main_comp_enable_title'] = "Ð’ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ ÐºÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚ Ñ ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð½Ñ‹Ð¼Ð¸ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ°Ð¼Ð¸";
+$MESS ['main_comp_edit_res_mod'] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ñ„Ð°Ð¹Ð» result_modifier.php";
+$MESS ['main_comp_edit_epilog'] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ñ„Ð°Ð¹Ð» component_epilog.php";
 ?>

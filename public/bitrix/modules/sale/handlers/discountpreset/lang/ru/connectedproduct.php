@@ -1,17 +1,17 @@
 <?php
-$MESS["SALE_HANDLERS_DISCOUNTPRESET_CP_NAME"] = "Скидка на комбинацию товаров";
-$MESS["SALE_HANDLERS_DISCOUNTPRESET_ERROR_SECTION_NON_ARRAY"] = "Неверное значения при выборе секций";
-$MESS["SALE_HANDLERS_DISCOUNTPRESET_ERROR_PRODUCT_NON_ARRAY"] = "Неверное значения при выборе продуктов";
-$MESS["SALE_HANDLERS_DISCOUNTPRESET_CP_DISCOUNT_VALUE"] = "Скидка";
-$MESS["SALE_HANDLERS_DISCOUNTPRESET_CP_DISCOUNT_PREDICTION_TEXT"] = "Текст предсказания";
-$MESS["SALE_HANDLERS_DISCOUNTPRESET_CP_DISCOUNT_PREDICTION_TEXT_DEFAULT_ACT"] = "<span class=\"catalog-element-popup-info\">Получите <span class=\"catalog-element-popup-element\">скидку #DISCOUNT_VALUE#</span>, при покупке <a href='#LINK#' target='_blank'>#NAME#</a></span> ";
-$MESS["SALE_HANDLERS_DISCOUNTPRESET_CP_DISCOUNT_PREDICTION_TEXT_DEFAULT_COND"] = "<span class=\"catalog-element-popup-info\">Покупая товар, вы получите <span class=\"catalog-element-popup-element\">скидку #DISCOUNT_VALUE#</span> на <a href='#LINK#' target='_blank'>#NAME#</a></span> ";
-$MESS["SALE_HANDLERS_DISCOUNTPRESET_CP_DISCOUNT_PH_DISCOUNT_VALUE"] = "Скидка";
-$MESS["SALE_HANDLERS_DISCOUNTPRESET_CP_DISCOUNT_PH_LINK"] = "Ссылка";
-$MESS["SALE_HANDLERS_DISCOUNTPRESET_CP_DISCOUNT_PH_NAME"] = "Название";
-$MESS["SALE_HANDLERS_DISCOUNTPRESET_CP_STEP_TITLE_DISCOUNT_FOR"] = "Скидка на товар/секцию";
-$MESS["SALE_HANDLERS_DISCOUNTPRESET_CP_STEP_TITLE_DISCOUNT_WHEN"] = "Товар/секция для скидки";
-$MESS["SALE_HANDLERS_DISCOUNTPRESET_CP_STEP_DESCR_INPUT_NAME"] = "При добавлении определенного товара в корзину, система может автоматически создавать скидки на другие товары или разделы, что позволит увеличить средний чек покупки.";
-$MESS["SALE_HANDLERS_DISCOUNTPRESET_CP_STEP_DESCR_FOR_DISCOUNT"] = "Выберите товары или разделы, на которые автоматически будет рассчитана скидка при появлении в корзине товаров, указанных на следующем шаге.";
-$MESS["SALE_HANDLERS_DISCOUNTPRESET_CP_STEP_DESCR_WHEN_DISCOUNT"] = "Выберите товары или разделы, которые при добавлении в корзину будут инициировать скидки на другие товары.";
+$MESS["SALE_HANDLERS_DISCOUNTPRESET_CP_NAME"] = "РЎРєРёРґРєР° РЅР° РєРѕРјР±РёРЅР°С†РёСЋ С‚РѕРІР°СЂРѕРІ";
+$MESS["SALE_HANDLERS_DISCOUNTPRESET_ERROR_SECTION_NON_ARRAY"] = "РќРµРІРµСЂРЅРѕРµ Р·РЅР°С‡РµРЅРёСЏ РїСЂРё РІС‹Р±РѕСЂРµ СЃРµРєС†РёР№";
+$MESS["SALE_HANDLERS_DISCOUNTPRESET_ERROR_PRODUCT_NON_ARRAY"] = "РќРµРІРµСЂРЅРѕРµ Р·РЅР°С‡РµРЅРёСЏ РїСЂРё РІС‹Р±РѕСЂРµ РїСЂРѕРґСѓРєС‚РѕРІ";
+$MESS["SALE_HANDLERS_DISCOUNTPRESET_CP_DISCOUNT_VALUE"] = "РЎРєРёРґРєР°";
+$MESS["SALE_HANDLERS_DISCOUNTPRESET_CP_DISCOUNT_PREDICTION_TEXT"] = "РўРµРєСЃС‚ РїСЂРµРґСЃРєР°Р·Р°РЅРёСЏ";
+$MESS["SALE_HANDLERS_DISCOUNTPRESET_CP_DISCOUNT_PREDICTION_TEXT_DEFAULT_ACT"] = "<span class=\"catalog-element-popup-info\">РџРѕР»СѓС‡РёС‚Рµ <span class=\"catalog-element-popup-element\">СЃРєРёРґРєСѓ #DISCOUNT_VALUE#</span>, РїСЂРё РїРѕРєСѓРїРєРµ <a href='#LINK#' target='_blank'>#NAME#</a></span> ";
+$MESS["SALE_HANDLERS_DISCOUNTPRESET_CP_DISCOUNT_PREDICTION_TEXT_DEFAULT_COND"] = "<span class=\"catalog-element-popup-info\">РџРѕРєСѓРїР°СЏ С‚РѕРІР°СЂ, РІС‹ РїРѕР»СѓС‡РёС‚Рµ <span class=\"catalog-element-popup-element\">СЃРєРёРґРєСѓ #DISCOUNT_VALUE#</span> РЅР° <a href='#LINK#' target='_blank'>#NAME#</a></span> ";
+$MESS["SALE_HANDLERS_DISCOUNTPRESET_CP_DISCOUNT_PH_DISCOUNT_VALUE"] = "РЎРєРёРґРєР°";
+$MESS["SALE_HANDLERS_DISCOUNTPRESET_CP_DISCOUNT_PH_LINK"] = "РЎСЃС‹Р»РєР°";
+$MESS["SALE_HANDLERS_DISCOUNTPRESET_CP_DISCOUNT_PH_NAME"] = "РќР°Р·РІР°РЅРёРµ";
+$MESS["SALE_HANDLERS_DISCOUNTPRESET_CP_STEP_TITLE_DISCOUNT_FOR"] = "РЎРєРёРґРєР° РЅР° С‚РѕРІР°СЂ/СЃРµРєС†РёСЋ";
+$MESS["SALE_HANDLERS_DISCOUNTPRESET_CP_STEP_TITLE_DISCOUNT_WHEN"] = "РўРѕРІР°СЂ/СЃРµРєС†РёСЏ РґР»СЏ СЃРєРёРґРєРё";
+$MESS["SALE_HANDLERS_DISCOUNTPRESET_CP_STEP_DESCR_INPUT_NAME"] = "РџСЂРё РґРѕР±Р°РІР»РµРЅРёРё РѕРїСЂРµРґРµР»РµРЅРЅРѕРіРѕ С‚РѕРІР°СЂР° РІ РєРѕСЂР·РёРЅСѓ, СЃРёСЃС‚РµРјР° РјРѕР¶РµС‚ Р°РІС‚РѕРјР°С‚РёС‡РµСЃРєРё СЃРѕР·РґР°РІР°С‚СЊ СЃРєРёРґРєРё РЅР° РґСЂСѓРіРёРµ С‚РѕРІР°СЂС‹ РёР»Рё СЂР°Р·РґРµР»С‹, С‡С‚Рѕ РїРѕР·РІРѕР»РёС‚ СѓРІРµР»РёС‡РёС‚СЊ СЃСЂРµРґРЅРёР№ С‡РµРє РїРѕРєСѓРїРєРё.";
+$MESS["SALE_HANDLERS_DISCOUNTPRESET_CP_STEP_DESCR_FOR_DISCOUNT"] = "Р’С‹Р±РµСЂРёС‚Рµ С‚РѕРІР°СЂС‹ РёР»Рё СЂР°Р·РґРµР»С‹, РЅР° РєРѕС‚РѕСЂС‹Рµ Р°РІС‚РѕРјР°С‚РёС‡РµСЃРєРё Р±СѓРґРµС‚ СЂР°СЃСЃС‡РёС‚Р°РЅР° СЃРєРёРґРєР° РїСЂРё РїРѕСЏРІР»РµРЅРёРё РІ РєРѕСЂР·РёРЅРµ С‚РѕРІР°СЂРѕРІ, СѓРєР°Р·Р°РЅРЅС‹С… РЅР° СЃР»РµРґСѓСЋС‰РµРј С€Р°РіРµ.";
+$MESS["SALE_HANDLERS_DISCOUNTPRESET_CP_STEP_DESCR_WHEN_DISCOUNT"] = "Р’С‹Р±РµСЂРёС‚Рµ С‚РѕРІР°СЂС‹ РёР»Рё СЂР°Р·РґРµР»С‹, РєРѕС‚РѕСЂС‹Рµ РїСЂРё РґРѕР±Р°РІР»РµРЅРёРё РІ РєРѕСЂР·РёРЅСѓ Р±СѓРґСѓС‚ РёРЅРёС†РёРёСЂРѕРІР°С‚СЊ СЃРєРёРґРєРё РЅР° РґСЂСѓРіРёРµ С‚РѕРІР°СЂС‹.";
 ?>

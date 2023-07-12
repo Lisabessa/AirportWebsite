@@ -1,4 +1,4 @@
 <?php
-$MESS["REST_MENU_DEVOPS_STATISTIC"] = "Ñòàòèñòèêà";
-$MESS["REST_MENU_DEVOPS_LIST"] = "Èíòåãðàöèè";
-$MESS["REST_MENU_DEVOPS_START"] = "Ãîòîâûå ñöåíàðèè";
+$MESS["REST_MENU_DEVOPS_STATISTIC"] = "Ð¡Ñ‚Ð°Ñ‚Ð¸ÑÑ‚Ð¸ÐºÐ°";
+$MESS["REST_MENU_DEVOPS_LIST"] = "Ð˜Ð½Ñ‚ÐµÐ³Ñ€Ð°Ñ†Ð¸Ð¸";
+$MESS["REST_MENU_DEVOPS_START"] = "Ð“Ð¾Ñ‚Ð¾Ð²Ñ‹Ðµ ÑÑ†ÐµÐ½Ð°Ñ€Ð¸Ð¸";

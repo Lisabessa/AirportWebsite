@@ -1,3 +1,3 @@
 <?php
-$MESS["LEARNING_BAD_LEARNING_GROUP_ID"] = "Íå óêàçàí êîä ó÷åáíîé ãðóïïû.";
-$MESS["LEARNING_BAD_LEARNING_GROUP_ID_EX"] = "Êîä ó÷åáíîé ãðóïïû óêàçàí íå âåðíî.";
+$MESS["LEARNING_BAD_LEARNING_GROUP_ID"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ ÐºÐ¾Ð´ ÑƒÑ‡ÐµÐ±Ð½Ð¾Ð¹ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹.";
+$MESS["LEARNING_BAD_LEARNING_GROUP_ID_EX"] = "ÐšÐ¾Ð´ ÑƒÑ‡ÐµÐ±Ð½Ð¾Ð¹ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹ ÑƒÐºÐ°Ð·Ð°Ð½ Ð½Ðµ Ð²ÐµÑ€Ð½Ð¾.";

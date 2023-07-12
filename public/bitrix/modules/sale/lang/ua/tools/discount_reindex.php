@@ -1,13 +1,13 @@
 <?
-$MESS["SALE_DISCOUNT_REINDEX_ERRORS_RIGHTS"] = "Íåäîñòàòíüî ïðàâ";
-$MESS["SALE_DISCOUNT_REINDEX_ERRORS_INCORRECT_SESSION"] = "Âàøà ñåñ³ÿ çàê³í÷èëàñÿ. Çàêðèéòå ä³àëîãîâå â³êíî ³ àâòîðèçóéòåñÿ çàíîâî, ï³ñëÿ ÷îãî ïîâòîð³òü îïåðàö³þ.";
-$MESS["SALE_DISCOUNT_REINDEX_ERRORS_MODULE_SALE_ABSENT"] = "Íå âäàëîñÿ ï³äêëþ÷èòè ìîäóëü ²íòåðíåò-ìàãàçèíó";
-$MESS["SALE_DISCOUNT_REINDEX_ERRORS_MODULE_CATALOG_ABSENT"] = "Íå âäàëîñÿ ï³äêëþ÷èòè ìîäóëü òîðãîâîãî êàòàëîãó";
-$MESS["SALE_DISCOUNT_REINDEX_PAGE_TITLE"] = "Ïåðå³íäåêñàö³ÿ ïðàâèë êîøèêà";
-$MESS["SALE_DISCOUNT_REINDEX_TAB"] = "Ïàðàìåòðè";
-$MESS["SALE_DISCOUNT_REINDEX_TAB_TITLE"] = "Ïàðàìåòðè ïåðå³íäåêñàö³¿";
-$MESS["SALE_DISCOUNT_REINDEX_ERRORS_TITLE"] = "Ïîìèëêè ï³ä ÷àñ âèêîíàííÿ ïåðå³íäåêñàö³¿";
-$MESS["SALE_DISCOUNT_REINDEX_MAX_EXECUTION_TIME"] = "Òðèâàë³ñòü îäíîãî êðîêó, ñåê:";
-$MESS["SALE_DISCOUNT_REINDEX_UPDATE_BTN"] = "Ïî÷àòè";
-$MESS["SALE_DISCOUNT_REINDEX_STOP_BTN"] = "Çóïèíèòè";
+$MESS["SALE_DISCOUNT_REINDEX_ERRORS_RIGHTS"] = "ÐÐµÐ´Ð¾ÑÑ‚Ð°Ñ‚Ð½ÑŒÐ¾ Ð¿Ñ€Ð°Ð²";
+$MESS["SALE_DISCOUNT_REINDEX_ERRORS_INCORRECT_SESSION"] = "Ð’Ð°ÑˆÐ° ÑÐµÑÑ–Ñ Ð·Ð°ÐºÑ–Ð½Ñ‡Ð¸Ð»Ð°ÑÑ. Ð—Ð°ÐºÑ€Ð¸Ð¹Ñ‚Ðµ Ð´Ñ–Ð°Ð»Ð¾Ð³Ð¾Ð²Ðµ Ð²Ñ–ÐºÐ½Ð¾ Ñ– Ð°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·ÑƒÐ¹Ñ‚ÐµÑÑ Ð·Ð°Ð½Ð¾Ð²Ð¾, Ð¿Ñ–ÑÐ»Ñ Ñ‡Ð¾Ð³Ð¾ Ð¿Ð¾Ð²Ñ‚Ð¾Ñ€Ñ–Ñ‚ÑŒ Ð¾Ð¿ÐµÑ€Ð°Ñ†Ñ–ÑŽ.";
+$MESS["SALE_DISCOUNT_REINDEX_ERRORS_MODULE_SALE_ABSENT"] = "ÐÐµ Ð²Ð´Ð°Ð»Ð¾ÑÑ Ð¿Ñ–Ð´ÐºÐ»ÑŽÑ‡Ð¸Ñ‚Ð¸ Ð¼Ð¾Ð´ÑƒÐ»ÑŒ Ð†Ð½Ñ‚ÐµÑ€Ð½ÐµÑ‚-Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ñƒ";
+$MESS["SALE_DISCOUNT_REINDEX_ERRORS_MODULE_CATALOG_ABSENT"] = "ÐÐµ Ð²Ð´Ð°Ð»Ð¾ÑÑ Ð¿Ñ–Ð´ÐºÐ»ÑŽÑ‡Ð¸Ñ‚Ð¸ Ð¼Ð¾Ð´ÑƒÐ»ÑŒ Ñ‚Ð¾Ñ€Ð³Ð¾Ð²Ð¾Ð³Ð¾ ÐºÐ°Ñ‚Ð°Ð»Ð¾Ð³Ñƒ";
+$MESS["SALE_DISCOUNT_REINDEX_PAGE_TITLE"] = "ÐŸÐµÑ€ÐµÑ–Ð½Ð´ÐµÐºÑÐ°Ñ†Ñ–Ñ Ð¿Ñ€Ð°Ð²Ð¸Ð» ÐºÐ¾ÑˆÐ¸ÐºÐ°";
+$MESS["SALE_DISCOUNT_REINDEX_TAB"] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð¸";
+$MESS["SALE_DISCOUNT_REINDEX_TAB_TITLE"] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð¸ Ð¿ÐµÑ€ÐµÑ–Ð½Ð´ÐµÐºÑÐ°Ñ†Ñ–Ñ—";
+$MESS["SALE_DISCOUNT_REINDEX_ERRORS_TITLE"] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ¸ Ð¿Ñ–Ð´ Ñ‡Ð°Ñ Ð²Ð¸ÐºÐ¾Ð½Ð°Ð½Ð½Ñ Ð¿ÐµÑ€ÐµÑ–Ð½Ð´ÐµÐºÑÐ°Ñ†Ñ–Ñ—";
+$MESS["SALE_DISCOUNT_REINDEX_MAX_EXECUTION_TIME"] = "Ð¢Ñ€Ð¸Ð²Ð°Ð»Ñ–ÑÑ‚ÑŒ Ð¾Ð´Ð½Ð¾Ð³Ð¾ ÐºÑ€Ð¾ÐºÑƒ, ÑÐµÐº:";
+$MESS["SALE_DISCOUNT_REINDEX_UPDATE_BTN"] = "ÐŸÐ¾Ñ‡Ð°Ñ‚Ð¸";
+$MESS["SALE_DISCOUNT_REINDEX_STOP_BTN"] = "Ð—ÑƒÐ¿Ð¸Ð½Ð¸Ñ‚Ð¸";
 ?>

@@ -1,9 +1,9 @@
 <?php
 
-$MESS['CONVERSION_MENU_TEXT' ] = 'Ïóëüñ êîíâåðñèè';
-$MESS['CONVERSION_MENU_TITLE'] = 'Ïóëüñ êîíâåðñèè';
-$MESS['CONVERSION_MENU_SUMMARY_TEXT' ] = 'Ñâîäíàÿ';
-$MESS['CONVERSION_MENU_SUMMARY_TITLE'] = 'Ñâîäíàÿ';
+$MESS['CONVERSION_MENU_TEXT' ] = 'ÐŸÑƒÐ»ÑŒÑ ÐºÐ¾Ð½Ð²ÐµÑ€ÑÐ¸Ð¸';
+$MESS['CONVERSION_MENU_TITLE'] = 'ÐŸÑƒÐ»ÑŒÑ ÐºÐ¾Ð½Ð²ÐµÑ€ÑÐ¸Ð¸';
+$MESS['CONVERSION_MENU_SUMMARY_TEXT' ] = 'Ð¡Ð²Ð¾Ð´Ð½Ð°Ñ';
+$MESS['CONVERSION_MENU_SUMMARY_TITLE'] = 'Ð¡Ð²Ð¾Ð´Ð½Ð°Ñ';
 
-$MESS['CONVERSION_MENU2_TEXT' ] = 'Áèçíåñ ìîäåëü èíòåðíåò-ìàãàçèíà ';
-$MESS['CONVERSION_MENU2_TITLE'] = 'Áèçíåñ ìîäåëü èíòåðíåò-ìàãàçèíà ';
+$MESS['CONVERSION_MENU2_TEXT' ] = 'Ð‘Ð¸Ð·Ð½ÐµÑ Ð¼Ð¾Ð´ÐµÐ»ÑŒ Ð¸Ð½Ñ‚ÐµÑ€Ð½ÐµÑ‚-Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ð° ';
+$MESS['CONVERSION_MENU2_TITLE'] = 'Ð‘Ð¸Ð·Ð½ÐµÑ Ð¼Ð¾Ð´ÐµÐ»ÑŒ Ð¸Ð½Ñ‚ÐµÑ€Ð½ÐµÑ‚-Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ð° ';

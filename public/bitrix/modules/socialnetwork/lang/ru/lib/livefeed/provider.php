@@ -1,3 +1,3 @@
 <?
-$MESS["SONET_LIVEFEED_BASE_TITLE_UNAVAILABLE"] = "Запись недоступна.";
+$MESS["SONET_LIVEFEED_BASE_TITLE_UNAVAILABLE"] = "Р—Р°РїРёСЃСЊ РЅРµРґРѕСЃС‚СѓРїРЅР°.";
 ?>

@@ -1,6 +1,6 @@
 <?php
-$MESS['LANDING_TABLE_FIELD_LID'] = 'Èäåíòèôèêàòîð ñòðàíèöû';
-$MESS['LANDING_TABLE_FIELD_USER_ID'] = 'Èäåíòèôèêàòîð ïîëüçîâàòåëÿ';
-$MESS['LANDING_TABLE_FIELD_VIEWS'] = 'Êîëè÷åñòâî ïðîñìîòðîâ íà ïîëüçîâàòåëÿ';
-$MESS['LANDING_TABLE_FIELD_FIRST_VIEW'] = 'Äàòà ïåðâîãî ïðîñìîòðà';
-$MESS['LANDING_TABLE_FIELD_LAST_VIEW'] = 'Äàòà ïîñëåäíåãî ïðîñìîòðà';
+$MESS['LANDING_TABLE_FIELD_LID'] = 'Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹';
+$MESS['LANDING_TABLE_FIELD_USER_ID'] = 'Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ';
+$MESS['LANDING_TABLE_FIELD_VIEWS'] = 'ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð¾Ð² Ð½Ð° Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ';
+$MESS['LANDING_TABLE_FIELD_FIRST_VIEW'] = 'Ð”Ð°Ñ‚Ð° Ð¿ÐµÑ€Ð²Ð¾Ð³Ð¾ Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð°';
+$MESS['LANDING_TABLE_FIELD_LAST_VIEW'] = 'Ð”Ð°Ñ‚Ð° Ð¿Ð¾ÑÐ»ÐµÐ´Ð½ÐµÐ³Ð¾ Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð°';

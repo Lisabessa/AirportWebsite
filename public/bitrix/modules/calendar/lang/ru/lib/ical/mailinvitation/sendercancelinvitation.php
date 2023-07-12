@@ -1,2 +1,2 @@
 <?php
-$MESS["EC_CALENDAR_ICAL_MAIL_METHOD_CANCEL"] = "Âñòðå÷à îòìåíåíà";
+$MESS["EC_CALENDAR_ICAL_MAIL_METHOD_CANCEL"] = "Ð’ÑÑ‚Ñ€ÐµÑ‡Ð° Ð¾Ñ‚Ð¼ÐµÐ½ÐµÐ½Ð°";

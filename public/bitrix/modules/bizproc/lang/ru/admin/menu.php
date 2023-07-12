@@ -1,6 +1,6 @@
 <?
-$MESS ['BIZPROC_MENU_TEXT'] = "Áèçíåñ-ïðîöåññû";
-$MESS ['BIZPROC_MENU_TITLE'] = "Áèçíåñ-ïðîöåññû";
-$MESS ['BIZPROC_MENU_TASKS'] = "Çàäàíèÿ";
-$MESS ['BIZPROC_MENU_TASKS_ALT'] = "Ñïèñîê âàøèõ çàäàíèé";
+$MESS ['BIZPROC_MENU_TEXT'] = "Ð‘Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑÑ‹";
+$MESS ['BIZPROC_MENU_TITLE'] = "Ð‘Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑÑ‹";
+$MESS ['BIZPROC_MENU_TASKS'] = "Ð—Ð°Ð´Ð°Ð½Ð¸Ñ";
+$MESS ['BIZPROC_MENU_TASKS_ALT'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð²Ð°ÑˆÐ¸Ñ… Ð·Ð°Ð´Ð°Ð½Ð¸Ð¹";
 ?>

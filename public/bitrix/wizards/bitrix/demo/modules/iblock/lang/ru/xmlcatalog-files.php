@@ -1,5 +1,5 @@
 <?
-$MESS ['DEMO_IBLOCK_ESTORE_XMLCAT_MENU'] = "Êàòàëîã òîâàðîâ èç 1Ñ:Ïðåäïðèÿòèå";
-$MESS ['DEMO_IBLOCK_XMLCATALOG_GROUP_NAME'] = "1Ñ èíòåãðàöèÿ";
-$MESS ['DEMO_IBLOCK_XMLCATALOG_GROUP_DESC'] = "Ãðóïïà ïîëüçîâàòåëåé, èìåþùàÿ ïðàâî íà ýêñïîðò êàòàëîãà èç 1Ñ è íà îáìåí çàêàçàìè ñ 1Ñ.";
+$MESS ['DEMO_IBLOCK_ESTORE_XMLCAT_MENU'] = "ÐšÐ°Ñ‚Ð°Ð»Ð¾Ð³ Ñ‚Ð¾Ð²Ð°Ñ€Ð¾Ð² Ð¸Ð· 1Ð¡:ÐŸÑ€ÐµÐ´Ð¿Ñ€Ð¸ÑÑ‚Ð¸Ðµ";
+$MESS ['DEMO_IBLOCK_XMLCATALOG_GROUP_NAME'] = "1Ð¡ Ð¸Ð½Ñ‚ÐµÐ³Ñ€Ð°Ñ†Ð¸Ñ";
+$MESS ['DEMO_IBLOCK_XMLCATALOG_GROUP_DESC'] = "Ð“Ñ€ÑƒÐ¿Ð¿Ð° Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÐµÐ¹, Ð¸Ð¼ÐµÑŽÑ‰Ð°Ñ Ð¿Ñ€Ð°Ð²Ð¾ Ð½Ð° ÑÐºÑÐ¿Ð¾Ñ€Ñ‚ ÐºÐ°Ñ‚Ð°Ð»Ð¾Ð³Ð° Ð¸Ð· 1Ð¡ Ð¸ Ð½Ð° Ð¾Ð±Ð¼ÐµÐ½ Ð·Ð°ÐºÐ°Ð·Ð°Ð¼Ð¸ Ñ 1Ð¡.";
 ?>

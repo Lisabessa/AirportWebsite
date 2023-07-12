@@ -1,12 +1,12 @@
 <?
-$MESS["BIZPROC_JS_BP_STARTER_REQUEST_FAILURE"] = "Âî âðåìÿ çàïðîñà ïðîèçîøëà îøèáêà. Ïîïðîáóéòå ïåðåçàãðóçèòü ñòðàíèöó.";
-$MESS["BIZPROC_JS_BP_STARTER_CANCEL"] = "Îòìåíèòü";
-$MESS["BIZPROC_JS_BP_STARTER_START"] = "Çàïóñòèòü";
-$MESS["BIZPROC_JS_BP_STARTER_SAVE"] = "Ñîõðàíèòü";
-$MESS["BIZPROC_JS_BP_STARTER_AUTOSTART"] = "Àâòîìàòè÷åñêèé çàïóñê áèçíåñ-ïðîöåññîâ";
-$MESS["BIZPROC_JS_BP_STARTER_NO_TEMPLATES"] = "Íåò íè îäíîãî øàáëîíà áèçíåñ-ïðîöåññîâ";
-$MESS ['BIZPROC_JS_BP_STARTER_DESTINATION_CHOOSE'] = "âûáðàòü";
-$MESS ['BIZPROC_JS_BP_STARTER_DESTINATION_EDIT'] = "èçìåíèòü";
-$MESS ['BIZPROC_JS_BP_STARTER_FILE_CHOOSE'] = "Âûáðàòü ôàéë";
-$MESS ['BIZPROC_JS_BP_STARTER_CONTROL_CLONE'] = "äîáàâèòü";
+$MESS["BIZPROC_JS_BP_STARTER_REQUEST_FAILURE"] = "Ð’Ð¾ Ð²Ñ€ÐµÐ¼Ñ Ð·Ð°Ð¿Ñ€Ð¾ÑÐ° Ð¿Ñ€Ð¾Ð¸Ð·Ð¾ÑˆÐ»Ð° Ð¾ÑˆÐ¸Ð±ÐºÐ°. ÐŸÐ¾Ð¿Ñ€Ð¾Ð±ÑƒÐ¹Ñ‚Ðµ Ð¿ÐµÑ€ÐµÐ·Ð°Ð³Ñ€ÑƒÐ·Ð¸Ñ‚ÑŒ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ.";
+$MESS["BIZPROC_JS_BP_STARTER_CANCEL"] = "ÐžÑ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
+$MESS["BIZPROC_JS_BP_STARTER_START"] = "Ð—Ð°Ð¿ÑƒÑÑ‚Ð¸Ñ‚ÑŒ";
+$MESS["BIZPROC_JS_BP_STARTER_SAVE"] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ";
+$MESS["BIZPROC_JS_BP_STARTER_AUTOSTART"] = "ÐÐ²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸Ð¹ Ð·Ð°Ð¿ÑƒÑÐº Ð±Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑÐ¾Ð²";
+$MESS["BIZPROC_JS_BP_STARTER_NO_TEMPLATES"] = "ÐÐµÑ‚ Ð½Ð¸ Ð¾Ð´Ð½Ð¾Ð³Ð¾ ÑˆÐ°Ð±Ð»Ð¾Ð½Ð° Ð±Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑÐ¾Ð²";
+$MESS ['BIZPROC_JS_BP_STARTER_DESTINATION_CHOOSE'] = "Ð²Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ";
+$MESS ['BIZPROC_JS_BP_STARTER_DESTINATION_EDIT'] = "Ð¸Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
+$MESS ['BIZPROC_JS_BP_STARTER_FILE_CHOOSE'] = "Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ Ñ„Ð°Ð¹Ð»";
+$MESS ['BIZPROC_JS_BP_STARTER_CONTROL_CLONE'] = "Ð´Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ";
 ?>

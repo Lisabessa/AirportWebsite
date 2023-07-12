@@ -1,8 +1,8 @@
 <?
-$MESS["PROPERTY_TYPE_STRING"] = "Ñòðîêà";
-$MESS["PROPERTY_TYPE_NUMBER"] = "×èñëî";
-$MESS["PROPERTY_TYPE_LIST"] = "Ñïèñîê";
-$MESS["PROPERTY_TYPE_FILE"] = "Ôàéë";
-$MESS["PROPERTY_TYPE_SECTION"] = "Ïðèâÿçêà ê ðàçäåëàì";
-$MESS["PROPERTY_TYPE_ELEMENT"] = "Ïðèâÿçêà ê ýëåìåíòàì";
+$MESS["PROPERTY_TYPE_STRING"] = "Ð¡Ñ‚Ñ€Ð¾ÐºÐ°";
+$MESS["PROPERTY_TYPE_NUMBER"] = "Ð§Ð¸ÑÐ»Ð¾";
+$MESS["PROPERTY_TYPE_LIST"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº";
+$MESS["PROPERTY_TYPE_FILE"] = "Ð¤Ð°Ð¹Ð»";
+$MESS["PROPERTY_TYPE_SECTION"] = "ÐŸÑ€Ð¸Ð²ÑÐ·ÐºÐ° Ðº Ñ€Ð°Ð·Ð´ÐµÐ»Ð°Ð¼";
+$MESS["PROPERTY_TYPE_ELEMENT"] = "ÐŸÑ€Ð¸Ð²ÑÐ·ÐºÐ° Ðº ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð°Ð¼";
 ?>

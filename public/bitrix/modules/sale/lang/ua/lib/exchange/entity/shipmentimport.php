@@ -1,5 +1,5 @@
 <?
-$MESS["SALE_EXCHANGE_ENTITY_SHIPMENT_SYNCHRONIZE_QUANTITY_ERROR"] = "Íå äîñòàòíÿ ê³ëüê³ñòü íå ðîçïîä³ëåíèõ òîâàð³â ó â³äâàíòàæåííÿõ ";
-$MESS["SALE_EXCHANGE_ENTITY_SHIPMENT_DELIVERY_SERVICE_IS_NOT_AVAILABLE_ERROR"] = "Ñëóæáà äîñòàâêè íåäîñòóïíà";
-$MESS["SALE_EXCHANGE_ENTITY_SHIPMENT_ORDER_IS_NOT_LOADED_ERROR"] = "Îá'ºêò çàìîâëåííÿ íå çàâàíòàæåíèé";
+$MESS["SALE_EXCHANGE_ENTITY_SHIPMENT_SYNCHRONIZE_QUANTITY_ERROR"] = "ÐÐµ Ð´Ð¾ÑÑ‚Ð°Ñ‚Ð½Ñ ÐºÑ–Ð»ÑŒÐºÑ–ÑÑ‚ÑŒ Ð½Ðµ Ñ€Ð¾Ð·Ð¿Ð¾Ð´Ñ–Ð»ÐµÐ½Ð¸Ñ… Ñ‚Ð¾Ð²Ð°Ñ€Ñ–Ð² Ñƒ Ð²Ñ–Ð´Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½ÑÑ… ";
+$MESS["SALE_EXCHANGE_ENTITY_SHIPMENT_DELIVERY_SERVICE_IS_NOT_AVAILABLE_ERROR"] = "Ð¡Ð»ÑƒÐ¶Ð±Ð° Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸ Ð½ÐµÐ´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ð°";
+$MESS["SALE_EXCHANGE_ENTITY_SHIPMENT_ORDER_IS_NOT_LOADED_ERROR"] = "ÐžÐ±'Ñ”ÐºÑ‚ Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ Ð½Ðµ Ð·Ð°Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð¸Ð¹";
 ?>

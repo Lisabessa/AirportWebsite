@@ -2,35 +2,35 @@
 <?
 $aMenuLinks = Array(
 	Array(
-		"Êîìïàíèÿ", 
+		"ÐšÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ñ", 
 		"company/", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
-		"Íîâîñòè", 
+		"ÐÐ¾Ð²Ð¾ÑÑ‚Ð¸", 
 		"news/", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
-		"Ïðîäóêöèÿ", 
+		"ÐŸÑ€Ð¾Ð´ÑƒÐºÑ†Ð¸Ñ", 
 		"products/", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
-		"Óñëóãè", 
+		"Ð£ÑÐ»ÑƒÐ³Ð¸", 
 		"services/", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
-		"Êîíòàêòû", 
+		"ÐšÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ñ‹", 
 		"contacts/", 
 		Array(), 
 		Array(), 

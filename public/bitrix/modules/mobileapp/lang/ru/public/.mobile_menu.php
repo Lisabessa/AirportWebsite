@@ -1,5 +1,5 @@
 <?php
-$MESS["MOBILE_MENU_MAIN"] = "Ãëàâíàÿ";
-$MESS["MOBILE_MENU_ITEM"] = "Ïóíêò ìåíþ #number#";
-$MESS["MOBILE_MENU_ABOUT"] = "Î ïðîãðàììå";
-$MESS["MOBILE_MENU_HEADER"] = "Ìåíþ";
+$MESS["MOBILE_MENU_MAIN"] = "Ð“Ð»Ð°Ð²Ð½Ð°Ñ";
+$MESS["MOBILE_MENU_ITEM"] = "ÐŸÑƒÐ½ÐºÑ‚ Ð¼ÐµÐ½ÑŽ #number#";
+$MESS["MOBILE_MENU_ABOUT"] = "Ðž Ð¿Ñ€Ð¾Ð³Ñ€Ð°Ð¼Ð¼Ðµ";
+$MESS["MOBILE_MENU_HEADER"] = "ÐœÐµÐ½ÑŽ";

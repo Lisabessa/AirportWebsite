@@ -1,8 +1,8 @@
 <?
-$MESS["CP_BCCL_TPL_PARAM_TITLE_POSITION_FIXED"] = "Îòîáðàæàòü ñïèñîê ñðàâíåíèÿ ïîâåðõ ñòðàíèöû";
-$MESS["CP_BCCL_TPL_PARAM_TITLE_POSITION"] = "Ïîëîæåíèå íà ñòðàíèöå";
-$MESS["CP_BCCL_TPL_PARAM_POSITION_TOP_LEFT"] = "ââåðõó ñëåâà";
-$MESS["CP_BCCL_TPL_PARAM_POSITION_TOP_RIGHT"] = "ââåðõó ñïðàâà";
-$MESS["CP_BCCL_TPL_PARAM_POSITION_BOTTOM_LEFT"] = "âíèçó ñëåâà";
-$MESS["CP_BCCL_TPL_PARAM_POSITION_BOTTOM_RIGHT"] = "âíèçó ñïðàâà";
+$MESS["CP_BCCL_TPL_PARAM_TITLE_POSITION_FIXED"] = "ÐžÑ‚Ð¾Ð±Ñ€Ð°Ð¶Ð°Ñ‚ÑŒ ÑÐ¿Ð¸ÑÐ¾Ðº ÑÑ€Ð°Ð²Ð½ÐµÐ½Ð¸Ñ Ð¿Ð¾Ð²ÐµÑ€Ñ… ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹";
+$MESS["CP_BCCL_TPL_PARAM_TITLE_POSITION"] = "ÐŸÐ¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ðµ";
+$MESS["CP_BCCL_TPL_PARAM_POSITION_TOP_LEFT"] = "Ð²Ð²ÐµÑ€Ñ…Ñƒ ÑÐ»ÐµÐ²Ð°";
+$MESS["CP_BCCL_TPL_PARAM_POSITION_TOP_RIGHT"] = "Ð²Ð²ÐµÑ€Ñ…Ñƒ ÑÐ¿Ñ€Ð°Ð²Ð°";
+$MESS["CP_BCCL_TPL_PARAM_POSITION_BOTTOM_LEFT"] = "Ð²Ð½Ð¸Ð·Ñƒ ÑÐ»ÐµÐ²Ð°";
+$MESS["CP_BCCL_TPL_PARAM_POSITION_BOTTOM_RIGHT"] = "Ð²Ð½Ð¸Ð·Ñƒ ÑÐ¿Ñ€Ð°Ð²Ð°";
 ?>

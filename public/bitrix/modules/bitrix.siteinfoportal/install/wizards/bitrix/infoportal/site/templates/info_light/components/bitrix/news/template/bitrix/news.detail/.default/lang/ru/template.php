@@ -1,5 +1,5 @@
 <?
-$MESS["T_NEWS_DETAIL_BACK"] = "Âîçâðàò ê ñïèñêó";
-$MESS["T_NEWS_DETAIL_THEME"] = "Îñòàëüíîå ïî òåìå";
-$MESS["T_NEWS_SHORT_URL"] = "Êîðîòêàÿ ññûëêà íà íîâîñòü:";
+$MESS["T_NEWS_DETAIL_BACK"] = "Ð’Ð¾Ð·Ð²Ñ€Ð°Ñ‚ Ðº ÑÐ¿Ð¸ÑÐºÑƒ";
+$MESS["T_NEWS_DETAIL_THEME"] = "ÐžÑÑ‚Ð°Ð»ÑŒÐ½Ð¾Ðµ Ð¿Ð¾ Ñ‚ÐµÐ¼Ðµ";
+$MESS["T_NEWS_SHORT_URL"] = "ÐšÐ¾Ñ€Ð¾Ñ‚ÐºÐ°Ñ ÑÑÑ‹Ð»ÐºÐ° Ð½Ð° Ð½Ð¾Ð²Ð¾ÑÑ‚ÑŒ:";
 ?>

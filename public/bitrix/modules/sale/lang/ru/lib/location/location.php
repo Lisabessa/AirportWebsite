@@ -1,12 +1,12 @@
 <?
-$MESS["SALE_LOCATION_LOCATION_ENTITY_CODE_FIELD"] = "Ñèìâîëüíûé êîä";
-$MESS["SALE_LOCATION_LOCATION_ENTITY_PARENT_ID_FIELD"] = "Ðîäèòåëüñêîå ìåñòîïîëîæåíèå";
-$MESS["SALE_LOCATION_LOCATION_ENTITY_TYPE_ID_FIELD"] = "Òèï";
-$MESS["SALE_LOCATION_LOCATION_ENTITY_SORT_FIELD"] = "Ñîðòèðîâêà";
-$MESS["SALE_LOCATION_LOCATION_ENTITY_LATITUDE_FIELD"] = "Øèðîòà";
-$MESS["SALE_LOCATION_LOCATION_ENTITY_LONGITUDE_FIELD"] = "Äîëãîòà";
-$MESS["SALE_LOCATION_LOCATION_ENTITY_LATITUDE_TYPE_ERROR"] = "Øèðîòà äîëæíà áûòü ÷èñëîì";
-$MESS["SALE_LOCATION_LOCATION_ENTITY_LONGITUDE_TYPE_ERROR"] = "Äîëãîòà äîëæíà áûòü ÷èñëîì";
-$MESS["SALE_LOCATION_LOCATION_ENTITY_LATITUDE_RANGE_ERROR"] = "Øèðîòà äîëæíà áûòü â ïðåäåëàõ îò -90 äî +90";
-$MESS["SALE_LOCATION_LOCATION_ENTITY_LONGITUDE_RANGE_ERROR"] = "Äîëãîòà äîëæíà áûòü â ïðåäåëàõ îò -180 äî +180";
+$MESS["SALE_LOCATION_LOCATION_ENTITY_CODE_FIELD"] = "Ð¡Ð¸Ð¼Ð²Ð¾Ð»ÑŒÐ½Ñ‹Ð¹ ÐºÐ¾Ð´";
+$MESS["SALE_LOCATION_LOCATION_ENTITY_PARENT_ID_FIELD"] = "Ð Ð¾Ð´Ð¸Ñ‚ÐµÐ»ÑŒÑÐºÐ¾Ðµ Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ";
+$MESS["SALE_LOCATION_LOCATION_ENTITY_TYPE_ID_FIELD"] = "Ð¢Ð¸Ð¿";
+$MESS["SALE_LOCATION_LOCATION_ENTITY_SORT_FIELD"] = "Ð¡Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²ÐºÐ°";
+$MESS["SALE_LOCATION_LOCATION_ENTITY_LATITUDE_FIELD"] = "Ð¨Ð¸Ñ€Ð¾Ñ‚Ð°";
+$MESS["SALE_LOCATION_LOCATION_ENTITY_LONGITUDE_FIELD"] = "Ð”Ð¾Ð»Ð³Ð¾Ñ‚Ð°";
+$MESS["SALE_LOCATION_LOCATION_ENTITY_LATITUDE_TYPE_ERROR"] = "Ð¨Ð¸Ñ€Ð¾Ñ‚Ð° Ð´Ð¾Ð»Ð¶Ð½Ð° Ð±Ñ‹Ñ‚ÑŒ Ñ‡Ð¸ÑÐ»Ð¾Ð¼";
+$MESS["SALE_LOCATION_LOCATION_ENTITY_LONGITUDE_TYPE_ERROR"] = "Ð”Ð¾Ð»Ð³Ð¾Ñ‚Ð° Ð´Ð¾Ð»Ð¶Ð½Ð° Ð±Ñ‹Ñ‚ÑŒ Ñ‡Ð¸ÑÐ»Ð¾Ð¼";
+$MESS["SALE_LOCATION_LOCATION_ENTITY_LATITUDE_RANGE_ERROR"] = "Ð¨Ð¸Ñ€Ð¾Ñ‚Ð° Ð´Ð¾Ð»Ð¶Ð½Ð° Ð±Ñ‹Ñ‚ÑŒ Ð² Ð¿Ñ€ÐµÐ´ÐµÐ»Ð°Ñ… Ð¾Ñ‚ -90 Ð´Ð¾ +90";
+$MESS["SALE_LOCATION_LOCATION_ENTITY_LONGITUDE_RANGE_ERROR"] = "Ð”Ð¾Ð»Ð³Ð¾Ñ‚Ð° Ð´Ð¾Ð»Ð¶Ð½Ð° Ð±Ñ‹Ñ‚ÑŒ Ð² Ð¿Ñ€ÐµÐ´ÐµÐ»Ð°Ñ… Ð¾Ñ‚ -180 Ð´Ð¾ +180";
 ?>

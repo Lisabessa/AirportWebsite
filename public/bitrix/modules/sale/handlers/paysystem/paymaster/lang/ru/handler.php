@@ -1,14 +1,14 @@
 <?php
-$MESS['SALE_HPS_PAYMASTER_ERROR_PARAMS_VALUE'] = 'Ïàðàìåòðû ïëàòåæà íå ñîâïàäàþò ;';
-$MESS['SALE_HPS_PAYMASTER_SIM_MODE_TEST'] = 'òåñòîâûé ðåæèì, ðåàëüíî äåíüãè íå ïåðåâîäèëèñü; ';
-$MESS['SALE_HPS_PAYMASTER_DESC_MERCHANT_ID'] = 'êîøåëåê ïðîäàâöà - #MERCHANT_ID# ;';
-$MESS['SALE_HPS_PAYMASTER_DESC_SYS_INVS_NO'] = 'íîìåð ñ÷åòà - #SYS_INVS_NO# ;';
-$MESS['SALE_HPS_PAYMASTER_DESC_SYS_TRANS_NO'] = 'íîìåð ïëàòåæà - #SYS_TRANS_NO# ;';
-$MESS['SALE_HPS_PAYMASTER_DESC_SYS_TRANS_DATE'] = 'äàòà ïëàòåæà - #SYS_TRANS_DATE# ;';
-$MESS['SALE_HPS_PAYMASTER_DESC_PAY_SYSTEM'] = 'ïëàòåæíàÿ ñèñòåìà - #PAY_SYSTEM# ;';
-$MESS['SALE_HPS_PAYMASTER_DESC_PAYER_PURSE'] = 'êîøåëåê ïîêóïàòåëÿ - #PAYER_PURSE# ;';
-$MESS['SALE_HPS_PAYMASTER_DESC_PAYER_WM'] = 'WMId ïîêóïàòåëÿ - #PAYER_WM# ;';
-$MESS['SALE_HPS_PAYMASTER_DESC_PAYER_NUMBER'] = 'íîìåð ÂÌ-êàðòû - #PAYMER_NUMBER# ;';
-$MESS['SALE_HPS_PAYMASTER_DESC_PAYER_EMAIL'] = 'paymer.com e-mail ïîêóïàòåëÿ - #PAYMER_EMAIL# ;';
-$MESS['SALE_HPS_PAYMASTER_DESC_TELEPAT_PHONENUMBER'] = 'òåëåôîí ïîêóïàòåëÿ - #TELEPAT_PHONENUMBER# ;';
-$MESS['SALE_HPS_PAYMASTER_DESC_TELEPAT_ORDERID'] = 'ïëàòåæ â Òåëåïàòå - #TELEPAT_ORDERID# ;';
+$MESS['SALE_HPS_PAYMASTER_ERROR_PARAMS_VALUE'] = 'ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ð° Ð½Ðµ ÑÐ¾Ð²Ð¿Ð°Ð´Ð°ÑŽÑ‚ ;';
+$MESS['SALE_HPS_PAYMASTER_SIM_MODE_TEST'] = 'Ñ‚ÐµÑÑ‚Ð¾Ð²Ñ‹Ð¹ Ñ€ÐµÐ¶Ð¸Ð¼, Ñ€ÐµÐ°Ð»ÑŒÐ½Ð¾ Ð´ÐµÐ½ÑŒÐ³Ð¸ Ð½Ðµ Ð¿ÐµÑ€ÐµÐ²Ð¾Ð´Ð¸Ð»Ð¸ÑÑŒ; ';
+$MESS['SALE_HPS_PAYMASTER_DESC_MERCHANT_ID'] = 'ÐºÐ¾ÑˆÐµÐ»ÐµÐº Ð¿Ñ€Ð¾Ð´Ð°Ð²Ñ†Ð° - #MERCHANT_ID# ;';
+$MESS['SALE_HPS_PAYMASTER_DESC_SYS_INVS_NO'] = 'Ð½Ð¾Ð¼ÐµÑ€ ÑÑ‡ÐµÑ‚Ð° - #SYS_INVS_NO# ;';
+$MESS['SALE_HPS_PAYMASTER_DESC_SYS_TRANS_NO'] = 'Ð½Ð¾Ð¼ÐµÑ€ Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ð° - #SYS_TRANS_NO# ;';
+$MESS['SALE_HPS_PAYMASTER_DESC_SYS_TRANS_DATE'] = 'Ð´Ð°Ñ‚Ð° Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ð° - #SYS_TRANS_DATE# ;';
+$MESS['SALE_HPS_PAYMASTER_DESC_PAY_SYSTEM'] = 'Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ð½Ð°Ñ ÑÐ¸ÑÑ‚ÐµÐ¼Ð° - #PAY_SYSTEM# ;';
+$MESS['SALE_HPS_PAYMASTER_DESC_PAYER_PURSE'] = 'ÐºÐ¾ÑˆÐµÐ»ÐµÐº Ð¿Ð¾ÐºÑƒÐ¿Ð°Ñ‚ÐµÐ»Ñ - #PAYER_PURSE# ;';
+$MESS['SALE_HPS_PAYMASTER_DESC_PAYER_WM'] = 'WMId Ð¿Ð¾ÐºÑƒÐ¿Ð°Ñ‚ÐµÐ»Ñ - #PAYER_WM# ;';
+$MESS['SALE_HPS_PAYMASTER_DESC_PAYER_NUMBER'] = 'Ð½Ð¾Ð¼ÐµÑ€ Ð’Ðœ-ÐºÐ°Ñ€Ñ‚Ñ‹ - #PAYMER_NUMBER# ;';
+$MESS['SALE_HPS_PAYMASTER_DESC_PAYER_EMAIL'] = 'paymer.com e-mail Ð¿Ð¾ÐºÑƒÐ¿Ð°Ñ‚ÐµÐ»Ñ - #PAYMER_EMAIL# ;';
+$MESS['SALE_HPS_PAYMASTER_DESC_TELEPAT_PHONENUMBER'] = 'Ñ‚ÐµÐ»ÐµÑ„Ð¾Ð½ Ð¿Ð¾ÐºÑƒÐ¿Ð°Ñ‚ÐµÐ»Ñ - #TELEPAT_PHONENUMBER# ;';
+$MESS['SALE_HPS_PAYMASTER_DESC_TELEPAT_ORDERID'] = 'Ð¿Ð»Ð°Ñ‚ÐµÐ¶ Ð² Ð¢ÐµÐ»ÐµÐ¿Ð°Ñ‚Ðµ - #TELEPAT_ORDERID# ;';

@@ -1,4 +1,4 @@
 <?php
-$MESS['SALE_CASHBOX_ERROR_REPORT_PRINT'] = 'Îøèáêà ïðè ïå÷àòè îò÷åòà ##REPORT_ID#';
-$MESS['SALE_CASHBOX_ERROR_REPORT_ID'] = 'Íåêîððåêòíûé ID îò÷åòà';
-$MESS['SALE_CASHBOX_ERROR_REPORT_NOT_FOUND'] = 'Îò÷åò ##REPORT_ID# íå íàéäåí';
+$MESS['SALE_CASHBOX_ERROR_REPORT_PRINT'] = 'ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ Ð¿ÐµÑ‡Ð°Ñ‚Ð¸ Ð¾Ñ‚Ñ‡ÐµÑ‚Ð° ##REPORT_ID#';
+$MESS['SALE_CASHBOX_ERROR_REPORT_ID'] = 'ÐÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ñ‹Ð¹ ID Ð¾Ñ‚Ñ‡ÐµÑ‚Ð°';
+$MESS['SALE_CASHBOX_ERROR_REPORT_NOT_FOUND'] = 'ÐžÑ‚Ñ‡ÐµÑ‚ ##REPORT_ID# Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½';

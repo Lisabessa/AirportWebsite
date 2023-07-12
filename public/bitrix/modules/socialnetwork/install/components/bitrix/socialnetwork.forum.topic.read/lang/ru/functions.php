@@ -1,10 +1,10 @@
 <?
-$MESS ['F_STAT_TOPICS'] = "тем";
-$MESS ['F_STAT_TOPICS_1'] = "тема";
-$MESS ['F_STAT_TOPICS_2_4'] = "темы";
-$MESS ['F_STAT_POSTS'] = "сообщений";
-$MESS ['F_STAT_POSTS_1'] = "сообщение";
-$MESS ['F_STAT_POSTS_2_4'] = "сообщения";
-$MESS ['F_END_OV'] = "ов";
-$MESS ['F_END_A'] = "а";
+$MESS ['F_STAT_TOPICS'] = "С‚РµРј";
+$MESS ['F_STAT_TOPICS_1'] = "С‚РµРјР°";
+$MESS ['F_STAT_TOPICS_2_4'] = "С‚РµРјС‹";
+$MESS ['F_STAT_POSTS'] = "СЃРѕРѕР±С‰РµРЅРёР№";
+$MESS ['F_STAT_POSTS_1'] = "СЃРѕРѕР±С‰РµРЅРёРµ";
+$MESS ['F_STAT_POSTS_2_4'] = "СЃРѕРѕР±С‰РµРЅРёСЏ";
+$MESS ['F_END_OV'] = "РѕРІ";
+$MESS ['F_END_A'] = "Р°";
 ?>

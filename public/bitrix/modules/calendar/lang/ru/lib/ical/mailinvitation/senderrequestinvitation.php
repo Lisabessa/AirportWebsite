@@ -1,3 +1,3 @@
 <?php
-$MESS["EC_CALENDAR_ICAL_MAIL_METHOD_REQUEST"] = "Ïðèãëàøåíèå íà âñòðå÷ó";
-$MESS["EC_CALENDAR_ICAL_MAIL_HIDE_GUESTS_INFORMATION"] = "Îðãàíèçàòîð ñîáûòèÿ ñêðûë ñïèñîê ó÷àñòíèêîâ";
+$MESS["EC_CALENDAR_ICAL_MAIL_METHOD_REQUEST"] = "ÐŸÑ€Ð¸Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ðµ Ð½Ð° Ð²ÑÑ‚Ñ€ÐµÑ‡Ñƒ";
+$MESS["EC_CALENDAR_ICAL_MAIL_HIDE_GUESTS_INFORMATION"] = "ÐžÑ€Ð³Ð°Ð½Ð¸Ð·Ð°Ñ‚Ð¾Ñ€ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ ÑÐºÑ€Ñ‹Ð» ÑÐ¿Ð¸ÑÐ¾Ðº ÑƒÑ‡Ð°ÑÑ‚Ð½Ð¸ÐºÐ¾Ð²";

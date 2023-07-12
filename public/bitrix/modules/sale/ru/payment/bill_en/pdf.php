@@ -163,7 +163,7 @@ $pdf->Ln();
 
 $pdf->SetFont($fontFamily, '', $fontSize);
 
-// Ñïèñîê òîâàðîâ
+// Ð¡Ð¿Ð¸ÑÐ¾Ðº Ñ‚Ð¾Ð²Ð°Ñ€Ð¾Ð²
 $dbBasket = CSaleBasket::GetList(
 	array("NAME" => "ASC"),
 	array("ORDER_ID" => $ORDER_ID)

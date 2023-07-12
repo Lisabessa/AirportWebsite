@@ -1,6 +1,6 @@
 <?
-$MESS["ACCESS_DENIED"] = "Äîñòóï çàïðåùåí.";
-$MESS["ACCESS_DENIED_FILE"] = "Ïðîñìîòð ôàéëà #FILE# çàïðåùåí.";
-$MESS["main_include_decode_pass_err"]="Îøèáêà ïðè äåøèôðîâàíèè ïàðîëÿ (#ERRCODE#).";
-$MESS["main_include_decode_pass_sess"]="Âàøà ñåññèÿ èñòåêëà, ïîâòîðèòå ïîïûòêó àâòîðèçàöèè.";
+$MESS["ACCESS_DENIED"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ð·Ð°Ð¿Ñ€ÐµÑ‰ÐµÐ½.";
+$MESS["ACCESS_DENIED_FILE"] = "ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ Ñ„Ð°Ð¹Ð»Ð° #FILE# Ð·Ð°Ð¿Ñ€ÐµÑ‰ÐµÐ½.";
+$MESS["main_include_decode_pass_err"]="ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ Ð´ÐµÑˆÐ¸Ñ„Ñ€Ð¾Ð²Ð°Ð½Ð¸Ð¸ Ð¿Ð°Ñ€Ð¾Ð»Ñ (#ERRCODE#).";
+$MESS["main_include_decode_pass_sess"]="Ð’Ð°ÑˆÐ° ÑÐµÑÑÐ¸Ñ Ð¸ÑÑ‚ÐµÐºÐ»Ð°, Ð¿Ð¾Ð²Ñ‚Ð¾Ñ€Ð¸Ñ‚Ðµ Ð¿Ð¾Ð¿Ñ‹Ñ‚ÐºÑƒ Ð°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·Ð°Ñ†Ð¸Ð¸.";
 ?>

@@ -1,4 +1,4 @@
 <?
-$MESS["SALE_BASKET_COMPONENT_HELPER_PRODUCT_NOT_ENOUGH_QUANTITY"] = "Íåäîñòàòíÿ ê³ëüê³ñòü òîâàðó \"#PRODUCT_NAME#\"";
-$MESS["SALE_BASKET_COMPONENT_HELPER_PRODUCT_RATIO_NOT_FOUND"] = "Êîåô³ö³ºíò îäèíèö³ âèì³ðó òîâàðó \"#PRODUCT_NAME#\" íå çíàéäåíî";
+$MESS["SALE_BASKET_COMPONENT_HELPER_PRODUCT_NOT_ENOUGH_QUANTITY"] = "ÐÐµÐ´Ð¾ÑÑ‚Ð°Ñ‚Ð½Ñ ÐºÑ–Ð»ÑŒÐºÑ–ÑÑ‚ÑŒ Ñ‚Ð¾Ð²Ð°Ñ€Ñƒ \"#PRODUCT_NAME#\"";
+$MESS["SALE_BASKET_COMPONENT_HELPER_PRODUCT_RATIO_NOT_FOUND"] = "ÐšÐ¾ÐµÑ„Ñ–Ñ†Ñ–Ñ”Ð½Ñ‚ Ð¾Ð´Ð¸Ð½Ð¸Ñ†Ñ– Ð²Ð¸Ð¼Ñ–Ñ€Ñƒ Ñ‚Ð¾Ð²Ð°Ñ€Ñƒ \"#PRODUCT_NAME#\" Ð½Ðµ Ð·Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾";
 ?>

@@ -1,18 +1,18 @@
 <?
-$MESS["BLG_GCM_EMPTY_BLOG_ID"] = "Íå óêàçàí áëîã êîììåíòàðèÿ";
-$MESS["BLG_GCM_ERROR_NO_BLOG"] = "Áëîã ñ êîäîì &quot;#ID#&quot; íå íàéäåí";
-$MESS["BLG_GCM_EMPTY_POST_ID"] = "Íå óêàçàíî êîììåíòèðóåìîå ñîîáùåíèå";
-$MESS["BLG_GCM_ERROR_NO_POST"] = "Ñîîáùåíèå ñ êîäîì &quot;#ID#&quot; íå íàéäåíî";
-$MESS["BLG_GCM_ERROR_NO_COMMENT"] = "Êîììåíòàðèé ñ êîäîì &quot;#ID#&quot; íå íàéäåí";
-$MESS["BLG_GCM_EMPTY_AUTHOR_ID"] = "Íå óêàçàí àâòîð êîììåíòàðèÿ";
-$MESS["BLG_GCM_ERROR_NO_AUTHOR_ID"] = "Êîä àâòîðà êîììåíòàðèÿ óêàçàí íåâåðíî";
-$MESS["BLG_GCM_EMPTY_AUTHOR_NAME"] = "Íå óêàçàíî èìÿ àâòîðà êîììåíòàðèÿ";
-$MESS["BLG_GCM_ERROR_AUTHOR_EMAIL"] = "EMail àâòîðà êîììåíòàðèÿ óêàçàí íåâåðíî";
-$MESS["BLG_GCM_ERROR_DATE_CREATE"] = "Äàòà ñîçäàíèÿ êîììåíòàðèÿ óêàçàíà íåâåðíî";
-$MESS["BLG_GCM_EMPTY_POST_TEXT"] = "Íå ââåäåí òåêñò êîììåíòàðèÿ";
-$MESS["BLG_GCM_EMPTY_TITLE"] = "Íå óêàçàí çàãîëîâîê êîììåíòàðèÿ";
-$MESS["BLG_GCM_RSS_TITLE"] = "Êîììåíòàðèè â áëîãå \"#BLOG_NAME#\" íà \"#POST_TITLE#\"";
-$MESS["BLG_GCM_COMMENT_TITLE"] = "Êîììåíòàðèè íà \"#POST_TITLE#\" îò #COMMENT_AUTHOR#";
-$MESS["BLG_SONET_COMMENT_TITLE"] = "äîáàâèë(à) êîììåíòàðèé ê ñîîáùåíèþ \"#TITLE#\" â áëîãå";
-$MESS["BLG_GCM_RSS_TITLE_SOCNET"] = "#AUTHOR_NAME#: êîììåíòàðèè ê ñîîáùåíèþ \"#POST_TITLE#\"";
+$MESS["BLG_GCM_EMPTY_BLOG_ID"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ð±Ð»Ð¾Ð³ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ñ";
+$MESS["BLG_GCM_ERROR_NO_BLOG"] = "Ð‘Ð»Ð¾Ð³ Ñ ÐºÐ¾Ð´Ð¾Ð¼ &quot;#ID#&quot; Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
+$MESS["BLG_GCM_EMPTY_POST_ID"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð¸Ñ€ÑƒÐµÐ¼Ð¾Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ";
+$MESS["BLG_GCM_ERROR_NO_POST"] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ Ñ ÐºÐ¾Ð´Ð¾Ð¼ &quot;#ID#&quot; Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾";
+$MESS["BLG_GCM_ERROR_NO_COMMENT"] = "ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹ Ñ ÐºÐ¾Ð´Ð¾Ð¼ &quot;#ID#&quot; Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
+$MESS["BLG_GCM_EMPTY_AUTHOR_ID"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ð°Ð²Ñ‚Ð¾Ñ€ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ñ";
+$MESS["BLG_GCM_ERROR_NO_AUTHOR_ID"] = "ÐšÐ¾Ð´ Ð°Ð²Ñ‚Ð¾Ñ€Ð° ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ñ ÑƒÐºÐ°Ð·Ð°Ð½ Ð½ÐµÐ²ÐµÑ€Ð½Ð¾";
+$MESS["BLG_GCM_EMPTY_AUTHOR_NAME"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾ Ð¸Ð¼Ñ Ð°Ð²Ñ‚Ð¾Ñ€Ð° ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ñ";
+$MESS["BLG_GCM_ERROR_AUTHOR_EMAIL"] = "EMail Ð°Ð²Ñ‚Ð¾Ñ€Ð° ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ñ ÑƒÐºÐ°Ð·Ð°Ð½ Ð½ÐµÐ²ÐµÑ€Ð½Ð¾";
+$MESS["BLG_GCM_ERROR_DATE_CREATE"] = "Ð”Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ñ ÑƒÐºÐ°Ð·Ð°Ð½Ð° Ð½ÐµÐ²ÐµÑ€Ð½Ð¾";
+$MESS["BLG_GCM_EMPTY_POST_TEXT"] = "ÐÐµ Ð²Ð²ÐµÐ´ÐµÐ½ Ñ‚ÐµÐºÑÑ‚ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ñ";
+$MESS["BLG_GCM_EMPTY_TITLE"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ð·Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ñ";
+$MESS["BLG_GCM_RSS_TITLE"] = "ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¸ Ð² Ð±Ð»Ð¾Ð³Ðµ \"#BLOG_NAME#\" Ð½Ð° \"#POST_TITLE#\"";
+$MESS["BLG_GCM_COMMENT_TITLE"] = "ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¸ Ð½Ð° \"#POST_TITLE#\" Ð¾Ñ‚ #COMMENT_AUTHOR#";
+$MESS["BLG_SONET_COMMENT_TITLE"] = "Ð´Ð¾Ð±Ð°Ð²Ð¸Ð»(Ð°) ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹ Ðº ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸ÑŽ \"#TITLE#\" Ð² Ð±Ð»Ð¾Ð³Ðµ";
+$MESS["BLG_GCM_RSS_TITLE_SOCNET"] = "#AUTHOR_NAME#: ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¸ Ðº ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸ÑŽ \"#POST_TITLE#\"";
 ?>

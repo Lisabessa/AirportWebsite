@@ -1,5 +1,5 @@
 <?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Èíôîðìàöèîííûé ïîðòàë");
+$APPLICATION->SetTitle("Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ñ‹Ð¹ Ð¿Ð¾Ñ€Ñ‚Ð°Ð»");
 $GLOBALS["arrFilterMain"] = array("PROPERTY_MAIN_VALUE" => 1);
 ?><?$APPLICATION->IncludeComponent(
 	"bitrix:rss.out",

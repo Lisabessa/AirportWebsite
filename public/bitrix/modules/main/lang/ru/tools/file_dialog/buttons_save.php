@@ -1,14 +1,14 @@
 <?
-$MESS ['MAIN_FD_LAST_MENU_ITEM'] = "(ïîñëåäíèé ïóíêò)";
-$MESS ['MAIN_FD_TITLE'] = "Çàãîëîâîê ñòðàíèöû:";
-$MESS ['MAIN_FD_ADD_2_MENU'] = "Äîáàâèòü â ìåíþ:";
-$MESS ['MAIN_FD_ADD_2_MENU_NOT'] = "(íå äîáàâëÿòü)";
-$MESS ['MAIN_FD_ADD_2_MENU_ITEM'] = "Ïóíêò ìåíþ:";
-$MESS ['MAIN_FD_ADD_2_MENU_ADD_NEW'] = "Äîáàâèòü íîâûé";
-$MESS ['MAIN_FD_ADD_2_MENU_REUSE'] = "Ïðèâÿçàòü ê òåêóùåìó";
-$MESS ['MAIN_FD_ADD_2_MENU_NEW_NAME'] = "Íàçâàíèå íîâîãî ïóíêòà:";
-$MESS ['MAIN_FD_ADD_2_MENU_REUSE_NAME'] = "Âñòàâèòü ïåðåä ïóíêòîì:";
-$MESS ['MAIN_FD_ADD_2_MENU_REUSE_ITEM'] = "Ïðèâÿçàòü ê ïóíêòó:";
-$MESS ['MAIN_FD_ADD_2_MENU_NA'] = "(íåò äàííûõ)";
-$MESS ['MAIN_FD_SAVE'] = "Ñîõðàíèòü";
+$MESS ['MAIN_FD_LAST_MENU_ITEM'] = "(Ð¿Ð¾ÑÐ»ÐµÐ´Ð½Ð¸Ð¹ Ð¿ÑƒÐ½ÐºÑ‚)";
+$MESS ['MAIN_FD_TITLE'] = "Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹:";
+$MESS ['MAIN_FD_ADD_2_MENU'] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð² Ð¼ÐµÐ½ÑŽ:";
+$MESS ['MAIN_FD_ADD_2_MENU_NOT'] = "(Ð½Ðµ Ð´Ð¾Ð±Ð°Ð²Ð»ÑÑ‚ÑŒ)";
+$MESS ['MAIN_FD_ADD_2_MENU_ITEM'] = "ÐŸÑƒÐ½ÐºÑ‚ Ð¼ÐµÐ½ÑŽ:";
+$MESS ['MAIN_FD_ADD_2_MENU_ADD_NEW'] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð½Ð¾Ð²Ñ‹Ð¹";
+$MESS ['MAIN_FD_ADD_2_MENU_REUSE'] = "ÐŸÑ€Ð¸Ð²ÑÐ·Ð°Ñ‚ÑŒ Ðº Ñ‚ÐµÐºÑƒÑ‰ÐµÐ¼Ñƒ";
+$MESS ['MAIN_FD_ADD_2_MENU_NEW_NAME'] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð½Ð¾Ð²Ð¾Ð³Ð¾ Ð¿ÑƒÐ½ÐºÑ‚Ð°:";
+$MESS ['MAIN_FD_ADD_2_MENU_REUSE_NAME'] = "Ð’ÑÑ‚Ð°Ð²Ð¸Ñ‚ÑŒ Ð¿ÐµÑ€ÐµÐ´ Ð¿ÑƒÐ½ÐºÑ‚Ð¾Ð¼:";
+$MESS ['MAIN_FD_ADD_2_MENU_REUSE_ITEM'] = "ÐŸÑ€Ð¸Ð²ÑÐ·Ð°Ñ‚ÑŒ Ðº Ð¿ÑƒÐ½ÐºÑ‚Ñƒ:";
+$MESS ['MAIN_FD_ADD_2_MENU_NA'] = "(Ð½ÐµÑ‚ Ð´Ð°Ð½Ð½Ñ‹Ñ…)";
+$MESS ['MAIN_FD_SAVE'] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ";
 ?>

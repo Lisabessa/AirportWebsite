@@ -1,10 +1,10 @@
 <?
-$MESS["PERFMON_HIST_TITLE"] = "Èñòîðèÿ çàìåðîâ ïðîèçâîäèòåëüíîñòè";
-$MESS["PERFMON_HIST_ACCELERATOR_ENABLED"] = "Àêñåëåðàòîð";
+$MESS["PERFMON_HIST_TITLE"] = "Ð˜ÑÑ‚Ð¾Ñ€Ð¸Ñ Ð·Ð°Ð¼ÐµÑ€Ð¾Ð² Ð¿Ñ€Ð¾Ð¸Ð·Ð²Ð¾Ð´Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾ÑÑ‚Ð¸";
+$MESS["PERFMON_HIST_ACCELERATOR_ENABLED"] = "ÐÐºÑÐµÐ»ÐµÑ€Ð°Ñ‚Ð¾Ñ€";
 $MESS["PERFMON_HIST_ID"] = "ID";
-$MESS["PERFMON_HIST_TIMESTAMP_X"] = "Âðåìÿ";
-$MESS["PERFMON_HIST_TOTAL_MARK"] = "Êîíôèãóðàöèÿ";
-$MESS["PERFMON_HIST_DELETE"] = "Óäàëèòü";
-$MESS["PERFMON_HIST_DELETE_CONFIRM"] = "Âû óâåðåíû, ÷òî õîòèòå óäàëèòü ðåçóëüòàò?";
-$MESS["PERFMON_HIST_PAGE"] = "Çàìåðû";
+$MESS["PERFMON_HIST_TIMESTAMP_X"] = "Ð’Ñ€ÐµÐ¼Ñ";
+$MESS["PERFMON_HIST_TOTAL_MARK"] = "ÐšÐ¾Ð½Ñ„Ð¸Ð³ÑƒÑ€Ð°Ñ†Ð¸Ñ";
+$MESS["PERFMON_HIST_DELETE"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";
+$MESS["PERFMON_HIST_DELETE_CONFIRM"] = "Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹, Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ Ñ€ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚?";
+$MESS["PERFMON_HIST_PAGE"] = "Ð—Ð°Ð¼ÐµÑ€Ñ‹";
 ?>

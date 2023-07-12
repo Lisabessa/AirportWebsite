@@ -1,7 +1,7 @@
 <?
-$MESS["COMMAND_LANG_ENTITY_ID_FIELD"] = "Èäåíòèôèêàòîð ïåðåâîäà";
-$MESS["COMMAND_LANG_ENTITY_COMMAND_ID_FIELD"] = "Èäåíòèôèêàòîð êîìàíäû";
-$MESS["COMMAND_LANG_ENTITY_LANGUAGE_ID_FIELD"] = "Èäåíòèôèêàòîð ÿçûêà";
-$MESS["COMMAND_LANG_ENTITY_TITLE_FIELD"] = "Îïèñàíèå êîìàíäû";
-$MESS["COMMAND_LANG_ENTITY_PARAMS_FIELD"] = "Îïèñàíèå ïàðàìåòðîâ êîìàíäû";
+$MESS["COMMAND_LANG_ENTITY_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¿ÐµÑ€ÐµÐ²Ð¾Ð´Ð°";
+$MESS["COMMAND_LANG_ENTITY_COMMAND_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÐºÐ¾Ð¼Ð°Ð½Ð´Ñ‹";
+$MESS["COMMAND_LANG_ENTITY_LANGUAGE_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÐ·Ñ‹ÐºÐ°";
+$MESS["COMMAND_LANG_ENTITY_TITLE_FIELD"] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ ÐºÐ¾Ð¼Ð°Ð½Ð´Ñ‹";
+$MESS["COMMAND_LANG_ENTITY_PARAMS_FIELD"] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð¾Ð² ÐºÐ¾Ð¼Ð°Ð½Ð´Ñ‹";
 ?>

@@ -1,16 +1,16 @@
 <?
-$MESS["STE_EMPTY_CURRENCY"] = "Das Feld \"Währung\" wurde nicht ausgefüllt";
-$MESS["STE_EMPTY_SUM"] = "Das Feld \"Summe\" wurde nicht ausgefüllt";
-$MESS["STE_EMPTY_DATE"] = "Das Feld \"Transaktionsdatum\" wurde nicht ausgefüllt";
+$MESS["STE_EMPTY_CURRENCY"] = "Das Feld \"WÃ¤hrung\" wurde nicht ausgefÃ¼llt";
+$MESS["STE_EMPTY_SUM"] = "Das Feld \"Summe\" wurde nicht ausgefÃ¼llt";
+$MESS["STE_EMPTY_DATE"] = "Das Feld \"Transaktionsdatum\" wurde nicht ausgefÃ¼llt";
 $MESS["STE_ERROR_SAVE_ACCOUNT"] = "Beim Speichern des Kontos ist ein Fehler aufgetreten";
 $MESS["STE_TITLE"] = "Neue Transaktion";
 $MESS["STE_TO_LIST"] = "Transaktionen";
 $MESS["STE_SUM"] = "Summe:";
-$MESS["STE_CURRENCY"] = "Währung:";
+$MESS["STE_CURRENCY"] = "WÃ¤hrung:";
 $MESS["STE_TYPE"] = "Typ des Eintrags";
 $MESS["STE_DEBET"] = "Auf das interne Konto des Nutzers einzahlen";
 $MESS["STE_KREDIT"] = "Die Betrag wird vom Nutzerkonto abgebucht";
-$MESS["STE_ORDER_ID"] = "Bestellungs Nr. (wenn die Transaktion zur Bestellung gehört):";
+$MESS["STE_ORDER_ID"] = "Bestellungs Nr. (wenn die Transaktion zur Bestellung gehÃ¶rt):";
 $MESS["STE_DESCR"] = "Beschreibung:";
 $MESS["STE_NOTES"] = "Anmekrungen:";
 $MESS["STE_SAVE"] = "Speichern";

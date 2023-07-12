@@ -1,12 +1,12 @@
 <?
-$MESS["SALE_ACTION"] = "Ä³¿";
-$MESS["SALE_DETAIL"] = "Çì³íèòè";
-$MESS["P_NAME"] = "Íàçâà";
-$MESS["P_ID"] = "Êîä";
-$MESS["P_PERSON_TYPE"] = "Òèï ïëàòíèêà";
-$MESS["SALE_DELETE"] = "Âèäàëèòè";
-$MESS["SALE_DETAIL_DESCR"] = "Çì³íèòè ïðîô³ëü";
-$MESS["SALE_DELETE_DESCR"] = "Âèäàëèòè ïðîô³ëü";
-$MESS["SALE_PRLIST"] = "Ïðîô³ë³";
-$MESS["P_DATE_UPDATE"] = "Äàòà ïîíîâëåííÿ";
+$MESS["SALE_ACTION"] = "Ð”Ñ–Ñ—";
+$MESS["SALE_DETAIL"] = "Ð—Ð¼Ñ–Ð½Ð¸Ñ‚Ð¸";
+$MESS["P_NAME"] = "ÐÐ°Ð·Ð²Ð°";
+$MESS["P_ID"] = "ÐšÐ¾Ð´";
+$MESS["P_PERSON_TYPE"] = "Ð¢Ð¸Ð¿ Ð¿Ð»Ð°Ñ‚Ð½Ð¸ÐºÐ°";
+$MESS["SALE_DELETE"] = "Ð’Ð¸Ð´Ð°Ð»Ð¸Ñ‚Ð¸";
+$MESS["SALE_DETAIL_DESCR"] = "Ð—Ð¼Ñ–Ð½Ð¸Ñ‚Ð¸ Ð¿Ñ€Ð¾Ñ„Ñ–Ð»ÑŒ";
+$MESS["SALE_DELETE_DESCR"] = "Ð’Ð¸Ð´Ð°Ð»Ð¸Ñ‚Ð¸ Ð¿Ñ€Ð¾Ñ„Ñ–Ð»ÑŒ";
+$MESS["SALE_PRLIST"] = "ÐŸÑ€Ð¾Ñ„Ñ–Ð»Ñ–";
+$MESS["P_DATE_UPDATE"] = "Ð”Ð°Ñ‚Ð° Ð¿Ð¾Ð½Ð¾Ð²Ð»ÐµÐ½Ð½Ñ";
 ?>

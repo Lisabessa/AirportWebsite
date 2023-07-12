@@ -1,4 +1,4 @@
 <?
-$MESS["MAIN_OPT_MENU_BOTTOM_R"] = "Íèæíåå ìåíþ - ðàçäåëû";
-$MESS["MAIN_OPT_MENU_BOTTOM_I"] = "Íèæíåå ìåíþ - èíôîðìàöèÿ";
+$MESS["MAIN_OPT_MENU_BOTTOM_R"] = "ÐÐ¸Ð¶Ð½ÐµÐµ Ð¼ÐµÐ½ÑŽ - Ñ€Ð°Ð·Ð´ÐµÐ»Ñ‹";
+$MESS["MAIN_OPT_MENU_BOTTOM_I"] = "ÐÐ¸Ð¶Ð½ÐµÐµ Ð¼ÐµÐ½ÑŽ - Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ñ";
 ?>

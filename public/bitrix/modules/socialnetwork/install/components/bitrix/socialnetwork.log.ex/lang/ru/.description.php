@@ -1,5 +1,5 @@
 <?
-$MESS ['SONET_LOG_TEMPLATE_NAME'] = "Ëîã èçìåíåíèé";
-$MESS ['SONET_LOG_TEMPLATE_DESCRIPTION'] = "Âûâîäèò ëîã èçìåíåíèé";
-$MESS ['SONET_NAME'] = "Ñîöèàëüíàÿ ñåòü";
+$MESS ['SONET_LOG_TEMPLATE_NAME'] = "Ð›Ð¾Ð³ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ð¹";
+$MESS ['SONET_LOG_TEMPLATE_DESCRIPTION'] = "Ð’Ñ‹Ð²Ð¾Ð´Ð¸Ñ‚ Ð»Ð¾Ð³ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ð¹";
+$MESS ['SONET_NAME'] = "Ð¡Ð¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð°Ñ ÑÐµÑ‚ÑŒ";
 ?>

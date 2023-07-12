@@ -1,6 +1,6 @@
 <?php
-$MESS['WITHOUT_DATA'] = 'Áåç äàííûõ';
-$MESS['SELECT_REPORT_HANDLER_CATEGORY'] = 'Êàòåãîðèÿ:';
-$MESS['SELECT_DATA_PROVIDER'] = 'Èñòî÷íèê:';
-$MESS['BASE_REPORT_HANDLER_GROUPING'] = 'Ãðóïïèðîâêà ïî:';
-$MESS['BASE_REPORT_HANDLER_WHAT_WILL_CALCULATE'] = '×òî ñ÷èòàåì:';
+$MESS['WITHOUT_DATA'] = 'Ð‘ÐµÐ· Ð´Ð°Ð½Ð½Ñ‹Ñ…';
+$MESS['SELECT_REPORT_HANDLER_CATEGORY'] = 'ÐšÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ñ:';
+$MESS['SELECT_DATA_PROVIDER'] = 'Ð˜ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº:';
+$MESS['BASE_REPORT_HANDLER_GROUPING'] = 'Ð“Ñ€ÑƒÐ¿Ð¿Ð¸Ñ€Ð¾Ð²ÐºÐ° Ð¿Ð¾:';
+$MESS['BASE_REPORT_HANDLER_WHAT_WILL_CALCULATE'] = 'Ð§Ñ‚Ð¾ ÑÑ‡Ð¸Ñ‚Ð°ÐµÐ¼:';

@@ -1,20 +1,20 @@
 <?
 global $MESS;
 
-$MESS["SPCP_DTITLE"] = "Бином";
-$MESS["SPCP_DDESCR"] = "<a href=\"http://ehouseholding.ru/docs/binom_direct.htm\">Правила оплаты по Системе Бином в формате direct</a>";
-$MESS["SHOP_ACCOUNT"] = "Идентификатор магазина";
-$MESS["SHOP_ACCOUNT_DESCR"] = "Код магазина, который получен от Бином";
-$MESS["ORDER_LIFE_TIME"] = "Время актуальности заказа";
+$MESS["SPCP_DTITLE"] = "Р‘РёРЅРѕРј";
+$MESS["SPCP_DDESCR"] = "<a href=\"http://ehouseholding.ru/docs/binom_direct.htm\">РџСЂР°РІРёР»Р° РѕРїР»Р°С‚С‹ РїРѕ РЎРёСЃС‚РµРјРµ Р‘РёРЅРѕРј РІ С„РѕСЂРјР°С‚Рµ direct</a>";
+$MESS["SHOP_ACCOUNT"] = "РРґРµРЅС‚РёС„РёРєР°С‚РѕСЂ РјР°РіР°Р·РёРЅР°";
+$MESS["SHOP_ACCOUNT_DESCR"] = "РљРѕРґ РјР°РіР°Р·РёРЅР°, РєРѕС‚РѕСЂС‹Р№ РїРѕР»СѓС‡РµРЅ РѕС‚ Р‘РёРЅРѕРј";
+$MESS["ORDER_LIFE_TIME"] = "Р’СЂРµРјСЏ Р°РєС‚СѓР°Р»СЊРЅРѕСЃС‚Рё Р·Р°РєР°Р·Р°";
 $MESS["ORDER_LIFE_TIME_DESCR"] = "";
-$MESS["SHOP_CLIENT_NAME"] = "Имя клиента";
+$MESS["SHOP_CLIENT_NAME"] = "РРјСЏ РєР»РёРµРЅС‚Р°";
 $MESS["SHOP_CLIENT_NAME_DESCR"] = "";
-$MESS["EMAIL"] = "Email клиента";
+$MESS["EMAIL"] = "Email РєР»РёРµРЅС‚Р°";
 $MESS["EMAIL_DESCR"] = "";
-$MESS["SHOULD_PAY"] = "Сумма заказа";
-$MESS["SHOULD_PAY_DESCR"] = "Сумма к оплате";
-$MESS["CURRENCY"] = "Валюта";
-$MESS["CURRENCY_DESCR"] = "Валюта в которой производится оплата";
-$MESS["DATE_INSERT"] = "Дата создания заказа";
+$MESS["SHOULD_PAY"] = "РЎСѓРјРјР° Р·Р°РєР°Р·Р°";
+$MESS["SHOULD_PAY_DESCR"] = "РЎСѓРјРјР° Рє РѕРїР»Р°С‚Рµ";
+$MESS["CURRENCY"] = "Р’Р°Р»СЋС‚Р°";
+$MESS["CURRENCY_DESCR"] = "Р’Р°Р»СЋС‚Р° РІ РєРѕС‚РѕСЂРѕР№ РїСЂРѕРёР·РІРѕРґРёС‚СЃСЏ РѕРїР»Р°С‚Р°";
+$MESS["DATE_INSERT"] = "Р”Р°С‚Р° СЃРѕР·РґР°РЅРёСЏ Р·Р°РєР°Р·Р°";
 $MESS["DATE_INSERT_DESCR"] = "";
 ?>

@@ -1,5 +1,5 @@
 <?
-$MESS["user_phone_auth_err_number"] = "Íîìåð òåëåôîíà íå ìîæåò áûòü ïóñòûì.";
-$MESS["user_phone_auth_err_duplicte"] = "Ïîëüçîâàòåëü ñ íîìåðîì òåëåôîíà #VALUE# óæå ñóùåñòâóåò.";
-$MESS["user_phone_auth_err_incorrect_number"] = "Óêàçàí íåêîððåêòíûé íîìåð òåëåôîíà.";
+$MESS["user_phone_auth_err_number"] = "ÐÐ¾Ð¼ÐµÑ€ Ñ‚ÐµÐ»ÐµÑ„Ð¾Ð½Ð° Ð½Ðµ Ð¼Ð¾Ð¶ÐµÑ‚ Ð±Ñ‹Ñ‚ÑŒ Ð¿ÑƒÑÑ‚Ñ‹Ð¼.";
+$MESS["user_phone_auth_err_duplicte"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ Ñ Ð½Ð¾Ð¼ÐµÑ€Ð¾Ð¼ Ñ‚ÐµÐ»ÐµÑ„Ð¾Ð½Ð° #VALUE# ÑƒÐ¶Ðµ ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÐµÑ‚.";
+$MESS["user_phone_auth_err_incorrect_number"] = "Ð£ÐºÐ°Ð·Ð°Ð½ Ð½ÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ñ‹Ð¹ Ð½Ð¾Ð¼ÐµÑ€ Ñ‚ÐµÐ»ÐµÑ„Ð¾Ð½Ð°.";
 ?>

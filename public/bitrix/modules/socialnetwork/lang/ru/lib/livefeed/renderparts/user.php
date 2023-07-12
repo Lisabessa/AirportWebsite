@@ -1,4 +1,4 @@
 <?
-$MESS["SONET_LIVEFEED_RENDERPARTS_USER_ALL"] = "Âñå ñîòðóäíèêè";
-$MESS["SONET_LIVEFEED_RENDERPARTS_USER_ALL_BUS"] = "Âñå ïîëüçîâàòåëè";
+$MESS["SONET_LIVEFEED_RENDERPARTS_USER_ALL"] = "Ð’ÑÐµ ÑÐ¾Ñ‚Ñ€ÑƒÐ´Ð½Ð¸ÐºÐ¸";
+$MESS["SONET_LIVEFEED_RENDERPARTS_USER_ALL_BUS"] = "Ð’ÑÐµ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ð¸";
 ?>

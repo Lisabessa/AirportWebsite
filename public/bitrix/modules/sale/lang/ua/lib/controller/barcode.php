@@ -1,5 +1,5 @@
 <?
-$MESS["SALE_CONTROLLER_BARCODE_ACCESS_DENIED"] = "Äîñòóï çàáîðîíåíî";
-$MESS["SALE_CONTROLLER_BARCODE_ERROR_BASKET_ID"] = "²äåíòèô³êàòîð êîøèêà ïîâèíåí áóòè á³ëüøå íóëÿ";
-$MESS["SALE_CONTROLLER_BARCODE_ERROR_ORDER_ID"] = "²äåíòèô³êàòîð çàìîâëåííÿ ïîâèíåí áóòè á³ëüøå íóëÿ";
+$MESS["SALE_CONTROLLER_BARCODE_ACCESS_DENIED"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ð·Ð°Ð±Ð¾Ñ€Ð¾Ð½ÐµÐ½Ð¾";
+$MESS["SALE_CONTROLLER_BARCODE_ERROR_BASKET_ID"] = "Ð†Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÐ°Ñ‚Ð¾Ñ€ ÐºÐ¾ÑˆÐ¸ÐºÐ° Ð¿Ð¾Ð²Ð¸Ð½ÐµÐ½ Ð±ÑƒÑ‚Ð¸ Ð±Ñ–Ð»ÑŒÑˆÐµ Ð½ÑƒÐ»Ñ";
+$MESS["SALE_CONTROLLER_BARCODE_ERROR_ORDER_ID"] = "Ð†Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÐ°Ñ‚Ð¾Ñ€ Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ Ð¿Ð¾Ð²Ð¸Ð½ÐµÐ½ Ð±ÑƒÑ‚Ð¸ Ð±Ñ–Ð»ÑŒÑˆÐµ Ð½ÑƒÐ»Ñ";
 ?>

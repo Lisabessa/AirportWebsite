@@ -1,11 +1,11 @@
 <?php
-$MESS['SALE_HPS_ROBOXCHANGE_RES_NUMBER'] = 'Íîìåð ñ÷¸òà â ìàãàçèíå';
-$MESS['SALE_HPS_ROBOXCHANGE_RES_DATEPAY'] = 'Äàòà ïëàòåæà';
-$MESS['SALE_HPS_ROBOXCHANGE_RES_PAYED'] = 'Îïëà÷åí';
-$MESS['SALE_HPS_ROBOXCHANGE_RES_PAY_TYPE'] = 'Ñïîñîá îïëàòû';
-$MESS["SALE_HPS_ROBOXCHANGE_BANKCARD_MODE"] = "Áàíêîâñêàÿ êàðòà";
-$MESS["SALE_HPS_ROBOXCHANGE_ALFABANK_MODE"] = "Àëüôà-Êëèê";
+$MESS['SALE_HPS_ROBOXCHANGE_RES_NUMBER'] = 'ÐÐ¾Ð¼ÐµÑ€ ÑÑ‡Ñ‘Ñ‚Ð° Ð² Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ðµ';
+$MESS['SALE_HPS_ROBOXCHANGE_RES_DATEPAY'] = 'Ð”Ð°Ñ‚Ð° Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ð°';
+$MESS['SALE_HPS_ROBOXCHANGE_RES_PAYED'] = 'ÐžÐ¿Ð»Ð°Ñ‡ÐµÐ½';
+$MESS['SALE_HPS_ROBOXCHANGE_RES_PAY_TYPE'] = 'Ð¡Ð¿Ð¾ÑÐ¾Ð± Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹';
+$MESS["SALE_HPS_ROBOXCHANGE_BANKCARD_MODE"] = "Ð‘Ð°Ð½ÐºÐ¾Ð²ÑÐºÐ°Ñ ÐºÐ°Ñ€Ñ‚Ð°";
+$MESS["SALE_HPS_ROBOXCHANGE_ALFABANK_MODE"] = "ÐÐ»ÑŒÑ„Ð°-ÐšÐ»Ð¸Ðº";
 $MESS["SALE_HPS_ROBOXCHANGE_APPLEPAY_MODE"] = "Apple Pay";
 $MESS["SALE_HPS_ROBOXCHANGE_SAMSUNGPAY_MODE"] = "Samsung Pay";
-$MESS["SALE_HPS_ROBOXCHANGE_INCORRECT_HASH"] = "Êîíòðîëüíàÿ ñóììà íå ñîâïàäàåò";
-$MESS["SALE_HPS_ROBOXCHANGE_ERROR_EMPTY_RECEIPT"] = "Îøèáêà ïðè ôîðìèðîâàíèè ÷åêà";
+$MESS["SALE_HPS_ROBOXCHANGE_INCORRECT_HASH"] = "ÐšÐ¾Ð½Ñ‚Ñ€Ð¾Ð»ÑŒÐ½Ð°Ñ ÑÑƒÐ¼Ð¼Ð° Ð½Ðµ ÑÐ¾Ð²Ð¿Ð°Ð´Ð°ÐµÑ‚";
+$MESS["SALE_HPS_ROBOXCHANGE_ERROR_EMPTY_RECEIPT"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ Ñ„Ð¾Ñ€Ð¼Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ð¸ Ñ‡ÐµÐºÐ°";

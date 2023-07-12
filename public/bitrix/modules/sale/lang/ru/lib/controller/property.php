@@ -1,6 +1,6 @@
 <?
-$MESS['CONTROLLER_ERROR_PROPERTY_NOT_EXISTS'] = 'Ñâîéñòâî íå ñóùåñòâóåò. [#ID#]';
-$MESS['CONTROLLER_ERROR_DELETE_PROPERTY'] = 'Îøèáêà óäàëåíèÿ ñâîéñòâà. [#ID#]';
-$MESS['CONTROLLER_ERROR_PERSON_TYPE_ID_IS_EMPTY']='Çíà÷åíèÿ äëÿ òèïà ïëàòåëüùèêà íå ïåðåäàíî. [#ID#]';
-$MESS['CONTROLLER_ERROR_CHANGE_TYPE']='Ñìåíà òèïà íåâîçìîæíà. [#ID#]';
+$MESS['CONTROLLER_ERROR_PROPERTY_NOT_EXISTS'] = 'Ð¡Ð²Ð¾Ð¹ÑÑ‚Ð²Ð¾ Ð½Ðµ ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÐµÑ‚. [#ID#]';
+$MESS['CONTROLLER_ERROR_DELETE_PROPERTY'] = 'ÐžÑˆÐ¸Ð±ÐºÐ° ÑƒÐ´Ð°Ð»ÐµÐ½Ð¸Ñ ÑÐ²Ð¾Ð¹ÑÑ‚Ð²Ð°. [#ID#]';
+$MESS['CONTROLLER_ERROR_PERSON_TYPE_ID_IS_EMPTY']='Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ñ Ð´Ð»Ñ Ñ‚Ð¸Ð¿Ð° Ð¿Ð»Ð°Ñ‚ÐµÐ»ÑŒÑ‰Ð¸ÐºÐ° Ð½Ðµ Ð¿ÐµÑ€ÐµÐ´Ð°Ð½Ð¾. [#ID#]';
+$MESS['CONTROLLER_ERROR_CHANGE_TYPE']='Ð¡Ð¼ÐµÐ½Ð° Ñ‚Ð¸Ð¿Ð° Ð½ÐµÐ²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð°. [#ID#]';
 ?>

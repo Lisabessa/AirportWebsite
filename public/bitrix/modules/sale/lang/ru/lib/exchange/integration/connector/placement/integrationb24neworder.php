@@ -1,3 +1,3 @@
 <?php
-$MESS ['SALE_INTEGRATIONB24_NEWORDER_TITLE'] = "Íîâûé çàêàç";
-$MESS ['SALE_INTEGRATIONB24_NEWORDER_GROUPNAME'] = "Èíòåãðàöèÿ c ÁÓÑ";
+$MESS ['SALE_INTEGRATIONB24_NEWORDER_TITLE'] = "ÐÐ¾Ð²Ñ‹Ð¹ Ð·Ð°ÐºÐ°Ð·";
+$MESS ['SALE_INTEGRATIONB24_NEWORDER_GROUPNAME'] = "Ð˜Ð½Ñ‚ÐµÐ³Ñ€Ð°Ñ†Ð¸Ñ c Ð‘Ð£Ð¡";

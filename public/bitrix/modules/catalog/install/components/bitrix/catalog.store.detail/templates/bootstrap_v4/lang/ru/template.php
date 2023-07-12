@@ -1,7 +1,7 @@
 <?
-$MESS["BACK_STORE_LIST"] = "Ê ñïèñêó ñêëàäîâ";
-$MESS["S_NAME"] = "Íàçâàíèå:";
-$MESS["S_PHONE"] = "Òåëåôîí:";
-$MESS["S_ADDRESS"] = "Àäðåñ:";
-$MESS["S_SCHEDULE"] = "Ãðàôèê ðàáîòû:";
+$MESS["BACK_STORE_LIST"] = "Ðš ÑÐ¿Ð¸ÑÐºÑƒ ÑÐºÐ»Ð°Ð´Ð¾Ð²";
+$MESS["S_NAME"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ:";
+$MESS["S_PHONE"] = "Ð¢ÐµÐ»ÐµÑ„Ð¾Ð½:";
+$MESS["S_ADDRESS"] = "ÐÐ´Ñ€ÐµÑ:";
+$MESS["S_SCHEDULE"] = "Ð“Ñ€Ð°Ñ„Ð¸Ðº Ñ€Ð°Ð±Ð¾Ñ‚Ñ‹:";
 ?>

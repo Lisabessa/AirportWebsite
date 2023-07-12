@@ -1,17 +1,17 @@
 <?
-$MESS ['MAIN_T_EDIT_TEMPL_LIST'] = "Ñïèñîê øàáëîíîâ ñàéòîâ";
-$MESS ['MAIN_T_EDIT_IMP_ERR'] = "Îøèáêà èìïîðòà øàáëîíà";
-$MESS ['MAIN_TEMPLATE_LOAD_ERR_LOAD'] = "Âûáåðèòå ôàéë äëÿ çàãðóçêè";
-$MESS ['MAIN_TEMPLATE_LOAD_ERR_ID'] = "Ââåäèòå èäåíòèôèêàòîð øàáëîíà";
-$MESS ['MAIN_TEMPLATE_LOAD_ERR_EX'] = "Øàáëîí #TEMPLATE_NAME# óæå ñóùåñòâóåò.";
-$MESS ['MAIN_TEMPLATE_LOAD_OK'] = "Øàáëîí #TEMPLATE_NAME# óñïåøíî çàãðóæåí.";
-$MESS ['MAIN_TEMPLATE_LOAD_TITLE'] = "Èìïîðò øàáëîíà";
-$MESS ['MAIN_TEMPLATE_LOAD_FILE'] = "Ôàéë ñ øàáëîíîì äëÿ çàãðóçêè (*.gz):";
-$MESS ['MAIN_TEMPLATE_LOAD_ID'] = "Êîä øàáëîíà:";
-$MESS ['MAIN_TEMPLATE_LOAD_SITE_ID'] = "Ïðèâÿçàòü êàê øàáëîí ïî óìîë÷àíèþ ê ñàéòó:";
-$MESS ['MAIN_TEMPLATE_LOAD_SITE_ID_N'] = "(íå ïðèâÿçûâàòü)";
-$MESS ['MAIN_TEMPLATE_LOAD_GOTO_EDIT'] = "Ïåðåéòè ïîñëå ñîõðàíåíèÿ íà ñòðàíèöó ðåäàêòèðîâàíèÿ øàáëîíà:";
-$MESS ['MAIN_TEMPLATE_LOAD_SUBMIT'] = "Çàãðóçèòü";
-$MESS ['MAIN_TEMPLATE_LOAD_WARN_UTF'] = "Îáðàòèòå âíèìàíèå, ôàéëû øàáëîíà äîëæíû áûòü â êîäèðîâêå UTF-8.";
-$MESS ['MAIN_TEMPLATE_LOAD_WARN_NON_UTF'] = "Îáðàòèòå âíèìàíèå, êîäèðîâêà ôàéëîâ øàáëîíà äîëæíà ñîîòâåòñòâîâàòü êîäèðîâêå ñàéòà.";
+$MESS ['MAIN_T_EDIT_TEMPL_LIST'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº ÑˆÐ°Ð±Ð»Ð¾Ð½Ð¾Ð² ÑÐ°Ð¹Ñ‚Ð¾Ð²";
+$MESS ['MAIN_T_EDIT_IMP_ERR'] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¸Ð¼Ð¿Ð¾Ñ€Ñ‚Ð° ÑˆÐ°Ð±Ð»Ð¾Ð½Ð°";
+$MESS ['MAIN_TEMPLATE_LOAD_ERR_LOAD'] = "Ð’Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ Ñ„Ð°Ð¹Ð» Ð´Ð»Ñ Ð·Ð°Ð³Ñ€ÑƒÐ·ÐºÐ¸";
+$MESS ['MAIN_TEMPLATE_LOAD_ERR_ID'] = "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑˆÐ°Ð±Ð»Ð¾Ð½Ð°";
+$MESS ['MAIN_TEMPLATE_LOAD_ERR_EX'] = "Ð¨Ð°Ð±Ð»Ð¾Ð½ #TEMPLATE_NAME# ÑƒÐ¶Ðµ ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÐµÑ‚.";
+$MESS ['MAIN_TEMPLATE_LOAD_OK'] = "Ð¨Ð°Ð±Ð»Ð¾Ð½ #TEMPLATE_NAME# ÑƒÑÐ¿ÐµÑˆÐ½Ð¾ Ð·Ð°Ð³Ñ€ÑƒÐ¶ÐµÐ½.";
+$MESS ['MAIN_TEMPLATE_LOAD_TITLE'] = "Ð˜Ð¼Ð¿Ð¾Ñ€Ñ‚ ÑˆÐ°Ð±Ð»Ð¾Ð½Ð°";
+$MESS ['MAIN_TEMPLATE_LOAD_FILE'] = "Ð¤Ð°Ð¹Ð» Ñ ÑˆÐ°Ð±Ð»Ð¾Ð½Ð¾Ð¼ Ð´Ð»Ñ Ð·Ð°Ð³Ñ€ÑƒÐ·ÐºÐ¸ (*.gz):";
+$MESS ['MAIN_TEMPLATE_LOAD_ID'] = "ÐšÐ¾Ð´ ÑˆÐ°Ð±Ð»Ð¾Ð½Ð°:";
+$MESS ['MAIN_TEMPLATE_LOAD_SITE_ID'] = "ÐŸÑ€Ð¸Ð²ÑÐ·Ð°Ñ‚ÑŒ ÐºÐ°Ðº ÑˆÐ°Ð±Ð»Ð¾Ð½ Ð¿Ð¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ Ðº ÑÐ°Ð¹Ñ‚Ñƒ:";
+$MESS ['MAIN_TEMPLATE_LOAD_SITE_ID_N'] = "(Ð½Ðµ Ð¿Ñ€Ð¸Ð²ÑÐ·Ñ‹Ð²Ð°Ñ‚ÑŒ)";
+$MESS ['MAIN_TEMPLATE_LOAD_GOTO_EDIT'] = "ÐŸÐµÑ€ÐµÐ¹Ñ‚Ð¸ Ð¿Ð¾ÑÐ»Ðµ ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð¸Ñ Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ ÑˆÐ°Ð±Ð»Ð¾Ð½Ð°:";
+$MESS ['MAIN_TEMPLATE_LOAD_SUBMIT'] = "Ð—Ð°Ð³Ñ€ÑƒÐ·Ð¸Ñ‚ÑŒ";
+$MESS ['MAIN_TEMPLATE_LOAD_WARN_UTF'] = "ÐžÐ±Ñ€Ð°Ñ‚Ð¸Ñ‚Ðµ Ð²Ð½Ð¸Ð¼Ð°Ð½Ð¸Ðµ, Ñ„Ð°Ð¹Ð»Ñ‹ ÑˆÐ°Ð±Ð»Ð¾Ð½Ð° Ð´Ð¾Ð»Ð¶Ð½Ñ‹ Ð±Ñ‹Ñ‚ÑŒ Ð² ÐºÐ¾Ð´Ð¸Ñ€Ð¾Ð²ÐºÐµ UTF-8.";
+$MESS ['MAIN_TEMPLATE_LOAD_WARN_NON_UTF'] = "ÐžÐ±Ñ€Ð°Ñ‚Ð¸Ñ‚Ðµ Ð²Ð½Ð¸Ð¼Ð°Ð½Ð¸Ðµ, ÐºÐ¾Ð´Ð¸Ñ€Ð¾Ð²ÐºÐ° Ñ„Ð°Ð¹Ð»Ð¾Ð² ÑˆÐ°Ð±Ð»Ð¾Ð½Ð° Ð´Ð¾Ð»Ð¶Ð½Ð° ÑÐ¾Ð¾Ñ‚Ð²ÐµÑ‚ÑÑ‚Ð²Ð¾Ð²Ð°Ñ‚ÑŒ ÐºÐ¾Ð´Ð¸Ñ€Ð¾Ð²ÐºÐµ ÑÐ°Ð¹Ñ‚Ð°.";
 ?>

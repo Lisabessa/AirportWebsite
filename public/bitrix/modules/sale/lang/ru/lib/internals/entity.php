@@ -1,2 +1,2 @@
 <?
-$MESS["SALE_INTERNALS_ENTITY_FIELD_IS_NOT_CUSTOMIZABLE"] = "Ïîëå #FIELD# íå ïîääåðæèâàåò ðàáîòó â ðó÷íîì ðåæèìå";
+$MESS["SALE_INTERNALS_ENTITY_FIELD_IS_NOT_CUSTOMIZABLE"] = "ÐŸÐ¾Ð»Ðµ #FIELD# Ð½Ðµ Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶Ð¸Ð²Ð°ÐµÑ‚ Ñ€Ð°Ð±Ð¾Ñ‚Ñƒ Ð² Ñ€ÑƒÑ‡Ð½Ð¾Ð¼ Ñ€ÐµÐ¶Ð¸Ð¼Ðµ";

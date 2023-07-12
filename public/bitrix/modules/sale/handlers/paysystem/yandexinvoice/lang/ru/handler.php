@@ -1,5 +1,5 @@
 <?php
-$MESS['SALE_HPS_YANDEX_INVOICE_SBERBANK'] = 'Ñáåðáàíê.Îíëàéí';
-$MESS["SALE_HPS_YANDEX_INVOICE_WALLET"] = "ÞMoney";
-$MESS["SALE_HPS_YANDEX_INVOICE_ERROR_SUM"] = "Îïëà÷åííàÿ ñóììà íå ñîâïàäàåò ñ ñóììîé çàêàçà";
-$MESS["SALE_HPS_YANDEX_INVOICE_ERROR_ISS"] = "Íåïðàâèëüíûé ISS";
+$MESS['SALE_HPS_YANDEX_INVOICE_SBERBANK'] = 'Ð¡Ð±ÐµÑ€Ð±Ð°Ð½Ðº.ÐžÐ½Ð»Ð°Ð¹Ð½';
+$MESS["SALE_HPS_YANDEX_INVOICE_WALLET"] = "Ð®Money";
+$MESS["SALE_HPS_YANDEX_INVOICE_ERROR_SUM"] = "ÐžÐ¿Ð»Ð°Ñ‡ÐµÐ½Ð½Ð°Ñ ÑÑƒÐ¼Ð¼Ð° Ð½Ðµ ÑÐ¾Ð²Ð¿Ð°Ð´Ð°ÐµÑ‚ Ñ ÑÑƒÐ¼Ð¼Ð¾Ð¹ Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["SALE_HPS_YANDEX_INVOICE_ERROR_ISS"] = "ÐÐµÐ¿Ñ€Ð°Ð²Ð¸Ð»ÑŒÐ½Ñ‹Ð¹ ISS";

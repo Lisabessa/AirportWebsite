@@ -1,19 +1,19 @@
 <?
-$MESS["FORUM_P_POINTS"] = "Çâàíèÿ";
-$MESS["FORUM_P_ERROR_DEL"] = "Îøèáêà óäàëåíèÿ çâàíèÿ";
-$MESS["FORUM_P_RANKS"] = "Çâàíèÿ";
-$MESS["FORUM_P_MIN_POINTS"] = "Íåîáõîäèìî áàëëîâ";
-$MESS["FORUM_P_RATING_VOTES"] = "Íåîáõîäèìî íîðìèðîâàííûõ ãîëîñîâ";
-$MESS["FORUM_P_RATING_VALUE"] = "Íåîáõîäèìî àâòîðèòåòà";
-$MESS["FORUM_P_NAME"] = "Íàçâàíèå";
-$MESS["FORUM_P_VOTES"] = "Ãîëîñîâ";
-$MESS["FORUM_P_EDIT_DESC"] = "Èçìåíèòü ïàðàìåòðû çâàíèÿ";
-$MESS["FORUM_P_DELETE_DESC"] = "Óäàëèòü çâàíèå";
-$MESS["FORUM_P_DELETE_CONF"] = "Âû óâåðåíû, ÷òî õîòèòå óäàëèòü ýòî çâàíèå?";
-$MESS["FPAN_UPDATE_ERROR"] = "Îøèáêà èçìåíåíèÿ ïàðàìåòðîâ çàïèñè";
-$MESS["FPAN_ADD_NEW"] = "Íîâîå çâàíèå";
-$MESS["FPAN_ADD_NEW_ALT"] = "Íàæìèòå äëÿ äîáàâëåíèÿ íîâîãî çâàíèÿ";
-$MESS["MAIN_ADMIN_LIST_SELECTED"] = "Âûáðàíî:";
-$MESS["MAIN_ADMIN_LIST_CHECKED"] = "Îòìå÷åíî:";
-$MESS["MAIN_ADMIN_LIST_DELETE"] = "óäàëèòü";
+$MESS["FORUM_P_POINTS"] = "Ð—Ð²Ð°Ð½Ð¸Ñ";
+$MESS["FORUM_P_ERROR_DEL"] = "ÐžÑˆÐ¸Ð±ÐºÐ° ÑƒÐ´Ð°Ð»ÐµÐ½Ð¸Ñ Ð·Ð²Ð°Ð½Ð¸Ñ";
+$MESS["FORUM_P_RANKS"] = "Ð—Ð²Ð°Ð½Ð¸Ñ";
+$MESS["FORUM_P_MIN_POINTS"] = "ÐÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ð¾ Ð±Ð°Ð»Ð»Ð¾Ð²";
+$MESS["FORUM_P_RATING_VOTES"] = "ÐÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ð¾ Ð½Ð¾Ñ€Ð¼Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ñ‹Ñ… Ð³Ð¾Ð»Ð¾ÑÐ¾Ð²";
+$MESS["FORUM_P_RATING_VALUE"] = "ÐÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ð¾ Ð°Ð²Ñ‚Ð¾Ñ€Ð¸Ñ‚ÐµÑ‚Ð°";
+$MESS["FORUM_P_NAME"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
+$MESS["FORUM_P_VOTES"] = "Ð“Ð¾Ð»Ð¾ÑÐ¾Ð²";
+$MESS["FORUM_P_EDIT_DESC"] = "Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ Ð·Ð²Ð°Ð½Ð¸Ñ";
+$MESS["FORUM_P_DELETE_DESC"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ Ð·Ð²Ð°Ð½Ð¸Ðµ";
+$MESS["FORUM_P_DELETE_CONF"] = "Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹, Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ ÑÑ‚Ð¾ Ð·Ð²Ð°Ð½Ð¸Ðµ?";
+$MESS["FPAN_UPDATE_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð¾Ð² Ð·Ð°Ð¿Ð¸ÑÐ¸";
+$MESS["FPAN_ADD_NEW"] = "ÐÐ¾Ð²Ð¾Ðµ Ð·Ð²Ð°Ð½Ð¸Ðµ";
+$MESS["FPAN_ADD_NEW_ALT"] = "ÐÐ°Ð¶Ð¼Ð¸Ñ‚Ðµ Ð´Ð»Ñ Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ñ Ð½Ð¾Ð²Ð¾Ð³Ð¾ Ð·Ð²Ð°Ð½Ð¸Ñ";
+$MESS["MAIN_ADMIN_LIST_SELECTED"] = "Ð’Ñ‹Ð±Ñ€Ð°Ð½Ð¾:";
+$MESS["MAIN_ADMIN_LIST_CHECKED"] = "ÐžÑ‚Ð¼ÐµÑ‡ÐµÐ½Ð¾:";
+$MESS["MAIN_ADMIN_LIST_DELETE"] = "ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ";
 ?>

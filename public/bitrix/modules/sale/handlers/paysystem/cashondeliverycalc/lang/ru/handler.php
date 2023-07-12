@@ -1,10 +1,10 @@
 <?php
-$MESS["SALE_HPS_CASH_ON_DELIVERY_LESS_1K"] = "äî 1 000 ðóá. âêëþ÷èòåëüíî";
-$MESS["SALE_HPS_CASH_ON_DELIVERY_LESS_5K"] = "ñâûøå 1 000 äî 5 000 ðóá. âêëþ÷èòåëüíî";
-$MESS["SALE_HPS_CASH_ON_DELIVERY_LESS_20K"] = "ñâûøå 5 000 ðóá. äî 20 000 ðóá. âêëþ÷èòåëüíî";
-$MESS["SALE_HPS_CASH_ON_DELIVERY_LESS_500K"] = "ñâûøå 20 000 ðóá. äî 500 000 ðóá. âêëþ÷èòåëüíî";
-$MESS["SALE_HPS_CASH_ON_DELIVERY_RUB"] = "ðóá.";
-$MESS["SALE_HPS_CASH_ON_DELIVERY_SUMM_MORE"] = "îò ñóììû ñâûøå";
-$MESS["SALE_HPS_CASH_ON_DELIVERY_TARIF_DEFAULT"] = "Ïî óìîë÷àíèþ";
-$MESS["SALE_HPS_CASH_ON_DELIVERY_ADD_REGION"] = "Äîáàâèòü ðåãèîí";
-$MESS["SALE_HPS_CASH_ON_DELIVERY_CHOOSE_REGION"] = "Âûáåðèòå ðåãèîí";
+$MESS["SALE_HPS_CASH_ON_DELIVERY_LESS_1K"] = "Ð´Ð¾ 1 000 Ñ€ÑƒÐ±. Ð²ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾";
+$MESS["SALE_HPS_CASH_ON_DELIVERY_LESS_5K"] = "ÑÐ²Ñ‹ÑˆÐµ 1 000 Ð´Ð¾ 5 000 Ñ€ÑƒÐ±. Ð²ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾";
+$MESS["SALE_HPS_CASH_ON_DELIVERY_LESS_20K"] = "ÑÐ²Ñ‹ÑˆÐµ 5 000 Ñ€ÑƒÐ±. Ð´Ð¾ 20 000 Ñ€ÑƒÐ±. Ð²ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾";
+$MESS["SALE_HPS_CASH_ON_DELIVERY_LESS_500K"] = "ÑÐ²Ñ‹ÑˆÐµ 20 000 Ñ€ÑƒÐ±. Ð´Ð¾ 500 000 Ñ€ÑƒÐ±. Ð²ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾";
+$MESS["SALE_HPS_CASH_ON_DELIVERY_RUB"] = "Ñ€ÑƒÐ±.";
+$MESS["SALE_HPS_CASH_ON_DELIVERY_SUMM_MORE"] = "Ð¾Ñ‚ ÑÑƒÐ¼Ð¼Ñ‹ ÑÐ²Ñ‹ÑˆÐµ";
+$MESS["SALE_HPS_CASH_ON_DELIVERY_TARIF_DEFAULT"] = "ÐŸÐ¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ";
+$MESS["SALE_HPS_CASH_ON_DELIVERY_ADD_REGION"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ñ€ÐµÐ³Ð¸Ð¾Ð½";
+$MESS["SALE_HPS_CASH_ON_DELIVERY_CHOOSE_REGION"] = "Ð’Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ Ñ€ÐµÐ³Ð¸Ð¾Ð½";

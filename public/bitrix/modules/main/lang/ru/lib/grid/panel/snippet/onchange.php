@@ -1,4 +1,4 @@
 <?
-$MESS["DEFAULT_CONFIRM_MESSAGE"] = "Ïîäòâåðäèòå äåéñòâèå äëÿ îòìå÷åííûõ ýëåìåíòîâ";
-$MESS["CONFIRM_APPLY_BUTTON"] = "Ïîäòâåðäèòü";
-$MESS["CONFIRM_CANCEL_BUTTON"] = "Îòìåíèòü";
+$MESS["DEFAULT_CONFIRM_MESSAGE"] = "ÐŸÐ¾Ð´Ñ‚Ð²ÐµÑ€Ð´Ð¸Ñ‚Ðµ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ðµ Ð´Ð»Ñ Ð¾Ñ‚Ð¼ÐµÑ‡ÐµÐ½Ð½Ñ‹Ñ… ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð²";
+$MESS["CONFIRM_APPLY_BUTTON"] = "ÐŸÐ¾Ð´Ñ‚Ð²ÐµÑ€Ð´Ð¸Ñ‚ÑŒ";
+$MESS["CONFIRM_CANCEL_BUTTON"] = "ÐžÑ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";

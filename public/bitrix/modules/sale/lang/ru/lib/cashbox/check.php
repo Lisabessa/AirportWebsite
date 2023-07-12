@@ -1,6 +1,6 @@
 <?php
-$MESS['SALE_CASHBOX_CHECK_DELIVERY'] = 'Äîñòàâêà';
-$MESS['SALE_CASHBOX_CHECK_ERROR_NO_PRODUCTS'] = 'Îøèáêà ïðè ñîçäàíèè ÷åêà: ïóñòîé ñïèñîê òîâàðîâ â îòãðóçêå';
-$MESS['SALE_CASHBOX_CHECK_ERROR_CHECK_SUM'] = 'Îøèáêà ïðè ñîçäàíèè ÷åêà: ñóììà ïî ÷åêó íå ñîâïàäàåò ñ îáùåé ñóììîé òîâàðîâ';
-$MESS['SALE_CASHBOX_CHECK_ERROR_NO_BUYER_INFO'] = 'Îøèáêà ïðè ñîçäàíèè ÷åêà: îòñóòñòâóþò êîíòàêòíûå äàííûå ïîêóïàòåëÿ';
-$MESS['SALE_CASHBOX_CHECK_ERROR_NO_NOMENCLATURE_CODE'] = 'Äëÿ òîâàðà #PRODUCT_NAME# íå óêàçàíà ìàðêèðîâêà';
+$MESS['SALE_CASHBOX_CHECK_DELIVERY'] = 'Ð”Ð¾ÑÑ‚Ð°Ð²ÐºÐ°';
+$MESS['SALE_CASHBOX_CHECK_ERROR_NO_PRODUCTS'] = 'ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ð¸ Ñ‡ÐµÐºÐ°: Ð¿ÑƒÑÑ‚Ð¾Ð¹ ÑÐ¿Ð¸ÑÐ¾Ðº Ñ‚Ð¾Ð²Ð°Ñ€Ð¾Ð² Ð² Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐµ';
+$MESS['SALE_CASHBOX_CHECK_ERROR_CHECK_SUM'] = 'ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ð¸ Ñ‡ÐµÐºÐ°: ÑÑƒÐ¼Ð¼Ð° Ð¿Ð¾ Ñ‡ÐµÐºÑƒ Ð½Ðµ ÑÐ¾Ð²Ð¿Ð°Ð´Ð°ÐµÑ‚ Ñ Ð¾Ð±Ñ‰ÐµÐ¹ ÑÑƒÐ¼Ð¼Ð¾Ð¹ Ñ‚Ð¾Ð²Ð°Ñ€Ð¾Ð²';
+$MESS['SALE_CASHBOX_CHECK_ERROR_NO_BUYER_INFO'] = 'ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ð¸ Ñ‡ÐµÐºÐ°: Ð¾Ñ‚ÑÑƒÑ‚ÑÑ‚Ð²ÑƒÑŽÑ‚ ÐºÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ð½Ñ‹Ðµ Ð´Ð°Ð½Ð½Ñ‹Ðµ Ð¿Ð¾ÐºÑƒÐ¿Ð°Ñ‚ÐµÐ»Ñ';
+$MESS['SALE_CASHBOX_CHECK_ERROR_NO_NOMENCLATURE_CODE'] = 'Ð”Ð»Ñ Ñ‚Ð¾Ð²Ð°Ñ€Ð° #PRODUCT_NAME# Ð½Ðµ ÑƒÐºÐ°Ð·Ð°Ð½Ð° Ð¼Ð°Ñ€ÐºÐ¸Ñ€Ð¾Ð²ÐºÐ°';

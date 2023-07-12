@@ -1,2 +1,2 @@
 <?php
-$MESS["BPRAT_PROPERTIES_LENGTH_ERROR"] = "Äëÿ çíà÷åíèÿ ïîëÿ \"#FIELD_TITLE#\" ïðåâûøåíà ìàêñèìàëüíàÿ äëèíà: 65535.";
+$MESS["BPRAT_PROPERTIES_LENGTH_ERROR"] = "Ð”Ð»Ñ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ñ Ð¿Ð¾Ð»Ñ \"#FIELD_TITLE#\" Ð¿Ñ€ÐµÐ²Ñ‹ÑˆÐµÐ½Ð° Ð¼Ð°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ð°Ñ Ð´Ð»Ð¸Ð½Ð°: 65535.";

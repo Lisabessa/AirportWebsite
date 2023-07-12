@@ -1,5 +1,5 @@
 <?
-$MESS["SALE_SRV_RSTR_BY_SITE_DESCRIPT"] = "Îáìåæåííÿ çà ñàéòàìè";
-$MESS["SALE_SRV_RSTR_BY_SITE_NAME"] = "çà ñàéòàìè";
-$MESS["SALE_SRV_RSTR_BY_SITE_SITE_ID"] = "Ñàéòè";
+$MESS["SALE_SRV_RSTR_BY_SITE_DESCRIPT"] = "ÐžÐ±Ð¼ÐµÐ¶ÐµÐ½Ð½Ñ Ð·Ð° ÑÐ°Ð¹Ñ‚Ð°Ð¼Ð¸";
+$MESS["SALE_SRV_RSTR_BY_SITE_NAME"] = "Ð·Ð° ÑÐ°Ð¹Ñ‚Ð°Ð¼Ð¸";
+$MESS["SALE_SRV_RSTR_BY_SITE_SITE_ID"] = "Ð¡Ð°Ð¹Ñ‚Ð¸";
 ?>

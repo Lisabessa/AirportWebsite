@@ -1,18 +1,18 @@
 <?php
 
-$MESS["SALE_PROVIDER_RESERVE_SHIPMENT_ITEM_QUANTITY_NOT_ENOUGH"] = "Íåò äîñòàòî÷íîãî êîëè÷åñòâà òîâàðà \"#PRODUCT_NAME#\"";
-$MESS["SALE_PROVIDER_RESERVE_SHIPMENT_ITEM_WRONG_AVAILABLE_QUANTITY"] = "Íåò äîñòóïíîãî êîëè÷åñòâà òîâàðà \"#PRODUCT_NAME#\"";
-$MESS["SALE_PROVIDER_RESERVE_BASKET_ITEM_ERROR"] = "Îøèáêà ðåçåðâàöèè ïîçèöèè êîðçèíû";
-$MESS["SALE_PROVIDER_RESERVE_BASKET_ITEM_WRONG_QUANTITY"] = "Íåâåðíîå çàðåçåðâèðîâàííîå êîëè÷åñòâî òîâàðà";
-$MESS["SALE_PROVIDER_RESERVE_BASKET_ITEM_QUANTITY_NOT_ENOUGH"] = "Êîëè÷åñòâî ðåçåðâèðóåìîãî òîâàðà áîëüøå ÷åì åñòü â êîðçèíå";
-$MESS["SALE_PROVIDER_RESERVE_BASKET_ITEM_QUANTITY_WRONG_RESIDUE"] = "Íåâåðíûé êîëè÷åñòâåííûé îñòàòîê ðåçåðâèðóåìîãî òîâàðà";
-$MESS["SALE_PROVIDER_STORE_DATA_BARCODE_NOT_FOUND"] = "Øòðèõ-êîä äëÿ òîâàðà \"#PRODUCT_NAME#\" íå íàéäåí";
-$MESS["SALE_PROVIDER_SHIPMENT_QUANTITY_NOT_ENOUGH"] = "Êîëè÷åñòâî îòãðóæàåìîãî òîâàðà \"#PRODUCT_NAME#\" â êîðçèíå áîëüøå ÷åì åñòü â êàòàëîãå";
+$MESS["SALE_PROVIDER_RESERVE_SHIPMENT_ITEM_QUANTITY_NOT_ENOUGH"] = "ÐÐµÑ‚ Ð´Ð¾ÑÑ‚Ð°Ñ‚Ð¾Ñ‡Ð½Ð¾Ð³Ð¾ ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð° Ñ‚Ð¾Ð²Ð°Ñ€Ð° \"#PRODUCT_NAME#\"";
+$MESS["SALE_PROVIDER_RESERVE_SHIPMENT_ITEM_WRONG_AVAILABLE_QUANTITY"] = "ÐÐµÑ‚ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ð¾Ð³Ð¾ ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð° Ñ‚Ð¾Ð²Ð°Ñ€Ð° \"#PRODUCT_NAME#\"";
+$MESS["SALE_PROVIDER_RESERVE_BASKET_ITEM_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ñ€ÐµÐ·ÐµÑ€Ð²Ð°Ñ†Ð¸Ð¸ Ð¿Ð¾Ð·Ð¸Ñ†Ð¸Ð¸ ÐºÐ¾Ñ€Ð·Ð¸Ð½Ñ‹";
+$MESS["SALE_PROVIDER_RESERVE_BASKET_ITEM_WRONG_QUANTITY"] = "ÐÐµÐ²ÐµÑ€Ð½Ð¾Ðµ Ð·Ð°Ñ€ÐµÐ·ÐµÑ€Ð²Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ð¾Ðµ ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ñ‚Ð¾Ð²Ð°Ñ€Ð°";
+$MESS["SALE_PROVIDER_RESERVE_BASKET_ITEM_QUANTITY_NOT_ENOUGH"] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ñ€ÐµÐ·ÐµÑ€Ð²Ð¸Ñ€ÑƒÐµÐ¼Ð¾Ð³Ð¾ Ñ‚Ð¾Ð²Ð°Ñ€Ð° Ð±Ð¾Ð»ÑŒÑˆÐµ Ñ‡ÐµÐ¼ ÐµÑÑ‚ÑŒ Ð² ÐºÐ¾Ñ€Ð·Ð¸Ð½Ðµ";
+$MESS["SALE_PROVIDER_RESERVE_BASKET_ITEM_QUANTITY_WRONG_RESIDUE"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²ÐµÐ½Ð½Ñ‹Ð¹ Ð¾ÑÑ‚Ð°Ñ‚Ð¾Ðº Ñ€ÐµÐ·ÐµÑ€Ð²Ð¸Ñ€ÑƒÐµÐ¼Ð¾Ð³Ð¾ Ñ‚Ð¾Ð²Ð°Ñ€Ð°";
+$MESS["SALE_PROVIDER_STORE_DATA_BARCODE_NOT_FOUND"] = "Ð¨Ñ‚Ñ€Ð¸Ñ…-ÐºÐ¾Ð´ Ð´Ð»Ñ Ñ‚Ð¾Ð²Ð°Ñ€Ð° \"#PRODUCT_NAME#\" Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
+$MESS["SALE_PROVIDER_SHIPMENT_QUANTITY_NOT_ENOUGH"] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ð¾Ñ‚Ð³Ñ€ÑƒÐ¶Ð°ÐµÐ¼Ð¾Ð³Ð¾ Ñ‚Ð¾Ð²Ð°Ñ€Ð° \"#PRODUCT_NAME#\" Ð² ÐºÐ¾Ñ€Ð·Ð¸Ð½Ðµ Ð±Ð¾Ð»ÑŒÑˆÐµ Ñ‡ÐµÐ¼ ÐµÑÑ‚ÑŒ Ð² ÐºÐ°Ñ‚Ð°Ð»Ð¾Ð³Ðµ";
 
-$MESS["SALE_PROVIDER_SHIPMENT_SHIPPED_LESS_QUANTITY"] = "Êîëè÷åñòâî îòãðóæàåìîãî òîâàðà \"#PRODUCT_NAME#\" ìåíüøå ÷åì îáùåå êîëè÷åñòâî òîâàðà îòãðóçêè";
-$MESS["SALE_PROVIDER_SHIPMENT_SHIPPED_MORE_QUANTITY"] = "Êîëè÷åñòâî îòãðóæàåìîãî òîâàðà \"#PRODUCT_NAME#\" áîëüøå ÷åì îáùåå êîëè÷åñòâî òîâàðà îòãðóçêè";
-$MESS["SALE_PROVIDER_BASKET_ITEM_WRONG_AVAILABLE_QUANTITY"] = "Íåò äîñòàòî÷íîãî êîëè÷åñòâà òîâàðà \"#PRODUCT_NAME#\"";
-$MESS["SALE_PROVIDER_WRONG_BASKET_ITEM"] = "Íåêîððåêòíûé îáúåêò êîðçèíû";
-$MESS["SALE_PROVIDER_BASKET_ITEM_NOT_FOUND"] = "Îòñóòñòâóåò ñâÿçàííàÿ ñ ýëåìåíòîì îòãðóçêè ##SHIPMENT_ID# ïîçèöèÿ â êîðçèíå ##BASKET_ITEM_ID#.";
-$MESS["PROVIDER_UNRESERVE_SHIPMENT_ITEM_WRONG_AVAILABLE_QUANTITY"] = "Îøèáêà ïîëó÷åíèÿ äîñòóïíîãî êîëè÷åñòâà òîâàðà ïðè ðàçðåçåðâàöèè";
+$MESS["SALE_PROVIDER_SHIPMENT_SHIPPED_LESS_QUANTITY"] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ð¾Ñ‚Ð³Ñ€ÑƒÐ¶Ð°ÐµÐ¼Ð¾Ð³Ð¾ Ñ‚Ð¾Ð²Ð°Ñ€Ð° \"#PRODUCT_NAME#\" Ð¼ÐµÐ½ÑŒÑˆÐµ Ñ‡ÐµÐ¼ Ð¾Ð±Ñ‰ÐµÐµ ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ñ‚Ð¾Ð²Ð°Ñ€Ð° Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸";
+$MESS["SALE_PROVIDER_SHIPMENT_SHIPPED_MORE_QUANTITY"] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ð¾Ñ‚Ð³Ñ€ÑƒÐ¶Ð°ÐµÐ¼Ð¾Ð³Ð¾ Ñ‚Ð¾Ð²Ð°Ñ€Ð° \"#PRODUCT_NAME#\" Ð±Ð¾Ð»ÑŒÑˆÐµ Ñ‡ÐµÐ¼ Ð¾Ð±Ñ‰ÐµÐµ ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ñ‚Ð¾Ð²Ð°Ñ€Ð° Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸";
+$MESS["SALE_PROVIDER_BASKET_ITEM_WRONG_AVAILABLE_QUANTITY"] = "ÐÐµÑ‚ Ð´Ð¾ÑÑ‚Ð°Ñ‚Ð¾Ñ‡Ð½Ð¾Ð³Ð¾ ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð° Ñ‚Ð¾Ð²Ð°Ñ€Ð° \"#PRODUCT_NAME#\"";
+$MESS["SALE_PROVIDER_WRONG_BASKET_ITEM"] = "ÐÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ñ‹Ð¹ Ð¾Ð±ÑŠÐµÐºÑ‚ ÐºÐ¾Ñ€Ð·Ð¸Ð½Ñ‹";
+$MESS["SALE_PROVIDER_BASKET_ITEM_NOT_FOUND"] = "ÐžÑ‚ÑÑƒÑ‚ÑÑ‚Ð²ÑƒÐµÑ‚ ÑÐ²ÑÐ·Ð°Ð½Ð½Ð°Ñ Ñ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð¼ Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸ ##SHIPMENT_ID# Ð¿Ð¾Ð·Ð¸Ñ†Ð¸Ñ Ð² ÐºÐ¾Ñ€Ð·Ð¸Ð½Ðµ ##BASKET_ITEM_ID#.";
+$MESS["PROVIDER_UNRESERVE_SHIPMENT_ITEM_WRONG_AVAILABLE_QUANTITY"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ð¾Ð»ÑƒÑ‡ÐµÐ½Ð¸Ñ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ð¾Ð³Ð¾ ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð° Ñ‚Ð¾Ð²Ð°Ñ€Ð° Ð¿Ñ€Ð¸ Ñ€Ð°Ð·Ñ€ÐµÐ·ÐµÑ€Ð²Ð°Ñ†Ð¸Ð¸";
 

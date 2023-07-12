@@ -1,14 +1,14 @@
 <?
-$MESS["SALE_TYPE_INVOICE"] = "Ðàõóíîê";
-$MESS["SALE_TYPE_INVOICE_SHIPMENT"] = "Â³äâàíòàæåííÿ";
-$MESS["SALE_TYPE_INVOICE_PAYMENT_CASH"] = "Ãîò³âêîâà îïëàòà";
-$MESS["SALE_TYPE_INVOICE_PAYMENT_CASH_LESS"] = "Áåçãîò³âêîâà îïëàòà";
-$MESS["SALE_TYPE_INVOICE_PAYMENT_CARD_TRANSACTION"] = "Åêâàéðèíãîâà îïëàòà";
-$MESS["SALE_TYPE_ORDER"] = "Çàìîâëåííÿ";
-$MESS["SALE_TYPE_SHIPMENT"] = "Â³äâàíòàæåííÿ";
-$MESS["SALE_TYPE_PAYMENT_CASH"] = "Ãîò³âêîâà îïëàòà";
-$MESS["SALE_TYPE_PAYMENT_CASH_LESS"] = "Áåçãîò³âêîâà îïëàòà";
-$MESS["SALE_TYPE_PAYMENT_CARD_TRANSACTION"] = "Åêâàéðèíãîâà îïëàòà";
-$MESS["SALE_TYPE_PROFILE"] = "Ïðîôàéë";
-$MESS["SALE_TYPE_USER_PROFILE"] = "Ïðîôàéë";
+$MESS["SALE_TYPE_INVOICE"] = "Ð Ð°Ñ…ÑƒÐ½Ð¾Ðº";
+$MESS["SALE_TYPE_INVOICE_SHIPMENT"] = "Ð’Ñ–Ð´Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ";
+$MESS["SALE_TYPE_INVOICE_PAYMENT_CASH"] = "Ð“Ð¾Ñ‚Ñ–Ð²ÐºÐ¾Ð²Ð° Ð¾Ð¿Ð»Ð°Ñ‚Ð°";
+$MESS["SALE_TYPE_INVOICE_PAYMENT_CASH_LESS"] = "Ð‘ÐµÐ·Ð³Ð¾Ñ‚Ñ–Ð²ÐºÐ¾Ð²Ð° Ð¾Ð¿Ð»Ð°Ñ‚Ð°";
+$MESS["SALE_TYPE_INVOICE_PAYMENT_CARD_TRANSACTION"] = "Ð•ÐºÐ²Ð°Ð¹Ñ€Ð¸Ð½Ð³Ð¾Ð²Ð° Ð¾Ð¿Ð»Ð°Ñ‚Ð°";
+$MESS["SALE_TYPE_ORDER"] = "Ð—Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ";
+$MESS["SALE_TYPE_SHIPMENT"] = "Ð’Ñ–Ð´Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ";
+$MESS["SALE_TYPE_PAYMENT_CASH"] = "Ð“Ð¾Ñ‚Ñ–Ð²ÐºÐ¾Ð²Ð° Ð¾Ð¿Ð»Ð°Ñ‚Ð°";
+$MESS["SALE_TYPE_PAYMENT_CASH_LESS"] = "Ð‘ÐµÐ·Ð³Ð¾Ñ‚Ñ–Ð²ÐºÐ¾Ð²Ð° Ð¾Ð¿Ð»Ð°Ñ‚Ð°";
+$MESS["SALE_TYPE_PAYMENT_CARD_TRANSACTION"] = "Ð•ÐºÐ²Ð°Ð¹Ñ€Ð¸Ð½Ð³Ð¾Ð²Ð° Ð¾Ð¿Ð»Ð°Ñ‚Ð°";
+$MESS["SALE_TYPE_PROFILE"] = "ÐŸÑ€Ð¾Ñ„Ð°Ð¹Ð»";
+$MESS["SALE_TYPE_USER_PROFILE"] = "ÐŸÑ€Ð¾Ñ„Ð°Ð¹Ð»";
 ?>

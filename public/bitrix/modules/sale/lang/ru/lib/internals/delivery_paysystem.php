@@ -1,5 +1,5 @@
 <?
-$MESS["DELIVERY_PAYSYSTEM_ENTITY_DELIVERY_ID_FIELD"] = "Èäåíòèôèêàòîð ñëóæáû äîñòàâêè";
-$MESS["DELIVERY_PAYSYSTEM_ENTITY_PAYSYSTEM_ID_FIELD"] = "Èäåíòèôèêàòîð ïëàòåæíîé ñèñòåìû";
-$MESS["DELIVERY_PAYSYSTEM_ENTITY_LINK_DIRECTION"] = "Íàïðàâëåíèå ñâÿçè";
+$MESS["DELIVERY_PAYSYSTEM_ENTITY_DELIVERY_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÐ»ÑƒÐ¶Ð±Ñ‹ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸";
+$MESS["DELIVERY_PAYSYSTEM_ENTITY_PAYSYSTEM_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ð½Ð¾Ð¹ ÑÐ¸ÑÑ‚ÐµÐ¼Ñ‹";
+$MESS["DELIVERY_PAYSYSTEM_ENTITY_LINK_DIRECTION"] = "ÐÐ°Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ ÑÐ²ÑÐ·Ð¸";
 ?>

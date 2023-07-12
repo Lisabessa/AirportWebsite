@@ -2,7 +2,7 @@
 <div class="rounded-block">
 	<div class="corner left-top"></div><div class="corner right-top"></div>
 	<div class="block-content">
-		<h3>Быстрый поиск</h3>
+		<h3>Р‘С‹СЃС‚СЂС‹Р№ РїРѕРёСЃРє</h3>
 <?
 $APPLICATION->IncludeComponent("bitrix:socialnetwork.user_search", "sidebar", array(
 	"ITEMS_COUNT" => "32",

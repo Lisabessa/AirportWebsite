@@ -1,15 +1,15 @@
 <?
 $MESS["IBLOCK_RADM_ID"] = "ID";
-$MESS["IBLOCK_RADM_NAME"] = "Íàçâàíèå";
-$MESS["IBLOCK_RADM_ACTIVE"] = "Àêò.";
-$MESS["IBLOCK_RADM_PROPERTY_INDEX"] = "Ñîñòîÿíèå";
-$MESS["IBLOCK_RADM_TITLE"] = "Ôàñåòíûå èíäåêñû èíôîáëîêîâ";
-$MESS["IBLOCK_RADM_IBLOCKS"] = "Èíôîáëîêè";
-$MESS["IBLOCK_RADM_REINDEX"] = "Ñîçäàòü";
-$MESS["IBLOCK_RADM_REINDEX_DISABLE"] = "Îòêëþ÷èòü";
-$MESS["IBLOCK_RADM_REINDEX_DISABLE_CONFIRM"] = "Âû óâåðåíû, ÷òî õîòèòå îòêëþ÷èòü ôàñåòíûé èíäåêñ äëÿ ýòîãî èíôîáëîêà?";
-$MESS["IBLOCK_RADM_INDEX_OK"] = "Ðàáîòàåò";
-$MESS["IBLOCK_RADM_REINDEX_ALL"] = "Ñîçäàòü âñå";
-$MESS["IBLOCK_RADM_ACTIVE_YES"] = "äà";
-$MESS["IBLOCK_RADM_ACTIVE_NO"] = "íåò";
+$MESS["IBLOCK_RADM_NAME"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
+$MESS["IBLOCK_RADM_ACTIVE"] = "ÐÐºÑ‚.";
+$MESS["IBLOCK_RADM_PROPERTY_INDEX"] = "Ð¡Ð¾ÑÑ‚Ð¾ÑÐ½Ð¸Ðµ";
+$MESS["IBLOCK_RADM_TITLE"] = "Ð¤Ð°ÑÐµÑ‚Ð½Ñ‹Ðµ Ð¸Ð½Ð´ÐµÐºÑÑ‹ Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ¾Ð²";
+$MESS["IBLOCK_RADM_IBLOCKS"] = "Ð˜Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ¸";
+$MESS["IBLOCK_RADM_REINDEX"] = "Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ";
+$MESS["IBLOCK_RADM_REINDEX_DISABLE"] = "ÐžÑ‚ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ";
+$MESS["IBLOCK_RADM_REINDEX_DISABLE_CONFIRM"] = "Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹, Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ Ð¾Ñ‚ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ Ñ„Ð°ÑÐµÑ‚Ð½Ñ‹Ð¹ Ð¸Ð½Ð´ÐµÐºÑ Ð´Ð»Ñ ÑÑ‚Ð¾Ð³Ð¾ Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ°?";
+$MESS["IBLOCK_RADM_INDEX_OK"] = "Ð Ð°Ð±Ð¾Ñ‚Ð°ÐµÑ‚";
+$MESS["IBLOCK_RADM_REINDEX_ALL"] = "Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ Ð²ÑÐµ";
+$MESS["IBLOCK_RADM_ACTIVE_YES"] = "Ð´Ð°";
+$MESS["IBLOCK_RADM_ACTIVE_NO"] = "Ð½ÐµÑ‚";
 ?>

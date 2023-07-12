@@ -1,15 +1,15 @@
 <?
-$MESS["SENDER_DISPATCH_STATE_N"] = "Íîâàÿ";
-$MESS["SENDER_DISPATCH_STATE_I"] = "Ïîäãîòîâêà";
-$MESS["SENDER_DISPATCH_STATE_R"] = "Ãîòîâà ê îòïðàâêå";
-$MESS["SENDER_DISPATCH_STATE_S"] = "Îòïðàâëÿåòñÿ";
-$MESS["SENDER_DISPATCH_STATE1_W"] = "Â ðàáîòå";
-$MESS["SENDER_DISPATCH_STATE_P"] = "Íà ïàóçå";
-$MESS["SENDER_DISPATCH_STATE_Y"] = "Îòïðàâëåíà";
-$MESS["SENDER_DISPATCH_STATE_M"] = "Èäåò ïîäãîòîâêà ñåãìåíòà";
-$MESS["SENDER_DISPATCH_STATE_X"] = "Îòìåíåíà";
-$MESS["SENDER_DISPATCH_STATE_T"] = "Çàïëàíèðîâàíà";
-$MESS["SENDER_DISPATCH_STATE_H"] = "Ïðèîñòàíîâëåíà";
-$MESS["SENDER_DISPATCH_STATE_ERROR_CHANGE"] = "Íåâîçìîæíî ïåðåâåñòè ðàññûëêó èç ñòàòóñà \"%old%\" â \"%new%\".";
-$MESS["SENDER_DISPATCH_STATE_ERROR_CAMPAIGN_INACTIVE"] = "Êàìïàíèÿ ðàññûëêè íåàêòèâíà.";
+$MESS["SENDER_DISPATCH_STATE_N"] = "ÐÐ¾Ð²Ð°Ñ";
+$MESS["SENDER_DISPATCH_STATE_I"] = "ÐŸÐ¾Ð´Ð³Ð¾Ñ‚Ð¾Ð²ÐºÐ°";
+$MESS["SENDER_DISPATCH_STATE_R"] = "Ð“Ð¾Ñ‚Ð¾Ð²Ð° Ðº Ð¾Ñ‚Ð¿Ñ€Ð°Ð²ÐºÐµ";
+$MESS["SENDER_DISPATCH_STATE_S"] = "ÐžÑ‚Ð¿Ñ€Ð°Ð²Ð»ÑÐµÑ‚ÑÑ";
+$MESS["SENDER_DISPATCH_STATE1_W"] = "Ð’ Ñ€Ð°Ð±Ð¾Ñ‚Ðµ";
+$MESS["SENDER_DISPATCH_STATE_P"] = "ÐÐ° Ð¿Ð°ÑƒÐ·Ðµ";
+$MESS["SENDER_DISPATCH_STATE_Y"] = "ÐžÑ‚Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð°";
+$MESS["SENDER_DISPATCH_STATE_M"] = "Ð˜Ð´ÐµÑ‚ Ð¿Ð¾Ð´Ð³Ð¾Ñ‚Ð¾Ð²ÐºÐ° ÑÐµÐ³Ð¼ÐµÐ½Ñ‚Ð°";
+$MESS["SENDER_DISPATCH_STATE_X"] = "ÐžÑ‚Ð¼ÐµÐ½ÐµÐ½Ð°";
+$MESS["SENDER_DISPATCH_STATE_T"] = "Ð—Ð°Ð¿Ð»Ð°Ð½Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð°";
+$MESS["SENDER_DISPATCH_STATE_H"] = "ÐŸÑ€Ð¸Ð¾ÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð°";
+$MESS["SENDER_DISPATCH_STATE_ERROR_CHANGE"] = "ÐÐµÐ²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ Ð¿ÐµÑ€ÐµÐ²ÐµÑÑ‚Ð¸ Ñ€Ð°ÑÑÑ‹Ð»ÐºÑƒ Ð¸Ð· ÑÑ‚Ð°Ñ‚ÑƒÑÐ° \"%old%\" Ð² \"%new%\".";
+$MESS["SENDER_DISPATCH_STATE_ERROR_CAMPAIGN_INACTIVE"] = "ÐšÐ°Ð¼Ð¿Ð°Ð½Ð¸Ñ Ñ€Ð°ÑÑÑ‹Ð»ÐºÐ¸ Ð½ÐµÐ°ÐºÑ‚Ð¸Ð²Ð½Ð°.";
 ?>

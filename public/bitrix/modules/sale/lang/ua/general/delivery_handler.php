@@ -1,13 +1,13 @@
 <?
-$MESS["SALE_DH_ERROR_WRONG_HANDLER_FILE"] = "Íåâ³ðíèé ôàéë îáðîáíèêà";
-$MESS["SALE_DH_ERROR_HANDLER_NOT_INSTALLED"] = "Ñëóæáà äîñòàâêè íå âñòàíîâëåíà";
-$MESS["SALE_DH_CF_ERROR_P_RESTRICTIONS_WEIGHT"] = "Îáìåæåííÿ çà âàãîþ";
-$MESS["SALE_DH_CF_ERROR_P_RESTRICTIONS_SUM"] = "Îáìåæåííÿ çà ñóìîþ";
-$MESS["SALE_DH_CF_ERROR_P_TAX_RATE"] = "Íàö³íêà íà âàðò³ñòü äîñòàâêè";
-$MESS["SALE_DH_CF_ERROR_P_RESTRICTIONS_MAX_SIZE"] = "Ìàêñèìàëüíèé ðîçì³ð â îäíîìó ç òðüîõ âèì³ð³â";
-$MESS["SALE_DH_CF_ERROR_P_RESTRICTIONS_DIMENSIONS_SUM"] = "Ìàêñèìàëüíà ñóìà òðüîõ âèì³ð³â";
-$MESS["SALE_DH_CF_ERROR_P_RESTRICTIONS_DIMENSION"] = "Ìàêñèìàëüíèé ðîçì³ð êîðîáêè";
-$MESS["SALE_DH_CF_ERROR_SORT"] = "Ñîðòóâàííÿ";
-$MESS["SALE_DH_ACTION_REQUEST_SELF"] = "Ñàìîñò³éíà äîñòàâêà äî ÒÊ";
-$MESS["SALE_DH_ACTION_REQUEST_TAKE"] = "Çàá³ð âàíòàæó ÒÊ";
+$MESS["SALE_DH_ERROR_WRONG_HANDLER_FILE"] = "ÐÐµÐ²Ñ–Ñ€Ð½Ð¸Ð¹ Ñ„Ð°Ð¹Ð» Ð¾Ð±Ñ€Ð¾Ð±Ð½Ð¸ÐºÐ°";
+$MESS["SALE_DH_ERROR_HANDLER_NOT_INSTALLED"] = "Ð¡Ð»ÑƒÐ¶Ð±Ð° Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸ Ð½Ðµ Ð²ÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð°";
+$MESS["SALE_DH_CF_ERROR_P_RESTRICTIONS_WEIGHT"] = "ÐžÐ±Ð¼ÐµÐ¶ÐµÐ½Ð½Ñ Ð·Ð° Ð²Ð°Ð³Ð¾ÑŽ";
+$MESS["SALE_DH_CF_ERROR_P_RESTRICTIONS_SUM"] = "ÐžÐ±Ð¼ÐµÐ¶ÐµÐ½Ð½Ñ Ð·Ð° ÑÑƒÐ¼Ð¾ÑŽ";
+$MESS["SALE_DH_CF_ERROR_P_TAX_RATE"] = "ÐÐ°Ñ†Ñ–Ð½ÐºÐ° Ð½Ð° Ð²Ð°Ñ€Ñ‚Ñ–ÑÑ‚ÑŒ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸";
+$MESS["SALE_DH_CF_ERROR_P_RESTRICTIONS_MAX_SIZE"] = "ÐœÐ°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ð¸Ð¹ Ñ€Ð¾Ð·Ð¼Ñ–Ñ€ Ð² Ð¾Ð´Ð½Ð¾Ð¼Ñƒ Ð· Ñ‚Ñ€ÑŒÐ¾Ñ… Ð²Ð¸Ð¼Ñ–Ñ€Ñ–Ð²";
+$MESS["SALE_DH_CF_ERROR_P_RESTRICTIONS_DIMENSIONS_SUM"] = "ÐœÐ°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ð° ÑÑƒÐ¼Ð° Ñ‚Ñ€ÑŒÐ¾Ñ… Ð²Ð¸Ð¼Ñ–Ñ€Ñ–Ð²";
+$MESS["SALE_DH_CF_ERROR_P_RESTRICTIONS_DIMENSION"] = "ÐœÐ°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ð¸Ð¹ Ñ€Ð¾Ð·Ð¼Ñ–Ñ€ ÐºÐ¾Ñ€Ð¾Ð±ÐºÐ¸";
+$MESS["SALE_DH_CF_ERROR_SORT"] = "Ð¡Ð¾Ñ€Ñ‚ÑƒÐ²Ð°Ð½Ð½Ñ";
+$MESS["SALE_DH_ACTION_REQUEST_SELF"] = "Ð¡Ð°Ð¼Ð¾ÑÑ‚Ñ–Ð¹Ð½Ð° Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ° Ð´Ð¾ Ð¢Ðš";
+$MESS["SALE_DH_ACTION_REQUEST_TAKE"] = "Ð—Ð°Ð±Ñ–Ñ€ Ð²Ð°Ð½Ñ‚Ð°Ð¶Ñƒ Ð¢Ðš";
 ?>

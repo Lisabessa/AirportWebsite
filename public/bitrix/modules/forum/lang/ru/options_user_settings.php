@@ -1,13 +1,13 @@
 <?
-$MESS ['forum_TAB'] = "Ôîðóì";
-$MESS ['forum_TAB_TITLE'] = "Ïðîôèëü ïîëüçîâàòåëÿ íà ôîðóìå";
-$MESS ['forum_INFO'] = "Ïðîôèëü ôîðóìà";
-$MESS ['forum_DESCRIPTION'] = "Ïîÿñíåíèå:";
-$MESS ['forum_INTERESTS'] = "Èíòåðåñû:";
-$MESS ['forum_AVATAR'] = "Àâàòàð:";
-$MESS ['forum_ALLOW_POST'] = "Ðàçðåøåíî ïèñàòü:";
-$MESS ['forum_SHOW_NAME'] = "Ïîêàçûâàòü èìÿ:";
-$MESS ['forum_SIGNATURE'] = "Ïîäïèñü:";
-$MESS ['forum_HIDE_FROM_ONLINE'] = "Íå ïîêàçûâàòü â ñïèñêå \"Ñåé÷àñ íà ôîðóìå\":";
-$MESS ['forum_SUBSC_GET_MY_MESSAGE'] = "Âêëþ÷àòü ñâîè ñîîáùåíèÿ â ðàññûëêó:";
+$MESS ['forum_TAB'] = "Ð¤Ð¾Ñ€ÑƒÐ¼";
+$MESS ['forum_TAB_TITLE'] = "ÐŸÑ€Ð¾Ñ„Ð¸Ð»ÑŒ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ Ð½Ð° Ñ„Ð¾Ñ€ÑƒÐ¼Ðµ";
+$MESS ['forum_INFO'] = "ÐŸÑ€Ð¾Ñ„Ð¸Ð»ÑŒ Ñ„Ð¾Ñ€ÑƒÐ¼Ð°";
+$MESS ['forum_DESCRIPTION'] = "ÐŸÐ¾ÑÑÐ½ÐµÐ½Ð¸Ðµ:";
+$MESS ['forum_INTERESTS'] = "Ð˜Ð½Ñ‚ÐµÑ€ÐµÑÑ‹:";
+$MESS ['forum_AVATAR'] = "ÐÐ²Ð°Ñ‚Ð°Ñ€:";
+$MESS ['forum_ALLOW_POST'] = "Ð Ð°Ð·Ñ€ÐµÑˆÐµÐ½Ð¾ Ð¿Ð¸ÑÐ°Ñ‚ÑŒ:";
+$MESS ['forum_SHOW_NAME'] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ð¸Ð¼Ñ:";
+$MESS ['forum_SIGNATURE'] = "ÐŸÐ¾Ð´Ð¿Ð¸ÑÑŒ:";
+$MESS ['forum_HIDE_FROM_ONLINE'] = "ÐÐµ Ð¿Ð¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ð² ÑÐ¿Ð¸ÑÐºÐµ \"Ð¡ÐµÐ¹Ñ‡Ð°Ñ Ð½Ð° Ñ„Ð¾Ñ€ÑƒÐ¼Ðµ\":";
+$MESS ['forum_SUBSC_GET_MY_MESSAGE'] = "Ð’ÐºÐ»ÑŽÑ‡Ð°Ñ‚ÑŒ ÑÐ²Ð¾Ð¸ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ Ð² Ñ€Ð°ÑÑÑ‹Ð»ÐºÑƒ:";
 ?>

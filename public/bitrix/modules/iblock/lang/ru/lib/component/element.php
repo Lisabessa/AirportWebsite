@@ -1,3 +1,3 @@
 <?
-$MESS["CATALOG_ELEMENT_NOT_FOUND"] = "Ýëåìåíò íå íàéäåí";
+$MESS["CATALOG_ELEMENT_NOT_FOUND"] = "Ð­Ð»ÐµÐ¼ÐµÐ½Ñ‚ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
 ?>

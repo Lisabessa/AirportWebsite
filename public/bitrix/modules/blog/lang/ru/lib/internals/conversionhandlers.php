@@ -1,3 +1,3 @@
 <?php
 
-$MESS['BLOG_CONVERSION_RATE_POST_TITLE'] = 'Áëîã: ñîîáùåíèÿ';
+$MESS['BLOG_CONVERSION_RATE_POST_TITLE'] = 'Ð‘Ð»Ð¾Ð³: ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ';

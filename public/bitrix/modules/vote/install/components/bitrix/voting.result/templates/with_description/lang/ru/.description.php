@@ -1,4 +1,4 @@
 <?
-$MESS ['VOTE_WITH_DESCRIPTION_NAME'] = "Шаблон с описанием опроса";
-$MESS ['VOTE_WITH_DESCRIPTION_DESC'] = "Шаблон по умолчанию с описанием опроса";
+$MESS ['VOTE_WITH_DESCRIPTION_NAME'] = "РЁР°Р±Р»РѕРЅ СЃ РѕРїРёСЃР°РЅРёРµРј РѕРїСЂРѕСЃР°";
+$MESS ['VOTE_WITH_DESCRIPTION_DESC'] = "РЁР°Р±Р»РѕРЅ РїРѕ СѓРјРѕР»С‡Р°РЅРёСЋ СЃ РѕРїРёСЃР°РЅРёРµРј РѕРїСЂРѕСЃР°";
 ?>

@@ -1,7 +1,7 @@
 <?
-$MESS["TR_EDIT_FILE_PATH_ERROR"] = "Íå óêàçàí ÿçûêîâîé ôàéë äëÿ ðåäàêòèðîâàíèÿ";
-$MESS["TR_EDIT_ERROR_FILE_NOT_LANG"] = "Ôàéë \"#FILE#\" íå ÿâëÿåòñÿ ÿçûêîâûì";
-$MESS["TR_EDIT_PARAM_ERROR"] = "Íå õâàòàåò äàííûõ äëÿ çàâåðøåíèÿ äåéñòâèÿ";
-$MESS["TR_EDIT_SAVING_COMPLETED"] = "Ñîõðàíåíî";
-$MESS["TR_EDIT_FILE_WRONG_NAME"] = "Íåêîððåêòíîå èìÿ ôàéëà.";
+$MESS["TR_EDIT_FILE_PATH_ERROR"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ ÑÐ·Ñ‹ÐºÐ¾Ð²Ð¾Ð¹ Ñ„Ð°Ð¹Ð» Ð´Ð»Ñ Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ";
+$MESS["TR_EDIT_ERROR_FILE_NOT_LANG"] = "Ð¤Ð°Ð¹Ð» \"#FILE#\" Ð½Ðµ ÑÐ²Ð»ÑÐµÑ‚ÑÑ ÑÐ·Ñ‹ÐºÐ¾Ð²Ñ‹Ð¼";
+$MESS["TR_EDIT_PARAM_ERROR"] = "ÐÐµ Ñ…Ð²Ð°Ñ‚Ð°ÐµÑ‚ Ð´Ð°Ð½Ð½Ñ‹Ñ… Ð´Ð»Ñ Ð·Ð°Ð²ÐµÑ€ÑˆÐµÐ½Ð¸Ñ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ";
+$MESS["TR_EDIT_SAVING_COMPLETED"] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð¾";
+$MESS["TR_EDIT_FILE_WRONG_NAME"] = "ÐÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ð¾Ðµ Ð¸Ð¼Ñ Ñ„Ð°Ð¹Ð»Ð°.";
 ?>

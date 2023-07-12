@@ -1,13 +1,13 @@
 <?php
-$MESS['LANDING_TABLE_FIELD_ACTIVE'] = 'Àêòèâíîñòü';
-$MESS['LANDING_TABLE_FIELD_DOMAIN'] = 'Äîìåí';
-$MESS['LANDING_TABLE_FIELD_XML_ID'] = 'Âíåøíèé êîä';
-$MESS['LANDING_TABLE_FIELD_PROTOCOL'] = 'Ïðîòîêîë';
-$MESS['LANDING_TABLE_FIELD_PROVIDER'] = 'Ïðîâàéäåð ðåãèñòðàöèè';
-$MESS['LANDING_TABLE_FIELD_CREATED_BY_ID'] = 'Èäåíòèôèêàòîð ñîçäàâøåãî ïîëüçîâàòåëÿ';
-$MESS['LANDING_TABLE_FIELD_MODIFIED_BY_ID'] = 'Èäåíòèôèêàòîð èçìåíèâøåãî ïîëüçîâàòåëÿ';
-$MESS['LANDING_TABLE_FIELD_DATE_CREATE'] = 'Äàòà ñîçäàíèÿ';
-$MESS['LANDING_TABLE_FIELD_DATE_MODIFY'] = 'Äàòà èçìåíåíèÿ';
-$MESS['LANDING_TABLE_ERROR_DOMAIN_IS_NOT_UNIQUE'] = 'Òàêîé äîìåí óæå ñóùåñòâóåò.';
-$MESS['LANDING_TABLE_ERROR_DOMAIN_IS_NOT_EMPTY'] = 'Ê äàííîìó äîìåíó ïðèâÿçàíû ñàéòû.';
-$MESS['LANDING_TABLE_ERROR_PROTOCOL_IS_NOT_VALID'] = 'Íåäîïóñòèìûé ïðîòîêîë.';
+$MESS['LANDING_TABLE_FIELD_ACTIVE'] = 'ÐÐºÑ‚Ð¸Ð²Ð½Ð¾ÑÑ‚ÑŒ';
+$MESS['LANDING_TABLE_FIELD_DOMAIN'] = 'Ð”Ð¾Ð¼ÐµÐ½';
+$MESS['LANDING_TABLE_FIELD_XML_ID'] = 'Ð’Ð½ÐµÑˆÐ½Ð¸Ð¹ ÐºÐ¾Ð´';
+$MESS['LANDING_TABLE_FIELD_PROTOCOL'] = 'ÐŸÑ€Ð¾Ñ‚Ð¾ÐºÐ¾Ð»';
+$MESS['LANDING_TABLE_FIELD_PROVIDER'] = 'ÐŸÑ€Ð¾Ð²Ð°Ð¹Ð´ÐµÑ€ Ñ€ÐµÐ³Ð¸ÑÑ‚Ñ€Ð°Ñ†Ð¸Ð¸';
+$MESS['LANDING_TABLE_FIELD_CREATED_BY_ID'] = 'Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÐ¾Ð·Ð´Ð°Ð²ÑˆÐµÐ³Ð¾ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ';
+$MESS['LANDING_TABLE_FIELD_MODIFIED_BY_ID'] = 'Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¸Ð·Ð¼ÐµÐ½Ð¸Ð²ÑˆÐµÐ³Ð¾ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ';
+$MESS['LANDING_TABLE_FIELD_DATE_CREATE'] = 'Ð”Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ';
+$MESS['LANDING_TABLE_FIELD_DATE_MODIFY'] = 'Ð”Ð°Ñ‚Ð° Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ';
+$MESS['LANDING_TABLE_ERROR_DOMAIN_IS_NOT_UNIQUE'] = 'Ð¢Ð°ÐºÐ¾Ð¹ Ð´Ð¾Ð¼ÐµÐ½ ÑƒÐ¶Ðµ ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÐµÑ‚.';
+$MESS['LANDING_TABLE_ERROR_DOMAIN_IS_NOT_EMPTY'] = 'Ðš Ð´Ð°Ð½Ð½Ð¾Ð¼Ñƒ Ð´Ð¾Ð¼ÐµÐ½Ñƒ Ð¿Ñ€Ð¸Ð²ÑÐ·Ð°Ð½Ñ‹ ÑÐ°Ð¹Ñ‚Ñ‹.';
+$MESS['LANDING_TABLE_ERROR_PROTOCOL_IS_NOT_VALID'] = 'ÐÐµÐ´Ð¾Ð¿ÑƒÑÑ‚Ð¸Ð¼Ñ‹Ð¹ Ð¿Ñ€Ð¾Ñ‚Ð¾ÐºÐ¾Ð».';

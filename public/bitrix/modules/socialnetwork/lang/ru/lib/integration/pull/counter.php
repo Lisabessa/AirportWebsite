@@ -1,4 +1,4 @@
 <?
-$MESS["SONET_COUNTER_TYPE_LIVEFEED"] = "Æèâàÿ ëåíòà";
-$MESS["SONET_COUNTER_TYPE_LIVEFEED2"] = "Íîâîñòè";
+$MESS["SONET_COUNTER_TYPE_LIVEFEED"] = "Ð–Ð¸Ð²Ð°Ñ Ð»ÐµÐ½Ñ‚Ð°";
+$MESS["SONET_COUNTER_TYPE_LIVEFEED2"] = "ÐÐ¾Ð²Ð¾ÑÑ‚Ð¸";
 ?>

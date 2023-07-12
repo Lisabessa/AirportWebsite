@@ -1,31 +1,31 @@
 <?
-$MESS["VK_JOURNAL_ALBUMS"] = "Ïîäáîðêè òîâàðîâ";
-$MESS["VK_JOURNAL_PRODUCTS"] = "Òîâàðû";
-$MESS["VK_JOURNAL_NEVER"] = "Ýêñïîðò íå çàïóñêàëñÿ íè ðàçó.";
-$MESS["VK_JOURNAL_LAST_EXPORT"] = "Ïîñëåäíèé ðàç ýêñïîðòèðîâàëèñü #D1 â #D2.";
-$MESS["VK_JOURNAL_LAST_EXPORT_ABORTED"] = "Ýêñïîðò áûë ïðåðâàí.";
-$MESS["VK_JOURNAL_EXPORT_NOW"] = "Ýêñïîðò âûïîëíÿåòñÿ ñåé÷àñ.";
-$MESS["VK_JOURNAL_COUNT_WAS"] = "Áûëî îáðàáîòàíî #C1 ýëåìåíòîâ.";
-$MESS["VK_JOURNAL_COUNT_NOW"] = "Îáðàáîòàíî #C1 ýëåìåíòîâ.";
-$MESS["VK_JOURNAL_RUNNING_NOTIFY_1"] = "Â çàâèñèìîñòè îò êîëè÷åñòâà òîâàðîâ è àëüáîìîâ, à òàê æå ïðîèçâîäèòåëüíîñòè ñåðâåðà è êà÷åñòâà èíòåðíåò-ñîåäèíåíèÿ, ýêñïîðò ìîæåò ïðîäîëæàòüñÿ äî íåñêîëüêèõ ÷àñîâ.";
-$MESS["VK_JOURNAL_RUNNING_NOTIFY_2"] = "Âû íå ìîæåòå çàïóñêàòü íîâûé ïðîöåññ, ïîêà íå çàêîí÷èòñÿ òåêóùèé.";
-$MESS["VK_JOURNAL_BUTTON_STOP_PROCESS"] = "Îñòàíîâèòü";
-$MESS["VK_JOURNAL_BUTTON_STOP_PROCESS_ALERT"] = "Ýêñïîðò áóäåò îñòàíîâëåí. Ïðîäîëæèòü?";
-$MESS["VK_JOURNAL_TOO_MUCH_TIMES_NOTIFY_1"] = "Ýêñïîðò ïðîõîäèò ñëèøêîì ìåäëåííî.";
-$MESS["VK_JOURNAL_TOO_MUCH_TIMES_NOTIFY_2"] = "Óâåëè÷üòå âðåìÿ âûïîëíåíèÿ îäíîãî øàãà èëè óìåíüøèòå êîëè÷åñòâî ýëåìåíòîâ íà êàæäûé øàã.";
+$MESS["VK_JOURNAL_ALBUMS"] = "ÐŸÐ¾Ð´Ð±Ð¾Ñ€ÐºÐ¸ Ñ‚Ð¾Ð²Ð°Ñ€Ð¾Ð²";
+$MESS["VK_JOURNAL_PRODUCTS"] = "Ð¢Ð¾Ð²Ð°Ñ€Ñ‹";
+$MESS["VK_JOURNAL_NEVER"] = "Ð­ÐºÑÐ¿Ð¾Ñ€Ñ‚ Ð½Ðµ Ð·Ð°Ð¿ÑƒÑÐºÐ°Ð»ÑÑ Ð½Ð¸ Ñ€Ð°Ð·Ñƒ.";
+$MESS["VK_JOURNAL_LAST_EXPORT"] = "ÐŸÐ¾ÑÐ»ÐµÐ´Ð½Ð¸Ð¹ Ñ€Ð°Ð· ÑÐºÑÐ¿Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ð»Ð¸ÑÑŒ #D1 Ð² #D2.";
+$MESS["VK_JOURNAL_LAST_EXPORT_ABORTED"] = "Ð­ÐºÑÐ¿Ð¾Ñ€Ñ‚ Ð±Ñ‹Ð» Ð¿Ñ€ÐµÑ€Ð²Ð°Ð½.";
+$MESS["VK_JOURNAL_EXPORT_NOW"] = "Ð­ÐºÑÐ¿Ð¾Ñ€Ñ‚ Ð²Ñ‹Ð¿Ð¾Ð»Ð½ÑÐµÑ‚ÑÑ ÑÐµÐ¹Ñ‡Ð°Ñ.";
+$MESS["VK_JOURNAL_COUNT_WAS"] = "Ð‘Ñ‹Ð»Ð¾ Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚Ð°Ð½Ð¾ #C1 ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð².";
+$MESS["VK_JOURNAL_COUNT_NOW"] = "ÐžÐ±Ñ€Ð°Ð±Ð¾Ñ‚Ð°Ð½Ð¾ #C1 ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð².";
+$MESS["VK_JOURNAL_RUNNING_NOTIFY_1"] = "Ð’ Ð·Ð°Ð²Ð¸ÑÐ¸Ð¼Ð¾ÑÑ‚Ð¸ Ð¾Ñ‚ ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð° Ñ‚Ð¾Ð²Ð°Ñ€Ð¾Ð² Ð¸ Ð°Ð»ÑŒÐ±Ð¾Ð¼Ð¾Ð², Ð° Ñ‚Ð°Ðº Ð¶Ðµ Ð¿Ñ€Ð¾Ð¸Ð·Ð²Ð¾Ð´Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾ÑÑ‚Ð¸ ÑÐµÑ€Ð²ÐµÑ€Ð° Ð¸ ÐºÐ°Ñ‡ÐµÑÑ‚Ð²Ð° Ð¸Ð½Ñ‚ÐµÑ€Ð½ÐµÑ‚-ÑÐ¾ÐµÐ´Ð¸Ð½ÐµÐ½Ð¸Ñ, ÑÐºÑÐ¿Ð¾Ñ€Ñ‚ Ð¼Ð¾Ð¶ÐµÑ‚ Ð¿Ñ€Ð¾Ð´Ð¾Ð»Ð¶Ð°Ñ‚ÑŒÑÑ Ð´Ð¾ Ð½ÐµÑÐºÐ¾Ð»ÑŒÐºÐ¸Ñ… Ñ‡Ð°ÑÐ¾Ð².";
+$MESS["VK_JOURNAL_RUNNING_NOTIFY_2"] = "Ð’Ñ‹ Ð½Ðµ Ð¼Ð¾Ð¶ÐµÑ‚Ðµ Ð·Ð°Ð¿ÑƒÑÐºÐ°Ñ‚ÑŒ Ð½Ð¾Ð²Ñ‹Ð¹ Ð¿Ñ€Ð¾Ñ†ÐµÑÑ, Ð¿Ð¾ÐºÐ° Ð½Ðµ Ð·Ð°ÐºÐ¾Ð½Ñ‡Ð¸Ñ‚ÑÑ Ñ‚ÐµÐºÑƒÑ‰Ð¸Ð¹.";
+$MESS["VK_JOURNAL_BUTTON_STOP_PROCESS"] = "ÐžÑÑ‚Ð°Ð½Ð¾Ð²Ð¸Ñ‚ÑŒ";
+$MESS["VK_JOURNAL_BUTTON_STOP_PROCESS_ALERT"] = "Ð­ÐºÑÐ¿Ð¾Ñ€Ñ‚ Ð±ÑƒÐ´ÐµÑ‚ Ð¾ÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½. ÐŸÑ€Ð¾Ð´Ð¾Ð»Ð¶Ð¸Ñ‚ÑŒ?";
+$MESS["VK_JOURNAL_TOO_MUCH_TIMES_NOTIFY_1"] = "Ð­ÐºÑÐ¿Ð¾Ñ€Ñ‚ Ð¿Ñ€Ð¾Ñ…Ð¾Ð´Ð¸Ñ‚ ÑÐ»Ð¸ÑˆÐºÐ¾Ð¼ Ð¼ÐµÐ´Ð»ÐµÐ½Ð½Ð¾.";
+$MESS["VK_JOURNAL_TOO_MUCH_TIMES_NOTIFY_2"] = "Ð£Ð²ÐµÐ»Ð¸Ñ‡ÑŒÑ‚Ðµ Ð²Ñ€ÐµÐ¼Ñ Ð²Ñ‹Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¸Ñ Ð¾Ð´Ð½Ð¾Ð³Ð¾ ÑˆÐ°Ð³Ð° Ð¸Ð»Ð¸ ÑƒÐ¼ÐµÐ½ÑŒÑˆÐ¸Ñ‚Ðµ ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð² Ð½Ð° ÐºÐ°Ð¶Ð´Ñ‹Ð¹ ÑˆÐ°Ð³.";
 
-$MESS["VK_JOURNAL_BUTTON_CLEAR_LOG"] = "ß ïðî÷èòàë";
-$MESS["VK_JOURNAL_BUTTON_CLEAR_LOG_ALERT"] = "Ëîã îøèáîê áóäåò î÷èùåí. Ïðîäîëæèòü?";
+$MESS["VK_JOURNAL_BUTTON_CLEAR_LOG"] = "Ð¯ Ð¿Ñ€Ð¾Ñ‡Ð¸Ñ‚Ð°Ð»";
+$MESS["VK_JOURNAL_BUTTON_CLEAR_LOG_ALERT"] = "Ð›Ð¾Ð³ Ð¾ÑˆÐ¸Ð±Ð¾Ðº Ð±ÑƒÐ´ÐµÑ‚ Ð¾Ñ‡Ð¸Ñ‰ÐµÐ½. ÐŸÑ€Ð¾Ð´Ð¾Ð»Ð¶Ð¸Ñ‚ÑŒ?";
 
-$MESS["VK_JOURNAL_PROCESSING_COUNT"] = "Îáðàáîòàíî #C1 ýëåìåíòîâ ...";
-$MESS["VK_JOURNAL_NOW_EXPORT_ALL"] = "Ýêñïîðòèðóþòñÿ àëüáîìû:";
-$MESS["VK_JOURNAL_NOW_EXPORT_ALBUMS"] = "Ýêñïîðòèðóþòñÿ àëüáîìû:";
-$MESS["VK_JOURNAL_NOW_EXPORT_ALBUMS_DELETE"] = "Óäàëÿþòñÿ àëüáîìû:";
-$MESS["VK_JOURNAL_NOW_EXPORT_ALBUMS_DELETE_ALL"] = "Óäàëÿþòñÿ àëüáîìû:";
-$MESS["VK_JOURNAL_NOW_EXPORT_PRODUCTS"] = "Ýêñïîðòèðóþòñÿ òîâàðû:";
-$MESS["VK_JOURNAL_NOW_EXPORT_PRODUCTS_DELETE"] = "Óäàëÿþòñÿ òîâàðû:";
-$MESS["VK_JOURNAL_NOW_EXPORT_PRODUCTS_DELETE_ALL"] = "Óäàëÿþòñÿ òîâàðû:";
-$MESS["VK_JOURNAL_EXPORT_FININSH"] = "Ýêñïîðò çàâåðø¸í.";
-$MESS["VK_JOURNAL_EXPORT_ABORT"] = "Ýêñïîðò ïðåðâàí.";
+$MESS["VK_JOURNAL_PROCESSING_COUNT"] = "ÐžÐ±Ñ€Ð°Ð±Ð¾Ñ‚Ð°Ð½Ð¾ #C1 ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð² ...";
+$MESS["VK_JOURNAL_NOW_EXPORT_ALL"] = "Ð­ÐºÑÐ¿Ð¾Ñ€Ñ‚Ð¸Ñ€ÑƒÑŽÑ‚ÑÑ Ð°Ð»ÑŒÐ±Ð¾Ð¼Ñ‹:";
+$MESS["VK_JOURNAL_NOW_EXPORT_ALBUMS"] = "Ð­ÐºÑÐ¿Ð¾Ñ€Ñ‚Ð¸Ñ€ÑƒÑŽÑ‚ÑÑ Ð°Ð»ÑŒÐ±Ð¾Ð¼Ñ‹:";
+$MESS["VK_JOURNAL_NOW_EXPORT_ALBUMS_DELETE"] = "Ð£Ð´Ð°Ð»ÑÑŽÑ‚ÑÑ Ð°Ð»ÑŒÐ±Ð¾Ð¼Ñ‹:";
+$MESS["VK_JOURNAL_NOW_EXPORT_ALBUMS_DELETE_ALL"] = "Ð£Ð´Ð°Ð»ÑÑŽÑ‚ÑÑ Ð°Ð»ÑŒÐ±Ð¾Ð¼Ñ‹:";
+$MESS["VK_JOURNAL_NOW_EXPORT_PRODUCTS"] = "Ð­ÐºÑÐ¿Ð¾Ñ€Ñ‚Ð¸Ñ€ÑƒÑŽÑ‚ÑÑ Ñ‚Ð¾Ð²Ð°Ñ€Ñ‹:";
+$MESS["VK_JOURNAL_NOW_EXPORT_PRODUCTS_DELETE"] = "Ð£Ð´Ð°Ð»ÑÑŽÑ‚ÑÑ Ñ‚Ð¾Ð²Ð°Ñ€Ñ‹:";
+$MESS["VK_JOURNAL_NOW_EXPORT_PRODUCTS_DELETE_ALL"] = "Ð£Ð´Ð°Ð»ÑÑŽÑ‚ÑÑ Ñ‚Ð¾Ð²Ð°Ñ€Ñ‹:";
+$MESS["VK_JOURNAL_EXPORT_FININSH"] = "Ð­ÐºÑÐ¿Ð¾Ñ€Ñ‚ Ð·Ð°Ð²ÐµÑ€ÑˆÑ‘Ð½.";
+$MESS["VK_JOURNAL_EXPORT_ABORT"] = "Ð­ÐºÑÐ¿Ð¾Ñ€Ñ‚ Ð¿Ñ€ÐµÑ€Ð²Ð°Ð½.";
 
 

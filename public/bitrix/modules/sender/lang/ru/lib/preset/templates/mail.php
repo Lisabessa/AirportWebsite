@@ -1,7 +1,7 @@
 <?
-$MESS["SENDER_PRESET_TEMPLATE_MAIL_UNSUBSCRIBE"] = "Âû ïîëó÷èëè ýòî ïèñüìî, òàê êàê ÿâëÿåòåñü êëèåíòîì íàøåé êîìïàíèè. Åñëè âû íå õîòèòå áîëüøå ïîëó÷àòü íàøè ïèñüìà, %btn_start%íàæìèòå ñþäà%btn_end%";
-$MESS["SENDER_PRESET_TEMPLATE_MAIL_BUTTON_GO"] = "ïåðåéòè íà ñàéò";
-$MESS["SENDER_PRESET_TEMPLATE_MAIL_HTML_NAME"] = "Ñâîé HTML";
-$MESS["SENDER_PRESET_TEMPLATE_MAIL_HTML_DESC"] = "Ðåäàêòîð áóäåò íåäîñòóïåí";
-$MESS["SENDER_PRESET_TEMPLATE_MAIL_HTML_SUBJECT"] = "Ó íàñ äëÿ âàñ èíòåðåñíîå ïðåäëîæåíèå";
+$MESS["SENDER_PRESET_TEMPLATE_MAIL_UNSUBSCRIBE"] = "Ð’Ñ‹ Ð¿Ð¾Ð»ÑƒÑ‡Ð¸Ð»Ð¸ ÑÑ‚Ð¾ Ð¿Ð¸ÑÑŒÐ¼Ð¾, Ñ‚Ð°Ðº ÐºÐ°Ðº ÑÐ²Ð»ÑÐµÑ‚ÐµÑÑŒ ÐºÐ»Ð¸ÐµÐ½Ñ‚Ð¾Ð¼ Ð½Ð°ÑˆÐµÐ¹ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸. Ð•ÑÐ»Ð¸ Ð²Ñ‹ Ð½Ðµ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ Ð±Ð¾Ð»ÑŒÑˆÐµ Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÑŒ Ð½Ð°ÑˆÐ¸ Ð¿Ð¸ÑÑŒÐ¼Ð°, %btn_start%Ð½Ð°Ð¶Ð¼Ð¸Ñ‚Ðµ ÑÑŽÐ´Ð°%btn_end%";
+$MESS["SENDER_PRESET_TEMPLATE_MAIL_BUTTON_GO"] = "Ð¿ÐµÑ€ÐµÐ¹Ñ‚Ð¸ Ð½Ð° ÑÐ°Ð¹Ñ‚";
+$MESS["SENDER_PRESET_TEMPLATE_MAIL_HTML_NAME"] = "Ð¡Ð²Ð¾Ð¹ HTML";
+$MESS["SENDER_PRESET_TEMPLATE_MAIL_HTML_DESC"] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¾Ñ€ Ð±ÑƒÐ´ÐµÑ‚ Ð½ÐµÐ´Ð¾ÑÑ‚ÑƒÐ¿ÐµÐ½";
+$MESS["SENDER_PRESET_TEMPLATE_MAIL_HTML_SUBJECT"] = "Ð£ Ð½Ð°Ñ Ð´Ð»Ñ Ð²Ð°Ñ Ð¸Ð½Ñ‚ÐµÑ€ÐµÑÐ½Ð¾Ðµ Ð¿Ñ€ÐµÐ´Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ";
 ?>

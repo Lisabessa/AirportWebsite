@@ -1,14 +1,14 @@
 <?
-$MESS["WIKI_OPTIONS_ALLOW_HTML"] = "Ðàçðåøèòü èñïîëüçîâàíèå âèçóàëüíîãî ðåäàêòîðà è HTML";
-$MESS["WIKI_OPTIONS_IMAGE_MAX_WIDTH"] = "Ìàêñèìàëüíàÿ øèðèíà çàãðóæàåìîãî èçîáðàæåíèÿ (ïèêñåëåé)";
-$MESS["WIKI_OPTIONS_IMAGE_MAX_HEIGHT"] = "Ìàêñèìàëüíàÿ âûñîòà çàãðóæàåìîãî èçîáðàæåíèÿ (ïèêñåëåé)";
-$MESS["WIKI_OPTIONS_IMAGE_DESCR"] = "Ýòî ðàçìåðû èçîáðàæåíèÿ, ïîëó÷àåìûå ïðè ðåñàéçå çàãðóæàåìûõ êàðòèíîê";
-$MESS["WIKI_TAB_SOCNET"] = "Ñîöèàëüíàÿ ñåòü";
-$MESS["WIKI_TAB_TITLE_SOCNET"] = "Íàñòðîéêè èíòåãðàöèè ìîäóëÿ Wiki â ñîöèàëüíóþ ñåòü";
-$MESS["WIKI_OPTIONS_SOCNET_ENABLE"] = "Âêëþ÷èòü ïîääåðæêó ñîöèàëüíîé ñåòè";
-$MESS["WIKI_OPTIONS_SOCNET_IBLOCK_ID"] = "Èíôîáëîê";
-$MESS["WIKI_OPTIONS_SOCNET_USE_REVIEW"] = "Ðàçðåøèòü îáñóæäåíèå";
-$MESS["WIKI_OPTIONS_SOCNET_FORUM_ID"] = "ID ôîðóìà äëÿ îòçûâîâ";
-$MESS["WIKI_OPTIONS_SOCNET_MESSAGE_PER_PAGE"] = "Êîëè÷åñòâî ñîîáùåíèé íà îäíîé ñòðàíèöå";
-$MESS["WIKI_OPTIONS_SOCNET_USE_CAPTCHA"] = "Èñïîëüçîâàòü CAPTCHA";
+$MESS["WIKI_OPTIONS_ALLOW_HTML"] = "Ð Ð°Ð·Ñ€ÐµÑˆÐ¸Ñ‚ÑŒ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð²Ð¸Ð·ÑƒÐ°Ð»ÑŒÐ½Ð¾Ð³Ð¾ Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¾Ñ€Ð° Ð¸ HTML";
+$MESS["WIKI_OPTIONS_IMAGE_MAX_WIDTH"] = "ÐœÐ°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ð°Ñ ÑˆÐ¸Ñ€Ð¸Ð½Ð° Ð·Ð°Ð³Ñ€ÑƒÐ¶Ð°ÐµÐ¼Ð¾Ð³Ð¾ Ð¸Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ñ (Ð¿Ð¸ÐºÑÐµÐ»ÐµÐ¹)";
+$MESS["WIKI_OPTIONS_IMAGE_MAX_HEIGHT"] = "ÐœÐ°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ð°Ñ Ð²Ñ‹ÑÐ¾Ñ‚Ð° Ð·Ð°Ð³Ñ€ÑƒÐ¶Ð°ÐµÐ¼Ð¾Ð³Ð¾ Ð¸Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ñ (Ð¿Ð¸ÐºÑÐµÐ»ÐµÐ¹)";
+$MESS["WIKI_OPTIONS_IMAGE_DESCR"] = "Ð­Ñ‚Ð¾ Ñ€Ð°Ð·Ð¼ÐµÑ€Ñ‹ Ð¸Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ñ, Ð¿Ð¾Ð»ÑƒÑ‡Ð°ÐµÐ¼Ñ‹Ðµ Ð¿Ñ€Ð¸ Ñ€ÐµÑÐ°Ð¹Ð·Ðµ Ð·Ð°Ð³Ñ€ÑƒÐ¶Ð°ÐµÐ¼Ñ‹Ñ… ÐºÐ°Ñ€Ñ‚Ð¸Ð½Ð¾Ðº";
+$MESS["WIKI_TAB_SOCNET"] = "Ð¡Ð¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð°Ñ ÑÐµÑ‚ÑŒ";
+$MESS["WIKI_TAB_TITLE_SOCNET"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð¸Ð½Ñ‚ÐµÐ³Ñ€Ð°Ñ†Ð¸Ð¸ Ð¼Ð¾Ð´ÑƒÐ»Ñ Wiki Ð² ÑÐ¾Ñ†Ð¸Ð°Ð»ÑŒÐ½ÑƒÑŽ ÑÐµÑ‚ÑŒ";
+$MESS["WIKI_OPTIONS_SOCNET_ENABLE"] = "Ð’ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÑƒ ÑÐ¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð¾Ð¹ ÑÐµÑ‚Ð¸";
+$MESS["WIKI_OPTIONS_SOCNET_IBLOCK_ID"] = "Ð˜Ð½Ñ„Ð¾Ð±Ð»Ð¾Ðº";
+$MESS["WIKI_OPTIONS_SOCNET_USE_REVIEW"] = "Ð Ð°Ð·Ñ€ÐµÑˆÐ¸Ñ‚ÑŒ Ð¾Ð±ÑÑƒÐ¶Ð´ÐµÐ½Ð¸Ðµ";
+$MESS["WIKI_OPTIONS_SOCNET_FORUM_ID"] = "ID Ñ„Ð¾Ñ€ÑƒÐ¼Ð° Ð´Ð»Ñ Ð¾Ñ‚Ð·Ñ‹Ð²Ð¾Ð²";
+$MESS["WIKI_OPTIONS_SOCNET_MESSAGE_PER_PAGE"] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ð¹ Ð½Ð° Ð¾Ð´Ð½Ð¾Ð¹ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ðµ";
+$MESS["WIKI_OPTIONS_SOCNET_USE_CAPTCHA"] = "Ð˜ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ CAPTCHA";
 ?>

@@ -1,17 +1,17 @@
 <?
-$MESS["SMILE_TITLE"] = "Ãàëåðåè ñìàéëîâ";
-$MESS["SMILE_DEL_CONF"] = "Âû óâåðåíû, ÷òî õîòèòå óäàëèòü ýòó ãàëåðåþ, áóäóò óäàëåíû òàê æå è íàáîðû ñî ñìàéëàìè âõîäÿùèå â ãàëåðåþ?";
-$MESS["SMILE_NAV"] = "Ãàëåðåè";
+$MESS["SMILE_TITLE"] = "Ð“Ð°Ð»ÐµÑ€ÐµÐ¸ ÑÐ¼Ð°Ð¹Ð»Ð¾Ð²";
+$MESS["SMILE_DEL_CONF"] = "Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹, Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ ÑÑ‚Ñƒ Ð³Ð°Ð»ÐµÑ€ÐµÑŽ, Ð±ÑƒÐ´ÑƒÑ‚ ÑƒÐ´Ð°Ð»ÐµÐ½Ñ‹ Ñ‚Ð°Ðº Ð¶Ðµ Ð¸ Ð½Ð°Ð±Ð¾Ñ€Ñ‹ ÑÐ¾ ÑÐ¼Ð°Ð¹Ð»Ð°Ð¼Ð¸ Ð²Ñ…Ð¾Ð´ÑÑ‰Ð¸Ðµ Ð² Ð³Ð°Ð»ÐµÑ€ÐµÑŽ?";
+$MESS["SMILE_NAV"] = "Ð“Ð°Ð»ÐµÑ€ÐµÐ¸";
 $MESS["SMILE_ID"] = "ID";
-$MESS["SMILE_SORT"] = "Ñîðò.";
-$MESS["SMILE_NAME"] = "Íàçâàíèå";
-$MESS["SMILE_GALLERY_NAME"] = "Ãàëåðåÿ: #ID#";
-$MESS["SMILE_STRING_ID"] = "Êîä ãàëåðåè";
-$MESS["SMILE_SMILE_COUNT"] = "Ñìàéëîâ";
-$MESS["SMILE_DELETE_DESCR"] = "Óäàëèòü";
-$MESS["SMILE_EDIT"] = "Èçìåíèòü";
-$MESS["SMILE_EDIT_DESCR"] = "Èçìåíèòü";
-$MESS["ERROR_DEL_SMILE"] = "Îøèáêà óäàëåíèÿ ãàëåðåè.";
-$MESS["SMILE_BTN_ADD_NEW"] = "Íîâàÿ ãàëåðåÿ";
-$MESS["SMILE_BTN_ADD_NEW_ALT"] = "Íàæìèòå äëÿ ñîçäàíèÿ íîâîé ãàëåðåè";
+$MESS["SMILE_SORT"] = "Ð¡Ð¾Ñ€Ñ‚.";
+$MESS["SMILE_NAME"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
+$MESS["SMILE_GALLERY_NAME"] = "Ð“Ð°Ð»ÐµÑ€ÐµÑ: #ID#";
+$MESS["SMILE_STRING_ID"] = "ÐšÐ¾Ð´ Ð³Ð°Ð»ÐµÑ€ÐµÐ¸";
+$MESS["SMILE_SMILE_COUNT"] = "Ð¡Ð¼Ð°Ð¹Ð»Ð¾Ð²";
+$MESS["SMILE_DELETE_DESCR"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";
+$MESS["SMILE_EDIT"] = "Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
+$MESS["SMILE_EDIT_DESCR"] = "Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
+$MESS["ERROR_DEL_SMILE"] = "ÐžÑˆÐ¸Ð±ÐºÐ° ÑƒÐ´Ð°Ð»ÐµÐ½Ð¸Ñ Ð³Ð°Ð»ÐµÑ€ÐµÐ¸.";
+$MESS["SMILE_BTN_ADD_NEW"] = "ÐÐ¾Ð²Ð°Ñ Ð³Ð°Ð»ÐµÑ€ÐµÑ";
+$MESS["SMILE_BTN_ADD_NEW_ALT"] = "ÐÐ°Ð¶Ð¼Ð¸Ñ‚Ðµ Ð´Ð»Ñ ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ Ð½Ð¾Ð²Ð¾Ð¹ Ð³Ð°Ð»ÐµÑ€ÐµÐ¸";
 ?>

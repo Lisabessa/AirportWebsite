@@ -1,5 +1,5 @@
 <?
-$MESS["sender_trigger_order_new_name"] = "Створення нового замовлення";
-$MESS["sender_trigger_order_new_pers_order_id_name"] = "Код замовлення";
-$MESS["sender_trigger_order_new_pers_order_id_desc"] = "Це код замовлення, з яким пов'язана подія";
+$MESS["sender_trigger_order_new_name"] = "РЎС‚РІРѕСЂРµРЅРЅСЏ РЅРѕРІРѕРіРѕ Р·Р°РјРѕРІР»РµРЅРЅСЏ";
+$MESS["sender_trigger_order_new_pers_order_id_name"] = "РљРѕРґ Р·Р°РјРѕРІР»РµРЅРЅСЏ";
+$MESS["sender_trigger_order_new_pers_order_id_desc"] = "Р¦Рµ РєРѕРґ Р·Р°РјРѕРІР»РµРЅРЅСЏ, Р· СЏРєРёРј РїРѕРІ'СЏР·Р°РЅР° РїРѕРґС–СЏ";
 ?>

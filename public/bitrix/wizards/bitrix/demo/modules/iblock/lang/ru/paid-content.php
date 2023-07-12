@@ -1,5 +1,5 @@
 <?
-$MESS ['DEMO_IBLOCK_ESTORE_PAID_MENU'] = "Ïëàòíûé êîíòåíò";
-$MESS ['DEMO_IBLOCK_ESTORE_PAID_GROUP_NAME'] = "Ïîäïèñ÷èêè";
-$MESS ['DEMO_IBLOCK_ESTORE_PAID_GROUP_DESC'] = "Ïîëüçîâàòåëè, îôîðìèâøèå ïîäïèñêó íà äîñòóï ê ïëàòíûì ðåñóðñàì ñàéòà.";
+$MESS ['DEMO_IBLOCK_ESTORE_PAID_MENU'] = "ÐŸÐ»Ð°Ñ‚Ð½Ñ‹Ð¹ ÐºÐ¾Ð½Ñ‚ÐµÐ½Ñ‚";
+$MESS ['DEMO_IBLOCK_ESTORE_PAID_GROUP_NAME'] = "ÐŸÐ¾Ð´Ð¿Ð¸ÑÑ‡Ð¸ÐºÐ¸";
+$MESS ['DEMO_IBLOCK_ESTORE_PAID_GROUP_DESC'] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ð¸, Ð¾Ñ„Ð¾Ñ€Ð¼Ð¸Ð²ÑˆÐ¸Ðµ Ð¿Ð¾Ð´Ð¿Ð¸ÑÐºÑƒ Ð½Ð° Ð´Ð¾ÑÑ‚ÑƒÐ¿ Ðº Ð¿Ð»Ð°Ñ‚Ð½Ñ‹Ð¼ Ñ€ÐµÑÑƒÑ€ÑÐ°Ð¼ ÑÐ°Ð¹Ñ‚Ð°.";
 ?>

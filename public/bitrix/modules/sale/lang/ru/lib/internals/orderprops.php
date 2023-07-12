@@ -1,10 +1,10 @@
 <?php
 
-$MESS['ORDER_PROPS_ENTITY_NAME_FIELD'] = 'Íàçâàíèå';
-$MESS['ORDER_PROPS_ENTITY_DEFAULT_VALUE_FIELD'] = 'Çíà÷åíèå ïî óìîë÷àíèþ';
-$MESS['ORDER_PROPS_ENTITY_SORT_FIELD'] = 'Ñîðòèðîâêà';
-$MESS['ORDER_PROPS_ENTITY_DESCRIPTION_FIELD'] = 'Îïèñàíèå ñâîéñòâà';
-$MESS['ORDER_PROPS_ENTITY_CODE_FIELD'] = 'Ìíåìîíè÷åñêèé êîä';
+$MESS['ORDER_PROPS_ENTITY_NAME_FIELD'] = 'ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ';
+$MESS['ORDER_PROPS_ENTITY_DEFAULT_VALUE_FIELD'] = 'Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð¿Ð¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ';
+$MESS['ORDER_PROPS_ENTITY_SORT_FIELD'] = 'Ð¡Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²ÐºÐ°';
+$MESS['ORDER_PROPS_ENTITY_DESCRIPTION_FIELD'] = 'ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ ÑÐ²Ð¾Ð¹ÑÑ‚Ð²Ð°';
+$MESS['ORDER_PROPS_ENTITY_CODE_FIELD'] = 'ÐœÐ½ÐµÐ¼Ð¾Ð½Ð¸Ñ‡ÐµÑÐºÐ¸Ð¹ ÐºÐ¾Ð´';
 
-$MESS['SALE_ORDER_PROPS_DEFAULT_ERROR'] = 'Äëèíà çíà÷åíèÿ ñâîéñòâà "#PROPERTY_NAME#" (#FIELD_LENGTH#) ïðåâûøàåò äîïóñòèìóþ (#MAX_LENGTH#)';
-$MESS['SALE_ORDER_PROPS_SETTINGS_ERROR'] = 'äëèíà íàñòðîåê òèïà äàííûõ - #LENGTH#, ïðåâûøàåò #MAXLENGTH#';
+$MESS['SALE_ORDER_PROPS_DEFAULT_ERROR'] = 'Ð”Ð»Ð¸Ð½Ð° Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ñ ÑÐ²Ð¾Ð¹ÑÑ‚Ð²Ð° "#PROPERTY_NAME#" (#FIELD_LENGTH#) Ð¿Ñ€ÐµÐ²Ñ‹ÑˆÐ°ÐµÑ‚ Ð´Ð¾Ð¿ÑƒÑÑ‚Ð¸Ð¼ÑƒÑŽ (#MAX_LENGTH#)';
+$MESS['SALE_ORDER_PROPS_SETTINGS_ERROR'] = 'Ð´Ð»Ð¸Ð½Ð° Ð½Ð°ÑÑ‚Ñ€Ð¾ÐµÐº Ñ‚Ð¸Ð¿Ð° Ð´Ð°Ð½Ð½Ñ‹Ñ… - #LENGTH#, Ð¿Ñ€ÐµÐ²Ñ‹ÑˆÐ°ÐµÑ‚ #MAXLENGTH#';

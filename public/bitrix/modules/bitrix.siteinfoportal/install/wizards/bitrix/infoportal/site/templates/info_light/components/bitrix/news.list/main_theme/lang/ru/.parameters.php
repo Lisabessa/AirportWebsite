@@ -1,4 +1,4 @@
 <?
-$MESS ['T_IBLOCK_MAIN_THEME'] = "Çàãîëîâîê áëîêà ãëàâíîé òåìû";
-$MESS ['T_IBLOCK_DESC_MAIN_THEME'] = "Ãëàâíàÿ òåìà";
+$MESS ['T_IBLOCK_MAIN_THEME'] = "Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº Ð±Ð»Ð¾ÐºÐ° Ð³Ð»Ð°Ð²Ð½Ð¾Ð¹ Ñ‚ÐµÐ¼Ñ‹";
+$MESS ['T_IBLOCK_DESC_MAIN_THEME'] = "Ð“Ð»Ð°Ð²Ð½Ð°Ñ Ñ‚ÐµÐ¼Ð°";
 ?>

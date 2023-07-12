@@ -1,10 +1,10 @@
 <?php
 
-$MESS["SALE_PAYMENT_DELETE_EXIST_PAID"] = "Îïëàòà îïëà÷åíà. Îòìåíèòå îïëàòó";
-$MESS["SALE_PAYMENT_ALREADY_PAID"] = "Îïëàòà óæå îïëà÷åíà";
-$MESS["SALE_PAYMENT_NOT_ALLOWED_CHANGE_SUM"] = "Íåâîçìîæíî èçìåíèòü ñóììó îïëà÷åííîé îïëàòû";
-$MESS["SALE_PAYMENT_PAYMENT_SERVICE_EMPTY"] = "Íå óêàçàíà ïëàòåæíàÿ ñèñòåìà";
-$MESS["SALE_PAYMENT_WRONG_PAYMENT_SERVICE"] = "Óêàçàíà íåâåðíàÿ ïëàòåæíàÿ ñèñòåìà";
-$MESS["SALE_ORDER_PAYMENT_RETURN_PAID"] = "Íåâîçìîæíî îòìåíèòü âîçâðàò ó îïëà÷åííîé ÷àñòè÷íîé îïëàòû";
-$MESS["SALE_ORDER_PAYMENT_RETURN_NO_SUPPORTED"] = "Ïëàòåæíàÿ ñèñòåìà íå ïîääåðæèâàåò âîçâðàò ñðåäñòâ";
-$MESS["SALE_PAYMENT_ACCOUNT_NUMBER_EXISTS"] = "Îïëàòà ñ òàêèì íîìåðîì óæå ñóùåñòâóåò";
+$MESS["SALE_PAYMENT_DELETE_EXIST_PAID"] = "ÐžÐ¿Ð»Ð°Ñ‚Ð° Ð¾Ð¿Ð»Ð°Ñ‡ÐµÐ½Ð°. ÐžÑ‚Ð¼ÐµÐ½Ð¸Ñ‚Ðµ Ð¾Ð¿Ð»Ð°Ñ‚Ñƒ";
+$MESS["SALE_PAYMENT_ALREADY_PAID"] = "ÐžÐ¿Ð»Ð°Ñ‚Ð° ÑƒÐ¶Ðµ Ð¾Ð¿Ð»Ð°Ñ‡ÐµÐ½Ð°";
+$MESS["SALE_PAYMENT_NOT_ALLOWED_CHANGE_SUM"] = "ÐÐµÐ²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ Ð¸Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ ÑÑƒÐ¼Ð¼Ñƒ Ð¾Ð¿Ð»Ð°Ñ‡ÐµÐ½Ð½Ð¾Ð¹ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹";
+$MESS["SALE_PAYMENT_PAYMENT_SERVICE_EMPTY"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð° Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ð½Ð°Ñ ÑÐ¸ÑÑ‚ÐµÐ¼Ð°";
+$MESS["SALE_PAYMENT_WRONG_PAYMENT_SERVICE"] = "Ð£ÐºÐ°Ð·Ð°Ð½Ð° Ð½ÐµÐ²ÐµÑ€Ð½Ð°Ñ Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ð½Ð°Ñ ÑÐ¸ÑÑ‚ÐµÐ¼Ð°";
+$MESS["SALE_ORDER_PAYMENT_RETURN_PAID"] = "ÐÐµÐ²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ Ð¾Ñ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ð²Ð¾Ð·Ð²Ñ€Ð°Ñ‚ Ñƒ Ð¾Ð¿Ð»Ð°Ñ‡ÐµÐ½Ð½Ð¾Ð¹ Ñ‡Ð°ÑÑ‚Ð¸Ñ‡Ð½Ð¾Ð¹ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹";
+$MESS["SALE_ORDER_PAYMENT_RETURN_NO_SUPPORTED"] = "ÐŸÐ»Ð°Ñ‚ÐµÐ¶Ð½Ð°Ñ ÑÐ¸ÑÑ‚ÐµÐ¼Ð° Ð½Ðµ Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶Ð¸Ð²Ð°ÐµÑ‚ Ð²Ð¾Ð·Ð²Ñ€Ð°Ñ‚ ÑÑ€ÐµÐ´ÑÑ‚Ð²";
+$MESS["SALE_PAYMENT_ACCOUNT_NUMBER_EXISTS"] = "ÐžÐ¿Ð»Ð°Ñ‚Ð° Ñ Ñ‚Ð°ÐºÐ¸Ð¼ Ð½Ð¾Ð¼ÐµÑ€Ð¾Ð¼ ÑƒÐ¶Ðµ ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÐµÑ‚";

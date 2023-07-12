@@ -1,8 +1,8 @@
 <?
-$MESS["SONET_COMMENTAUX_FILEVERSION_TEXT"] = "Çàãðóçèë(à) íîâóþ âåðñèþ ôàéëà";
-$MESS["SONET_COMMENTAUX_FILEVERSION_TEXT_M"] = "Çàãðóçèë íîâóþ âåðñèþ ôàéëà";
-$MESS["SONET_COMMENTAUX_FILEVERSION_TEXT_F"] = "Çàãðóçèëà íîâóþ âåðñèþ ôàéëà";
-$MESS["SONET_COMMENTAUX_HEAD_FILEVERSION_TEXT"] = "Îòðåäàêòèðîâàë(à) ôàéë";
-$MESS["SONET_COMMENTAUX_HEAD_FILEVERSION_TEXT_M"] = "Îòðåäàêòèðîâàë ôàéë";
-$MESS["SONET_COMMENTAUX_HEAD_FILEVERSION_TEXT_F"] = "Îòðåäàêòèðîâàëà ôàéë";
+$MESS["SONET_COMMENTAUX_FILEVERSION_TEXT"] = "Ð—Ð°Ð³Ñ€ÑƒÐ·Ð¸Ð»(Ð°) Ð½Ð¾Ð²ÑƒÑŽ Ð²ÐµÑ€ÑÐ¸ÑŽ Ñ„Ð°Ð¹Ð»Ð°";
+$MESS["SONET_COMMENTAUX_FILEVERSION_TEXT_M"] = "Ð—Ð°Ð³Ñ€ÑƒÐ·Ð¸Ð» Ð½Ð¾Ð²ÑƒÑŽ Ð²ÐµÑ€ÑÐ¸ÑŽ Ñ„Ð°Ð¹Ð»Ð°";
+$MESS["SONET_COMMENTAUX_FILEVERSION_TEXT_F"] = "Ð—Ð°Ð³Ñ€ÑƒÐ·Ð¸Ð»Ð° Ð½Ð¾Ð²ÑƒÑŽ Ð²ÐµÑ€ÑÐ¸ÑŽ Ñ„Ð°Ð¹Ð»Ð°";
+$MESS["SONET_COMMENTAUX_HEAD_FILEVERSION_TEXT"] = "ÐžÑ‚Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð»(Ð°) Ñ„Ð°Ð¹Ð»";
+$MESS["SONET_COMMENTAUX_HEAD_FILEVERSION_TEXT_M"] = "ÐžÑ‚Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð» Ñ„Ð°Ð¹Ð»";
+$MESS["SONET_COMMENTAUX_HEAD_FILEVERSION_TEXT_F"] = "ÐžÑ‚Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð»Ð° Ñ„Ð°Ð¹Ð»";
 ?>

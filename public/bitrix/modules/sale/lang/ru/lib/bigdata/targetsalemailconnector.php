@@ -1,9 +1,9 @@
 <?
-$MESS["SALE_BIGDATA_TARGET_CONNECTOR_NAME"] = "Öåëåâàÿ ðàñïðîäàæà òîâàðîâ";
-$MESS["SALE_BIGDATA_TARGET_CONNECTOR_PRODUCTS_TITLE"] = "Ñïèñîê òîâàðîâ";
-$MESS["SALE_BIGDATA_TARGET_CONNECTOR_PRODUCTS_DESC"] = "Òîâàðû, ðåêîìåíäóåìûå äëÿ ïîêóïêè êîíêðåòíîìó êëèåíòó";
-$MESS["SALE_BIGDATA_TARGET_CONNECTOR_SELECT_LIMIT_TITLE"] = "Êîëè÷åñòâî òîâàðîâ";
-$MESS["SALE_BIGDATA_TARGET_CONNECTOR_SELECT_LIMIT_MSG"] = "Âû ìîæåòå âûáðàòü íå áîëåå #LIMIT# òîâàðîâ äëÿ îäíîé ðàññûëêè.";
-$MESS["SALE_BIGDATA_TARGET_CONNECTOR_SELECT_LIMIT_CLOSE"] = "Çàêðûòü";
-$MESS["SALE_BIGDATA_TARGET_CONNECTOR_SELECT_DEL"] = "óäàëèòü";
-$MESS["SALE_BIGDATA_TARGET_CONNECTOR_SELECT_TITLE"] = "Âûáðàòü òîâàðû";
+$MESS["SALE_BIGDATA_TARGET_CONNECTOR_NAME"] = "Ð¦ÐµÐ»ÐµÐ²Ð°Ñ Ñ€Ð°ÑÐ¿Ñ€Ð¾Ð´Ð°Ð¶Ð° Ñ‚Ð¾Ð²Ð°Ñ€Ð¾Ð²";
+$MESS["SALE_BIGDATA_TARGET_CONNECTOR_PRODUCTS_TITLE"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ñ‚Ð¾Ð²Ð°Ñ€Ð¾Ð²";
+$MESS["SALE_BIGDATA_TARGET_CONNECTOR_PRODUCTS_DESC"] = "Ð¢Ð¾Ð²Ð°Ñ€Ñ‹, Ñ€ÐµÐºÐ¾Ð¼ÐµÐ½Ð´ÑƒÐµÐ¼Ñ‹Ðµ Ð´Ð»Ñ Ð¿Ð¾ÐºÑƒÐ¿ÐºÐ¸ ÐºÐ¾Ð½ÐºÑ€ÐµÑ‚Ð½Ð¾Ð¼Ñƒ ÐºÐ»Ð¸ÐµÐ½Ñ‚Ñƒ";
+$MESS["SALE_BIGDATA_TARGET_CONNECTOR_SELECT_LIMIT_TITLE"] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ñ‚Ð¾Ð²Ð°Ñ€Ð¾Ð²";
+$MESS["SALE_BIGDATA_TARGET_CONNECTOR_SELECT_LIMIT_MSG"] = "Ð’Ñ‹ Ð¼Ð¾Ð¶ÐµÑ‚Ðµ Ð²Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ Ð½Ðµ Ð±Ð¾Ð»ÐµÐµ #LIMIT# Ñ‚Ð¾Ð²Ð°Ñ€Ð¾Ð² Ð´Ð»Ñ Ð¾Ð´Ð½Ð¾Ð¹ Ñ€Ð°ÑÑÑ‹Ð»ÐºÐ¸.";
+$MESS["SALE_BIGDATA_TARGET_CONNECTOR_SELECT_LIMIT_CLOSE"] = "Ð—Ð°ÐºÑ€Ñ‹Ñ‚ÑŒ";
+$MESS["SALE_BIGDATA_TARGET_CONNECTOR_SELECT_DEL"] = "ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ";
+$MESS["SALE_BIGDATA_TARGET_CONNECTOR_SELECT_TITLE"] = "Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ Ñ‚Ð¾Ð²Ð°Ñ€Ñ‹";

@@ -1,7 +1,7 @@
 <?
-$MESS["CATALOG_MEASURE_RATIO_BAD_ACTION"] = "Óêàçàíî íåâåðíîå äåéñòâèå (òîëüêî äîáàâëåíèå èëè îáíîâëåíèå)";
-$MESS["CATALOG_MEASURE_RATIO_EMPTY_CLEAR_FIELDS"] = "Ïóñòîé ìàññèâ äàííûõ ïîñëå âàëèäàöèè êëþ÷åé";
-$MESS["CATALOG_MEASURE_RATIO_PRODUCT_ID_IS_ABSENT"] = "Íå óêàçàí êîä òîâàðà";
-$MESS["CATALOG_MEASURE_RATIO_BAD_PRODUCT_ID"] = "Íåâåðíûé êîä òîâàðà";
-$MESS["CATALOG_MEASURE_RATIO_RATIO_ALREADY_EXIST"] = "Êîýôôèöèåíò #RATIO# óæå ñóùåñòâóåò äëÿ äàííîãî òîâàðà";
+$MESS["CATALOG_MEASURE_RATIO_BAD_ACTION"] = "Ð£ÐºÐ°Ð·Ð°Ð½Ð¾ Ð½ÐµÐ²ÐµÑ€Ð½Ð¾Ðµ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ðµ (Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ð¸Ð»Ð¸ Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ðµ)";
+$MESS["CATALOG_MEASURE_RATIO_EMPTY_CLEAR_FIELDS"] = "ÐŸÑƒÑÑ‚Ð¾Ð¹ Ð¼Ð°ÑÑÐ¸Ð² Ð´Ð°Ð½Ð½Ñ‹Ñ… Ð¿Ð¾ÑÐ»Ðµ Ð²Ð°Ð»Ð¸Ð´Ð°Ñ†Ð¸Ð¸ ÐºÐ»ÑŽÑ‡ÐµÐ¹";
+$MESS["CATALOG_MEASURE_RATIO_PRODUCT_ID_IS_ABSENT"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ ÐºÐ¾Ð´ Ñ‚Ð¾Ð²Ð°Ñ€Ð°";
+$MESS["CATALOG_MEASURE_RATIO_BAD_PRODUCT_ID"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ ÐºÐ¾Ð´ Ñ‚Ð¾Ð²Ð°Ñ€Ð°";
+$MESS["CATALOG_MEASURE_RATIO_RATIO_ALREADY_EXIST"] = "ÐšÐ¾ÑÑ„Ñ„Ð¸Ñ†Ð¸ÐµÐ½Ñ‚ #RATIO# ÑƒÐ¶Ðµ ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÐµÑ‚ Ð´Ð»Ñ Ð´Ð°Ð½Ð½Ð¾Ð³Ð¾ Ñ‚Ð¾Ð²Ð°Ñ€Ð°";
 ?>

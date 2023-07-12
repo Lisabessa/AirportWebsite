@@ -1,18 +1,18 @@
 <?
-$MESS["SALE_VK_TITLE"] = "Îáì³í òîâàð³â ç ÂÊîíòàêò³ - ñïèñîê ïðîô³ë³â";
+$MESS["SALE_VK_TITLE"] = "ÐžÐ±Ð¼Ñ–Ð½ Ñ‚Ð¾Ð²Ð°Ñ€Ñ–Ð² Ð· Ð’ÐšÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ñ– - ÑÐ¿Ð¸ÑÐ¾Ðº Ð¿Ñ€Ð¾Ñ„Ñ–Ð»Ñ–Ð²";
 $MESS["SALE_VK_TABLE__ID"] = "ID";
-$MESS["SALE_VK_TABLE__DESCRIPTION"] = "Íàçâà";
-$MESS["SALE_VK_TABLE__INTERVAL"] = "Ïåð³îäè÷í³ñòü (ãîäèííèê)";
-$MESS["SALE_VK_TABLE__ACTIVE"] = "Àêòèâí³ñòü";
-$MESS["SALE_VK_TABLE__ACTIVE_NO"] = "Íå íàëàøòîâàíèé";
-$MESS["SALE_VK_TABLE__NEW_EXPORT"] = "Íîâèé åêñïîðò";
-$MESS["SALE_VK_TABLE__NEW_EXPORT_ALT"] = "Äîäàòè íîâèé ïðîô³ëü åêñïîðòó";
-$MESS["SALE_VK_TABLE__EDIT"] = "Çì³íèòè";
-$MESS["SALE_VK_TABLE__DELETE"] = "Âèäàëèòè";
-$MESS["SALE_VK_TABLE__NOT_INTERVAL"] = "Çàïóñê ò³ëüêè âðó÷íó";
-$MESS["SALE_VK_TABLE__YES"] = "Òàê";
-$MESS["SALE_VK_TABLE__NO"] = "Í³";
-$MESS["SALE_VK_TABLE__DELETE_ALERT"] = "Ïðîô³ëü òà âñ³ íàëàøòóâàííÿ áóäóòü âèäàëåí³. Âè âïåâíåí³?";
-$MESS["SALE_VK_TABLE__ACTIVATE"] = "Àêòèâóâàòè";
-$MESS["SALE_VK_TABLE__DEACTIVATE"] = "Äåàêòèâóâàòè";
+$MESS["SALE_VK_TABLE__DESCRIPTION"] = "ÐÐ°Ð·Ð²Ð°";
+$MESS["SALE_VK_TABLE__INTERVAL"] = "ÐŸÐµÑ€Ñ–Ð¾Ð´Ð¸Ñ‡Ð½Ñ–ÑÑ‚ÑŒ (Ð³Ð¾Ð´Ð¸Ð½Ð½Ð¸Ðº)";
+$MESS["SALE_VK_TABLE__ACTIVE"] = "ÐÐºÑ‚Ð¸Ð²Ð½Ñ–ÑÑ‚ÑŒ";
+$MESS["SALE_VK_TABLE__ACTIVE_NO"] = "ÐÐµ Ð½Ð°Ð»Ð°ÑˆÑ‚Ð¾Ð²Ð°Ð½Ð¸Ð¹";
+$MESS["SALE_VK_TABLE__NEW_EXPORT"] = "ÐÐ¾Ð²Ð¸Ð¹ ÐµÐºÑÐ¿Ð¾Ñ€Ñ‚";
+$MESS["SALE_VK_TABLE__NEW_EXPORT_ALT"] = "Ð”Ð¾Ð´Ð°Ñ‚Ð¸ Ð½Ð¾Ð²Ð¸Ð¹ Ð¿Ñ€Ð¾Ñ„Ñ–Ð»ÑŒ ÐµÐºÑÐ¿Ð¾Ñ€Ñ‚Ñƒ";
+$MESS["SALE_VK_TABLE__EDIT"] = "Ð—Ð¼Ñ–Ð½Ð¸Ñ‚Ð¸";
+$MESS["SALE_VK_TABLE__DELETE"] = "Ð’Ð¸Ð´Ð°Ð»Ð¸Ñ‚Ð¸";
+$MESS["SALE_VK_TABLE__NOT_INTERVAL"] = "Ð—Ð°Ð¿ÑƒÑÐº Ñ‚Ñ–Ð»ÑŒÐºÐ¸ Ð²Ñ€ÑƒÑ‡Ð½Ñƒ";
+$MESS["SALE_VK_TABLE__YES"] = "Ð¢Ð°Ðº";
+$MESS["SALE_VK_TABLE__NO"] = "ÐÑ–";
+$MESS["SALE_VK_TABLE__DELETE_ALERT"] = "ÐŸÑ€Ð¾Ñ„Ñ–Ð»ÑŒ Ñ‚Ð° Ð²ÑÑ– Ð½Ð°Ð»Ð°ÑˆÑ‚ÑƒÐ²Ð°Ð½Ð½Ñ Ð±ÑƒÐ´ÑƒÑ‚ÑŒ Ð²Ð¸Ð´Ð°Ð»ÐµÐ½Ñ–. Ð’Ð¸ Ð²Ð¿ÐµÐ²Ð½ÐµÐ½Ñ–?";
+$MESS["SALE_VK_TABLE__ACTIVATE"] = "ÐÐºÑ‚Ð¸Ð²ÑƒÐ²Ð°Ñ‚Ð¸";
+$MESS["SALE_VK_TABLE__DEACTIVATE"] = "Ð”ÐµÐ°ÐºÑ‚Ð¸Ð²ÑƒÐ²Ð°Ñ‚Ð¸";
 ?>

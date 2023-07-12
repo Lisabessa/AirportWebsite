@@ -1,9 +1,9 @@
 <?
-$MESS ['DEMO_IBLOCK_CONTENT_LINKS_MY_TITLE'] = "Êàòàëîã ðåñóðñîâ";
-$MESS ['DEMO_IBLOCK_CONTENT_LINKS_MY_USER_MESSAGE_ADD'] = "Ñàéò óñïåøíî äîáàâëåí";
-$MESS ['DEMO_IBLOCK_CONTENT_LINKS_MY_USER_MESSAGE_EDIT'] = "Èçìåíåíèÿ óñïåøíî ñîõðàíåíû";
-$MESS ['DEMO_IBLOCK_CONTENT_LINKS_MY_CUSTOM_TITLE_NAME'] = "Íàçâàíèå ñàéòà";
-$MESS ['DEMO_IBLOCK_CONTENT_LINKS_MY_CUSTOM_TITLE_IBLOCK_SECTION'] = "Êàòåãîðèÿ";
-$MESS ['DEMO_IBLOCK_CONTENT_LINKS_MY_CUSTOM_TITLE_PREVIEW_TEXT'] = "Êðàòêîå îïèñàíèå ñàéòà";
-$MESS ['DEMO_IBLOCK_CONTENT_LINKS_MY_CUSTOM_TITLE_DETAIL_TEXT'] = "Ïîëíîå îïèñàíèå ñàéòà";
+$MESS ['DEMO_IBLOCK_CONTENT_LINKS_MY_TITLE'] = "ÐšÐ°Ñ‚Ð°Ð»Ð¾Ð³ Ñ€ÐµÑÑƒÑ€ÑÐ¾Ð²";
+$MESS ['DEMO_IBLOCK_CONTENT_LINKS_MY_USER_MESSAGE_ADD'] = "Ð¡Ð°Ð¹Ñ‚ ÑƒÑÐ¿ÐµÑˆÐ½Ð¾ Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½";
+$MESS ['DEMO_IBLOCK_CONTENT_LINKS_MY_USER_MESSAGE_EDIT'] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ ÑƒÑÐ¿ÐµÑˆÐ½Ð¾ ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ñ‹";
+$MESS ['DEMO_IBLOCK_CONTENT_LINKS_MY_CUSTOM_TITLE_NAME'] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ ÑÐ°Ð¹Ñ‚Ð°";
+$MESS ['DEMO_IBLOCK_CONTENT_LINKS_MY_CUSTOM_TITLE_IBLOCK_SECTION'] = "ÐšÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ñ";
+$MESS ['DEMO_IBLOCK_CONTENT_LINKS_MY_CUSTOM_TITLE_PREVIEW_TEXT'] = "ÐšÑ€Ð°Ñ‚ÐºÐ¾Ðµ Ð¾Ð¿Ð¸ÑÐ°Ð½Ð¸Ðµ ÑÐ°Ð¹Ñ‚Ð°";
+$MESS ['DEMO_IBLOCK_CONTENT_LINKS_MY_CUSTOM_TITLE_DETAIL_TEXT'] = "ÐŸÐ¾Ð»Ð½Ð¾Ðµ Ð¾Ð¿Ð¸ÑÐ°Ð½Ð¸Ðµ ÑÐ°Ð¹Ñ‚Ð°";
 ?>

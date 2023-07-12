@@ -1,15 +1,15 @@
 <?
-$MESS ['BLOG_MENU_TITLE'] = "Áëîã";
-$MESS ['BLOG_MENU_ADD_MESSAGE'] = "Íîâîå ñîîáùåíèå";
-$MESS ['BLOG_MENU_ADD_MESSAGE_TITLE'] = "Íàïèñàòü íîâîå ñîîáùåíèå";
-$MESS ['BLOG_MENU_DRAFT_MESSAGES'] = "×åðíîâèêè";
-$MESS ['BLOG_MENU_DRAFT_MESSAGES_TITLE'] = "Ïðîñìîòðåòü íåäîïèñàííûå ñîîáùåíèÿ";
-$MESS ['BLOG_MENU_FRIENDS'] = "Ëåíòà äðóçåé";
-$MESS ['BLOG_MENU_FRIENDS_TITLE'] = "Ïðîñìîòðåòü ñîîáùåíèÿ äðóçåé";
-$MESS ['BLOG_MENU_FR_B_F'] = "Ñòàòü äðóãîì";
-$MESS ['BLOG_MENU_FR_A_F'] = "Äîáàâèòü â äðóçüÿ";
-$MESS ['BLOG_MENU_SETTINGS'] = "Íàñòðîéêè";
-$MESS ['BLOG_MENU_SETTINGS_TITLE'] = "Ïåðåéòè â íàñòðîéêè áëîãà";
-$MESS ['BLOG_MENU_MODERATION_MESSAGES'] = "Ìîäåðàöèÿ";
-$MESS ['BLOG_MENU_MODERATION_MESSAGES_TITLE'] = "Ïðîñìîòðåòü ñîîáùåíèÿ, òðåáóþùèå ìîäåðàöèè";
+$MESS ['BLOG_MENU_TITLE'] = "Ð‘Ð»Ð¾Ð³";
+$MESS ['BLOG_MENU_ADD_MESSAGE'] = "ÐÐ¾Ð²Ð¾Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ";
+$MESS ['BLOG_MENU_ADD_MESSAGE_TITLE'] = "ÐÐ°Ð¿Ð¸ÑÐ°Ñ‚ÑŒ Ð½Ð¾Ð²Ð¾Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ";
+$MESS ['BLOG_MENU_DRAFT_MESSAGES'] = "Ð§ÐµÑ€Ð½Ð¾Ð²Ð¸ÐºÐ¸";
+$MESS ['BLOG_MENU_DRAFT_MESSAGES_TITLE'] = "ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ÐµÑ‚ÑŒ Ð½ÐµÐ´Ð¾Ð¿Ð¸ÑÐ°Ð½Ð½Ñ‹Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
+$MESS ['BLOG_MENU_FRIENDS'] = "Ð›ÐµÐ½Ñ‚Ð° Ð´Ñ€ÑƒÐ·ÐµÐ¹";
+$MESS ['BLOG_MENU_FRIENDS_TITLE'] = "ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ÐµÑ‚ÑŒ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ Ð´Ñ€ÑƒÐ·ÐµÐ¹";
+$MESS ['BLOG_MENU_FR_B_F'] = "Ð¡Ñ‚Ð°Ñ‚ÑŒ Ð´Ñ€ÑƒÐ³Ð¾Ð¼";
+$MESS ['BLOG_MENU_FR_A_F'] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð² Ð´Ñ€ÑƒÐ·ÑŒÑ";
+$MESS ['BLOG_MENU_SETTINGS'] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸";
+$MESS ['BLOG_MENU_SETTINGS_TITLE'] = "ÐŸÐµÑ€ÐµÐ¹Ñ‚Ð¸ Ð² Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð±Ð»Ð¾Ð³Ð°";
+$MESS ['BLOG_MENU_MODERATION_MESSAGES'] = "ÐœÐ¾Ð´ÐµÑ€Ð°Ñ†Ð¸Ñ";
+$MESS ['BLOG_MENU_MODERATION_MESSAGES_TITLE'] = "ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ÐµÑ‚ÑŒ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ, Ñ‚Ñ€ÐµÐ±ÑƒÑŽÑ‰Ð¸Ðµ Ð¼Ð¾Ð´ÐµÑ€Ð°Ñ†Ð¸Ð¸";
 ?>

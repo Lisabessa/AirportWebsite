@@ -1,6 +1,6 @@
 <?php
-$MESS['LANDING_HOOK_CSSBLOCK_NAME'] = 'Ïîëüçîâàòåëüñêèé CSS';
-$MESS['LANDING_HOOK_CSSLOCK_USE'] = 'Äîáàâèòü/ðåäàêòèðîâàòü äëÿ ñòðàíèöû';
-$MESS['LANDING_HOOK_HEADBLOCK_CSS_CODE'] = 'CSS-êîä';
-$MESS['LANDING_HOOK_HEADBLOCK_CSS_CODE_HELP2'] = 'Äîáàâëåíèå CSS êîäà. Èñïîëüçóéòå, ÷òîáû ïîäêëþ÷èòü ñâîè øðèôòû èëè ñâîè ñòèëè îôîðìëåíèÿ áëîêîâ.';
-$MESS['LANDING_HOOK_HEADBLOCK_CSS_FILE'] = 'CSS-ôàéë';
+$MESS['LANDING_HOOK_CSSBLOCK_NAME'] = 'ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒÑÐºÐ¸Ð¹ CSS';
+$MESS['LANDING_HOOK_CSSLOCK_USE'] = 'Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ/Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ð´Ð»Ñ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹';
+$MESS['LANDING_HOOK_HEADBLOCK_CSS_CODE'] = 'CSS-ÐºÐ¾Ð´';
+$MESS['LANDING_HOOK_HEADBLOCK_CSS_CODE_HELP2'] = 'Ð”Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ CSS ÐºÐ¾Ð´Ð°. Ð˜ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐ¹Ñ‚Ðµ, Ñ‡Ñ‚Ð¾Ð±Ñ‹ Ð¿Ð¾Ð´ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ ÑÐ²Ð¾Ð¸ ÑˆÑ€Ð¸Ñ„Ñ‚Ñ‹ Ð¸Ð»Ð¸ ÑÐ²Ð¾Ð¸ ÑÑ‚Ð¸Ð»Ð¸ Ð¾Ñ„Ð¾Ñ€Ð¼Ð»ÐµÐ½Ð¸Ñ Ð±Ð»Ð¾ÐºÐ¾Ð².';
+$MESS['LANDING_HOOK_HEADBLOCK_CSS_FILE'] = 'CSS-Ñ„Ð°Ð¹Ð»';

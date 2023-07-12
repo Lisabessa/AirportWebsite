@@ -1,6 +1,6 @@
 <?
-$MESS["TR_ERROR_CREATE_TEMP_FOLDER"] = "Íå óäàåòñÿ ñîçäàòü âðåìåííóþ äèðåêòîðèþ \"#PATH#\"";
-$MESS["TR_ERROR_OPEN_FILE"] = "Íå óäàåòñÿ îòêðûòü ôàéë \"#FILE#\"";
-$MESS["TR_ERROR_TARFILE_EXTENTION"] = "Íåâåðíûé òèï ôàéëà";
-$MESS["TR_ERROR_ARCHIVE"] = "Îøèáêà àðõèâà";
+$MESS["TR_ERROR_CREATE_TEMP_FOLDER"] = "ÐÐµ ÑƒÐ´Ð°ÐµÑ‚ÑÑ ÑÐ¾Ð·Ð´Ð°Ñ‚ÑŒ Ð²Ñ€ÐµÐ¼ÐµÐ½Ð½ÑƒÑŽ Ð´Ð¸Ñ€ÐµÐºÑ‚Ð¾Ñ€Ð¸ÑŽ \"#PATH#\"";
+$MESS["TR_ERROR_OPEN_FILE"] = "ÐÐµ ÑƒÐ´Ð°ÐµÑ‚ÑÑ Ð¾Ñ‚ÐºÑ€Ñ‹Ñ‚ÑŒ Ñ„Ð°Ð¹Ð» \"#FILE#\"";
+$MESS["TR_ERROR_TARFILE_EXTENTION"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ñ‚Ð¸Ð¿ Ñ„Ð°Ð¹Ð»Ð°";
+$MESS["TR_ERROR_ARCHIVE"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð°Ñ€Ñ…Ð¸Ð²Ð°";
 ?>

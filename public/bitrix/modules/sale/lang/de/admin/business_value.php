@@ -1,5 +1,5 @@
 <?
-$MESS["BIZVAL_PAGE_TITLE"] = "Übereinstimmung der Werte der Geschäftsbedeutungen";
+$MESS["BIZVAL_PAGE_TITLE"] = "Ãœbereinstimmung der Werte der GeschÃ¤ftsbedeutungen";
 $MESS["BIZVAL_PAGE_ERRORS"] = "Es gab Fehler";
 $MESS["BIZVAL_PAGE_CODES"] = "Bedeutungen";
 $MESS["BIZVAL_PAGE_VALUES"] = "Werte";

@@ -1,2 +1,2 @@
 <?php
-$MESS['LANDING_BLOCK_WEBFORM_PRELOADER'] = 'CRM-ôîðìà ïîÿâèòñÿ çäåñü';
+$MESS['LANDING_BLOCK_WEBFORM_PRELOADER'] = 'CRM-Ñ„Ð¾Ñ€Ð¼Ð° Ð¿Ð¾ÑÐ²Ð¸Ñ‚ÑÑ Ð·Ð´ÐµÑÑŒ';

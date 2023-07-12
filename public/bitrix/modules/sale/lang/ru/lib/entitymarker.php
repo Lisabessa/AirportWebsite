@@ -1,4 +1,4 @@
 <?php
-$MESS['SALE_ENTITY_MARKER_ORDER_NOT_FOUND'] = 'Çàêàç íå íàéäåí';
-$MESS['SALE_ENTITY_MARKER_MARKER_NOT_FOUND'] = 'Ìàðêåð íå íàéäåí';
-$MESS['SALE_ENTITY_MARKER_ENTITY_NOT_FOUND'] = 'Ïðîáëåìíàÿ ñóùíîñòü íå íàéäåíà';
+$MESS['SALE_ENTITY_MARKER_ORDER_NOT_FOUND'] = 'Ð—Ð°ÐºÐ°Ð· Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½';
+$MESS['SALE_ENTITY_MARKER_MARKER_NOT_FOUND'] = 'ÐœÐ°Ñ€ÐºÐµÑ€ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½';
+$MESS['SALE_ENTITY_MARKER_ENTITY_NOT_FOUND'] = 'ÐŸÑ€Ð¾Ð±Ð»ÐµÐ¼Ð½Ð°Ñ ÑÑƒÑ‰Ð½Ð¾ÑÑ‚ÑŒ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð°';

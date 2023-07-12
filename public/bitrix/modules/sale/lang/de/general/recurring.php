@@ -1,5 +1,5 @@
 <?
-$MESS["SKGR_EMPTY_NEXT_DATE"] = "Das Datum der nächsten Zahlung wurde nicht angegeben";
+$MESS["SKGR_EMPTY_NEXT_DATE"] = "Das Datum der nÃ¤chsten Zahlung wurde nicht angegeben";
 $MESS["SKGR_EMPTY_ORDER_ID"] = "Die Bestellungs-ID wurde nicht angegeben";
 $MESS["SKGR_NO_ORDER"] = "Die Bestellung Nr. #ID# wurde nicht gefunden";
 $MESS["SKGR_NO_RECID"] = "Die Eintrags-ID wurde nicht angegeben";

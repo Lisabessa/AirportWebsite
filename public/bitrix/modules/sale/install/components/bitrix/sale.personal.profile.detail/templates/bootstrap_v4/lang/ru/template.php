@@ -1,15 +1,15 @@
 <?
-$MESS ['SPPD_RECORDS_LIST'] = "Â ñïèñîê ïðîôèëåé";
-$MESS ['SALE_SAVE'] = "Ñîõðàíèòü";
-$MESS ['SALE_APPLY'] = "Ïðèìåíèòü";
-$MESS ['SALE_RESET'] = "Îòìåíà";
-$MESS ['SALE_PERS_TYPE'] = "Òèï ïëàòåëüùèêà";
-$MESS ['SALE_PNAME'] = "Íàçâàíèå";
-$MESS ["SPPD_PROFILE_NO"]="Ïðîôèëü ¹ #ID#";
-$MESS ["SPPD_DOWNLOAD_FILE"]="Ñêà÷àòü ôàéë #FILE_NAME#";
-$MESS ["SPPD_DELETE_FILE"]="Óäàëèòü ôàéë";
-$MESS ["SPPD_SELECT"]="Âûáðàòü";
-$MESS ["SPPD_ADD"]="Äîáàâèòü";
-$MESS ["SPPD_FILE_NOT_SELECTED"]="Ôàéë íå âûáðàí";
-$MESS ["SPPD_FILE_COUNT"]="Âûáðàíî ôàéëîâ: ";
+$MESS ['SPPD_RECORDS_LIST'] = "Ð’ ÑÐ¿Ð¸ÑÐ¾Ðº Ð¿Ñ€Ð¾Ñ„Ð¸Ð»ÐµÐ¹";
+$MESS ['SALE_SAVE'] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ";
+$MESS ['SALE_APPLY'] = "ÐŸÑ€Ð¸Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
+$MESS ['SALE_RESET'] = "ÐžÑ‚Ð¼ÐµÐ½Ð°";
+$MESS ['SALE_PERS_TYPE'] = "Ð¢Ð¸Ð¿ Ð¿Ð»Ð°Ñ‚ÐµÐ»ÑŒÑ‰Ð¸ÐºÐ°";
+$MESS ['SALE_PNAME'] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
+$MESS ["SPPD_PROFILE_NO"]="ÐŸÑ€Ð¾Ñ„Ð¸Ð»ÑŒ â„– #ID#";
+$MESS ["SPPD_DOWNLOAD_FILE"]="Ð¡ÐºÐ°Ñ‡Ð°Ñ‚ÑŒ Ñ„Ð°Ð¹Ð» #FILE_NAME#";
+$MESS ["SPPD_DELETE_FILE"]="Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ Ñ„Ð°Ð¹Ð»";
+$MESS ["SPPD_SELECT"]="Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ";
+$MESS ["SPPD_ADD"]="Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ";
+$MESS ["SPPD_FILE_NOT_SELECTED"]="Ð¤Ð°Ð¹Ð» Ð½Ðµ Ð²Ñ‹Ð±Ñ€Ð°Ð½";
+$MESS ["SPPD_FILE_COUNT"]="Ð’Ñ‹Ð±Ñ€Ð°Ð½Ð¾ Ñ„Ð°Ð¹Ð»Ð¾Ð²: ";
 ?>

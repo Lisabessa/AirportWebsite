@@ -1,4 +1,4 @@
 <?
-$MESS["LOCATION2SITE_ENTITY_LOCATION_ID_FIELD"] = "Èäåíòèôèêàòîð ìåñòîïîëîæåíèÿ";
-$MESS["LOCATION2SITE_ENTITY_SITE_ID_FIELD"] = "Èäìåíòèôèêàòîð ñàéòà";
+$MESS["LOCATION2SITE_ENTITY_LOCATION_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ";
+$MESS["LOCATION2SITE_ENTITY_SITE_ID_FIELD"] = "Ð˜Ð´Ð¼ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÐ°Ð¹Ñ‚Ð°";
 ?>

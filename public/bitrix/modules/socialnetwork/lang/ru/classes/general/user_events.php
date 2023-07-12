@@ -1,8 +1,8 @@
 <?
-$MESS ['SONET_GB_EMPTY_USER_ID'] = "Íå óêàçàí ïîëüçîâàòåëü";
-$MESS ['SONET_GB_ERROR_NO_USER_ID'] = "Ïîëüçîâàòåëü óêàçàí íåâåðíî";
-$MESS ['SONET_UE_EMPTY_EVENT_ID'] = "Íå óêàçàíî ñîáûòèå";
-$MESS ['SONET_UE_ERROR_NO_EVENT_ID'] = "Ñîáûòèå óêàçàíî íåâåðíî";
-$MESS ['SONET_UE_EMPTY_SITE_ID'] = "Íå óêàçàí ñàéò";
-$MESS ['SONET_UE_ERROR_NO_SITE'] = "Ñàéò óêàçàí íåâåðíî";
+$MESS ['SONET_GB_EMPTY_USER_ID'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ";
+$MESS ['SONET_GB_ERROR_NO_USER_ID'] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ ÑƒÐºÐ°Ð·Ð°Ð½ Ð½ÐµÐ²ÐµÑ€Ð½Ð¾";
+$MESS ['SONET_UE_EMPTY_EVENT_ID'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ðµ";
+$MESS ['SONET_UE_ERROR_NO_EVENT_ID'] = "Ð¡Ð¾Ð±Ñ‹Ñ‚Ð¸Ðµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾ Ð½ÐµÐ²ÐµÑ€Ð½Ð¾";
+$MESS ['SONET_UE_EMPTY_SITE_ID'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ ÑÐ°Ð¹Ñ‚";
+$MESS ['SONET_UE_ERROR_NO_SITE'] = "Ð¡Ð°Ð¹Ñ‚ ÑƒÐºÐ°Ð·Ð°Ð½ Ð½ÐµÐ²ÐµÑ€Ð½Ð¾";
 ?>

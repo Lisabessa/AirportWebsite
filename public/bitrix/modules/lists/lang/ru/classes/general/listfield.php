@@ -1,3 +1,3 @@
 <?
-$MESS["LIST_PROPERTY_FIELD_DUPLICATE_CODE"] = "Ïîëå ñ òàêèì êîäîì óæå ñóùåñòâóåò";
+$MESS["LIST_PROPERTY_FIELD_DUPLICATE_CODE"] = "ÐŸÐ¾Ð»Ðµ Ñ Ñ‚Ð°ÐºÐ¸Ð¼ ÐºÐ¾Ð´Ð¾Ð¼ ÑƒÐ¶Ðµ ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÐµÑ‚";
 ?>

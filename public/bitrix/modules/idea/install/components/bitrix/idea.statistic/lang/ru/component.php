@@ -1,4 +1,4 @@
 <?
-$MESS["IDEA_MODULE_NOT_INSTALL"] = "Модуль идей не установлен.";
-$MESS['BLOG_MODULE_NOT_INSTALL'] = "Модуль блогов не установлен.";
+$MESS["IDEA_MODULE_NOT_INSTALL"] = "РњРѕРґСѓР»СЊ РёРґРµР№ РЅРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅ.";
+$MESS['BLOG_MODULE_NOT_INSTALL'] = "РњРѕРґСѓР»СЊ Р±Р»РѕРіРѕРІ РЅРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅ.";
 ?>

@@ -1,10 +1,10 @@
 <?
-$MESS["REPORT_MODULE_NOT_INSTALLED"] = "Íå âñòàíîâëåíèé ìîäóëü Êîíñòðóêòîð çâ³ò³â";
-$MESS["CATALOG_MODULE_NOT_INSTALLED"] = "Íå âñòàíîâëåíèé ìîäóëü Òîðãîâèé êàòàëîã";
-$MESS["IBLOCK_MODULE_NOT_INSTALLED"] = "Íå âñòàíîâëåíèé ìîäóëü ²íôîðìàö³éí³ áëîêè";
-$MESS["REPORT_VIEW_REP_ID_NOT_SET"] = "Íå âêàçàíèé ³äåíòèô³êàòîð çâ³òó";
-$MESS["SALE_REPORT_VIEW_ERROR_GET_REP_PARAMS"] = "Ïîìèëêà ïðè îòðèìàíí³ ïàðàìåòð³â çâ³òó";
-$MESS["SALE_REPORT_VIEW_CURRENCY_LABEL_TITLE"] = "Âàëþòà çâ³òó";
-$MESS["CURRENCY_MODULE_NOT_INSTALLED"] = "Íå âñòàíîâëåíèé ìîäóëü Âàëþòè";
-$MESS["SALE_REPORT_VIEW_WEIGHT_UNITS_LABEL_TITLE"] = "Îäèíèöÿ âèì³ðó âàãè â çâ³ò³";
+$MESS["REPORT_MODULE_NOT_INSTALLED"] = "ÐÐµ Ð²ÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ð¹ Ð¼Ð¾Ð´ÑƒÐ»ÑŒ ÐšÐ¾Ð½ÑÑ‚Ñ€ÑƒÐºÑ‚Ð¾Ñ€ Ð·Ð²Ñ–Ñ‚Ñ–Ð²";
+$MESS["CATALOG_MODULE_NOT_INSTALLED"] = "ÐÐµ Ð²ÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ð¹ Ð¼Ð¾Ð´ÑƒÐ»ÑŒ Ð¢Ð¾Ñ€Ð³Ð¾Ð²Ð¸Ð¹ ÐºÐ°Ñ‚Ð°Ð»Ð¾Ð³";
+$MESS["IBLOCK_MODULE_NOT_INSTALLED"] = "ÐÐµ Ð²ÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ð¹ Ð¼Ð¾Ð´ÑƒÐ»ÑŒ Ð†Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ñ–Ð¹Ð½Ñ– Ð±Ð»Ð¾ÐºÐ¸";
+$MESS["REPORT_VIEW_REP_ID_NOT_SET"] = "ÐÐµ Ð²ÐºÐ°Ð·Ð°Ð½Ð¸Ð¹ Ñ–Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÐ°Ñ‚Ð¾Ñ€ Ð·Ð²Ñ–Ñ‚Ñƒ";
+$MESS["SALE_REPORT_VIEW_ERROR_GET_REP_PARAMS"] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ° Ð¿Ñ€Ð¸ Ð¾Ñ‚Ñ€Ð¸Ð¼Ð°Ð½Ð½Ñ– Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ–Ð² Ð·Ð²Ñ–Ñ‚Ñƒ";
+$MESS["SALE_REPORT_VIEW_CURRENCY_LABEL_TITLE"] = "Ð’Ð°Ð»ÑŽÑ‚Ð° Ð·Ð²Ñ–Ñ‚Ñƒ";
+$MESS["CURRENCY_MODULE_NOT_INSTALLED"] = "ÐÐµ Ð²ÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ð¹ Ð¼Ð¾Ð´ÑƒÐ»ÑŒ Ð’Ð°Ð»ÑŽÑ‚Ð¸";
+$MESS["SALE_REPORT_VIEW_WEIGHT_UNITS_LABEL_TITLE"] = "ÐžÐ´Ð¸Ð½Ð¸Ñ†Ñ Ð²Ð¸Ð¼Ñ–Ñ€Ñƒ Ð²Ð°Ð³Ð¸ Ð² Ð·Ð²Ñ–Ñ‚Ñ–";
 ?>

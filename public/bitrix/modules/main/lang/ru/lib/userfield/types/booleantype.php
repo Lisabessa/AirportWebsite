@@ -1,11 +1,11 @@
 <?
-$MESS["USER_TYPE_BOOL_DESCRIPTION"] = "Äà/Íåò";
-$MESS["USER_TYPE_BOOL_DISPLAY"] = "Âíåøíèé âèä";
-$MESS["USER_TYPE_BOOL_CHECKBOX"] = "Ôëàæîê";
-$MESS["USER_TYPE_BOOL_RADIO"] = "Ðàäèî êíîïêè";
-$MESS["USER_TYPE_BOOL_DROPDOWN"] = "Âûïàäàþùèé ñïèñîê";
-$MESS["USER_TYPE_BOOL_DEFAULT_VALUE"] = "Çíà÷åíèå ïî óìîë÷àíèþ";
-$MESS["USER_TYPE_BOOL_LABELS"] = "Ïîäïèñè äëÿ çíà÷åíèé";
-$MESS["USER_TYPE_BOOL_LABEL_CHECKBOX"] = "Ïîäïèñü ôëàæêà";
-$MESS["MAIN_YES"] = "äà";
+$MESS["USER_TYPE_BOOL_DESCRIPTION"] = "Ð”Ð°/ÐÐµÑ‚";
+$MESS["USER_TYPE_BOOL_DISPLAY"] = "Ð’Ð½ÐµÑˆÐ½Ð¸Ð¹ Ð²Ð¸Ð´";
+$MESS["USER_TYPE_BOOL_CHECKBOX"] = "Ð¤Ð»Ð°Ð¶Ð¾Ðº";
+$MESS["USER_TYPE_BOOL_RADIO"] = "Ð Ð°Ð´Ð¸Ð¾ ÐºÐ½Ð¾Ð¿ÐºÐ¸";
+$MESS["USER_TYPE_BOOL_DROPDOWN"] = "Ð’Ñ‹Ð¿Ð°Ð´Ð°ÑŽÑ‰Ð¸Ð¹ ÑÐ¿Ð¸ÑÐ¾Ðº";
+$MESS["USER_TYPE_BOOL_DEFAULT_VALUE"] = "Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð¿Ð¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ";
+$MESS["USER_TYPE_BOOL_LABELS"] = "ÐŸÐ¾Ð´Ð¿Ð¸ÑÐ¸ Ð´Ð»Ñ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ð¹";
+$MESS["USER_TYPE_BOOL_LABEL_CHECKBOX"] = "ÐŸÐ¾Ð´Ð¿Ð¸ÑÑŒ Ñ„Ð»Ð°Ð¶ÐºÐ°";
+$MESS["MAIN_YES"] = "Ð´Ð°";
 ?>

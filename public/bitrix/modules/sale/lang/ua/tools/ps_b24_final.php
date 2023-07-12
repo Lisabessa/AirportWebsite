@@ -1,5 +1,5 @@
 <?
-$MESS["SALE_RESULT_MESSAGE_TITLE"] = "Ðåçóëüòàò îïëàòè";
-$MESS["SALE_RESULT_MESSAGE_SUCCESS"] = "Ðàõóíîê óñï³øíî îïëà÷åíèé";
-$MESS["SALE_RESULT_MESSAGE_FAIL"] = "Ïîìèëêà ïðè ñïëàòó ðàõóíêó";
+$MESS["SALE_RESULT_MESSAGE_TITLE"] = "Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚ Ð¾Ð¿Ð»Ð°Ñ‚Ð¸";
+$MESS["SALE_RESULT_MESSAGE_SUCCESS"] = "Ð Ð°Ñ…ÑƒÐ½Ð¾Ðº ÑƒÑÐ¿Ñ–ÑˆÐ½Ð¾ Ð¾Ð¿Ð»Ð°Ñ‡ÐµÐ½Ð¸Ð¹";
+$MESS["SALE_RESULT_MESSAGE_FAIL"] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ° Ð¿Ñ€Ð¸ ÑÐ¿Ð»Ð°Ñ‚Ñƒ Ñ€Ð°Ñ…ÑƒÐ½ÐºÑƒ";
 ?>

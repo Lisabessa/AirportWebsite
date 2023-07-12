@@ -1,8 +1,8 @@
 <?php
-$MESS["PULL_EVENT_RECIPIENT_FORMAT_ERROR"] = "Îøèáêà â ôîðìàòå ïîëó÷àòåëåé ñîáûòèÿ";
-$MESS["PULL_EVENT_PARAMETERS_FORMAT_ERROR"] = "Îøèáêà â ôîðìàòå ïàðàìåòðîâ ñîáûòèÿ";
-$MESS["PULL_EVENT_PUSH_PARAMETERS_FORMAT_ERROR"] = "Îøèáêà â ôîðìàòå ïàðàìåòðîâ push-óâåäîìëåíèÿ";
-$MESS["PULL_EVENT_CALLBACK_FORMAT_ERROR"] = "Îøèáêà â ôîðìàòå callback ìåòîäà push-óâåäîìëåíèÿ";
-$MESS["PULL_EVENT_PUSH_CALLBACK_FORMAT_ERROR"] = "Îøèáêà â ôîðìàòå callback ìåòîäà push-óâåäîìëåíèÿ";
-$MESS["PULL_EVENT_PUSH_DISABLED_ERROR"] = "Â íàñòðîéêàõ ìîäóëÿ íå àêòèâèðîâàíà âîçìîæíîñòü îòïðàâêè push-óâåäîìëåíèé";
+$MESS["PULL_EVENT_RECIPIENT_FORMAT_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð² Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚Ðµ Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»ÐµÐ¹ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ";
+$MESS["PULL_EVENT_PARAMETERS_FORMAT_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð² Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚Ðµ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð¾Ð² ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ";
+$MESS["PULL_EVENT_PUSH_PARAMETERS_FORMAT_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð² Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚Ðµ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð¾Ð² push-ÑƒÐ²ÐµÐ´Ð¾Ð¼Ð»ÐµÐ½Ð¸Ñ";
+$MESS["PULL_EVENT_CALLBACK_FORMAT_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð² Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚Ðµ callback Ð¼ÐµÑ‚Ð¾Ð´Ð° push-ÑƒÐ²ÐµÐ´Ð¾Ð¼Ð»ÐµÐ½Ð¸Ñ";
+$MESS["PULL_EVENT_PUSH_CALLBACK_FORMAT_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð² Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚Ðµ callback Ð¼ÐµÑ‚Ð¾Ð´Ð° push-ÑƒÐ²ÐµÐ´Ð¾Ð¼Ð»ÐµÐ½Ð¸Ñ";
+$MESS["PULL_EVENT_PUSH_DISABLED_ERROR"] = "Ð’ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ°Ñ… Ð¼Ð¾Ð´ÑƒÐ»Ñ Ð½Ðµ Ð°ÐºÑ‚Ð¸Ð²Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð° Ð²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ÑÑ‚ÑŒ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²ÐºÐ¸ push-ÑƒÐ²ÐµÐ´Ð¾Ð¼Ð»ÐµÐ½Ð¸Ð¹";
 ?>

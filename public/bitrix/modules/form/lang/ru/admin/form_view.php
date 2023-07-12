@@ -1,9 +1,9 @@
 <?
-$MESS ['FORM_FORM_LIST'] = "Ñïèñîê ôîðì";
-$MESS ['FORM_NOT_FOUND'] = "Íåâåðíûé ID ôîðìû";
-$MESS ['FORM_PAGE_TITLE'] = "Øàáëîí ïîêàçà ôîðìû # #ID#";
-$MESS ['FORM_PAGE_TITLE_NEW'] = "Íîâûé ðåçóëüòàò";
-$MESS ['FORM_FORM_EDIT'] = "Ïàðàìåòðû ôîðìû # #ID#";
-$MESS ['FORM_FORM_NAME'] = "Ôîðìà:";
-$MESS ['FORM_SHOW_TEMPLATE'] = "Øàáëîí äëÿ ïîêàçà ôîðìû:";
+$MESS ['FORM_FORM_LIST'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ñ„Ð¾Ñ€Ð¼";
+$MESS ['FORM_NOT_FOUND'] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ ID Ñ„Ð¾Ñ€Ð¼Ñ‹";
+$MESS ['FORM_PAGE_TITLE'] = "Ð¨Ð°Ð±Ð»Ð¾Ð½ Ð¿Ð¾ÐºÐ°Ð·Ð° Ñ„Ð¾Ñ€Ð¼Ñ‹ # #ID#";
+$MESS ['FORM_PAGE_TITLE_NEW'] = "ÐÐ¾Ð²Ñ‹Ð¹ Ñ€ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚";
+$MESS ['FORM_FORM_EDIT'] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ Ñ„Ð¾Ñ€Ð¼Ñ‹ # #ID#";
+$MESS ['FORM_FORM_NAME'] = "Ð¤Ð¾Ñ€Ð¼Ð°:";
+$MESS ['FORM_SHOW_TEMPLATE'] = "Ð¨Ð°Ð±Ð»Ð¾Ð½ Ð´Ð»Ñ Ð¿Ð¾ÐºÐ°Ð·Ð° Ñ„Ð¾Ñ€Ð¼Ñ‹:";
 ?>

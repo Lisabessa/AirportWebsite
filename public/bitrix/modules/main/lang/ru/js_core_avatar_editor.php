@@ -1,13 +1,13 @@
 <?
-$MESS["JS_AVATAR_EDITOR_TRY_AGAIN"] = "Ïîïðîáîâàòü ñíîâà";
-$MESS["JS_AVATAR_EDITOR_FILE"] = "Ôàéë";
-$MESS["JS_AVATAR_EDITOR_PICK_UP_THE_FILE"] = "Çàãðóçèòü ñ äèñêà...";
-$MESS["JS_AVATAR_EDITOR_DROP_FILES_INTO_THIS_AREA"] = "Ïåðåòàùèòå èçîáðàæåíèå â ýòó îáëàñòü";
-$MESS["JS_AVATAR_EDITOR_CAMERA"] = "Êàìåðà";
-$MESS["JS_AVATAR_EDITOR_TITLE_BAR"] = "Çàãðóçêà ôàéëà";
-$MESS["JS_AVATAR_EDITOR_SAVE_BUTTON"] = "Ñîõðàíèòü";
-$MESS["JS_AVATAR_EDITOR_CANCEL_BUTTON"] = "Îòìåíèòü";
-$MESS["JS_AVATAR_EDITOR_ERROR_IMAGE_DEPLOYING"] = "Îøèáêà ïðè îòðèñîâêå êàðòèíêè";
-$MESS["JS_AVATAR_EDITOR_ERROR"] = "Îøèáêà: ";
+$MESS["JS_AVATAR_EDITOR_TRY_AGAIN"] = "ÐŸÐ¾Ð¿Ñ€Ð¾Ð±Ð¾Ð²Ð°Ñ‚ÑŒ ÑÐ½Ð¾Ð²Ð°";
+$MESS["JS_AVATAR_EDITOR_FILE"] = "Ð¤Ð°Ð¹Ð»";
+$MESS["JS_AVATAR_EDITOR_PICK_UP_THE_FILE"] = "Ð—Ð°Ð³Ñ€ÑƒÐ·Ð¸Ñ‚ÑŒ Ñ Ð´Ð¸ÑÐºÐ°...";
+$MESS["JS_AVATAR_EDITOR_DROP_FILES_INTO_THIS_AREA"] = "ÐŸÐµÑ€ÐµÑ‚Ð°Ñ‰Ð¸Ñ‚Ðµ Ð¸Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ðµ Ð² ÑÑ‚Ñƒ Ð¾Ð±Ð»Ð°ÑÑ‚ÑŒ";
+$MESS["JS_AVATAR_EDITOR_CAMERA"] = "ÐšÐ°Ð¼ÐµÑ€Ð°";
+$MESS["JS_AVATAR_EDITOR_TITLE_BAR"] = "Ð—Ð°Ð³Ñ€ÑƒÐ·ÐºÐ° Ñ„Ð°Ð¹Ð»Ð°";
+$MESS["JS_AVATAR_EDITOR_SAVE_BUTTON"] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ";
+$MESS["JS_AVATAR_EDITOR_CANCEL_BUTTON"] = "ÐžÑ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
+$MESS["JS_AVATAR_EDITOR_ERROR_IMAGE_DEPLOYING"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ Ð¾Ñ‚Ñ€Ð¸ÑÐ¾Ð²ÐºÐµ ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ¸";
+$MESS["JS_AVATAR_EDITOR_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ°: ";
 
 ?>

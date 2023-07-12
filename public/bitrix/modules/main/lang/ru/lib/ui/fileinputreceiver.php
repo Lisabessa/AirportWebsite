@@ -1,4 +1,4 @@
 <?
-$MESS["BXU_AccessDenied_Authorize"] = "Äîñòóï çàêðûò. Àâòîðèçóéòåñü.";
-$MESS["BXU_AccessDenied_SignBetter"] = "Äîñòóï çàêðûò. Íå âåðíàÿ öèôðîâàÿ ïîäïèñü.";
+$MESS["BXU_AccessDenied_Authorize"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ð·Ð°ÐºÑ€Ñ‹Ñ‚. ÐÐ²Ñ‚Ð¾Ñ€Ð¸Ð·ÑƒÐ¹Ñ‚ÐµÑÑŒ.";
+$MESS["BXU_AccessDenied_SignBetter"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ð·Ð°ÐºÑ€Ñ‹Ñ‚. ÐÐµ Ð²ÐµÑ€Ð½Ð°Ñ Ñ†Ð¸Ñ„Ñ€Ð¾Ð²Ð°Ñ Ð¿Ð¾Ð´Ð¿Ð¸ÑÑŒ.";
 ?>

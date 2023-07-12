@@ -2,14 +2,14 @@
 <?
 $aMenuLinks = Array(
 	Array(
-		"Êîíòàêòû", 
+		"ÐšÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ñ‹", 
 		"contacts/", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
-		"Àâòîðèçàöèÿ", 
+		"ÐÐ²Ñ‚Ð¾Ñ€Ð¸Ð·Ð°Ñ†Ð¸Ñ", 
 		"login/", 
 		Array(), 
 		Array(), 

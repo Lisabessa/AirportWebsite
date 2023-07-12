@@ -1,9 +1,9 @@
 <?
-$MESS["TRADING_PLATFORMS_ENTITY_ID_FIELD"] = "²äåíòèô³êàòîð";
-$MESS["TRADING_PLATFORMS_ENTITY_CODE_FIELD"] = "Êîä";
-$MESS["TRADING_PLATFORMS_ENTITY_ACTIVE_FIELD"] = "Àêòèâí³ñòü";
-$MESS["TRADING_PLATFORMS_ENTITY_NAME_FIELD"] = "Íàçâà";
-$MESS["TRADING_PLATFORMS_ENTITY_DESCRIPTION_FIELD"] = "Îïèñ";
-$MESS["TRADING_PLATFORMS_ENTITY_SETTINGS_FIELD"] = "Íàëàøòóâàííÿ";
-$MESS["TRADING_PLATFORMS_ENTITY_CATALOG_SECTION_TAB_CLASS_NAME_FIELD"] = "Êëàñ äëÿ îáðîáêè çàêëàäêè ó íàëàøòóâàííÿõ ðîçä³ëó êàòàëîãó";
+$MESS["TRADING_PLATFORMS_ENTITY_ID_FIELD"] = "Ð†Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÐ°Ñ‚Ð¾Ñ€";
+$MESS["TRADING_PLATFORMS_ENTITY_CODE_FIELD"] = "ÐšÐ¾Ð´";
+$MESS["TRADING_PLATFORMS_ENTITY_ACTIVE_FIELD"] = "ÐÐºÑ‚Ð¸Ð²Ð½Ñ–ÑÑ‚ÑŒ";
+$MESS["TRADING_PLATFORMS_ENTITY_NAME_FIELD"] = "ÐÐ°Ð·Ð²Ð°";
+$MESS["TRADING_PLATFORMS_ENTITY_DESCRIPTION_FIELD"] = "ÐžÐ¿Ð¸Ñ";
+$MESS["TRADING_PLATFORMS_ENTITY_SETTINGS_FIELD"] = "ÐÐ°Ð»Ð°ÑˆÑ‚ÑƒÐ²Ð°Ð½Ð½Ñ";
+$MESS["TRADING_PLATFORMS_ENTITY_CATALOG_SECTION_TAB_CLASS_NAME_FIELD"] = "ÐšÐ»Ð°Ñ Ð´Ð»Ñ Ð¾Ð±Ñ€Ð¾Ð±ÐºÐ¸ Ð·Ð°ÐºÐ»Ð°Ð´ÐºÐ¸ Ñƒ Ð½Ð°Ð»Ð°ÑˆÑ‚ÑƒÐ²Ð°Ð½Ð½ÑÑ… Ñ€Ð¾Ð·Ð´Ñ–Ð»Ñƒ ÐºÐ°Ñ‚Ð°Ð»Ð¾Ð³Ñƒ";
 ?>

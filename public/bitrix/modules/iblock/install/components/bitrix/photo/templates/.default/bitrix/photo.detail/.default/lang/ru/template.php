@@ -1,5 +1,5 @@
 <?
-$MESS ['NO_PHOTO'] = "Íåò ôîòî";
-$MESS ['PHOTO_BACK'] = "Íàçàä â ðàçäåë";
-$MESS ['NO_OF_COUNT'] = "#NO# èç #TOTAL#";
+$MESS ['NO_PHOTO'] = "ÐÐµÑ‚ Ñ„Ð¾Ñ‚Ð¾";
+$MESS ['PHOTO_BACK'] = "ÐÐ°Ð·Ð°Ð´ Ð² Ñ€Ð°Ð·Ð´ÐµÐ»";
+$MESS ['NO_OF_COUNT'] = "#NO# Ð¸Ð· #TOTAL#";
 ?>

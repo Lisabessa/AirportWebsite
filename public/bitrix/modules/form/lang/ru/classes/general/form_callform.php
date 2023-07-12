@@ -1,4 +1,4 @@
 <?
-$MESS["FORM_ERR_BAD_MAIL_TEMPLATE_EVENT"] = "Неверный тип события для почтового шаблона #ID#";
-$MESS["FORM_ERR_BAD_MAIL_TEMPLATE_LIST_EVENT"] = "Неверный тип события для почтовых шаблонов #IDS#";
+$MESS["FORM_ERR_BAD_MAIL_TEMPLATE_EVENT"] = "РќРµРІРµСЂРЅС‹Р№ С‚РёРї СЃРѕР±С‹С‚РёСЏ РґР»СЏ РїРѕС‡С‚РѕРІРѕРіРѕ С€Р°Р±Р»РѕРЅР° #ID#";
+$MESS["FORM_ERR_BAD_MAIL_TEMPLATE_LIST_EVENT"] = "РќРµРІРµСЂРЅС‹Р№ С‚РёРї СЃРѕР±С‹С‚РёСЏ РґР»СЏ РїРѕС‡С‚РѕРІС‹С… С€Р°Р±Р»РѕРЅРѕРІ #IDS#";
 ?>

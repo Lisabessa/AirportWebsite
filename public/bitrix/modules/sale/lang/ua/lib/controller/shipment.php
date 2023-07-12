@@ -1,3 +1,3 @@
 <?
-$MESS["CONTROLLER_ERROR_SHIPMENT_NOT_EXISTS"] = "Â³äâàíòàæåííÿ íå ³ñíóº. [#ID#]";
+$MESS["CONTROLLER_ERROR_SHIPMENT_NOT_EXISTS"] = "Ð’Ñ–Ð´Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ Ð½Ðµ Ñ–ÑÐ½ÑƒÑ”. [#ID#]";
 ?>

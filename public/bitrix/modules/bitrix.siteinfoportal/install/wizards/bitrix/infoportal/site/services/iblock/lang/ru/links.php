@@ -1,15 +1,15 @@
 <?
-$MESS["WZD_OPTION_LINKS_0"] = "Ññûëêà";
-$MESS["WZD_OPTION_LINKS_1"] = "Ïóáëèêóåòñÿ íà ñàéòå";
-$MESS["WZD_OPTION_LINKS_2"] = "Íà÷àëî ïóáëèêàöèè ñ";
-$MESS["WZD_OPTION_LINKS_3"] = "*Çàãîëîâîê";
-$MESS["WZD_OPTION_LINKS_4"] = "*Òåêñò";
-$MESS["WZD_OPTION_LINKS_6"] = "Âàø e-mail";
-$MESS["WZD_OPTION_LINKS_7"] = "Àäðåñ ñàéòà";
-$MESS["WZD_OPTION_LINKS_9"] = "Âëàäåëåö îáúÿâëåíèÿ";
-$MESS["WZD_OPTION_LINKS_13"] = "Ðàçäåëû";
-$MESS["WZD_OPTION_LINKS_20"] = "Èçìåíèòü ðàçäåë";
-$MESS["WZD_OPTION_LINKS_21"] = "Íàçâàíèå";
-$MESS["WZD_OPTION_LINKS_22"] = "Ñèìâîëüíûé êîä";
-$MESS["WZD_OPTION_LINKS_23"] = "Ñîðòèðîâêà";
+$MESS["WZD_OPTION_LINKS_0"] = "Ð¡ÑÑ‹Ð»ÐºÐ°";
+$MESS["WZD_OPTION_LINKS_1"] = "ÐŸÑƒÐ±Ð»Ð¸ÐºÑƒÐµÑ‚ÑÑ Ð½Ð° ÑÐ°Ð¹Ñ‚Ðµ";
+$MESS["WZD_OPTION_LINKS_2"] = "ÐÐ°Ñ‡Ð°Ð»Ð¾ Ð¿ÑƒÐ±Ð»Ð¸ÐºÐ°Ñ†Ð¸Ð¸ Ñ";
+$MESS["WZD_OPTION_LINKS_3"] = "*Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº";
+$MESS["WZD_OPTION_LINKS_4"] = "*Ð¢ÐµÐºÑÑ‚";
+$MESS["WZD_OPTION_LINKS_6"] = "Ð’Ð°Ñˆ e-mail";
+$MESS["WZD_OPTION_LINKS_7"] = "ÐÐ´Ñ€ÐµÑ ÑÐ°Ð¹Ñ‚Ð°";
+$MESS["WZD_OPTION_LINKS_9"] = "Ð’Ð»Ð°Ð´ÐµÐ»ÐµÑ† Ð¾Ð±ÑŠÑÐ²Ð»ÐµÐ½Ð¸Ñ";
+$MESS["WZD_OPTION_LINKS_13"] = "Ð Ð°Ð·Ð´ÐµÐ»Ñ‹";
+$MESS["WZD_OPTION_LINKS_20"] = "Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ñ€Ð°Ð·Ð´ÐµÐ»";
+$MESS["WZD_OPTION_LINKS_21"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
+$MESS["WZD_OPTION_LINKS_22"] = "Ð¡Ð¸Ð¼Ð²Ð¾Ð»ÑŒÐ½Ñ‹Ð¹ ÐºÐ¾Ð´";
+$MESS["WZD_OPTION_LINKS_23"] = "Ð¡Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²ÐºÐ°";
 ?>

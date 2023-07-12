@@ -1,7 +1,7 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Фотогалерея");
-?><p>Фотогалерея клуба. Ссылки с фотогалереи ведут в персональные галереи членов клуба.</p>
+$APPLICATION->SetTitle("Р¤РѕС‚РѕРіР°Р»РµСЂРµСЏ");
+?><p>Р¤РѕС‚РѕРіР°Р»РµСЂРµСЏ РєР»СѓР±Р°. РЎСЃС‹Р»РєРё СЃ С„РѕС‚РѕРіР°Р»РµСЂРµРё РІРµРґСѓС‚ РІ РїРµСЂСЃРѕРЅР°Р»СЊРЅС‹Рµ РіР°Р»РµСЂРµРё С‡Р»РµРЅРѕРІ РєР»СѓР±Р°.</p>
 
 <?$APPLICATION->IncludeComponent("bitrix:photogallery_user", ".default", array(
 	"SECTION_PAGE_ELEMENTS" => "10",

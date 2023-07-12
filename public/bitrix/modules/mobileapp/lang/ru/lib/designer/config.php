@@ -1,6 +1,6 @@
 <?
-$MESS["CONFIG_ENTITY_ID_FIELD"] = "Èäåíòèôèêàòîð";
-$MESS["CONFIG_ENTITY_APP_CODE_FIELD"] = "Êîä ïðèëîæåíèÿ";
-$MESS["CONFIG_ENTITY_PLATFORM_FIELD"] = "Ïëàòôîðìà";
-$MESS["CONFIG_ENTITY_PARAMS_FIELD"] = "Ïàðàìåòðû äëÿ ñáîðêè";
-$MESS["CONFIG_ENTITY_DATE_CREATE_FIELD"] = "Äàòà ñîçäàíèÿ";
+$MESS["CONFIG_ENTITY_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€";
+$MESS["CONFIG_ENTITY_APP_CODE_FIELD"] = "ÐšÐ¾Ð´ Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ";
+$MESS["CONFIG_ENTITY_PLATFORM_FIELD"] = "ÐŸÐ»Ð°Ñ‚Ñ„Ð¾Ñ€Ð¼Ð°";
+$MESS["CONFIG_ENTITY_PARAMS_FIELD"] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ Ð´Ð»Ñ ÑÐ±Ð¾Ñ€ÐºÐ¸";
+$MESS["CONFIG_ENTITY_DATE_CREATE_FIELD"] = "Ð”Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ";

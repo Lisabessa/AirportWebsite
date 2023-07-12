@@ -1,58 +1,58 @@
 <?
-$MESS["SKGS_ORDER_ID"] = "êîä çàìîâëåííÿ";
-$MESS["SKGS_ORDER_DATE"] = "äàòà çàìîâëåííÿ";
-$MESS["SKGS_ORDER_STATUS"] = "ñòàòóñ çàìîâëåííÿ";
-$MESS["SKGS_ORDER_EMAIL"] = "E-mail êîðèñòóâà÷à";
-$MESS["SKGS_STATUS_DESCR"] = "îïèñ ñòàòóñó çàìîâëåííÿ";
-$MESS["SKGS_STATUS_TEXT"] = "òåêñò";
-$MESS["SKGS_CHANGING_STATUS_TO"] = "Çì³íåííÿ ñòàòóñó çàìîâëåííÿ íà";
-$MESS["SKGS_STATUS_MAIL_SUBJ"] = "#SERVER_NAME#: Çì³íåííÿ ñòàòóñó çàìîâëåííÿ N #ORDER_ID#";
-$MESS["SKGS_STATUS_MAIL_BODY1"] = "²íôîðìàö³éíå ïîâ³äîìëåííÿ ñàéòó #SITE_NAME#
+$MESS["SKGS_ORDER_ID"] = "ÐºÐ¾Ð´ Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ";
+$MESS["SKGS_ORDER_DATE"] = "Ð´Ð°Ñ‚Ð° Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ";
+$MESS["SKGS_ORDER_STATUS"] = "ÑÑ‚Ð°Ñ‚ÑƒÑ Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ";
+$MESS["SKGS_ORDER_EMAIL"] = "E-mail ÐºÐ¾Ñ€Ð¸ÑÑ‚ÑƒÐ²Ð°Ñ‡Ð°";
+$MESS["SKGS_STATUS_DESCR"] = "Ð¾Ð¿Ð¸Ñ ÑÑ‚Ð°Ñ‚ÑƒÑÑƒ Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ";
+$MESS["SKGS_STATUS_TEXT"] = "Ñ‚ÐµÐºÑÑ‚";
+$MESS["SKGS_CHANGING_STATUS_TO"] = "Ð—Ð¼Ñ–Ð½ÐµÐ½Ð½Ñ ÑÑ‚Ð°Ñ‚ÑƒÑÑƒ Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ Ð½Ð°";
+$MESS["SKGS_STATUS_MAIL_SUBJ"] = "#SERVER_NAME#: Ð—Ð¼Ñ–Ð½ÐµÐ½Ð½Ñ ÑÑ‚Ð°Ñ‚ÑƒÑÑƒ Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ N #ORDER_ID#";
+$MESS["SKGS_STATUS_MAIL_BODY1"] = "Ð†Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ñ–Ð¹Ð½Ðµ Ð¿Ð¾Ð²Ñ–Ð´Ð¾Ð¼Ð»ÐµÐ½Ð½Ñ ÑÐ°Ð¹Ñ‚Ñƒ #SITE_NAME#
 ";
-$MESS["SKGS_STATUS_MAIL_BODY2"] = "Ñòàòóñ çàìîâëåííÿ íîìåð #ORDER_ID# â³ä #ORDER_DATE# çì³íåíèé.
+$MESS["SKGS_STATUS_MAIL_BODY2"] = "Ð¡Ñ‚Ð°Ñ‚ÑƒÑ Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ Ð½Ð¾Ð¼ÐµÑ€ #ORDER_ID# Ð²Ñ–Ð´ #ORDER_DATE# Ð·Ð¼Ñ–Ð½ÐµÐ½Ð¸Ð¹.
 
 ";
-$MESS["SKGS_STATUS_MAIL_BODY3"] = "Íîâèé ñòàòóñ çàìîâëåííÿ:";
-$MESS["SKGS_ERROR_DELETE"] = "Ïîìèëêà âèäàëåííÿ ñòàòóñó. Ïðè÷èíà: º çàìîâëåííÿ ó öüîìó ñòàòóñ³.";
-$MESS["SKGS_ID_NOT_SYMBOL"] = "Êîä ñòàòóñó ïîâèíåí áóòè áóêâîþ";
-$MESS["SIM_ACCEPTED"] = "Ïðèéíÿòî";
-$MESS["SIM_ACCEPTED_DESCR"] = "Çàìîâëåííÿ ïðèéíÿòî, àëå ïîêè íå îáðîáëÿºòüñÿ (íàïðèêëàä, çàìîâëåííÿ ò³ëüêè ùî ñòâîðåíèé àáî î÷³êóºòüñÿ îïëàòà çàìîâëåííÿ)";
-$MESS["SIM_FINISHED"] = "Âèêîíàíî";
-$MESS["SIM_FINISHED_DESCR"] = "Çàìîâëåííÿ äîñòàâëåíî òà ñïëà÷åíî";
-$MESS["SKGS_SALE_EMAIL"] = "E-mail â³ää³ëó ïðîäàæ³â";
-$MESS["SKGS_STATUS_MAIL_BODY4"] = "Äëÿ îòðèìàííÿ äåòàëüíî¿ ³íôîðìàö³¿ ïî çàìîâëåííþ ïðîéä³òü íà ñàéò #SERVER_NAME#/personal/order/#ORDER_ID#/
+$MESS["SKGS_STATUS_MAIL_BODY3"] = "ÐÐ¾Ð²Ð¸Ð¹ ÑÑ‚Ð°Ñ‚ÑƒÑ Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ:";
+$MESS["SKGS_ERROR_DELETE"] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ° Ð²Ð¸Ð´Ð°Ð»ÐµÐ½Ð½Ñ ÑÑ‚Ð°Ñ‚ÑƒÑÑƒ. ÐŸÑ€Ð¸Ñ‡Ð¸Ð½Ð°: Ñ” Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ Ñƒ Ñ†ÑŒÐ¾Ð¼Ñƒ ÑÑ‚Ð°Ñ‚ÑƒÑÑ–.";
+$MESS["SKGS_ID_NOT_SYMBOL"] = "ÐšÐ¾Ð´ ÑÑ‚Ð°Ñ‚ÑƒÑÑƒ Ð¿Ð¾Ð²Ð¸Ð½ÐµÐ½ Ð±ÑƒÑ‚Ð¸ Ð±ÑƒÐºÐ²Ð¾ÑŽ";
+$MESS["SIM_ACCEPTED"] = "ÐŸÑ€Ð¸Ð¹Ð½ÑÑ‚Ð¾";
+$MESS["SIM_ACCEPTED_DESCR"] = "Ð—Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ Ð¿Ñ€Ð¸Ð¹Ð½ÑÑ‚Ð¾, Ð°Ð»Ðµ Ð¿Ð¾ÐºÐ¸ Ð½Ðµ Ð¾Ð±Ñ€Ð¾Ð±Ð»ÑÑ”Ñ‚ÑŒÑÑ (Ð½Ð°Ð¿Ñ€Ð¸ÐºÐ»Ð°Ð´, Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ Ñ‚Ñ–Ð»ÑŒÐºÐ¸ Ñ‰Ð¾ ÑÑ‚Ð²Ð¾Ñ€ÐµÐ½Ð¸Ð¹ Ð°Ð±Ð¾ Ð¾Ñ‡Ñ–ÐºÑƒÑ”Ñ‚ÑŒÑÑ Ð¾Ð¿Ð»Ð°Ñ‚Ð° Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ)";
+$MESS["SIM_FINISHED"] = "Ð’Ð¸ÐºÐ¾Ð½Ð°Ð½Ð¾";
+$MESS["SIM_FINISHED_DESCR"] = "Ð—Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ Ð´Ð¾ÑÑ‚Ð°Ð²Ð»ÐµÐ½Ð¾ Ñ‚Ð° ÑÐ¿Ð»Ð°Ñ‡ÐµÐ½Ð¾";
+$MESS["SKGS_SALE_EMAIL"] = "E-mail Ð²Ñ–Ð´Ð´Ñ–Ð»Ñƒ Ð¿Ñ€Ð¾Ð´Ð°Ð¶Ñ–Ð²";
+$MESS["SKGS_STATUS_MAIL_BODY4"] = "Ð”Ð»Ñ Ð¾Ñ‚Ñ€Ð¸Ð¼Ð°Ð½Ð½Ñ Ð´ÐµÑ‚Ð°Ð»ÑŒÐ½Ð¾Ñ— Ñ–Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ñ–Ñ— Ð¿Ð¾ Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½ÑŽ Ð¿Ñ€Ð¾Ð¹Ð´Ñ–Ñ‚ÑŒ Ð½Ð° ÑÐ°Ð¹Ñ‚ #SERVER_NAME#/personal/order/#ORDER_ID#/
 
-Ñïàñèá³ çà âàø âèá³ð!";
-$MESS["SKGS_SALE_STATUS_ALREADY_EXISTS"] = "Òàêèé êîä ñòàòóñó âæå ³ñíóº";
-$MESS["SKGS_SHIPMENT_ID"] = "êîä â³äâàíòàæåííÿ";
-$MESS["SKGS_SHIPMENT_DATE"] = "äàòà ñòâîðåííÿ â³äâàíòàæåííÿ";
-$MESS["SKGS_SHIPMENT_STATUS"] = "ñòàòóñ â³äâàíòàæåííÿ";
-$MESS["SKGS_CHANGING_SHIPMENT_STATUS_TO"] = "Çì³íà ñòàòóñó â³äâàíòàæåííÿ íà ";
-$MESS["SKGS_SHIPMENT_STATUS_MAIL_SUBJ"] = "#SERVER_NAME#: Çì³íà ñòàòóñó â³äâàíòàæåííÿ N#SHIPMENT_ID#";
-$MESS["SKGS_SHIPMENT_STATUS_MAIL_BODY1"] = "²íôîðìàö³éíå ïîâ³äîìëåííÿ ñàéòó #SITE_NAME#
+Ð¡Ð¿Ð°ÑÐ¸Ð±Ñ– Ð·Ð° Ð²Ð°Ñˆ Ð²Ð¸Ð±Ñ–Ñ€!";
+$MESS["SKGS_SALE_STATUS_ALREADY_EXISTS"] = "Ð¢Ð°ÐºÐ¸Ð¹ ÐºÐ¾Ð´ ÑÑ‚Ð°Ñ‚ÑƒÑÑƒ Ð²Ð¶Ðµ Ñ–ÑÐ½ÑƒÑ”";
+$MESS["SKGS_SHIPMENT_ID"] = "ÐºÐ¾Ð´ Ð²Ñ–Ð´Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ";
+$MESS["SKGS_SHIPMENT_DATE"] = "Ð´Ð°Ñ‚Ð° ÑÑ‚Ð²Ð¾Ñ€ÐµÐ½Ð½Ñ Ð²Ñ–Ð´Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ";
+$MESS["SKGS_SHIPMENT_STATUS"] = "ÑÑ‚Ð°Ñ‚ÑƒÑ Ð²Ñ–Ð´Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ";
+$MESS["SKGS_CHANGING_SHIPMENT_STATUS_TO"] = "Ð—Ð¼Ñ–Ð½Ð° ÑÑ‚Ð°Ñ‚ÑƒÑÑƒ Ð²Ñ–Ð´Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ Ð½Ð° ";
+$MESS["SKGS_SHIPMENT_STATUS_MAIL_SUBJ"] = "#SERVER_NAME#: Ð—Ð¼Ñ–Ð½Ð° ÑÑ‚Ð°Ñ‚ÑƒÑÑƒ Ð²Ñ–Ð´Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ N#SHIPMENT_ID#";
+$MESS["SKGS_SHIPMENT_STATUS_MAIL_BODY1"] = "Ð†Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ñ–Ð¹Ð½Ðµ Ð¿Ð¾Ð²Ñ–Ð´Ð¾Ð¼Ð»ÐµÐ½Ð½Ñ ÑÐ°Ð¹Ñ‚Ñƒ #SITE_NAME#
 ";
-$MESS["SKGS_SHIPMENT_STATUS_MAIL_BODY2"] = "Ñòàòóñ â³äâàíòàæåííÿ íîìåð #SHIPMENT_ID# çì³íåíèé.
-
-";
-$MESS["SKGS_SHIPMENT_STATUS_MAIL_BODY3"] = "Íîâèé ñòàòóñ â³äâàíòàæåííÿ:
-";
-$MESS["SKGS_SHIPMENT_STATUS_MAIL_BODY4"] = "Äëÿ îòðèìàííÿ äåòàëüíî¿ ³íôîðìàö³¿ ïî çàìîâëåííþ ïðîéä³òü íà ñàéò #SERVER_NAME#/personal/order/#ORDER_ID#
-
-Äÿêóºìî çà âàø âèá³ð!
-";
-$MESS["SKGS_ERROR_ARCHIVED_DELETE"] = "Ïîìèëêà âèäàëåííÿ ñòàòóñó. Ïðè÷èíà: º àðõ³âí³ çàìîâëåííÿ â öüîìó ñòàòóñ³.";
-$MESS["SKGS_ORDER_ALLOW_PAY_STATUS"] = "Äîçâ³ë îïëàòè çàìîâëåííÿ";
-$MESS["SKGS_ORDER_ALLOW_PAY_STATUS_MAIL_SUBJ"] = "#SERVER_NAME#: Äîçâîëåíà îïëàòà çàìîâëåííÿ N#ORDER_ID#";
-$MESS["SKGS_ORDER_ALLOW_PAY_STATUS_MAIL_BODY1"] = "²íôîðìàö³éíå ïîâ³äîìëåííÿ ñàéòó #SITE_NAME#
-";
-$MESS["SKGS_ORDER_ALLOW_PAY_STATUS_MAIL_BODY2"] = "Äîçâîëåíà îïëàòà çàìîâëåííÿ N#ORDER_ID#.
+$MESS["SKGS_SHIPMENT_STATUS_MAIL_BODY2"] = "Ð¡Ñ‚Ð°Ñ‚ÑƒÑ Ð²Ñ–Ð´Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ Ð½Ð¾Ð¼ÐµÑ€ #SHIPMENT_ID# Ð·Ð¼Ñ–Ð½ÐµÐ½Ð¸Ð¹.
 
 ";
-$MESS["SKGS_ORDER_ALLOW_PAY_STATUS_MAIL_BODY3"] = "Âè ìîæåòå îïëàòèòè ïåðåéøîâøè çà ïîñèëàííÿì #SERVER_NAME#/personal/orders/#ORDER_ID#
+$MESS["SKGS_SHIPMENT_STATUS_MAIL_BODY3"] = "ÐÐ¾Ð²Ð¸Ð¹ ÑÑ‚Ð°Ñ‚ÑƒÑ Ð²Ñ–Ð´Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ:
 ";
-$MESS["SKGS_ORDER_ALLOW_PAY_STATUS_MAIL_BODY4"] = "Äëÿ îòðèìàííÿ äåòàëüíî¿ ³íôîðìàö³¿ ïî çàìîâëåííþ ïðîéä³òü íà ñàéò #SERVER_NAME#/personal/orders/#ORDER_ID#
+$MESS["SKGS_SHIPMENT_STATUS_MAIL_BODY4"] = "Ð”Ð»Ñ Ð¾Ñ‚Ñ€Ð¸Ð¼Ð°Ð½Ð½Ñ Ð´ÐµÑ‚Ð°Ð»ÑŒÐ½Ð¾Ñ— Ñ–Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ñ–Ñ— Ð¿Ð¾ Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½ÑŽ Ð¿Ñ€Ð¾Ð¹Ð´Ñ–Ñ‚ÑŒ Ð½Ð° ÑÐ°Ð¹Ñ‚ #SERVER_NAME#/personal/order/#ORDER_ID#
 
-Äÿêóºìî çà âàø âèá³ð!
+Ð”ÑÐºÑƒÑ”Ð¼Ð¾ Ð·Ð° Ð²Ð°Ñˆ Ð²Ð¸Ð±Ñ–Ñ€!
 ";
-$MESS["SKGS_ORDER_PUBLIC_LINK"] = "ïîñèëàííÿ äëÿ ïåðåãëÿäó çàìîâëåííÿ áåç àâòîðèçàö³¿ (ïîòð³áíî íàëàøòóâàííÿ â ìîäóë³ ³íòåðíåò-ìàãàçèíó)";
+$MESS["SKGS_ERROR_ARCHIVED_DELETE"] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ° Ð²Ð¸Ð´Ð°Ð»ÐµÐ½Ð½Ñ ÑÑ‚Ð°Ñ‚ÑƒÑÑƒ. ÐŸÑ€Ð¸Ñ‡Ð¸Ð½Ð°: Ñ” Ð°Ñ€Ñ…Ñ–Ð²Ð½Ñ– Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ Ð² Ñ†ÑŒÐ¾Ð¼Ñƒ ÑÑ‚Ð°Ñ‚ÑƒÑÑ–.";
+$MESS["SKGS_ORDER_ALLOW_PAY_STATUS"] = "Ð”Ð¾Ð·Ð²Ñ–Ð» Ð¾Ð¿Ð»Ð°Ñ‚Ð¸ Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ";
+$MESS["SKGS_ORDER_ALLOW_PAY_STATUS_MAIL_SUBJ"] = "#SERVER_NAME#: Ð”Ð¾Ð·Ð²Ð¾Ð»ÐµÐ½Ð° Ð¾Ð¿Ð»Ð°Ñ‚Ð° Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ N#ORDER_ID#";
+$MESS["SKGS_ORDER_ALLOW_PAY_STATUS_MAIL_BODY1"] = "Ð†Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ñ–Ð¹Ð½Ðµ Ð¿Ð¾Ð²Ñ–Ð´Ð¾Ð¼Ð»ÐµÐ½Ð½Ñ ÑÐ°Ð¹Ñ‚Ñƒ #SITE_NAME#
+";
+$MESS["SKGS_ORDER_ALLOW_PAY_STATUS_MAIL_BODY2"] = "Ð”Ð¾Ð·Ð²Ð¾Ð»ÐµÐ½Ð° Ð¾Ð¿Ð»Ð°Ñ‚Ð° Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ N#ORDER_ID#.
+
+";
+$MESS["SKGS_ORDER_ALLOW_PAY_STATUS_MAIL_BODY3"] = "Ð’Ð¸ Ð¼Ð¾Ð¶ÐµÑ‚Ðµ Ð¾Ð¿Ð»Ð°Ñ‚Ð¸Ñ‚Ð¸ Ð¿ÐµÑ€ÐµÐ¹ÑˆÐ¾Ð²ÑˆÐ¸ Ð·Ð° Ð¿Ð¾ÑÐ¸Ð»Ð°Ð½Ð½ÑÐ¼ #SERVER_NAME#/personal/orders/#ORDER_ID#
+";
+$MESS["SKGS_ORDER_ALLOW_PAY_STATUS_MAIL_BODY4"] = "Ð”Ð»Ñ Ð¾Ñ‚Ñ€Ð¸Ð¼Ð°Ð½Ð½Ñ Ð´ÐµÑ‚Ð°Ð»ÑŒÐ½Ð¾Ñ— Ñ–Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ñ–Ñ— Ð¿Ð¾ Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½ÑŽ Ð¿Ñ€Ð¾Ð¹Ð´Ñ–Ñ‚ÑŒ Ð½Ð° ÑÐ°Ð¹Ñ‚ #SERVER_NAME#/personal/orders/#ORDER_ID#
+
+Ð”ÑÐºÑƒÑ”Ð¼Ð¾ Ð·Ð° Ð²Ð°Ñˆ Ð²Ð¸Ð±Ñ–Ñ€!
+";
+$MESS["SKGS_ORDER_PUBLIC_LINK"] = "Ð¿Ð¾ÑÐ¸Ð»Ð°Ð½Ð½Ñ Ð´Ð»Ñ Ð¿ÐµÑ€ÐµÐ³Ð»ÑÐ´Ñƒ Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ Ð±ÐµÐ· Ð°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·Ð°Ñ†Ñ–Ñ— (Ð¿Ð¾Ñ‚Ñ€Ñ–Ð±Ð½Ð¾ Ð½Ð°Ð»Ð°ÑˆÑ‚ÑƒÐ²Ð°Ð½Ð½Ñ Ð² Ð¼Ð¾Ð´ÑƒÐ»Ñ– Ñ–Ð½Ñ‚ÐµÑ€Ð½ÐµÑ‚-Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ñƒ)";
 ?>

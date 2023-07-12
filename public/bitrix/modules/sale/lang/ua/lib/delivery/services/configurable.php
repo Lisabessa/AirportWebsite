@@ -1,16 +1,16 @@
 <?
-$MESS["SALE_DLVR_HANDL_CONF_PRICE"] = "Ö³íà";
-$MESS["SALE_DLVR_HANDL_CONF_CURRENCY"] = "Âàëþòà";
-$MESS["SALE_DLVR_HANDL_CONF_PERIOD"] = "×àñ äîñòàâêè";
-$MESS["SALE_DLVR_HANDL_CONF_PERIOD_FROM"] = "â³ä";
-$MESS["SALE_DLVR_HANDL_CONF_PERIOD_TO"] = "äî";
-$MESS["SALE_DLVR_HANDL_CONF_PERIOD_DAY"] = "äí³â";
-$MESS["SALE_DLVR_HANDL_CONF_PERIOD_HOUR"] = "ãîäèí";
-$MESS["SALE_DLVR_HANDL_CONF_PERIOD_MONTH"] = "ì³ñÿö³â";
-$MESS["SALE_DLVR_HANDL_NAME"] = "Íàëàøòîâóâàíà ñëóæáà äîñòàâêè";
-$MESS["SALE_DLVR_HANDL_DESCRIPTION"] = "Íàëàøòîâóâàíà ñëóæáà äîñòàâêè äëÿ ñóì³ñíîñò³ ç³ ñòàðèìè ñëóæáàìè äîñòàâêè.";
-$MESS["SALE_DLVR_HANDL_CONF_TITLE"] = "Íàëàøòóâàííÿ îáðîáíèêà";
-$MESS["SALE_DLVR_HANDL_CONF_DESCRIPTION"] = "Íàëàøòóâàííÿ îáðîáíèêà ñëóæáè äîñòàâêè";
-$MESS["SALE_DLVR_HANDL_CONF_PERIOD_DLV"] = "Òåðì³í äîñòàâêè";
-$MESS["SALE_DLVR_HANDL_CONF_PERIOD_MIN"] = "õâèëèí";
+$MESS["SALE_DLVR_HANDL_CONF_PRICE"] = "Ð¦Ñ–Ð½Ð°";
+$MESS["SALE_DLVR_HANDL_CONF_CURRENCY"] = "Ð’Ð°Ð»ÑŽÑ‚Ð°";
+$MESS["SALE_DLVR_HANDL_CONF_PERIOD"] = "Ð§Ð°Ñ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸";
+$MESS["SALE_DLVR_HANDL_CONF_PERIOD_FROM"] = "Ð²Ñ–Ð´";
+$MESS["SALE_DLVR_HANDL_CONF_PERIOD_TO"] = "Ð´Ð¾";
+$MESS["SALE_DLVR_HANDL_CONF_PERIOD_DAY"] = "Ð´Ð½Ñ–Ð²";
+$MESS["SALE_DLVR_HANDL_CONF_PERIOD_HOUR"] = "Ð³Ð¾Ð´Ð¸Ð½";
+$MESS["SALE_DLVR_HANDL_CONF_PERIOD_MONTH"] = "Ð¼Ñ–ÑÑÑ†Ñ–Ð²";
+$MESS["SALE_DLVR_HANDL_NAME"] = "ÐÐ°Ð»Ð°ÑˆÑ‚Ð¾Ð²ÑƒÐ²Ð°Ð½Ð° ÑÐ»ÑƒÐ¶Ð±Ð° Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸";
+$MESS["SALE_DLVR_HANDL_DESCRIPTION"] = "ÐÐ°Ð»Ð°ÑˆÑ‚Ð¾Ð²ÑƒÐ²Ð°Ð½Ð° ÑÐ»ÑƒÐ¶Ð±Ð° Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸ Ð´Ð»Ñ ÑÑƒÐ¼Ñ–ÑÐ½Ð¾ÑÑ‚Ñ– Ð·Ñ– ÑÑ‚Ð°Ñ€Ð¸Ð¼Ð¸ ÑÐ»ÑƒÐ¶Ð±Ð°Ð¼Ð¸ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸.";
+$MESS["SALE_DLVR_HANDL_CONF_TITLE"] = "ÐÐ°Ð»Ð°ÑˆÑ‚ÑƒÐ²Ð°Ð½Ð½Ñ Ð¾Ð±Ñ€Ð¾Ð±Ð½Ð¸ÐºÐ°";
+$MESS["SALE_DLVR_HANDL_CONF_DESCRIPTION"] = "ÐÐ°Ð»Ð°ÑˆÑ‚ÑƒÐ²Ð°Ð½Ð½Ñ Ð¾Ð±Ñ€Ð¾Ð±Ð½Ð¸ÐºÐ° ÑÐ»ÑƒÐ¶Ð±Ð¸ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸";
+$MESS["SALE_DLVR_HANDL_CONF_PERIOD_DLV"] = "Ð¢ÐµÑ€Ð¼Ñ–Ð½ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸";
+$MESS["SALE_DLVR_HANDL_CONF_PERIOD_MIN"] = "Ñ…Ð²Ð¸Ð»Ð¸Ð½";
 ?>

@@ -1,6 +1,6 @@
 <?
-$MESS ['MAIN_PAGE_TITLE'] = "Ïîèñê ïîëüçîâàòåëÿ";
-$MESS ['MAIN_PAGES'] = "Ïîëüçîâàòåëè";
-$MESS ['MAIN_ACTION'] = "Äåéñòâèå";
-$MESS ['MAIN_CHANGE'] = "Âûáðàòü";
+$MESS ['MAIN_PAGE_TITLE'] = "ÐŸÐ¾Ð¸ÑÐº Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
+$MESS ['MAIN_PAGES'] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ð¸";
+$MESS ['MAIN_ACTION'] = "Ð”ÐµÐ¹ÑÑ‚Ð²Ð¸Ðµ";
+$MESS ['MAIN_CHANGE'] = "Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ";
 ?>

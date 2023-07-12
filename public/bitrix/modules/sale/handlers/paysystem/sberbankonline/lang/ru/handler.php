@@ -1,6 +1,6 @@
 <?php
-$MESS["SALE_HPS_SBERBANK_ERROR_OPERATION"] = "Íåêîððåêòíûé òèï îïåðàöèè - #OPERATION# èëè èíäèêàòîð óñïåøíîñòè îïåðàöèè - #STATUS#";
-$MESS["SALE_HPS_SBERBANK_ORDER_ID"] = "Çàêàç #ORDER_ID#";
-$MESS["SALE_HPS_SBERBANK_ERROR_SUM"] = "Ñóììà ïëàòåæà íå ñîâïàäàåò ñ ñóììîé îïëàòû";
-$MESS["SALE_HPS_SBERBANK_ERROR_CHECK_SUM"] = "Êîíòðîëüíàÿ ñóììà íå ñîâïàäàåò";
-$MESS["SALE_HPS_SBERBANK_ERROR_DECODE_RESPONSE"] = "Îøèáêà äåêîäèðîâàíèÿ ñòðîêè JSON";
+$MESS["SALE_HPS_SBERBANK_ERROR_OPERATION"] = "ÐÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ñ‹Ð¹ Ñ‚Ð¸Ð¿ Ð¾Ð¿ÐµÑ€Ð°Ñ†Ð¸Ð¸ - #OPERATION# Ð¸Ð»Ð¸ Ð¸Ð½Ð´Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑƒÑÐ¿ÐµÑˆÐ½Ð¾ÑÑ‚Ð¸ Ð¾Ð¿ÐµÑ€Ð°Ñ†Ð¸Ð¸ - #STATUS#";
+$MESS["SALE_HPS_SBERBANK_ORDER_ID"] = "Ð—Ð°ÐºÐ°Ð· #ORDER_ID#";
+$MESS["SALE_HPS_SBERBANK_ERROR_SUM"] = "Ð¡ÑƒÐ¼Ð¼Ð° Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ð° Ð½Ðµ ÑÐ¾Ð²Ð¿Ð°Ð´Ð°ÐµÑ‚ Ñ ÑÑƒÐ¼Ð¼Ð¾Ð¹ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹";
+$MESS["SALE_HPS_SBERBANK_ERROR_CHECK_SUM"] = "ÐšÐ¾Ð½Ñ‚Ñ€Ð¾Ð»ÑŒÐ½Ð°Ñ ÑÑƒÐ¼Ð¼Ð° Ð½Ðµ ÑÐ¾Ð²Ð¿Ð°Ð´Ð°ÐµÑ‚";
+$MESS["SALE_HPS_SBERBANK_ERROR_DECODE_RESPONSE"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð´ÐµÐºÐ¾Ð´Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ ÑÑ‚Ñ€Ð¾ÐºÐ¸ JSON";

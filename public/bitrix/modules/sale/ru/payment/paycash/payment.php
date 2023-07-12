@@ -5,9 +5,9 @@ $ORDER_ID = intval($GLOBALS["SALE_INPUT_PARAMS"]["ORDER"]["ID"]);
 	<input type="hidden" NAME="currency" value="643">
 	<input type="hidden" NAME="PayManner" value="paycash">
 	<input type="hidden" NAME="invoice" value="<?= $ORDER_ID ?>">
-	<p>Вы хотите оплатить через систему <strong>ЮMoney</strong>.</p>
-	<p>Cчёт № <?= htmlspecialcharsEx($ORDER_ID." от ".$GLOBALS["SALE_INPUT_PARAMS"]["ORDER"]["DATE_INSERT"]) ?></p>
-	<p>Сумма к оплате по счету: <strong><?echo SaleFormatCurrency($GLOBALS["SALE_INPUT_PARAMS"]["ORDER"]["SHOULD_PAY"], $GLOBALS["SALE_INPUT_PARAMS"]["ORDER"]["CURRENCY"]) ?></strong></p>
+	<p>Р’С‹ С…РѕС‚РёС‚Рµ РѕРїР»Р°С‚РёС‚СЊ С‡РµСЂРµР· СЃРёСЃС‚РµРјСѓ <strong>Р®Money</strong>.</p>
+	<p>CС‡С‘С‚ в„– <?= htmlspecialcharsEx($ORDER_ID." РѕС‚ ".$GLOBALS["SALE_INPUT_PARAMS"]["ORDER"]["DATE_INSERT"]) ?></p>
+	<p>РЎСѓРјРјР° Рє РѕРїР»Р°С‚Рµ РїРѕ СЃС‡РµС‚Сѓ: <strong><?echo SaleFormatCurrency($GLOBALS["SALE_INPUT_PARAMS"]["ORDER"]["SHOULD_PAY"], $GLOBALS["SALE_INPUT_PARAMS"]["ORDER"]["CURRENCY"]) ?></strong></p>
 	<input type="hidden" name="InvoiceArticlesNames" value="Order &nbsp;<?= $ORDER_ID ?>&nbsp(<?= htmlspecialcharsEx($GLOBALS["SALE_INPUT_PARAMS"]["ORDER"]["DATE_INSERT"]) ?>)">
 	<input type="hidden" name="sum" value="<?= htmlspecialcharsbx($GLOBALS["SALE_INPUT_PARAMS"]["ORDER"]["SHOULD_PAY"]) ?>">
 	<input type="hidden" name="ShopID" value="<?= htmlspecialcharsbx(CSalePaySystemAction::GetParamValue("SHOP_ACCOUNT")) ?>">
@@ -17,17 +17,17 @@ $ORDER_ID = intval($GLOBALS["SALE_INPUT_PARAMS"]["ORDER"]["ID"]);
 	<input type="hidden" name="wbp_ShopEncryptionKey" value="<?= htmlspecialcharsbx(CSalePaySystemAction::GetParamValue("SHOP_KEY")) ?>">
 	<input type="hidden" name="wbp_ShopErrorInfo" value="">
 	<input type="hidden" name="wbp_Version" value="1.0">
-	<label for="OrderDetails">Детали заказа:</label>
+	<label for="OrderDetails">Р”РµС‚Р°Р»Рё Р·Р°РєР°Р·Р°:</label>
 	<textarea rows="5" name="OrderDetails" id="OrderDetails" cols="60" class="form-control mb-2">
-		Заказ No <?= $ORDER_ID." от ".htmlspecialcharsbx($GLOBALS["SALE_INPUT_PARAMS"]["ORDER"]["DATE_INSERT"]) ?>
+		Р—Р°РєР°Р· No <?= $ORDER_ID." РѕС‚ ".htmlspecialcharsbx($GLOBALS["SALE_INPUT_PARAMS"]["ORDER"]["DATE_INSERT"]) ?>
 	</textarea>
-	<input type="Submit" name="Ok" value="Отправить заявку" class="btn btn-primary">
+	<input type="Submit" name="Ok" value="РћС‚РїСЂР°РІРёС‚СЊ Р·Р°СЏРІРєСѓ" class="btn btn-primary">
 </form>
 
-<div class="alert alert-warning mt-4"><strong>ВНИМАНИЕ!</strong> Возврат средств по платежной системе ЮMoney - невозможен, пожалуйста, будьте внимательны при оплате заказа.</div>
+<div class="alert alert-warning mt-4"><strong>Р’РќРРњРђРќРР•!</strong> Р’РѕР·РІСЂР°С‚ СЃСЂРµРґСЃС‚РІ РїРѕ РїР»Р°С‚РµР¶РЅРѕР№ СЃРёСЃС‚РµРјРµ Р®Money - РЅРµРІРѕР·РјРѕР¶РµРЅ, РїРѕР¶Р°Р»СѓР№СЃС‚Р°, Р±СѓРґСЊС‚Рµ РІРЅРёРјР°С‚РµР»СЊРЅС‹ РїСЂРё РѕРїР»Р°С‚Рµ Р·Р°РєР°Р·Р°.</div>
 
-<h4>Процедура оплаты</h4>
+<h4>РџСЂРѕС†РµРґСѓСЂР° РѕРїР»Р°С‚С‹</h4>
 
-<p>Перед нажатием кнопки "Оплатить", убедитесь что <i>Кошелек "ЮMoney" у вас запущен</i>. После нажатия кнопки "Оплатить" магазин выставит вашему Кошельку "ЮMoney" требование об оплате, содержащее описание заказа. Требование об оплате подписано электронной цифровой подписью магазина.<p>
+<p>РџРµСЂРµРґ РЅР°Р¶Р°С‚РёРµРј РєРЅРѕРїРєРё "РћРїР»Р°С‚РёС‚СЊ", СѓР±РµРґРёС‚РµСЃСЊ С‡С‚Рѕ <i>РљРѕС€РµР»РµРє "Р®Money" Сѓ РІР°СЃ Р·Р°РїСѓС‰РµРЅ</i>. РџРѕСЃР»Рµ РЅР°Р¶Р°С‚РёСЏ РєРЅРѕРїРєРё "РћРїР»Р°С‚РёС‚СЊ" РјР°РіР°Р·РёРЅ РІС‹СЃС‚Р°РІРёС‚ РІР°С€РµРјСѓ РљРѕС€РµР»СЊРєСѓ "Р®Money" С‚СЂРµР±РѕРІР°РЅРёРµ РѕР± РѕРїР»Р°С‚Рµ, СЃРѕРґРµСЂР¶Р°С‰РµРµ РѕРїРёСЃР°РЅРёРµ Р·Р°РєР°Р·Р°. РўСЂРµР±РѕРІР°РЅРёРµ РѕР± РѕРїР»Р°С‚Рµ РїРѕРґРїРёСЃР°РЅРѕ СЌР»РµРєС‚СЂРѕРЅРЅРѕР№ С†РёС„СЂРѕРІРѕР№ РїРѕРґРїРёСЃСЊСЋ РјР°РіР°Р·РёРЅР°.<p>
 
-<p>Ваш Кошелек предъявляет вам содержимое заказа. Если вы согласны, и у вас достаточно денег на счету, то ваш Кошелек отсылает Кошельку нашего магазина электронные деньги и подписанный вашей электронной подписью счет. После того, как вы оплатите счет в системе ЮMoney, мы введем оплату, заказ будет обработан и доставлен согласно условиям поставки. ВНИМАНИЕ, оплата заказов вводится в неавтоматическом режиме в рабочее время отдела продаж: с 10.00 до 18.00, по будням.</p>
+<p>Р’Р°С€ РљРѕС€РµР»РµРє РїСЂРµРґСЉСЏРІР»СЏРµС‚ РІР°Рј СЃРѕРґРµСЂР¶РёРјРѕРµ Р·Р°РєР°Р·Р°. Р•СЃР»Рё РІС‹ СЃРѕРіР»Р°СЃРЅС‹, Рё Сѓ РІР°СЃ РґРѕСЃС‚Р°С‚РѕС‡РЅРѕ РґРµРЅРµРі РЅР° СЃС‡РµС‚Сѓ, С‚Рѕ РІР°С€ РљРѕС€РµР»РµРє РѕС‚СЃС‹Р»Р°РµС‚ РљРѕС€РµР»СЊРєСѓ РЅР°С€РµРіРѕ РјР°РіР°Р·РёРЅР° СЌР»РµРєС‚СЂРѕРЅРЅС‹Рµ РґРµРЅСЊРіРё Рё РїРѕРґРїРёСЃР°РЅРЅС‹Р№ РІР°С€РµР№ СЌР»РµРєС‚СЂРѕРЅРЅРѕР№ РїРѕРґРїРёСЃСЊСЋ СЃС‡РµС‚. РџРѕСЃР»Рµ С‚РѕРіРѕ, РєР°Рє РІС‹ РѕРїР»Р°С‚РёС‚Рµ СЃС‡РµС‚ РІ СЃРёСЃС‚РµРјРµ Р®Money, РјС‹ РІРІРµРґРµРј РѕРїР»Р°С‚Сѓ, Р·Р°РєР°Р· Р±СѓРґРµС‚ РѕР±СЂР°Р±РѕС‚Р°РЅ Рё РґРѕСЃС‚Р°РІР»РµРЅ СЃРѕРіР»Р°СЃРЅРѕ СѓСЃР»РѕРІРёСЏРј РїРѕСЃС‚Р°РІРєРё. Р’РќРРњРђРќРР•, РѕРїР»Р°С‚Р° Р·Р°РєР°Р·РѕРІ РІРІРѕРґРёС‚СЃСЏ РІ РЅРµР°РІС‚РѕРјР°С‚РёС‡РµСЃРєРѕРј СЂРµР¶РёРјРµ РІ СЂР°Р±РѕС‡РµРµ РІСЂРµРјСЏ РѕС‚РґРµР»Р° РїСЂРѕРґР°Р¶: СЃ 10.00 РґРѕ 18.00, РїРѕ Р±СѓРґРЅСЏРј.</p>

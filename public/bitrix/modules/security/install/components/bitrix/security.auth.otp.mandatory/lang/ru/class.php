@@ -1,5 +1,5 @@
 <?
-$MESS['SECURITY_AUTH_OTP_MANDATORY_AUTH_ERROR'] = "Âû óæå àâòîðèçîâàíû.";
-$MESS['SECURITY_AUTH_OTP_MANDATORY_MODULE_ERROR'] = "Ìîäóëü security íå óñòàíîâëåí";
-$MESS['SECURITY_AUTH_OTP_MANDATORY_NOT_REQUIRED'] = "Ñðîê ïîäêëþ÷åíèÿ äâóõýòàïíîé àâòîðèçàöèè íå èñòåê";
-$MESS['SECURITY_AUTH_OTP_MANDATORY_UNKNOWN_ERROR'] = "Íåïðåäâèäåííàÿ îøèáêà. Ïîâòîðèòå ïîïûòêó ïîçæå.";
+$MESS['SECURITY_AUTH_OTP_MANDATORY_AUTH_ERROR'] = "Ð’Ñ‹ ÑƒÐ¶Ðµ Ð°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·Ð¾Ð²Ð°Ð½Ñ‹.";
+$MESS['SECURITY_AUTH_OTP_MANDATORY_MODULE_ERROR'] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ security Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½";
+$MESS['SECURITY_AUTH_OTP_MANDATORY_NOT_REQUIRED'] = "Ð¡Ñ€Ð¾Ðº Ð¿Ð¾Ð´ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¸Ñ Ð´Ð²ÑƒÑ…ÑÑ‚Ð°Ð¿Ð½Ð¾Ð¹ Ð°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·Ð°Ñ†Ð¸Ð¸ Ð½Ðµ Ð¸ÑÑ‚ÐµÐº";
+$MESS['SECURITY_AUTH_OTP_MANDATORY_UNKNOWN_ERROR'] = "ÐÐµÐ¿Ñ€ÐµÐ´Ð²Ð¸Ð´ÐµÐ½Ð½Ð°Ñ Ð¾ÑˆÐ¸Ð±ÐºÐ°. ÐŸÐ¾Ð²Ñ‚Ð¾Ñ€Ð¸Ñ‚Ðµ Ð¿Ð¾Ð¿Ñ‹Ñ‚ÐºÑƒ Ð¿Ð¾Ð·Ð¶Ðµ.";

@@ -1,10 +1,10 @@
 <?php
-$MESS['LANDING_CONNECTOR_SOURCE_TITLE'] = 'Ñòðàíèöû ñàéòà';
-$MESS['LANDING_CONNECTOR_FIELD_DATE_CREATE'] = 'Äàòà ñîçäàíèÿ';
-$MESS['LANDING_CONNECTOR_FIELD_DATE_MODIFY'] = 'Äàòà èçìåíåíèÿ';
-$MESS['LANDING_CONNECTOR_FIELD_TITLE'] = 'Çàãîëîâîê';
-$MESS['LANDING_CONNECTOR_FIELD_DESCRIPTION'] = 'Îïèñàíèå';
-$MESS['LANDING_CONNECTOR_FIELD_LINK'] = 'Ññûëêà íà äåòàëüíóþ ñòðàíèöó';
-$MESS['LANDING_CONNECTOR_FIELD_LINK_LINK'] = 'Ññûëêà';
-$MESS['LANDING_CONNECTOR_FIELD_IMAGE'] = 'Èçîáðàæåíèå';
-$MESS['LANDING_CONNECTOR_FIELD_VIEWS'] = 'Êîëè÷åñòâî ïðîñìîòðîâ';
+$MESS['LANDING_CONNECTOR_SOURCE_TITLE'] = 'Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹ ÑÐ°Ð¹Ñ‚Ð°';
+$MESS['LANDING_CONNECTOR_FIELD_DATE_CREATE'] = 'Ð”Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ';
+$MESS['LANDING_CONNECTOR_FIELD_DATE_MODIFY'] = 'Ð”Ð°Ñ‚Ð° Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ';
+$MESS['LANDING_CONNECTOR_FIELD_TITLE'] = 'Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº';
+$MESS['LANDING_CONNECTOR_FIELD_DESCRIPTION'] = 'ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ';
+$MESS['LANDING_CONNECTOR_FIELD_LINK'] = 'Ð¡ÑÑ‹Ð»ÐºÐ° Ð½Ð° Ð´ÐµÑ‚Ð°Ð»ÑŒÐ½ÑƒÑŽ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ';
+$MESS['LANDING_CONNECTOR_FIELD_LINK_LINK'] = 'Ð¡ÑÑ‹Ð»ÐºÐ°';
+$MESS['LANDING_CONNECTOR_FIELD_IMAGE'] = 'Ð˜Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ðµ';
+$MESS['LANDING_CONNECTOR_FIELD_VIEWS'] = 'ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð¾Ð²';

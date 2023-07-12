@@ -1,9 +1,9 @@
 <?
-$MESS["SALE_EBAY_HLP_FLAG_CANCELED"] = "Ôëàã îòìåíû";
-$MESS["SALE_EBAY_HLP_FLAG_DELIVERY"] = "Ôëàã äîñòàâêè";
-$MESS["SALE_EBAY_HLP_FLAG_PAYED"] = "Ôëàã îïëàòû";
-$MESS["SALE_EBAY_HLP_FLAG_DEDUCTED"] = "Ôëàã îòãðóçêè";
-$MESS["SALE_EBAY_HLP_STATUS"] = "Ñòàòóñ";
-$MESS["SALE_EBAY_HLP_CATEGORY_PROPS"] = "Ñâîéñòâà êàòåãîðèè";
-$MESS["SALE_EBAY_HLP_OFFERS_PROPS"] = "Ñâîéñòâà òîðãîâûõ ïðåäëîæåíèé";
-$MESS["SALE_EBAY_HLP_NOT_USE"] = "Íå èñïîëüçîâàòü";
+$MESS["SALE_EBAY_HLP_FLAG_CANCELED"] = "Ð¤Ð»Ð°Ð³ Ð¾Ñ‚Ð¼ÐµÐ½Ñ‹";
+$MESS["SALE_EBAY_HLP_FLAG_DELIVERY"] = "Ð¤Ð»Ð°Ð³ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸";
+$MESS["SALE_EBAY_HLP_FLAG_PAYED"] = "Ð¤Ð»Ð°Ð³ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹";
+$MESS["SALE_EBAY_HLP_FLAG_DEDUCTED"] = "Ð¤Ð»Ð°Ð³ Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸";
+$MESS["SALE_EBAY_HLP_STATUS"] = "Ð¡Ñ‚Ð°Ñ‚ÑƒÑ";
+$MESS["SALE_EBAY_HLP_CATEGORY_PROPS"] = "Ð¡Ð²Ð¾Ð¹ÑÑ‚Ð²Ð° ÐºÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ð¸";
+$MESS["SALE_EBAY_HLP_OFFERS_PROPS"] = "Ð¡Ð²Ð¾Ð¹ÑÑ‚Ð²Ð° Ñ‚Ð¾Ñ€Ð³Ð¾Ð²Ñ‹Ñ… Ð¿Ñ€ÐµÐ´Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹";
+$MESS["SALE_EBAY_HLP_NOT_USE"] = "ÐÐµ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ";

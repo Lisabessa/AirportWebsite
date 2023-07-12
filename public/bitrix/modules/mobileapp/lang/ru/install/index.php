@@ -1,7 +1,7 @@
 <?
-$MESS["APP_PLATFORM_MODULE_NAME"] = "Ìîáèëüíàÿ ïëàòôîðìà";
-$MESS["APP_PLATFORM_MODULE_DESCRIPTION"] = "Ìîäóëü ïîçâîëÿåò ñîçäàâàòü ìîáèëüíûå ïðèëîæåíèÿ";
-$MESS["APP_PLATFORM_INSTALL_TITLE"] = "Óñòàíîâêà ìîäóëÿ \"Ìîáèëüíàÿ ïëàòôîðìà\"";
-$MESS["APP_PLATFORM_UNINSTALL_TITLE"] = "Äåèíñòàëÿöèÿ ìîäóëÿ \"Ìîáèëüíàÿ ïëàòôîðìà\"";
-$MESS["APP_PLATFORM_DENIED"] = "Äîñòóï çàêðûò";
+$MESS["APP_PLATFORM_MODULE_NAME"] = "ÐœÐ¾Ð±Ð¸Ð»ÑŒÐ½Ð°Ñ Ð¿Ð»Ð°Ñ‚Ñ„Ð¾Ñ€Ð¼Ð°";
+$MESS["APP_PLATFORM_MODULE_DESCRIPTION"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð¿Ð¾Ð·Ð²Ð¾Ð»ÑÐµÑ‚ ÑÐ¾Ð·Ð´Ð°Ð²Ð°Ñ‚ÑŒ Ð¼Ð¾Ð±Ð¸Ð»ÑŒÐ½Ñ‹Ðµ Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ";
+$MESS["APP_PLATFORM_INSTALL_TITLE"] = "Ð£ÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ° Ð¼Ð¾Ð´ÑƒÐ»Ñ \"ÐœÐ¾Ð±Ð¸Ð»ÑŒÐ½Ð°Ñ Ð¿Ð»Ð°Ñ‚Ñ„Ð¾Ñ€Ð¼Ð°\"";
+$MESS["APP_PLATFORM_UNINSTALL_TITLE"] = "Ð”ÐµÐ¸Ð½ÑÑ‚Ð°Ð»ÑÑ†Ð¸Ñ Ð¼Ð¾Ð´ÑƒÐ»Ñ \"ÐœÐ¾Ð±Ð¸Ð»ÑŒÐ½Ð°Ñ Ð¿Ð»Ð°Ñ‚Ñ„Ð¾Ñ€Ð¼Ð°\"";
+$MESS["APP_PLATFORM_DENIED"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ð·Ð°ÐºÑ€Ñ‹Ñ‚";
 ?>

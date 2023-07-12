@@ -1,17 +1,17 @@
 <?
-$MESS["authprov_last"] = "Ïîñëåäíèå";
-$MESS["authprov_all_groups"] = "Âñå ãðóïïû";
-$MESS["authprov_search"] = "Ïîèñê";
-$MESS["authprov_group_name"] = "Ââåäèòå íàçâàíèå ãðóïïû.";
-$MESS["authprov_group_prov"] = "Ãðóïïà";
-$MESS["authprov_user"] = "Ââåäèòå èìÿ, ôàìèëèþ èëè ëîãèí ïîëüçîâàòåëÿ.";
-$MESS["authprov_user1"] = "Ïîëüçîâàòåëü";
-$MESS["authprov_user_curr"] = "Òåêóùèé ïîëüçîâàòåëü ñèñòåìû";
-$MESS["authprov_author"] = "Àâòîð";
-$MESS["authprov_author_desc"] = "Àâòîð êîíòåíòà";
-$MESS["authprov_all"] = "Âñå ïîñåòèòåëè";
-$MESS["authprov_all_desc"] = "Âñå ïîëüçîâàòåëè, âêëþ÷àÿ íå àâòîðèçîâàííûõ";
-$MESS["authprov_authorized"] = "Âñå àâòîðèçîâàííûå ïîëüçîâàòåëè";
-$MESS["authprov_authorized_desc"] = "Âñå àâòîðèçîâàííûå ïîëüçîâàòåëè ñèñòåìû";
-$MESS["authprov_other"] = "Äðóãèå ðîëè";
+$MESS["authprov_last"] = "ÐŸÐ¾ÑÐ»ÐµÐ´Ð½Ð¸Ðµ";
+$MESS["authprov_all_groups"] = "Ð’ÑÐµ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
+$MESS["authprov_search"] = "ÐŸÐ¾Ð¸ÑÐº";
+$MESS["authprov_group_name"] = "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð½Ð°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹.";
+$MESS["authprov_group_prov"] = "Ð“Ñ€ÑƒÐ¿Ð¿Ð°";
+$MESS["authprov_user"] = "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð¸Ð¼Ñ, Ñ„Ð°Ð¼Ð¸Ð»Ð¸ÑŽ Ð¸Ð»Ð¸ Ð»Ð¾Ð³Ð¸Ð½ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ.";
+$MESS["authprov_user1"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ";
+$MESS["authprov_user_curr"] = "Ð¢ÐµÐºÑƒÑ‰Ð¸Ð¹ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ ÑÐ¸ÑÑ‚ÐµÐ¼Ñ‹";
+$MESS["authprov_author"] = "ÐÐ²Ñ‚Ð¾Ñ€";
+$MESS["authprov_author_desc"] = "ÐÐ²Ñ‚Ð¾Ñ€ ÐºÐ¾Ð½Ñ‚ÐµÐ½Ñ‚Ð°";
+$MESS["authprov_all"] = "Ð’ÑÐµ Ð¿Ð¾ÑÐµÑ‚Ð¸Ñ‚ÐµÐ»Ð¸";
+$MESS["authprov_all_desc"] = "Ð’ÑÐµ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ð¸, Ð²ÐºÐ»ÑŽÑ‡Ð°Ñ Ð½Ðµ Ð°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·Ð¾Ð²Ð°Ð½Ð½Ñ‹Ñ…";
+$MESS["authprov_authorized"] = "Ð’ÑÐµ Ð°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·Ð¾Ð²Ð°Ð½Ð½Ñ‹Ðµ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ð¸";
+$MESS["authprov_authorized_desc"] = "Ð’ÑÐµ Ð°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·Ð¾Ð²Ð°Ð½Ð½Ñ‹Ðµ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ð¸ ÑÐ¸ÑÑ‚ÐµÐ¼Ñ‹";
+$MESS["authprov_other"] = "Ð”Ñ€ÑƒÐ³Ð¸Ðµ Ñ€Ð¾Ð»Ð¸";
 ?>

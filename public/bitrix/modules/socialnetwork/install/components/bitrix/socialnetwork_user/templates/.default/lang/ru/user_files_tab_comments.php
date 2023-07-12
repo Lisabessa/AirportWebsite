@@ -1,8 +1,8 @@
 <?
-$MESS["WD_COMMENTS_NAME"] = "Îáñóæäåíèå (#NUM#)";
-$MESS["WD_COMMENTS_NAME_JS"] = "Îáñóæäåíèå";
-$MESS["WD_COMMENTS_TITLE"] = "Îáñóæäåíèå äîêóìåíòà";
-$MESS["WD_TEMPLATE_MESSAGE"] = "Íîâûé äîêóìåíò â áèáëèîòåêå äîêóìåíòîâ: [url=#LINK#]#TITLE#[/url].
+$MESS["WD_COMMENTS_NAME"] = "ÐžÐ±ÑÑƒÐ¶Ð´ÐµÐ½Ð¸Ðµ (#NUM#)";
+$MESS["WD_COMMENTS_NAME_JS"] = "ÐžÐ±ÑÑƒÐ¶Ð´ÐµÐ½Ð¸Ðµ";
+$MESS["WD_COMMENTS_TITLE"] = "ÐžÐ±ÑÑƒÐ¶Ð´ÐµÐ½Ð¸Ðµ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð°";
+$MESS["WD_TEMPLATE_MESSAGE"] = "ÐÐ¾Ð²Ñ‹Ð¹ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚ Ð² Ð±Ð¸Ð±Ð»Ð¸Ð¾Ñ‚ÐµÐºÐµ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð¾Ð²: [url=#LINK#]#TITLE#[/url].
 
 #BODY#";
 ?>

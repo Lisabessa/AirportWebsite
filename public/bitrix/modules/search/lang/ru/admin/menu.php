@@ -1,15 +1,15 @@
 <?
-$MESS ['mnu_search'] = "Ïîèñê";
-$MESS ['mnu_customrank'] = "Ïðàâèëà ñîðòèðîâêè";
-$MESS ['mnu_customrank_alt'] = "Óïðàâëåíèå ñîðòèðîâêîé ðåçóëüòàòîâ ïîèñêà";
-$MESS ['mnu_reindex'] = "Ïåðåèíäåêñàöèÿ";
-$MESS ['mnu_reindex_alt'] = "Ïåðåèíäåêñàöèÿ ñîäåðæàíèÿ ñàéòà";
+$MESS ['mnu_search'] = "ÐŸÐ¾Ð¸ÑÐº";
+$MESS ['mnu_customrank'] = "ÐŸÑ€Ð°Ð²Ð¸Ð»Ð° ÑÐ¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²ÐºÐ¸";
+$MESS ['mnu_customrank_alt'] = "Ð£Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ ÑÐ¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²ÐºÐ¾Ð¹ Ñ€ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ð¾Ð² Ð¿Ð¾Ð¸ÑÐºÐ°";
+$MESS ['mnu_reindex'] = "ÐŸÐµÑ€ÐµÐ¸Ð½Ð´ÐµÐºÑÐ°Ñ†Ð¸Ñ";
+$MESS ['mnu_reindex_alt'] = "ÐŸÐµÑ€ÐµÐ¸Ð½Ð´ÐµÐºÑÐ°Ñ†Ð¸Ñ ÑÐ¾Ð´ÐµÑ€Ð¶Ð°Ð½Ð¸Ñ ÑÐ°Ð¹Ñ‚Ð°";
 $MESS ['mnu_sitemap'] = "Google Sitemap";
-$MESS ['mnu_sitemap_alt'] = "Ñîçäàíèå Google Sitemap";
-$MESS ['mnu_search_title'] = "Óïðàâëåíèå ïîèñêîì";
-$MESS ['mnu_statistic'] = "Ñòàòèñòèêà";
-$MESS ['mnu_statistic_alt'] = "Ñòàòèñòèêà ïîèñêîâûõ ôðàç";
-$MESS ['mnu_stat_phrase_list'] = "Ñïèñîê ïåðåõîäîâ";
-$MESS ['mnu_stat_phrase_stat'] = "Ñïèñîê ôðàç";
-$MESS ['mnu_stat_tags_stat'] = "Ñïèñîê òåãîâ";
+$MESS ['mnu_sitemap_alt'] = "Ð¡Ð¾Ð·Ð´Ð°Ð½Ð¸Ðµ Google Sitemap";
+$MESS ['mnu_search_title'] = "Ð£Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ð¿Ð¾Ð¸ÑÐºÐ¾Ð¼";
+$MESS ['mnu_statistic'] = "Ð¡Ñ‚Ð°Ñ‚Ð¸ÑÑ‚Ð¸ÐºÐ°";
+$MESS ['mnu_statistic_alt'] = "Ð¡Ñ‚Ð°Ñ‚Ð¸ÑÑ‚Ð¸ÐºÐ° Ð¿Ð¾Ð¸ÑÐºÐ¾Ð²Ñ‹Ñ… Ñ„Ñ€Ð°Ð·";
+$MESS ['mnu_stat_phrase_list'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð¿ÐµÑ€ÐµÑ…Ð¾Ð´Ð¾Ð²";
+$MESS ['mnu_stat_phrase_stat'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ñ„Ñ€Ð°Ð·";
+$MESS ['mnu_stat_tags_stat'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ñ‚ÐµÐ³Ð¾Ð²";
 ?>

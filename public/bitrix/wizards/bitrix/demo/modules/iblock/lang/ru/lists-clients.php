@@ -1,4 +1,4 @@
 <?
-$MESS ['DEMO_IBLOCK_LISTS_MENU'] = "Óíèâåðñàëüíûå ñïèñêè";
-$MESS ['DEMO_IBLOCK_LISTS_CLIENT_TAB'] = "edit1--#--Êëèåíò--,--NAME--#--*Íàçâàíèå êîìïàíèè--,--PROPERTY_PERSON--#--Ðóêîâîäèòåëü--,--PROPERTY_PHONE--#--Òåëåôîí--;--";
+$MESS ['DEMO_IBLOCK_LISTS_MENU'] = "Ð£Ð½Ð¸Ð²ÐµÑ€ÑÐ°Ð»ÑŒÐ½Ñ‹Ðµ ÑÐ¿Ð¸ÑÐºÐ¸";
+$MESS ['DEMO_IBLOCK_LISTS_CLIENT_TAB'] = "edit1--#--ÐšÐ»Ð¸ÐµÐ½Ñ‚--,--NAME--#--*ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸--,--PROPERTY_PERSON--#--Ð ÑƒÐºÐ¾Ð²Ð¾Ð´Ð¸Ñ‚ÐµÐ»ÑŒ--,--PROPERTY_PHONE--#--Ð¢ÐµÐ»ÐµÑ„Ð¾Ð½--;--";
 ?>

@@ -1,6 +1,6 @@
 <?
-$MESS['CITY_MOSCOW'] = 			'Ìîñêâà';
-$MESS['CITY_STPETERSBURG'] = 	'Ñàíêò-Ïåòåðáóðã';
+$MESS['CITY_MOSCOW'] = 			'ÐœÐ¾ÑÐºÐ²Ð°';
+$MESS['CITY_STPETERSBURG'] = 	'Ð¡Ð°Ð½ÐºÑ‚-ÐŸÐµÑ‚ÐµÑ€Ð±ÑƒÑ€Ð³';
 
-$MESS['REGION_MOSCOW'] = 		'Ìîñêîâñêàÿ îáë';
-$MESS['REGION_STPETERSBURG'] = 	'Ëåíèíãðàäñêàÿ îáë';
+$MESS['REGION_MOSCOW'] = 		'ÐœÐ¾ÑÐºÐ¾Ð²ÑÐºÐ°Ñ Ð¾Ð±Ð»';
+$MESS['REGION_STPETERSBURG'] = 	'Ð›ÐµÐ½Ð¸Ð½Ð³Ñ€Ð°Ð´ÑÐºÐ°Ñ Ð¾Ð±Ð»';

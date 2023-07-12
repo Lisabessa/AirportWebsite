@@ -6,7 +6,7 @@ if (!is_array($arOrder))
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
 <head>
-<title>Рахунок</title>
+<title>Р Р°С…СѓРЅРѕРє</title>
 <meta http-equiv="Content-Type" content="text/html; charset=<?=LANG_CHARSET?>">
 <style>
 	table { border-collapse: collapse; }
@@ -74,7 +74,7 @@ $width = $pageWidth - $margin['left'] - $margin['right'];
 <div style="margin: 0pt; padding: <?=join('pt ', $margin); ?>pt; width: <?=$width; ?>pt; background: <?=$background; ?>">
 
 <b><?=sprintf(
-	"Рахунок на оплату №%s від %s",
+	"Р Р°С…СѓРЅРѕРє РЅР° РѕРїР»Р°С‚Сѓ в„–%s РІС–Рґ %s",
 	htmlspecialcharsbx($GLOBALS["SALE_INPUT_PARAMS"]["ORDER"]["ACCOUNT_NUMBER"]),
 	CSalePaySystemAction::GetParamValue("DATE_INSERT", false)
 ); ?></b>
@@ -90,20 +90,20 @@ $buyerFax = CSalePaySystemAction::GetParamValue("BUYER_FAX", false);
 
 <table class="acc">
 	<tr>
-		<td>Постачальник:</td>
+		<td>РџРѕСЃС‚Р°С‡Р°Р»СЊРЅРёРє:</td>
 		<td style="padding-left: 4pt; ">
 			<?=CSalePaySystemAction::GetParamValue("SELLER_NAME", false); ?>
 			<br>
-			Р/р <?=CSalePaySystemAction::GetParamValue("SELLER_RS", false); ?>,
-			Банк <?=CSalePaySystemAction::GetParamValue("SELLER_BANK", false); ?>,
-			МФО <?=CSalePaySystemAction::GetParamValue("SELLER_MFO", false); ?>
+			Р /СЂ <?=CSalePaySystemAction::GetParamValue("SELLER_RS", false); ?>,
+			Р‘Р°РЅРє <?=CSalePaySystemAction::GetParamValue("SELLER_BANK", false); ?>,
+			РњР¤Рћ <?=CSalePaySystemAction::GetParamValue("SELLER_MFO", false); ?>
 			<br>
-			Юридична адреса: <?=CSalePaySystemAction::GetParamValue("SELLER_ADDRESS", false); ?>,
-			тел.: <?=CSalePaySystemAction::GetParamValue("SELLER_PHONE", false); ?>
+			Р®СЂРёРґРёС‡РЅР° Р°РґСЂРµСЃР°: <?=CSalePaySystemAction::GetParamValue("SELLER_ADDRESS", false); ?>,
+			С‚РµР».: <?=CSalePaySystemAction::GetParamValue("SELLER_PHONE", false); ?>
 			<br>
-			ЄДРПОУ: <?=CSalePaySystemAction::GetParamValue("SELLER_EDRPOY", false); ?>,
-			ІПН: <?=CSalePaySystemAction::GetParamValue("SELLER_IPN", false); ?>,
-			№ свід. ПДВ: <?=CSalePaySystemAction::GetParamValue("SELLER_PDV", false); ?>
+			Р„Р”Р РџРћРЈ: <?=CSalePaySystemAction::GetParamValue("SELLER_EDRPOY", false); ?>,
+			Р†РџРќ: <?=CSalePaySystemAction::GetParamValue("SELLER_IPN", false); ?>,
+			в„– СЃРІС–Рґ. РџР”Р’: <?=CSalePaySystemAction::GetParamValue("SELLER_PDV", false); ?>
 			<? if (CSalePaySystemAction::GetParamValue("SELLER_SYS", false)) { ?>
 			<br>
 			<?=CSalePaySystemAction::GetParamValue("SELLER_SYS", false); ?>
@@ -112,17 +112,17 @@ $buyerFax = CSalePaySystemAction::GetParamValue("BUYER_FAX", false);
 	</tr>
 	<tr><td>&nbsp;</td><td>&nbsp;</td></tr>
 	<tr>
-		<td>Покупець:</td>
+		<td>РџРѕРєСѓРїРµС†СЊ:</td>
 		<td style="padding-left: 4pt; ">
 			<?=CSalePaySystemAction::GetParamValue("BUYER_NAME", false); ?>
 			<? if ($buyerPhone || $buyerFax) { ?>
 			<br>
-			<? if ($buyerPhone) { ?>тел.: <?=$buyerPhone; ?><? if ($buyerFax) { ?>, <? } ?><? } ?>
-			<? if ($buyerFax) { ?>факс: <?=$buyerFax; ?><? } ?>
+			<? if ($buyerPhone) { ?>С‚РµР».: <?=$buyerPhone; ?><? if ($buyerFax) { ?>, <? } ?><? } ?>
+			<? if ($buyerFax) { ?>С„Р°РєСЃ: <?=$buyerFax; ?><? } ?>
 			<? } ?>
 			<? if (CSalePaySystemAction::GetParamValue("BUYER_ADDRESS", false)) { ?>
 			<br>
-			Адреса: <?=CSalePaySystemAction::GetParamValue("BUYER_ADDRESS", false); ?>
+			РђРґСЂРµСЃР°: <?=CSalePaySystemAction::GetParamValue("BUYER_ADDRESS", false); ?>
 			<? } ?>
 		</td>
 	</tr>
@@ -130,7 +130,7 @@ $buyerFax = CSalePaySystemAction::GetParamValue("BUYER_FAX", false);
 <br>
 
 <? if (CSalePaySystemAction::GetParamValue("BUYER_DOGOVOR", false)) { ?>
-Договір: <?=CSalePaySystemAction::GetParamValue("BUYER_DOGOVOR", false); ?>
+Р”РѕРіРѕРІС–СЂ: <?=CSalePaySystemAction::GetParamValue("BUYER_DOGOVOR", false); ?>
 <br>
 <? } ?>
 <br>
@@ -174,15 +174,15 @@ if ($arBasket = $dbBasket->Fetch())
 
 		$productName = $arBasket["NAME"];
 		if ($productName == "OrderDelivery")
-			$productName = "Доставка";
+			$productName = "Р”РѕСЃС‚Р°РІРєР°";
 		else if ($productName == "OrderDiscount")
-			$productName = "Знижка";
+			$productName = "Р—РЅРёР¶РєР°";
 
 		$arCells[++$n] = array(
 			1 => $n,
 			htmlspecialcharsbx($productName),
 			roundEx($arBasket["QUANTITY"], SALE_VALUE_PRECISION),
-			$arBasket["MEASURE_NAME"] ? htmlspecialcharsbx($arBasket["MEASURE_NAME"]) : 'шт.',
+			$arBasket["MEASURE_NAME"] ? htmlspecialcharsbx($arBasket["MEASURE_NAME"]) : 'С€С‚.',
 			SaleFormatCurrency($arBasket["PRICE"], $arBasket["CURRENCY"], true),
 			roundEx($arBasket["VAT_RATE"]*100, SALE_VALUE_PRECISION) . "%",
 			SaleFormatCurrency(
@@ -205,7 +205,7 @@ if ($arBasket = $dbBasket->Fetch())
 	{
 		$arDelivery_tmp = CSaleDelivery::GetByID($GLOBALS["SALE_INPUT_PARAMS"]["ORDER"]["DELIVERY_ID"]);
 
-		$sDeliveryItem = "Доставка";
+		$sDeliveryItem = "Р”РѕСЃС‚Р°РІРєР°";
 		if ($arDelivery_tmp["NAME"] <> '')
 			$sDeliveryItem .= sprintf(" (%s)", $arDelivery_tmp["NAME"]);
 		$arCells[++$n] = array(
@@ -239,7 +239,7 @@ if ($arBasket = $dbBasket->Fetch())
 			null,
 			null,
 			null,
-			"Подытог:",
+			"РџРѕРґС‹С‚РѕРі:",
 			SaleFormatCurrency($sum, $GLOBALS["SALE_INPUT_PARAMS"]["ORDER"]["CURRENCY"], true)
 		);
 	}
@@ -260,8 +260,8 @@ if ($arBasket = $dbBasket->Fetch())
 			null,
 			htmlspecialcharsbx(sprintf(
 				"%s%s%s:",
-				($arTaxList["IS_IN_PRICE"] == "Y") ? "У тому числі " : "",
-				($vat <= 0) ? $arTaxList["TAX_NAME"] : "ПДВ",
+				($arTaxList["IS_IN_PRICE"] == "Y") ? "РЈ С‚РѕРјСѓ С‡РёСЃР»С– " : "",
+				($vat <= 0) ? $arTaxList["TAX_NAME"] : "РџР”Р’",
 				($vat <= 0 && $arTaxList["IS_PERCENT"] == "Y")
 					? sprintf(' (%s%%)', roundEx($arTaxList["VALUE"],SALE_VALUE_PRECISION))
 					: ""
@@ -284,7 +284,7 @@ if ($arBasket = $dbBasket->Fetch())
 			null,
 			null,
 			null,
-			"Вже сплачено:",
+			"Р’Р¶Рµ СЃРїР»Р°С‡РµРЅРѕ:",
 			SaleFormatCurrency(
 				$GLOBALS["SALE_INPUT_PARAMS"]["ORDER"]["SUM_PAID"],
 				$GLOBALS["SALE_INPUT_PARAMS"]["ORDER"]["CURRENCY"],
@@ -301,7 +301,7 @@ if ($arBasket = $dbBasket->Fetch())
 			null,
 			null,
 			null,
-			"Знижка:",
+			"Р—РЅРёР¶РєР°:",
 			SaleFormatCurrency(
 				$GLOBALS["SALE_INPUT_PARAMS"]["ORDER"]["DISCOUNT_VALUE"],
 				$GLOBALS["SALE_INPUT_PARAMS"]["ORDER"]["CURRENCY"],
@@ -316,7 +316,7 @@ if ($arBasket = $dbBasket->Fetch())
 		null,
 		null,
 		null,
-		$vat <= 0 ? "Всього без ПДВ:" : "Всього:",
+		$vat <= 0 ? "Р’СЃСЊРѕРіРѕ Р±РµР· РџР”Р’:" : "Р’СЃСЊРѕРіРѕ:",
 		SaleFormatCurrency(
 			$GLOBALS["SALE_INPUT_PARAMS"]["ORDER"]["SHOULD_PAY"],
 			$GLOBALS["SALE_INPUT_PARAMS"]["ORDER"]["CURRENCY"],
@@ -332,15 +332,15 @@ $currency = trim(str_replace('#', '', $arCurFormat['FORMAT_STRING']));
 ?>
 <table class="it" width="100%">
 	<tr>
-		<td><nobr>№</nobr></td>
-		<td><nobr>Товар/Послуга</nobr></td>
-		<td><nobr>Кіл-сть</nobr></td>
-		<td><nobr>Од.</nobr></td>
-		<td><nobr><? if ($vat <= 0) { ?>Ціна без ПДВ<? } else { ?>Ціна з ПДВ<? } ?>, <?=$currency; ?></nobr></td>
+		<td><nobr>в„–</nobr></td>
+		<td><nobr>РўРѕРІР°СЂ/РџРѕСЃР»СѓРіР°</nobr></td>
+		<td><nobr>РљС–Р»-СЃС‚СЊ</nobr></td>
+		<td><nobr>РћРґ.</nobr></td>
+		<td><nobr><? if ($vat <= 0) { ?>Р¦С–РЅР° Р±РµР· РџР”Р’<? } else { ?>Р¦С–РЅР° Р· РџР”Р’<? } ?>, <?=$currency; ?></nobr></td>
 		<? if ($showVat) { ?>
-		<td><nobr>Ставка ПДВ</nobr></td>
+		<td><nobr>РЎС‚Р°РІРєР° РџР”Р’</nobr></td>
 		<? } ?>
-		<td><nobr><? if ($vat <= 0) { ?>Сума без ПДВ<? } else { ?>Сума з ПДВ<? } ?>, <?=$currency; ?></nobr></td>
+		<td><nobr><? if ($vat <= 0) { ?>РЎСѓРјР° Р±РµР· РџР”Р’<? } else { ?>РЎСѓРјР° Р· РџР”Р’<? } ?>, <?=$currency; ?></nobr></td>
 	</tr>
 <?
 
@@ -396,7 +396,7 @@ for ($n = 1; $n <= $rowsCnt; $n++)
 <br>
 
 <b><?=sprintf(
-	"Всього найменувань: %s, на суму %s",
+	"Р’СЃСЊРѕРіРѕ РЅР°Р№РјРµРЅСѓРІР°РЅСЊ: %s, РЅР° СЃСѓРјСѓ %s",
 	$items,
 	($arOrder["CURRENCY"] == "UAH")
 		? Number2Word_Rus(
@@ -414,19 +414,19 @@ for ($n = 1; $n <= $rowsCnt; $n++)
 
 <? if ($vat > 0) { ?>
 <b><?=sprintf(
-	"У т.ч. ПДВ: %s",
+	"РЈ С‚.С‡. РџР”Р’: %s",
 	($arOrder["CURRENCY"] == "UAH")
 		? Number2Word_Rus($orderTax, "Y", $GLOBALS["SALE_INPUT_PARAMS"]["ORDER"]["CURRENCY"])
 		: SaleFormatCurrency($orderTax, $GLOBALS["SALE_INPUT_PARAMS"]["ORDER"]["CURRENCY"], false)
 ); ?></b>
 <? } else { ?>
-<b>Без ПДВ</b>
+<b>Р‘РµР· РџР”Р’</b>
 <? } ?>
 <br>
 <br>
 
 <? if (CSalePaySystemAction::GetParamValue("COMMENT1", false) || CSalePaySystemAction::GetParamValue("COMMENT2", false)) { ?>
-<b>Умови та коментарі</b>
+<b>РЈРјРѕРІРё С‚Р° РєРѕРјРµРЅС‚Р°СЂС–</b>
 <br>
 	<? if (CSalePaySystemAction::GetParamValue("COMMENT1", false)) { ?>
 	<?=nl2br(HTMLToTxt(preg_replace(
@@ -461,7 +461,7 @@ for ($n = 1; $n <= $rowsCnt; $n++)
 <div style="position: relative">
 	<table class="sign">
 		<tr>
-			<td>Виписав(ла):&nbsp;</td>
+			<td>Р’РёРїРёСЃР°РІ(Р»Р°):&nbsp;</td>
 			<td style="width: 160pt; border: 1pt solid #000000; border-width: 0pt 0pt 1pt 0pt; text-align: center; ">
 				<? if (!$blank) { ?>
 				<?=CFile::ShowImage(CSalePaySystemAction::GetParamValue("SELLER_ACC_SIGN", false), 200, 50); ?>
@@ -475,7 +475,7 @@ for ($n = 1; $n <= $rowsCnt; $n++)
 				>
 			</td>
 			<td style="width: 20pt; ">&nbsp;</td>
-			<td>Посада:&nbsp;</td>
+			<td>РџРѕСЃР°РґР°:&nbsp;</td>
 			<td style="width: 160pt; border: 1pt solid #000000; border-width: 0pt 0pt 1pt 0pt; ">
 				<input
 					style="border: none; background: none; width: 100%; text-align: center; "
@@ -492,7 +492,7 @@ for ($n = 1; $n <= $rowsCnt; $n++)
 
 <? if (CSalePaySystemAction::GetParamValue("DATE_PAY_BEFORE", false)) { ?>
 <div style="text-align: right; "><b><?=sprintf(
-	"Рахунок дійсний до сплати до %s",
+	"Р Р°С…СѓРЅРѕРє РґС–Р№СЃРЅРёР№ РґРѕ СЃРїР»Р°С‚Рё РґРѕ %s",
 	ConvertDateTime(CSalePaySystemAction::GetParamValue("DATE_PAY_BEFORE", false), FORMAT_DATE)
 		?: CSalePaySystemAction::GetParamValue("DATE_PAY_BEFORE", false)
 ); ?></b></div>

@@ -1,7 +1,7 @@
 <?
-$MESS ['BCL_MENU_ITEM'] = "Îáëàêî 1Ñ-Áèòðèêñ";
-$MESS ['BCL_MENU_CONTROL_ITEM'] = "Óñêîðåíèå ñàéòà (CDN)";
-$MESS ['BCL_MENU_BACKUP_ITEM'] = "Ðåçåðâíûå êîïèè";
-$MESS ['BCL_MENU_BACKUP_JOB_ITEM'] = "Ðàñïèñàíèå ðåçåðâèðîâàíèÿ";
-$MESS ['BCL_MENU_MONITORING_ITEM'] = "Èíñïåêòîð ñàéòîâ";
+$MESS ['BCL_MENU_ITEM'] = "ÐžÐ±Ð»Ð°ÐºÐ¾ 1Ð¡-Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ";
+$MESS ['BCL_MENU_CONTROL_ITEM'] = "Ð£ÑÐºÐ¾Ñ€ÐµÐ½Ð¸Ðµ ÑÐ°Ð¹Ñ‚Ð° (CDN)";
+$MESS ['BCL_MENU_BACKUP_ITEM'] = "Ð ÐµÐ·ÐµÑ€Ð²Ð½Ñ‹Ðµ ÐºÐ¾Ð¿Ð¸Ð¸";
+$MESS ['BCL_MENU_BACKUP_JOB_ITEM'] = "Ð Ð°ÑÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ Ñ€ÐµÐ·ÐµÑ€Ð²Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ";
+$MESS ['BCL_MENU_MONITORING_ITEM'] = "Ð˜Ð½ÑÐ¿ÐµÐºÑ‚Ð¾Ñ€ ÑÐ°Ð¹Ñ‚Ð¾Ð²";
 ?>

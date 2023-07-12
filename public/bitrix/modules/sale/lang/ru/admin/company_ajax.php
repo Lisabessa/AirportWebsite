@@ -1,5 +1,5 @@
 <?php
-$MESS['SALE_COMPANY_RULE_SORT'] = 'Ñîðòèðîâêà';
-$MESS['SALE_COMPANY_ERROR_FIELD'] = 'Ïîëå';
-$MESS['SALE_COMPANY_ERROR_PARAMS'] = 'Íå óêàçàíû ïàðàìåòðû îãðàíè÷åíèÿ';
-$MESS['SALE_COMPANY_PRICE_INFO'] = 'Â êà÷åñòâå âàëþòû èñïîëüçóåòñÿ âàëþòà çàêàçà';
+$MESS['SALE_COMPANY_RULE_SORT'] = 'Ð¡Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²ÐºÐ°';
+$MESS['SALE_COMPANY_ERROR_FIELD'] = 'ÐŸÐ¾Ð»Ðµ';
+$MESS['SALE_COMPANY_ERROR_PARAMS'] = 'ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ñ‹ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ Ð¾Ð³Ñ€Ð°Ð½Ð¸Ñ‡ÐµÐ½Ð¸Ñ';
+$MESS['SALE_COMPANY_PRICE_INFO'] = 'Ð’ ÐºÐ°Ñ‡ÐµÑÑ‚Ð²Ðµ Ð²Ð°Ð»ÑŽÑ‚Ñ‹ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐµÑ‚ÑÑ Ð²Ð°Ð»ÑŽÑ‚Ð° Ð·Ð°ÐºÐ°Ð·Ð°';

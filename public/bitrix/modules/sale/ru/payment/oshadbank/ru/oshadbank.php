@@ -1,23 +1,23 @@
 <?
 global $MESS;
 
-$MESS["SIBP_DTITLE"] = "Êâèòàíöiÿ Îùàäáàíêà";
-$MESS["SIBP_TITLE_DESC"] = "Êâèòàíöiÿ íà ïåðåêàç ãðîøåé ÷åðåç Îùàäáàíê";
+$MESS["SIBP_DTITLE"] = "ÐšÐ²Ð¸Ñ‚Ð°Ð½Ñ†iÑ ÐžÑ‰Ð°Ð´Ð±Ð°Ð½ÐºÐ°";
+$MESS["SIBP_TITLE_DESC"] = "ÐšÐ²Ð¸Ñ‚Ð°Ð½Ñ†iÑ Ð½Ð° Ð¿ÐµÑ€ÐµÐºÐ°Ð· Ð³Ñ€Ð¾ÑˆÐµÐ¹ Ñ‡ÐµÑ€ÐµÐ· ÐžÑ‰Ð°Ð´Ð±Ð°Ð½Ðº";
 
-$MESS["SIBP_RECIPIENT_NAME"] = "Îòðèìóâà÷ ïëàòåæó";
-$MESS["SIBP_RECIPIENT_ID"] = "²äåíòèô³êàö³éíèé êîä îòðèìóâà÷à";
-$MESS["SIBP_RECIPIENT_NUMBER"] = "Ïîòî÷íèé ðàõóíîê îòðèìóâà÷à";
-$MESS["SIBP_RECIPIENT_BANK"] = "Óñòàíîâà áàíêó";
-$MESS["SIBP_RECIPIENT_CODE_BANK"] = "Êîä óñòàíîâè áàíêó";
-$MESS["SIBP_PAYER_FIO"] = "Ïð³çâèùå, ³ì'ÿ òà ïî áàòüêîâ³";
-$MESS["SIBP_PAYER_ADRES"] = "Àäðåñà ïëàòíèêà";
-$MESS["SIBP_PAYER_NUMBER"] = "²äåíòèô³êàö³éíèé íîìåð êë³ºíòà";
-$MESS["SIBP_PAYMENT_PERIOD"] = "Ïåð³îä ïëàòåæó";
-$MESS["SIBP_PAYMENT_CODE"] = "Êîä âèäó ïëàòåæó";
-$MESS["SIBP_PAYMENT_CLASSIC"] = "Êîä áþäæåòíî¿ êëàñèô³êàö³¿";
-$MESS["SIBP_SUMMA"] = "Ñóìà äî ñïëàòè";
-$MESS["SIBP_ORDER_ID"] = "Êîä çàêàçà";
-$MESS["SIBP_ORDER_DATE"] = "Äàòà çàêàçà";
-$MESS["SIBP_INDEX"] = "Iíäåêñ";
-$MESS["SIBP_TOWN"] = "Ãîðîä";
+$MESS["SIBP_RECIPIENT_NAME"] = "ÐžÑ‚Ñ€Ð¸Ð¼ÑƒÐ²Ð°Ñ‡ Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ñƒ";
+$MESS["SIBP_RECIPIENT_ID"] = "Ð†Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÐ°Ñ†Ñ–Ð¹Ð½Ð¸Ð¹ ÐºÐ¾Ð´ Ð¾Ñ‚Ñ€Ð¸Ð¼ÑƒÐ²Ð°Ñ‡Ð°";
+$MESS["SIBP_RECIPIENT_NUMBER"] = "ÐŸÐ¾Ñ‚Ð¾Ñ‡Ð½Ð¸Ð¹ Ñ€Ð°Ñ…ÑƒÐ½Ð¾Ðº Ð¾Ñ‚Ñ€Ð¸Ð¼ÑƒÐ²Ð°Ñ‡Ð°";
+$MESS["SIBP_RECIPIENT_BANK"] = "Ð£ÑÑ‚Ð°Ð½Ð¾Ð²Ð° Ð±Ð°Ð½ÐºÑƒ";
+$MESS["SIBP_RECIPIENT_CODE_BANK"] = "ÐšÐ¾Ð´ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð¸ Ð±Ð°Ð½ÐºÑƒ";
+$MESS["SIBP_PAYER_FIO"] = "ÐŸÑ€Ñ–Ð·Ð²Ð¸Ñ‰Ðµ, Ñ–Ð¼'Ñ Ñ‚Ð° Ð¿Ð¾ Ð±Ð°Ñ‚ÑŒÐºÐ¾Ð²Ñ–";
+$MESS["SIBP_PAYER_ADRES"] = "ÐÐ´Ñ€ÐµÑÐ° Ð¿Ð»Ð°Ñ‚Ð½Ð¸ÐºÐ°";
+$MESS["SIBP_PAYER_NUMBER"] = "Ð†Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÐ°Ñ†Ñ–Ð¹Ð½Ð¸Ð¹ Ð½Ð¾Ð¼ÐµÑ€ ÐºÐ»Ñ–Ñ”Ð½Ñ‚Ð°";
+$MESS["SIBP_PAYMENT_PERIOD"] = "ÐŸÐµÑ€Ñ–Ð¾Ð´ Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ñƒ";
+$MESS["SIBP_PAYMENT_CODE"] = "ÐšÐ¾Ð´ Ð²Ð¸Ð´Ñƒ Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ñƒ";
+$MESS["SIBP_PAYMENT_CLASSIC"] = "ÐšÐ¾Ð´ Ð±ÑŽÐ´Ð¶ÐµÑ‚Ð½Ð¾Ñ— ÐºÐ»Ð°ÑÐ¸Ñ„Ñ–ÐºÐ°Ñ†Ñ–Ñ—";
+$MESS["SIBP_SUMMA"] = "Ð¡ÑƒÐ¼Ð° Ð´Ð¾ ÑÐ¿Ð»Ð°Ñ‚Ð¸";
+$MESS["SIBP_ORDER_ID"] = "ÐšÐ¾Ð´ Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["SIBP_ORDER_DATE"] = "Ð”Ð°Ñ‚Ð° Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["SIBP_INDEX"] = "IÐ½Ð´ÐµÐºÑ";
+$MESS["SIBP_TOWN"] = "Ð“Ð¾Ñ€Ð¾Ð´";
 ?>

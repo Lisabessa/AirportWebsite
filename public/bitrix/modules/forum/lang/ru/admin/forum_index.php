@@ -1,4 +1,4 @@
 <?
-$MESS["FORUM_STEPPERS_TITLE"] = "Ïðîöåññû ôîðóìà";
-$MESS["FORUM_STEPPERS_MAIN"] = "Âñå ïðîöåññû ôîðóìà";
-$MESS["FORUM_STEPPERS_ARE_ABSENT"] = "Íåò íè îäíîãî àêòèâíîãî ïðîöåññà (èòåðàòîðà).";
+$MESS["FORUM_STEPPERS_TITLE"] = "ÐŸÑ€Ð¾Ñ†ÐµÑÑÑ‹ Ñ„Ð¾Ñ€ÑƒÐ¼Ð°";
+$MESS["FORUM_STEPPERS_MAIN"] = "Ð’ÑÐµ Ð¿Ñ€Ð¾Ñ†ÐµÑÑÑ‹ Ñ„Ð¾Ñ€ÑƒÐ¼Ð°";
+$MESS["FORUM_STEPPERS_ARE_ABSENT"] = "ÐÐµÑ‚ Ð½Ð¸ Ð¾Ð´Ð½Ð¾Ð³Ð¾ Ð°ÐºÑ‚Ð¸Ð²Ð½Ð¾Ð³Ð¾ Ð¿Ñ€Ð¾Ñ†ÐµÑÑÐ° (Ð¸Ñ‚ÐµÑ€Ð°Ñ‚Ð¾Ñ€Ð°).";

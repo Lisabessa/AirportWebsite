@@ -1,5 +1,5 @@
 <?
-$MESS["CLO_STORAGE_CLODO_EDIT_USER"] = "Èìÿ ïîëüçîâàòåëÿ (API user)";
-$MESS["CLO_STORAGE_CLODO_EDIT_KEY"] = "Êëþ÷ äîñòóïà (API key)";
-$MESS["CLO_STORAGE_CLODO_EDIT_HOST"] = "Èìÿ ñåðâåðà (API host)";
+$MESS["CLO_STORAGE_CLODO_EDIT_USER"] = "Ð˜Ð¼Ñ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ (API user)";
+$MESS["CLO_STORAGE_CLODO_EDIT_KEY"] = "ÐšÐ»ÑŽÑ‡ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð° (API key)";
+$MESS["CLO_STORAGE_CLODO_EDIT_HOST"] = "Ð˜Ð¼Ñ ÑÐµÑ€Ð²ÐµÑ€Ð° (API host)";
 ?>

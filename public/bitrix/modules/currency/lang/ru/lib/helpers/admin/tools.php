@@ -1,4 +1,4 @@
 <?
-$MESS["CURRENCY_HELPERS_ADMIN_TOOLS_MESS_CURRENCY_EDIT_TITLE"] = "Ðåäàêòèðîâàòü ïàðàìåòðû âàëþòû";
-$MESS["CURRENCY_HELPERS_ADMIN_TOOLS_MESS_CURRENCY_VIEW_TITLE"] = "Ïðîñìîòðåòü ïàðàìåòðû âàëþòû";
+$MESS["CURRENCY_HELPERS_ADMIN_TOOLS_MESS_CURRENCY_EDIT_TITLE"] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ Ð²Ð°Ð»ÑŽÑ‚Ñ‹";
+$MESS["CURRENCY_HELPERS_ADMIN_TOOLS_MESS_CURRENCY_VIEW_TITLE"] = "ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ÐµÑ‚ÑŒ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ Ð²Ð°Ð»ÑŽÑ‚Ñ‹";
 ?>

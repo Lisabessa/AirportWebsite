@@ -1,9 +1,9 @@
 <?
-$MESS["HLBLOCK_ADMIN_ROWS_ADD_NEW_BUTTON"] = "Äîáàâèòü çàïèñü";
-$MESS["HLBLOCK_ADMIN_ROWS_RETURN_TO_LIST_BUTTON"] = "Âåðíóòüñÿ â ñïèñîê";
-$MESS["HLBLOCK_ADMIN_DELETE_ROW_CONFIRM"] = "Óäàëèòü çàïèñü?";
-$MESS["HLBLOCK_ADMIN_ROWS_LIST_PAGE_TITLE"] = "Highload-áëîê \"#NAME#\": Ñïèñîê çàïèñåé";
-$MESS["HLBLOCK_ADMIN_ROWS_EDIT_ENTITY"] = "Ðåäàêòèðîâàòü Highload-áëîê";
-$MESS["HLBLOCK_ADMIN_ROWS_LIST_NOT_FOUND"] = "Èíôîðìàöèÿ î Highload-áëîêå íå íàéäåíà";
-$MESS["MAIN_ADMIN_MENU_VIEW"] = "Ïîñìîòðåòü";
+$MESS["HLBLOCK_ADMIN_ROWS_ADD_NEW_BUTTON"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð·Ð°Ð¿Ð¸ÑÑŒ";
+$MESS["HLBLOCK_ADMIN_ROWS_RETURN_TO_LIST_BUTTON"] = "Ð’ÐµÑ€Ð½ÑƒÑ‚ÑŒÑÑ Ð² ÑÐ¿Ð¸ÑÐ¾Ðº";
+$MESS["HLBLOCK_ADMIN_DELETE_ROW_CONFIRM"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ Ð·Ð°Ð¿Ð¸ÑÑŒ?";
+$MESS["HLBLOCK_ADMIN_ROWS_LIST_PAGE_TITLE"] = "Highload-Ð±Ð»Ð¾Ðº \"#NAME#\": Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð·Ð°Ð¿Ð¸ÑÐµÐ¹";
+$MESS["HLBLOCK_ADMIN_ROWS_EDIT_ENTITY"] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Highload-Ð±Ð»Ð¾Ðº";
+$MESS["HLBLOCK_ADMIN_ROWS_LIST_NOT_FOUND"] = "Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ñ Ð¾ Highload-Ð±Ð»Ð¾ÐºÐµ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð°";
+$MESS["MAIN_ADMIN_MENU_VIEW"] = "ÐŸÐ¾ÑÐ¼Ð¾Ñ‚Ñ€ÐµÑ‚ÑŒ";
 ?>

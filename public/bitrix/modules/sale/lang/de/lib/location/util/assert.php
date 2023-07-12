@@ -6,8 +6,8 @@ $MESS["SALE_LOCATION_ASSERT_STRING_NOTNULL_EXPECTED"] = "Argument#ARG_NAME#muss 
 $MESS["SALE_LOCATION_ASSERT_ARRAY_EXPECTED"] = "Argument#ARG_NAME#ist kein Feld";
 $MESS["SALE_LOCATION_ASSERT_ARRAY_OF_INTEGER_NOT_NULL_EXPECTED"] = "Argument#ARG_NAME#ist nicht ein Feld mit positiven ganzen Zahlen";
 $MESS["SALE_LOCATION_ASSERT_ARRAY_OF_STRING_NOT_NULL_EXPECTED"] = "Argument#ARG_NAME#ist nicht ein Feld mit nicht leeren Zeilen";
-$MESS["SALE_LOCATION_ASSERT_EMPTY_ENUMERATION"] = "In die Methode der Überprüfung wurde eine leere Aufzählung übermittelt";
-$MESS["SALE_LOCATION_ASSERT_ITEM_NOT_IN_ENUMERATION"] = "Argument#ARG_NAME# ist nicht in der Liste der Aufzählungswerte";
-$MESS["SALE_LOCATION_ASSERT_EMPTY_ARGUMENT"] = "Leeres Argument übermittelt";
+$MESS["SALE_LOCATION_ASSERT_EMPTY_ENUMERATION"] = "In die Methode der ÃœberprÃ¼fung wurde eine leere AufzÃ¤hlung Ã¼bermittelt";
+$MESS["SALE_LOCATION_ASSERT_ITEM_NOT_IN_ENUMERATION"] = "Argument#ARG_NAME# ist nicht in der Liste der AufzÃ¤hlungswerte";
+$MESS["SALE_LOCATION_ASSERT_EMPTY_ARGUMENT"] = "Leeres Argument Ã¼bermittelt";
 $MESS["SALE_LOCATION_ASSERT_INTEGER_NONNEGATIVE_EXPECTED"] = "Das Argument#ARG_NAME#muss eine nicht negative Ganzzahl sein.";
 ?>

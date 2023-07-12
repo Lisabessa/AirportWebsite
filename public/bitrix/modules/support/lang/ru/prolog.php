@@ -1,3 +1,3 @@
 <?
-$MESS ['SUP_MODULE_TITLE'] = "Òåõïîääåðæêà";
+$MESS ['SUP_MODULE_TITLE'] = "Ð¢ÐµÑ…Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ°";
 ?>

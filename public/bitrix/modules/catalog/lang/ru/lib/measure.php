@@ -1,9 +1,9 @@
 <?
-$MESS["MEASURE_ENTITY_ID_FIELD"] = "ID записи";
-$MESS["MEASURE_ENTITY_CODE_FIELD"] = "Код";
-$MESS["MEASURE_ENTITY_MEASURE_TITLE_FIELD"] = "Наименование";
-$MESS["MEASURE_ENTITY_SYMBOL_FIELD"] = "Национальное условное обозначение";
-$MESS["MEASURE_ENTITY_SYMBOL_INTL_FIELD"] = "Международное условное обозначение";
-$MESS["MEASURE_ENTITY_SYMBOL_LETTER_INTL_FIELD"] = "Международное кодовое буквенное обозначение";
-$MESS["MEASURE_ENTITY_IS_DEFAULT_FIELD"] = "По умолчанию";
+$MESS["MEASURE_ENTITY_ID_FIELD"] = "ID Р·Р°РїРёСЃРё";
+$MESS["MEASURE_ENTITY_CODE_FIELD"] = "РљРѕРґ";
+$MESS["MEASURE_ENTITY_MEASURE_TITLE_FIELD"] = "РќР°РёРјРµРЅРѕРІР°РЅРёРµ";
+$MESS["MEASURE_ENTITY_SYMBOL_FIELD"] = "РќР°С†РёРѕРЅР°Р»СЊРЅРѕРµ СѓСЃР»РѕРІРЅРѕРµ РѕР±РѕР·РЅР°С‡РµРЅРёРµ";
+$MESS["MEASURE_ENTITY_SYMBOL_INTL_FIELD"] = "РњРµР¶РґСѓРЅР°СЂРѕРґРЅРѕРµ СѓСЃР»РѕРІРЅРѕРµ РѕР±РѕР·РЅР°С‡РµРЅРёРµ";
+$MESS["MEASURE_ENTITY_SYMBOL_LETTER_INTL_FIELD"] = "РњРµР¶РґСѓРЅР°СЂРѕРґРЅРѕРµ РєРѕРґРѕРІРѕРµ Р±СѓРєРІРµРЅРЅРѕРµ РѕР±РѕР·РЅР°С‡РµРЅРёРµ";
+$MESS["MEASURE_ENTITY_IS_DEFAULT_FIELD"] = "РџРѕ СѓРјРѕР»С‡Р°РЅРёСЋ";
 ?>

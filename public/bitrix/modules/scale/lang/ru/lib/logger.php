@@ -1,8 +1,8 @@
 <?
-$MESS ['SCALE_ACTION_EVENT_LOG_TYPE_ACTION'] = "Äåéñòâèå";
-$MESS ['SCALE_ACTION_EVENT_LOG_TYPE_ACTION_STARTED'] = "Ìàñøòàáèðîâàíèå. Äåéñòâèå çàïóùåíî.";
-$MESS ['SCALE_ACTION_EVENT_LOG_TYPE_ACTION_RESULT'] = "Ìàñøòàáèðîâàíèå. Äåéñòâèå, ðåçóëüòàò çàïóñêà";
-$MESS ['SCALE_ACTION_EVENT_LOG_TYPE_ACTION_ERROR'] = "Ìàñøòàáèðîâàíèå. Äåéñòâèå, îøèáêà";
-$MESS ['SCALE_ACTION_EVENT_LOG_TYPE_ACTION_OUTPUT'] = "Ìàñøòàáèðîâàíèå. Äåéñòâèå, âûâîä";
-$MESS ['SCALE_ACTION_EVENT_LOG_TYPE_ACTION_CHECK_STATE'] = "Ìàñøòàáèðîâàíèå. Ïðîâåðêà ñîñòîÿíèÿ äåéñòâèÿ.";
-$MESS ['SCALE_ACTION_EVENT_LOG_TYPE_PROVIDER_SEND_ORDER'] = "Ìàñøòàáèðîâàíèå. Çàïðîñ ñåðâåðà ó ïðîâàéäåðà";
+$MESS ['SCALE_ACTION_EVENT_LOG_TYPE_ACTION'] = "Ð”ÐµÐ¹ÑÑ‚Ð²Ð¸Ðµ";
+$MESS ['SCALE_ACTION_EVENT_LOG_TYPE_ACTION_STARTED'] = "ÐœÐ°ÑÑˆÑ‚Ð°Ð±Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ. Ð”ÐµÐ¹ÑÑ‚Ð²Ð¸Ðµ Ð·Ð°Ð¿ÑƒÑ‰ÐµÐ½Ð¾.";
+$MESS ['SCALE_ACTION_EVENT_LOG_TYPE_ACTION_RESULT'] = "ÐœÐ°ÑÑˆÑ‚Ð°Ð±Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ. Ð”ÐµÐ¹ÑÑ‚Ð²Ð¸Ðµ, Ñ€ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚ Ð·Ð°Ð¿ÑƒÑÐºÐ°";
+$MESS ['SCALE_ACTION_EVENT_LOG_TYPE_ACTION_ERROR'] = "ÐœÐ°ÑÑˆÑ‚Ð°Ð±Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ. Ð”ÐµÐ¹ÑÑ‚Ð²Ð¸Ðµ, Ð¾ÑˆÐ¸Ð±ÐºÐ°";
+$MESS ['SCALE_ACTION_EVENT_LOG_TYPE_ACTION_OUTPUT'] = "ÐœÐ°ÑÑˆÑ‚Ð°Ð±Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ. Ð”ÐµÐ¹ÑÑ‚Ð²Ð¸Ðµ, Ð²Ñ‹Ð²Ð¾Ð´";
+$MESS ['SCALE_ACTION_EVENT_LOG_TYPE_ACTION_CHECK_STATE'] = "ÐœÐ°ÑÑˆÑ‚Ð°Ð±Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ. ÐŸÑ€Ð¾Ð²ÐµÑ€ÐºÐ° ÑÐ¾ÑÑ‚Ð¾ÑÐ½Ð¸Ñ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ.";
+$MESS ['SCALE_ACTION_EVENT_LOG_TYPE_PROVIDER_SEND_ORDER'] = "ÐœÐ°ÑÑˆÑ‚Ð°Ð±Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ. Ð—Ð°Ð¿Ñ€Ð¾Ñ ÑÐµÑ€Ð²ÐµÑ€Ð° Ñƒ Ð¿Ñ€Ð¾Ð²Ð°Ð¹Ð´ÐµÑ€Ð°";

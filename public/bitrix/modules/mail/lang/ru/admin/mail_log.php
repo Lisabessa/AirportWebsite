@@ -1,17 +1,17 @@
 <?
-$MESS["MAIL_LOG_TITLE"] = "Æóðíàë îáðàáîòêè ïî÷òû";
-$MESS["MAIL_LOG_FILT_MBOX"] = "Ïî÷òîâûé ÿùèê";
-$MESS["MAIL_LOG_FILT_ANY"] = "(ëþáîé)";
-$MESS["MAIL_LOG_FILT_RULE"] = "Ïðàâèëî";
-$MESS["MAIL_LOG_FILT_SHOW_COLUMN"] = "ïîêàçûâàòü ñòîëáåö";
-$MESS["MAIL_LOG_FILT_MSG"] = "Ïèñüìî";
-$MESS["MAIL_LOG_NAVIGATION"] = "Ñòðîêè";
-$MESS["MAIL_LOG_TIME"] = "Âðåìÿ";
-$MESS["MAIL_LOG_TEXT"] = "Òåêñò";
-$MESS["MAIL_LOG_MBOX"] = "ßùèê";
-$MESS["MAIL_LOG_RULE"] = "Ïðàâèëî";
-$MESS["MAIL_LOG_MSG"] = "Ïèñüìî";
-$MESS["MAIL_LOG_LISTEMPTY"] = "Ñïèñîê ïóñò";
-$MESS["MAIL_LOG_LISTTOTAL"] = "Âñåãî:";
-$MESS["MAIN_ADMIN_LIST_SELECTED"] = "Âûáðàíî:";
+$MESS["MAIL_LOG_TITLE"] = "Ð–ÑƒÑ€Ð½Ð°Ð» Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ¸ Ð¿Ð¾Ñ‡Ñ‚Ñ‹";
+$MESS["MAIL_LOG_FILT_MBOX"] = "ÐŸÐ¾Ñ‡Ñ‚Ð¾Ð²Ñ‹Ð¹ ÑÑ‰Ð¸Ðº";
+$MESS["MAIL_LOG_FILT_ANY"] = "(Ð»ÑŽÐ±Ð¾Ð¹)";
+$MESS["MAIL_LOG_FILT_RULE"] = "ÐŸÑ€Ð°Ð²Ð¸Ð»Ð¾";
+$MESS["MAIL_LOG_FILT_SHOW_COLUMN"] = "Ð¿Ð¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ ÑÑ‚Ð¾Ð»Ð±ÐµÑ†";
+$MESS["MAIL_LOG_FILT_MSG"] = "ÐŸÐ¸ÑÑŒÐ¼Ð¾";
+$MESS["MAIL_LOG_NAVIGATION"] = "Ð¡Ñ‚Ñ€Ð¾ÐºÐ¸";
+$MESS["MAIL_LOG_TIME"] = "Ð’Ñ€ÐµÐ¼Ñ";
+$MESS["MAIL_LOG_TEXT"] = "Ð¢ÐµÐºÑÑ‚";
+$MESS["MAIL_LOG_MBOX"] = "Ð¯Ñ‰Ð¸Ðº";
+$MESS["MAIL_LOG_RULE"] = "ÐŸÑ€Ð°Ð²Ð¸Ð»Ð¾";
+$MESS["MAIL_LOG_MSG"] = "ÐŸÐ¸ÑÑŒÐ¼Ð¾";
+$MESS["MAIL_LOG_LISTEMPTY"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð¿ÑƒÑÑ‚";
+$MESS["MAIL_LOG_LISTTOTAL"] = "Ð’ÑÐµÐ³Ð¾:";
+$MESS["MAIN_ADMIN_LIST_SELECTED"] = "Ð’Ñ‹Ð±Ñ€Ð°Ð½Ð¾:";
 ?>

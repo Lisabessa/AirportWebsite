@@ -1,2 +1,2 @@
 <?php
-$MESS['LANDING_CONNECTOR_MB_MENU_TITLE'] = 'Áàçû çíàíèé';
+$MESS['LANDING_CONNECTOR_MB_MENU_TITLE'] = 'Ð‘Ð°Ð·Ñ‹ Ð·Ð½Ð°Ð½Ð¸Ð¹';

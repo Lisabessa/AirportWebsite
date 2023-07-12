@@ -1,6 +1,6 @@
 <?
-$MESS["SALE_DLVR_RSTR_BY_WEIGHT_NAME"] = "çà âàãîþ";
-$MESS["SALE_DLVR_RSTR_BY_WEIGHT_DESCRIPT"] = "Îáìåæåííÿ âèêîðèñòàííÿ ñëóæáè äîñòàâêè ïî âàç³ çàìîâëåííÿ";
-$MESS["SALE_DLVR_RSTR_BY_WEIGHT_MIN_WEIGHT"] = "Ì³í³ìàëüíà âàãà (ãðàì)";
-$MESS["SALE_DLVR_RSTR_BY_WEIGHT_MAX_WEIGHT"] = "Ìàêñèìàëüíà âàãà (ãðàì)";
+$MESS["SALE_DLVR_RSTR_BY_WEIGHT_NAME"] = "Ð·Ð° Ð²Ð°Ð³Ð¾ÑŽ";
+$MESS["SALE_DLVR_RSTR_BY_WEIGHT_DESCRIPT"] = "ÐžÐ±Ð¼ÐµÐ¶ÐµÐ½Ð½Ñ Ð²Ð¸ÐºÐ¾Ñ€Ð¸ÑÑ‚Ð°Ð½Ð½Ñ ÑÐ»ÑƒÐ¶Ð±Ð¸ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸ Ð¿Ð¾ Ð²Ð°Ð·Ñ– Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ";
+$MESS["SALE_DLVR_RSTR_BY_WEIGHT_MIN_WEIGHT"] = "ÐœÑ–Ð½Ñ–Ð¼Ð°Ð»ÑŒÐ½Ð° Ð²Ð°Ð³Ð° (Ð³Ñ€Ð°Ð¼)";
+$MESS["SALE_DLVR_RSTR_BY_WEIGHT_MAX_WEIGHT"] = "ÐœÐ°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ð° Ð²Ð°Ð³Ð° (Ð³Ñ€Ð°Ð¼)";
 ?>

@@ -1,12 +1,12 @@
 <?
 $MESS["PUSH_ENTITY_ID_FIELD"] = "ID";
-$MESS["PUSH_ENTITY_USER_ID_FIELD"] = "Èäåíòèôèêàòîð çàïèñè";
-$MESS["PUSH_ENTITY_DEVICE_TYPE_FIELD"] = "Òèï óñòðîéñòâà";
-$MESS["PUSH_ENTITY_APP_ID_FIELD"] = "Èäåíòèôèêàòîð ïðèëîæåíèÿ";
-$MESS["PUSH_ENTITY_UNIQUE_HASH_FIELD"] = "Èäåíòèôèêàòîð ñâÿçêè";
-$MESS["PUSH_ENTITY_DEVICE_ID_FIELD"] = "Èäåíòèôèêàòîð óñòðîéñòâà";
-$MESS["PUSH_ENTITY_DEVICE_NAME_FIELD"] = "Èìÿ óñòðîéñòâà";
-$MESS["PUSH_ENTITY_DEVICE_TOKEN_FIELD"] = "Token óñòðîéñòâà";
-$MESS["PUSH_ENTITY_DATE_CREATE_FIELD"] = "Äàòà ñîçäàíèÿ";
-$MESS["PUSH_ENTITY_DATE_AUTH_FIELD"] = "Äàòà àâòîðèçàöèè";
+$MESS["PUSH_ENTITY_USER_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð·Ð°Ð¿Ð¸ÑÐ¸";
+$MESS["PUSH_ENTITY_DEVICE_TYPE_FIELD"] = "Ð¢Ð¸Ð¿ ÑƒÑÑ‚Ñ€Ð¾Ð¹ÑÑ‚Ð²Ð°";
+$MESS["PUSH_ENTITY_APP_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ";
+$MESS["PUSH_ENTITY_UNIQUE_HASH_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÐ²ÑÐ·ÐºÐ¸";
+$MESS["PUSH_ENTITY_DEVICE_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑƒÑÑ‚Ñ€Ð¾Ð¹ÑÑ‚Ð²Ð°";
+$MESS["PUSH_ENTITY_DEVICE_NAME_FIELD"] = "Ð˜Ð¼Ñ ÑƒÑÑ‚Ñ€Ð¾Ð¹ÑÑ‚Ð²Ð°";
+$MESS["PUSH_ENTITY_DEVICE_TOKEN_FIELD"] = "Token ÑƒÑÑ‚Ñ€Ð¾Ð¹ÑÑ‚Ð²Ð°";
+$MESS["PUSH_ENTITY_DATE_CREATE_FIELD"] = "Ð”Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ";
+$MESS["PUSH_ENTITY_DATE_AUTH_FIELD"] = "Ð”Ð°Ñ‚Ð° Ð°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·Ð°Ñ†Ð¸Ð¸";
 ?>

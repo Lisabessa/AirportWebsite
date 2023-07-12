@@ -1,55 +1,55 @@
 <?
-$MESS["IDEA_INSTALL_DEMO"] = "Óñòàíîâèòü äåìî äàííûå (ðàñøèðåííûé ðåæèì)";
-$MESS["IDEA_INSTALL_DEMO_SIMPLE"] = "Óñòàíîâèòü äåìî äàííûå";
-$MESS["IDEA_INSTALL_IDEA_IBLOCK_TYPE"] = "Òèï èíôîáëîêà";
-$MESS["IDEA_INSTALL_IDEA_IBLOCK_TYPE_LIST_NEW"] = "(Ñîçäàòü íîâûé òèï èíôîáëîêà)";
-$MESS["IDEA_INSTALL_IDEA_IBLOCK_NAME"] = "Íàçâàíèå èíôîáëîêà";
-$MESS["IDEA_INSTALL_IDEA_IBLOCK_TYPE_NEW"] = "Èäåíòèôèêàòîð (ID) òèïà èíôîáëîêà";
-$MESS["IDEA_INSTALL_SITE_ID"] = "Âûáåðèòå ñàéò äëÿ óñòàíîâêè äåìî äàííûõ";
-$MESS["IDEA_INSTALL_FILE_REWRITE"] = "Ïåðåçàïèñûâàòü ôàéëû";
-$MESS["IDEA_INSTALL_ERROR_INCORRECT_IBLOCK_TYPE_NAME"] = "Íåêîððåêòíûé èäåíòèôèêàòîð òèïà èíôîáëîêà. Äîëæåí ñîäåðæàòü ëàòèíñêèå ñèìâîëû (A-Z) è öèôðû (0-9) è ñèìâîë íèæíåãî ïîä÷åðêèâàíèÿ (_)";
-$MESS["IDEA_INSTALL_ERROR_IBLOCK_TYPE_ALREADY_EXISTS"] = "Âûáðàííûé ID òèïà èíôîáëîêà óæå ñóùåñòâóåò";
-$MESS["IDEA_INSTALL_ERROR_IBLOCK_TYPE_NOT_EXISTS"] = "Âûáðàííûé òèï èíôîáëîêà íå áûë íàéäåí";
-$MESS["IDEA_INSTALL_ERROR_IBLOCK_NOT_INSTALLED"] = "Èíôîáëîê ñ êàòåãîðèÿìè íå áûë êîððåêòíî óñòàíîâëåí";
-$MESS["IDEA_INSTALL_ERROR_IBLOCK_NO_PERMISSTION"] = "Íåäîñòàòî÷íî ïðàâ äëÿ ðàáîòû ñ ìîäóëåì èíôîáëîêîâ";
-$MESS["IDEA_INSTALL_ERROR_BLOG_NO_PERMISSTION"] = "Íåäîñòàòî÷íî ïðàâ äëÿ ðàáîòû ñ ìîäóëåì áëîãîâ";
-$MESS["IDEA_INSTALL_ERROR_SITE_NOT_FOUND"] = "Âûáðàííûé ñàéò íå íàéäåí";
-$MESS["IDEA_INSTALL_ERROR_BLOG_GROUP_NOT_INSTALLED"] = "Ãðóïïà áëîãîâ íå ñîçäàíà";
-$MESS["IDEA_INSTALL_ERROR_BLOG_NOT_INSTALLED"] = "Áëîã íå ñîçäàí";
-$MESS["IDEA_INSTALL_ERROR_BLOG_MESSAGE_NOT_INSTALLED"] = "Ñîîáùåíèÿ áëîãà íå ñîçäàíû";
-$MESS["IDEA_INSTALL_ERROR_BLOG_COMMENT_NOT_INSTALLED"] = "Êîììåíòàðèè áëîãà íå ñîçäàíû";
-$MESS["IDEA_INSTALL_IBLOCK_TYPE"] = "Ñåðâèñû";
-$MESS["IDEA_INSTALL_IBLOCK_SECTION_NAME"] = "Êàòåãîðèÿ";
-$MESS["IDEA_CATEGORY_INFOBLOCK_NAME"] = "Êàòåãîðèè ìåíåäæåðà èäåé";
-$MESS["IDEA_CATEGORY_MAIN_1_NAME"] = "Ðàáîòà êîìïàíèè";
-$MESS["IDEA_CATEGORY_MAIN_2_NAME"] = "Äîñóã, ìåðîïðèÿòèÿ";
-$MESS["IDEA_CATEGORY_MAIN_1_SUB_1_NAME"] = "Âíóòðåííåå íàïðàâëåíèå";
-$MESS["IDEA_CATEGORY_MAIN_1_SUB_2_NAME"] = "Âíåøíåå íàïðàâëåíèå";
-$MESS["IDEA_CATEGORY_EDIT_FORM_TAB_TITLE"] = "Ðàçäåë";
-$MESS["IDEA_CATEGORY_EDIT_FORM_P_ACTIVE"] = "Ðàçäåë àêòèâåí";
-$MESS["IDEA_CATEGORY_EDIT_FORM_P_NAME"] = "*Íàçâàíèå";
-$MESS["IDEA_CATEGORY_EDIT_FORM_P_CODE"] = "*Ñèìâîëüíûé êîä";
-$MESS["IDEA_CATEGORY_EDIT_FORM_P_IBLOCK_SECTION_ID"] = "Ðîäèòåëüñêèé ðàçäåë";
-$MESS["IDEA_CATEGORY_EDIT_FORM_P_SORT"] = "Ñîðòèðîâêà";
-$MESS["IDEA_BLOG_GROUP_NAME"] = "Èäåè êîìïàíèè";
-$MESS["IDEA_BLOG_TITLE"] = "Èäåè";
-$MESS["IDEA_BLOG_TAG_TITLE_1"] = "Íîâûé Ãîä";
+$MESS["IDEA_INSTALL_DEMO"] = "Ð£ÑÑ‚Ð°Ð½Ð¾Ð²Ð¸Ñ‚ÑŒ Ð´ÐµÐ¼Ð¾ Ð´Ð°Ð½Ð½Ñ‹Ðµ (Ñ€Ð°ÑÑˆÐ¸Ñ€ÐµÐ½Ð½Ñ‹Ð¹ Ñ€ÐµÐ¶Ð¸Ð¼)";
+$MESS["IDEA_INSTALL_DEMO_SIMPLE"] = "Ð£ÑÑ‚Ð°Ð½Ð¾Ð²Ð¸Ñ‚ÑŒ Ð´ÐµÐ¼Ð¾ Ð´Ð°Ð½Ð½Ñ‹Ðµ";
+$MESS["IDEA_INSTALL_IDEA_IBLOCK_TYPE"] = "Ð¢Ð¸Ð¿ Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ°";
+$MESS["IDEA_INSTALL_IDEA_IBLOCK_TYPE_LIST_NEW"] = "(Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ Ð½Ð¾Ð²Ñ‹Ð¹ Ñ‚Ð¸Ð¿ Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ°)";
+$MESS["IDEA_INSTALL_IDEA_IBLOCK_NAME"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ°";
+$MESS["IDEA_INSTALL_IDEA_IBLOCK_TYPE_NEW"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ (ID) Ñ‚Ð¸Ð¿Ð° Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ°";
+$MESS["IDEA_INSTALL_SITE_ID"] = "Ð’Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ ÑÐ°Ð¹Ñ‚ Ð´Ð»Ñ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ¸ Ð´ÐµÐ¼Ð¾ Ð´Ð°Ð½Ð½Ñ‹Ñ…";
+$MESS["IDEA_INSTALL_FILE_REWRITE"] = "ÐŸÐµÑ€ÐµÐ·Ð°Ð¿Ð¸ÑÑ‹Ð²Ð°Ñ‚ÑŒ Ñ„Ð°Ð¹Ð»Ñ‹";
+$MESS["IDEA_INSTALL_ERROR_INCORRECT_IBLOCK_TYPE_NAME"] = "ÐÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ñ‹Ð¹ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ñ‚Ð¸Ð¿Ð° Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ°. Ð”Ð¾Ð»Ð¶ÐµÐ½ ÑÐ¾Ð´ÐµÑ€Ð¶Ð°Ñ‚ÑŒ Ð»Ð°Ñ‚Ð¸Ð½ÑÐºÐ¸Ðµ ÑÐ¸Ð¼Ð²Ð¾Ð»Ñ‹ (A-Z) Ð¸ Ñ†Ð¸Ñ„Ñ€Ñ‹ (0-9) Ð¸ ÑÐ¸Ð¼Ð²Ð¾Ð» Ð½Ð¸Ð¶Ð½ÐµÐ³Ð¾ Ð¿Ð¾Ð´Ñ‡ÐµÑ€ÐºÐ¸Ð²Ð°Ð½Ð¸Ñ (_)";
+$MESS["IDEA_INSTALL_ERROR_IBLOCK_TYPE_ALREADY_EXISTS"] = "Ð’Ñ‹Ð±Ñ€Ð°Ð½Ð½Ñ‹Ð¹ ID Ñ‚Ð¸Ð¿Ð° Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ° ÑƒÐ¶Ðµ ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÐµÑ‚";
+$MESS["IDEA_INSTALL_ERROR_IBLOCK_TYPE_NOT_EXISTS"] = "Ð’Ñ‹Ð±Ñ€Ð°Ð½Ð½Ñ‹Ð¹ Ñ‚Ð¸Ð¿ Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ° Ð½Ðµ Ð±Ñ‹Ð» Ð½Ð°Ð¹Ð´ÐµÐ½";
+$MESS["IDEA_INSTALL_ERROR_IBLOCK_NOT_INSTALLED"] = "Ð˜Ð½Ñ„Ð¾Ð±Ð»Ð¾Ðº Ñ ÐºÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸ÑÐ¼Ð¸ Ð½Ðµ Ð±Ñ‹Ð» ÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ð¾ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½";
+$MESS["IDEA_INSTALL_ERROR_IBLOCK_NO_PERMISSTION"] = "ÐÐµÐ´Ð¾ÑÑ‚Ð°Ñ‚Ð¾Ñ‡Ð½Ð¾ Ð¿Ñ€Ð°Ð² Ð´Ð»Ñ Ñ€Ð°Ð±Ð¾Ñ‚Ñ‹ Ñ Ð¼Ð¾Ð´ÑƒÐ»ÐµÐ¼ Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ¾Ð²";
+$MESS["IDEA_INSTALL_ERROR_BLOG_NO_PERMISSTION"] = "ÐÐµÐ´Ð¾ÑÑ‚Ð°Ñ‚Ð¾Ñ‡Ð½Ð¾ Ð¿Ñ€Ð°Ð² Ð´Ð»Ñ Ñ€Ð°Ð±Ð¾Ñ‚Ñ‹ Ñ Ð¼Ð¾Ð´ÑƒÐ»ÐµÐ¼ Ð±Ð»Ð¾Ð³Ð¾Ð²";
+$MESS["IDEA_INSTALL_ERROR_SITE_NOT_FOUND"] = "Ð’Ñ‹Ð±Ñ€Ð°Ð½Ð½Ñ‹Ð¹ ÑÐ°Ð¹Ñ‚ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
+$MESS["IDEA_INSTALL_ERROR_BLOG_GROUP_NOT_INSTALLED"] = "Ð“Ñ€ÑƒÐ¿Ð¿Ð° Ð±Ð»Ð¾Ð³Ð¾Ð² Ð½Ðµ ÑÐ¾Ð·Ð´Ð°Ð½Ð°";
+$MESS["IDEA_INSTALL_ERROR_BLOG_NOT_INSTALLED"] = "Ð‘Ð»Ð¾Ð³ Ð½Ðµ ÑÐ¾Ð·Ð´Ð°Ð½";
+$MESS["IDEA_INSTALL_ERROR_BLOG_MESSAGE_NOT_INSTALLED"] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ Ð±Ð»Ð¾Ð³Ð° Ð½Ðµ ÑÐ¾Ð·Ð´Ð°Ð½Ñ‹";
+$MESS["IDEA_INSTALL_ERROR_BLOG_COMMENT_NOT_INSTALLED"] = "ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¸ Ð±Ð»Ð¾Ð³Ð° Ð½Ðµ ÑÐ¾Ð·Ð´Ð°Ð½Ñ‹";
+$MESS["IDEA_INSTALL_IBLOCK_TYPE"] = "Ð¡ÐµÑ€Ð²Ð¸ÑÑ‹";
+$MESS["IDEA_INSTALL_IBLOCK_SECTION_NAME"] = "ÐšÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ñ";
+$MESS["IDEA_CATEGORY_INFOBLOCK_NAME"] = "ÐšÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ð¸ Ð¼ÐµÐ½ÐµÐ´Ð¶ÐµÑ€Ð° Ð¸Ð´ÐµÐ¹";
+$MESS["IDEA_CATEGORY_MAIN_1_NAME"] = "Ð Ð°Ð±Ð¾Ñ‚Ð° ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸";
+$MESS["IDEA_CATEGORY_MAIN_2_NAME"] = "Ð”Ð¾ÑÑƒÐ³, Ð¼ÐµÑ€Ð¾Ð¿Ñ€Ð¸ÑÑ‚Ð¸Ñ";
+$MESS["IDEA_CATEGORY_MAIN_1_SUB_1_NAME"] = "Ð’Ð½ÑƒÑ‚Ñ€ÐµÐ½Ð½ÐµÐµ Ð½Ð°Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ";
+$MESS["IDEA_CATEGORY_MAIN_1_SUB_2_NAME"] = "Ð’Ð½ÐµÑˆÐ½ÐµÐµ Ð½Ð°Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ";
+$MESS["IDEA_CATEGORY_EDIT_FORM_TAB_TITLE"] = "Ð Ð°Ð·Ð´ÐµÐ»";
+$MESS["IDEA_CATEGORY_EDIT_FORM_P_ACTIVE"] = "Ð Ð°Ð·Ð´ÐµÐ» Ð°ÐºÑ‚Ð¸Ð²ÐµÐ½";
+$MESS["IDEA_CATEGORY_EDIT_FORM_P_NAME"] = "*ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
+$MESS["IDEA_CATEGORY_EDIT_FORM_P_CODE"] = "*Ð¡Ð¸Ð¼Ð²Ð¾Ð»ÑŒÐ½Ñ‹Ð¹ ÐºÐ¾Ð´";
+$MESS["IDEA_CATEGORY_EDIT_FORM_P_IBLOCK_SECTION_ID"] = "Ð Ð¾Ð´Ð¸Ñ‚ÐµÐ»ÑŒÑÐºÐ¸Ð¹ Ñ€Ð°Ð·Ð´ÐµÐ»";
+$MESS["IDEA_CATEGORY_EDIT_FORM_P_SORT"] = "Ð¡Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²ÐºÐ°";
+$MESS["IDEA_BLOG_GROUP_NAME"] = "Ð˜Ð´ÐµÐ¸ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸";
+$MESS["IDEA_BLOG_TITLE"] = "Ð˜Ð´ÐµÐ¸";
+$MESS["IDEA_BLOG_TAG_TITLE_1"] = "ÐÐ¾Ð²Ñ‹Ð¹ Ð“Ð¾Ð´";
 $MESS["IDEA_BLOG_TAG_TITLE_2"] = "2012";
-$MESS["IDEA_BLOG_TAG_TITLE_3"] = "Íîâûå ñîòðóäíèêè";
-$MESS["IDEA_BLOG_MESSAGE_TITLE_1"] = "Ïðàçäíîâàíèå Íîâîãî Ãîäà â 2012 ãîäó";
-$MESS["IDEA_BLOG_MESSAGE_TITLE_2"] = "Íàåì íîâûõ ñîòðóäíèêîâ èç áëèæíåãî çàðóáåæüÿ";
-$MESS["IDEA_BLOG_MESSAGE_DESCRIPTION_1"] = "Åñòü ïðåäëîæåíèå îòïðàçäíîâàòü Íîâûé Ãîä âñåé íàøåé êîìïàíèåé âî Ôðàíöèè.
-Áåñêîíå÷íîå ìíîæåñòâî õîðîøèõ âïå÷àòëåíèé è ïîçèòèâíîãî íàñòðîåíèÿ áóäåò îáåñïå÷åíî!";
-$MESS["IDEA_BLOG_MESSAGE_DESCRIPTION_2"] = "Ïðåäëàãàþ íàíÿòü íîâûõ ñîòðóäíèêîâ èç çàðóáåæüÿ.[CUT]
-×òî ýòî íàì äàñò:
-1) Ïîçâîëèò ðàñøèðèòü ïàðòíåðñêèé êîíòèíãåíò â áëèæíåì çàðóáåæüè;
-2) Îòêðîåò íîâûå ðûíêè ñáûòà
-3) Ïðèâëå÷åò íîâûõ çàðóáåæíûõ èíâåñòîðîâ
+$MESS["IDEA_BLOG_TAG_TITLE_3"] = "ÐÐ¾Ð²Ñ‹Ðµ ÑÐ¾Ñ‚Ñ€ÑƒÐ´Ð½Ð¸ÐºÐ¸";
+$MESS["IDEA_BLOG_MESSAGE_TITLE_1"] = "ÐŸÑ€Ð°Ð·Ð´Ð½Ð¾Ð²Ð°Ð½Ð¸Ðµ ÐÐ¾Ð²Ð¾Ð³Ð¾ Ð“Ð¾Ð´Ð° Ð² 2012 Ð³Ð¾Ð´Ñƒ";
+$MESS["IDEA_BLOG_MESSAGE_TITLE_2"] = "ÐÐ°ÐµÐ¼ Ð½Ð¾Ð²Ñ‹Ñ… ÑÐ¾Ñ‚Ñ€ÑƒÐ´Ð½Ð¸ÐºÐ¾Ð² Ð¸Ð· Ð±Ð»Ð¸Ð¶Ð½ÐµÐ³Ð¾ Ð·Ð°Ñ€ÑƒÐ±ÐµÐ¶ÑŒÑ";
+$MESS["IDEA_BLOG_MESSAGE_DESCRIPTION_1"] = "Ð•ÑÑ‚ÑŒ Ð¿Ñ€ÐµÐ´Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ Ð¾Ñ‚Ð¿Ñ€Ð°Ð·Ð´Ð½Ð¾Ð²Ð°Ñ‚ÑŒ ÐÐ¾Ð²Ñ‹Ð¹ Ð“Ð¾Ð´ Ð²ÑÐµÐ¹ Ð½Ð°ÑˆÐµÐ¹ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸ÐµÐ¹ Ð²Ð¾ Ð¤Ñ€Ð°Ð½Ñ†Ð¸Ð¸.
+Ð‘ÐµÑÐºÐ¾Ð½ÐµÑ‡Ð½Ð¾Ðµ Ð¼Ð½Ð¾Ð¶ÐµÑÑ‚Ð²Ð¾ Ñ…Ð¾Ñ€Ð¾ÑˆÐ¸Ñ… Ð²Ð¿ÐµÑ‡Ð°Ñ‚Ð»ÐµÐ½Ð¸Ð¹ Ð¸ Ð¿Ð¾Ð·Ð¸Ñ‚Ð¸Ð²Ð½Ð¾Ð³Ð¾ Ð½Ð°ÑÑ‚Ñ€Ð¾ÐµÐ½Ð¸Ñ Ð±ÑƒÐ´ÐµÑ‚ Ð¾Ð±ÐµÑÐ¿ÐµÑ‡ÐµÐ½Ð¾!";
+$MESS["IDEA_BLOG_MESSAGE_DESCRIPTION_2"] = "ÐŸÑ€ÐµÐ´Ð»Ð°Ð³Ð°ÑŽ Ð½Ð°Ð½ÑÑ‚ÑŒ Ð½Ð¾Ð²Ñ‹Ñ… ÑÐ¾Ñ‚Ñ€ÑƒÐ´Ð½Ð¸ÐºÐ¾Ð² Ð¸Ð· Ð·Ð°Ñ€ÑƒÐ±ÐµÐ¶ÑŒÑ.[CUT]
+Ð§Ñ‚Ð¾ ÑÑ‚Ð¾ Ð½Ð°Ð¼ Ð´Ð°ÑÑ‚:
+1) ÐŸÐ¾Ð·Ð²Ð¾Ð»Ð¸Ñ‚ Ñ€Ð°ÑÑˆÐ¸Ñ€Ð¸Ñ‚ÑŒ Ð¿Ð°Ñ€Ñ‚Ð½ÐµÑ€ÑÐºÐ¸Ð¹ ÐºÐ¾Ð½Ñ‚Ð¸Ð½Ð³ÐµÐ½Ñ‚ Ð² Ð±Ð»Ð¸Ð¶Ð½ÐµÐ¼ Ð·Ð°Ñ€ÑƒÐ±ÐµÐ¶ÑŒÐ¸;
+2) ÐžÑ‚ÐºÑ€Ð¾ÐµÑ‚ Ð½Ð¾Ð²Ñ‹Ðµ Ñ€Ñ‹Ð½ÐºÐ¸ ÑÐ±Ñ‹Ñ‚Ð°
+3) ÐŸÑ€Ð¸Ð²Ð»ÐµÑ‡ÐµÑ‚ Ð½Ð¾Ð²Ñ‹Ñ… Ð·Ð°Ñ€ÑƒÐ±ÐµÐ¶Ð½Ñ‹Ñ… Ð¸Ð½Ð²ÐµÑÑ‚Ð¾Ñ€Ð¾Ð²
 
-ß âèæó òîëüêî ïëþñû â ýòîì";
-$MESS["IDEA_BLOG_COMMENT_TEXT_1"] = "Îòëè÷íîå ïðåäëîæåíèå. ß ìå÷òàþ ïîáûâàòü âî Ôðàíöèè.";
-$MESS["IDEA_BLOG_COMMENT_TEXT_2"] = "Âîçìîæíî â ñëåäóþùåì ãîäó, íî â ýòîì ãîäó ìû åäåì â ñêàçî÷íóþ Ôèíëÿíäèþ.";
-$MESS["IDEA_PUBLIC_FOLDER_TITLE"] = "Åñòü èäåÿ?";
-$MESS["IDEA_PUBLIC_FILE_INDEX_TITLE"] = "Åñòü èäåÿ?";
-$MESS["IDEA_PUBLIC_FILE_MENU_TITLE"] = "Åñòü Èäåÿ?";
+Ð¯ Ð²Ð¸Ð¶Ñƒ Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð¿Ð»ÑŽÑÑ‹ Ð² ÑÑ‚Ð¾Ð¼";
+$MESS["IDEA_BLOG_COMMENT_TEXT_1"] = "ÐžÑ‚Ð»Ð¸Ñ‡Ð½Ð¾Ðµ Ð¿Ñ€ÐµÐ´Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ. Ð¯ Ð¼ÐµÑ‡Ñ‚Ð°ÑŽ Ð¿Ð¾Ð±Ñ‹Ð²Ð°Ñ‚ÑŒ Ð²Ð¾ Ð¤Ñ€Ð°Ð½Ñ†Ð¸Ð¸.";
+$MESS["IDEA_BLOG_COMMENT_TEXT_2"] = "Ð’Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ Ð² ÑÐ»ÐµÐ´ÑƒÑŽÑ‰ÐµÐ¼ Ð³Ð¾Ð´Ñƒ, Ð½Ð¾ Ð² ÑÑ‚Ð¾Ð¼ Ð³Ð¾Ð´Ñƒ Ð¼Ñ‹ ÐµÐ´ÐµÐ¼ Ð² ÑÐºÐ°Ð·Ð¾Ñ‡Ð½ÑƒÑŽ Ð¤Ð¸Ð½Ð»ÑÐ½Ð´Ð¸ÑŽ.";
+$MESS["IDEA_PUBLIC_FOLDER_TITLE"] = "Ð•ÑÑ‚ÑŒ Ð¸Ð´ÐµÑ?";
+$MESS["IDEA_PUBLIC_FILE_INDEX_TITLE"] = "Ð•ÑÑ‚ÑŒ Ð¸Ð´ÐµÑ?";
+$MESS["IDEA_PUBLIC_FILE_MENU_TITLE"] = "Ð•ÑÑ‚ÑŒ Ð˜Ð´ÐµÑ?";
 ?>

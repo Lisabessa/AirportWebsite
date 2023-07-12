@@ -1,5 +1,5 @@
 <?
-$MESS["sender_trigger_order_paid_name"] = "Îïëàòà çàìîâëåííÿ";
-$MESS["sender_trigger_order_paid_pers_order_id_name"] = "Êîä çàìîâëåííÿ";
-$MESS["sender_trigger_order_paid_pers_order_id_desc"] = "Öå êîä çàìîâëåííÿ, ç ÿêèì ïîâ'ÿçàíà ïîä³ÿ";
+$MESS["sender_trigger_order_paid_name"] = "ÐžÐ¿Ð»Ð°Ñ‚Ð° Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ";
+$MESS["sender_trigger_order_paid_pers_order_id_name"] = "ÐšÐ¾Ð´ Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ";
+$MESS["sender_trigger_order_paid_pers_order_id_desc"] = "Ð¦Ðµ ÐºÐ¾Ð´ Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ, Ð· ÑÐºÐ¸Ð¼ Ð¿Ð¾Ð²'ÑÐ·Ð°Ð½Ð° Ð¿Ð¾Ð´Ñ–Ñ";
 ?>

@@ -73,7 +73,7 @@ $pdf->SetFont($fontFamily, 'B', $fontSize-2);
 $seller = CSalePaySystemAction::GetParamValue("SELLER_NAME");
 if (CSalePaySystemAction::GetParamValue("SELLER_ADDRESS"))
 {
-	$seller .= ' – ';
+	$seller .= ' â€“ ';
 	$seller .= CSalePaySystemAction::GetParamValue("SELLER_ADDRESS");
 	$seller .= '  ';
 }
@@ -139,7 +139,7 @@ $pdf->Ln();
 
 $pdf->SetFont($fontFamily, '', $fontSize);
 
-// Ñïèñîê òîâàðîâ
+// Ð¡Ð¿Ð¸ÑÐ¾Ðº Ñ‚Ð¾Ð²Ð°Ñ€Ð¾Ð²
 $dbBasket = CSaleBasket::GetList(
 	array("NAME" => "ASC"),
 	array("ORDER_ID" => $ORDER_ID)
@@ -614,7 +614,7 @@ if (CSalePaySystemAction::GetParamValue("SELLER_DIR") || CSalePaySystemAction::G
 
 	if ($isDirSign)
 		$pdf->SetY($pdf->GetY() + $signHeight - 15);
-	$pdf->Write(15, CSalePdf::prepareToPdf('Geschäftsführer '));
+	$pdf->Write(15, CSalePdf::prepareToPdf('GeschÐ´ftsfÑŒhrer '));
 
 	if ($isDirSign)
 	{
@@ -700,7 +700,7 @@ if ($sellerAddr)
 
 if (!empty($sellerData))
 {
-	$pdf->Cell(0, 15, CSalePdf::prepareToPdf(join(' – ', $sellerData)), 0, 0, 'C');
+	$pdf->Cell(0, 15, CSalePdf::prepareToPdf(join(' â€“ ', $sellerData)), 0, 0, 'C');
 	$pdf->Ln();
 }
 
@@ -717,7 +717,7 @@ if ($sellerEmail)
 
 if (!empty($sellerData))
 {
-	$pdf->Cell(0, 15, CSalePdf::prepareToPdf(join(' – ', $sellerData)), 0, 0, 'C');
+	$pdf->Cell(0, 15, CSalePdf::prepareToPdf(join(' â€“ ', $sellerData)), 0, 0, 'C');
 	$pdf->Ln();
 }
 
@@ -743,7 +743,7 @@ if ($bank)
 
 if (!empty($bankData))
 {
-	$pdf->Cell(0, 15, CSalePdf::prepareToPdf(join(' – ', $bankData)), 0, 0, 'C');
+	$pdf->Cell(0, 15, CSalePdf::prepareToPdf(join(' â€“ ', $bankData)), 0, 0, 'C');
 	$pdf->Ln();
 }
 
@@ -766,7 +766,7 @@ if ($sellerDir)
 
 if (!empty($sellerData))
 {
-	$pdf->Cell(0, 15, CSalePdf::prepareToPdf(join(' – ', $sellerData)), 0, 0, 'C');
+	$pdf->Cell(0, 15, CSalePdf::prepareToPdf(join(' â€“ ', $sellerData)), 0, 0, 'C');
 	$pdf->Ln();
 }
 

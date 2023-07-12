@@ -1,10 +1,10 @@
 <?
-$MESS["TRANSLATE_ICON_ALT"] = "Ïåðåâîä";
-$MESS["TRANSLATE_ICON_TEXT"] = "Ïåðåâîä";
-$MESS["TRANSLATE_ICON_HINT"] = "Âûâîä ñïèñêà ÿçûêîâûõ ôàéëîâ, îòíîñÿùèõñÿ ê äàííîé ñòðàíèöå.";
-$MESS["TRANSLATE_SHOW_LANG_FILES_TEXT"] = "Âûâîäèòü ÿçûêîâûå ôàéëû";
-$MESS["TRANSLATE_SHOW_LANG_FILES_TITLE"] = "Âûâîäèòü ÿçûêîâûå ôàéëû";
-$MESS["TRANSLATE_SHOW_LOADED_LANG_FILES_TEXT"] = "Ïîêàçàòü çàãðóæåííûå ÿçûêîâûå ôàéëû";
-$MESS["TRANSLATE_SHOW_LOADED_LANG_FILES_TITLE"] = "Ïîêàçàòü ñïèñîê çàãðóæåííûõ ÿçûêîâûõ ôàéëîâ";
-$MESS["TRANSLATE_COUNT_LOADED_LANG_FILES"] = "Âñåãî ÿçûêîâûõ ôàéëîâ";
+$MESS["TRANSLATE_ICON_ALT"] = "ÐŸÐµÑ€ÐµÐ²Ð¾Ð´";
+$MESS["TRANSLATE_ICON_TEXT"] = "ÐŸÐµÑ€ÐµÐ²Ð¾Ð´";
+$MESS["TRANSLATE_ICON_HINT"] = "Ð’Ñ‹Ð²Ð¾Ð´ ÑÐ¿Ð¸ÑÐºÐ° ÑÐ·Ñ‹ÐºÐ¾Ð²Ñ‹Ñ… Ñ„Ð°Ð¹Ð»Ð¾Ð², Ð¾Ñ‚Ð½Ð¾ÑÑÑ‰Ð¸Ñ…ÑÑ Ðº Ð´Ð°Ð½Ð½Ð¾Ð¹ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ðµ.";
+$MESS["TRANSLATE_SHOW_LANG_FILES_TEXT"] = "Ð’Ñ‹Ð²Ð¾Ð´Ð¸Ñ‚ÑŒ ÑÐ·Ñ‹ÐºÐ¾Ð²Ñ‹Ðµ Ñ„Ð°Ð¹Ð»Ñ‹";
+$MESS["TRANSLATE_SHOW_LANG_FILES_TITLE"] = "Ð’Ñ‹Ð²Ð¾Ð´Ð¸Ñ‚ÑŒ ÑÐ·Ñ‹ÐºÐ¾Ð²Ñ‹Ðµ Ñ„Ð°Ð¹Ð»Ñ‹";
+$MESS["TRANSLATE_SHOW_LOADED_LANG_FILES_TEXT"] = "ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ Ð·Ð°Ð³Ñ€ÑƒÐ¶ÐµÐ½Ð½Ñ‹Ðµ ÑÐ·Ñ‹ÐºÐ¾Ð²Ñ‹Ðµ Ñ„Ð°Ð¹Ð»Ñ‹";
+$MESS["TRANSLATE_SHOW_LOADED_LANG_FILES_TITLE"] = "ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ ÑÐ¿Ð¸ÑÐ¾Ðº Ð·Ð°Ð³Ñ€ÑƒÐ¶ÐµÐ½Ð½Ñ‹Ñ… ÑÐ·Ñ‹ÐºÐ¾Ð²Ñ‹Ñ… Ñ„Ð°Ð¹Ð»Ð¾Ð²";
+$MESS["TRANSLATE_COUNT_LOADED_LANG_FILES"] = "Ð’ÑÐµÐ³Ð¾ ÑÐ·Ñ‹ÐºÐ¾Ð²Ñ‹Ñ… Ñ„Ð°Ð¹Ð»Ð¾Ð²";
 ?>

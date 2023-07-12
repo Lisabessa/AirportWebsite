@@ -1,6 +1,6 @@
 <?php
-$MESS['SEC_OTP_RECOVERY_TITLE'] = 'Ðåçåðâíûå êîäû äëÿ àâòîðèçàöèè ';
-$MESS['SEC_OTP_RECOVERY_NOTE'] = 'Êàæäûé êîä ìîæíî èñïîëüçîâàòü òîëüêî îäèí ðàç. Ñîâåò: âû÷åðêèâàéòå èñïîëüçîâàííûå êîäû.';
-$MESS['SEC_OTP_RECOVERY_CREATED'] = 'Äàòà ñîçäàíèÿ: #DATE#';
-$MESS['SEC_OTP_RECOVERY_ISSUER'] = 'Èçäàòåëü: #ISSUER#';
-$MESS['SEC_OTP_RECOVERY_LOGIN'] = 'Ëîãèí: #LOGIN#';
+$MESS['SEC_OTP_RECOVERY_TITLE'] = 'Ð ÐµÐ·ÐµÑ€Ð²Ð½Ñ‹Ðµ ÐºÐ¾Ð´Ñ‹ Ð´Ð»Ñ Ð°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·Ð°Ñ†Ð¸Ð¸ ';
+$MESS['SEC_OTP_RECOVERY_NOTE'] = 'ÐšÐ°Ð¶Ð´Ñ‹Ð¹ ÐºÐ¾Ð´ Ð¼Ð¾Ð¶Ð½Ð¾ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð¾Ð´Ð¸Ð½ Ñ€Ð°Ð·. Ð¡Ð¾Ð²ÐµÑ‚: Ð²Ñ‹Ñ‡ÐµÑ€ÐºÐ¸Ð²Ð°Ð¹Ñ‚Ðµ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð½Ñ‹Ðµ ÐºÐ¾Ð´Ñ‹.';
+$MESS['SEC_OTP_RECOVERY_CREATED'] = 'Ð”Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ: #DATE#';
+$MESS['SEC_OTP_RECOVERY_ISSUER'] = 'Ð˜Ð·Ð´Ð°Ñ‚ÐµÐ»ÑŒ: #ISSUER#';
+$MESS['SEC_OTP_RECOVERY_LOGIN'] = 'Ð›Ð¾Ð³Ð¸Ð½: #LOGIN#';

@@ -1,9 +1,9 @@
 <?
-$MESS["SALE_COMPANY_RULES_BY_ENTITY_TITLE"] = "ïî òèïó ïðèâ'ÿçêè";
-$MESS["SALE_COMPANY_RULES_BY_ENTITY"] = "Òèï ïðèâ'ÿçêè";
-$MESS["SALE_COMPANY_RULES_BY_ENTITY_DESC"] = "ïî òèïó ïðèâ'ÿçêè";
-$MESS["SALE_COMPANY_RULES_BY_ENTITY_NONE"] = "Í³";
-$MESS["SALE_COMPANY_RULES_BY_ENTITY_PAYMENT"] = "Îïëàòà";
-$MESS["SALE_COMPANY_RULES_BY_ENTITY_SHIPMENT"] = "Â³äâàíòàæåííÿ";
-$MESS["SALE_COMPANY_RULES_BY_ENTITY_ORDER"] = "Çàìîâëåííÿ";
+$MESS["SALE_COMPANY_RULES_BY_ENTITY_TITLE"] = "Ð¿Ð¾ Ñ‚Ð¸Ð¿Ñƒ Ð¿Ñ€Ð¸Ð²'ÑÐ·ÐºÐ¸";
+$MESS["SALE_COMPANY_RULES_BY_ENTITY"] = "Ð¢Ð¸Ð¿ Ð¿Ñ€Ð¸Ð²'ÑÐ·ÐºÐ¸";
+$MESS["SALE_COMPANY_RULES_BY_ENTITY_DESC"] = "Ð¿Ð¾ Ñ‚Ð¸Ð¿Ñƒ Ð¿Ñ€Ð¸Ð²'ÑÐ·ÐºÐ¸";
+$MESS["SALE_COMPANY_RULES_BY_ENTITY_NONE"] = "ÐÑ–";
+$MESS["SALE_COMPANY_RULES_BY_ENTITY_PAYMENT"] = "ÐžÐ¿Ð»Ð°Ñ‚Ð°";
+$MESS["SALE_COMPANY_RULES_BY_ENTITY_SHIPMENT"] = "Ð’Ñ–Ð´Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ";
+$MESS["SALE_COMPANY_RULES_BY_ENTITY_ORDER"] = "Ð—Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ";
 ?>

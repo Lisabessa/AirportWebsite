@@ -1,5 +1,5 @@
 <?
-$MESS["SONET_LIVEFEED_TIMEMAN_ENTRY_TITLE"] = "Èçìåíåíèå ðàáî÷åãî äíÿ ñîòðóäíèêà #USER_NAME# çà #DATE#";
-$MESS["SONET_LIVEFEED_TIMEMAN_ENTRY_PINNED_DESCRIPTION"] = "Òðåáóåòñÿ ïîäòâåðæäåíèå";
-$MESS["SONET_LIVEFEED_TIMEMAN_ENTRY_PINNED_DESCRIPTION2"] = "Ïîäòâåðæäåíî";
+$MESS["SONET_LIVEFEED_TIMEMAN_ENTRY_TITLE"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ Ñ€Ð°Ð±Ð¾Ñ‡ÐµÐ³Ð¾ Ð´Ð½Ñ ÑÐ¾Ñ‚Ñ€ÑƒÐ´Ð½Ð¸ÐºÐ° #USER_NAME# Ð·Ð° #DATE#";
+$MESS["SONET_LIVEFEED_TIMEMAN_ENTRY_PINNED_DESCRIPTION"] = "Ð¢Ñ€ÐµÐ±ÑƒÐµÑ‚ÑÑ Ð¿Ð¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð¸Ðµ";
+$MESS["SONET_LIVEFEED_TIMEMAN_ENTRY_PINNED_DESCRIPTION2"] = "ÐŸÐ¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð¾";
 ?>

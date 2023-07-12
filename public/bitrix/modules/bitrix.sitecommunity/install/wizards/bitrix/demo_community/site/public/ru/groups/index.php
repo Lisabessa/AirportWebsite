@@ -1,6 +1,6 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Ñîîáùåñòâà");
+$APPLICATION->SetTitle("Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÑÑ‚Ð²Ð°");
 ?>
 <?
 $APPLICATION->IncludeComponent("bitrix:socialnetwork.group_search", ".default", array(

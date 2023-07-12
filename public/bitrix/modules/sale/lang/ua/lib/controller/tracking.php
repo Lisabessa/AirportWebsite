@@ -1,4 +1,4 @@
 <?
-$MESS["SALE_CONTROLLER_TRACKING_ERROR_NUMBER_EMPTY"] = "²äåíòèô³êàòîð â³äïðàâêè íå ìîæå áóòè ïîðîæí³ì";
-$MESS["SALE_CONTROLLER_TRACKING_ERROR_SHIPMENT_ZERO"] = "Â³äâàíòàæåííÿ ïîâèííî ìàòè ³äåíòèô³êàòîð á³ëüøå íóëÿ";
+$MESS["SALE_CONTROLLER_TRACKING_ERROR_NUMBER_EMPTY"] = "Ð†Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÐ°Ñ‚Ð¾Ñ€ Ð²Ñ–Ð´Ð¿Ñ€Ð°Ð²ÐºÐ¸ Ð½Ðµ Ð¼Ð¾Ð¶Ðµ Ð±ÑƒÑ‚Ð¸ Ð¿Ð¾Ñ€Ð¾Ð¶Ð½Ñ–Ð¼";
+$MESS["SALE_CONTROLLER_TRACKING_ERROR_SHIPMENT_ZERO"] = "Ð’Ñ–Ð´Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ Ð¿Ð¾Ð²Ð¸Ð½Ð½Ð¾ Ð¼Ð°Ñ‚Ð¸ Ñ–Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÐ°Ñ‚Ð¾Ñ€ Ð±Ñ–Ð»ÑŒÑˆÐµ Ð½ÑƒÐ»Ñ";
 ?>

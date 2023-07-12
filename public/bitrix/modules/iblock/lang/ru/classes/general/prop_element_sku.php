@@ -1,16 +1,16 @@
 <?
-$MESS["BT_UT_SKU_SETTING_TITLE"] = "Íàñòðîéêè SKU";
-$MESS["BT_UT_SKU_SETTING_IBLOCK_MESS"] = "Áðàòü íàçâàíèå êíîïêè äîáàâëåíèÿ èç íàñòðîåê èíôîáëîêà";
-$MESS["BT_UT_SKU_SETTING_MAX_WIDTH"] = "Ìàêñèìàëüíàÿ øèðèíà ïîëÿ ââîäà â ïèêñåëàõ (0 - íå îãðàíè÷èâàòü)";
+$MESS["BT_UT_SKU_SETTING_TITLE"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ SKU";
+$MESS["BT_UT_SKU_SETTING_IBLOCK_MESS"] = "Ð‘Ñ€Ð°Ñ‚ÑŒ Ð½Ð°Ð·Ð²Ð°Ð½Ð¸Ðµ ÐºÐ½Ð¾Ð¿ÐºÐ¸ Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ñ Ð¸Ð· Ð½Ð°ÑÑ‚Ñ€Ð¾ÐµÐº Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ°";
+$MESS["BT_UT_SKU_SETTING_MAX_WIDTH"] = "ÐœÐ°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ð°Ñ ÑˆÐ¸Ñ€Ð¸Ð½Ð° Ð¿Ð¾Ð»Ñ Ð²Ð²Ð¾Ð´Ð° Ð² Ð¿Ð¸ÐºÑÐµÐ»Ð°Ñ… (0 - Ð½Ðµ Ð¾Ð³Ñ€Ð°Ð½Ð¸Ñ‡Ð¸Ð²Ð°Ñ‚ÑŒ)";
 $MESS["BT_UT_SKU_SETTING_COMMENT_MAX_WIDTH"] = "px";
-$MESS["BT_UT_SKU_SETTING_MIN_HEIGHT"] = "Ìèíèìàëüíàÿ âûñîòà ïîëÿ ââîäà â ïèêñåëàõ, åñëè ñâîéñòâî ìíîæåñòâåííîå";
+$MESS["BT_UT_SKU_SETTING_MIN_HEIGHT"] = "ÐœÐ¸Ð½Ð¸Ð¼Ð°Ð»ÑŒÐ½Ð°Ñ Ð²Ñ‹ÑÐ¾Ñ‚Ð° Ð¿Ð¾Ð»Ñ Ð²Ð²Ð¾Ð´Ð° Ð² Ð¿Ð¸ÐºÑÐµÐ»Ð°Ñ…, ÐµÑÐ»Ð¸ ÑÐ²Ð¾Ð¹ÑÑ‚Ð²Ð¾ Ð¼Ð½Ð¾Ð¶ÐµÑÑ‚Ð²ÐµÐ½Ð½Ð¾Ðµ";
 $MESS["BT_UT_SKU_SETTING_COMMENT_MIN_HEIGHT"] = "px";
-$MESS["BT_UT_SKU_SETTING_MAX_HEIGHT"] = "Ìàêñèìàëüíàÿ âûñîòà ïîëÿ ââîäà â ïèêñåëàõ, åñëè ñâîéñòâî ìíîæåñòâåííîå";
+$MESS["BT_UT_SKU_SETTING_MAX_HEIGHT"] = "ÐœÐ°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ð°Ñ Ð²Ñ‹ÑÐ¾Ñ‚Ð° Ð¿Ð¾Ð»Ñ Ð²Ð²Ð¾Ð´Ð° Ð² Ð¿Ð¸ÐºÑÐµÐ»Ð°Ñ…, ÐµÑÐ»Ð¸ ÑÐ²Ð¾Ð¹ÑÑ‚Ð²Ð¾ Ð¼Ð½Ð¾Ð¶ÐµÑÑ‚Ð²ÐµÐ½Ð½Ð¾Ðµ";
 $MESS["BT_UT_SKU_SETTING_COMMENT_MAX_HEIGHT"] = "px";
-$MESS["BT_UT_SKU_SETTING_VIEW"] = "Èíòåðôåéñ ïîêàçà";
-$MESS["BT_UT_SKU_SETTING_BAN_SYMBOLS"] = "Çàìåíÿåìûå ïðè ïîêàçå ñèìâîëû";
-$MESS["BT_UT_SKU_SETTING_REP_SYMBOL"] = "Ñèìâîë, êîòîðûé çàìåíèò ïðè ïîêàçå çàïðåùåííûå ñèìâîëû";
-$MESS["BT_UT_SKU_MESS_NEW_ELEMENT"] = "Äîáàâèòü òîâàðíîå ïðåäëîæåíèå";
-$MESS["BT_UT_SKU_MESS_NEW_ELEMENT_DESCR"] = "Äîáàâèòü íîâîå òîâàðíîå ïðåäëîæåíèå è âûáðàòü åãî";
-$MESS["BT_UT_SKU_DESCRIPTION"] = "Ïðèâÿçêà ê òîâàðàì (SKU)";
+$MESS["BT_UT_SKU_SETTING_VIEW"] = "Ð˜Ð½Ñ‚ÐµÑ€Ñ„ÐµÐ¹Ñ Ð¿Ð¾ÐºÐ°Ð·Ð°";
+$MESS["BT_UT_SKU_SETTING_BAN_SYMBOLS"] = "Ð—Ð°Ð¼ÐµÐ½ÑÐµÐ¼Ñ‹Ðµ Ð¿Ñ€Ð¸ Ð¿Ð¾ÐºÐ°Ð·Ðµ ÑÐ¸Ð¼Ð²Ð¾Ð»Ñ‹";
+$MESS["BT_UT_SKU_SETTING_REP_SYMBOL"] = "Ð¡Ð¸Ð¼Ð²Ð¾Ð», ÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ð¹ Ð·Ð°Ð¼ÐµÐ½Ð¸Ñ‚ Ð¿Ñ€Ð¸ Ð¿Ð¾ÐºÐ°Ð·Ðµ Ð·Ð°Ð¿Ñ€ÐµÑ‰ÐµÐ½Ð½Ñ‹Ðµ ÑÐ¸Ð¼Ð²Ð¾Ð»Ñ‹";
+$MESS["BT_UT_SKU_MESS_NEW_ELEMENT"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ñ‚Ð¾Ð²Ð°Ñ€Ð½Ð¾Ðµ Ð¿Ñ€ÐµÐ´Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ";
+$MESS["BT_UT_SKU_MESS_NEW_ELEMENT_DESCR"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð½Ð¾Ð²Ð¾Ðµ Ñ‚Ð¾Ð²Ð°Ñ€Ð½Ð¾Ðµ Ð¿Ñ€ÐµÐ´Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ Ð¸ Ð²Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ ÐµÐ³Ð¾";
+$MESS["BT_UT_SKU_DESCRIPTION"] = "ÐŸÑ€Ð¸Ð²ÑÐ·ÐºÐ° Ðº Ñ‚Ð¾Ð²Ð°Ñ€Ð°Ð¼ (SKU)";
 ?>

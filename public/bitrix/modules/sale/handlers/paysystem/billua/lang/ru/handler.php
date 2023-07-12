@@ -1,7 +1,7 @@
 <?php
-$MESS["SALE_HPS_BILL_UA_COMPANY_SYS"] = 'áàçîâàÿ';
-$MESS["SALE_HPS_BILL_UA_COMMENT"] = 'Êîììåíòàðèé ê ñ÷åòó';
-$MESS["SALE_HPS_BILL_UA_COMMENT_ADD"] = 'Äîïîëíèòåëüíûé êîììåíòàðèé ê ñ÷åòó';
-$MESS['SALE_HPS_BILL_UA_BANK_CITY'] = 'Êèåâ';
-$MESS['SALE_HPS_BILL_UA_BANK_ADDRESS'] = 'Óêðàèíà';
-$MESS['SALE_HPS_BILL_UA_BUYER_COMPANY_ADDRESS'] = 'Êèåâ';
+$MESS["SALE_HPS_BILL_UA_COMPANY_SYS"] = 'Ð±Ð°Ð·Ð¾Ð²Ð°Ñ';
+$MESS["SALE_HPS_BILL_UA_COMMENT"] = 'ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹ Ðº ÑÑ‡ÐµÑ‚Ñƒ';
+$MESS["SALE_HPS_BILL_UA_COMMENT_ADD"] = 'Ð”Ð¾Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ð¹ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹ Ðº ÑÑ‡ÐµÑ‚Ñƒ';
+$MESS['SALE_HPS_BILL_UA_BANK_CITY'] = 'ÐšÐ¸ÐµÐ²';
+$MESS['SALE_HPS_BILL_UA_BANK_ADDRESS'] = 'Ð£ÐºÑ€Ð°Ð¸Ð½Ð°';
+$MESS['SALE_HPS_BILL_UA_BUYER_COMPANY_ADDRESS'] = 'ÐšÐ¸ÐµÐ²';

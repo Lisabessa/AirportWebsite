@@ -1,6 +1,6 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Новости");?><?$APPLICATION->IncludeComponent("demo:news", ".default", Array(
+$APPLICATION->SetTitle("РќРѕРІРѕСЃС‚Рё");?><?$APPLICATION->IncludeComponent("demo:news", ".default", Array(
 	"IBLOCK_TYPE"	=>	"news",
 	"IBLOCK_ID"	=>	"#IBLOCK.ID(XML_ID=content-news)#",
 	"NEWS_COUNT"	=>	"5",

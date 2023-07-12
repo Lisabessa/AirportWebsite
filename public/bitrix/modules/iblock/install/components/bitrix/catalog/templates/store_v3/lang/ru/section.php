@@ -1,2 +1,2 @@
 <?
-$MESS["CATALOG_PERSONAL_RECOM"] = "Ïåðñîíàëüíûå ðåêîìåíäàöèè";
+$MESS["CATALOG_PERSONAL_RECOM"] = "ÐŸÐµÑ€ÑÐ¾Ð½Ð°Ð»ÑŒÐ½Ñ‹Ðµ Ñ€ÐµÐºÐ¾Ð¼ÐµÐ½Ð´Ð°Ñ†Ð¸Ð¸";

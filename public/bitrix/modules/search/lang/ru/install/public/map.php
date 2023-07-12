@@ -1,3 +1,3 @@
 <?
-$MESS['SEARCH_INSTALL_PUBLIC_MAP_TITLE'] = "Êàðòà ñàéòà";
+$MESS['SEARCH_INSTALL_PUBLIC_MAP_TITLE'] = "ÐšÐ°Ñ€Ñ‚Ð° ÑÐ°Ð¹Ñ‚Ð°";
 ?>

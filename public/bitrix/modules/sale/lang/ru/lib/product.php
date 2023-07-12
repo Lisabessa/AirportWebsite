@@ -1,21 +1,21 @@
 <?
 $MESS["SALE_PRODUCT_ENTITY_ID_FIELD"] = "ID";
-$MESS["SALE_PRODUCT_ENTITY_QUANTITY_FIELD"] = "Îáùèé îñòàòîê";
-$MESS["SALE_PRODUCT_ENTITY_NAME_FIELD"] = "Íàèìåíîâàíèå";
-$MESS["SALE_PRODUCT_ENTITY_NAME_WITH_IDENT_FIELD"] = "Íàèìåíîâàíèå [ID]";
-$MESS["SALE_PRODUCT_ENTITY_ACTIVE_FIELD"] = "Àêòèâåí";
-$MESS["SALE_PRODUCT_ENTITY_WEIGHT_FIELD"] = "Âåñ â ãðàììàõ";
-$MESS["SALE_PRODUCT_ENTITY_WEIGHT_IN_SITE_UNITS_FIELD"] = "Âåñ";
-$MESS["SALE_PRODUCT_ENTITY_PRICE_IN_SITE_CURRENCY_FIELD"] = "Áàçîâàÿ öåíà";
-$MESS["SALE_PRODUCT_ENTITY_SUMMARY_PRICE_IN_SITE_CURRENCY_FIELD"] = "Ñòîèìîñòü îñòàòêà â áàçîâîé öåíå";
-$MESS["SALE_PRODUCT_ENTITY_VIEWS_IN_PERIOD_BY_SHOP_FIELD"] = "Ïðîñìîòðû çà ïåðèîä ïî ìàãàçèíó";
-$MESS["SALE_PRODUCT_ENTITY_SUBSCRIPTIONS_IN_PERIOD_BY_SHOP_FIELD"] = "Ïîäïèñêè çà ïåðèîä ïî ìàãàçèíó";
-$MESS["SALE_PRODUCT_ENTITY_ORDERS_IN_PERIOD_BY_SHOP_FIELD"] = "Çàêàçîâ çà ïåðèîä ïî ìàãàçèíó";
-$MESS["SALE_PRODUCT_ENTITY_SALED_PRODUCTS_IN_PERIOD_BY_SHOP_FIELD"] = "Ïðîäàíî òîâàðà çà ïåðèîä ïî ìàãàçèíó";
-$MESS["SALE_PRODUCT_ENTITY_CONVERSION_FIELD"] = "Êîíâåðñèÿ (%)";
+$MESS["SALE_PRODUCT_ENTITY_QUANTITY_FIELD"] = "ÐžÐ±Ñ‰Ð¸Ð¹ Ð¾ÑÑ‚Ð°Ñ‚Ð¾Ðº";
+$MESS["SALE_PRODUCT_ENTITY_NAME_FIELD"] = "ÐÐ°Ð¸Ð¼ÐµÐ½Ð¾Ð²Ð°Ð½Ð¸Ðµ";
+$MESS["SALE_PRODUCT_ENTITY_NAME_WITH_IDENT_FIELD"] = "ÐÐ°Ð¸Ð¼ÐµÐ½Ð¾Ð²Ð°Ð½Ð¸Ðµ [ID]";
+$MESS["SALE_PRODUCT_ENTITY_ACTIVE_FIELD"] = "ÐÐºÑ‚Ð¸Ð²ÐµÐ½";
+$MESS["SALE_PRODUCT_ENTITY_WEIGHT_FIELD"] = "Ð’ÐµÑ Ð² Ð³Ñ€Ð°Ð¼Ð¼Ð°Ñ…";
+$MESS["SALE_PRODUCT_ENTITY_WEIGHT_IN_SITE_UNITS_FIELD"] = "Ð’ÐµÑ";
+$MESS["SALE_PRODUCT_ENTITY_PRICE_IN_SITE_CURRENCY_FIELD"] = "Ð‘Ð°Ð·Ð¾Ð²Ð°Ñ Ñ†ÐµÐ½Ð°";
+$MESS["SALE_PRODUCT_ENTITY_SUMMARY_PRICE_IN_SITE_CURRENCY_FIELD"] = "Ð¡Ñ‚Ð¾Ð¸Ð¼Ð¾ÑÑ‚ÑŒ Ð¾ÑÑ‚Ð°Ñ‚ÐºÐ° Ð² Ð±Ð°Ð·Ð¾Ð²Ð¾Ð¹ Ñ†ÐµÐ½Ðµ";
+$MESS["SALE_PRODUCT_ENTITY_VIEWS_IN_PERIOD_BY_SHOP_FIELD"] = "ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ñ‹ Ð·Ð° Ð¿ÐµÑ€Ð¸Ð¾Ð´ Ð¿Ð¾ Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ñƒ";
+$MESS["SALE_PRODUCT_ENTITY_SUBSCRIPTIONS_IN_PERIOD_BY_SHOP_FIELD"] = "ÐŸÐ¾Ð´Ð¿Ð¸ÑÐºÐ¸ Ð·Ð° Ð¿ÐµÑ€Ð¸Ð¾Ð´ Ð¿Ð¾ Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ñƒ";
+$MESS["SALE_PRODUCT_ENTITY_ORDERS_IN_PERIOD_BY_SHOP_FIELD"] = "Ð—Ð°ÐºÐ°Ð·Ð¾Ð² Ð·Ð° Ð¿ÐµÑ€Ð¸Ð¾Ð´ Ð¿Ð¾ Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ñƒ";
+$MESS["SALE_PRODUCT_ENTITY_SALED_PRODUCTS_IN_PERIOD_BY_SHOP_FIELD"] = "ÐŸÑ€Ð¾Ð´Ð°Ð½Ð¾ Ñ‚Ð¾Ð²Ð°Ñ€Ð° Ð·Ð° Ð¿ÐµÑ€Ð¸Ð¾Ð´ Ð¿Ð¾ Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ñƒ";
+$MESS["SALE_PRODUCT_ENTITY_CONVERSION_FIELD"] = "ÐšÐ¾Ð½Ð²ÐµÑ€ÑÐ¸Ñ (%)";
 
-$MESS["SALE_PRODUCT_ENTITY_PURCHASING_PRICE_IN_SITE_CURRENCY_FIELD"] = "Çàêóïî÷íàÿ öåíà";
-$MESS["SALE_PRODUCT_ENTITY_ARRIVED_PRODUCTS_IN_PERIOD_BY_SHOP_FIELD"] = "Îïðèõîäîâàíî òîâàðà çà ïåðèîä";
-$MESS["SALE_PRODUCT_ENTITY_ARRIVED_PRODUCTS_IN_PERIOD_BY_STORE_FIELD"] = "Ïðèõîä òîâàðà çà ïåðèîä ïî ñêëàäàì";
-$MESS["SALE_PRODUCT_ENTITY_EXPENSE_PRODUCTS_IN_PERIOD_BY_STORE_FIELD"] = "Ðàñõîä òîâàðà çà ïåðèîä ïî ñêëàäàì";
+$MESS["SALE_PRODUCT_ENTITY_PURCHASING_PRICE_IN_SITE_CURRENCY_FIELD"] = "Ð—Ð°ÐºÑƒÐ¿Ð¾Ñ‡Ð½Ð°Ñ Ñ†ÐµÐ½Ð°";
+$MESS["SALE_PRODUCT_ENTITY_ARRIVED_PRODUCTS_IN_PERIOD_BY_SHOP_FIELD"] = "ÐžÐ¿Ñ€Ð¸Ñ…Ð¾Ð´Ð¾Ð²Ð°Ð½Ð¾ Ñ‚Ð¾Ð²Ð°Ñ€Ð° Ð·Ð° Ð¿ÐµÑ€Ð¸Ð¾Ð´";
+$MESS["SALE_PRODUCT_ENTITY_ARRIVED_PRODUCTS_IN_PERIOD_BY_STORE_FIELD"] = "ÐŸÑ€Ð¸Ñ…Ð¾Ð´ Ñ‚Ð¾Ð²Ð°Ñ€Ð° Ð·Ð° Ð¿ÐµÑ€Ð¸Ð¾Ð´ Ð¿Ð¾ ÑÐºÐ»Ð°Ð´Ð°Ð¼";
+$MESS["SALE_PRODUCT_ENTITY_EXPENSE_PRODUCTS_IN_PERIOD_BY_STORE_FIELD"] = "Ð Ð°ÑÑ…Ð¾Ð´ Ñ‚Ð¾Ð²Ð°Ñ€Ð° Ð·Ð° Ð¿ÐµÑ€Ð¸Ð¾Ð´ Ð¿Ð¾ ÑÐºÐ»Ð°Ð´Ð°Ð¼";
 ?>

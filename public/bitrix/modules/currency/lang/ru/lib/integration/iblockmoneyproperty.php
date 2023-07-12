@@ -1,6 +1,6 @@
 <?
-$MESS["CIMP_INPUT_DESCRIPTION"] = "Äåíüãè";
-$MESS["CIMP_INPUT_FORMAT_ERROR_1"] = "Òîëüêî ÷èñëà è ðàçäåëèòåëè[#separators#] (#example#)";
-$MESS["CIMP_INPUT_FORMAT_ERROR_2"] = "Íåâåðíûé ôîðìàò. Ïðèìåð: (#example#)";
-$MESS["CIMP_FORMAT_ERROR"] = "Íåâåðíûé ôîðìàò ïîëÿ Äåíüãè";
-$MESS["CIMP_INPUT_FORMAT_ERROR"] = "Íåâåðíûé ôîðìàò äåíåæíîãî ïîëÿ. Ïðèìåð: #example#";
+$MESS["CIMP_INPUT_DESCRIPTION"] = "Ð”ÐµÐ½ÑŒÐ³Ð¸";
+$MESS["CIMP_INPUT_FORMAT_ERROR_1"] = "Ð¢Ð¾Ð»ÑŒÐºÐ¾ Ñ‡Ð¸ÑÐ»Ð° Ð¸ Ñ€Ð°Ð·Ð´ÐµÐ»Ð¸Ñ‚ÐµÐ»Ð¸[#separators#] (#example#)";
+$MESS["CIMP_INPUT_FORMAT_ERROR_2"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚. ÐŸÑ€Ð¸Ð¼ÐµÑ€: (#example#)";
+$MESS["CIMP_FORMAT_ERROR"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚ Ð¿Ð¾Ð»Ñ Ð”ÐµÐ½ÑŒÐ³Ð¸";
+$MESS["CIMP_INPUT_FORMAT_ERROR"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚ Ð´ÐµÐ½ÐµÐ¶Ð½Ð¾Ð³Ð¾ Ð¿Ð¾Ð»Ñ. ÐŸÑ€Ð¸Ð¼ÐµÑ€: #example#";

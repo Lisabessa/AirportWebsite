@@ -1,3 +1,3 @@
 <?php
 
-$MESS["SALE_SHIPMENT_ITEM_STORE_QUANTITY_LARGER_ALLOWED"] = "Óêàçàííîå êîëè÷åñòâî îòãðóçêè òîâàðà \"#PRODUCT_NAME#\" áîëüøå äîïóñòèìîãî";
+$MESS["SALE_SHIPMENT_ITEM_STORE_QUANTITY_LARGER_ALLOWED"] = "Ð£ÐºÐ°Ð·Ð°Ð½Ð½Ð¾Ðµ ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸ Ñ‚Ð¾Ð²Ð°Ñ€Ð° \"#PRODUCT_NAME#\" Ð±Ð¾Ð»ÑŒÑˆÐµ Ð´Ð¾Ð¿ÑƒÑÑ‚Ð¸Ð¼Ð¾Ð³Ð¾";

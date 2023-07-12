@@ -1,3 +1,3 @@
 <?
-$MESS ['IBLOCK_INSTALL_SECTION_TITLE'] = "Íîâîñòè êîìïàíèè";
+$MESS ['IBLOCK_INSTALL_SECTION_TITLE'] = "ÐÐ¾Ð²Ð¾ÑÑ‚Ð¸ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸";
 ?>

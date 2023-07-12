@@ -1,9 +1,9 @@
 <?php
-$MESS ['REPORT_MODULE_NOT_INSTALLED'] = "Íå óñòàíîâëåí ìîäóëü Êîíñòðóêòîð îò÷åòîâ";
-$MESS ['CATALOG_MODULE_NOT_INSTALLED'] = "Íå óñòàíîâëåí ìîäóëü Òîðãîâûé êàòàëîã";
-$MESS ['CURRENCY_MODULE_NOT_INSTALLED'] = "Íå óñòàíîâëåí ìîäóëü Âàëþòû";
-$MESS ['IBLOCK_MODULE_NOT_INSTALLED'] = "Íå óñòàíîâëåí ìîäóëü Èíôîðìàöèîííûå áëîêè";
-$MESS ['REPORT_VIEW_REP_ID_NOT_SET'] = "Íå óêàçàí èäåíòèôèêàòîð îò÷¸òà";
-$MESS ['SALE_REPORT_VIEW_ERROR_GET_REP_PARAMS'] = "Îøèáêà ïðè ïîëó÷åíèè ïàðàìåòðîâ îò÷¸òà";
-$MESS ['SALE_REPORT_VIEW_CURRENCY_LABEL_TITLE'] = "Âàëþòà îò÷¸òà";
-$MESS ['SALE_REPORT_VIEW_WEIGHT_UNITS_LABEL_TITLE'] = "Åäèíèöà èçìåðåíèÿ âåñà â îò÷¸òå";
+$MESS ['REPORT_MODULE_NOT_INSTALLED'] = "ÐÐµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½ Ð¼Ð¾Ð´ÑƒÐ»ÑŒ ÐšÐ¾Ð½ÑÑ‚Ñ€ÑƒÐºÑ‚Ð¾Ñ€ Ð¾Ñ‚Ñ‡ÐµÑ‚Ð¾Ð²";
+$MESS ['CATALOG_MODULE_NOT_INSTALLED'] = "ÐÐµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½ Ð¼Ð¾Ð´ÑƒÐ»ÑŒ Ð¢Ð¾Ñ€Ð³Ð¾Ð²Ñ‹Ð¹ ÐºÐ°Ñ‚Ð°Ð»Ð¾Ð³";
+$MESS ['CURRENCY_MODULE_NOT_INSTALLED'] = "ÐÐµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½ Ð¼Ð¾Ð´ÑƒÐ»ÑŒ Ð’Ð°Ð»ÑŽÑ‚Ñ‹";
+$MESS ['IBLOCK_MODULE_NOT_INSTALLED'] = "ÐÐµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½ Ð¼Ð¾Ð´ÑƒÐ»ÑŒ Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ñ‹Ðµ Ð±Ð»Ð¾ÐºÐ¸";
+$MESS ['REPORT_VIEW_REP_ID_NOT_SET'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¾Ñ‚Ñ‡Ñ‘Ñ‚Ð°";
+$MESS ['SALE_REPORT_VIEW_ERROR_GET_REP_PARAMS'] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ Ð¿Ð¾Ð»ÑƒÑ‡ÐµÐ½Ð¸Ð¸ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð¾Ð² Ð¾Ñ‚Ñ‡Ñ‘Ñ‚Ð°";
+$MESS ['SALE_REPORT_VIEW_CURRENCY_LABEL_TITLE'] = "Ð’Ð°Ð»ÑŽÑ‚Ð° Ð¾Ñ‚Ñ‡Ñ‘Ñ‚Ð°";
+$MESS ['SALE_REPORT_VIEW_WEIGHT_UNITS_LABEL_TITLE'] = "Ð•Ð´Ð¸Ð½Ð¸Ñ†Ð° Ð¸Ð·Ð¼ÐµÑ€ÐµÐ½Ð¸Ñ Ð²ÐµÑÐ° Ð² Ð¾Ñ‚Ñ‡Ñ‘Ñ‚Ðµ";

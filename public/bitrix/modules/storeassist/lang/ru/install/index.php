@@ -1,6 +1,6 @@
 <?
-$MESS ['STOREASSIST_MODULE_NAME'] = "Ìàñòåð ìàãàçèíà";
-$MESS ['STOREASSIST_MODULE_DESCRIPTION'] = "Ïîìîùíèê íàñòðîéêè èíòåðíåò-ìàãàçèíà";
-$MESS ['STOREASSIST_INSTALL_TITLE'] = "Óñòàíîâêà ìîäóëÿ Ìàñòåð ìàãàçèíà";
-$MESS ['STOREASSIST_UNINSTALL_TITLE'] = "Äåèíñòàëëÿöèÿ ìîäóëÿ Ìàñòåð ìàãàçèíà";
+$MESS ['STOREASSIST_MODULE_NAME'] = "ÐœÐ°ÑÑ‚ÐµÑ€ Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ð°";
+$MESS ['STOREASSIST_MODULE_DESCRIPTION'] = "ÐŸÐ¾Ð¼Ð¾Ñ‰Ð½Ð¸Ðº Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð¸Ð½Ñ‚ÐµÑ€Ð½ÐµÑ‚-Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ð°";
+$MESS ['STOREASSIST_INSTALL_TITLE'] = "Ð£ÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ° Ð¼Ð¾Ð´ÑƒÐ»Ñ ÐœÐ°ÑÑ‚ÐµÑ€ Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ð°";
+$MESS ['STOREASSIST_UNINSTALL_TITLE'] = "Ð”ÐµÐ¸Ð½ÑÑ‚Ð°Ð»Ð»ÑÑ†Ð¸Ñ Ð¼Ð¾Ð´ÑƒÐ»Ñ ÐœÐ°ÑÑ‚ÐµÑ€ Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ð°";
 ?>

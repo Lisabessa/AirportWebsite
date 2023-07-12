@@ -1,6 +1,6 @@
 <?php
-$MESS["SALE_DLVR_RSTR_BY_PRICE_NAME"] = "ïî îáùåé ñòîèìîñòè òîâàðîâ";
-$MESS["SALE_DLVR_RSTR_BY_PRICE_DESCRIPT"] = "Îãðàíè÷åíèå èñïîëüçîâàíèÿ ñëóæáû äîñòàâêè ïî îáùåé ñòîèìîñòè òîâàðîâ";
-$MESS["SALE_DLVR_RSTR_BY_PRICE_MIN_PRICE"] = "Ìèíèìàëüíàÿ ñòîèìîñòü";
-$MESS["SALE_DLVR_RSTR_BY_PRICE_MAX_PRICE"] = "Ìàêñèìàëüíàÿ ñòîèìîñòü";
-$MESS["SALE_DLVR_RSTR_BY_PRICE_CURRECY"] = "Âàëþòà";
+$MESS["SALE_DLVR_RSTR_BY_PRICE_NAME"] = "Ð¿Ð¾ Ð¾Ð±Ñ‰ÐµÐ¹ ÑÑ‚Ð¾Ð¸Ð¼Ð¾ÑÑ‚Ð¸ Ñ‚Ð¾Ð²Ð°Ñ€Ð¾Ð²";
+$MESS["SALE_DLVR_RSTR_BY_PRICE_DESCRIPT"] = "ÐžÐ³Ñ€Ð°Ð½Ð¸Ñ‡ÐµÐ½Ð¸Ðµ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð¸Ñ ÑÐ»ÑƒÐ¶Ð±Ñ‹ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸ Ð¿Ð¾ Ð¾Ð±Ñ‰ÐµÐ¹ ÑÑ‚Ð¾Ð¸Ð¼Ð¾ÑÑ‚Ð¸ Ñ‚Ð¾Ð²Ð°Ñ€Ð¾Ð²";
+$MESS["SALE_DLVR_RSTR_BY_PRICE_MIN_PRICE"] = "ÐœÐ¸Ð½Ð¸Ð¼Ð°Ð»ÑŒÐ½Ð°Ñ ÑÑ‚Ð¾Ð¸Ð¼Ð¾ÑÑ‚ÑŒ";
+$MESS["SALE_DLVR_RSTR_BY_PRICE_MAX_PRICE"] = "ÐœÐ°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ð°Ñ ÑÑ‚Ð¾Ð¸Ð¼Ð¾ÑÑ‚ÑŒ";
+$MESS["SALE_DLVR_RSTR_BY_PRICE_CURRECY"] = "Ð’Ð°Ð»ÑŽÑ‚Ð°";

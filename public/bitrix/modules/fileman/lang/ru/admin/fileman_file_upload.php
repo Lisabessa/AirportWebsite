@@ -1,14 +1,14 @@
 <?
-$MESS ['FILEMAN_FILEUPLOAD_NAME'] = "Èìÿ ôàéëà";
-$MESS ['FILEMAN_FILEUPLOAD_FILE'] = "Ôàéë äëÿ çàãðóçêè";
-$MESS ['FILEMAN_FILEUPLOAD_UPLOAD'] = "Çàãðóçèòü ôàéëû";
-$MESS ['FILEMAN_FILEUPLOAD_ACCESS_DENIED'] = "Íåäîñòàòî÷íî ïðàâ äëÿ ñîçäàíèÿ ôàéëà";
-$MESS ['FILEMAN_FILEUPLOAD_SIZE_ERROR'] = "Ïðåâûøåí ìàêñèìàëüíûé äîïóñòèìûé ðàçìåð äëÿ çàãðóæàåìîãî ôàéëà: \"#FILE_NAME#\"";
-$MESS ['FILEMAN_FILEUPLOAD_FILE_EXISTS1'] = "Ôàéë ñ èìåíåì";
-$MESS ['FILEMAN_FILEUPLOAD_FILE_EXISTS2'] = "óæå ñóùåñòâóåò";
-$MESS ['FILEMAN_FILEUPLOAD_FILE_CREATE_ERROR'] = "Îøèáêà ïðè ñîçäàíèè ôàéëà";
-$MESS ['FILEMAN_FILEUPLOAD_PHPERROR'] = "Íåäîñòàòî÷íî ïðàâ äëÿ çàãðóçêè PHP ôàéëà";
-$MESS ['FILEMAN_FILE_UPLOAD_TITLE'] = "Çàãðóçêà ôàéëîâ";
-$MESS ['FILEMAN_UPL_TAB'] = "Çàãðóçêà ôàéëîâ";
-$MESS ['FILEMAN_UPL_TAB_ALT'] = "Çàãðóçêà ôàéëîâ";
+$MESS ['FILEMAN_FILEUPLOAD_NAME'] = "Ð˜Ð¼Ñ Ñ„Ð°Ð¹Ð»Ð°";
+$MESS ['FILEMAN_FILEUPLOAD_FILE'] = "Ð¤Ð°Ð¹Ð» Ð´Ð»Ñ Ð·Ð°Ð³Ñ€ÑƒÐ·ÐºÐ¸";
+$MESS ['FILEMAN_FILEUPLOAD_UPLOAD'] = "Ð—Ð°Ð³Ñ€ÑƒÐ·Ð¸Ñ‚ÑŒ Ñ„Ð°Ð¹Ð»Ñ‹";
+$MESS ['FILEMAN_FILEUPLOAD_ACCESS_DENIED'] = "ÐÐµÐ´Ð¾ÑÑ‚Ð°Ñ‚Ð¾Ñ‡Ð½Ð¾ Ð¿Ñ€Ð°Ð² Ð´Ð»Ñ ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ Ñ„Ð°Ð¹Ð»Ð°";
+$MESS ['FILEMAN_FILEUPLOAD_SIZE_ERROR'] = "ÐŸÑ€ÐµÐ²Ñ‹ÑˆÐµÐ½ Ð¼Ð°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ñ‹Ð¹ Ð´Ð¾Ð¿ÑƒÑÑ‚Ð¸Ð¼Ñ‹Ð¹ Ñ€Ð°Ð·Ð¼ÐµÑ€ Ð´Ð»Ñ Ð·Ð°Ð³Ñ€ÑƒÐ¶Ð°ÐµÐ¼Ð¾Ð³Ð¾ Ñ„Ð°Ð¹Ð»Ð°: \"#FILE_NAME#\"";
+$MESS ['FILEMAN_FILEUPLOAD_FILE_EXISTS1'] = "Ð¤Ð°Ð¹Ð» Ñ Ð¸Ð¼ÐµÐ½ÐµÐ¼";
+$MESS ['FILEMAN_FILEUPLOAD_FILE_EXISTS2'] = "ÑƒÐ¶Ðµ ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÐµÑ‚";
+$MESS ['FILEMAN_FILEUPLOAD_FILE_CREATE_ERROR'] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ð¸ Ñ„Ð°Ð¹Ð»Ð°";
+$MESS ['FILEMAN_FILEUPLOAD_PHPERROR'] = "ÐÐµÐ´Ð¾ÑÑ‚Ð°Ñ‚Ð¾Ñ‡Ð½Ð¾ Ð¿Ñ€Ð°Ð² Ð´Ð»Ñ Ð·Ð°Ð³Ñ€ÑƒÐ·ÐºÐ¸ PHP Ñ„Ð°Ð¹Ð»Ð°";
+$MESS ['FILEMAN_FILE_UPLOAD_TITLE'] = "Ð—Ð°Ð³Ñ€ÑƒÐ·ÐºÐ° Ñ„Ð°Ð¹Ð»Ð¾Ð²";
+$MESS ['FILEMAN_UPL_TAB'] = "Ð—Ð°Ð³Ñ€ÑƒÐ·ÐºÐ° Ñ„Ð°Ð¹Ð»Ð¾Ð²";
+$MESS ['FILEMAN_UPL_TAB_ALT'] = "Ð—Ð°Ð³Ñ€ÑƒÐ·ÐºÐ° Ñ„Ð°Ð¹Ð»Ð¾Ð²";
 ?>

@@ -1,5 +1,5 @@
 <?php
-$MESS["SALE_CASHBOX_REST_DATA_ERROR_CHECK_CHECK"] = "Ïîìèëêà ïðè ïåðåâ³ðö³ ñòàòóñó ÷åêà";
-$MESS["SALE_CASHBOX_REST_HANDLER_CODE"] = "Êîä Rest-îáðîáíèêà";
-$MESS["SALE_CASHBOX_REST_HANDLER_NOT_FOUND"] = "Rest-îáðîáíèê '#HANDLER_CODE#' íå çíàéäåíèé";
-$MESS["SALE_CASHBOX_REST_PRINT_IN_PROGRESS"] = "×åê ó ïðîöåñ³ äðóêó";
+$MESS["SALE_CASHBOX_REST_DATA_ERROR_CHECK_CHECK"] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ° Ð¿Ñ€Ð¸ Ð¿ÐµÑ€ÐµÐ²Ñ–Ñ€Ñ†Ñ– ÑÑ‚Ð°Ñ‚ÑƒÑÑƒ Ñ‡ÐµÐºÐ°";
+$MESS["SALE_CASHBOX_REST_HANDLER_CODE"] = "ÐšÐ¾Ð´ Rest-Ð¾Ð±Ñ€Ð¾Ð±Ð½Ð¸ÐºÐ°";
+$MESS["SALE_CASHBOX_REST_HANDLER_NOT_FOUND"] = "Rest-Ð¾Ð±Ñ€Ð¾Ð±Ð½Ð¸Ðº '#HANDLER_CODE#' Ð½Ðµ Ð·Ð½Ð°Ð¹Ð´ÐµÐ½Ð¸Ð¹";
+$MESS["SALE_CASHBOX_REST_PRINT_IN_PROGRESS"] = "Ð§ÐµÐº Ñƒ Ð¿Ñ€Ð¾Ñ†ÐµÑÑ– Ð´Ñ€ÑƒÐºÑƒ";

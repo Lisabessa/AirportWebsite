@@ -1,8 +1,8 @@
 <?php
-$MESS['LANDING_NOT_FOUND'] = 'Ëåíäèíã íå íàéäåí';
-$MESS['LANDING_TITLE_NOT_FOUND'] = 'Ëåíäèíã íå íàéäåí';
-$MESS['LANDING_BLOCK_NOT_FOUND'] = 'Áëîê íå íàéäåí â ëåíäèíãå';
-$MESS['LANDING_BLOCK_WRONG_SORT'] = 'Âûõîä çà ïðåäåëû ñîðòèðîâêè èëè áëîê íå íàéäåí';
-$MESS['LANDING_BLOCK_ACCESS_DENIED'] = 'Âûïîëíåíèå îïåðàöèè çàïðåùåíî';
-$MESS['LANDING_BLOCK_UNABLE_DEL_INC'] = 'Íåëüçÿ óäàëèòü îáëàñòü øàáëîíà ñàéòà';
-$MESS['LANDING_SITE_ERROR'] = 'Ñàéò íå íàéäåí, èëè äîñòóï ê íåìó çàïðåùåí';
+$MESS['LANDING_NOT_FOUND'] = 'Ð›ÐµÐ½Ð´Ð¸Ð½Ð³ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½';
+$MESS['LANDING_TITLE_NOT_FOUND'] = 'Ð›ÐµÐ½Ð´Ð¸Ð½Ð³ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½';
+$MESS['LANDING_BLOCK_NOT_FOUND'] = 'Ð‘Ð»Ð¾Ðº Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½ Ð² Ð»ÐµÐ½Ð´Ð¸Ð½Ð³Ðµ';
+$MESS['LANDING_BLOCK_WRONG_SORT'] = 'Ð’Ñ‹Ñ…Ð¾Ð´ Ð·Ð° Ð¿Ñ€ÐµÐ´ÐµÐ»Ñ‹ ÑÐ¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²ÐºÐ¸ Ð¸Ð»Ð¸ Ð±Ð»Ð¾Ðº Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½';
+$MESS['LANDING_BLOCK_ACCESS_DENIED'] = 'Ð’Ñ‹Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¸Ðµ Ð¾Ð¿ÐµÑ€Ð°Ñ†Ð¸Ð¸ Ð·Ð°Ð¿Ñ€ÐµÑ‰ÐµÐ½Ð¾';
+$MESS['LANDING_BLOCK_UNABLE_DEL_INC'] = 'ÐÐµÐ»ÑŒÐ·Ñ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ Ð¾Ð±Ð»Ð°ÑÑ‚ÑŒ ÑˆÐ°Ð±Ð»Ð¾Ð½Ð° ÑÐ°Ð¹Ñ‚Ð°';
+$MESS['LANDING_SITE_ERROR'] = 'Ð¡Ð°Ð¹Ñ‚ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½, Ð¸Ð»Ð¸ Ð´Ð¾ÑÑ‚ÑƒÐ¿ Ðº Ð½ÐµÐ¼Ñƒ Ð·Ð°Ð¿Ñ€ÐµÑ‰ÐµÐ½';

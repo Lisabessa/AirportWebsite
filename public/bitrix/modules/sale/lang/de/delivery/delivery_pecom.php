@@ -48,10 +48,10 @@ $MESS["SALE_DH_PECOM_AS_PAYMENT_KASSA"] = " ";
 $MESS["SALE_DH_PECOM_AS_PAYMENT_BANK"] = " ";
 $MESS["SALE_DH_PECOM_FEATURE_ENABLED"] = "  ";
 $MESS["SALE_DH_PECOM_PERIOD_DAYS"] = "Tage";
-$MESS["SALE_DH_PECOM_LOC_INSTALL"] = "PEK-Handler erfordert Übereinstimmung der Standorte des Onlineshops und der von PEK. Die Einstellung dieser Übereinstimmung kann bis zu 60 Minuten dauern.";
+$MESS["SALE_DH_PECOM_LOC_INSTALL"] = "PEK-Handler erfordert Ãœbereinstimmung der Standorte des Onlineshops und der von PEK. Die Einstellung dieser Ãœbereinstimmung kann bis zu 60 Minuten dauern.";
 $MESS["SALE_DH_PECOM_LOC_INSTALL_START"] = "Starten";
-$MESS["SALE_DH_PECOM_PRELIMINARY_REQUEST"] = "Benachrichtigung über elektronische Auslieferung";
+$MESS["SALE_DH_PECOM_PRELIMINARY_REQUEST"] = "Benachrichtigung Ã¼ber elektronische Auslieferung";
 $MESS["SALE_DH_PECOM_PRELIMINARY_REQUEST_SENT"] = "gesendet";
-$MESS["SALE_DH_PECOM_PRELIMINARY_SEND_REQUEST"] = "Benachrichtigung über Auslieferung senden";
+$MESS["SALE_DH_PECOM_PRELIMINARY_SEND_REQUEST"] = "Benachrichtigung Ã¼ber Auslieferung senden";
 $MESS["SALE_DH_PECOM_PRELIMINARY_REQUEST_NOT_SENT"] = "nicht gesendet";
 ?>

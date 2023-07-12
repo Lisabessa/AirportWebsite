@@ -1,9 +1,9 @@
 <?php
-$MESS['INTEGRATION_PRESET_PROVIDER_ERROR_BOT_REQUIRED_FIELD_EMPTY'] = 'Ïîæàëóéñòà, çàïîëíèòå îáÿçàòåëüíûå ïîëÿ äëÿ ñîçäàíèÿ áîòà';
-$MESS['INTEGRATION_PRESET_PROVIDER_ERROR_BOT_CREATE'] = 'Îøèáêà ñîçäàíèÿ áîòà';
-$MESS['INTEGRATION_PRESET_PROVIDER_TITLE_PREFIX'] = 'Èíòåãðàöèÿ ¹#ID#';
-$MESS["INTEGRATION_PRESET_PROVIDER_ERROR_ACCESS_PLACEMENT"] = "Íåò äîñòàòî÷íûõ ïðàâ äëÿ èñïîëüçîâàíèÿ âèäæåòà #PLACEMENT_CODE#";
-$MESS['INTEGRATION_PRESET_PROVIDER_ERROR_ACCESS_DENIED'] = 'Îøèáêà äîñòóïà';
-$MESS['INTEGRATION_PRESET_PROVIDER_ERROR_DELETE_WEBHOOK'] = 'Îøèáêà óäàëåíèÿ âåáõóêà';
-$MESS["INTEGRATION_PRESET_PROVIDER_ERROR_EMPTY_SCOPE"] = "Íå óêàçàíû ïðàâà äîñòóïà.";
-$MESS["INTEGRATION_PRESET_PROVIDER_ERROR_INCORRECT_URL"] = "Íåêîððåêòíàÿ ññûëêà íà ïðèëîæåíèå.";
+$MESS['INTEGRATION_PRESET_PROVIDER_ERROR_BOT_REQUIRED_FIELD_EMPTY'] = 'ÐŸÐ¾Ð¶Ð°Ð»ÑƒÐ¹ÑÑ‚Ð°, Ð·Ð°Ð¿Ð¾Ð»Ð½Ð¸Ñ‚Ðµ Ð¾Ð±ÑÐ·Ð°Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ðµ Ð¿Ð¾Ð»Ñ Ð´Ð»Ñ ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ Ð±Ð¾Ñ‚Ð°';
+$MESS['INTEGRATION_PRESET_PROVIDER_ERROR_BOT_CREATE'] = 'ÐžÑˆÐ¸Ð±ÐºÐ° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ Ð±Ð¾Ñ‚Ð°';
+$MESS['INTEGRATION_PRESET_PROVIDER_TITLE_PREFIX'] = 'Ð˜Ð½Ñ‚ÐµÐ³Ñ€Ð°Ñ†Ð¸Ñ â„–#ID#';
+$MESS["INTEGRATION_PRESET_PROVIDER_ERROR_ACCESS_PLACEMENT"] = "ÐÐµÑ‚ Ð´Ð¾ÑÑ‚Ð°Ñ‚Ð¾Ñ‡Ð½Ñ‹Ñ… Ð¿Ñ€Ð°Ð² Ð´Ð»Ñ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð¸Ñ Ð²Ð¸Ð´Ð¶ÐµÑ‚Ð° #PLACEMENT_CODE#";
+$MESS['INTEGRATION_PRESET_PROVIDER_ERROR_ACCESS_DENIED'] = 'ÐžÑˆÐ¸Ð±ÐºÐ° Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð°';
+$MESS['INTEGRATION_PRESET_PROVIDER_ERROR_DELETE_WEBHOOK'] = 'ÐžÑˆÐ¸Ð±ÐºÐ° ÑƒÐ´Ð°Ð»ÐµÐ½Ð¸Ñ Ð²ÐµÐ±Ñ…ÑƒÐºÐ°';
+$MESS["INTEGRATION_PRESET_PROVIDER_ERROR_EMPTY_SCOPE"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ñ‹ Ð¿Ñ€Ð°Ð²Ð° Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð°.";
+$MESS["INTEGRATION_PRESET_PROVIDER_ERROR_INCORRECT_URL"] = "ÐÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ð°Ñ ÑÑÑ‹Ð»ÐºÐ° Ð½Ð° Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ.";

@@ -1,2 +1,2 @@
 <?php
-$MESS['REPORT_DROP_DOWN_DEFAULT_VALUE_TITLE'] = 'Не выбрано';
+$MESS['REPORT_DROP_DOWN_DEFAULT_VALUE_TITLE'] = 'РќРµ РІС‹Р±СЂР°РЅРѕ';

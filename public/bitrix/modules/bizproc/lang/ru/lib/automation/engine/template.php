@@ -1,6 +1,6 @@
 <?php
-$MESS["BIZPROC_AUTOMATION_TEMPLATE_NAME"] = "Øàáëîí àâòîìàòèçàöèè (#STATUS#)";
-$MESS["BIZPROC_AUTOMATION_TEMPLATE_SCRIPT_NAME"] = "Íîâûé ñöåíàðèé";
-$MESS["BIZPROC_AUTOMATION_PARALLEL_ACTIVITY"] = "Ïàðàëëåëüíîå âûïîëíåíèå";
-$MESS["BIZPROC_AUTOMATION_DELAY_ACTIVITY"] = "Ïàóçà";
+$MESS["BIZPROC_AUTOMATION_TEMPLATE_NAME"] = "Ð¨Ð°Ð±Ð»Ð¾Ð½ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ð·Ð°Ñ†Ð¸Ð¸ (#STATUS#)";
+$MESS["BIZPROC_AUTOMATION_TEMPLATE_SCRIPT_NAME"] = "ÐÐ¾Ð²Ñ‹Ð¹ ÑÑ†ÐµÐ½Ð°Ñ€Ð¸Ð¹";
+$MESS["BIZPROC_AUTOMATION_PARALLEL_ACTIVITY"] = "ÐŸÐ°Ñ€Ð°Ð»Ð»ÐµÐ»ÑŒÐ½Ð¾Ðµ Ð²Ñ‹Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¸Ðµ";
+$MESS["BIZPROC_AUTOMATION_DELAY_ACTIVITY"] = "ÐŸÐ°ÑƒÐ·Ð°";
 ?>

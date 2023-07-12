@@ -1,4 +1,4 @@
 <?
-$MESS["LANDING_SOURCE_ACTION_TITLE_LINK"] = "Ññûëêà";
-$MESS["LANDING_SOURCE_ACTION_TITLE_DETAIL"] = "Äåòàëüíàÿ ñòðàíèöà";
+$MESS["LANDING_SOURCE_ACTION_TITLE_LINK"] = "Ð¡ÑÑ‹Ð»ÐºÐ°";
+$MESS["LANDING_SOURCE_ACTION_TITLE_DETAIL"] = "Ð”ÐµÑ‚Ð°Ð»ÑŒÐ½Ð°Ñ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ð°";
 ?>

@@ -1,6 +1,6 @@
 <?
-$MESS["DELETE_QUEUE_ENTITY_ID_FIELD"] = "Èäåíòèôèêàòîð";
-$MESS["DELETE_QUEUE_ENTITY_TIMESTAMP_X_FIELD"] = "Âðåìÿ óäàëåíèÿ";
-$MESS["DELETE_QUEUE_ENTITY_BUCKET_ID_FIELD"] = "Èäåíòèôèêàòîð õðàíèëèùà";
-$MESS["DELETE_QUEUE_ENTITY_FILE_PATH_FIELD"] = "Ïóòü ê ôàéëó";
+$MESS["DELETE_QUEUE_ENTITY_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€";
+$MESS["DELETE_QUEUE_ENTITY_TIMESTAMP_X_FIELD"] = "Ð’Ñ€ÐµÐ¼Ñ ÑƒÐ´Ð°Ð»ÐµÐ½Ð¸Ñ";
+$MESS["DELETE_QUEUE_ENTITY_BUCKET_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ñ…Ñ€Ð°Ð½Ð¸Ð»Ð¸Ñ‰Ð°";
+$MESS["DELETE_QUEUE_ENTITY_FILE_PATH_FIELD"] = "ÐŸÑƒÑ‚ÑŒ Ðº Ñ„Ð°Ð¹Ð»Ñƒ";
 ?>

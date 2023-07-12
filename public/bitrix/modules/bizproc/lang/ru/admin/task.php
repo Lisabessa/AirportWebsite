@@ -1,14 +1,14 @@
 <?
-$MESS["BPAT_BACK"] = "Âåðíóòüñÿ";
-$MESS["BPAT_GOTO_DOC"] = "Ïåðåéòè ê äîêóìåíòó";
-$MESS["BPAT_TAB"] = "Çàäàíèå";
-$MESS["BPAT_TAB_TITLE"] = "Çàäàíèå";
-$MESS["BPAT_TITLE"] = "Çàäàíèå #ID#";
-$MESS["BPAT_DESCR"] = "Îïèñàíèå çàäàíèÿ";
-$MESS["BPAT_NAME"] = "Íàçâàíèå çàäàíèÿ";
-$MESS["BPAT_NO_TASK"] = "Çàäàíèå íå íàéäåíî";
-$MESS["BPAT_USER"] = "Ïîëüçîâàòåëü";
-$MESS["BPAT_USER_NOT_FOUND"] = "(Íå íàéäåí)";
-$MESS["BPAT_NO_STATE"] = "Áèçíåñ-ïðîöåññ íå íàéäåí.";
-$MESS['BPAT_ACTION_DELEGATE'] = "Äåëåãèðîâàòü";
+$MESS["BPAT_BACK"] = "Ð’ÐµÑ€Ð½ÑƒÑ‚ÑŒÑÑ";
+$MESS["BPAT_GOTO_DOC"] = "ÐŸÐµÑ€ÐµÐ¹Ñ‚Ð¸ Ðº Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ñƒ";
+$MESS["BPAT_TAB"] = "Ð—Ð°Ð´Ð°Ð½Ð¸Ðµ";
+$MESS["BPAT_TAB_TITLE"] = "Ð—Ð°Ð´Ð°Ð½Ð¸Ðµ";
+$MESS["BPAT_TITLE"] = "Ð—Ð°Ð´Ð°Ð½Ð¸Ðµ #ID#";
+$MESS["BPAT_DESCR"] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ Ð·Ð°Ð´Ð°Ð½Ð¸Ñ";
+$MESS["BPAT_NAME"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð·Ð°Ð´Ð°Ð½Ð¸Ñ";
+$MESS["BPAT_NO_TASK"] = "Ð—Ð°Ð´Ð°Ð½Ð¸Ðµ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾";
+$MESS["BPAT_USER"] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ";
+$MESS["BPAT_USER_NOT_FOUND"] = "(ÐÐµ Ð½Ð°Ð¹Ð´ÐµÐ½)";
+$MESS["BPAT_NO_STATE"] = "Ð‘Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½.";
+$MESS['BPAT_ACTION_DELEGATE'] = "Ð”ÐµÐ»ÐµÐ³Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ";
 ?>

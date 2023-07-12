@@ -1,9 +1,9 @@
 <?
-$MESS ['RR_GENERAL_ERR_NAME'] = "Ïîëå &quot;Íàèìåíîâàíèå&quot; íå ìîæåò áûòü ïóñòûì.";
-$MESS ['RR_GENERAL_ERR_ACTIVE'] = "Îøèáêà â óêàçàíèè ôëàãà &quot;Àêòèâíîñòü&quot;";
-$MESS ['RR_GENERAL_ERR_ENTITY_TYPE_ID'] = "Óêàçàííûé îöåíèâàåìûé îáúåêò íå ñóùåñòâóåò.";
-$MESS ['RR_GENERAL_ERR_ACTIVATE'] = "Îøèáêà â óêàçàíèè ôëàãà &quot;Ïðèìåíèòü äåéñòâèå&quot;";
-$MESS ['RR_GENERAL_ERR_DEACTIVATE'] = "Îøèáêà â óêàçàíèè ôëàãà &quot;Îòìåíèòü äåéñòâèå&quot;";
-$MESS ['RR_GENERAL_ERR_CONDITION_NAME'] = "Îøèáêà â óêàçàíèè óñëîâèÿ";
-$MESS ['RR_GENERAL_ERR_ACTION_NAME'] = "Îøèáêà â óêàçàíèè äåéñòâèÿ";
+$MESS ['RR_GENERAL_ERR_NAME'] = "ÐŸÐ¾Ð»Ðµ &quot;ÐÐ°Ð¸Ð¼ÐµÐ½Ð¾Ð²Ð°Ð½Ð¸Ðµ&quot; Ð½Ðµ Ð¼Ð¾Ð¶ÐµÑ‚ Ð±Ñ‹Ñ‚ÑŒ Ð¿ÑƒÑÑ‚Ñ‹Ð¼.";
+$MESS ['RR_GENERAL_ERR_ACTIVE'] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð² ÑƒÐºÐ°Ð·Ð°Ð½Ð¸Ð¸ Ñ„Ð»Ð°Ð³Ð° &quot;ÐÐºÑ‚Ð¸Ð²Ð½Ð¾ÑÑ‚ÑŒ&quot;";
+$MESS ['RR_GENERAL_ERR_ENTITY_TYPE_ID'] = "Ð£ÐºÐ°Ð·Ð°Ð½Ð½Ñ‹Ð¹ Ð¾Ñ†ÐµÐ½Ð¸Ð²Ð°ÐµÐ¼Ñ‹Ð¹ Ð¾Ð±ÑŠÐµÐºÑ‚ Ð½Ðµ ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÐµÑ‚.";
+$MESS ['RR_GENERAL_ERR_ACTIVATE'] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð² ÑƒÐºÐ°Ð·Ð°Ð½Ð¸Ð¸ Ñ„Ð»Ð°Ð³Ð° &quot;ÐŸÑ€Ð¸Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ðµ&quot;";
+$MESS ['RR_GENERAL_ERR_DEACTIVATE'] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð² ÑƒÐºÐ°Ð·Ð°Ð½Ð¸Ð¸ Ñ„Ð»Ð°Ð³Ð° &quot;ÐžÑ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ðµ&quot;";
+$MESS ['RR_GENERAL_ERR_CONDITION_NAME'] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð² ÑƒÐºÐ°Ð·Ð°Ð½Ð¸Ð¸ ÑƒÑÐ»Ð¾Ð²Ð¸Ñ";
+$MESS ['RR_GENERAL_ERR_ACTION_NAME'] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð² ÑƒÐºÐ°Ð·Ð°Ð½Ð¸Ð¸ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ";
 ?>

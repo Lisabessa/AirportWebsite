@@ -1,5 +1,5 @@
 <?
-$MESS["TH_DATE"] = "Äàòà";
-$MESS["TH_EMPLOYER"] = "Çàðïëàòà";
-$MESS["TH_POSITION"] = "Äîëæíîñòü";
+$MESS["TH_DATE"] = "Ð”Ð°Ñ‚Ð°";
+$MESS["TH_EMPLOYER"] = "Ð—Ð°Ñ€Ð¿Ð»Ð°Ñ‚Ð°";
+$MESS["TH_POSITION"] = "Ð”Ð¾Ð»Ð¶Ð½Ð¾ÑÑ‚ÑŒ";
 ?>

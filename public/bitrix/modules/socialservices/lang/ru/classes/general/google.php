@@ -1,15 +1,15 @@
 <?
-$MESS["socserv_google_client_id"] = "Идентификатор (Client ID):";
-$MESS["socserv_google_client_secret"] = "Секретный код (Client secret):";
-$MESS["socserv_google_note_2"] = "Необходимо <a href=\"https://console.developers.google.com/\">создать приложение</a> в консоли Google.<br>
-В поле \"Authorized redirect URIs\" укажите адрес: <a href=\"#URL#\">#URL#</a>
+$MESS["socserv_google_client_id"] = "РРґРµРЅС‚РёС„РёРєР°С‚РѕСЂ (Client ID):";
+$MESS["socserv_google_client_secret"] = "РЎРµРєСЂРµС‚РЅС‹Р№ РєРѕРґ (Client secret):";
+$MESS["socserv_google_note_2"] = "РќРµРѕР±С…РѕРґРёРјРѕ <a href=\"https://console.developers.google.com/\">СЃРѕР·РґР°С‚СЊ РїСЂРёР»РѕР¶РµРЅРёРµ</a> РІ РєРѕРЅСЃРѕР»Рё Google.<br>
+Р’ РїРѕР»Рµ \"Authorized redirect URIs\" СѓРєР°Р¶РёС‚Рµ Р°РґСЂРµСЃ: <a href=\"#URL#\">#URL#</a>
 <ul style=\"text-align: left;\">
-	<li>Для работы синхронизации Календарей с Google.Calendar в настройках приложения нужно разрешить доступ к Calendar API и CalDAV API.</li>
-	<li>Для интеграции с Битрикс24.Диск в настройках приложения нужно разрешить доступ к Drive API.</li>
-	<li>Для авторизации почтовых ящиков в поле \"Authorized redirect URIs\" дополнительно укажите адрес: <a href=\"#MAIL_URL#\">#MAIL_URL#</a>,<br>
-		и разрешите доступ к Gmail API в настройках приложения.
+	<li>Р”Р»СЏ СЂР°Р±РѕС‚С‹ СЃРёРЅС…СЂРѕРЅРёР·Р°С†РёРё РљР°Р»РµРЅРґР°СЂРµР№ СЃ Google.Calendar РІ РЅР°СЃС‚СЂРѕР№РєР°С… РїСЂРёР»РѕР¶РµРЅРёСЏ РЅСѓР¶РЅРѕ СЂР°Р·СЂРµС€РёС‚СЊ РґРѕСЃС‚СѓРї Рє Calendar API Рё CalDAV API.</li>
+	<li>Р”Р»СЏ РёРЅС‚РµРіСЂР°С†РёРё СЃ Р‘РёС‚СЂРёРєСЃ24.Р”РёСЃРє РІ РЅР°СЃС‚СЂРѕР№РєР°С… РїСЂРёР»РѕР¶РµРЅРёСЏ РЅСѓР¶РЅРѕ СЂР°Р·СЂРµС€РёС‚СЊ РґРѕСЃС‚СѓРї Рє Drive API.</li>
+	<li>Р”Р»СЏ Р°РІС‚РѕСЂРёР·Р°С†РёРё РїРѕС‡С‚РѕРІС‹С… СЏС‰РёРєРѕРІ РІ РїРѕР»Рµ \"Authorized redirect URIs\" РґРѕРїРѕР»РЅРёС‚РµР»СЊРЅРѕ СѓРєР°Р¶РёС‚Рµ Р°РґСЂРµСЃ: <a href=\"#MAIL_URL#\">#MAIL_URL#</a>,<br>
+		Рё СЂР°Р·СЂРµС€РёС‚Рµ РґРѕСЃС‚СѓРї Рє Gmail API РІ РЅР°СЃС‚СЂРѕР№РєР°С… РїСЂРёР»РѕР¶РµРЅРёСЏ.
 	</li>
 </ul>";
-$MESS["socserv_googleplus_note"] = "Используются параметры приложения Google. В настройках приложения необходимо разрешить доступ к API Google+.";
-$MESS["socserv_google_form_note"] = "Используйте вашу учетную запись Google для входа на сайт.";
-$MESS["socserv_google_form_note_intranet"] = "Войти, используя аккаунт Google.";
+$MESS["socserv_googleplus_note"] = "РСЃРїРѕР»СЊР·СѓСЋС‚СЃСЏ РїР°СЂР°РјРµС‚СЂС‹ РїСЂРёР»РѕР¶РµРЅРёСЏ Google. Р’ РЅР°СЃС‚СЂРѕР№РєР°С… РїСЂРёР»РѕР¶РµРЅРёСЏ РЅРµРѕР±С…РѕРґРёРјРѕ СЂР°Р·СЂРµС€РёС‚СЊ РґРѕСЃС‚СѓРї Рє API Google+.";
+$MESS["socserv_google_form_note"] = "РСЃРїРѕР»СЊР·СѓР№С‚Рµ РІР°С€Сѓ СѓС‡РµС‚РЅСѓСЋ Р·Р°РїРёСЃСЊ Google РґР»СЏ РІС…РѕРґР° РЅР° СЃР°Р№С‚.";
+$MESS["socserv_google_form_note_intranet"] = "Р’РѕР№С‚Рё, РёСЃРїРѕР»СЊР·СѓСЏ Р°РєРєР°СѓРЅС‚ Google.";

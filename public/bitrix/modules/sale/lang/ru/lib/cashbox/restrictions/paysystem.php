@@ -1,4 +1,4 @@
 <?php
-$MESS['SALE_CASHBOX_RSTR_BY_PS'] = 'Ïëàòåæíûå ñèñòåìû';
-$MESS['SALE_CASHBOX_RSTR_BY_PS_TITLE'] = 'ïî ïëàòåæíûì ñèñòåìàì';
-$MESS['SALE_CASHBOX_RSTR_BY_PS_DESC'] = 'ïî ïëàòåæíûì ñèñòåìàì';
+$MESS['SALE_CASHBOX_RSTR_BY_PS'] = 'ÐŸÐ»Ð°Ñ‚ÐµÐ¶Ð½Ñ‹Ðµ ÑÐ¸ÑÑ‚ÐµÐ¼Ñ‹';
+$MESS['SALE_CASHBOX_RSTR_BY_PS_TITLE'] = 'Ð¿Ð¾ Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ð½Ñ‹Ð¼ ÑÐ¸ÑÑ‚ÐµÐ¼Ð°Ð¼';
+$MESS['SALE_CASHBOX_RSTR_BY_PS_DESC'] = 'Ð¿Ð¾ Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ð½Ñ‹Ð¼ ÑÐ¸ÑÑ‚ÐµÐ¼Ð°Ð¼';

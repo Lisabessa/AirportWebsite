@@ -1,4 +1,4 @@
 <?
-$MESS["SENDER_INTEGRATION_CALL_LIMITER_UNIT_NAME"] = "çâîíêîâ åäèíîâðåìåííî";
-$MESS["SENDER_INTEGRATION_WEBHOOK_MESSAGE_CONFIG_URI"] = "Àäðåñ ñåðâåðà";
+$MESS["SENDER_INTEGRATION_CALL_LIMITER_UNIT_NAME"] = "Ð·Ð²Ð¾Ð½ÐºÐ¾Ð² ÐµÐ´Ð¸Ð½Ð¾Ð²Ñ€ÐµÐ¼ÐµÐ½Ð½Ð¾";
+$MESS["SENDER_INTEGRATION_WEBHOOK_MESSAGE_CONFIG_URI"] = "ÐÐ´Ñ€ÐµÑ ÑÐµÑ€Ð²ÐµÑ€Ð°";
 ?>

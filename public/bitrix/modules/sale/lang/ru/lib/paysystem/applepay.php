@@ -1,9 +1,9 @@
 <?php
-$MESS["SALE_APPLE_PAY_ORDER_SUBTITLE"] = "Çàêàç #ORDER_ID# íà ñóììó #SUM#";
-$MESS["SALE_APPLE_PAY_LINE_ITEM_ORDER"] = "Çàêàç #ORDER_ID#";
-$MESS["SALE_APPLE_PAY_LINE_ITEM_TAX"] = "ÍÄÑ";
-$MESS["SALE_APPLE_PAY_LINE_ITEM_SHIPPING"] = "Äîñòàâêà";
-$MESS["SALE_APPLE_PAY_LINE_ITEM_DISCOUNT"] = "Ñêèäêà";
-$MESS["SALE_APPLE_PAY_LINE_ITEM_TOTAL"] = "Èòîã";
-$MESS["SALE_APPLE_PAY_HTTP_STATUS_CODE"] = "Îøèáêà ïîëó÷åíèÿ îòâåòà. Ñòàòóñ: #HTTP_STATUS#";
-$MESS["SALE_APPLE_PAY_HTTP_STATUS_MESSAGE"] = "Îøèáêà ïîëó÷åíèÿ îòâåòà. Ñòàòóñ: #HTTP_STATUS#, ñîîáùåíèå: #STATUS_MESSAGE#";
+$MESS["SALE_APPLE_PAY_ORDER_SUBTITLE"] = "Ð—Ð°ÐºÐ°Ð· #ORDER_ID# Ð½Ð° ÑÑƒÐ¼Ð¼Ñƒ #SUM#";
+$MESS["SALE_APPLE_PAY_LINE_ITEM_ORDER"] = "Ð—Ð°ÐºÐ°Ð· #ORDER_ID#";
+$MESS["SALE_APPLE_PAY_LINE_ITEM_TAX"] = "ÐÐ”Ð¡";
+$MESS["SALE_APPLE_PAY_LINE_ITEM_SHIPPING"] = "Ð”Ð¾ÑÑ‚Ð°Ð²ÐºÐ°";
+$MESS["SALE_APPLE_PAY_LINE_ITEM_DISCOUNT"] = "Ð¡ÐºÐ¸Ð´ÐºÐ°";
+$MESS["SALE_APPLE_PAY_LINE_ITEM_TOTAL"] = "Ð˜Ñ‚Ð¾Ð³";
+$MESS["SALE_APPLE_PAY_HTTP_STATUS_CODE"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ð¾Ð»ÑƒÑ‡ÐµÐ½Ð¸Ñ Ð¾Ñ‚Ð²ÐµÑ‚Ð°. Ð¡Ñ‚Ð°Ñ‚ÑƒÑ: #HTTP_STATUS#";
+$MESS["SALE_APPLE_PAY_HTTP_STATUS_MESSAGE"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ð¾Ð»ÑƒÑ‡ÐµÐ½Ð¸Ñ Ð¾Ñ‚Ð²ÐµÑ‚Ð°. Ð¡Ñ‚Ð°Ñ‚ÑƒÑ: #HTTP_STATUS#, ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ: #STATUS_MESSAGE#";

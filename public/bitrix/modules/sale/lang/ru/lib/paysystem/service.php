@@ -1,12 +1,12 @@
 <?php
-$MESS['SALE_PS_SERVICE_ORDER_ID_ERROR'] = 'Íåïðàâèëüíûé ORDER ID';
-$MESS['SALE_PS_SERVICE_PAYMENT_ID_ERROR'] = 'Íåïðàâèëüíûé PAYMENT ID';
-$MESS['SALE_PS_SERVICE_ORDER_ERROR'] = 'Çàêàç ¹#ORDER_ID# íå ñóùåñòâóåò';
-$MESS['SALE_PS_SERVICE_PAYMENT_ERROR_EMPTY'] = 'Íå óêàçàíà ÷àñòè÷íàÿ îïëàòà';
-$MESS['SALE_PS_SERVICE_ORDER_CANCELED'] = 'Çàêàç ¹#ORDER_ID# îòìåíåí';
-$MESS['SALE_PS_SERVICE_PAYMENT_NOT_PAID'] = 'Íåâîçìîæíî âûïîëíèòü âîçâðàò äëÿ íåîïëà÷åííîé îïëàòû';
-$MESS['SALE_PS_SERVICE_STATUS_ERROR'] = 'Îøèáêà ïðè çàïðîñå ñòàòóñà ãîòîâíîñòè âûïèñêè ïî ñ÷åòó';
-$MESS['SALE_PS_SERVICE_REQUEST_ERROR'] = 'Îøèáêà ïðè ïîëó÷åíèè âûïèñêè';
-$MESS["SALE_PS_SERVICE_ERROR_CONNECT_PS"] = "Îøèáêà ïîäêëþ÷åíèÿ ê ïëàòåæíîé ñèñòåìå";
-$MESS["SALE_PS_SERVICE_ERROR_HOLD_IS_NOT_SUPPORTED"] = "Îáðàáîò÷èê íå ïîääåðæèâàåò ðåæèì õîëäèðîâàíèÿ";
-$MESS["SALE_PS_SERVICE_ERROR_PARTIAL_CONFIRM_IS_NOT_SUPPORTED"] = "Îáðàáîò÷èê íå ïîääåðæèâàåò ðåæèì õîëäèðîâàíèÿ ñ ÷àñòè÷íûì ïîäòâåðæäåíèåì ïëàòåæà";
+$MESS['SALE_PS_SERVICE_ORDER_ID_ERROR'] = 'ÐÐµÐ¿Ñ€Ð°Ð²Ð¸Ð»ÑŒÐ½Ñ‹Ð¹ ORDER ID';
+$MESS['SALE_PS_SERVICE_PAYMENT_ID_ERROR'] = 'ÐÐµÐ¿Ñ€Ð°Ð²Ð¸Ð»ÑŒÐ½Ñ‹Ð¹ PAYMENT ID';
+$MESS['SALE_PS_SERVICE_ORDER_ERROR'] = 'Ð—Ð°ÐºÐ°Ð· â„–#ORDER_ID# Ð½Ðµ ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÐµÑ‚';
+$MESS['SALE_PS_SERVICE_PAYMENT_ERROR_EMPTY'] = 'ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð° Ñ‡Ð°ÑÑ‚Ð¸Ñ‡Ð½Ð°Ñ Ð¾Ð¿Ð»Ð°Ñ‚Ð°';
+$MESS['SALE_PS_SERVICE_ORDER_CANCELED'] = 'Ð—Ð°ÐºÐ°Ð· â„–#ORDER_ID# Ð¾Ñ‚Ð¼ÐµÐ½ÐµÐ½';
+$MESS['SALE_PS_SERVICE_PAYMENT_NOT_PAID'] = 'ÐÐµÐ²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ Ð²Ñ‹Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÑŒ Ð²Ð¾Ð·Ð²Ñ€Ð°Ñ‚ Ð´Ð»Ñ Ð½ÐµÐ¾Ð¿Ð»Ð°Ñ‡ÐµÐ½Ð½Ð¾Ð¹ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹';
+$MESS['SALE_PS_SERVICE_STATUS_ERROR'] = 'ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ Ð·Ð°Ð¿Ñ€Ð¾ÑÐµ ÑÑ‚Ð°Ñ‚ÑƒÑÐ° Ð³Ð¾Ñ‚Ð¾Ð²Ð½Ð¾ÑÑ‚Ð¸ Ð²Ñ‹Ð¿Ð¸ÑÐºÐ¸ Ð¿Ð¾ ÑÑ‡ÐµÑ‚Ñƒ';
+$MESS['SALE_PS_SERVICE_REQUEST_ERROR'] = 'ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ Ð¿Ð¾Ð»ÑƒÑ‡ÐµÐ½Ð¸Ð¸ Ð²Ñ‹Ð¿Ð¸ÑÐºÐ¸';
+$MESS["SALE_PS_SERVICE_ERROR_CONNECT_PS"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ð¾Ð´ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¸Ñ Ðº Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ð½Ð¾Ð¹ ÑÐ¸ÑÑ‚ÐµÐ¼Ðµ";
+$MESS["SALE_PS_SERVICE_ERROR_HOLD_IS_NOT_SUPPORTED"] = "ÐžÐ±Ñ€Ð°Ð±Ð¾Ñ‚Ñ‡Ð¸Ðº Ð½Ðµ Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶Ð¸Ð²Ð°ÐµÑ‚ Ñ€ÐµÐ¶Ð¸Ð¼ Ñ…Ð¾Ð»Ð´Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ";
+$MESS["SALE_PS_SERVICE_ERROR_PARTIAL_CONFIRM_IS_NOT_SUPPORTED"] = "ÐžÐ±Ñ€Ð°Ð±Ð¾Ñ‚Ñ‡Ð¸Ðº Ð½Ðµ Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶Ð¸Ð²Ð°ÐµÑ‚ Ñ€ÐµÐ¶Ð¸Ð¼ Ñ…Ð¾Ð»Ð´Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ Ñ Ñ‡Ð°ÑÑ‚Ð¸Ñ‡Ð½Ñ‹Ð¼ Ð¿Ð¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð¸ÐµÐ¼ Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ð°";

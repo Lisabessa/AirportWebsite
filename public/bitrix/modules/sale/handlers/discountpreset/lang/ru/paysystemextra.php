@@ -1,4 +1,4 @@
 <?php
-$MESS["SALE_HANDLERS_DISCOUNTPRESET_PAYSYSTEMEXTRA_NAME"] = "Íàöåíêà íà çàêàç, çàâèñÿùàÿ îò ïëàòåæíîé ñèñòåìû";
-$MESS["SALE_HANDLERS_DISCOUNTPRESET_PAYSYSTEMEXTRA_LABEL_DISCOUNT_VALUE"] = "Íàöåíêà íà çàêàç";
+$MESS["SALE_HANDLERS_DISCOUNTPRESET_PAYSYSTEMEXTRA_NAME"] = "ÐÐ°Ñ†ÐµÐ½ÐºÐ° Ð½Ð° Ð·Ð°ÐºÐ°Ð·, Ð·Ð°Ð²Ð¸ÑÑÑ‰Ð°Ñ Ð¾Ñ‚ Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ð½Ð¾Ð¹ ÑÐ¸ÑÑ‚ÐµÐ¼Ñ‹";
+$MESS["SALE_HANDLERS_DISCOUNTPRESET_PAYSYSTEMEXTRA_LABEL_DISCOUNT_VALUE"] = "ÐÐ°Ñ†ÐµÐ½ÐºÐ° Ð½Ð° Ð·Ð°ÐºÐ°Ð·";
 ?>

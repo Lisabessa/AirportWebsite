@@ -1,8 +1,8 @@
 <?
-$MESS ['FORUM_MAIL_COLUMN_WG'] = "Ðàáî÷àÿ ãðóïïà";
-$MESS ['FORUM_MAIL_COLUMN_EMAIL'] = "Îáðàòíûé E-Mail";
-$MESS ['FORUM_MAIL_COLUMN_FILTER'] = "E-Mail äëÿ ôèëüòðà";
-$MESS ['FORUM_MAIL_COLUMN_SHOW_AUTHOR'] = "Ïóáëèêîâàòü E-Mail àâòîðà";
-$MESS ['FORUM_MAIL_COLUMN_USE_TOPIC'] = "Ãðóïïèðîâàòü ïî òåìå";
-$MESS ['FORUM_MAIL_COLUMN_SUF'] = "Ïîäñòðîêà òåìû";
+$MESS ['FORUM_MAIL_COLUMN_WG'] = "Ð Ð°Ð±Ð¾Ñ‡Ð°Ñ Ð³Ñ€ÑƒÐ¿Ð¿Ð°";
+$MESS ['FORUM_MAIL_COLUMN_EMAIL'] = "ÐžÐ±Ñ€Ð°Ñ‚Ð½Ñ‹Ð¹ E-Mail";
+$MESS ['FORUM_MAIL_COLUMN_FILTER'] = "E-Mail Ð´Ð»Ñ Ñ„Ð¸Ð»ÑŒÑ‚Ñ€Ð°";
+$MESS ['FORUM_MAIL_COLUMN_SHOW_AUTHOR'] = "ÐŸÑƒÐ±Ð»Ð¸ÐºÐ¾Ð²Ð°Ñ‚ÑŒ E-Mail Ð°Ð²Ñ‚Ð¾Ñ€Ð°";
+$MESS ['FORUM_MAIL_COLUMN_USE_TOPIC'] = "Ð“Ñ€ÑƒÐ¿Ð¿Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ð¿Ð¾ Ñ‚ÐµÐ¼Ðµ";
+$MESS ['FORUM_MAIL_COLUMN_SUF'] = "ÐŸÐ¾Ð´ÑÑ‚Ñ€Ð¾ÐºÐ° Ñ‚ÐµÐ¼Ñ‹";
 ?>

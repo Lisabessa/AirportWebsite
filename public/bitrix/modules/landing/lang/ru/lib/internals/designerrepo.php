@@ -1,10 +1,10 @@
 <?php
-$MESS['LANDING_TABLE_FIELD_DB_TITLE'] = 'Íàçâàíèå';
-$MESS['LANDING_TABLE_FIELD_DB_XML_ID'] = 'Âíåøíèé êîä';
-$MESS['LANDING_TABLE_FIELD_DB_SORT'] = 'Ñîðòèðîâêà';
-$MESS['LANDING_TABLE_FIELD_DB_HTML'] = 'HTML-êîä';
-$MESS['LANDING_TABLE_FIELD_DB_NODE_MANIFEST'] = 'Ìàíèôåñò';
-$MESS['LANDING_TABLE_FIELD_CREATED_BY_ID'] = 'Èäåíòèôèêàòîð ñîçäàâøåãî ïîëüçîâàòåëÿ';
-$MESS['LANDING_TABLE_FIELD_MODIFIED_BY_ID'] = 'Èäåíòèôèêàòîð èçìåíèâøåãî ïîëüçîâàòåëÿ';
-$MESS['LANDING_TABLE_FIELD_DATE_CREATE'] = 'Äàòà ñîçäàíèÿ';
-$MESS['LANDING_TABLE_FIELD_DATE_MODIFY'] = 'Äàòà èçìåíåíèÿ';
+$MESS['LANDING_TABLE_FIELD_DB_TITLE'] = 'ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ';
+$MESS['LANDING_TABLE_FIELD_DB_XML_ID'] = 'Ð’Ð½ÐµÑˆÐ½Ð¸Ð¹ ÐºÐ¾Ð´';
+$MESS['LANDING_TABLE_FIELD_DB_SORT'] = 'Ð¡Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²ÐºÐ°';
+$MESS['LANDING_TABLE_FIELD_DB_HTML'] = 'HTML-ÐºÐ¾Ð´';
+$MESS['LANDING_TABLE_FIELD_DB_NODE_MANIFEST'] = 'ÐœÐ°Ð½Ð¸Ñ„ÐµÑÑ‚';
+$MESS['LANDING_TABLE_FIELD_CREATED_BY_ID'] = 'Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÐ¾Ð·Ð´Ð°Ð²ÑˆÐµÐ³Ð¾ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ';
+$MESS['LANDING_TABLE_FIELD_MODIFIED_BY_ID'] = 'Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¸Ð·Ð¼ÐµÐ½Ð¸Ð²ÑˆÐµÐ³Ð¾ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ';
+$MESS['LANDING_TABLE_FIELD_DATE_CREATE'] = 'Ð”Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ';
+$MESS['LANDING_TABLE_FIELD_DATE_MODIFY'] = 'Ð”Ð°Ñ‚Ð° Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ';

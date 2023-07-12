@@ -1,13 +1,13 @@
 <?
-$MESS["AUTH_LOGIN"] = "Âîéòè";
-$MESS["AUTH_LOGIN_DESC"] = "Âîéòè";
-$MESS["AUTH_REGISTER"] = "Ðåãèñòðàöèÿ";
-$MESS["AUTH_REGISTER_DESC"] = "Çàðåãèñòðèðîâàòüñÿ íà ñàéòå";
-$MESS["AUTH_LOGOUT"] = "Âûéòè";
-$MESS["AUTH_PROFILE"] = "Ìîé ïðîôèëü";
-$MESS["AUTH_HELLO_1"] = "Ïðèâåò, ";
+$MESS["AUTH_LOGIN"] = "Ð’Ð¾Ð¹Ñ‚Ð¸";
+$MESS["AUTH_LOGIN_DESC"] = "Ð’Ð¾Ð¹Ñ‚Ð¸";
+$MESS["AUTH_REGISTER"] = "Ð ÐµÐ³Ð¸ÑÑ‚Ñ€Ð°Ñ†Ð¸Ñ";
+$MESS["AUTH_REGISTER_DESC"] = "Ð—Ð°Ñ€ÐµÐ³Ð¸ÑÑ‚Ñ€Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒÑÑ Ð½Ð° ÑÐ°Ð¹Ñ‚Ðµ";
+$MESS["AUTH_LOGOUT"] = "Ð’Ñ‹Ð¹Ñ‚Ð¸";
+$MESS["AUTH_PROFILE"] = "ÐœÐ¾Ð¹ Ð¿Ñ€Ð¾Ñ„Ð¸Ð»ÑŒ";
+$MESS["AUTH_HELLO_1"] = "ÐŸÑ€Ð¸Ð²ÐµÑ‚, ";
 $MESS["AUTH_HELLO_2"] = "!";
-$MESS["AUTH_GUEST"] = "Ãîñòü";
-$MESS["AUTH_BLOG_MESSAGE"] = "Ñîçäàòü ñîîáùåíèå";
-$MESS["AUTH_SONET_LOG"] = "Æèâàÿ ëåíòà";
+$MESS["AUTH_GUEST"] = "Ð“Ð¾ÑÑ‚ÑŒ";
+$MESS["AUTH_BLOG_MESSAGE"] = "Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ";
+$MESS["AUTH_SONET_LOG"] = "Ð–Ð¸Ð²Ð°Ñ Ð»ÐµÐ½Ñ‚Ð°";
 ?>

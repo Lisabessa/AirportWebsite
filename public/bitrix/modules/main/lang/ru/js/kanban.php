@@ -1,13 +1,13 @@
 <?
-$MESS["MAIN_KANBAN_NO_DATA"] = "Ïîêà äàííûõ íà ýòîé ñòðàíèöå íåò";
-$MESS["MAIN_KANBAN_REMOVE_COLUMN_CONFIRM_TITLE"] = "Ïîäòâåðæäåíèå óäàëåíèÿ";
-$MESS["MAIN_KANBAN_REMOVE_COLUMN_CONFIRM_DESC"] = "Âû äåéñòâèòåëüíî õîòèòå óäàëèòü êîëîíêó?";
-$MESS["MAIN_KANBAN_REMOVE_BUTTON"] = "Óäàëèòü";
-$MESS["MAIN_KANBAN_CANCEL_BUTTON"] = "Îòìåíà";
-$MESS["MAIN_KANBAN_ITEM_TITLE_PLACEHOLDER"] = "Íàçâàíèå";
-$MESS["MAIN_KANBAN_COLUMN_TITLE_PLACEHOLDER"] = "Íàçâàíèå";
-$MESS["MAIN_KANBAN_ERROR"] = "Îøèáêà";
-$MESS["MAIN_KANBAN_RELOAD"] = "Ïåðåçàãðóçèòü ñòðàíèöó";
+$MESS["MAIN_KANBAN_NO_DATA"] = "ÐŸÐ¾ÐºÐ° Ð´Ð°Ð½Ð½Ñ‹Ñ… Ð½Ð° ÑÑ‚Ð¾Ð¹ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ðµ Ð½ÐµÑ‚";
+$MESS["MAIN_KANBAN_REMOVE_COLUMN_CONFIRM_TITLE"] = "ÐŸÐ¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð¸Ðµ ÑƒÐ´Ð°Ð»ÐµÐ½Ð¸Ñ";
+$MESS["MAIN_KANBAN_REMOVE_COLUMN_CONFIRM_DESC"] = "Ð’Ñ‹ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ ÐºÐ¾Ð»Ð¾Ð½ÐºÑƒ?";
+$MESS["MAIN_KANBAN_REMOVE_BUTTON"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";
+$MESS["MAIN_KANBAN_CANCEL_BUTTON"] = "ÐžÑ‚Ð¼ÐµÐ½Ð°";
+$MESS["MAIN_KANBAN_ITEM_TITLE_PLACEHOLDER"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
+$MESS["MAIN_KANBAN_COLUMN_TITLE_PLACEHOLDER"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
+$MESS["MAIN_KANBAN_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ°";
+$MESS["MAIN_KANBAN_RELOAD"] = "ÐŸÐµÑ€ÐµÐ·Ð°Ð³Ñ€ÑƒÐ·Ð¸Ñ‚ÑŒ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ";
 $MESS["MAIN_KANBAN_ERROR_OK"] = "OK";
-$MESS["MAIN_KANBAN_ERROR_CLOSE"] = "Çàêðûòü";
-$MESS["MAIN_KANBAN_DROPZONE_CANCEL"] = "Îòìåíà";
+$MESS["MAIN_KANBAN_ERROR_CLOSE"] = "Ð—Ð°ÐºÑ€Ñ‹Ñ‚ÑŒ";
+$MESS["MAIN_KANBAN_DROPZONE_CANCEL"] = "ÐžÑ‚Ð¼ÐµÐ½Ð°";

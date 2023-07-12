@@ -1,4 +1,4 @@
 <?php
-$MESS["SENDER_ROLE_ADMIN"]   = "Àäìèíèñòðàòîð";
-$MESS["SENDER_ROLE_CHIEF"]   = "Ðóêîâîäèòåëü";
-$MESS["SENDER_ROLE_MANAGER"] = "Ìåíåäæåð";
+$MESS["SENDER_ROLE_ADMIN"]   = "ÐÐ´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¾Ñ€";
+$MESS["SENDER_ROLE_CHIEF"]   = "Ð ÑƒÐºÐ¾Ð²Ð¾Ð´Ð¸Ñ‚ÐµÐ»ÑŒ";
+$MESS["SENDER_ROLE_MANAGER"] = "ÐœÐµÐ½ÐµÐ´Ð¶ÐµÑ€";

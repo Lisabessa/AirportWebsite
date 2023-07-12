@@ -1,78 +1,78 @@
 <?php
 
-$MESS['ABTEST_ADD_TITLE'] = "Создание A/B-теста";
-$MESS['ABTEST_EDIT_TITLE1'] = "Редактирование A/B-теста ##ID#";
-$MESS['ABTEST_EDIT_TITLE2'] = "Редактирование A/B-теста: #NAME#";
+$MESS['ABTEST_ADD_TITLE'] = "РЎРѕР·РґР°РЅРёРµ A/B-С‚РµСЃС‚Р°";
+$MESS['ABTEST_EDIT_TITLE1'] = "Р РµРґР°РєС‚РёСЂРѕРІР°РЅРёРµ A/B-С‚РµСЃС‚Р° ##ID#";
+$MESS['ABTEST_EDIT_TITLE2'] = "Р РµРґР°РєС‚РёСЂРѕРІР°РЅРёРµ A/B-С‚РµСЃС‚Р°: #NAME#";
 
-$MESS['ABTEST_GOTO_LIST'] = "Список тестов";
-$MESS['ABTEST_GOTO_ADD'] = "Новый тест";
-$MESS['ABTEST_DELETE'] = "Удалить";
+$MESS['ABTEST_GOTO_LIST'] = "РЎРїРёСЃРѕРє С‚РµСЃС‚РѕРІ";
+$MESS['ABTEST_GOTO_ADD'] = "РќРѕРІС‹Р№ С‚РµСЃС‚";
+$MESS['ABTEST_DELETE'] = "РЈРґР°Р»РёС‚СЊ";
 
-$MESS['ABTEST_DELETE_CONFIRM'] = "Вы действительно хотите удалить тест?";
+$MESS['ABTEST_DELETE_CONFIRM'] = "Р’С‹ РґРµР№СЃС‚РІРёС‚РµР»СЊРЅРѕ С…РѕС‚РёС‚Рµ СѓРґР°Р»РёС‚СЊ С‚РµСЃС‚?";
 
-$MESS['ABTEST_EMPTY_SITE'] = "Не задан сайт";
-$MESS['ABTEST_UNKNOWN_SITE'] = "Неизвестный сайт: #VALUE#";
+$MESS['ABTEST_EMPTY_SITE'] = "РќРµ Р·Р°РґР°РЅ СЃР°Р№С‚";
+$MESS['ABTEST_UNKNOWN_SITE'] = "РќРµРёР·РІРµСЃС‚РЅС‹Р№ СЃР°Р№С‚: #VALUE#";
 
-$MESS['ABTEST_PORTION_ERROR'] = "Недопустимое значение для поля \"трафик на тест\"";
-$MESS['ABTEST_TEST_DATA_ERROR'] = "Ошибка списка тестов";
+$MESS['ABTEST_PORTION_ERROR'] = "РќРµРґРѕРїСѓСЃС‚РёРјРѕРµ Р·РЅР°С‡РµРЅРёРµ РґР»СЏ РїРѕР»СЏ \"С‚СЂР°С„РёРє РЅР° С‚РµСЃС‚\"";
+$MESS['ABTEST_TEST_DATA_ERROR'] = "РћС€РёР±РєР° СЃРїРёСЃРєР° С‚РµСЃС‚РѕРІ";
 
-$MESS['ABTEST_PORTION_HINT'] = "Доля трафика не может быть меньше 1% или больше 100%.";
-$MESS['ABTEST_EMPTY_TEST_DATA'] = "Не задано ни одного теста.";
+$MESS['ABTEST_PORTION_HINT'] = "Р”РѕР»СЏ С‚СЂР°С„РёРєР° РЅРµ РјРѕР¶РµС‚ Р±С‹С‚СЊ РјРµРЅСЊС€Рµ 1% РёР»Рё Р±РѕР»СЊС€Рµ 100%.";
+$MESS['ABTEST_EMPTY_TEST_DATA'] = "РќРµ Р·Р°РґР°РЅРѕ РЅРё РѕРґРЅРѕРіРѕ С‚РµСЃС‚Р°.";
 
-$MESS['ABTEST_UNKNOWN_TEST_TYPE'] = "Неизвестный тип теста ##ID#: #VALUE#.";
-$MESS['ABTEST_EMPTY_TEST_VALUES'] = "Не заданы значения для теста ##ID#.";
-$MESS['ABTEST_EMPTY_TEST_VALUE'] = "Не задано значение для теста ##ID#.";
+$MESS['ABTEST_UNKNOWN_TEST_TYPE'] = "РќРµРёР·РІРµСЃС‚РЅС‹Р№ С‚РёРї С‚РµСЃС‚Р° ##ID#: #VALUE#.";
+$MESS['ABTEST_EMPTY_TEST_VALUES'] = "РќРµ Р·Р°РґР°РЅС‹ Р·РЅР°С‡РµРЅРёСЏ РґР»СЏ С‚РµСЃС‚Р° ##ID#.";
+$MESS['ABTEST_EMPTY_TEST_VALUE'] = "РќРµ Р·Р°РґР°РЅРѕ Р·РЅР°С‡РµРЅРёРµ РґР»СЏ С‚РµСЃС‚Р° ##ID#.";
 
-$MESS['ABTEST_UNKNOWN_TEST_TEMPLATE'] = "Неизвестный шаблон для теста ##ID#: #VALUE#";
-$MESS['ABTEST_UNKNOWN_TEST_PAGE'] = "Несуществующая страница для теста ##ID#: #VALUE#";
+$MESS['ABTEST_UNKNOWN_TEST_TEMPLATE'] = "РќРµРёР·РІРµСЃС‚РЅС‹Р№ С€Р°Р±Р»РѕРЅ РґР»СЏ С‚РµСЃС‚Р° ##ID#: #VALUE#";
+$MESS['ABTEST_UNKNOWN_TEST_PAGE'] = "РќРµСЃСѓС‰РµСЃС‚РІСѓСЋС‰Р°СЏ СЃС‚СЂР°РЅРёС†Р° РґР»СЏ С‚РµСЃС‚Р° ##ID#: #VALUE#";
 
 
-$MESS['ABTEST_SAVE_ERROR'] = "Ошибка сохранения теста";
+$MESS['ABTEST_SAVE_ERROR'] = "РћС€РёР±РєР° СЃРѕС…СЂР°РЅРµРЅРёСЏ С‚РµСЃС‚Р°";
 
-$MESS['ABTEST_TAB_NAME'] = "A/B-тест";
-$MESS['ABTEST_TAB_TITLE'] = "Параметры теста";
+$MESS['ABTEST_TAB_NAME'] = "A/B-С‚РµСЃС‚";
+$MESS['ABTEST_TAB_TITLE'] = "РџР°СЂР°РјРµС‚СЂС‹ С‚РµСЃС‚Р°";
 
-$MESS['ABTEST_SITE_FIELD'] = "Сайт";
-$MESS['ABTEST_NAME_FIELD'] = "Название";
-$MESS['ABTEST_DESCR_FIELD'] = "Описание";
-$MESS['ABTEST_DURATION_FIELD'] = "Длительность теста";
-$MESS['ABTEST_PORTION_FIELD'] = "Трафик на тест";
+$MESS['ABTEST_SITE_FIELD'] = "РЎР°Р№С‚";
+$MESS['ABTEST_NAME_FIELD'] = "РќР°Р·РІР°РЅРёРµ";
+$MESS['ABTEST_DESCR_FIELD'] = "РћРїРёСЃР°РЅРёРµ";
+$MESS['ABTEST_DURATION_FIELD'] = "Р”Р»РёС‚РµР»СЊРЅРѕСЃС‚СЊ С‚РµСЃС‚Р°";
+$MESS['ABTEST_PORTION_FIELD'] = "РўСЂР°С„РёРє РЅР° С‚РµСЃС‚";
 
-$MESS['ABTEST_DURATION_OPTION_1'] = "1 день";
-$MESS['ABTEST_DURATION_OPTION_3'] = "3 дня";
-$MESS['ABTEST_DURATION_OPTION_5'] = "5 дней";
-$MESS['ABTEST_DURATION_OPTION_7'] = "Неделя";
-$MESS['ABTEST_DURATION_OPTION_14'] = "2 недели";
-$MESS['ABTEST_DURATION_OPTION_30'] = "Месяц";
-$MESS['ABTEST_DURATION_OPTION_0'] = "До ручной остановки теста";
+$MESS['ABTEST_DURATION_OPTION_1'] = "1 РґРµРЅСЊ";
+$MESS['ABTEST_DURATION_OPTION_3'] = "3 РґРЅСЏ";
+$MESS['ABTEST_DURATION_OPTION_5'] = "5 РґРЅРµР№";
+$MESS['ABTEST_DURATION_OPTION_7'] = "РќРµРґРµР»СЏ";
+$MESS['ABTEST_DURATION_OPTION_14'] = "2 РЅРµРґРµР»Рё";
+$MESS['ABTEST_DURATION_OPTION_30'] = "РњРµСЃСЏС†";
+$MESS['ABTEST_DURATION_OPTION_0'] = "Р”Рѕ СЂСѓС‡РЅРѕР№ РѕСЃС‚Р°РЅРѕРІРєРё С‚РµСЃС‚Р°";
 
-$MESS['ABTEST_DURATION_OPTION_C'] = "Дней: #NUM#";
-$MESS['ABTEST_DURATION_OPTION_A'] = "Авто (примерно дней: #NUM#)";
-$MESS['ABTEST_DURATION_OPTION_NA'] = "н/д";
+$MESS['ABTEST_DURATION_OPTION_C'] = "Р”РЅРµР№: #NUM#";
+$MESS['ABTEST_DURATION_OPTION_A'] = "РђРІС‚Рѕ (РїСЂРёРјРµСЂРЅРѕ РґРЅРµР№: #NUM#)";
+$MESS['ABTEST_DURATION_OPTION_NA'] = "РЅ/Рґ";
 
-$MESS['ABTEST_TEST_DATA'] = "Тесты";
+$MESS['ABTEST_TEST_DATA'] = "РўРµСЃС‚С‹";
 
-$MESS['ABTEST_TEST_TEMPLATE_TITLE'] = "Шаблон сайта";
-$MESS['ABTEST_TEST_TEMPLATE_TITLE_A'] = "Текущий шаблон";
-$MESS['ABTEST_TEST_TEMPLATE_TITLE_B'] = "Тестовый шаблон";
+$MESS['ABTEST_TEST_TEMPLATE_TITLE'] = "РЁР°Р±Р»РѕРЅ СЃР°Р№С‚Р°";
+$MESS['ABTEST_TEST_TEMPLATE_TITLE_A'] = "РўРµРєСѓС‰РёР№ С€Р°Р±Р»РѕРЅ";
+$MESS['ABTEST_TEST_TEMPLATE_TITLE_B'] = "РўРµСЃС‚РѕРІС‹Р№ С€Р°Р±Р»РѕРЅ";
 
-$MESS['ABTEST_TEST_PAGE_TITLE'] = "Страница";
-$MESS['ABTEST_TEST_PAGE_TITLE_A'] = "Текущая страница";
-$MESS['ABTEST_TEST_PAGE_TITLE_B'] = "Путь к новой странице";
+$MESS['ABTEST_TEST_PAGE_TITLE'] = "РЎС‚СЂР°РЅРёС†Р°";
+$MESS['ABTEST_TEST_PAGE_TITLE_A'] = "РўРµРєСѓС‰Р°СЏ СЃС‚СЂР°РЅРёС†Р°";
+$MESS['ABTEST_TEST_PAGE_TITLE_B'] = "РџСѓС‚СЊ Рє РЅРѕРІРѕР№ СЃС‚СЂР°РЅРёС†Рµ";
 
-$MESS['ABTEST_TEST_ADD'] = "Добавить тест";
-$MESS['ABTEST_TEST_TITLE'] = "Тест<span class=\"test-num\">:</span> #TYPE#";
+$MESS['ABTEST_TEST_ADD'] = "Р”РѕР±Р°РІРёС‚СЊ С‚РµСЃС‚";
+$MESS['ABTEST_TEST_TITLE'] = "РўРµСЃС‚<span class=\"test-num\">:</span> #TYPE#";
 
-$MESS['ABTEST_TEST_SELECT_PAGE'] = "Выбрать файл";
-$MESS['ABTEST_TEST_COPY_PAGE'] = "Скопировать страницу";
-$MESS['ABTEST_TEST_EDIT_PAGE'] = "Редактировать страницу";
-$MESS['ABTEST_AJAX_ERROR'] = "Ошибка при выполнении запроса";
+$MESS['ABTEST_TEST_SELECT_PAGE'] = "Р’С‹Р±СЂР°С‚СЊ С„Р°Р№Р»";
+$MESS['ABTEST_TEST_COPY_PAGE'] = "РЎРєРѕРїРёСЂРѕРІР°С‚СЊ СЃС‚СЂР°РЅРёС†Сѓ";
+$MESS['ABTEST_TEST_EDIT_PAGE'] = "Р РµРґР°РєС‚РёСЂРѕРІР°С‚СЊ СЃС‚СЂР°РЅРёС†Сѓ";
+$MESS['ABTEST_AJAX_ERROR'] = "РћС€РёР±РєР° РїСЂРё РІС‹РїРѕР»РЅРµРЅРёРё Р·Р°РїСЂРѕСЃР°";
 
-$MESS['ABTEST_UNKNOWN_PAGE'] = "Страница не существует";
+$MESS['ABTEST_UNKNOWN_PAGE'] = "РЎС‚СЂР°РЅРёС†Р° РЅРµ СЃСѓС‰РµСЃС‚РІСѓРµС‚";
 
-$MESS['ABTEST_TEST_CHECK'] = "Посмотреть";
+$MESS['ABTEST_TEST_CHECK'] = "РџРѕСЃРјРѕС‚СЂРµС‚СЊ";
 
-$MESS['ABTEST_TEST_EDIT_WARNING'] = "<b>Внимание!</b> Изменение активного A/B-теста может привести к искажению результатов!";
+$MESS['ABTEST_TEST_EDIT_WARNING'] = "<b>Р’РЅРёРјР°РЅРёРµ!</b> РР·РјРµРЅРµРЅРёРµ Р°РєС‚РёРІРЅРѕРіРѕ A/B-С‚РµСЃС‚Р° РјРѕР¶РµС‚ РїСЂРёРІРµСЃС‚Рё Рє РёСЃРєР°Р¶РµРЅРёСЋ СЂРµР·СѓР»СЊС‚Р°С‚РѕРІ!";
 
-$MESS['ABTEST_DURATION_AUTO_HINT'] = 'Автоматическая длительность теста &mdash; прогнозируется на основе текущей посещаемости и величины выборки, необходимой для достижения статистической мощности 80%. Тест будет завершен автоматически после получения необходимой выборки в обоих группах.';
-$MESS['ABTEST_MATH_POWER_HINT'] = 'Статистическая мощность &mdash; вероятность того, что тест определит разницу между двумя вариантами, если эта разница действительно существует. Статистическая мощность увеличивается при увеличении размера выборки. Если статистическая мощность меньше 80%, то доверять результатам теста нельзя.';
+$MESS['ABTEST_DURATION_AUTO_HINT'] = 'РђРІС‚РѕРјР°С‚РёС‡РµСЃРєР°СЏ РґР»РёС‚РµР»СЊРЅРѕСЃС‚СЊ С‚РµСЃС‚Р° &mdash; РїСЂРѕРіРЅРѕР·РёСЂСѓРµС‚СЃСЏ РЅР° РѕСЃРЅРѕРІРµ С‚РµРєСѓС‰РµР№ РїРѕСЃРµС‰Р°РµРјРѕСЃС‚Рё Рё РІРµР»РёС‡РёРЅС‹ РІС‹Р±РѕСЂРєРё, РЅРµРѕР±С…РѕРґРёРјРѕР№ РґР»СЏ РґРѕСЃС‚РёР¶РµРЅРёСЏ СЃС‚Р°С‚РёСЃС‚РёС‡РµСЃРєРѕР№ РјРѕС‰РЅРѕСЃС‚Рё 80%. РўРµСЃС‚ Р±СѓРґРµС‚ Р·Р°РІРµСЂС€РµРЅ Р°РІС‚РѕРјР°С‚РёС‡РµСЃРєРё РїРѕСЃР»Рµ РїРѕР»СѓС‡РµРЅРёСЏ РЅРµРѕР±С…РѕРґРёРјРѕР№ РІС‹Р±РѕСЂРєРё РІ РѕР±РѕРёС… РіСЂСѓРїРїР°С….';
+$MESS['ABTEST_MATH_POWER_HINT'] = 'РЎС‚Р°С‚РёСЃС‚РёС‡РµСЃРєР°СЏ РјРѕС‰РЅРѕСЃС‚СЊ &mdash; РІРµСЂРѕСЏС‚РЅРѕСЃС‚СЊ С‚РѕРіРѕ, С‡С‚Рѕ С‚РµСЃС‚ РѕРїСЂРµРґРµР»РёС‚ СЂР°Р·РЅРёС†Сѓ РјРµР¶РґСѓ РґРІСѓРјСЏ РІР°СЂРёР°РЅС‚Р°РјРё, РµСЃР»Рё СЌС‚Р° СЂР°Р·РЅРёС†Р° РґРµР№СЃС‚РІРёС‚РµР»СЊРЅРѕ СЃСѓС‰РµСЃС‚РІСѓРµС‚. РЎС‚Р°С‚РёСЃС‚РёС‡РµСЃРєР°СЏ РјРѕС‰РЅРѕСЃС‚СЊ СѓРІРµР»РёС‡РёРІР°РµС‚СЃСЏ РїСЂРё СѓРІРµР»РёС‡РµРЅРёРё СЂР°Р·РјРµСЂР° РІС‹Р±РѕСЂРєРё. Р•СЃР»Рё СЃС‚Р°С‚РёСЃС‚РёС‡РµСЃРєР°СЏ РјРѕС‰РЅРѕСЃС‚СЊ РјРµРЅСЊС€Рµ 80%, С‚Рѕ РґРѕРІРµСЂСЏС‚СЊ СЂРµР·СѓР»СЊС‚Р°С‚Р°Рј С‚РµСЃС‚Р° РЅРµР»СЊР·СЏ.';

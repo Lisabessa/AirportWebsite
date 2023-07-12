@@ -1,8 +1,8 @@
 <?
-$MESS["customrank_error_update"] = "Îøèáêà ïðè îáíîâëåíèè ïîèñêîâîãî èíäåêñà.";
-$MESS["customrank_iblocks"] = "Èíôîðìàöèîííûå áëîêè";
-$MESS["customrank_forum"] = "Ôîðóìû";
-$MESS["customrank_files"] = "Ñòàòè÷åñêèå ôàéëû";
-$MESS["customrank_error_site"] = "Íå óêàçàí ñàéò.";
-$MESS["customrank_error_module"] = "Íå óêàçàí ìîäóëü.";
+$MESS["customrank_error_update"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ð¸ Ð¿Ð¾Ð¸ÑÐºÐ¾Ð²Ð¾Ð³Ð¾ Ð¸Ð½Ð´ÐµÐºÑÐ°.";
+$MESS["customrank_iblocks"] = "Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ñ‹Ðµ Ð±Ð»Ð¾ÐºÐ¸";
+$MESS["customrank_forum"] = "Ð¤Ð¾Ñ€ÑƒÐ¼Ñ‹";
+$MESS["customrank_files"] = "Ð¡Ñ‚Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸Ðµ Ñ„Ð°Ð¹Ð»Ñ‹";
+$MESS["customrank_error_site"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ ÑÐ°Ð¹Ñ‚.";
+$MESS["customrank_error_module"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ð¼Ð¾Ð´ÑƒÐ»ÑŒ.";
 ?>

@@ -1,8 +1,8 @@
 <?php
-$MESS["SALE_LOCATION_DEFAULTSITE_ENTITY_CANNOT_ADD_EXCEPTION"] = "Ïîìèëêà âèäàëåííÿ ì³ñöåçíàõîäæåííÿ";
-$MESS["SALE_LOCATION_DEFAULTSITE_ENTITY_CANNOT_DELETE_EXCEPTION"] = "Ïîìèëêà âèäàëåííÿ ì³ñöåçíàõîäæåííÿ";
-$MESS["SALE_LOCATION_DEFAULTSITE_ENTITY_CANNOT_UPDATE_EXCEPTION"] = "Ïîìèëêà âèäàëåííÿ ì³ñöåçíàõîäæåííÿ";
-$MESS["SALE_LOCATION_DEFAULTSITE_ENTITY_LOCATION_ID_FIELD"] = "Ì³ñöåçíàõîäæåííÿ";
-$MESS["SALE_LOCATION_DEFAULTSITE_ENTITY_SITE_ID_FIELD"] = "Êîä ñàéòó";
-$MESS["SALE_LOCATION_DEFAULTSITE_ENTITY_SITE_ID_UNKNOWN_EXCEPTION"] = "Íåâ³äîìèé ³äåíòèô³êàòîð ñàéòó";
-$MESS["SALE_LOCATION_DEFAULTSITE_ENTITY_SORT_FIELD"] = "Ñîðòóâàííÿ";
+$MESS["SALE_LOCATION_DEFAULTSITE_ENTITY_CANNOT_ADD_EXCEPTION"] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ° Ð²Ð¸Ð´Ð°Ð»ÐµÐ½Ð½Ñ Ð¼Ñ–ÑÑ†ÐµÐ·Ð½Ð°Ñ…Ð¾Ð´Ð¶ÐµÐ½Ð½Ñ";
+$MESS["SALE_LOCATION_DEFAULTSITE_ENTITY_CANNOT_DELETE_EXCEPTION"] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ° Ð²Ð¸Ð´Ð°Ð»ÐµÐ½Ð½Ñ Ð¼Ñ–ÑÑ†ÐµÐ·Ð½Ð°Ñ…Ð¾Ð´Ð¶ÐµÐ½Ð½Ñ";
+$MESS["SALE_LOCATION_DEFAULTSITE_ENTITY_CANNOT_UPDATE_EXCEPTION"] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ° Ð²Ð¸Ð´Ð°Ð»ÐµÐ½Ð½Ñ Ð¼Ñ–ÑÑ†ÐµÐ·Ð½Ð°Ñ…Ð¾Ð´Ð¶ÐµÐ½Ð½Ñ";
+$MESS["SALE_LOCATION_DEFAULTSITE_ENTITY_LOCATION_ID_FIELD"] = "ÐœÑ–ÑÑ†ÐµÐ·Ð½Ð°Ñ…Ð¾Ð´Ð¶ÐµÐ½Ð½Ñ";
+$MESS["SALE_LOCATION_DEFAULTSITE_ENTITY_SITE_ID_FIELD"] = "ÐšÐ¾Ð´ ÑÐ°Ð¹Ñ‚Ñƒ";
+$MESS["SALE_LOCATION_DEFAULTSITE_ENTITY_SITE_ID_UNKNOWN_EXCEPTION"] = "ÐÐµÐ²Ñ–Ð´Ð¾Ð¼Ð¸Ð¹ Ñ–Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÐ°Ñ‚Ð¾Ñ€ ÑÐ°Ð¹Ñ‚Ñƒ";
+$MESS["SALE_LOCATION_DEFAULTSITE_ENTITY_SORT_FIELD"] = "Ð¡Ð¾Ñ€Ñ‚ÑƒÐ²Ð°Ð½Ð½Ñ";

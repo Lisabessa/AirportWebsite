@@ -1,3 +1,3 @@
 <?
-$MESS["BIZPROC_SCRIPT_MANAGER_NEW_SCRIPT"] = "Íîâûé ñöåíàðèé";
-$MESS["BIZPROC_SCRIPT_MANAGER_NEW_DESCRIPTION"] = "Îïèøèòå ñöåíàðèé";
+$MESS["BIZPROC_SCRIPT_MANAGER_NEW_SCRIPT"] = "ÐÐ¾Ð²Ñ‹Ð¹ ÑÑ†ÐµÐ½Ð°Ñ€Ð¸Ð¹";
+$MESS["BIZPROC_SCRIPT_MANAGER_NEW_DESCRIPTION"] = "ÐžÐ¿Ð¸ÑˆÐ¸Ñ‚Ðµ ÑÑ†ÐµÐ½Ð°Ñ€Ð¸Ð¹";

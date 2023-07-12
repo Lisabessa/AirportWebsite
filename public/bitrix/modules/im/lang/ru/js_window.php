@@ -1,4 +1,4 @@
 <?
-$MESS["BXD_LOGOUT"] = "Ñìåíèòü ïîëüçîâàòåëÿ";
-$MESS["IM_SLIDER_TITLE"] = "×àò";
+$MESS["BXD_LOGOUT"] = "Ð¡Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
+$MESS["IM_SLIDER_TITLE"] = "Ð§Ð°Ñ‚";
 ?>

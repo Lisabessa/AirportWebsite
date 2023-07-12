@@ -1,11 +1,11 @@
 <?
-$MESS["IDEA_SONET_NOTIFY_TITLE"] = "Èäåè";
-$MESS["IDEA_SONET_NOTIFY_TITLE_24"] = "Ñîçäàë(à) èäåþ";
-$MESS["IDEA_SONET_GROUP_SETTINGS"] = "Âñå èçìåíåíèÿ â èäåÿõ ýòîé ãðóïïû";
-$MESS["IDEA_SONET_GROUP_SETTINGS_1"] = "Èäåè ãðóïïû #TITLE#";
-$MESS["IDEA_SONET_GROUP_SETTINGS_2"] = "Ñîîáùåíèÿ èäåé ãðóïïû #TITLE#";
-$MESS["IDEA_SONET_UPDATE_COMMENT_SOURCE_ERROR"] = "Íå óäàëîñü èçìåíèòü êîììåíòàðèé ê èñòî÷íèêó ñîáûòèÿ";
-$MESS["IDEA_SONET_UPDATE_COMMENT_SOURCE_SUCCESS"] = "Êîììåíòàðèé óñïåøíî èçìåíåí";
-$MESS["IDEA_SONET_DELETE_COMMENT_SOURCE_ERROR"] = "Íå óäàëîñü óäàëèòü êîììåíòàðèé ê èñòî÷íèêó ñîáûòèÿ";
-$MESS["IDEA_SONET_DELETE_COMMENT_SOURCE_SUCCESS"] = "Êîììåíòàðèé óñïåøíî óäàëåí";
+$MESS["IDEA_SONET_NOTIFY_TITLE"] = "Ð˜Ð´ÐµÐ¸";
+$MESS["IDEA_SONET_NOTIFY_TITLE_24"] = "Ð¡Ð¾Ð·Ð´Ð°Ð»(Ð°) Ð¸Ð´ÐµÑŽ";
+$MESS["IDEA_SONET_GROUP_SETTINGS"] = "Ð’ÑÐµ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ Ð² Ð¸Ð´ÐµÑÑ… ÑÑ‚Ð¾Ð¹ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
+$MESS["IDEA_SONET_GROUP_SETTINGS_1"] = "Ð˜Ð´ÐµÐ¸ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹ #TITLE#";
+$MESS["IDEA_SONET_GROUP_SETTINGS_2"] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ Ð¸Ð´ÐµÐ¹ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹ #TITLE#";
+$MESS["IDEA_SONET_UPDATE_COMMENT_SOURCE_ERROR"] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ Ð¸Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹ Ðº Ð¸ÑÑ‚Ð¾Ñ‡Ð½Ð¸ÐºÑƒ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ";
+$MESS["IDEA_SONET_UPDATE_COMMENT_SOURCE_SUCCESS"] = "ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹ ÑƒÑÐ¿ÐµÑˆÐ½Ð¾ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½";
+$MESS["IDEA_SONET_DELETE_COMMENT_SOURCE_ERROR"] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹ Ðº Ð¸ÑÑ‚Ð¾Ñ‡Ð½Ð¸ÐºÑƒ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ";
+$MESS["IDEA_SONET_DELETE_COMMENT_SOURCE_SUCCESS"] = "ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹ ÑƒÑÐ¿ÐµÑˆÐ½Ð¾ ÑƒÐ´Ð°Ð»ÐµÐ½";
 ?>

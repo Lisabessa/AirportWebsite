@@ -1,5 +1,5 @@
 <?
-$MESS["SALE_DLVRS_ADD_ESL_TITLE"] = "Ïîäúåì íà ýòàæ";
-$MESS["SALE_DLVRS_ADD_ESL_PARAMS_NAME"] = "Íàñòðîéêà ñòîèìîñòè";
-$MESS["SALE_DLVRS_ADD_ESL_WEIGHT_FROM"] = "äëÿ âåñà îò";
-$MESS["SALE_DLVRS_ADD_ESL_KG"] = "êã";
+$MESS["SALE_DLVRS_ADD_ESL_TITLE"] = "ÐŸÐ¾Ð´ÑŠÐµÐ¼ Ð½Ð° ÑÑ‚Ð°Ð¶";
+$MESS["SALE_DLVRS_ADD_ESL_PARAMS_NAME"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° ÑÑ‚Ð¾Ð¸Ð¼Ð¾ÑÑ‚Ð¸";
+$MESS["SALE_DLVRS_ADD_ESL_WEIGHT_FROM"] = "Ð´Ð»Ñ Ð²ÐµÑÐ° Ð¾Ñ‚";
+$MESS["SALE_DLVRS_ADD_ESL_KG"] = "ÐºÐ³";

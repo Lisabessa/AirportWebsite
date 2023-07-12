@@ -1,15 +1,15 @@
 <?
-$MESS["SUP_NAME"] = "Íàçâàíèå";
-$MESS["SUP_DESCRIPTION"] = "Îïèñàíèå";
-$MESS["SUP_GROUP_NAV"] = "Ðàñïèñàíèÿ";
-$MESS["SUP_UPDATE_ALT"] = "Èçìåíèòü";
-$MESS["SUP_DELETE_ALT"] = "Óäàëèòü";
-$MESS["SUP_DELETE_CONF"] = "Â óâåðåíû ÷òî õîòèòå óäàëèòü çàïèñü?";
-$MESS["SUP_ADD_NEW"] = "Äîáàâèòü";
-$MESS["SUP_ADD_NEW_ALT"] = "Äîáàâèòü";
-$MESS["SUP_TITLE"] = "Ðàñïèñàíèÿ";
-$MESS["SUP_FILTER_NAME"] = "Èìÿ";
-$MESS["MAIN_ADMIN_LIST_SELECTED"] = "Âûáðàíî:";
-$MESS["MAIN_ADMIN_LIST_CHECKED"] = "Îòìå÷åíî:";
-$MESS["MAIN_ADMIN_LIST_DELETE"] = "óäàëèòü";
+$MESS["SUP_NAME"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
+$MESS["SUP_DESCRIPTION"] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ";
+$MESS["SUP_GROUP_NAV"] = "Ð Ð°ÑÐ¿Ð¸ÑÐ°Ð½Ð¸Ñ";
+$MESS["SUP_UPDATE_ALT"] = "Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
+$MESS["SUP_DELETE_ALT"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";
+$MESS["SUP_DELETE_CONF"] = "Ð’ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹ Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ Ð·Ð°Ð¿Ð¸ÑÑŒ?";
+$MESS["SUP_ADD_NEW"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ";
+$MESS["SUP_ADD_NEW_ALT"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ";
+$MESS["SUP_TITLE"] = "Ð Ð°ÑÐ¿Ð¸ÑÐ°Ð½Ð¸Ñ";
+$MESS["SUP_FILTER_NAME"] = "Ð˜Ð¼Ñ";
+$MESS["MAIN_ADMIN_LIST_SELECTED"] = "Ð’Ñ‹Ð±Ñ€Ð°Ð½Ð¾:";
+$MESS["MAIN_ADMIN_LIST_CHECKED"] = "ÐžÑ‚Ð¼ÐµÑ‡ÐµÐ½Ð¾:";
+$MESS["MAIN_ADMIN_LIST_DELETE"] = "ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ";
 ?>

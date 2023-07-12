@@ -1,10 +1,10 @@
 <?
-$MESS["CONVERSION_ATTRIBUTE_SITE_NAME"] = "Ñàéò";
-$MESS["CONVERSION_ATTRIBUTE_DEVICE_MOBILE_NAME"] = "Ñìàðòôîíû";
-$MESS["CONVERSION_ATTRIBUTE_DEVICE_TABLET_NAME"] = "Ïëàíøåòû";
-$MESS["CONVERSION_ATTRIBUTE_DEVICE_DESKTOP_NAME"] = "Äåñêòîïû";
-$MESS["CONVERSION_ATTRIBUTE_OPERATING_SYSTEM_NAME"] = "Îïåðàöèîííàÿ ñèñòåìà";
-$MESS["CONVERSION_ATTRIBUTE_BROWSER_NAME"] = "Áðàóçåð";
-$MESS["CONVERSION_ATTRIBUTE_SEARCH_ENGINE_NAME"] = "Îðãàíè÷åñêèé òðàôèê";
-$MESS["CONVERSION_ATTRIBUTE_GROUP_SOURCE_NAME"] = "Èñòî÷íèêè ñ êîòîðûõ çàõîäèëè";
-$MESS["CONVERSION_ATTRIBUTE_GROUP_DEVICE_NAME"] = "Óñòðîéñòâà ñ êîòîðûõ çàõîäèëè";
+$MESS["CONVERSION_ATTRIBUTE_SITE_NAME"] = "Ð¡Ð°Ð¹Ñ‚";
+$MESS["CONVERSION_ATTRIBUTE_DEVICE_MOBILE_NAME"] = "Ð¡Ð¼Ð°Ñ€Ñ‚Ñ„Ð¾Ð½Ñ‹";
+$MESS["CONVERSION_ATTRIBUTE_DEVICE_TABLET_NAME"] = "ÐŸÐ»Ð°Ð½ÑˆÐµÑ‚Ñ‹";
+$MESS["CONVERSION_ATTRIBUTE_DEVICE_DESKTOP_NAME"] = "Ð”ÐµÑÐºÑ‚Ð¾Ð¿Ñ‹";
+$MESS["CONVERSION_ATTRIBUTE_OPERATING_SYSTEM_NAME"] = "ÐžÐ¿ÐµÑ€Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð°Ñ ÑÐ¸ÑÑ‚ÐµÐ¼Ð°";
+$MESS["CONVERSION_ATTRIBUTE_BROWSER_NAME"] = "Ð‘Ñ€Ð°ÑƒÐ·ÐµÑ€";
+$MESS["CONVERSION_ATTRIBUTE_SEARCH_ENGINE_NAME"] = "ÐžÑ€Ð³Ð°Ð½Ð¸Ñ‡ÐµÑÐºÐ¸Ð¹ Ñ‚Ñ€Ð°Ñ„Ð¸Ðº";
+$MESS["CONVERSION_ATTRIBUTE_GROUP_SOURCE_NAME"] = "Ð˜ÑÑ‚Ð¾Ñ‡Ð½Ð¸ÐºÐ¸ Ñ ÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ñ… Ð·Ð°Ñ…Ð¾Ð´Ð¸Ð»Ð¸";
+$MESS["CONVERSION_ATTRIBUTE_GROUP_DEVICE_NAME"] = "Ð£ÑÑ‚Ñ€Ð¾Ð¹ÑÑ‚Ð²Ð° Ñ ÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ñ… Ð·Ð°Ñ…Ð¾Ð´Ð¸Ð»Ð¸";

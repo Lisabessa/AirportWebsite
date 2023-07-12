@@ -1,8 +1,8 @@
 <?
-$MESS["BX_CURRENCY_GET_RATE_ERR_SESSION"] = "Âàøà ñåññèÿ èñòåêëà. Ïåðåãðóçèòå ñòðàíèöó";
-$MESS["BX_CURRENCY_GET_RATE_ERR_MODULE_ABSENT"] = "Íåâîçìîæíî ïîäêëþ÷èòü ìîäóëü âàëþò";
-$MESS["BX_CURRENCY_GET_RATE_ERR_BASE_CURRENCY_ABSENT"] = "Íå çàäàíà áàçîâàÿ âàëþòà";
-$MESS["BX_CURRENCY_GET_RATE_ERR_DATE_RATE"] = "Äàòà êóðñà âàëþòû íå óñòàíîâëåíà";
-$MESS["BX_CURRENCY_GET_RATE_ERR_CURRENCY"] = "Íå óêàçàíà âàëþòà";
-$MESS["BX_CURRENCY_GET_RATE_ERR_RESULT_ABSENT"] = "Íåâîçìîæíî ïîëó÷èòü êóðñ";
+$MESS["BX_CURRENCY_GET_RATE_ERR_SESSION"] = "Ð’Ð°ÑˆÐ° ÑÐµÑÑÐ¸Ñ Ð¸ÑÑ‚ÐµÐºÐ»Ð°. ÐŸÐµÑ€ÐµÐ³Ñ€ÑƒÐ·Ð¸Ñ‚Ðµ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ";
+$MESS["BX_CURRENCY_GET_RATE_ERR_MODULE_ABSENT"] = "ÐÐµÐ²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ Ð¿Ð¾Ð´ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ Ð¼Ð¾Ð´ÑƒÐ»ÑŒ Ð²Ð°Ð»ÑŽÑ‚";
+$MESS["BX_CURRENCY_GET_RATE_ERR_BASE_CURRENCY_ABSENT"] = "ÐÐµ Ð·Ð°Ð´Ð°Ð½Ð° Ð±Ð°Ð·Ð¾Ð²Ð°Ñ Ð²Ð°Ð»ÑŽÑ‚Ð°";
+$MESS["BX_CURRENCY_GET_RATE_ERR_DATE_RATE"] = "Ð”Ð°Ñ‚Ð° ÐºÑƒÑ€ÑÐ° Ð²Ð°Ð»ÑŽÑ‚Ñ‹ Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð°";
+$MESS["BX_CURRENCY_GET_RATE_ERR_CURRENCY"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð° Ð²Ð°Ð»ÑŽÑ‚Ð°";
+$MESS["BX_CURRENCY_GET_RATE_ERR_RESULT_ABSENT"] = "ÐÐµÐ²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ Ð¿Ð¾Ð»ÑƒÑ‡Ð¸Ñ‚ÑŒ ÐºÑƒÑ€Ñ";
 ?>

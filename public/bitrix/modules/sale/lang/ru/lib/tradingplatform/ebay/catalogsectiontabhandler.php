@@ -1,7 +1,7 @@
 <?
-$MESS['SALE_EBAY_CSTH_CATEGORY'] = 'Êàòåãîðèè è ñâîéñòâà';
-$MESS['SALE_EBAY_CSTH_POLICY_RETURN'] = 'Ïîëèòèêà âîçâðàòà';
-$MESS['SALE_EBAY_CSTH_POLICY_PAYMENT'] = 'Ïîëèòèêà îïëàò';
-$MESS['SALE_EBAY_CSTH_POLICY_SHIPMENT'] = 'Ïîëèòèêà Äîñòàâêè';
-$MESS['SALE_EBAY_CSTH_EDIT_POLICIES'] = 'Íàñòðîèòü ïîëèòèêè (íà ñàéòå eBay)';
-$MESS['SALE_EBAY_CSTH_NO_POLICY'] = 'íå íàñòðîåíà';
+$MESS['SALE_EBAY_CSTH_CATEGORY'] = 'ÐšÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ð¸ Ð¸ ÑÐ²Ð¾Ð¹ÑÑ‚Ð²Ð°';
+$MESS['SALE_EBAY_CSTH_POLICY_RETURN'] = 'ÐŸÐ¾Ð»Ð¸Ñ‚Ð¸ÐºÐ° Ð²Ð¾Ð·Ð²Ñ€Ð°Ñ‚Ð°';
+$MESS['SALE_EBAY_CSTH_POLICY_PAYMENT'] = 'ÐŸÐ¾Ð»Ð¸Ñ‚Ð¸ÐºÐ° Ð¾Ð¿Ð»Ð°Ñ‚';
+$MESS['SALE_EBAY_CSTH_POLICY_SHIPMENT'] = 'ÐŸÐ¾Ð»Ð¸Ñ‚Ð¸ÐºÐ° Ð”Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸';
+$MESS['SALE_EBAY_CSTH_EDIT_POLICIES'] = 'ÐÐ°ÑÑ‚Ñ€Ð¾Ð¸Ñ‚ÑŒ Ð¿Ð¾Ð»Ð¸Ñ‚Ð¸ÐºÐ¸ (Ð½Ð° ÑÐ°Ð¹Ñ‚Ðµ eBay)';
+$MESS['SALE_EBAY_CSTH_NO_POLICY'] = 'Ð½Ðµ Ð½Ð°ÑÑ‚Ñ€Ð¾ÐµÐ½Ð°';

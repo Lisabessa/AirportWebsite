@@ -1,7 +1,7 @@
 <?
 $MESS["ALIAS_ENTITY_ID_FIELD"] = "ID";
-$MESS["ALIAS_ENTITY_ALIAS_FIELD"] = "Ïñåâäîíèì";
-$MESS["ALIAS_ENTITY_ENTITY_TYPE_FIELD"] = "Òèï ñóùíîñòè";
-$MESS["ALIAS_ENTITY_ENTITY_ID_FIELD"] = "Èäåíòèôèêàòîð ñóùíîñòè";
-$MESS["ALIAS_ENTITY_ENTITY_DATE_CREATE_FIELD"] = "Äàòà ñîçäàíèÿ";
+$MESS["ALIAS_ENTITY_ALIAS_FIELD"] = "ÐŸÑÐµÐ²Ð´Ð¾Ð½Ð¸Ð¼";
+$MESS["ALIAS_ENTITY_ENTITY_TYPE_FIELD"] = "Ð¢Ð¸Ð¿ ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸";
+$MESS["ALIAS_ENTITY_ENTITY_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸";
+$MESS["ALIAS_ENTITY_ENTITY_DATE_CREATE_FIELD"] = "Ð”Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ";
 ?>

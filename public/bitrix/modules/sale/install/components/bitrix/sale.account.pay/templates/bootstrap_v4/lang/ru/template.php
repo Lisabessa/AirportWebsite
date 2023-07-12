@@ -1,11 +1,11 @@
 <?
-$MESS["SAP_BUY_MONEY"] = "Ïîïîëíåíèå ñ÷åòà";
-$MESS["SAP_FIXED_PAYMENT"] = "Ôèêñèðîâàííûé ïëàò¸æ";
-$MESS["SAP_LINK_TITLE"] = "Çàíåñòè íà ñ÷åò";
-$MESS["SAP_INPUT_PLACEHOLDER"] = "Ââåäèòå çíà÷åíèå";
-$MESS["SAP_ERROR_INPUT"] = "Ââåäèòå çíà÷åíèå áîëüøå íóëÿ";
-$MESS["SAP_BUTTON"] = "Êóïèòü";
-$MESS["SAP_SUM"] = "Ñóììà";
-$MESS["SAP_TYPE_PAYMENT_TITLE"] = "Ìåòîä îïëàòû";
+$MESS["SAP_BUY_MONEY"] = "ÐŸÐ¾Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¸Ðµ ÑÑ‡ÐµÑ‚Ð°";
+$MESS["SAP_FIXED_PAYMENT"] = "Ð¤Ð¸ÐºÑÐ¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ñ‹Ð¹ Ð¿Ð»Ð°Ñ‚Ñ‘Ð¶";
+$MESS["SAP_LINK_TITLE"] = "Ð—Ð°Ð½ÐµÑÑ‚Ð¸ Ð½Ð° ÑÑ‡ÐµÑ‚";
+$MESS["SAP_INPUT_PLACEHOLDER"] = "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ";
+$MESS["SAP_ERROR_INPUT"] = "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð±Ð¾Ð»ÑŒÑˆÐµ Ð½ÑƒÐ»Ñ";
+$MESS["SAP_BUTTON"] = "ÐšÑƒÐ¿Ð¸Ñ‚ÑŒ";
+$MESS["SAP_SUM"] = "Ð¡ÑƒÐ¼Ð¼Ð°";
+$MESS["SAP_TYPE_PAYMENT_TITLE"] = "ÐœÐµÑ‚Ð¾Ð´ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹";
 
 ?>

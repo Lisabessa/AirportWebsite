@@ -1,13 +1,13 @@
 <?
-$MESS["sender_convert_title"] = "Êîíâåðòèðîâàíèå äàííûõ â ìîäóëå Email-ìàðêåòèíãà";
-$MESS["sender_convert_tab_convert_name"] = "Êîíâåðòèðîâàíèå";
-$MESS["sender_convert_tab_convert_title"] = "Êîíâåðòèðîâàíèå äàííûõ";
-$MESS["sender_convert_form_time_name"] = "Ìàêñèìàëüíîå âðåìÿ âûïîëíåíèÿ îäíîãî øàãà";
-$MESS["sender_convert_form_time_desc"] = " â ñåêóíäàõ";
-$MESS["sender_convert_form_button_start"] = "Íà÷àòü êîíâåðòàöèþ";
-$MESS["sender_convert_form_button_stop"] = "Îñòàíîâèòü";
+$MESS["sender_convert_title"] = "ÐšÐ¾Ð½Ð²ÐµÑ€Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð´Ð°Ð½Ð½Ñ‹Ñ… Ð² Ð¼Ð¾Ð´ÑƒÐ»Ðµ Email-Ð¼Ð°Ñ€ÐºÐµÑ‚Ð¸Ð½Ð³Ð°";
+$MESS["sender_convert_tab_convert_name"] = "ÐšÐ¾Ð½Ð²ÐµÑ€Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ";
+$MESS["sender_convert_tab_convert_title"] = "ÐšÐ¾Ð½Ð²ÐµÑ€Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð´Ð°Ð½Ð½Ñ‹Ñ…";
+$MESS["sender_convert_form_time_name"] = "ÐœÐ°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ð¾Ðµ Ð²Ñ€ÐµÐ¼Ñ Ð²Ñ‹Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¸Ñ Ð¾Ð´Ð½Ð¾Ð³Ð¾ ÑˆÐ°Ð³Ð°";
+$MESS["sender_convert_form_time_desc"] = " Ð² ÑÐµÐºÑƒÐ½Ð´Ð°Ñ…";
+$MESS["sender_convert_form_button_start"] = "ÐÐ°Ñ‡Ð°Ñ‚ÑŒ ÐºÐ¾Ð½Ð²ÐµÑ€Ñ‚Ð°Ñ†Ð¸ÑŽ";
+$MESS["sender_convert_form_button_stop"] = "ÐžÑÑ‚Ð°Ð½Ð¾Ð²Ð¸Ñ‚ÑŒ";
 
-$MESS["sender_convert_status_title"] = "Êîíâåðòàöèÿ äàííûõ";
-$MESS["sender_convert_status_run"] = "Âûïîëíÿåòñÿ...";
-$MESS["sender_convert_status_done"] = "Âûïîëíåíà.";
+$MESS["sender_convert_status_title"] = "ÐšÐ¾Ð½Ð²ÐµÑ€Ñ‚Ð°Ñ†Ð¸Ñ Ð´Ð°Ð½Ð½Ñ‹Ñ…";
+$MESS["sender_convert_status_run"] = "Ð’Ñ‹Ð¿Ð¾Ð»Ð½ÑÐµÑ‚ÑÑ...";
+$MESS["sender_convert_status_done"] = "Ð’Ñ‹Ð¿Ð¾Ð»Ð½ÐµÐ½Ð°.";
 ?>

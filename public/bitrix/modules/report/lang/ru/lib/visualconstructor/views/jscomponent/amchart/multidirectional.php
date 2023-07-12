@@ -1,2 +1,2 @@
 <?php
-$MESS['REPORT_MULTI_LINEAR_GRAPH_VIEW_LABEL'] = 'Äâà àáñöèññà';
+$MESS['REPORT_MULTI_LINEAR_GRAPH_VIEW_LABEL'] = 'Ð”Ð²Ð° Ð°Ð±ÑÑ†Ð¸ÑÑÐ°';

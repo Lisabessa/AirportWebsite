@@ -1,9 +1,9 @@
 <?
-$MESS["MAIN_COMPOSITE_DIFF_PREV_VERSION"] = "Âåðñèÿ îò #DATE_TIME#";
-$MESS["MAIN_COMPOSITE_DIFF_CURRENT_VERSION"] = "Òåêóùàÿ âåðñèÿ";
-$MESS["MAIN_COMPOSITE_DIFF_LOG_NOT_FOUND"] = "Çàïèñü ëîãà íå íàéäåíà";
-$MESS["MAIN_COMPOSITE_DIFF_PAGE_NOT_FOUND"] = "Ñòðàíèöà íå íàéäåíà";
-$MESS["MAIN_COMPOSITE_DIFF_CONTENT_NOT_FOUND"] = "Ñîäåðæèìîå ñòðàíèöû íå íàéäåíî";
-$MESS["MAIN_COMPOSITE_DIFF_VERSIONS_IDENTICAL"] = "Âåðñèè ñòðàíèö èäåíòè÷íû";
-$MESS["MAIN_COMPOSITE_DIFF_SOURCE_CODE"] = "èñõîäíûé êîä";
-$MESS["MAIN_COMPOSITE_DIFF_VERSION_COMPARISON"] = "ñðàâíåíèå âåðñèé";
+$MESS["MAIN_COMPOSITE_DIFF_PREV_VERSION"] = "Ð’ÐµÑ€ÑÐ¸Ñ Ð¾Ñ‚ #DATE_TIME#";
+$MESS["MAIN_COMPOSITE_DIFF_CURRENT_VERSION"] = "Ð¢ÐµÐºÑƒÑ‰Ð°Ñ Ð²ÐµÑ€ÑÐ¸Ñ";
+$MESS["MAIN_COMPOSITE_DIFF_LOG_NOT_FOUND"] = "Ð—Ð°Ð¿Ð¸ÑÑŒ Ð»Ð¾Ð³Ð° Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð°";
+$MESS["MAIN_COMPOSITE_DIFF_PAGE_NOT_FOUND"] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð°";
+$MESS["MAIN_COMPOSITE_DIFF_CONTENT_NOT_FOUND"] = "Ð¡Ð¾Ð´ÐµÑ€Ð¶Ð¸Ð¼Ð¾Ðµ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾";
+$MESS["MAIN_COMPOSITE_DIFF_VERSIONS_IDENTICAL"] = "Ð’ÐµÑ€ÑÐ¸Ð¸ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ† Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ‡Ð½Ñ‹";
+$MESS["MAIN_COMPOSITE_DIFF_SOURCE_CODE"] = "Ð¸ÑÑ…Ð¾Ð´Ð½Ñ‹Ð¹ ÐºÐ¾Ð´";
+$MESS["MAIN_COMPOSITE_DIFF_VERSION_COMPARISON"] = "ÑÑ€Ð°Ð²Ð½ÐµÐ½Ð¸Ðµ Ð²ÐµÑ€ÑÐ¸Ð¹";

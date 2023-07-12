@@ -1,10 +1,10 @@
 <?
-$MESS["SALE_CONFIGURATION_RESERVE_ON_CREATE"] = "Ïðè îôîðìëåíí³ çàìîâëåííÿ";
-$MESS["SALE_CONFIGURATION_RESERVE_ON_FULL_PAY_OLD"] = "Ïðè îïëàò³ çàìîâëåííÿ";
-$MESS["SALE_CONFIGURATION_RESERVE_ON_ALLOW_DELIVERY"] = "Ïðè âèð³øåíí³ äîñòàâêè";
-$MESS["SALE_CONFIGURATION_RESERVE_ON_SHIP"] = "Ïðè â³äâàíòàæåíí³";
-$MESS["SALE_CONFIGURATION_RESERVE_ON_FULL_PAY"] = "Ïðè ïîâí³é îïëàò³ çàìîâëåííÿ";
-$MESS["SALE_CONFIGURATION_RESERVE_ON_PAY"] = "Ïðè ÷àñòêîâ³é îïëàò³ çàìîâëåííÿ";
-$MESS["SALE_CONFIGURATION_ON_PAY"] = "×àñòêîâ³é";
-$MESS["SALE_CONFIGURATION_ON_FULL_PAY"] = "Ïîâí³é";
+$MESS["SALE_CONFIGURATION_RESERVE_ON_CREATE"] = "ÐŸÑ€Ð¸ Ð¾Ñ„Ð¾Ñ€Ð¼Ð»ÐµÐ½Ð½Ñ– Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ";
+$MESS["SALE_CONFIGURATION_RESERVE_ON_FULL_PAY_OLD"] = "ÐŸÑ€Ð¸ Ð¾Ð¿Ð»Ð°Ñ‚Ñ– Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ";
+$MESS["SALE_CONFIGURATION_RESERVE_ON_ALLOW_DELIVERY"] = "ÐŸÑ€Ð¸ Ð²Ð¸Ñ€Ñ–ÑˆÐµÐ½Ð½Ñ– Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸";
+$MESS["SALE_CONFIGURATION_RESERVE_ON_SHIP"] = "ÐŸÑ€Ð¸ Ð²Ñ–Ð´Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ–";
+$MESS["SALE_CONFIGURATION_RESERVE_ON_FULL_PAY"] = "ÐŸÑ€Ð¸ Ð¿Ð¾Ð²Ð½Ñ–Ð¹ Ð¾Ð¿Ð»Ð°Ñ‚Ñ– Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ";
+$MESS["SALE_CONFIGURATION_RESERVE_ON_PAY"] = "ÐŸÑ€Ð¸ Ñ‡Ð°ÑÑ‚ÐºÐ¾Ð²Ñ–Ð¹ Ð¾Ð¿Ð»Ð°Ñ‚Ñ– Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ";
+$MESS["SALE_CONFIGURATION_ON_PAY"] = "Ð§Ð°ÑÑ‚ÐºÐ¾Ð²Ñ–Ð¹";
+$MESS["SALE_CONFIGURATION_ON_FULL_PAY"] = "ÐŸÐ¾Ð²Ð½Ñ–Ð¹";
 ?>

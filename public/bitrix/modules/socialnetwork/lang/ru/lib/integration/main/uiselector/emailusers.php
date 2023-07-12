@@ -1,3 +1,3 @@
 <?
-$MESS["MAIN_UI_SELECTOR_TAB_EMAIL_USERS"] = "Почтовые пользователи";
+$MESS["MAIN_UI_SELECTOR_TAB_EMAIL_USERS"] = "РџРѕС‡С‚РѕРІС‹Рµ РїРѕР»СЊР·РѕРІР°С‚РµР»Рё";
 ?>

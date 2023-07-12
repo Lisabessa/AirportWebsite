@@ -1,13 +1,13 @@
 <?
-$MESS ['STAT_RECORDS_LIST'] = "Ãðàôèê òèïîâ ñîáûòèé";
-$MESS ['STAT_F_PERIOD'] = "Ïåðèîä";
-$MESS ['STAT_F_EVENTS'] = "Òèïû ñîáûòèé:";
-$MESS ['STAT_EVENT_DYNAMIC'] = "Äèíàìèêà òèïà ñîáûòèÿ";
-$MESS ['STAT_SUMMARIZED'] = "ñóììàðíûé ãðàôèê ïî âûáðàííûì òèïàì ñîáûòèé";
-$MESS ['STAT_SUMMARIZED_GRAPH'] = "Ñóììàðíûé ãðàôèê";
-$MESS ['STAT_MULTI_GRAPH'] = "Îòäåëüíûå ãðàôèêè";
-$MESS ['STAT_SHOW_MONEY'] = "Ïîêàçûâàòü äåíåæíûå ñóììû";
-$MESS ['STAT_SHOW_COUNT'] = "Ïîêàçûâàòü êîëè÷åñòâî";
-$MESS ['STAT_MONEY'] = "Äåíåæíûå ñóììû";
-$MESS ['STAT_COUNT'] = "Êîëè÷åñòâî";
+$MESS ['STAT_RECORDS_LIST'] = "Ð“Ñ€Ð°Ñ„Ð¸Ðº Ñ‚Ð¸Ð¿Ð¾Ð² ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ð¹";
+$MESS ['STAT_F_PERIOD'] = "ÐŸÐµÑ€Ð¸Ð¾Ð´";
+$MESS ['STAT_F_EVENTS'] = "Ð¢Ð¸Ð¿Ñ‹ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ð¹:";
+$MESS ['STAT_EVENT_DYNAMIC'] = "Ð”Ð¸Ð½Ð°Ð¼Ð¸ÐºÐ° Ñ‚Ð¸Ð¿Ð° ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ";
+$MESS ['STAT_SUMMARIZED'] = "ÑÑƒÐ¼Ð¼Ð°Ñ€Ð½Ñ‹Ð¹ Ð³Ñ€Ð°Ñ„Ð¸Ðº Ð¿Ð¾ Ð²Ñ‹Ð±Ñ€Ð°Ð½Ð½Ñ‹Ð¼ Ñ‚Ð¸Ð¿Ð°Ð¼ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ð¹";
+$MESS ['STAT_SUMMARIZED_GRAPH'] = "Ð¡ÑƒÐ¼Ð¼Ð°Ñ€Ð½Ñ‹Ð¹ Ð³Ñ€Ð°Ñ„Ð¸Ðº";
+$MESS ['STAT_MULTI_GRAPH'] = "ÐžÑ‚Ð´ÐµÐ»ÑŒÐ½Ñ‹Ðµ Ð³Ñ€Ð°Ñ„Ð¸ÐºÐ¸";
+$MESS ['STAT_SHOW_MONEY'] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ð´ÐµÐ½ÐµÐ¶Ð½Ñ‹Ðµ ÑÑƒÐ¼Ð¼Ñ‹";
+$MESS ['STAT_SHOW_COUNT'] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾";
+$MESS ['STAT_MONEY'] = "Ð”ÐµÐ½ÐµÐ¶Ð½Ñ‹Ðµ ÑÑƒÐ¼Ð¼Ñ‹";
+$MESS ['STAT_COUNT'] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾";
 ?>

@@ -1,3 +1,3 @@
 <?
-$MESS["SENDER_ENTITY_CAMPAIGN_NAME_DEFAULT"] = "Ïåðâàÿ êàìïàíèÿ";
+$MESS["SENDER_ENTITY_CAMPAIGN_NAME_DEFAULT"] = "ÐŸÐµÑ€Ð²Ð°Ñ ÐºÐ°Ð¼Ð¿Ð°Ð½Ð¸Ñ";
 ?>

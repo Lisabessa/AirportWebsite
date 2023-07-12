@@ -1,4 +1,4 @@
 <?php
-$MESS["UI_TAG_SELECTOR_START_INPUT"] = "Íà÷íèòå ââîäèòü òåêñò";
-$MESS["UI_HELPER_ERROR_MSG"] = "Íà÷íèòå ââîäèòü òåêñò";
-$MESS["UI_HELPER_BUTTON_CLOSE"] = "Çàêðûòü";
+$MESS["UI_TAG_SELECTOR_START_INPUT"] = "ÐÐ°Ñ‡Ð½Ð¸Ñ‚Ðµ Ð²Ð²Ð¾Ð´Ð¸Ñ‚ÑŒ Ñ‚ÐµÐºÑÑ‚";
+$MESS["UI_HELPER_ERROR_MSG"] = "ÐÐ°Ñ‡Ð½Ð¸Ñ‚Ðµ Ð²Ð²Ð¾Ð´Ð¸Ñ‚ÑŒ Ñ‚ÐµÐºÑÑ‚";
+$MESS["UI_HELPER_BUTTON_CLOSE"] = "Ð—Ð°ÐºÑ€Ñ‹Ñ‚ÑŒ";

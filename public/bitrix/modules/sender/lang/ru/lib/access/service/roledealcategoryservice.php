@@ -1,2 +1,2 @@
 <?php
-$MESS["SENDER_DEAL_CATEGORY_WITHOUT_DEAL"]="Áåç íàïðàâëåíèÿ ñäåëêè";
+$MESS["SENDER_DEAL_CATEGORY_WITHOUT_DEAL"]="Ð‘ÐµÐ· Ð½Ð°Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ñ ÑÐ´ÐµÐ»ÐºÐ¸";

@@ -1,9 +1,9 @@
 <?
-$MESS["FILE_SAVE_ENTITY_ID_FIELD"] = "Èäåíòèôèêàòîð çàäàíèÿ";
-$MESS["FILE_SAVE_ENTITY_TIMESTAMP_X_FIELD"] = "Âðåìÿ îáíîâëåíèÿ çàäàíèÿ";
-$MESS["FILE_SAVE_ENTITY_BUCKET_ID_FIELD"] = "Èäåíòèôèêàòîð õðàíèëèùà";
-$MESS["FILE_SAVE_ENTITY_SUBDIR_FIELD"] = "Äèðåêòîðèÿ ôàéëà";
-$MESS["FILE_SAVE_ENTITY_FILE_NAME_FIELD"] = "Èìÿ ôàéëà";
-$MESS["FILE_SAVE_ENTITY_EXTERNAL_ID_FIELD"] = "Âíåøíèé èäåíòèôèêàòîð ôàéëà";
-$MESS["FILE_SAVE_ENTITY_FILE_SIZE_FIELD"] = "Ðàçìåð ôàéëà";
+$MESS["FILE_SAVE_ENTITY_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð·Ð°Ð´Ð°Ð½Ð¸Ñ";
+$MESS["FILE_SAVE_ENTITY_TIMESTAMP_X_FIELD"] = "Ð’Ñ€ÐµÐ¼Ñ Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ñ Ð·Ð°Ð´Ð°Ð½Ð¸Ñ";
+$MESS["FILE_SAVE_ENTITY_BUCKET_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ñ…Ñ€Ð°Ð½Ð¸Ð»Ð¸Ñ‰Ð°";
+$MESS["FILE_SAVE_ENTITY_SUBDIR_FIELD"] = "Ð”Ð¸Ñ€ÐµÐºÑ‚Ð¾Ñ€Ð¸Ñ Ñ„Ð°Ð¹Ð»Ð°";
+$MESS["FILE_SAVE_ENTITY_FILE_NAME_FIELD"] = "Ð˜Ð¼Ñ Ñ„Ð°Ð¹Ð»Ð°";
+$MESS["FILE_SAVE_ENTITY_EXTERNAL_ID_FIELD"] = "Ð’Ð½ÐµÑˆÐ½Ð¸Ð¹ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ñ„Ð°Ð¹Ð»Ð°";
+$MESS["FILE_SAVE_ENTITY_FILE_SIZE_FIELD"] = "Ð Ð°Ð·Ð¼ÐµÑ€ Ñ„Ð°Ð¹Ð»Ð°";
 ?>

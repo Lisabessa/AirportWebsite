@@ -1,10 +1,10 @@
 <?php
-$MESS["SALE_HPS_ADYEN_ERROR_QUERY"] = "Íåêîððåêòíûé èëè ïóñòîé îòâåò ñåðâåðà";
-$MESS["SALE_HPS_ADYEN_ERROR_SUM"] = "Ñóììà ïëàòåæà íå ñîâïàäàåò ñ ñóììîé îïëàòû";
-$MESS["SALE_HPS_ADYEN_TRANSACTION"] = "Òðàíçàêöèÿ ";
-$MESS["SALE_HPS_ADYEN_ERROR_CHECK_SUM"] = "Êîíòðîëüíàÿ ñóììà íå ñîâïàäàåò";
-$MESS["SALE_HPS_ADYEN_HTTP_STATUS"] = "Îøèáêà ïîëó÷åíèÿ îòâåòà. Ñòàòóñ: #HTTP_STATUS#";
-$MESS["SALE_HPS_ADYEN_SEND_REFUSAL_REASON_ERROR"] = "Îøèáêà ñîçäàíèÿ ïëàòåæà. Êîä îøèáêè: #RESULT_CODE#, ïðè÷èíà îøèáêè: #REFUSAL_REASON#";
-$MESS["SALE_HPS_ADYEN_SEND_RESULT_CODE_ERROR"] = "Îøèáêà ñîçäàíèÿ ïëàòåæà. Êîä îøèáêè: #RESULT_CODE#";
-$MESS["SALE_HPS_ADYEN_ERROR_URL"] = "Íå óäàëîñü ïîëó÷èòü url äëÿ: #ACTION#";
-$MESS["SALE_HPS_ADYEN_ERROR_ACTION"] = "Äåéñòâèå \"#ACTION#\" íå íàéäåíî";
+$MESS["SALE_HPS_ADYEN_ERROR_QUERY"] = "ÐÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ñ‹Ð¹ Ð¸Ð»Ð¸ Ð¿ÑƒÑÑ‚Ð¾Ð¹ Ð¾Ñ‚Ð²ÐµÑ‚ ÑÐµÑ€Ð²ÐµÑ€Ð°";
+$MESS["SALE_HPS_ADYEN_ERROR_SUM"] = "Ð¡ÑƒÐ¼Ð¼Ð° Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ð° Ð½Ðµ ÑÐ¾Ð²Ð¿Ð°Ð´Ð°ÐµÑ‚ Ñ ÑÑƒÐ¼Ð¼Ð¾Ð¹ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹";
+$MESS["SALE_HPS_ADYEN_TRANSACTION"] = "Ð¢Ñ€Ð°Ð½Ð·Ð°ÐºÑ†Ð¸Ñ ";
+$MESS["SALE_HPS_ADYEN_ERROR_CHECK_SUM"] = "ÐšÐ¾Ð½Ñ‚Ñ€Ð¾Ð»ÑŒÐ½Ð°Ñ ÑÑƒÐ¼Ð¼Ð° Ð½Ðµ ÑÐ¾Ð²Ð¿Ð°Ð´Ð°ÐµÑ‚";
+$MESS["SALE_HPS_ADYEN_HTTP_STATUS"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ð¾Ð»ÑƒÑ‡ÐµÐ½Ð¸Ñ Ð¾Ñ‚Ð²ÐµÑ‚Ð°. Ð¡Ñ‚Ð°Ñ‚ÑƒÑ: #HTTP_STATUS#";
+$MESS["SALE_HPS_ADYEN_SEND_REFUSAL_REASON_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ð°. ÐšÐ¾Ð´ Ð¾ÑˆÐ¸Ð±ÐºÐ¸: #RESULT_CODE#, Ð¿Ñ€Ð¸Ñ‡Ð¸Ð½Ð° Ð¾ÑˆÐ¸Ð±ÐºÐ¸: #REFUSAL_REASON#";
+$MESS["SALE_HPS_ADYEN_SEND_RESULT_CODE_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ð°. ÐšÐ¾Ð´ Ð¾ÑˆÐ¸Ð±ÐºÐ¸: #RESULT_CODE#";
+$MESS["SALE_HPS_ADYEN_ERROR_URL"] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ Ð¿Ð¾Ð»ÑƒÑ‡Ð¸Ñ‚ÑŒ url Ð´Ð»Ñ: #ACTION#";
+$MESS["SALE_HPS_ADYEN_ERROR_ACTION"] = "Ð”ÐµÐ¹ÑÑ‚Ð²Ð¸Ðµ \"#ACTION#\" Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾";

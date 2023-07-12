@@ -1,3 +1,3 @@
 <?
-$MESS["AJAX_REDIRECTOR_BAD_URL"] = "Íåêîððåêòíûé URL.";
+$MESS["AJAX_REDIRECTOR_BAD_URL"] = "ÐÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ñ‹Ð¹ URL.";
 ?>

@@ -1,8 +1,8 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Доска объявлений");
+$APPLICATION->SetTitle("Р”РѕСЃРєР° РѕР±СЉСЏРІР»РµРЅРёР№");
 ?>
-<h4><a href="#SITE_DIR#board/my/?edit=Y" >Добавить объявление</a>  <span class="small-grey">|</span>  <a href="#SITE_DIR#board/my/" >Мои объявления</a></h4>
+<h4><a href="#SITE_DIR#board/my/?edit=Y" >Р”РѕР±Р°РІРёС‚СЊ РѕР±СЉСЏРІР»РµРЅРёРµ</a>В  <span class="small-grey">|</span>В  <a href="#SITE_DIR#board/my/" >РњРѕРё РѕР±СЉСЏРІР»РµРЅРёСЏ</a></h4>
  <?$APPLICATION->IncludeComponent("bitrix:catalog.section", "board", array(
 	"IBLOCK_TYPE" => "services",
 	"IBLOCK_ID" => "#BOARD_IBLOCK_ID#",
@@ -60,7 +60,7 @@ $APPLICATION->SetTitle("Доска объявлений");
 	"USE_PRODUCT_QUANTITY" => "N",
 	"DISPLAY_TOP_PAGER" => "N",
 	"DISPLAY_BOTTOM_PAGER" => "Y",
-	"PAGER_TITLE" => "Объявления",
+	"PAGER_TITLE" => "РћР±СЉСЏРІР»РµРЅРёСЏ",
 	"PAGER_SHOW_ALWAYS" => "N",
 	"PAGER_TEMPLATE" => "",
 	"PAGER_DESC_NUMBERING" => "N",

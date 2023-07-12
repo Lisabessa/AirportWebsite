@@ -1,8 +1,8 @@
 <?
-$MESS["IBLOCK_PROPERTY_NOT_FOUND"] = "Ñâîéñòâî #ID# íå íàéäåíî.";
-$MESS["IBLOCK_PROPERTY_CHANGE_ERROR"] = "Îøèáêà (#CODE#) èçìåíåíèÿ ñâîéñòâà #ID#.";
-$MESS["IBLOCK_PROPERTY_ADD_ERROR"] = "Îøèáêà (#CODE#) äîáàâëåíèÿ ñâîéñòâà #ID#.";
-$MESS["IBLOCK_PROPERTY_CODE_FIRST_LETTER"] = "Êîä ñâîéñòâà íå ìîæåò íà÷èíàòüñÿ ñ öèôðû.";
-$MESS["IBLOCK_PROPERTY_BAD_NAME"] = "Íå ââåäåíî íàçâàíèå.";
-$MESS["IBLOCK_PROPERTY_WRONG_CODE"] = "Êîä ñâîéñòâà ìîæåò ñîñòîÿòü òîëüêî èç ëàòèíñêèõ ñèìâîëîâ, öèôð è çíàêà ïîä÷åðêèâàíèÿ.";
+$MESS["IBLOCK_PROPERTY_NOT_FOUND"] = "Ð¡Ð²Ð¾Ð¹ÑÑ‚Ð²Ð¾ #ID# Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾.";
+$MESS["IBLOCK_PROPERTY_CHANGE_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° (#CODE#) Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ ÑÐ²Ð¾Ð¹ÑÑ‚Ð²Ð° #ID#.";
+$MESS["IBLOCK_PROPERTY_ADD_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° (#CODE#) Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ñ ÑÐ²Ð¾Ð¹ÑÑ‚Ð²Ð° #ID#.";
+$MESS["IBLOCK_PROPERTY_CODE_FIRST_LETTER"] = "ÐšÐ¾Ð´ ÑÐ²Ð¾Ð¹ÑÑ‚Ð²Ð° Ð½Ðµ Ð¼Ð¾Ð¶ÐµÑ‚ Ð½Ð°Ñ‡Ð¸Ð½Ð°Ñ‚ÑŒÑÑ Ñ Ñ†Ð¸Ñ„Ñ€Ñ‹.";
+$MESS["IBLOCK_PROPERTY_BAD_NAME"] = "ÐÐµ Ð²Ð²ÐµÐ´ÐµÐ½Ð¾ Ð½Ð°Ð·Ð²Ð°Ð½Ð¸Ðµ.";
+$MESS["IBLOCK_PROPERTY_WRONG_CODE"] = "ÐšÐ¾Ð´ ÑÐ²Ð¾Ð¹ÑÑ‚Ð²Ð° Ð¼Ð¾Ð¶ÐµÑ‚ ÑÐ¾ÑÑ‚Ð¾ÑÑ‚ÑŒ Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð¸Ð· Ð»Ð°Ñ‚Ð¸Ð½ÑÐºÐ¸Ñ… ÑÐ¸Ð¼Ð²Ð¾Ð»Ð¾Ð², Ñ†Ð¸Ñ„Ñ€ Ð¸ Ð·Ð½Ð°ÐºÐ° Ð¿Ð¾Ð´Ñ‡ÐµÑ€ÐºÐ¸Ð²Ð°Ð½Ð¸Ñ.";
 ?>

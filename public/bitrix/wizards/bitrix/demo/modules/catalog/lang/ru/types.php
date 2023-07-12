@@ -1,5 +1,5 @@
 <?
-$MESS['CAT_PRICE_TYPE_BASE'] = 'Áàçîâàÿ öåíà';
-$MESS['CAT_PRICE_TYPE_WHOLESALE'] = 'Îïòîâàÿ öåíà';
-$MESS['CAT_PRICE_TYPE_RETAIL'] = 'Ðîçíè÷íàÿ öåíà';
+$MESS['CAT_PRICE_TYPE_BASE'] = 'Ð‘Ð°Ð·Ð¾Ð²Ð°Ñ Ñ†ÐµÐ½Ð°';
+$MESS['CAT_PRICE_TYPE_WHOLESALE'] = 'ÐžÐ¿Ñ‚Ð¾Ð²Ð°Ñ Ñ†ÐµÐ½Ð°';
+$MESS['CAT_PRICE_TYPE_RETAIL'] = 'Ð Ð¾Ð·Ð½Ð¸Ñ‡Ð½Ð°Ñ Ñ†ÐµÐ½Ð°';
 ?>

@@ -1,6 +1,6 @@
 <?php
 
-$MESS["SALE_ORDER_CANCEL_PAYMENT_EXIST_ACTIVE"] = "Ó çàêàçà åñòü àêòèâíûå îïëàòû";
+$MESS["SALE_ORDER_CANCEL_PAYMENT_EXIST_ACTIVE"] = "Ð£ Ð·Ð°ÐºÐ°Ð·Ð° ÐµÑÑ‚ÑŒ Ð°ÐºÑ‚Ð¸Ð²Ð½Ñ‹Ðµ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹";
 
 
  

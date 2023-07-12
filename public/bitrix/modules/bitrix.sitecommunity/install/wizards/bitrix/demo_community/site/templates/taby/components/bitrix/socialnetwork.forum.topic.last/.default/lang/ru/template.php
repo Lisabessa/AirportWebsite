@@ -1,5 +1,5 @@
 <?
-$MESS ['SONET_FORUM_M_VIEWS'] = "Просмотров";
-$MESS ['SONET_FORUM_M_NUM_COMMENTS'] = "Ответов";
-$MESS ['SONET_FORUM_EMPTY'] = "В форуме пока нет сообщений";
+$MESS ['SONET_FORUM_M_VIEWS'] = "РџСЂРѕСЃРјРѕС‚СЂРѕРІ";
+$MESS ['SONET_FORUM_M_NUM_COMMENTS'] = "РћС‚РІРµС‚РѕРІ";
+$MESS ['SONET_FORUM_EMPTY'] = "Р’ С„РѕСЂСѓРјРµ РїРѕРєР° РЅРµС‚ СЃРѕРѕР±С‰РµРЅРёР№";
 ?>

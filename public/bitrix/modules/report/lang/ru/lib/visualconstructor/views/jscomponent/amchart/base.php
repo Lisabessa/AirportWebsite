@@ -1,3 +1,3 @@
 <?php
 
-$MESS['AM_CHART_SHOW_ALL_BUTTON_TEXT'] = 'Ïîêàçàòü âñå';
+$MESS['AM_CHART_SHOW_ALL_BUTTON_TEXT'] = 'ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ Ð²ÑÐµ';

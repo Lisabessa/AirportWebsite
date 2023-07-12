@@ -1,8 +1,8 @@
 <?
-$MESS["IM_ERROR_EMPTY_FROM_USER_ID"] = "Íå çàäàí îòïðàâèòåëü ñîîáùåíèÿ";
-$MESS["IM_ERROR_EMPTY_TO_USER_ID"] = "Íå çàäàí ïîëó÷àòåëü ñîîáùåíèÿ";
-$MESS["IM_ERROR_EMPTY_MESSAGE"] = "Íå çàäàí òåêñò ñîîáùåíèé";
-$MESS["IM_ERROR_EMPTY_USER_ID"] = "Íå çàäàí èäåíòèôèêàòîð ïîëüçîâàòåëÿ";
+$MESS["IM_ERROR_EMPTY_FROM_USER_ID"] = "ÐÐµ Ð·Ð°Ð´Ð°Ð½ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»ÑŒ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
+$MESS["IM_ERROR_EMPTY_TO_USER_ID"] = "ÐÐµ Ð·Ð°Ð´Ð°Ð½ Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»ÑŒ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
+$MESS["IM_ERROR_EMPTY_MESSAGE"] = "ÐÐµ Ð·Ð°Ð´Ð°Ð½ Ñ‚ÐµÐºÑÑ‚ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ð¹";
+$MESS["IM_ERROR_EMPTY_USER_ID"] = "ÐÐµ Ð·Ð°Ð´Ð°Ð½ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
 $MESS["IM_MESSAGE_FORMAT_DATE"] = "H:i, d F Y";
 $MESS["IM_MESSAGE_FORMAT_TIME"] = "H:i";
 ?>

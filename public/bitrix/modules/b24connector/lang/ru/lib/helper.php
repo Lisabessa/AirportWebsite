@@ -1,10 +1,10 @@
 <?
-$MESS['B24C_HLP_GM_TEXT'] = "Êëèåíòû";
-$MESS['B24C_HLP_GM_TITLE'] = "Èíòåãðàöèÿ ïîðòàëà ñ Áèòðèêñ24";
-$MESS["B24C_HLP_INTEGRATION"] = "Êîììóíèêàöèè ñ êëèåíòàìè";
-$MESS["B24C_HLP_CHAT"] = "Îíëàéí-÷àò";
-$MESS["B24C_HLP_BUTTONS"] = "Âèäæåòû";
-$MESS["B24C_HLP_OL"] = "Îòêðûòûå ëèíèè";
-$MESS["B24C_HLP_RECALL"] = "Îáðàòíûé çâîíîê";
-$MESS["B24C_HLP_CRM_FORM"] = "ÑRM-ôîðìû";
-$MESS["B24C_HLP_TELEPHONY"] = "Òåëåôîíèÿ";
+$MESS['B24C_HLP_GM_TEXT'] = "ÐšÐ»Ð¸ÐµÐ½Ñ‚Ñ‹";
+$MESS['B24C_HLP_GM_TITLE'] = "Ð˜Ð½Ñ‚ÐµÐ³Ñ€Ð°Ñ†Ð¸Ñ Ð¿Ð¾Ñ€Ñ‚Ð°Ð»Ð° Ñ Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ24";
+$MESS["B24C_HLP_INTEGRATION"] = "ÐšÐ¾Ð¼Ð¼ÑƒÐ½Ð¸ÐºÐ°Ñ†Ð¸Ð¸ Ñ ÐºÐ»Ð¸ÐµÐ½Ñ‚Ð°Ð¼Ð¸";
+$MESS["B24C_HLP_CHAT"] = "ÐžÐ½Ð»Ð°Ð¹Ð½-Ñ‡Ð°Ñ‚";
+$MESS["B24C_HLP_BUTTONS"] = "Ð’Ð¸Ð´Ð¶ÐµÑ‚Ñ‹";
+$MESS["B24C_HLP_OL"] = "ÐžÑ‚ÐºÑ€Ñ‹Ñ‚Ñ‹Ðµ Ð»Ð¸Ð½Ð¸Ð¸";
+$MESS["B24C_HLP_RECALL"] = "ÐžÐ±Ñ€Ð°Ñ‚Ð½Ñ‹Ð¹ Ð·Ð²Ð¾Ð½Ð¾Ðº";
+$MESS["B24C_HLP_CRM_FORM"] = "Ð¡RM-Ñ„Ð¾Ñ€Ð¼Ñ‹";
+$MESS["B24C_HLP_TELEPHONY"] = "Ð¢ÐµÐ»ÐµÑ„Ð¾Ð½Ð¸Ñ";

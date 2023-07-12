@@ -1,6 +1,6 @@
 <?
 require_once($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/main/include/prolog_before.php");
-$APPLICATION->SetTitle("Àðõèâ îïðîñîâ");
+$APPLICATION->SetTitle("ÐÑ€Ñ…Ð¸Ð² Ð¾Ð¿Ñ€Ð¾ÑÐ¾Ð²");
 require_once($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/main/include/prolog_after.php");
 ?>
 

@@ -1,475 +1,475 @@
 <?
-$MESS ['SUP_SE_TICKET_NEW_FOR_AUTHOR_TITLE'] = "Íîâîå îáðàùåíèå (äëÿ àâòîðà)";
+$MESS ['SUP_SE_TICKET_NEW_FOR_AUTHOR_TITLE'] = "ÐÐ¾Ð²Ð¾Ðµ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ (Ð´Ð»Ñ Ð°Ð²Ñ‚Ð¾Ñ€Ð°)";
 $MESS ['SUP_SE_TICKET_NEW_FOR_AUTHOR_TEXT'] = "
-#ID# - ID îáðàùåíèÿ
-#LANGUAGE_ID# - èäåíòèôèêàòîð ÿçûêà ñàéòà ê êîòîðîìó ïðèâÿçàíî îáðàùåíèå
-#DATE_CREATE# - äàòà ñîçäàíèÿ 
-#TIMESTAMP# - äàòà èçìåíåíèÿ
-#DATE_CLOSE# - äàòà çàêðûòèÿ
-#TITLE# - çàãîëîâîê îáðàùåíèÿ
-#CATEGORY# - êàòåãîðèÿ îáðàùåíèÿ
-#STATUS# - ñòàòóñ îáðàùåíèÿ
-#CRITICALITY# - êðèòè÷íîñòü îáðàùåíèÿ
-#SLA# - óðîâåíü òåõïîääåðæêè
-#SOURCE# - èñòî÷íèê îáðàùåíèÿ (web, email, òåëåôîí è ò.ï.)
-#SPAM_MARK# - îòìåòêà î ñïàìå
-#MESSAGE_BODY# - òåêñò ñîîáùåíèÿ
-#FILES_LINKS# - ññûëêè íà ïðèêðåïëåííûå ôàéëû
-#ADMIN_EDIT_URL# - ññûëêà äëÿ èçìåíåíèÿ îáðàùåíèÿ (â àäìèíèñòðàòèâíóþ ÷àñòü)
-#PUBLIC_EDIT_URL# - ññûëêà äëÿ èçìåíåíèÿ îáðàùåíèÿ (â ïóáëè÷íóþ ÷àñòü)
+#ID# - ID Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#LANGUAGE_ID# - Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÐ·Ñ‹ÐºÐ° ÑÐ°Ð¹Ñ‚Ð° Ðº ÐºÐ¾Ñ‚Ð¾Ñ€Ð¾Ð¼Ñƒ Ð¿Ñ€Ð¸Ð²ÑÐ·Ð°Ð½Ð¾ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ
+#DATE_CREATE# - Ð´Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ 
+#TIMESTAMP# - Ð´Ð°Ñ‚Ð° Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ
+#DATE_CLOSE# - Ð´Ð°Ñ‚Ð° Ð·Ð°ÐºÑ€Ñ‹Ñ‚Ð¸Ñ
+#TITLE# - Ð·Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#CATEGORY# - ÐºÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ñ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#STATUS# - ÑÑ‚Ð°Ñ‚ÑƒÑ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#CRITICALITY# - ÐºÑ€Ð¸Ñ‚Ð¸Ñ‡Ð½Ð¾ÑÑ‚ÑŒ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#SLA# - ÑƒÑ€Ð¾Ð²ÐµÐ½ÑŒ Ñ‚ÐµÑ…Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ¸
+#SOURCE# - Ð¸ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ (web, email, Ñ‚ÐµÐ»ÐµÑ„Ð¾Ð½ Ð¸ Ñ‚.Ð¿.)
+#SPAM_MARK# - Ð¾Ñ‚Ð¼ÐµÑ‚ÐºÐ° Ð¾ ÑÐ¿Ð°Ð¼Ðµ
+#MESSAGE_BODY# - Ñ‚ÐµÐºÑÑ‚ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
+#FILES_LINKS# - ÑÑÑ‹Ð»ÐºÐ¸ Ð½Ð° Ð¿Ñ€Ð¸ÐºÑ€ÐµÐ¿Ð»ÐµÐ½Ð½Ñ‹Ðµ Ñ„Ð°Ð¹Ð»Ñ‹
+#ADMIN_EDIT_URL# - ÑÑÑ‹Ð»ÐºÐ° Ð´Ð»Ñ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ (Ð² Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¸Ð²Ð½ÑƒÑŽ Ñ‡Ð°ÑÑ‚ÑŒ)
+#PUBLIC_EDIT_URL# - ÑÑÑ‹Ð»ÐºÐ° Ð´Ð»Ñ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ (Ð² Ð¿ÑƒÐ±Ð»Ð¸Ñ‡Ð½ÑƒÑŽ Ñ‡Ð°ÑÑ‚ÑŒ)
 
-#OWNER_EMAIL# - #OWNER_USER_EMAIL# è/èëè #OWNER_SID#
-#OWNER_USER_ID# - ID àâòîðà îáðàùåíèÿ
-#OWNER_USER_NAME# - èìÿ àâòîðà îáðàùåíèÿ
-#OWNER_USER_LOGIN# - ëîãèí àâòîðà îáðàùåíèÿ
-#OWNER_USER_EMAIL# - email àâòîðà îáðàùåíèÿ
+#OWNER_EMAIL# - #OWNER_USER_EMAIL# Ð¸/Ð¸Ð»Ð¸ #OWNER_SID#
+#OWNER_USER_ID# - ID Ð°Ð²Ñ‚Ð¾Ñ€Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#OWNER_USER_NAME# - Ð¸Ð¼Ñ Ð°Ð²Ñ‚Ð¾Ñ€Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#OWNER_USER_LOGIN# - Ð»Ð¾Ð³Ð¸Ð½ Ð°Ð²Ñ‚Ð¾Ñ€Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#OWNER_USER_EMAIL# - email Ð°Ð²Ñ‚Ð¾Ñ€Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
 #OWNER_TEXT# - [#OWNER_USER_ID#] (#OWNER_USER_LOGIN#) #OWNER_USER_NAME#
-#OWNER_SID# - ïðîèçâîëüíûé èäåíòèôèêàòîð àâòîðà îáðàùåíèÿ (email, òåëåôîí è ò.ï.)
+#OWNER_SID# - Ð¿Ñ€Ð¾Ð¸Ð·Ð²Ð¾Ð»ÑŒÐ½Ñ‹Ð¹ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð°Ð²Ñ‚Ð¾Ñ€Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ (email, Ñ‚ÐµÐ»ÐµÑ„Ð¾Ð½ Ð¸ Ñ‚.Ð¿.)
 
-#SUPPORT_EMAIL# - #RESPONSIBLE_USER_EMAIL# èëè #SUPPORT_ADMIN_EMAIL#
-#RESPONSIBLE_USER_ID# - ID îòâåòñòâåííîãî çà îáðàùåíèå
-#RESPONSIBLE_USER_NAME# - èìÿ îòâåòñòâåííîãî çà îáðàùåíèå
-#RESPONSIBLE_USER_LOGIN# - ëîãèí îòâåòñòâåííîãî çà îáðàùåíèå
-#RESPONSIBLE_USER_EMAIL# - email îòâåòñòâåííîãî çà îáðàùåíèå
+#SUPPORT_EMAIL# - #RESPONSIBLE_USER_EMAIL# Ð¸Ð»Ð¸ #SUPPORT_ADMIN_EMAIL#
+#RESPONSIBLE_USER_ID# - ID Ð¾Ñ‚Ð²ÐµÑ‚ÑÑ‚Ð²ÐµÐ½Ð½Ð¾Ð³Ð¾ Ð·Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ
+#RESPONSIBLE_USER_NAME# - Ð¸Ð¼Ñ Ð¾Ñ‚Ð²ÐµÑ‚ÑÑ‚Ð²ÐµÐ½Ð½Ð¾Ð³Ð¾ Ð·Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ
+#RESPONSIBLE_USER_LOGIN# - Ð»Ð¾Ð³Ð¸Ð½ Ð¾Ñ‚Ð²ÐµÑ‚ÑÑ‚Ð²ÐµÐ½Ð½Ð¾Ð³Ð¾ Ð·Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ
+#RESPONSIBLE_USER_EMAIL# - email Ð¾Ñ‚Ð²ÐµÑ‚ÑÑ‚Ð²ÐµÐ½Ð½Ð¾Ð³Ð¾ Ð·Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ
 #RESPONSIBLE_TEXT# - [#RESPONSIBLE_USER_ID#] (#RESPONSIBLE_USER_LOGIN#) #RESPONSIBLE_USER_NAME#
-#SUPPORT_ADMIN_EMAIL# - EMail âñåõ àäìèíèñòðàòîðîâ òåõïîääåðæêè
+#SUPPORT_ADMIN_EMAIL# - EMail Ð²ÑÐµÑ… Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¾Ñ€Ð¾Ð² Ñ‚ÐµÑ…Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ¸
 
-#CREATED_USER_ID# - ID ñîçäàòåëÿ îáðàùåíèÿ
-#CREATED_USER_LOGIN# - ëîãèí ñîçäàòåëÿ îáðàùåíèÿ
-#CREATED_USER_EMAIL# - email ñîçäàòåëÿ îáðàùåíèÿ
-#CREATED_USER_NAME# - èìÿ ñîçäàòåëÿ îáðàùåíèÿ
-#CREATED_MODULE_NAME# - èäåíòèôèêàòîð ìîäóëÿ ñðåäñòâàìè êîòîðîãî áûëî ñîçäàí îáðàùåíèå
+#CREATED_USER_ID# - ID ÑÐ¾Ð·Ð´Ð°Ñ‚ÐµÐ»Ñ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#CREATED_USER_LOGIN# - Ð»Ð¾Ð³Ð¸Ð½ ÑÐ¾Ð·Ð´Ð°Ñ‚ÐµÐ»Ñ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#CREATED_USER_EMAIL# - email ÑÐ¾Ð·Ð´Ð°Ñ‚ÐµÐ»Ñ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#CREATED_USER_NAME# - Ð¸Ð¼Ñ ÑÐ¾Ð·Ð´Ð°Ñ‚ÐµÐ»Ñ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#CREATED_MODULE_NAME# - Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¼Ð¾Ð´ÑƒÐ»Ñ ÑÑ€ÐµÐ´ÑÑ‚Ð²Ð°Ð¼Ð¸ ÐºÐ¾Ñ‚Ð¾Ñ€Ð¾Ð³Ð¾ Ð±Ñ‹Ð»Ð¾ ÑÐ¾Ð·Ð´Ð°Ð½ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ
 #CREATED_TEXT# - [#CREATED_USER_ID#] (#CREATED_USER_LOGIN#) #CREATED_USER_NAME#
 
-#SUPPORT_COMMENTS# - àäìèíèñòðàòèâíûé êîììåíòàðèé
+#SUPPORT_COMMENTS# - Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¸Ð²Ð½Ñ‹Ð¹ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹
 
 ";
-$MESS ['SUP_SE_TICKET_NEW_FOR_TECHSUPPORT_TITLE'] = "Íîâîå îáðàùåíèå (äëÿ òåõïîääåðæêè)";
+$MESS ['SUP_SE_TICKET_NEW_FOR_TECHSUPPORT_TITLE'] = "ÐÐ¾Ð²Ð¾Ðµ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ (Ð´Ð»Ñ Ñ‚ÐµÑ…Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ¸)";
 $MESS ['SUP_SE_TICKET_NEW_FOR_TECHSUPPORT_TEXT'] = "
-#ID# - ID îáðàùåíèÿ
-#LANGUAGE_ID# - èäåíòèôèêàòîð ÿçûêà ñàéòà ê êîòîðîìó ïðèâÿçàíî îáðàùåíèå
-#DATE_CREATE# - äàòà ñîçäàíèÿ 
-#TIMESTAMP# - äàòà èçìåíåíèÿ
-#DATE_CLOSE# - äàòà çàêðûòèÿ
-#TITLE# - çàãîëîâîê îáðàùåíèÿ
-#CATEGORY# - êàòåãîðèÿ îáðàùåíèÿ
-#STATUS# - ñòàòóñ îáðàùåíèÿ
-#CRITICALITY# - êðèòè÷íîñòü îáðàùåíèÿ
-#SLA# - óðîâåíü òåõïîääåðæêè
-#SOURCE# - èñòî÷íèê îáðàùåíèÿ (web, email, òåëåôîí è ò.ï.)
-#SPAM_MARK# - îòìåòêà î ñïàìå
-#MESSAGE_BODY# - òåêñò ñîîáùåíèÿ
-#FILES_LINKS# - ññûëêè íà ïðèêðåïëåííûå ôàéëû
-#ADMIN_EDIT_URL# - ññûëêà äëÿ èçìåíåíèÿ îáðàùåíèÿ (â àäìèíèñòðàòèâíóþ ÷àñòü)
-#PUBLIC_EDIT_URL# - ññûëêà äëÿ èçìåíåíèÿ îáðàùåíèÿ (â ïóáëè÷íóþ ÷àñòü)
+#ID# - ID Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#LANGUAGE_ID# - Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÐ·Ñ‹ÐºÐ° ÑÐ°Ð¹Ñ‚Ð° Ðº ÐºÐ¾Ñ‚Ð¾Ñ€Ð¾Ð¼Ñƒ Ð¿Ñ€Ð¸Ð²ÑÐ·Ð°Ð½Ð¾ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ
+#DATE_CREATE# - Ð´Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ 
+#TIMESTAMP# - Ð´Ð°Ñ‚Ð° Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ
+#DATE_CLOSE# - Ð´Ð°Ñ‚Ð° Ð·Ð°ÐºÑ€Ñ‹Ñ‚Ð¸Ñ
+#TITLE# - Ð·Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#CATEGORY# - ÐºÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ñ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#STATUS# - ÑÑ‚Ð°Ñ‚ÑƒÑ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#CRITICALITY# - ÐºÑ€Ð¸Ñ‚Ð¸Ñ‡Ð½Ð¾ÑÑ‚ÑŒ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#SLA# - ÑƒÑ€Ð¾Ð²ÐµÐ½ÑŒ Ñ‚ÐµÑ…Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ¸
+#SOURCE# - Ð¸ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ (web, email, Ñ‚ÐµÐ»ÐµÑ„Ð¾Ð½ Ð¸ Ñ‚.Ð¿.)
+#SPAM_MARK# - Ð¾Ñ‚Ð¼ÐµÑ‚ÐºÐ° Ð¾ ÑÐ¿Ð°Ð¼Ðµ
+#MESSAGE_BODY# - Ñ‚ÐµÐºÑÑ‚ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
+#FILES_LINKS# - ÑÑÑ‹Ð»ÐºÐ¸ Ð½Ð° Ð¿Ñ€Ð¸ÐºÑ€ÐµÐ¿Ð»ÐµÐ½Ð½Ñ‹Ðµ Ñ„Ð°Ð¹Ð»Ñ‹
+#ADMIN_EDIT_URL# - ÑÑÑ‹Ð»ÐºÐ° Ð´Ð»Ñ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ (Ð² Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¸Ð²Ð½ÑƒÑŽ Ñ‡Ð°ÑÑ‚ÑŒ)
+#PUBLIC_EDIT_URL# - ÑÑÑ‹Ð»ÐºÐ° Ð´Ð»Ñ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ (Ð² Ð¿ÑƒÐ±Ð»Ð¸Ñ‡Ð½ÑƒÑŽ Ñ‡Ð°ÑÑ‚ÑŒ)
 
-#OWNER_EMAIL# - #OWNER_USER_EMAIL# è/èëè #OWNER_SID#
-#OWNER_USER_ID# - ID àâòîðà îáðàùåíèÿ
-#OWNER_USER_NAME# - èìÿ àâòîðà îáðàùåíèÿ
-#OWNER_USER_LOGIN# - ëîãèí àâòîðà îáðàùåíèÿ
-#OWNER_USER_EMAIL# - email àâòîðà îáðàùåíèÿ
+#OWNER_EMAIL# - #OWNER_USER_EMAIL# Ð¸/Ð¸Ð»Ð¸ #OWNER_SID#
+#OWNER_USER_ID# - ID Ð°Ð²Ñ‚Ð¾Ñ€Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#OWNER_USER_NAME# - Ð¸Ð¼Ñ Ð°Ð²Ñ‚Ð¾Ñ€Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#OWNER_USER_LOGIN# - Ð»Ð¾Ð³Ð¸Ð½ Ð°Ð²Ñ‚Ð¾Ñ€Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#OWNER_USER_EMAIL# - email Ð°Ð²Ñ‚Ð¾Ñ€Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
 #OWNER_TEXT# - [#OWNER_USER_ID#] (#OWNER_USER_LOGIN#) #OWNER_USER_NAME#
-#OWNER_SID# - ïðîèçâîëüíûé èäåíòèôèêàòîð àâòîðà îáðàùåíèÿ (email, òåëåôîí è ò.ï.)
+#OWNER_SID# - Ð¿Ñ€Ð¾Ð¸Ð·Ð²Ð¾Ð»ÑŒÐ½Ñ‹Ð¹ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð°Ð²Ñ‚Ð¾Ñ€Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ (email, Ñ‚ÐµÐ»ÐµÑ„Ð¾Ð½ Ð¸ Ñ‚.Ð¿.)
 
-#SUPPORT_EMAIL# - #RESPONSIBLE_USER_EMAIL# èëè #SUPPORT_ADMIN_EMAIL#
-#RESPONSIBLE_USER_ID# - ID îòâåòñòâåííîãî çà îáðàùåíèå
-#RESPONSIBLE_USER_NAME# - èìÿ îòâåòñòâåííîãî çà îáðàùåíèå
-#RESPONSIBLE_USER_LOGIN# - ëîãèí îòâåòñòâåííîãî çà îáðàùåíèå
-#RESPONSIBLE_USER_EMAIL# - email îòâåòñòâåííîãî çà îáðàùåíèå
+#SUPPORT_EMAIL# - #RESPONSIBLE_USER_EMAIL# Ð¸Ð»Ð¸ #SUPPORT_ADMIN_EMAIL#
+#RESPONSIBLE_USER_ID# - ID Ð¾Ñ‚Ð²ÐµÑ‚ÑÑ‚Ð²ÐµÐ½Ð½Ð¾Ð³Ð¾ Ð·Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ
+#RESPONSIBLE_USER_NAME# - Ð¸Ð¼Ñ Ð¾Ñ‚Ð²ÐµÑ‚ÑÑ‚Ð²ÐµÐ½Ð½Ð¾Ð³Ð¾ Ð·Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ
+#RESPONSIBLE_USER_LOGIN# - Ð»Ð¾Ð³Ð¸Ð½ Ð¾Ñ‚Ð²ÐµÑ‚ÑÑ‚Ð²ÐµÐ½Ð½Ð¾Ð³Ð¾ Ð·Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ
+#RESPONSIBLE_USER_EMAIL# - email Ð¾Ñ‚Ð²ÐµÑ‚ÑÑ‚Ð²ÐµÐ½Ð½Ð¾Ð³Ð¾ Ð·Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ
 #RESPONSIBLE_TEXT# - [#RESPONSIBLE_USER_ID#] (#RESPONSIBLE_USER_LOGIN#) #RESPONSIBLE_USER_NAME#
-#SUPPORT_ADMIN_EMAIL# - EMail âñåõ àäìèíèñòðàòîðîâ òåõïîääåðæêè
+#SUPPORT_ADMIN_EMAIL# - EMail Ð²ÑÐµÑ… Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¾Ñ€Ð¾Ð² Ñ‚ÐµÑ…Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ¸
 
-#CREATED_USER_ID# - ID ñîçäàòåëÿ îáðàùåíèÿ
-#CREATED_USER_LOGIN# - ëîãèí ñîçäàòåëÿ îáðàùåíèÿ
-#CREATED_USER_EMAIL# - email ñîçäàòåëÿ îáðàùåíèÿ
-#CREATED_USER_NAME# - èìÿ ñîçäàòåëÿ îáðàùåíèÿ
-#CREATED_MODULE_NAME# - èäåíòèôèêàòîð ìîäóëÿ ñðåäñòâàìè êîòîðîãî áûëî ñîçäàí îáðàùåíèå
+#CREATED_USER_ID# - ID ÑÐ¾Ð·Ð´Ð°Ñ‚ÐµÐ»Ñ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#CREATED_USER_LOGIN# - Ð»Ð¾Ð³Ð¸Ð½ ÑÐ¾Ð·Ð´Ð°Ñ‚ÐµÐ»Ñ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#CREATED_USER_EMAIL# - email ÑÐ¾Ð·Ð´Ð°Ñ‚ÐµÐ»Ñ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#CREATED_USER_NAME# - Ð¸Ð¼Ñ ÑÐ¾Ð·Ð´Ð°Ñ‚ÐµÐ»Ñ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#CREATED_MODULE_NAME# - Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¼Ð¾Ð´ÑƒÐ»Ñ ÑÑ€ÐµÐ´ÑÑ‚Ð²Ð°Ð¼Ð¸ ÐºÐ¾Ñ‚Ð¾Ñ€Ð¾Ð³Ð¾ Ð±Ñ‹Ð»Ð¾ ÑÐ¾Ð·Ð´Ð°Ð½ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ
 #CREATED_TEXT# - [#CREATED_USER_ID#] (#CREATED_USER_LOGIN#) #CREATED_USER_NAME#
 
-#SUPPORT_COMMENTS# - àäìèíèñòðàòèâíûé êîììåíòàðèé
+#SUPPORT_COMMENTS# - Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¸Ð²Ð½Ñ‹Ð¹ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹
 
-#COUPON# - Êóïîí
+#COUPON# - ÐšÑƒÐ¿Ð¾Ð½
 ";
-$MESS ['SUP_SE_TICKET_CHANGE_BY_SUPPORT_FOR_AUTHOR_TITLE'] = "Îáðàùåíèå èçìåíåíî ñîòðóäíèêîì òåõïîääåðæêè (äëÿ àâòîðà)";
+$MESS ['SUP_SE_TICKET_CHANGE_BY_SUPPORT_FOR_AUTHOR_TITLE'] = "ÐžÐ±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¾ ÑÐ¾Ñ‚Ñ€ÑƒÐ´Ð½Ð¸ÐºÐ¾Ð¼ Ñ‚ÐµÑ…Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ¸ (Ð´Ð»Ñ Ð°Ð²Ñ‚Ð¾Ñ€Ð°)";
 $MESS ['SUP_SE_TICKET_CHANGE_BY_SUPPORT_FOR_AUTHOR_TEXT'] = "
-#ID# - ID îáðàùåíèÿ
-#LANGUAGE_ID# - èäåíòèôèêàòîð ÿçûêà ñàéòà ê êîòîðîìó ïðèâÿçàíî îáðàùåíèå
-#WHAT_CHANGE# - ñïèñîê òîãî ÷òî â îáðàùåíèè èçìåíèëîñü
-#DATE_CREATE# - äàòà ñîçäàíèÿ 
-#TIMESTAMP# - äàòà èçìåíåíèÿ
-#DATE_CLOSE# - äàòà çàêðûòèÿ
-#TITLE# - çàãîëîâîê îáðàùåíèÿ
-#STATUS# - ñòàòóñ îáðàùåíèÿ
-#CATEGORY# - êàòåãîðèÿ îáðàùåíèÿ
-#CRITICALITY# - êðèòè÷íîñòü îáðàùåíèÿ
-#RATE# - îöåíêà îòâåòîâ
-#SLA# - óðîâåíü òåõïîääåðæêè
-#SOURCE# - ïåðâîíà÷àëüíûé èñòî÷íèê îáðàùåíèÿ (web, email, òåëåôîí è ò.ä.)
-#SPAM_MARK# - îòìåòêà î ñïàìå
-#MESSAGES_AMOUNT# - êîëè÷åñòâî ñîîáùåíèé â îáðàùåíèè
-#ADMIN_EDIT_URL# - ññûëêà äëÿ èçìåíåíèÿ îáðàùåíèÿ (â àäìèíèñòðàòèâíóþ ÷àñòü)
-#PUBLIC_EDIT_URL# - ññûëêà äëÿ èçìåíåíèÿ îáðàùåíèÿ (â ïóáëè÷íóþ ÷àñòü)
+#ID# - ID Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#LANGUAGE_ID# - Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÐ·Ñ‹ÐºÐ° ÑÐ°Ð¹Ñ‚Ð° Ðº ÐºÐ¾Ñ‚Ð¾Ñ€Ð¾Ð¼Ñƒ Ð¿Ñ€Ð¸Ð²ÑÐ·Ð°Ð½Ð¾ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ
+#WHAT_CHANGE# - ÑÐ¿Ð¸ÑÐ¾Ðº Ñ‚Ð¾Ð³Ð¾ Ñ‡Ñ‚Ð¾ Ð² Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ð¸ Ð¸Ð·Ð¼ÐµÐ½Ð¸Ð»Ð¾ÑÑŒ
+#DATE_CREATE# - Ð´Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ 
+#TIMESTAMP# - Ð´Ð°Ñ‚Ð° Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ
+#DATE_CLOSE# - Ð´Ð°Ñ‚Ð° Ð·Ð°ÐºÑ€Ñ‹Ñ‚Ð¸Ñ
+#TITLE# - Ð·Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#STATUS# - ÑÑ‚Ð°Ñ‚ÑƒÑ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#CATEGORY# - ÐºÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ñ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#CRITICALITY# - ÐºÑ€Ð¸Ñ‚Ð¸Ñ‡Ð½Ð¾ÑÑ‚ÑŒ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#RATE# - Ð¾Ñ†ÐµÐ½ÐºÐ° Ð¾Ñ‚Ð²ÐµÑ‚Ð¾Ð²
+#SLA# - ÑƒÑ€Ð¾Ð²ÐµÐ½ÑŒ Ñ‚ÐµÑ…Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ¸
+#SOURCE# - Ð¿ÐµÑ€Ð²Ð¾Ð½Ð°Ñ‡Ð°Ð»ÑŒÐ½Ñ‹Ð¹ Ð¸ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ (web, email, Ñ‚ÐµÐ»ÐµÑ„Ð¾Ð½ Ð¸ Ñ‚.Ð´.)
+#SPAM_MARK# - Ð¾Ñ‚Ð¼ÐµÑ‚ÐºÐ° Ð¾ ÑÐ¿Ð°Ð¼Ðµ
+#MESSAGES_AMOUNT# - ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ð¹ Ð² Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ð¸
+#ADMIN_EDIT_URL# - ÑÑÑ‹Ð»ÐºÐ° Ð´Ð»Ñ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ (Ð² Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¸Ð²Ð½ÑƒÑŽ Ñ‡Ð°ÑÑ‚ÑŒ)
+#PUBLIC_EDIT_URL# - ÑÑÑ‹Ð»ÐºÐ° Ð´Ð»Ñ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ (Ð² Ð¿ÑƒÐ±Ð»Ð¸Ñ‡Ð½ÑƒÑŽ Ñ‡Ð°ÑÑ‚ÑŒ)
 
-#OWNER_EMAIL# - #OWNER_USER_EMAIL# è/èëè #OWNER_SID#
-#OWNER_USER_ID# - ID àâòîðà îáðàùåíèÿ
-#OWNER_USER_NAME# - èìÿ àâòîðà îáðàùåíèÿ
-#OWNER_USER_LOGIN# - ëîãèí àâòîðà îáðàùåíèÿ
-#OWNER_USER_EMAIL# - email àâòîðà îáðàùåíèÿ
+#OWNER_EMAIL# - #OWNER_USER_EMAIL# Ð¸/Ð¸Ð»Ð¸ #OWNER_SID#
+#OWNER_USER_ID# - ID Ð°Ð²Ñ‚Ð¾Ñ€Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#OWNER_USER_NAME# - Ð¸Ð¼Ñ Ð°Ð²Ñ‚Ð¾Ñ€Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#OWNER_USER_LOGIN# - Ð»Ð¾Ð³Ð¸Ð½ Ð°Ð²Ñ‚Ð¾Ñ€Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#OWNER_USER_EMAIL# - email Ð°Ð²Ñ‚Ð¾Ñ€Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
 #OWNER_TEXT# - [#OWNER_USER_ID#] (#OWNER_USER_LOGIN#) #OWNER_USER_NAME#
-#OWNER_SID# - ïðîèçâîëüíûé èäåíòèôèêàòîð àâòîðà îáðàùåíèÿ (email, òåëåôîí è ò.ï.)
+#OWNER_SID# - Ð¿Ñ€Ð¾Ð¸Ð·Ð²Ð¾Ð»ÑŒÐ½Ñ‹Ð¹ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð°Ð²Ñ‚Ð¾Ñ€Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ (email, Ñ‚ÐµÐ»ÐµÑ„Ð¾Ð½ Ð¸ Ñ‚.Ð¿.)
 
-#SUPPORT_EMAIL# - #RESPONSIBLE_USER_EMAIL# èëè #SUPPORT_ADMIN_EMAIL#
-#RESPONSIBLE_USER_ID# - ID îòâåòñòâåííîãî çà îáðàùåíèå
-#RESPONSIBLE_USER_NAME# - èìÿ îòâåòñòâåííîãî çà îáðàùåíèå
-#RESPONSIBLE_USER_LOGIN# - ëîãèí îòâåòñòâåííîãî çà îáðàùåíèå
-#RESPONSIBLE_USER_EMAIL# - email îòâåòñòâåííîãî çà îáðàùåíèå
+#SUPPORT_EMAIL# - #RESPONSIBLE_USER_EMAIL# Ð¸Ð»Ð¸ #SUPPORT_ADMIN_EMAIL#
+#RESPONSIBLE_USER_ID# - ID Ð¾Ñ‚Ð²ÐµÑ‚ÑÑ‚Ð²ÐµÐ½Ð½Ð¾Ð³Ð¾ Ð·Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ
+#RESPONSIBLE_USER_NAME# - Ð¸Ð¼Ñ Ð¾Ñ‚Ð²ÐµÑ‚ÑÑ‚Ð²ÐµÐ½Ð½Ð¾Ð³Ð¾ Ð·Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ
+#RESPONSIBLE_USER_LOGIN# - Ð»Ð¾Ð³Ð¸Ð½ Ð¾Ñ‚Ð²ÐµÑ‚ÑÑ‚Ð²ÐµÐ½Ð½Ð¾Ð³Ð¾ Ð·Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ
+#RESPONSIBLE_USER_EMAIL# - email Ð¾Ñ‚Ð²ÐµÑ‚ÑÑ‚Ð²ÐµÐ½Ð½Ð¾Ð³Ð¾ Ð·Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ
 #RESPONSIBLE_TEXT# - [#RESPONSIBLE_USER_ID#] (#RESPONSIBLE_USER_LOGIN#) #RESPONSIBLE_USER_NAME#
-#SUPPORT_ADMIN_EMAIL# - EMail àäìèíèñòðàòîðîâ òåõïîääåðæêè
+#SUPPORT_ADMIN_EMAIL# - EMail Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¾Ñ€Ð¾Ð² Ñ‚ÐµÑ…Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ¸
 
-#CREATED_USER_ID# - ID ñîçäàòåëÿ îáðàùåíèÿ
-#CREATED_USER_LOGIN# - ëîãèí ñîçäàòåëÿ îáðàùåíèÿ
-#CREATED_USER_EMAIL# - email ñîçäàòåëÿ îáðàùåíèÿ
-#CREATED_USER_NAME# - èìÿ ñîçäàòåëÿ îáðàùåíèÿ
-#CREATED_MODULE_NAME# - èäåíòèôèêàòîð ìîäóëÿ ñðåäñòâàìè êîòîðîãî áûëî ñîçäàí îáðàùåíèå
+#CREATED_USER_ID# - ID ÑÐ¾Ð·Ð´Ð°Ñ‚ÐµÐ»Ñ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#CREATED_USER_LOGIN# - Ð»Ð¾Ð³Ð¸Ð½ ÑÐ¾Ð·Ð´Ð°Ñ‚ÐµÐ»Ñ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#CREATED_USER_EMAIL# - email ÑÐ¾Ð·Ð´Ð°Ñ‚ÐµÐ»Ñ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#CREATED_USER_NAME# - Ð¸Ð¼Ñ ÑÐ¾Ð·Ð´Ð°Ñ‚ÐµÐ»Ñ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#CREATED_MODULE_NAME# - Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¼Ð¾Ð´ÑƒÐ»Ñ ÑÑ€ÐµÐ´ÑÑ‚Ð²Ð°Ð¼Ð¸ ÐºÐ¾Ñ‚Ð¾Ñ€Ð¾Ð³Ð¾ Ð±Ñ‹Ð»Ð¾ ÑÐ¾Ð·Ð´Ð°Ð½ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ
 #CREATED_TEXT# - [#CREATED_USER_ID#] (#CREATED_USER_LOGIN#) #CREATED_USER_NAME#
 
-#MODIFIED_USER_ID# - ID èçìåíèâøåãî îáðàùåíèå
-#MODIFIED_USER_LOGIN# - ëîãèí èçìåíèâøåãî îáðàùåíèå
-#MODIFIED_USER_EMAIL# - EMail èçìåíèâøåãî îáðàùåíèå
-#MODIFIED_USER_NAME# - èìÿ èçìåíèâøåãî îáðàùåíèå
-#MODIFIED_MODULE_NAME# - èäåíòèôèêàòîð ìîäóëÿ ñðåäñòâàìè êîòîðîãî áûë èçìåíåí îáðàùåíèå
+#MODIFIED_USER_ID# - ID Ð¸Ð·Ð¼ÐµÐ½Ð¸Ð²ÑˆÐµÐ³Ð¾ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ
+#MODIFIED_USER_LOGIN# - Ð»Ð¾Ð³Ð¸Ð½ Ð¸Ð·Ð¼ÐµÐ½Ð¸Ð²ÑˆÐµÐ³Ð¾ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ
+#MODIFIED_USER_EMAIL# - EMail Ð¸Ð·Ð¼ÐµÐ½Ð¸Ð²ÑˆÐµÐ³Ð¾ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ
+#MODIFIED_USER_NAME# - Ð¸Ð¼Ñ Ð¸Ð·Ð¼ÐµÐ½Ð¸Ð²ÑˆÐµÐ³Ð¾ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ
+#MODIFIED_MODULE_NAME# - Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¼Ð¾Ð´ÑƒÐ»Ñ ÑÑ€ÐµÐ´ÑÑ‚Ð²Ð°Ð¼Ð¸ ÐºÐ¾Ñ‚Ð¾Ñ€Ð¾Ð³Ð¾ Ð±Ñ‹Ð» Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ
 #MODIFIED_TEXT# - [#MODIFIED_USER_ID#] (#MODIFIED_USER_LOGIN#) #MODIFIED_USER_NAME#
 
-#MESSAGE_AUTHOR_USER_ID# - ID àâòîðà ñîîáùåíèÿ
-#MESSAGE_AUTHOR_USER_NAME# - èìÿ àâòîðà ñîîáùåíèÿ
-#MESSAGE_AUTHOR_USER_LOGIN# - ëîãèí àâòîðà ñîîáùåíèÿ
-#MESSAGE_AUTHOR_USER_EMAIL# - email àâòîðà ñîîáùåíèÿ
+#MESSAGE_AUTHOR_USER_ID# - ID Ð°Ð²Ñ‚Ð¾Ñ€Ð° ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
+#MESSAGE_AUTHOR_USER_NAME# - Ð¸Ð¼Ñ Ð°Ð²Ñ‚Ð¾Ñ€Ð° ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
+#MESSAGE_AUTHOR_USER_LOGIN# - Ð»Ð¾Ð³Ð¸Ð½ Ð°Ð²Ñ‚Ð¾Ñ€Ð° ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
+#MESSAGE_AUTHOR_USER_EMAIL# - email Ð°Ð²Ñ‚Ð¾Ñ€Ð° ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
 #MESSAGE_AUTHOR_TEXT# - [#MESSAGE_AUTHOR_USER_ID#] (#MESSAGE_AUTHOR_USER_LOGIN#) #MESSAGE_AUTHOR_USER_NAME#
-#MESSAGE_AUTHOR_SID# - ïðîèçâîëüíûé èäåíòèôèêàòîð àâòîðà ñîîáùåíèÿ (email, òåëåôîí è ò.ä.)
-#MESSAGE_SOURCE# - èñòî÷íèê ñîîáùåíèÿ
-#MESSAGE_BODY# - òåêñò ñîîáùåíèÿ
-#FILES_LINKS# - ññûëêè íà ïðèêðåïëåííûå ôàéëû
+#MESSAGE_AUTHOR_SID# - Ð¿Ñ€Ð¾Ð¸Ð·Ð²Ð¾Ð»ÑŒÐ½Ñ‹Ð¹ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð°Ð²Ñ‚Ð¾Ñ€Ð° ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ (email, Ñ‚ÐµÐ»ÐµÑ„Ð¾Ð½ Ð¸ Ñ‚.Ð´.)
+#MESSAGE_SOURCE# - Ð¸ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
+#MESSAGE_BODY# - Ñ‚ÐµÐºÑÑ‚ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
+#FILES_LINKS# - ÑÑÑ‹Ð»ÐºÐ¸ Ð½Ð° Ð¿Ñ€Ð¸ÐºÑ€ÐµÐ¿Ð»ÐµÐ½Ð½Ñ‹Ðµ Ñ„Ð°Ð¹Ð»Ñ‹
 
-#SUPPORT_COMMENTS# - àäìèíèñòðàòèâíûé êîììåíòàðèé
+#SUPPORT_COMMENTS# - Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¸Ð²Ð½Ñ‹Ð¹ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹
 
 ";
-$MESS ['SUP_SE_TICKET_CHANGE_BY_AUTHOR_FOR_AUTHOR_TITLE'] = "Îáðàùåíèå èçìåíåíî àâòîðîì (äëÿ àâòîðà)";
+$MESS ['SUP_SE_TICKET_CHANGE_BY_AUTHOR_FOR_AUTHOR_TITLE'] = "ÐžÐ±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¾ Ð°Ð²Ñ‚Ð¾Ñ€Ð¾Ð¼ (Ð´Ð»Ñ Ð°Ð²Ñ‚Ð¾Ñ€Ð°)";
 $MESS ['SUP_SE_TICKET_CHANGE_BY_AUTHOR_FOR_AUTHOR_TEXT'] = "
-#ID# - ID îáðàùåíèÿ
-#LANGUAGE_ID# - èäåíòèôèêàòîð ÿçûêà ñàéòà ê êîòîðîìó ïðèâÿçàíî îáðàùåíèå
-#WHAT_CHANGE# - ñïèñîê òîãî ÷òî â îáðàùåíèè èçìåíèëîñü
-#DATE_CREATE# - äàòà ñîçäàíèÿ 
-#TIMESTAMP# - äàòà èçìåíåíèÿ
-#DATE_CLOSE# - äàòà çàêðûòèÿ
-#TITLE# - çàãîëîâîê îáðàùåíèÿ
-#STATUS# - ñòàòóñ îáðàùåíèÿ
-#CATEGORY# - êàòåãîðèÿ îáðàùåíèÿ
-#CRITICALITY# - êðèòè÷íîñòü îáðàùåíèÿ
-#RATE# - îöåíêà îòâåòîâ
-#SLA# - óðîâåíü òåõïîääåðæêè
-#SOURCE# - ïåðâîíà÷àëüíûé èñòî÷íèê îáðàùåíèÿ (web, email, òåëåôîí è ò.ä.)
-#SPAM_MARK# - îòìåòêà î ñïàìå
-#MESSAGES_AMOUNT# - êîëè÷åñòâî ñîîáùåíèé â îáðàùåíèè
-#ADMIN_EDIT_URL# - ññûëêà äëÿ èçìåíåíèÿ îáðàùåíèÿ (â àäìèíèñòðàòèâíóþ ÷àñòü)
-#PUBLIC_EDIT_URL# - ññûëêà äëÿ èçìåíåíèÿ îáðàùåíèÿ (â ïóáëè÷íóþ ÷àñòü)
+#ID# - ID Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#LANGUAGE_ID# - Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÐ·Ñ‹ÐºÐ° ÑÐ°Ð¹Ñ‚Ð° Ðº ÐºÐ¾Ñ‚Ð¾Ñ€Ð¾Ð¼Ñƒ Ð¿Ñ€Ð¸Ð²ÑÐ·Ð°Ð½Ð¾ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ
+#WHAT_CHANGE# - ÑÐ¿Ð¸ÑÐ¾Ðº Ñ‚Ð¾Ð³Ð¾ Ñ‡Ñ‚Ð¾ Ð² Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ð¸ Ð¸Ð·Ð¼ÐµÐ½Ð¸Ð»Ð¾ÑÑŒ
+#DATE_CREATE# - Ð´Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ 
+#TIMESTAMP# - Ð´Ð°Ñ‚Ð° Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ
+#DATE_CLOSE# - Ð´Ð°Ñ‚Ð° Ð·Ð°ÐºÑ€Ñ‹Ñ‚Ð¸Ñ
+#TITLE# - Ð·Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#STATUS# - ÑÑ‚Ð°Ñ‚ÑƒÑ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#CATEGORY# - ÐºÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ñ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#CRITICALITY# - ÐºÑ€Ð¸Ñ‚Ð¸Ñ‡Ð½Ð¾ÑÑ‚ÑŒ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#RATE# - Ð¾Ñ†ÐµÐ½ÐºÐ° Ð¾Ñ‚Ð²ÐµÑ‚Ð¾Ð²
+#SLA# - ÑƒÑ€Ð¾Ð²ÐµÐ½ÑŒ Ñ‚ÐµÑ…Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ¸
+#SOURCE# - Ð¿ÐµÑ€Ð²Ð¾Ð½Ð°Ñ‡Ð°Ð»ÑŒÐ½Ñ‹Ð¹ Ð¸ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ (web, email, Ñ‚ÐµÐ»ÐµÑ„Ð¾Ð½ Ð¸ Ñ‚.Ð´.)
+#SPAM_MARK# - Ð¾Ñ‚Ð¼ÐµÑ‚ÐºÐ° Ð¾ ÑÐ¿Ð°Ð¼Ðµ
+#MESSAGES_AMOUNT# - ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ð¹ Ð² Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ð¸
+#ADMIN_EDIT_URL# - ÑÑÑ‹Ð»ÐºÐ° Ð´Ð»Ñ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ (Ð² Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¸Ð²Ð½ÑƒÑŽ Ñ‡Ð°ÑÑ‚ÑŒ)
+#PUBLIC_EDIT_URL# - ÑÑÑ‹Ð»ÐºÐ° Ð´Ð»Ñ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ (Ð² Ð¿ÑƒÐ±Ð»Ð¸Ñ‡Ð½ÑƒÑŽ Ñ‡Ð°ÑÑ‚ÑŒ)
 
-#OWNER_EMAIL# - #OWNER_USER_EMAIL# è/èëè #OWNER_SID#
-#OWNER_USER_ID# - ID àâòîðà îáðàùåíèÿ
-#OWNER_USER_NAME# - èìÿ àâòîðà îáðàùåíèÿ
-#OWNER_USER_LOGIN# - ëîãèí àâòîðà îáðàùåíèÿ
-#OWNER_USER_EMAIL# - email àâòîðà îáðàùåíèÿ
+#OWNER_EMAIL# - #OWNER_USER_EMAIL# Ð¸/Ð¸Ð»Ð¸ #OWNER_SID#
+#OWNER_USER_ID# - ID Ð°Ð²Ñ‚Ð¾Ñ€Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#OWNER_USER_NAME# - Ð¸Ð¼Ñ Ð°Ð²Ñ‚Ð¾Ñ€Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#OWNER_USER_LOGIN# - Ð»Ð¾Ð³Ð¸Ð½ Ð°Ð²Ñ‚Ð¾Ñ€Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#OWNER_USER_EMAIL# - email Ð°Ð²Ñ‚Ð¾Ñ€Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
 #OWNER_TEXT# - [#OWNER_USER_ID#] (#OWNER_USER_LOGIN#) #OWNER_USER_NAME#
-#OWNER_SID# - ïðîèçâîëüíûé èäåíòèôèêàòîð àâòîðà îáðàùåíèÿ (email, òåëåôîí è ò.ï.)
+#OWNER_SID# - Ð¿Ñ€Ð¾Ð¸Ð·Ð²Ð¾Ð»ÑŒÐ½Ñ‹Ð¹ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð°Ð²Ñ‚Ð¾Ñ€Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ (email, Ñ‚ÐµÐ»ÐµÑ„Ð¾Ð½ Ð¸ Ñ‚.Ð¿.)
 
-#SUPPORT_EMAIL# - #RESPONSIBLE_USER_EMAIL# èëè #SUPPORT_ADMIN_EMAIL#
-#RESPONSIBLE_USER_ID# - ID îòâåòñòâåííîãî çà îáðàùåíèå
-#RESPONSIBLE_USER_NAME# - èìÿ îòâåòñòâåííîãî çà îáðàùåíèå
-#RESPONSIBLE_USER_LOGIN# - ëîãèí îòâåòñòâåííîãî çà îáðàùåíèå
-#RESPONSIBLE_USER_EMAIL# - email îòâåòñòâåííîãî çà îáðàùåíèå
+#SUPPORT_EMAIL# - #RESPONSIBLE_USER_EMAIL# Ð¸Ð»Ð¸ #SUPPORT_ADMIN_EMAIL#
+#RESPONSIBLE_USER_ID# - ID Ð¾Ñ‚Ð²ÐµÑ‚ÑÑ‚Ð²ÐµÐ½Ð½Ð¾Ð³Ð¾ Ð·Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ
+#RESPONSIBLE_USER_NAME# - Ð¸Ð¼Ñ Ð¾Ñ‚Ð²ÐµÑ‚ÑÑ‚Ð²ÐµÐ½Ð½Ð¾Ð³Ð¾ Ð·Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ
+#RESPONSIBLE_USER_LOGIN# - Ð»Ð¾Ð³Ð¸Ð½ Ð¾Ñ‚Ð²ÐµÑ‚ÑÑ‚Ð²ÐµÐ½Ð½Ð¾Ð³Ð¾ Ð·Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ
+#RESPONSIBLE_USER_EMAIL# - email Ð¾Ñ‚Ð²ÐµÑ‚ÑÑ‚Ð²ÐµÐ½Ð½Ð¾Ð³Ð¾ Ð·Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ
 #RESPONSIBLE_TEXT# - [#RESPONSIBLE_USER_ID#] (#RESPONSIBLE_USER_LOGIN#) #RESPONSIBLE_USER_NAME#
-#SUPPORT_ADMIN_EMAIL# - EMail àäìèíèñòðàòîðîâ òåõïîääåðæêè
+#SUPPORT_ADMIN_EMAIL# - EMail Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¾Ñ€Ð¾Ð² Ñ‚ÐµÑ…Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ¸
 
-#CREATED_USER_ID# - ID ñîçäàòåëÿ îáðàùåíèÿ
-#CREATED_USER_LOGIN# - ëîãèí ñîçäàòåëÿ îáðàùåíèÿ
-#CREATED_USER_EMAIL# - email ñîçäàòåëÿ îáðàùåíèÿ
-#CREATED_USER_NAME# - èìÿ ñîçäàòåëÿ îáðàùåíèÿ
-#CREATED_MODULE_NAME# - èäåíòèôèêàòîð ìîäóëÿ ñðåäñòâàìè êîòîðîãî áûëî ñîçäàí îáðàùåíèå
+#CREATED_USER_ID# - ID ÑÐ¾Ð·Ð´Ð°Ñ‚ÐµÐ»Ñ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#CREATED_USER_LOGIN# - Ð»Ð¾Ð³Ð¸Ð½ ÑÐ¾Ð·Ð´Ð°Ñ‚ÐµÐ»Ñ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#CREATED_USER_EMAIL# - email ÑÐ¾Ð·Ð´Ð°Ñ‚ÐµÐ»Ñ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#CREATED_USER_NAME# - Ð¸Ð¼Ñ ÑÐ¾Ð·Ð´Ð°Ñ‚ÐµÐ»Ñ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#CREATED_MODULE_NAME# - Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¼Ð¾Ð´ÑƒÐ»Ñ ÑÑ€ÐµÐ´ÑÑ‚Ð²Ð°Ð¼Ð¸ ÐºÐ¾Ñ‚Ð¾Ñ€Ð¾Ð³Ð¾ Ð±Ñ‹Ð»Ð¾ ÑÐ¾Ð·Ð´Ð°Ð½ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ
 #CREATED_TEXT# - [#CREATED_USER_ID#] (#CREATED_USER_LOGIN#) #CREATED_USER_NAME#
 
-#MODIFIED_USER_ID# - ID èçìåíèâøåãî îáðàùåíèå
-#MODIFIED_USER_LOGIN# - ëîãèí èçìåíèâøåãî îáðàùåíèå
-#MODIFIED_USER_EMAIL# - EMail èçìåíèâøåãî îáðàùåíèå
-#MODIFIED_USER_NAME# - èìÿ èçìåíèâøåãî îáðàùåíèå
-#MODIFIED_MODULE_NAME# - èäåíòèôèêàòîð ìîäóëÿ ñðåäñòâàìè êîòîðîãî áûë èçìåíåí îáðàùåíèå
+#MODIFIED_USER_ID# - ID Ð¸Ð·Ð¼ÐµÐ½Ð¸Ð²ÑˆÐµÐ³Ð¾ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ
+#MODIFIED_USER_LOGIN# - Ð»Ð¾Ð³Ð¸Ð½ Ð¸Ð·Ð¼ÐµÐ½Ð¸Ð²ÑˆÐµÐ³Ð¾ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ
+#MODIFIED_USER_EMAIL# - EMail Ð¸Ð·Ð¼ÐµÐ½Ð¸Ð²ÑˆÐµÐ³Ð¾ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ
+#MODIFIED_USER_NAME# - Ð¸Ð¼Ñ Ð¸Ð·Ð¼ÐµÐ½Ð¸Ð²ÑˆÐµÐ³Ð¾ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ
+#MODIFIED_MODULE_NAME# - Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¼Ð¾Ð´ÑƒÐ»Ñ ÑÑ€ÐµÐ´ÑÑ‚Ð²Ð°Ð¼Ð¸ ÐºÐ¾Ñ‚Ð¾Ñ€Ð¾Ð³Ð¾ Ð±Ñ‹Ð» Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ
 #MODIFIED_TEXT# - [#MODIFIED_USER_ID#] (#MODIFIED_USER_LOGIN#) #MODIFIED_USER_NAME#
 
-#MESSAGE_AUTHOR_USER_ID# - ID àâòîðà ñîîáùåíèÿ
-#MESSAGE_AUTHOR_USER_NAME# - èìÿ àâòîðà ñîîáùåíèÿ
-#MESSAGE_AUTHOR_USER_LOGIN# - ëîãèí àâòîðà ñîîáùåíèÿ
-#MESSAGE_AUTHOR_USER_EMAIL# - email àâòîðà ñîîáùåíèÿ
+#MESSAGE_AUTHOR_USER_ID# - ID Ð°Ð²Ñ‚Ð¾Ñ€Ð° ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
+#MESSAGE_AUTHOR_USER_NAME# - Ð¸Ð¼Ñ Ð°Ð²Ñ‚Ð¾Ñ€Ð° ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
+#MESSAGE_AUTHOR_USER_LOGIN# - Ð»Ð¾Ð³Ð¸Ð½ Ð°Ð²Ñ‚Ð¾Ñ€Ð° ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
+#MESSAGE_AUTHOR_USER_EMAIL# - email Ð°Ð²Ñ‚Ð¾Ñ€Ð° ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
 #MESSAGE_AUTHOR_TEXT# - [#MESSAGE_AUTHOR_USER_ID#] (#MESSAGE_AUTHOR_USER_LOGIN#) #MESSAGE_AUTHOR_USER_NAME#
-#MESSAGE_AUTHOR_SID# - ïðîèçâîëüíûé èäåíòèôèêàòîð àâòîðà ñîîáùåíèÿ (email, òåëåôîí è ò.ä.)
-#MESSAGE_SOURCE# - èñòî÷íèê ñîîáùåíèÿ
-#MESSAGE_BODY# - òåêñò ñîîáùåíèÿ
-#FILES_LINKS# - ññûëêè íà ïðèêðåïëåííûå ôàéëû
+#MESSAGE_AUTHOR_SID# - Ð¿Ñ€Ð¾Ð¸Ð·Ð²Ð¾Ð»ÑŒÐ½Ñ‹Ð¹ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð°Ð²Ñ‚Ð¾Ñ€Ð° ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ (email, Ñ‚ÐµÐ»ÐµÑ„Ð¾Ð½ Ð¸ Ñ‚.Ð´.)
+#MESSAGE_SOURCE# - Ð¸ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
+#MESSAGE_BODY# - Ñ‚ÐµÐºÑÑ‚ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
+#FILES_LINKS# - ÑÑÑ‹Ð»ÐºÐ¸ Ð½Ð° Ð¿Ñ€Ð¸ÐºÑ€ÐµÐ¿Ð»ÐµÐ½Ð½Ñ‹Ðµ Ñ„Ð°Ð¹Ð»Ñ‹
 
-#SUPPORT_COMMENTS# - àäìèíèñòðàòèâíûé êîììåíòàðèé
+#SUPPORT_COMMENTS# - Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¸Ð²Ð½Ñ‹Ð¹ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹
 
 ";
-$MESS ['SUP_SE_TICKET_CHANGE_FOR_TECHSUPPORT_TITLE'] = "Èçìåíåíèÿ â îáðàùåíèè (äëÿ òåõïîääåðæêè)";
+$MESS ['SUP_SE_TICKET_CHANGE_FOR_TECHSUPPORT_TITLE'] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ Ð² Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ð¸ (Ð´Ð»Ñ Ñ‚ÐµÑ…Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ¸)";
 $MESS ['SUP_SE_TICKET_CHANGE_FOR_TECHSUPPORT_TEXT'] = "
-#ID# - ID îáðàùåíèÿ
-#LANGUAGE_ID# - èäåíòèôèêàòîð ÿçûêà ñàéòà ê êîòîðîìó ïðèâÿçàíî îáðàùåíèå
-#WHAT_CHANGE# - ñïèñîê òîãî ÷òî â îáðàùåíèè èçìåíèëîñü
-#DATE_CREATE# - äàòà ñîçäàíèÿ 
-#TIMESTAMP# - äàòà èçìåíåíèÿ
-#DATE_CLOSE# - äàòà çàêðûòèÿ
-#TITLE# - çàãîëîâîê îáðàùåíèÿ
-#STATUS# - ñòàòóñ îáðàùåíèÿ
-#CATEGORY# - êàòåãîðèÿ îáðàùåíèÿ
-#CRITICALITY# - êðèòè÷íîñòü îáðàùåíèÿ
-#RATE# - îöåíêà îòâåòîâ
-#SLA# - óðîâåíü òåõïîääåðæêè
-#SOURCE# - ïåðâîíà÷àëüíûé èñòî÷íèê îáðàùåíèÿ (web, email, òåëåôîí è ò.ä.)
-#SPAM_MARK# - îòìåòêà î ñïàìå
-#MESSAGES_AMOUNT# - êîëè÷åñòâî ñîîáùåíèé â îáðàùåíèè
-#ADMIN_EDIT_URL# - ññûëêà äëÿ èçìåíåíèÿ îáðàùåíèÿ (â àäìèíèñòðàòèâíóþ ÷àñòü)
-#PUBLIC_EDIT_URL# - ññûëêà äëÿ èçìåíåíèÿ îáðàùåíèÿ (â ïóáëè÷íóþ ÷àñòü)
+#ID# - ID Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#LANGUAGE_ID# - Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÐ·Ñ‹ÐºÐ° ÑÐ°Ð¹Ñ‚Ð° Ðº ÐºÐ¾Ñ‚Ð¾Ñ€Ð¾Ð¼Ñƒ Ð¿Ñ€Ð¸Ð²ÑÐ·Ð°Ð½Ð¾ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ
+#WHAT_CHANGE# - ÑÐ¿Ð¸ÑÐ¾Ðº Ñ‚Ð¾Ð³Ð¾ Ñ‡Ñ‚Ð¾ Ð² Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ð¸ Ð¸Ð·Ð¼ÐµÐ½Ð¸Ð»Ð¾ÑÑŒ
+#DATE_CREATE# - Ð´Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ 
+#TIMESTAMP# - Ð´Ð°Ñ‚Ð° Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ
+#DATE_CLOSE# - Ð´Ð°Ñ‚Ð° Ð·Ð°ÐºÑ€Ñ‹Ñ‚Ð¸Ñ
+#TITLE# - Ð·Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#STATUS# - ÑÑ‚Ð°Ñ‚ÑƒÑ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#CATEGORY# - ÐºÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ñ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#CRITICALITY# - ÐºÑ€Ð¸Ñ‚Ð¸Ñ‡Ð½Ð¾ÑÑ‚ÑŒ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#RATE# - Ð¾Ñ†ÐµÐ½ÐºÐ° Ð¾Ñ‚Ð²ÐµÑ‚Ð¾Ð²
+#SLA# - ÑƒÑ€Ð¾Ð²ÐµÐ½ÑŒ Ñ‚ÐµÑ…Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ¸
+#SOURCE# - Ð¿ÐµÑ€Ð²Ð¾Ð½Ð°Ñ‡Ð°Ð»ÑŒÐ½Ñ‹Ð¹ Ð¸ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ (web, email, Ñ‚ÐµÐ»ÐµÑ„Ð¾Ð½ Ð¸ Ñ‚.Ð´.)
+#SPAM_MARK# - Ð¾Ñ‚Ð¼ÐµÑ‚ÐºÐ° Ð¾ ÑÐ¿Ð°Ð¼Ðµ
+#MESSAGES_AMOUNT# - ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ð¹ Ð² Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ð¸
+#ADMIN_EDIT_URL# - ÑÑÑ‹Ð»ÐºÐ° Ð´Ð»Ñ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ (Ð² Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¸Ð²Ð½ÑƒÑŽ Ñ‡Ð°ÑÑ‚ÑŒ)
+#PUBLIC_EDIT_URL# - ÑÑÑ‹Ð»ÐºÐ° Ð´Ð»Ñ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ (Ð² Ð¿ÑƒÐ±Ð»Ð¸Ñ‡Ð½ÑƒÑŽ Ñ‡Ð°ÑÑ‚ÑŒ)
 
-#OWNER_EMAIL# - #OWNER_USER_EMAIL# è/èëè #OWNER_SID#
-#OWNER_USER_ID# - ID àâòîðà îáðàùåíèÿ
-#OWNER_USER_NAME# - èìÿ àâòîðà îáðàùåíèÿ
-#OWNER_USER_LOGIN# - ëîãèí àâòîðà îáðàùåíèÿ
-#OWNER_USER_EMAIL# - email àâòîðà îáðàùåíèÿ
+#OWNER_EMAIL# - #OWNER_USER_EMAIL# Ð¸/Ð¸Ð»Ð¸ #OWNER_SID#
+#OWNER_USER_ID# - ID Ð°Ð²Ñ‚Ð¾Ñ€Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#OWNER_USER_NAME# - Ð¸Ð¼Ñ Ð°Ð²Ñ‚Ð¾Ñ€Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#OWNER_USER_LOGIN# - Ð»Ð¾Ð³Ð¸Ð½ Ð°Ð²Ñ‚Ð¾Ñ€Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#OWNER_USER_EMAIL# - email Ð°Ð²Ñ‚Ð¾Ñ€Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
 #OWNER_TEXT# - [#OWNER_USER_ID#] (#OWNER_USER_LOGIN#) #OWNER_USER_NAME#
-#OWNER_SID# - ïðîèçâîëüíûé èäåíòèôèêàòîð àâòîðà îáðàùåíèÿ (email, òåëåôîí è ò.ï.)
+#OWNER_SID# - Ð¿Ñ€Ð¾Ð¸Ð·Ð²Ð¾Ð»ÑŒÐ½Ñ‹Ð¹ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð°Ð²Ñ‚Ð¾Ñ€Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ (email, Ñ‚ÐµÐ»ÐµÑ„Ð¾Ð½ Ð¸ Ñ‚.Ð¿.)
 
-#SUPPORT_EMAIL# - #RESPONSIBLE_USER_EMAIL# èëè #SUPPORT_ADMIN_EMAIL#
-#RESPONSIBLE_USER_ID# - ID îòâåòñòâåííîãî çà îáðàùåíèå
-#RESPONSIBLE_USER_NAME# - èìÿ îòâåòñòâåííîãî çà îáðàùåíèå
-#RESPONSIBLE_USER_LOGIN# - ëîãèí îòâåòñòâåííîãî çà îáðàùåíèå
-#RESPONSIBLE_USER_EMAIL# - email îòâåòñòâåííîãî çà îáðàùåíèå
+#SUPPORT_EMAIL# - #RESPONSIBLE_USER_EMAIL# Ð¸Ð»Ð¸ #SUPPORT_ADMIN_EMAIL#
+#RESPONSIBLE_USER_ID# - ID Ð¾Ñ‚Ð²ÐµÑ‚ÑÑ‚Ð²ÐµÐ½Ð½Ð¾Ð³Ð¾ Ð·Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ
+#RESPONSIBLE_USER_NAME# - Ð¸Ð¼Ñ Ð¾Ñ‚Ð²ÐµÑ‚ÑÑ‚Ð²ÐµÐ½Ð½Ð¾Ð³Ð¾ Ð·Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ
+#RESPONSIBLE_USER_LOGIN# - Ð»Ð¾Ð³Ð¸Ð½ Ð¾Ñ‚Ð²ÐµÑ‚ÑÑ‚Ð²ÐµÐ½Ð½Ð¾Ð³Ð¾ Ð·Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ
+#RESPONSIBLE_USER_EMAIL# - email Ð¾Ñ‚Ð²ÐµÑ‚ÑÑ‚Ð²ÐµÐ½Ð½Ð¾Ð³Ð¾ Ð·Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ
 #RESPONSIBLE_TEXT# - [#RESPONSIBLE_USER_ID#] (#RESPONSIBLE_USER_LOGIN#) #RESPONSIBLE_USER_NAME#
-#SUPPORT_ADMIN_EMAIL# - EMail àäìèíèñòðàòîðîâ òåõïîääåðæêè
+#SUPPORT_ADMIN_EMAIL# - EMail Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¾Ñ€Ð¾Ð² Ñ‚ÐµÑ…Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ¸
 
-#CREATED_USER_ID# - ID ñîçäàòåëÿ îáðàùåíèÿ
-#CREATED_USER_LOGIN# - ëîãèí ñîçäàòåëÿ îáðàùåíèÿ
-#CREATED_USER_EMAIL# - email ñîçäàòåëÿ îáðàùåíèÿ
-#CREATED_USER_NAME# - èìÿ ñîçäàòåëÿ îáðàùåíèÿ
-#CREATED_MODULE_NAME# - èäåíòèôèêàòîð ìîäóëÿ ñðåäñòâàìè êîòîðîãî áûëî ñîçäàí îáðàùåíèå
+#CREATED_USER_ID# - ID ÑÐ¾Ð·Ð´Ð°Ñ‚ÐµÐ»Ñ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#CREATED_USER_LOGIN# - Ð»Ð¾Ð³Ð¸Ð½ ÑÐ¾Ð·Ð´Ð°Ñ‚ÐµÐ»Ñ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#CREATED_USER_EMAIL# - email ÑÐ¾Ð·Ð´Ð°Ñ‚ÐµÐ»Ñ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#CREATED_USER_NAME# - Ð¸Ð¼Ñ ÑÐ¾Ð·Ð´Ð°Ñ‚ÐµÐ»Ñ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#CREATED_MODULE_NAME# - Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¼Ð¾Ð´ÑƒÐ»Ñ ÑÑ€ÐµÐ´ÑÑ‚Ð²Ð°Ð¼Ð¸ ÐºÐ¾Ñ‚Ð¾Ñ€Ð¾Ð³Ð¾ Ð±Ñ‹Ð»Ð¾ ÑÐ¾Ð·Ð´Ð°Ð½ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ
 #CREATED_TEXT# - [#CREATED_USER_ID#] (#CREATED_USER_LOGIN#) #CREATED_USER_NAME#
 
-#MODIFIED_USER_ID# - ID èçìåíèâøåãî îáðàùåíèå
-#MODIFIED_USER_LOGIN# - ëîãèí èçìåíèâøåãî îáðàùåíèå
-#MODIFIED_USER_EMAIL# - EMail èçìåíèâøåãî îáðàùåíèå
-#MODIFIED_USER_NAME# - èìÿ èçìåíèâøåãî îáðàùåíèå
-#MODIFIED_MODULE_NAME# - èäåíòèôèêàòîð ìîäóëÿ ñðåäñòâàìè êîòîðîãî áûë èçìåíåí îáðàùåíèå
+#MODIFIED_USER_ID# - ID Ð¸Ð·Ð¼ÐµÐ½Ð¸Ð²ÑˆÐµÐ³Ð¾ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ
+#MODIFIED_USER_LOGIN# - Ð»Ð¾Ð³Ð¸Ð½ Ð¸Ð·Ð¼ÐµÐ½Ð¸Ð²ÑˆÐµÐ³Ð¾ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ
+#MODIFIED_USER_EMAIL# - EMail Ð¸Ð·Ð¼ÐµÐ½Ð¸Ð²ÑˆÐµÐ³Ð¾ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ
+#MODIFIED_USER_NAME# - Ð¸Ð¼Ñ Ð¸Ð·Ð¼ÐµÐ½Ð¸Ð²ÑˆÐµÐ³Ð¾ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ
+#MODIFIED_MODULE_NAME# - Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¼Ð¾Ð´ÑƒÐ»Ñ ÑÑ€ÐµÐ´ÑÑ‚Ð²Ð°Ð¼Ð¸ ÐºÐ¾Ñ‚Ð¾Ñ€Ð¾Ð³Ð¾ Ð±Ñ‹Ð» Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ
 #MODIFIED_TEXT# - [#MODIFIED_USER_ID#] (#MODIFIED_USER_LOGIN#) #MODIFIED_USER_NAME#
 
-#MESSAGE_AUTHOR_USER_ID# - ID àâòîðà ñîîáùåíèÿ
-#MESSAGE_AUTHOR_USER_NAME# - èìÿ àâòîðà ñîîáùåíèÿ
-#MESSAGE_AUTHOR_USER_LOGIN# - ëîãèí àâòîðà ñîîáùåíèÿ
-#MESSAGE_AUTHOR_USER_EMAIL# - email àâòîðà ñîîáùåíèÿ
+#MESSAGE_AUTHOR_USER_ID# - ID Ð°Ð²Ñ‚Ð¾Ñ€Ð° ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
+#MESSAGE_AUTHOR_USER_NAME# - Ð¸Ð¼Ñ Ð°Ð²Ñ‚Ð¾Ñ€Ð° ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
+#MESSAGE_AUTHOR_USER_LOGIN# - Ð»Ð¾Ð³Ð¸Ð½ Ð°Ð²Ñ‚Ð¾Ñ€Ð° ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
+#MESSAGE_AUTHOR_USER_EMAIL# - email Ð°Ð²Ñ‚Ð¾Ñ€Ð° ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
 #MESSAGE_AUTHOR_TEXT# - [#MESSAGE_AUTHOR_USER_ID#] (#MESSAGE_AUTHOR_USER_LOGIN#) #MESSAGE_AUTHOR_USER_NAME#
-#MESSAGE_AUTHOR_SID# - ïðîèçâîëüíûé èäåíòèôèêàòîð àâòîðà ñîîáùåíèÿ (email, òåëåôîí è ò.ä.)
-#MESSAGE_SOURCE# - èñòî÷íèê ñîîáùåíèÿ
-#MESSAGE_HEADER# - \"******* ÑÎÎÁÙÅÍÈÅ *******\", ëèáî \"******* ÑÊÐÛÒÎÅ ÑÎÎÁÙÅÍÈÅ *******\"
-#MESSAGE_BODY# - òåêñò ñîîáùåíèÿ
+#MESSAGE_AUTHOR_SID# - Ð¿Ñ€Ð¾Ð¸Ð·Ð²Ð¾Ð»ÑŒÐ½Ñ‹Ð¹ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð°Ð²Ñ‚Ð¾Ñ€Ð° ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ (email, Ñ‚ÐµÐ»ÐµÑ„Ð¾Ð½ Ð¸ Ñ‚.Ð´.)
+#MESSAGE_SOURCE# - Ð¸ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
+#MESSAGE_HEADER# - \"******* Ð¡ÐžÐžÐ‘Ð©Ð•ÐÐ˜Ð• *******\", Ð»Ð¸Ð±Ð¾ \"******* Ð¡ÐšÐ Ð«Ð¢ÐžÐ• Ð¡ÐžÐžÐ‘Ð©Ð•ÐÐ˜Ð• *******\"
+#MESSAGE_BODY# - Ñ‚ÐµÐºÑÑ‚ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ
 #MESSAGE_FOOTER# - \"*********************** \"
-#FILES_LINKS# - ññûëêè íà ïðèêðåïëåííûå ôàéëû
+#FILES_LINKS# - ÑÑÑ‹Ð»ÐºÐ¸ Ð½Ð° Ð¿Ñ€Ð¸ÐºÑ€ÐµÐ¿Ð»ÐµÐ½Ð½Ñ‹Ðµ Ñ„Ð°Ð¹Ð»Ñ‹
 
-#SUPPORT_COMMENTS# - àäìèíèñòðàòèâíûé êîììåíòàðèé
+#SUPPORT_COMMENTS# - Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¸Ð²Ð½Ñ‹Ð¹ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹
 
 ";
-$MESS ['SUP_SE_TICKET_OVERDUE_REMINDER_TITLE'] = "Íàïîìèíàíèå î íåîáõîäèìîñòè îòâåòà (äëÿ òåõïîääåðæêè)";
+$MESS ['SUP_SE_TICKET_OVERDUE_REMINDER_TITLE'] = "ÐÐ°Ð¿Ð¾Ð¼Ð¸Ð½Ð°Ð½Ð¸Ðµ Ð¾ Ð½ÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ð¾ÑÑ‚Ð¸ Ð¾Ñ‚Ð²ÐµÑ‚Ð° (Ð´Ð»Ñ Ñ‚ÐµÑ…Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ¸)";
 $MESS ['SUP_SE_TICKET_OVERDUE_REMINDER_TEXT'] = "
-#ID# - ID îáðàùåíèÿ
-#LANGUAGE_ID# - èäåíòèôèêàòîð ÿçûêà ñàéòà ê êîòîðîìó ïðèâÿçàíî îáðàùåíèå
-#DATE_CREATE# - äàòà ñîçäàíèÿ 
-#TITLE# - çàãîëîâîê îáðàùåíèÿ
-#STATUS# - ñòàòóñ îáðàùåíèÿ
-#CATEGORY# - êàòåãîðèÿ îáðàùåíèÿ
-#CRITICALITY# - êðèòè÷íîñòü îáðàùåíèÿ
-#RATE# - îöåíêà îòâåòîâ
-#SLA# - óðîâåíü òåõïîääåðæêè
-#SOURCE# - ïåðâîíà÷àëüíûé èñòî÷íèê îáðàùåíèÿ (web, email, òåëåôîí è ò.ä.)
-#ADMIN_EDIT_URL# - ññûëêà äëÿ èçìåíåíèÿ îáðàùåíèÿ (â àäìèíèñòðàòèâíóþ ÷àñòü)
+#ID# - ID Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#LANGUAGE_ID# - Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÐ·Ñ‹ÐºÐ° ÑÐ°Ð¹Ñ‚Ð° Ðº ÐºÐ¾Ñ‚Ð¾Ñ€Ð¾Ð¼Ñƒ Ð¿Ñ€Ð¸Ð²ÑÐ·Ð°Ð½Ð¾ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ
+#DATE_CREATE# - Ð´Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ 
+#TITLE# - Ð·Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#STATUS# - ÑÑ‚Ð°Ñ‚ÑƒÑ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#CATEGORY# - ÐºÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ñ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#CRITICALITY# - ÐºÑ€Ð¸Ñ‚Ð¸Ñ‡Ð½Ð¾ÑÑ‚ÑŒ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#RATE# - Ð¾Ñ†ÐµÐ½ÐºÐ° Ð¾Ñ‚Ð²ÐµÑ‚Ð¾Ð²
+#SLA# - ÑƒÑ€Ð¾Ð²ÐµÐ½ÑŒ Ñ‚ÐµÑ…Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ¸
+#SOURCE# - Ð¿ÐµÑ€Ð²Ð¾Ð½Ð°Ñ‡Ð°Ð»ÑŒÐ½Ñ‹Ð¹ Ð¸ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ (web, email, Ñ‚ÐµÐ»ÐµÑ„Ð¾Ð½ Ð¸ Ñ‚.Ð´.)
+#ADMIN_EDIT_URL# - ÑÑÑ‹Ð»ÐºÐ° Ð´Ð»Ñ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ (Ð² Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¸Ð²Ð½ÑƒÑŽ Ñ‡Ð°ÑÑ‚ÑŒ)
 
-#EXPIRATION_DATE# - äàòà èñòå÷åíèÿ âðåìåíè ðåàêöèè
-#REMAINED_TIME# - ñêîëüêî îñòàëîñü äî äàòû èñòå÷åíèÿ âðåìåíè ðåàêöèè
+#EXPIRATION_DATE# - Ð´Ð°Ñ‚Ð° Ð¸ÑÑ‚ÐµÑ‡ÐµÐ½Ð¸Ñ Ð²Ñ€ÐµÐ¼ÐµÐ½Ð¸ Ñ€ÐµÐ°ÐºÑ†Ð¸Ð¸
+#REMAINED_TIME# - ÑÐºÐ¾Ð»ÑŒÐºÐ¾ Ð¾ÑÑ‚Ð°Ð»Ð¾ÑÑŒ Ð´Ð¾ Ð´Ð°Ñ‚Ñ‹ Ð¸ÑÑ‚ÐµÑ‡ÐµÐ½Ð¸Ñ Ð²Ñ€ÐµÐ¼ÐµÐ½Ð¸ Ñ€ÐµÐ°ÐºÑ†Ð¸Ð¸
 
-#OWNER_EMAIL# - #OWNER_USER_EMAIL# è/èëè #OWNER_SID#
-#OWNER_USER_ID# - ID àâòîðà îáðàùåíèÿ
-#OWNER_USER_NAME# - èìÿ àâòîðà îáðàùåíèÿ
-#OWNER_USER_LOGIN# - ëîãèí àâòîðà îáðàùåíèÿ
-#OWNER_USER_EMAIL# - email àâòîðà îáðàùåíèÿ
+#OWNER_EMAIL# - #OWNER_USER_EMAIL# Ð¸/Ð¸Ð»Ð¸ #OWNER_SID#
+#OWNER_USER_ID# - ID Ð°Ð²Ñ‚Ð¾Ñ€Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#OWNER_USER_NAME# - Ð¸Ð¼Ñ Ð°Ð²Ñ‚Ð¾Ñ€Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#OWNER_USER_LOGIN# - Ð»Ð¾Ð³Ð¸Ð½ Ð°Ð²Ñ‚Ð¾Ñ€Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#OWNER_USER_EMAIL# - email Ð°Ð²Ñ‚Ð¾Ñ€Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
 #OWNER_TEXT# - [#OWNER_USER_ID#] (#OWNER_USER_LOGIN#) #OWNER_USER_NAME#
-#OWNER_SID# - ïðîèçâîëüíûé èäåíòèôèêàòîð àâòîðà îáðàùåíèÿ (email, òåëåôîí è ò.ï.)
+#OWNER_SID# - Ð¿Ñ€Ð¾Ð¸Ð·Ð²Ð¾Ð»ÑŒÐ½Ñ‹Ð¹ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð°Ð²Ñ‚Ð¾Ñ€Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ (email, Ñ‚ÐµÐ»ÐµÑ„Ð¾Ð½ Ð¸ Ñ‚.Ð¿.)
 
-#SUPPORT_EMAIL# - #RESPONSIBLE_USER_EMAIL# èëè #SUPPORT_ADMIN_EMAIL#
-#RESPONSIBLE_USER_ID# - ID îòâåòñòâåííîãî çà îáðàùåíèå
-#RESPONSIBLE_USER_NAME# - èìÿ îòâåòñòâåííîãî çà îáðàùåíèå
-#RESPONSIBLE_USER_LOGIN# - ëîãèí îòâåòñòâåííîãî çà îáðàùåíèå
-#RESPONSIBLE_USER_EMAIL# - email îòâåòñòâåííîãî çà îáðàùåíèå
+#SUPPORT_EMAIL# - #RESPONSIBLE_USER_EMAIL# Ð¸Ð»Ð¸ #SUPPORT_ADMIN_EMAIL#
+#RESPONSIBLE_USER_ID# - ID Ð¾Ñ‚Ð²ÐµÑ‚ÑÑ‚Ð²ÐµÐ½Ð½Ð¾Ð³Ð¾ Ð·Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ
+#RESPONSIBLE_USER_NAME# - Ð¸Ð¼Ñ Ð¾Ñ‚Ð²ÐµÑ‚ÑÑ‚Ð²ÐµÐ½Ð½Ð¾Ð³Ð¾ Ð·Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ
+#RESPONSIBLE_USER_LOGIN# - Ð»Ð¾Ð³Ð¸Ð½ Ð¾Ñ‚Ð²ÐµÑ‚ÑÑ‚Ð²ÐµÐ½Ð½Ð¾Ð³Ð¾ Ð·Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ
+#RESPONSIBLE_USER_EMAIL# - email Ð¾Ñ‚Ð²ÐµÑ‚ÑÑ‚Ð²ÐµÐ½Ð½Ð¾Ð³Ð¾ Ð·Ð° Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ
 #RESPONSIBLE_TEXT# - [#RESPONSIBLE_USER_ID#] (#RESPONSIBLE_USER_LOGIN#) #RESPONSIBLE_USER_NAME#
-#SUPPORT_ADMIN_EMAIL# - EMail àäìèíèñòðàòîðîâ òåõïîääåðæêè
+#SUPPORT_ADMIN_EMAIL# - EMail Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¾Ñ€Ð¾Ð² Ñ‚ÐµÑ…Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ¸
 
-#CREATED_USER_ID# - ID ñîçäàòåëÿ îáðàùåíèÿ
-#CREATED_USER_LOGIN# - ëîãèí ñîçäàòåëÿ îáðàùåíèÿ
-#CREATED_USER_EMAIL# - email ñîçäàòåëÿ îáðàùåíèÿ
-#CREATED_USER_NAME# - èìÿ ñîçäàòåëÿ îáðàùåíèÿ
-#CREATED_MODULE_NAME# - èäåíòèôèêàòîð ìîäóëÿ ñðåäñòâàìè êîòîðîãî áûëî ñîçäàí îáðàùåíèå
+#CREATED_USER_ID# - ID ÑÐ¾Ð·Ð´Ð°Ñ‚ÐµÐ»Ñ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#CREATED_USER_LOGIN# - Ð»Ð¾Ð³Ð¸Ð½ ÑÐ¾Ð·Ð´Ð°Ñ‚ÐµÐ»Ñ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#CREATED_USER_EMAIL# - email ÑÐ¾Ð·Ð´Ð°Ñ‚ÐµÐ»Ñ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#CREATED_USER_NAME# - Ð¸Ð¼Ñ ÑÐ¾Ð·Ð´Ð°Ñ‚ÐµÐ»Ñ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ
+#CREATED_MODULE_NAME# - Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¼Ð¾Ð´ÑƒÐ»Ñ ÑÑ€ÐµÐ´ÑÑ‚Ð²Ð°Ð¼Ð¸ ÐºÐ¾Ñ‚Ð¾Ñ€Ð¾Ð³Ð¾ Ð±Ñ‹Ð»Ð¾ ÑÐ¾Ð·Ð´Ð°Ð½ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ
 #CREATED_TEXT# - [#CREATED_USER_ID#] (#CREATED_USER_LOGIN#) #CREATED_USER_NAME#
 
-#MESSAGE_BODY# - òåêñò ñîîáùåíèÿ êëèåíòà òðåáóþùåå îòâåòà
+#MESSAGE_BODY# - Ñ‚ÐµÐºÑÑ‚ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ ÐºÐ»Ð¸ÐµÐ½Ñ‚Ð° Ñ‚Ñ€ÐµÐ±ÑƒÑŽÑ‰ÐµÐµ Ð¾Ñ‚Ð²ÐµÑ‚Ð°
 ";
-$MESS ['SUP_SE_TICKET_NEW_FOR_AUTHOR_SUBJECT'] = "[TID##ID#] #SERVER_NAME#: Âàøå îáðàùåíèå ïðèíÿòî";
-$MESS ['SUP_SE_TICKET_NEW_FOR_AUTHOR_MESSAGE'] = "Âàøå îáðàùåíèå ïðèíÿòî, åìó ïðèñâîåí íîìåð #ID#.
+$MESS ['SUP_SE_TICKET_NEW_FOR_AUTHOR_SUBJECT'] = "[TID##ID#] #SERVER_NAME#: Ð’Ð°ÑˆÐµ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ Ð¿Ñ€Ð¸Ð½ÑÑ‚Ð¾";
+$MESS ['SUP_SE_TICKET_NEW_FOR_AUTHOR_MESSAGE'] = "Ð’Ð°ÑˆÐµ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ Ð¿Ñ€Ð¸Ð½ÑÑ‚Ð¾, ÐµÐ¼Ñƒ Ð¿Ñ€Ð¸ÑÐ²Ð¾ÐµÐ½ Ð½Ð¾Ð¼ÐµÑ€ #ID#.
 
-Âû íå äîëæíû îòâå÷àòü íà ýòî ïèñüìî. Ýòî òîëüêî ïîäòâåðæäåíèå, 
-÷òî ñëóæáà òåõïîääåðæêè ïîëó÷èëà âàøå îáðàùåíèå è ðàáîòàåò ñ íèì.
+Ð’Ñ‹ Ð½Ðµ Ð´Ð¾Ð»Ð¶Ð½Ñ‹ Ð¾Ñ‚Ð²ÐµÑ‡Ð°Ñ‚ÑŒ Ð½Ð° ÑÑ‚Ð¾ Ð¿Ð¸ÑÑŒÐ¼Ð¾. Ð­Ñ‚Ð¾ Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð¿Ð¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð¸Ðµ, 
+Ñ‡Ñ‚Ð¾ ÑÐ»ÑƒÐ¶Ð±Ð° Ñ‚ÐµÑ…Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ¸ Ð¿Ð¾Ð»ÑƒÑ‡Ð¸Ð»Ð° Ð²Ð°ÑˆÐµ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ Ð¸ Ñ€Ð°Ð±Ð¾Ñ‚Ð°ÐµÑ‚ Ñ Ð½Ð¸Ð¼.
 
-Èíôîðìàöèÿ î âàøåì îáðàùåíèè:
+Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ñ Ð¾ Ð²Ð°ÑˆÐµÐ¼ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ð¸:
 
-Òåìà          - #TITLE# 
-Îò êîãî       - #SOURCE##OWNER_SID##OWNER_TEXT#
-Êàòåãîðèÿ     - #CATEGORY#
-Êðèòè÷íîñòü   - #CRITICALITY#
+Ð¢ÐµÐ¼Ð°          - #TITLE# 
+ÐžÑ‚ ÐºÐ¾Ð³Ð¾       - #SOURCE##OWNER_SID##OWNER_TEXT#
+ÐšÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ñ     - #CATEGORY#
+ÐšÑ€Ð¸Ñ‚Ð¸Ñ‡Ð½Ð¾ÑÑ‚ÑŒ   - #CRITICALITY#
 
-Ñîçäàíî           - #CREATED_TEXT##CREATED_MODULE_NAME# [#DATE_CREATE#]
-Îòâåòñòâåííûé     - #RESPONSIBLE_TEXT#
-Óðîâåíü ïîääåðæêè - #SLA#
+Ð¡Ð¾Ð·Ð´Ð°Ð½Ð¾           - #CREATED_TEXT##CREATED_MODULE_NAME# [#DATE_CREATE#]
+ÐžÑ‚Ð²ÐµÑ‚ÑÑ‚Ð²ÐµÐ½Ð½Ñ‹Ð¹     - #RESPONSIBLE_TEXT#
+Ð£Ñ€Ð¾Ð²ÐµÐ½ÑŒ Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ¸ - #SLA#
 
->======================= ÑÎÎÁÙÅÍÈÅ ===================================
+>======================= Ð¡ÐžÐžÐ‘Ð©Ð•ÐÐ˜Ð• ===================================
 
 #FILES_LINKS##MESSAGE_BODY#
 
 >=====================================================================
 
-Äëÿ ïðîñìîòðà è ðåäàêòèðîâàíèÿ îáðàùåíèÿ âîñïîëüçóéòåñü ññûëêîé:
+Ð”Ð»Ñ Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð° Ð¸ Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ Ð²Ð¾ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐ¹Ñ‚ÐµÑÑŒ ÑÑÑ‹Ð»ÐºÐ¾Ð¹:
 http://#SERVER_NAME##PUBLIC_EDIT_URL#?ID=#ID#
 
-Ïèñüìî ñãåíåðèðîâàíî àâòîìàòè÷åñêè.
+ÐŸÐ¸ÑÑŒÐ¼Ð¾ ÑÐ³ÐµÐ½ÐµÑ€Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¾ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸.
 ";
-$MESS ['SUP_SE_TICKET_NEW_FOR_TECHSUPPORT_SUBJECT'] = "[TID##ID#] #SERVER_NAME#: Íîâîå îáðàùåíèå";
-$MESS ['SUP_SE_TICKET_NEW_FOR_TECHSUPPORT_MESSAGE'] = "Íîâîå îáðàùåíèå # #ID# â ñëóæáó òåõïîääåðæêè ñàéòà #SERVER_NAME#.
+$MESS ['SUP_SE_TICKET_NEW_FOR_TECHSUPPORT_SUBJECT'] = "[TID##ID#] #SERVER_NAME#: ÐÐ¾Ð²Ð¾Ðµ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ";
+$MESS ['SUP_SE_TICKET_NEW_FOR_TECHSUPPORT_MESSAGE'] = "ÐÐ¾Ð²Ð¾Ðµ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ # #ID# Ð² ÑÐ»ÑƒÐ¶Ð±Ñƒ Ñ‚ÐµÑ…Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ¸ ÑÐ°Ð¹Ñ‚Ð° #SERVER_NAME#.
 #SPAM_MARK#
-Îò êîãî: #SOURCE##OWNER_SID##OWNER_TEXT#
+ÐžÑ‚ ÐºÐ¾Ð³Ð¾: #SOURCE##OWNER_SID##OWNER_TEXT#
 
-Òåìà: #TITLE# 
+Ð¢ÐµÐ¼Ð°: #TITLE# 
 
->======================= ÑÎÎÁÙÅÍÈÅ ===================================
+>======================= Ð¡ÐžÐžÐ‘Ð©Ð•ÐÐ˜Ð• ===================================
 
 #FILES_LINKS##MESSAGE_BODY#
 
 >=====================================================================
 
-Îòâåòñòâåííûé     - #RESPONSIBLE_TEXT#
-Êàòåãîðèÿ         - #CATEGORY#
-Êðèòè÷íîñòü       - #CRITICALITY#
-Óðîâåíü ïîääåðæêè - #SLA#
-Ñîçäàíî           - #CREATED_TEXT##CREATED_MODULE_NAME# [#DATE_CREATE#]
+ÐžÑ‚Ð²ÐµÑ‚ÑÑ‚Ð²ÐµÐ½Ð½Ñ‹Ð¹     - #RESPONSIBLE_TEXT#
+ÐšÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ñ         - #CATEGORY#
+ÐšÑ€Ð¸Ñ‚Ð¸Ñ‡Ð½Ð¾ÑÑ‚ÑŒ       - #CRITICALITY#
+Ð£Ñ€Ð¾Ð²ÐµÐ½ÑŒ Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ¸ - #SLA#
+Ð¡Ð¾Ð·Ð´Ð°Ð½Ð¾           - #CREATED_TEXT##CREATED_MODULE_NAME# [#DATE_CREATE#]
 
-Äëÿ ïðîñìîòðà è ðåäàêòèðîâàíèÿ îáðàùåíèÿ âîñïîëüçóéòåñü ññûëêîé:
+Ð”Ð»Ñ Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð° Ð¸ Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ Ð²Ð¾ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐ¹Ñ‚ÐµÑÑŒ ÑÑÑ‹Ð»ÐºÐ¾Ð¹:
 http://#SERVER_NAME##ADMIN_EDIT_URL#?ID=#ID#&lang=#LANGUAGE_ID#
 
-Ïèñüìî ñãåíåðèðîâàíî àâòîìàòè÷åñêè. 
+ÐŸÐ¸ÑÑŒÐ¼Ð¾ ÑÐ³ÐµÐ½ÐµÑ€Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¾ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸. 
 ";
-$MESS ['SUP_SE_TICKET_CHANGE_BY_SUPPORT_FOR_AUTHOR_SUBJECT'] = "[TID##ID#] #SERVER_NAME#: Èçìåíåíèÿ â âàøåì îáðàùåíèè";
-$MESS ['SUP_SE_TICKET_CHANGE_BY_SUPPORT_FOR_AUTHOR_MESSAGE'] = "Èçìåíåíèÿ â âàøåì îáðàùåíèè # #ID# íà ñàéòå #SERVER_NAME#.
+$MESS ['SUP_SE_TICKET_CHANGE_BY_SUPPORT_FOR_AUTHOR_SUBJECT'] = "[TID##ID#] #SERVER_NAME#: Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ Ð² Ð²Ð°ÑˆÐµÐ¼ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ð¸";
+$MESS ['SUP_SE_TICKET_CHANGE_BY_SUPPORT_FOR_AUTHOR_MESSAGE'] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ Ð² Ð²Ð°ÑˆÐµÐ¼ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ð¸ # #ID# Ð½Ð° ÑÐ°Ð¹Ñ‚Ðµ #SERVER_NAME#.
 
 #WHAT_CHANGE#
-Òåìà: #TITLE# 
+Ð¢ÐµÐ¼Ð°: #TITLE# 
 
-Îò êîãî: #MESSAGE_SOURCE##MESSAGE_AUTHOR_SID##MESSAGE_AUTHOR_TEXT#
+ÐžÑ‚ ÐºÐ¾Ð³Ð¾: #MESSAGE_SOURCE##MESSAGE_AUTHOR_SID##MESSAGE_AUTHOR_TEXT#
 
->======================= ÑÎÎÁÙÅÍÈÅ ===================================#FILES_LINKS##MESSAGE_BODY#
+>======================= Ð¡ÐžÐžÐ‘Ð©Ð•ÐÐ˜Ð• ===================================#FILES_LINKS##MESSAGE_BODY#
 >=====================================================================
 
-Àâòîð    - #SOURCE##OWNER_SID##OWNER_TEXT#
-Ñîçäàíî  - #CREATED_TEXT##CREATED_MODULE_NAME# [#DATE_CREATE#]
-Èçìåíåíî - #MODIFIED_TEXT##MODIFIED_MODULE_NAME# [#TIMESTAMP#]
+ÐÐ²Ñ‚Ð¾Ñ€    - #SOURCE##OWNER_SID##OWNER_TEXT#
+Ð¡Ð¾Ð·Ð´Ð°Ð½Ð¾  - #CREATED_TEXT##CREATED_MODULE_NAME# [#DATE_CREATE#]
+Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¾ - #MODIFIED_TEXT##MODIFIED_MODULE_NAME# [#TIMESTAMP#]
 
-Îòâåòñòâåííûé     - #RESPONSIBLE_TEXT#
-Êàòåãîðèÿ         - #CATEGORY#
-Êðèòè÷íîñòü       - #CRITICALITY#
-Ñòàòóñ            - #STATUS#
-Îöåíêà îòâåòîâ    - #RATE#
-Óðîâåíü ïîääåðæêè - #SLA#
+ÐžÑ‚Ð²ÐµÑ‚ÑÑ‚Ð²ÐµÐ½Ð½Ñ‹Ð¹     - #RESPONSIBLE_TEXT#
+ÐšÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ñ         - #CATEGORY#
+ÐšÑ€Ð¸Ñ‚Ð¸Ñ‡Ð½Ð¾ÑÑ‚ÑŒ       - #CRITICALITY#
+Ð¡Ñ‚Ð°Ñ‚ÑƒÑ            - #STATUS#
+ÐžÑ†ÐµÐ½ÐºÐ° Ð¾Ñ‚Ð²ÐµÑ‚Ð¾Ð²    - #RATE#
+Ð£Ñ€Ð¾Ð²ÐµÐ½ÑŒ Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ¸ - #SLA#
 
-Äëÿ ïðîñìîòðà è ðåäàêòèðîâàíèÿ îáðàùåíèÿ âîñïîëüçóéòåñü ññûëêîé:
+Ð”Ð»Ñ Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð° Ð¸ Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ Ð²Ð¾ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐ¹Ñ‚ÐµÑÑŒ ÑÑÑ‹Ð»ÐºÐ¾Ð¹:
 http://#SERVER_NAME##PUBLIC_EDIT_URL#?ID=#ID#
 
-Ìû ïðîñèì Âàñ íå çàáûòü îöåíèòü îòâåòû ñëóæáû òåõïîääåðæêè ïîñëå çàêðûòèÿ îáðàùåíèÿ:
+ÐœÑ‹ Ð¿Ñ€Ð¾ÑÐ¸Ð¼ Ð’Ð°Ñ Ð½Ðµ Ð·Ð°Ð±Ñ‹Ñ‚ÑŒ Ð¾Ñ†ÐµÐ½Ð¸Ñ‚ÑŒ Ð¾Ñ‚Ð²ÐµÑ‚Ñ‹ ÑÐ»ÑƒÐ¶Ð±Ñ‹ Ñ‚ÐµÑ…Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ¸ Ð¿Ð¾ÑÐ»Ðµ Ð·Ð°ÐºÑ€Ñ‹Ñ‚Ð¸Ñ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ:
 http://#SERVER_NAME##PUBLIC_EDIT_URL#?ID=#ID#
 
-Ïèñüìî ñãåíåðèðîâàíî àâòîìàòè÷åñêè.
+ÐŸÐ¸ÑÑŒÐ¼Ð¾ ÑÐ³ÐµÐ½ÐµÑ€Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¾ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸.
 ";
-$MESS ['SUP_SE_TICKET_CHANGE_FOR_TECHSUPPORT_SUBJECT'] = "[TID##ID#] #SERVER_NAME#: Èçìåíåíèÿ â îáðàùåíèè";
-$MESS ['SUP_SE_TICKET_CHANGE_FOR_TECHSUPPORT_MESSAGE'] = "Èçìåíåíèÿ â îáðàùåíèè # #ID# ê ñëóæáå òåõïîääåðæêè ñàéòà #SERVER_NAME#.
+$MESS ['SUP_SE_TICKET_CHANGE_FOR_TECHSUPPORT_SUBJECT'] = "[TID##ID#] #SERVER_NAME#: Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ Ð² Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ð¸";
+$MESS ['SUP_SE_TICKET_CHANGE_FOR_TECHSUPPORT_MESSAGE'] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ Ð² Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ð¸ # #ID# Ðº ÑÐ»ÑƒÐ¶Ð±Ðµ Ñ‚ÐµÑ…Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ¸ ÑÐ°Ð¹Ñ‚Ð° #SERVER_NAME#.
 #SPAM_MARK#
 #WHAT_CHANGE#
-Òåìà: #TITLE# 
+Ð¢ÐµÐ¼Ð°: #TITLE# 
 
-Îò êîãî: #MESSAGE_SOURCE##MESSAGE_AUTHOR_SID##MESSAGE_AUTHOR_TEXT#
+ÐžÑ‚ ÐºÐ¾Ð³Ð¾: #MESSAGE_SOURCE##MESSAGE_AUTHOR_SID##MESSAGE_AUTHOR_TEXT#
 
 >#MESSAGE_HEADER##FILES_LINKS##MESSAGE_BODY#
 >#MESSAGE_FOOTER#
 
-Àâòîð    - #SOURCE##OWNER_SID##OWNER_TEXT#
-Ñîçäàíî  - #CREATED_TEXT##CREATED_MODULE_NAME# [#DATE_CREATE#]
-Èçìåíåíî - #MODIFIED_TEXT##MODIFIED_MODULE_NAME# [#TIMESTAMP#]
+ÐÐ²Ñ‚Ð¾Ñ€    - #SOURCE##OWNER_SID##OWNER_TEXT#
+Ð¡Ð¾Ð·Ð´Ð°Ð½Ð¾  - #CREATED_TEXT##CREATED_MODULE_NAME# [#DATE_CREATE#]
+Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¾ - #MODIFIED_TEXT##MODIFIED_MODULE_NAME# [#TIMESTAMP#]
 
-Îòâåòñòâåííûé     - #RESPONSIBLE_TEXT#
-Êàòåãîðèÿ         - #CATEGORY#
-Êðèòè÷íîñòü       - #CRITICALITY#
-Ñòàòóñ            - #STATUS#
-Îöåíêà îòâåòîâ    - #RATE#
-Óðîâåíü ïîääåðæêè - #SLA#
+ÐžÑ‚Ð²ÐµÑ‚ÑÑ‚Ð²ÐµÐ½Ð½Ñ‹Ð¹     - #RESPONSIBLE_TEXT#
+ÐšÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ñ         - #CATEGORY#
+ÐšÑ€Ð¸Ñ‚Ð¸Ñ‡Ð½Ð¾ÑÑ‚ÑŒ       - #CRITICALITY#
+Ð¡Ñ‚Ð°Ñ‚ÑƒÑ            - #STATUS#
+ÐžÑ†ÐµÐ½ÐºÐ° Ð¾Ñ‚Ð²ÐµÑ‚Ð¾Ð²    - #RATE#
+Ð£Ñ€Ð¾Ð²ÐµÐ½ÑŒ Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ¸ - #SLA#
 
->====================== ÊÎÌÌÅÍÒÀÐÈÉ ==================================#SUPPORT_COMMENTS#
+>====================== ÐšÐžÐœÐœÐ•ÐÐ¢ÐÐ Ð˜Ð™ ==================================#SUPPORT_COMMENTS#
 >=====================================================================
 
-Äëÿ ïðîñìîòðà è ðåäàêòèðîâàíèÿ îáðàùåíèÿ âîñïîëüçóéòåñü ññûëêîé:
+Ð”Ð»Ñ Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð° Ð¸ Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ Ð²Ð¾ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐ¹Ñ‚ÐµÑÑŒ ÑÑÑ‹Ð»ÐºÐ¾Ð¹:
 http://#SERVER_NAME##ADMIN_EDIT_URL#?ID=#ID#&lang=#LANGUAGE_ID#
 
-Ïèñüìî ñãåíåðèðîâàíî àâòîìàòè÷åñêè.
+ÐŸÐ¸ÑÑŒÐ¼Ð¾ ÑÐ³ÐµÐ½ÐµÑ€Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¾ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸.
 ";
-$MESS ['SUP_SE_TICKET_OVERDUE_REMINDER_SUBJECT'] = "[TID##ID#] #SERVER_NAME#: Íàïîìèíàíèå î íåîáõîäèìîñòè îòâåòà";
-$MESS ['SUP_SE_TICKET_OVERDUE_REMINDER_MESSAGE'] = "Íàïîìèíàíèå î íåîáõîäèìîñòè îòâåòà â îáðàùåíèè # #ID# ê ñëóæáå òåõïîääåðæêè ñàéòà #SERVER_NAME#.
+$MESS ['SUP_SE_TICKET_OVERDUE_REMINDER_SUBJECT'] = "[TID##ID#] #SERVER_NAME#: ÐÐ°Ð¿Ð¾Ð¼Ð¸Ð½Ð°Ð½Ð¸Ðµ Ð¾ Ð½ÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ð¾ÑÑ‚Ð¸ Ð¾Ñ‚Ð²ÐµÑ‚Ð°";
+$MESS ['SUP_SE_TICKET_OVERDUE_REMINDER_MESSAGE'] = "ÐÐ°Ð¿Ð¾Ð¼Ð¸Ð½Ð°Ð½Ð¸Ðµ Ð¾ Ð½ÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ð¾ÑÑ‚Ð¸ Ð¾Ñ‚Ð²ÐµÑ‚Ð° Ð² Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ð¸ # #ID# Ðº ÑÐ»ÑƒÐ¶Ð±Ðµ Ñ‚ÐµÑ…Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ¸ ÑÐ°Ð¹Ñ‚Ð° #SERVER_NAME#.
 
-Êîãäà áóäåò ïðîñðî÷åíî - #EXPIRATION_DATE# (îñòàëîñü: #REMAINED_TIME#)
+ÐšÐ¾Ð³Ð´Ð° Ð±ÑƒÐ´ÐµÑ‚ Ð¿Ñ€Ð¾ÑÑ€Ð¾Ñ‡ÐµÐ½Ð¾ - #EXPIRATION_DATE# (Ð¾ÑÑ‚Ð°Ð»Ð¾ÑÑŒ: #REMAINED_TIME#)
 
->================= ÈÍÔÎÐÌÀÖÈß ÏÎ ÎÁÐÀÙÅÍÈÞ ===========================
+>================= Ð˜ÐÐ¤ÐžÐ ÐœÐÐ¦Ð˜Ð¯ ÐŸÐž ÐžÐ‘Ð ÐÐ©Ð•ÐÐ˜Ð® ===========================
 
-Òåìà    - #TITLE# 
+Ð¢ÐµÐ¼Ð°    - #TITLE# 
 
-Àâòîð   - #SOURCE##OWNER_SID##OWNER_TEXT#
-Ñîçäàíî - #CREATED_TEXT##CREATED_MODULE_NAME# [#DATE_CREATE#]
+ÐÐ²Ñ‚Ð¾Ñ€   - #SOURCE##OWNER_SID##OWNER_TEXT#
+Ð¡Ð¾Ð·Ð´Ð°Ð½Ð¾ - #CREATED_TEXT##CREATED_MODULE_NAME# [#DATE_CREATE#]
 
-Óðîâåíü ïîääåðæêè - #SLA#
+Ð£Ñ€Ð¾Ð²ÐµÐ½ÑŒ Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ¸ - #SLA#
 
-Îòâåòñòâåííûé     - #RESPONSIBLE_TEXT#
-Êàòåãîðèÿ         - #CATEGORY#
-Êðèòè÷íîñòü       - #CRITICALITY#
-Ñòàòóñ            - #STATUS#
-Îöåíêà îòâåòîâ    - #RATE#
+ÐžÑ‚Ð²ÐµÑ‚ÑÑ‚Ð²ÐµÐ½Ð½Ñ‹Ð¹     - #RESPONSIBLE_TEXT#
+ÐšÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ñ         - #CATEGORY#
+ÐšÑ€Ð¸Ñ‚Ð¸Ñ‡Ð½Ð¾ÑÑ‚ÑŒ       - #CRITICALITY#
+Ð¡Ñ‚Ð°Ñ‚ÑƒÑ            - #STATUS#
+ÐžÑ†ÐµÐ½ÐºÐ° Ð¾Ñ‚Ð²ÐµÑ‚Ð¾Ð²    - #RATE#
 
->================ ÑÎÎÁÙÅÍÈÅ ÒÐÅÁÓÞÙÅÅ ÎÒÂÅÒÀ =========================
+>================ Ð¡ÐžÐžÐ‘Ð©Ð•ÐÐ˜Ð• Ð¢Ð Ð•Ð‘Ð£Ð®Ð©Ð•Ð• ÐžÐ¢Ð’Ð•Ð¢Ð =========================
 #MESSAGE_BODY#
 >=====================================================================
 
-Äëÿ ïðîñìîòðà è ðåäàêòèðîâàíèÿ îáðàùåíèÿ âîñïîëüçóéòåñü ññûëêîé:
+Ð”Ð»Ñ Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð° Ð¸ Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ Ð¾Ð±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ñ Ð²Ð¾ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐ¹Ñ‚ÐµÑÑŒ ÑÑÑ‹Ð»ÐºÐ¾Ð¹:
 http://#SERVER_NAME##ADMIN_EDIT_URL#?ID=#ID#&lang=#LANGUAGE_ID#
 
-Ïèñüìî ñãåíåðèðîâàíî àâòîìàòè÷åñêè.
+ÐŸÐ¸ÑÑŒÐ¼Ð¾ ÑÐ³ÐµÐ½ÐµÑ€Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¾ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸.
 ";
-$MESS ['SUP_SE_TICKET_GENERATE_SUPERCOUPON_TITLE'] = "Èñïîëüçîâàí êóïîí";
-$MESS ['SUP_SE_TICKET_GENERATE_SUPERCOUPON_TEXT'] = "#COUPON# - Êóïîí
-#COUPON_ID# - ID Êóïîíà
-#DATE# - Äàòà èñïîëüçîâàíèÿ
-#USER_ID# - ID èñïîëüçîâàâøåãî ïîëüçîâàòåëÿ
-#SESSION_ID# - ID ñåññèè
-#GUEST_ID# - ID ãîñòÿ
+$MESS ['SUP_SE_TICKET_GENERATE_SUPERCOUPON_TITLE'] = "Ð˜ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½ ÐºÑƒÐ¿Ð¾Ð½";
+$MESS ['SUP_SE_TICKET_GENERATE_SUPERCOUPON_TEXT'] = "#COUPON# - ÐšÑƒÐ¿Ð¾Ð½
+#COUPON_ID# - ID ÐšÑƒÐ¿Ð¾Ð½Ð°
+#DATE# - Ð”Ð°Ñ‚Ð° Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð¸Ñ
+#USER_ID# - ID Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð²ÑˆÐµÐ³Ð¾ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ
+#SESSION_ID# - ID ÑÐµÑÑÐ¸Ð¸
+#GUEST_ID# - ID Ð³Ð¾ÑÑ‚Ñ
 ";
 ?>

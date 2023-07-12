@@ -1,3 +1,3 @@
 <?
-$MESS ['BCL_CDN_CONFIG_XML_PARSE'] = "Îøèáêà ðàçáîðà xml íàñòðîåê (êîä: #CODE#).";
+$MESS ['BCL_CDN_CONFIG_XML_PARSE'] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ñ€Ð°Ð·Ð±Ð¾Ñ€Ð° xml Ð½Ð°ÑÑ‚Ñ€Ð¾ÐµÐº (ÐºÐ¾Ð´: #CODE#).";
 ?>

@@ -1,13 +1,13 @@
 <?
-$MESS ['P_ID'] = "Êîä";
-$MESS ['P_NAME'] = "Íàçâàíèå";
-$MESS ['P_PERSON_TYPE_ID'] = "Òèï ïëàòåëüùèêà";
-$MESS ['P_DATE_UPDATE'] = "Äàòà îáíîâëåíèÿ";
-$MESS ['SALE_ACTION'] = "Äåéñòâèÿ";
-$MESS ['SALE_DETAIL'] = "Èçìåíèòü";
-$MESS ['SALE_DELETE'] = "Óäàëèòü";
-$MESS ['SALE_DETAIL_DESCR'] = "Èçìåíèòü ïðîôèëü";
-$MESS ['SALE_DELETE_DESCR'] = "Óäàëèòü ïðîôèëü";
-$MESS["STPPL_DELETE_CONFIRM"]="Âû óâåðåíû, ÷òî õîòèòå óäàëèòü ýòîò ïðîôèëü?";
-$MESS["STPPL_EMPTY_PROFILE_LIST"]="Ñïèñîê ïðîôèëåé ïóñò";
+$MESS ['P_ID'] = "ÐšÐ¾Ð´";
+$MESS ['P_NAME'] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
+$MESS ['P_PERSON_TYPE_ID'] = "Ð¢Ð¸Ð¿ Ð¿Ð»Ð°Ñ‚ÐµÐ»ÑŒÑ‰Ð¸ÐºÐ°";
+$MESS ['P_DATE_UPDATE'] = "Ð”Ð°Ñ‚Ð° Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ñ";
+$MESS ['SALE_ACTION'] = "Ð”ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ";
+$MESS ['SALE_DETAIL'] = "Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
+$MESS ['SALE_DELETE'] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";
+$MESS ['SALE_DETAIL_DESCR'] = "Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ð¿Ñ€Ð¾Ñ„Ð¸Ð»ÑŒ";
+$MESS ['SALE_DELETE_DESCR'] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ Ð¿Ñ€Ð¾Ñ„Ð¸Ð»ÑŒ";
+$MESS["STPPL_DELETE_CONFIRM"]="Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹, Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ ÑÑ‚Ð¾Ñ‚ Ð¿Ñ€Ð¾Ñ„Ð¸Ð»ÑŒ?";
+$MESS["STPPL_EMPTY_PROFILE_LIST"]="Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð¿Ñ€Ð¾Ñ„Ð¸Ð»ÐµÐ¹ Ð¿ÑƒÑÑ‚";
 ?>

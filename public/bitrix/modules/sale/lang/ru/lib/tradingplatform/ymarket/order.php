@@ -1,4 +1,4 @@
 <?
-$MESS["SALE_YMARKET_ORDER_CURRENCY_NOT_SUPPORTED"] = 'Âàëþòà "#CURRENCY#" íå ïîääåðæèâàåòñÿ';
-$MESS["SALE_YMARKET_ORDER_PRODUCT_NOT_AVAILABLE"] = 'Òîâàð "#NAME#" íåäîñòóïåí';
-$MESS["SALE_YMARKET_ORDER_PRODUCTS_NOT_AVAILABLE"] = 'Äîñòóïíûå òîâàðû îòñóòñòâóþò';
+$MESS["SALE_YMARKET_ORDER_CURRENCY_NOT_SUPPORTED"] = 'Ð’Ð°Ð»ÑŽÑ‚Ð° "#CURRENCY#" Ð½Ðµ Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶Ð¸Ð²Ð°ÐµÑ‚ÑÑ';
+$MESS["SALE_YMARKET_ORDER_PRODUCT_NOT_AVAILABLE"] = 'Ð¢Ð¾Ð²Ð°Ñ€ "#NAME#" Ð½ÐµÐ´Ð¾ÑÑ‚ÑƒÐ¿ÐµÐ½';
+$MESS["SALE_YMARKET_ORDER_PRODUCTS_NOT_AVAILABLE"] = 'Ð”Ð¾ÑÑ‚ÑƒÐ¿Ð½Ñ‹Ðµ Ñ‚Ð¾Ð²Ð°Ñ€Ñ‹ Ð¾Ñ‚ÑÑƒÑ‚ÑÑ‚Ð²ÑƒÑŽÑ‚';

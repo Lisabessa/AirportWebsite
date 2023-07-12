@@ -1,5 +1,5 @@
 <?
-$MESS["js_access_title"]="Êàòåãîðèè ïîëüçîâàòåëåé";
-$MESS["js_access_select"]="Âûáðàòü";
-$MESS["js_access_close"]="Çàêðûòü";
+$MESS["js_access_title"]="ÐšÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ð¸ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÐµÐ¹";
+$MESS["js_access_select"]="Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ";
+$MESS["js_access_close"]="Ð—Ð°ÐºÑ€Ñ‹Ñ‚ÑŒ";
 ?>

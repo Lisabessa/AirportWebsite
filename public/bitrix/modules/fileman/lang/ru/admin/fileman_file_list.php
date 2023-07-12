@@ -1,3 +1,3 @@
 <?
-$MESS ['FILEMAN_T_FILES'] = "Τΰιλϋ";
+$MESS ['FILEMAN_T_FILES'] = "Π¤Π°ΠΉΠ»Ρ‹";
 ?>

@@ -1,21 +1,21 @@
 <?
-$MESS ['SEO_ICON_ALT'] = "Поисковая оптимизация страницы";
+$MESS ['SEO_ICON_ALT'] = "РџРѕРёСЃРєРѕРІР°СЏ РѕРїС‚РёРјРёР·Р°С†РёСЏ СЃС‚СЂР°РЅРёС†С‹";
 $MESS ['SEO_ICON_TEXT'] = "SEO";
-$MESS ['SEO_ICON_HINT'] = "Вызов инструментов оптимизации сайта с целью повышения положения сайта в выдаче поисковых машин.";
-$MESS ['SEO_DIR_LOGICAL_NO_NAME'] = "<Без названия>";
-$MESS ['SEO_UNIQUE_TEXT_YANDEX'] = "Отправить уникальный текст в Яндекс";
-$MESS ['SEO_UNIQUE_TEXT_YANDEX_SUBMIT'] = "Отправить в Яндекс";
-$MESS ['SEO_YANDEX_ERROR'] = "Не настроена привязка к сайтам. <a href=\"/bitrix/admin/seo_search_yandex.php?lang=ru\">Настроить</a>";
-$MESS ['SEO_YANDEX_DOMAIN'] = "Домен";
-$MESS ['SEO_YANDEX_ORIGINAL_TEXT_TOO_SHORT'] = "Текст слишком короткий. Сервис принимает тексты не короче #NUM# символов";
-$MESS ['SEO_YANDEX_ORIGINAL_TEXT_TOO_LONG'] = "Текст слишком длинный. Сервис принимает тексты не длиннее #NUM# символов";
-$MESS ['SEO_YANDEX_ORIGINAL_TEXT_OK'] = "Операция успешна";
-$MESS ['SEO_YANDEX_ORIGINAL_TEXT_OK_DETAILS'] = "Оригинальный текст успешно добавлен. <a href=\"/bitrix/admin/seo_search_yandex.php?lang=#LANGUAGE_ID#\">Перейти к управлению оригинальными текстами.</a>";
+$MESS ['SEO_ICON_HINT'] = "Р’С‹Р·РѕРІ РёРЅСЃС‚СЂСѓРјРµРЅС‚РѕРІ РѕРїС‚РёРјРёР·Р°С†РёРё СЃР°Р№С‚Р° СЃ С†РµР»СЊСЋ РїРѕРІС‹С€РµРЅРёСЏ РїРѕР»РѕР¶РµРЅРёСЏ СЃР°Р№С‚Р° РІ РІС‹РґР°С‡Рµ РїРѕРёСЃРєРѕРІС‹С… РјР°С€РёРЅ.";
+$MESS ['SEO_DIR_LOGICAL_NO_NAME'] = "<Р‘РµР· РЅР°Р·РІР°РЅРёСЏ>";
+$MESS ['SEO_UNIQUE_TEXT_YANDEX'] = "РћС‚РїСЂР°РІРёС‚СЊ СѓРЅРёРєР°Р»СЊРЅС‹Р№ С‚РµРєСЃС‚ РІ РЇРЅРґРµРєСЃ";
+$MESS ['SEO_UNIQUE_TEXT_YANDEX_SUBMIT'] = "РћС‚РїСЂР°РІРёС‚СЊ РІ РЇРЅРґРµРєСЃ";
+$MESS ['SEO_YANDEX_ERROR'] = "РќРµ РЅР°СЃС‚СЂРѕРµРЅР° РїСЂРёРІСЏР·РєР° Рє СЃР°Р№С‚Р°Рј. <a href=\"/bitrix/admin/seo_search_yandex.php?lang=ru\">РќР°СЃС‚СЂРѕРёС‚СЊ</a>";
+$MESS ['SEO_YANDEX_DOMAIN'] = "Р”РѕРјРµРЅ";
+$MESS ['SEO_YANDEX_ORIGINAL_TEXT_TOO_SHORT'] = "РўРµРєСЃС‚ СЃР»РёС€РєРѕРј РєРѕСЂРѕС‚РєРёР№. РЎРµСЂРІРёСЃ РїСЂРёРЅРёРјР°РµС‚ С‚РµРєСЃС‚С‹ РЅРµ РєРѕСЂРѕС‡Рµ #NUM# СЃРёРјРІРѕР»РѕРІ";
+$MESS ['SEO_YANDEX_ORIGINAL_TEXT_TOO_LONG'] = "РўРµРєСЃС‚ СЃР»РёС€РєРѕРј РґР»РёРЅРЅС‹Р№. РЎРµСЂРІРёСЃ РїСЂРёРЅРёРјР°РµС‚ С‚РµРєСЃС‚С‹ РЅРµ РґР»РёРЅРЅРµРµ #NUM# СЃРёРјРІРѕР»РѕРІ";
+$MESS ['SEO_YANDEX_ORIGINAL_TEXT_OK'] = "РћРїРµСЂР°С†РёСЏ СѓСЃРїРµС€РЅР°";
+$MESS ['SEO_YANDEX_ORIGINAL_TEXT_OK_DETAILS'] = "РћСЂРёРіРёРЅР°Р»СЊРЅС‹Р№ С‚РµРєСЃС‚ СѓСЃРїРµС€РЅРѕ РґРѕР±Р°РІР»РµРЅ. <a href=\"/bitrix/admin/seo_search_yandex.php?lang=#LANGUAGE_ID#\">РџРµСЂРµР№С‚Рё Рє СѓРїСЂР°РІР»РµРЅРёСЋ РѕСЂРёРіРёРЅР°Р»СЊРЅС‹РјРё С‚РµРєСЃС‚Р°РјРё.</a>";
 
-$MESS["YANDEX_ERROR__INVALID_USER_ID"] = "ID пользователя, выдавшего токен, отличается от указанного в запросе";
-$MESS["YANDEX_ERROR__HOST_NOT_VERIFIED"] = "Сайт отсутствует в списке сайтов пользователя или на него не подтверждены права";
-$MESS["YANDEX_ERROR__TEXT_LENGTH_CONSTRAINTS_VIOLATION"] = "Переданный текст слишком короткий или длинный.";
-$MESS["YANDEX_ERROR__ORIGINALS_TEXT_ALREADY_ADDED"] = "Переданный текст уже был добавлен ранее";
-$MESS["YANDEX_ERROR__ORIGINAL_TEXT_ALREADY_ADDED"] = "Переданный текст уже был добавлен ранее";
-$MESS["YANDEX_ERROR__QUOTA_EXCEEDED"] = "Превышена квота добавления оригинальных текстов";
+$MESS["YANDEX_ERROR__INVALID_USER_ID"] = "ID РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ, РІС‹РґР°РІС€РµРіРѕ С‚РѕРєРµРЅ, РѕС‚Р»РёС‡Р°РµС‚СЃСЏ РѕС‚ СѓРєР°Р·Р°РЅРЅРѕРіРѕ РІ Р·Р°РїСЂРѕСЃРµ";
+$MESS["YANDEX_ERROR__HOST_NOT_VERIFIED"] = "РЎР°Р№С‚ РѕС‚СЃСѓС‚СЃС‚РІСѓРµС‚ РІ СЃРїРёСЃРєРµ СЃР°Р№С‚РѕРІ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ РёР»Рё РЅР° РЅРµРіРѕ РЅРµ РїРѕРґС‚РІРµСЂР¶РґРµРЅС‹ РїСЂР°РІР°";
+$MESS["YANDEX_ERROR__TEXT_LENGTH_CONSTRAINTS_VIOLATION"] = "РџРµСЂРµРґР°РЅРЅС‹Р№ С‚РµРєСЃС‚ СЃР»РёС€РєРѕРј РєРѕСЂРѕС‚РєРёР№ РёР»Рё РґР»РёРЅРЅС‹Р№.";
+$MESS["YANDEX_ERROR__ORIGINALS_TEXT_ALREADY_ADDED"] = "РџРµСЂРµРґР°РЅРЅС‹Р№ С‚РµРєСЃС‚ СѓР¶Рµ Р±С‹Р» РґРѕР±Р°РІР»РµРЅ СЂР°РЅРµРµ";
+$MESS["YANDEX_ERROR__ORIGINAL_TEXT_ALREADY_ADDED"] = "РџРµСЂРµРґР°РЅРЅС‹Р№ С‚РµРєСЃС‚ СѓР¶Рµ Р±С‹Р» РґРѕР±Р°РІР»РµРЅ СЂР°РЅРµРµ";
+$MESS["YANDEX_ERROR__QUOTA_EXCEEDED"] = "РџСЂРµРІС‹С€РµРЅР° РєРІРѕС‚Р° РґРѕР±Р°РІР»РµРЅРёСЏ РѕСЂРёРіРёРЅР°Р»СЊРЅС‹С… С‚РµРєСЃС‚РѕРІ";
 ?>

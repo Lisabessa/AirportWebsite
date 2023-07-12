@@ -1,8 +1,8 @@
 <?php
-$MESS["EC_CALENDAR_ICAL_MAIL_METHOD_EDIT"] = "Âñòðå÷à èçìåíåíà";
-$MESS["EC_CALENDAR_ICAL_MAIL_CHANGE_FIELD_TITLE_DATE"] = "Èçìåíåíî âðåìÿ ïðîâåäåíèÿ âñòðå÷è";
-$MESS["EC_CALENDAR_ICAL_MAIL_CHANGE_FIELD_TITLE_LOCATION"] = "Èçìåíåíî ìåñòî ïðîâåäåíèÿ âñòðå÷è";
-$MESS["EC_CALENDAR_ICAL_MAIL_CHANGE_FIELD_TITLE_ATTENDEES"] = "Èçìåíåí ñîñòàâ ó÷àñòíèêîâ";
-$MESS["EC_CALENDAR_ICAL_MAIL_CHANGE_FIELD_TITLE_RRULE"] = "Èçìåíåíû ïàðàìåòðû ïîâòîðåíèÿ âñòðå÷è";
-$MESS["EC_CALENDAR_ICAL_MAIL_CHANGE_FIELD_TITLE_NAME"] = "Èçìåíåíà òåìà âñòðå÷è";
-$MESS["EC_CALENDAR_ICAL_MAIL_HIDE_GUESTS_INFORMATION"] = "Îðãàíèçàòîð ñîáûòèÿ ñêðûë ñïèñîê ó÷àñòíèêîâ";
+$MESS["EC_CALENDAR_ICAL_MAIL_METHOD_EDIT"] = "Ð’ÑÑ‚Ñ€ÐµÑ‡Ð° Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð°";
+$MESS["EC_CALENDAR_ICAL_MAIL_CHANGE_FIELD_TITLE_DATE"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¾ Ð²Ñ€ÐµÐ¼Ñ Ð¿Ñ€Ð¾Ð²ÐµÐ´ÐµÐ½Ð¸Ñ Ð²ÑÑ‚Ñ€ÐµÑ‡Ð¸";
+$MESS["EC_CALENDAR_ICAL_MAIL_CHANGE_FIELD_TITLE_LOCATION"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¾ Ð¼ÐµÑÑ‚Ð¾ Ð¿Ñ€Ð¾Ð²ÐµÐ´ÐµÐ½Ð¸Ñ Ð²ÑÑ‚Ñ€ÐµÑ‡Ð¸";
+$MESS["EC_CALENDAR_ICAL_MAIL_CHANGE_FIELD_TITLE_ATTENDEES"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½ ÑÐ¾ÑÑ‚Ð°Ð² ÑƒÑ‡Ð°ÑÑ‚Ð½Ð¸ÐºÐ¾Ð²";
+$MESS["EC_CALENDAR_ICAL_MAIL_CHANGE_FIELD_TITLE_RRULE"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ñ‹ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ Ð¿Ð¾Ð²Ñ‚Ð¾Ñ€ÐµÐ½Ð¸Ñ Ð²ÑÑ‚Ñ€ÐµÑ‡Ð¸";
+$MESS["EC_CALENDAR_ICAL_MAIL_CHANGE_FIELD_TITLE_NAME"] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð° Ñ‚ÐµÐ¼Ð° Ð²ÑÑ‚Ñ€ÐµÑ‡Ð¸";
+$MESS["EC_CALENDAR_ICAL_MAIL_HIDE_GUESTS_INFORMATION"] = "ÐžÑ€Ð³Ð°Ð½Ð¸Ð·Ð°Ñ‚Ð¾Ñ€ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ ÑÐºÑ€Ñ‹Ð» ÑÐ¿Ð¸ÑÐ¾Ðº ÑƒÑ‡Ð°ÑÑ‚Ð½Ð¸ÐºÐ¾Ð²";

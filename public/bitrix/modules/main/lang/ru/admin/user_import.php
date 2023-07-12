@@ -1,67 +1,67 @@
 <?
-$MESS["USER_IMPORT_TITLE"] = "Импорт пользователей";
-$MESS["USER_IMPORT_SOURCE_TAB"] = "Источник данных";
-$MESS["USER_IMPORT_SOURCE_TAB_DESC"] = "Выберите источник данных";
-$MESS["USER_IMPORT_SETTINGS_TAB"] = "Параметры импорта";
-$MESS["USER_IMPORT_SETTINGS_TAB_DESC"] = "Настройка параметров импорта";
-$MESS["USER_IMPORT_RESULT_TAB"] = "Импорт";
-$MESS["USER_IMPORT_RESULT_TAB_DESC"] = "Импорт пользователей";
-$MESS["LDAP_MODULE_NOT_INSTALLED"] = "требуется установленный модуль AD/LDAP";
-$MESS["IMPORT_FROM_1C_REQ_NOTES"] = "требуются установленные модули Корпоративный портал и Информационные блоки";
-$MESS["USER_IMPORT_NEXT_BUTTON"] = "Далее";
-$MESS["USER_IMPORT_PREV_BUTTON"] = "Назад";
-$MESS["USER_IMPORT_BACK_TO_START"] = "Назад к шагу 1";
-$MESS["USER_IMPORT_OPEN_DIALOG"] = "Открыть";
-$MESS["USER_IMPORT_FROM"] = "Импортировать из";
-$MESS["USER_IMPORT_DATA_FILE"] = "Файл данных";
-$MESS["USER_IMPORT_FROM_CSV"] = "CSV-файла";
+$MESS["USER_IMPORT_TITLE"] = "РРјРїРѕСЂС‚ РїРѕР»СЊР·РѕРІР°С‚РµР»РµР№";
+$MESS["USER_IMPORT_SOURCE_TAB"] = "РСЃС‚РѕС‡РЅРёРє РґР°РЅРЅС‹С…";
+$MESS["USER_IMPORT_SOURCE_TAB_DESC"] = "Р’С‹Р±РµСЂРёС‚Рµ РёСЃС‚РѕС‡РЅРёРє РґР°РЅРЅС‹С…";
+$MESS["USER_IMPORT_SETTINGS_TAB"] = "РџР°СЂР°РјРµС‚СЂС‹ РёРјРїРѕСЂС‚Р°";
+$MESS["USER_IMPORT_SETTINGS_TAB_DESC"] = "РќР°СЃС‚СЂРѕР№РєР° РїР°СЂР°РјРµС‚СЂРѕРІ РёРјРїРѕСЂС‚Р°";
+$MESS["USER_IMPORT_RESULT_TAB"] = "РРјРїРѕСЂС‚";
+$MESS["USER_IMPORT_RESULT_TAB_DESC"] = "РРјРїРѕСЂС‚ РїРѕР»СЊР·РѕРІР°С‚РµР»РµР№";
+$MESS["LDAP_MODULE_NOT_INSTALLED"] = "С‚СЂРµР±СѓРµС‚СЃСЏ СѓСЃС‚Р°РЅРѕРІР»РµРЅРЅС‹Р№ РјРѕРґСѓР»СЊ AD/LDAP";
+$MESS["IMPORT_FROM_1C_REQ_NOTES"] = "С‚СЂРµР±СѓСЋС‚СЃСЏ СѓСЃС‚Р°РЅРѕРІР»РµРЅРЅС‹Рµ РјРѕРґСѓР»Рё РљРѕСЂРїРѕСЂР°С‚РёРІРЅС‹Р№ РїРѕСЂС‚Р°Р» Рё РРЅС„РѕСЂРјР°С†РёРѕРЅРЅС‹Рµ Р±Р»РѕРєРё";
+$MESS["USER_IMPORT_NEXT_BUTTON"] = "Р”Р°Р»РµРµ";
+$MESS["USER_IMPORT_PREV_BUTTON"] = "РќР°Р·Р°Рґ";
+$MESS["USER_IMPORT_BACK_TO_START"] = "РќР°Р·Р°Рґ Рє С€Р°РіСѓ 1";
+$MESS["USER_IMPORT_OPEN_DIALOG"] = "РћС‚РєСЂС‹С‚СЊ";
+$MESS["USER_IMPORT_FROM"] = "РРјРїРѕСЂС‚РёСЂРѕРІР°С‚СЊ РёР·";
+$MESS["USER_IMPORT_DATA_FILE"] = "Р¤Р°Р№Р» РґР°РЅРЅС‹С…";
+$MESS["USER_IMPORT_FROM_CSV"] = "CSV-С„Р°Р№Р»Р°";
 $MESS["USER_IMPORT_FROM_LDAP"] = "Active Directory / LDAP";
-$MESS["USER_IMPORT_FROM_1C"] = "1С: Зарплата и управление персоналом";
-$MESS["USER_IMPORT_DELIMETER"] = "Разделитель полей";
-$MESS["USER_IMPORT_DELIMETER_SEMICOLON"] = "Точка с запятой";
-$MESS["USER_IMPORT_DELIMETER_COMMA"] = "Запятая";
-$MESS["USER_IMPORT_DELIMETER_TABULATION"] = "Табуляция";
-$MESS["USER_IMPORT_DELIMETER_SPACE"] = "Пробел";
-$MESS["USER_IMPORT_ATTTACH_GROUP"] = "Привязать пользователей к группам";
-$MESS["USER_IMPORT_SEND_MAIL"] = "Оповестить пользователя, если был указан e-mail";
-$MESS["USER_IMPORT_IGNORE_DUPLICATE"] = "Игнорировать пользователей, логин которых уже существует в системе";
-$MESS["USER_IMPORT_IMAGE_PATH"] = "Путь к картинкам относительно корня сайта";
-$MESS["USER_IMPORT_LDAP_SERVER"] = "LDAP-сервер";
-$MESS["USER_IMPORT_SELECT_FROM_LIST"] = "выберите из списка";
-$MESS["USER_IMPORT_NEW_LDAP_SERVER"] = "Создать";
-$MESS["USER_IMPORT_LDAP_SERVER_NOT_FOUND"] = "LDAP-сервер не найден.";
-$MESS["USER_IMPORT_LDAP_SERVER_CONN_ERROR"] = "Ошибка соединения к серверу.";
-$MESS["USER_IMPORT_LDAP_SERVER_AUTH_ERROR"] = "Ошибка авторизации на сервер.";
-$MESS["USER_IMPORT_CREATE_1C_USER"] = "Создать пользователя, имеющего право на импорт из 1С: Зарплата и управление персоналом.";
-$MESS["USER_IMPORT_1C_USER_LOGIN"] = "Логин (мин. 3 символа)";
-$MESS["USER_IMPORT_1C_USER_PASS"] = "Пароль (мин. 6 символов)";
-$MESS["USER_IMPORT_1C_USER_CONFIRM_PASS"] = "Подтверждение пароля";
+$MESS["USER_IMPORT_FROM_1C"] = "1РЎ: Р—Р°СЂРїР»Р°С‚Р° Рё СѓРїСЂР°РІР»РµРЅРёРµ РїРµСЂСЃРѕРЅР°Р»РѕРј";
+$MESS["USER_IMPORT_DELIMETER"] = "Р Р°Р·РґРµР»РёС‚РµР»СЊ РїРѕР»РµР№";
+$MESS["USER_IMPORT_DELIMETER_SEMICOLON"] = "РўРѕС‡РєР° СЃ Р·Р°РїСЏС‚РѕР№";
+$MESS["USER_IMPORT_DELIMETER_COMMA"] = "Р—Р°РїСЏС‚Р°СЏ";
+$MESS["USER_IMPORT_DELIMETER_TABULATION"] = "РўР°Р±СѓР»СЏС†РёСЏ";
+$MESS["USER_IMPORT_DELIMETER_SPACE"] = "РџСЂРѕР±РµР»";
+$MESS["USER_IMPORT_ATTTACH_GROUP"] = "РџСЂРёРІСЏР·Р°С‚СЊ РїРѕР»СЊР·РѕРІР°С‚РµР»РµР№ Рє РіСЂСѓРїРїР°Рј";
+$MESS["USER_IMPORT_SEND_MAIL"] = "РћРїРѕРІРµСЃС‚РёС‚СЊ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ, РµСЃР»Рё Р±С‹Р» СѓРєР°Р·Р°РЅ e-mail";
+$MESS["USER_IMPORT_IGNORE_DUPLICATE"] = "РРіРЅРѕСЂРёСЂРѕРІР°С‚СЊ РїРѕР»СЊР·РѕРІР°С‚РµР»РµР№, Р»РѕРіРёРЅ РєРѕС‚РѕСЂС‹С… СѓР¶Рµ СЃСѓС‰РµСЃС‚РІСѓРµС‚ РІ СЃРёСЃС‚РµРјРµ";
+$MESS["USER_IMPORT_IMAGE_PATH"] = "РџСѓС‚СЊ Рє РєР°СЂС‚РёРЅРєР°Рј РѕС‚РЅРѕСЃРёС‚РµР»СЊРЅРѕ РєРѕСЂРЅСЏ СЃР°Р№С‚Р°";
+$MESS["USER_IMPORT_LDAP_SERVER"] = "LDAP-СЃРµСЂРІРµСЂ";
+$MESS["USER_IMPORT_SELECT_FROM_LIST"] = "РІС‹Р±РµСЂРёС‚Рµ РёР· СЃРїРёСЃРєР°";
+$MESS["USER_IMPORT_NEW_LDAP_SERVER"] = "РЎРѕР·РґР°С‚СЊ";
+$MESS["USER_IMPORT_LDAP_SERVER_NOT_FOUND"] = "LDAP-СЃРµСЂРІРµСЂ РЅРµ РЅР°Р№РґРµРЅ.";
+$MESS["USER_IMPORT_LDAP_SERVER_CONN_ERROR"] = "РћС€РёР±РєР° СЃРѕРµРґРёРЅРµРЅРёСЏ Рє СЃРµСЂРІРµСЂСѓ.";
+$MESS["USER_IMPORT_LDAP_SERVER_AUTH_ERROR"] = "РћС€РёР±РєР° Р°РІС‚РѕСЂРёР·Р°С†РёРё РЅР° СЃРµСЂРІРµСЂ.";
+$MESS["USER_IMPORT_CREATE_1C_USER"] = "РЎРѕР·РґР°С‚СЊ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ, РёРјРµСЋС‰РµРіРѕ РїСЂР°РІРѕ РЅР° РёРјРїРѕСЂС‚ РёР· 1РЎ: Р—Р°СЂРїР»Р°С‚Р° Рё СѓРїСЂР°РІР»РµРЅРёРµ РїРµСЂСЃРѕРЅР°Р»РѕРј.";
+$MESS["USER_IMPORT_1C_USER_LOGIN"] = "Р›РѕРіРёРЅ (РјРёРЅ. 3 СЃРёРјРІРѕР»Р°)";
+$MESS["USER_IMPORT_1C_USER_PASS"] = "РџР°СЂРѕР»СЊ (РјРёРЅ. 6 СЃРёРјРІРѕР»РѕРІ)";
+$MESS["USER_IMPORT_1C_USER_CONFIRM_PASS"] = "РџРѕРґС‚РІРµСЂР¶РґРµРЅРёРµ РїР°СЂРѕР»СЏ";
 $MESS["USER_IMPORT_1C_USER_EMAIL"] = "E-mail";
-$MESS["USER_IMPORT_1C_USER_GROUP"] = "Привязать пользователя к группам";
-$MESS["USER_IMPORT_1C_USER_GROUP_EMPTY"] = "Не заданы группы для привязки пользователя";
-$MESS["USER_IMPORT_CSV_NOT_FOUND"] = "Файл данных не найден.";
-$MESS["USER_IMPORT_GROUP_PERM_NAME"] = "Импорт пользователей из 1С";
-$MESS["USER_IMPORT_1C_HELP"] = "Импорт пользователей из программы &quot;1С: Зарплата и управление персоналом 8.1&quot; совершается в два шага. Первый шаг: настройка &quot;1С-Битрикс: Корпоративный портал&quot;, второй - импорт из &quot;1С: Зарплата и управление персоналом 8.1&quot;.
+$MESS["USER_IMPORT_1C_USER_GROUP"] = "РџСЂРёРІСЏР·Р°С‚СЊ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ Рє РіСЂСѓРїРїР°Рј";
+$MESS["USER_IMPORT_1C_USER_GROUP_EMPTY"] = "РќРµ Р·Р°РґР°РЅС‹ РіСЂСѓРїРїС‹ РґР»СЏ РїСЂРёРІСЏР·РєРё РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ";
+$MESS["USER_IMPORT_CSV_NOT_FOUND"] = "Р¤Р°Р№Р» РґР°РЅРЅС‹С… РЅРµ РЅР°Р№РґРµРЅ.";
+$MESS["USER_IMPORT_GROUP_PERM_NAME"] = "РРјРїРѕСЂС‚ РїРѕР»СЊР·РѕРІР°С‚РµР»РµР№ РёР· 1РЎ";
+$MESS["USER_IMPORT_1C_HELP"] = "РРјРїРѕСЂС‚ РїРѕР»СЊР·РѕРІР°С‚РµР»РµР№ РёР· РїСЂРѕРіСЂР°РјРјС‹ &quot;1РЎ: Р—Р°СЂРїР»Р°С‚Р° Рё СѓРїСЂР°РІР»РµРЅРёРµ РїРµСЂСЃРѕРЅР°Р»РѕРј 8.1&quot; СЃРѕРІРµСЂС€Р°РµС‚СЃСЏ РІ РґРІР° С€Р°РіР°. РџРµСЂРІС‹Р№ С€Р°Рі: РЅР°СЃС‚СЂРѕР№РєР° &quot;1РЎ-Р‘РёС‚СЂРёРєСЃ: РљРѕСЂРїРѕСЂР°С‚РёРІРЅС‹Р№ РїРѕСЂС‚Р°Р»&quot;, РІС‚РѕСЂРѕР№ - РёРјРїРѕСЂС‚ РёР· &quot;1РЎ: Р—Р°СЂРїР»Р°С‚Р° Рё СѓРїСЂР°РІР»РµРЅРёРµ РїРµСЂСЃРѕРЅР°Р»РѕРј 8.1&quot;.
 <br /><br />
-Для настройки импорта в &quot;1С-Битрикс: Корпоративный портал&quot; перейдите на <a target=\"_blank\" href=\"/bitrix/admin/settings.php?mid=intranet&lang=ru&back_url_settings=&tabControl_active_tab=edit2\">страницу управления импортом</a>.
+Р”Р»СЏ РЅР°СЃС‚СЂРѕР№РєРё РёРјРїРѕСЂС‚Р° РІ &quot;1РЎ-Р‘РёС‚СЂРёРєСЃ: РљРѕСЂРїРѕСЂР°С‚РёРІРЅС‹Р№ РїРѕСЂС‚Р°Р»&quot; РїРµСЂРµР№РґРёС‚Рµ РЅР° <a target=\"_blank\" href=\"/bitrix/admin/settings.php?mid=intranet&lang=ru&back_url_settings=&tabControl_active_tab=edit2\">СЃС‚СЂР°РЅРёС†Сѓ СѓРїСЂР°РІР»РµРЅРёСЏ РёРјРїРѕСЂС‚РѕРј</a>.
 <br /><br />
-При настройке импорта на этой странице обратите внимание на правильный выбор групп пользователей, которым разрешена загрузка из &quot;1С: Зарплата и управление персоналом 8.1&quot;. Необходимо также выбрать сайт, к которому будут привязаны пользователи.
+РџСЂРё РЅР°СЃС‚СЂРѕР№РєРµ РёРјРїРѕСЂС‚Р° РЅР° СЌС‚РѕР№ СЃС‚СЂР°РЅРёС†Рµ РѕР±СЂР°С‚РёС‚Рµ РІРЅРёРјР°РЅРёРµ РЅР° РїСЂР°РІРёР»СЊРЅС‹Р№ РІС‹Р±РѕСЂ РіСЂСѓРїРї РїРѕР»СЊР·РѕРІР°С‚РµР»РµР№, РєРѕС‚РѕСЂС‹Рј СЂР°Р·СЂРµС€РµРЅР° Р·Р°РіСЂСѓР·РєР° РёР· &quot;1РЎ: Р—Р°СЂРїР»Р°С‚Р° Рё СѓРїСЂР°РІР»РµРЅРёРµ РїРµСЂСЃРѕРЅР°Р»РѕРј 8.1&quot;. РќРµРѕР±С…РѕРґРёРјРѕ С‚Р°РєР¶Рµ РІС‹Р±СЂР°С‚СЊ СЃР°Р№С‚, Рє РєРѕС‚РѕСЂРѕРјСѓ Р±СѓРґСѓС‚ РїСЂРёРІСЏР·Р°РЅС‹ РїРѕР»СЊР·РѕРІР°С‚РµР»Рё.
 <br /><br />
-С детальной инструкцией по импорту пользователей из &quot;1С: Зарплата и управление персоналом 8.1&quot; вы можете ознакомиться в <a target=\"_blank\" href=\"https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=48&LESSON_ID=2501\">&quot;Руководстве по администрированию&quot;</a>.
+РЎ РґРµС‚Р°Р»СЊРЅРѕР№ РёРЅСЃС‚СЂСѓРєС†РёРµР№ РїРѕ РёРјРїРѕСЂС‚Сѓ РїРѕР»СЊР·РѕРІР°С‚РµР»РµР№ РёР· &quot;1РЎ: Р—Р°СЂРїР»Р°С‚Р° Рё СѓРїСЂР°РІР»РµРЅРёРµ РїРµСЂСЃРѕРЅР°Р»РѕРј 8.1&quot; РІС‹ РјРѕР¶РµС‚Рµ РѕР·РЅР°РєРѕРјРёС‚СЊСЃСЏ РІ <a target=\"_blank\" href=\"https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=48&LESSON_ID=2501\">&quot;Р СѓРєРѕРІРѕРґСЃС‚РІРµ РїРѕ Р°РґРјРёРЅРёСЃС‚СЂРёСЂРѕРІР°РЅРёСЋ&quot;</a>.
 <br /><br />
-После настройки &quot;1С-Битрикс: Корпоративный портал&quot; можно переходить непосредственно к процедуре импорта пользователей из &quot;1С: Зарплата и управление персоналом 8.1&quot;.
+РџРѕСЃР»Рµ РЅР°СЃС‚СЂРѕР№РєРё &quot;1РЎ-Р‘РёС‚СЂРёРєСЃ: РљРѕСЂРїРѕСЂР°С‚РёРІРЅС‹Р№ РїРѕСЂС‚Р°Р»&quot; РјРѕР¶РЅРѕ РїРµСЂРµС…РѕРґРёС‚СЊ РЅРµРїРѕСЃСЂРµРґСЃС‚РІРµРЅРЅРѕ Рє РїСЂРѕС†РµРґСѓСЂРµ РёРјРїРѕСЂС‚Р° РїРѕР»СЊР·РѕРІР°С‚РµР»РµР№ РёР· &quot;1РЎ: Р—Р°СЂРїР»Р°С‚Р° Рё СѓРїСЂР°РІР»РµРЅРёРµ РїРµСЂСЃРѕРЅР°Р»РѕРј 8.1&quot;.
 ";
-$MESS["USER_IMPORT_ATTACH_TO_IBLOCK"] = "Привязать пользователей к разделам информационного блока";
-$MESS["USER_IMPORT_SELECT_IBLOCK"] = "выберите информационный блок";
-$MESS["USER_IMPORT_ALLOW_LDAP_AUTH"] = "Разрешить пользователям авторизовываться через LDAP-сервер";
-$MESS["USER_IMPORT_FINISHED"] = "Импорт окончен";
-$MESS["USER_IMPORT_USERS_COUNT"] = "Импортировано пользователей";
-$MESS["USER_IMPORT_EMAIL_TEMPLATE1"] = "Сайт для шаблона письма";
-$MESS["USER_IMPORT_CSV_SAMPLE"] = "Пример";
-$MESS["USER_IMPORT_NO"] = "(нет доступных полей)";
-$MESS["USER_IMPORT_ALL"] = "(все)";
-$MESS["USER_IMPORT_LDAP_IMP_DEF"] = "Импортируемые поля:";
-$MESS["USER_IMPORT_LDAP_IMP_DEF_NOTE"] = "(из настроек сервера)";
-$MESS["USER_IMPORT_LDAP_IMP_ADD"] = "Дополнительно импортировать поля:";
-$MESS["USER_IMPORT_UTF"] = "Внимание! Файл данных должен быть в кодировке UTF-8.";
+$MESS["USER_IMPORT_ATTACH_TO_IBLOCK"] = "РџСЂРёРІСЏР·Р°С‚СЊ РїРѕР»СЊР·РѕРІР°С‚РµР»РµР№ Рє СЂР°Р·РґРµР»Р°Рј РёРЅС„РѕСЂРјР°С†РёРѕРЅРЅРѕРіРѕ Р±Р»РѕРєР°";
+$MESS["USER_IMPORT_SELECT_IBLOCK"] = "РІС‹Р±РµСЂРёС‚Рµ РёРЅС„РѕСЂРјР°С†РёРѕРЅРЅС‹Р№ Р±Р»РѕРє";
+$MESS["USER_IMPORT_ALLOW_LDAP_AUTH"] = "Р Р°Р·СЂРµС€РёС‚СЊ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏРј Р°РІС‚РѕСЂРёР·РѕРІС‹РІР°С‚СЊСЃСЏ С‡РµСЂРµР· LDAP-СЃРµСЂРІРµСЂ";
+$MESS["USER_IMPORT_FINISHED"] = "РРјРїРѕСЂС‚ РѕРєРѕРЅС‡РµРЅ";
+$MESS["USER_IMPORT_USERS_COUNT"] = "РРјРїРѕСЂС‚РёСЂРѕРІР°РЅРѕ РїРѕР»СЊР·РѕРІР°С‚РµР»РµР№";
+$MESS["USER_IMPORT_EMAIL_TEMPLATE1"] = "РЎР°Р№С‚ РґР»СЏ С€Р°Р±Р»РѕРЅР° РїРёСЃСЊРјР°";
+$MESS["USER_IMPORT_CSV_SAMPLE"] = "РџСЂРёРјРµСЂ";
+$MESS["USER_IMPORT_NO"] = "(РЅРµС‚ РґРѕСЃС‚СѓРїРЅС‹С… РїРѕР»РµР№)";
+$MESS["USER_IMPORT_ALL"] = "(РІСЃРµ)";
+$MESS["USER_IMPORT_LDAP_IMP_DEF"] = "РРјРїРѕСЂС‚РёСЂСѓРµРјС‹Рµ РїРѕР»СЏ:";
+$MESS["USER_IMPORT_LDAP_IMP_DEF_NOTE"] = "(РёР· РЅР°СЃС‚СЂРѕРµРє СЃРµСЂРІРµСЂР°)";
+$MESS["USER_IMPORT_LDAP_IMP_ADD"] = "Р”РѕРїРѕР»РЅРёС‚РµР»СЊРЅРѕ РёРјРїРѕСЂС‚РёСЂРѕРІР°С‚СЊ РїРѕР»СЏ:";
+$MESS["USER_IMPORT_UTF"] = "Р’РЅРёРјР°РЅРёРµ! Р¤Р°Р№Р» РґР°РЅРЅС‹С… РґРѕР»Р¶РµРЅ Р±С‹С‚СЊ РІ РєРѕРґРёСЂРѕРІРєРµ UTF-8.";
 ?>

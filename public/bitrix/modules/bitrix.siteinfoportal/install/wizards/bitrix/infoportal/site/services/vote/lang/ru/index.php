@@ -1,18 +1,18 @@
 <?
-$MESS["VOTING_INSTALL_II_VOTE"] = "Îïðîñ";
-$MESS["VOTING_INSTALL_MENU_ITEM"] = "Îïðîñû";
-$MESS["VOTING_INSTALL_CHANNEL_ANKETA"] = "Àíêåòèðîâàíèå";
-$MESS["VOTING_INSTALL_VOTE_ANKETA_TITLE"] = "Àíêåòà êëèåíòîâ êîìïàíèè";
-$MESS["VOTING_INSTALL_VOTE_QUESTION1"] = "Îòêóäà âû óçíàëè î íàøåì ñàéòå?";
+$MESS["VOTING_INSTALL_II_VOTE"] = "ÐžÐ¿Ñ€Ð¾Ñ";
+$MESS["VOTING_INSTALL_MENU_ITEM"] = "ÐžÐ¿Ñ€Ð¾ÑÑ‹";
+$MESS["VOTING_INSTALL_CHANNEL_ANKETA"] = "ÐÐ½ÐºÐµÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ";
+$MESS["VOTING_INSTALL_VOTE_ANKETA_TITLE"] = "ÐÐ½ÐºÐµÑ‚Ð° ÐºÐ»Ð¸ÐµÐ½Ñ‚Ð¾Ð² ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸";
+$MESS["VOTING_INSTALL_VOTE_QUESTION1"] = "ÐžÑ‚ÐºÑƒÐ´Ð° Ð²Ñ‹ ÑƒÐ·Ð½Ð°Ð»Ð¸ Ð¾ Ð½Ð°ÑˆÐµÐ¼ ÑÐ°Ð¹Ñ‚Ðµ?";
 $MESS["VOTING_INSTALL_VOTE_ANSWER1_1"] = "TV";
-$MESS["VOTING_INSTALL_VOTE_ANSWER1_2"] = "ðàäèî";
-$MESS["VOTING_INSTALL_VOTE_ANSWER1_3"] = "ãàçåòû";
+$MESS["VOTING_INSTALL_VOTE_ANSWER1_2"] = "Ñ€Ð°Ð´Ð¸Ð¾";
+$MESS["VOTING_INSTALL_VOTE_ANSWER1_3"] = "Ð³Ð°Ð·ÐµÑ‚Ñ‹";
 $MESS["VOTING_INSTALL_VOTE_ANSWER1_4"] = "Internet";
-$MESS["VOTING_INSTALL_VOTE_ANSWER1_5"] = "Äðóãîå";
-$MESS["VOTING_INSTALL_VOTE_QUESTION2"] = "Âàø ðîä çàíÿòèé";
-$MESS["VOTING_INSTALL_VOTE_ANSWER2_1"] = "øêîëüíèê";
-$MESS["VOTING_INSTALL_VOTE_ANSWER2_2"] = "ñòóäåíò";
-$MESS["VOTING_INSTALL_VOTE_ANSWER2_3"] = "àñïèðàíò";
-$MESS["VOTING_INSTALL_VOTE_ANSWER2_4"] = "ñëóæàùèé";
-$MESS["VOTING_INSTALL_VOTE_ANSWER2_5"] = "Ñâîé âàðèàíò";
+$MESS["VOTING_INSTALL_VOTE_ANSWER1_5"] = "Ð”Ñ€ÑƒÐ³Ð¾Ðµ";
+$MESS["VOTING_INSTALL_VOTE_QUESTION2"] = "Ð’Ð°Ñˆ Ñ€Ð¾Ð´ Ð·Ð°Ð½ÑÑ‚Ð¸Ð¹";
+$MESS["VOTING_INSTALL_VOTE_ANSWER2_1"] = "ÑˆÐºÐ¾Ð»ÑŒÐ½Ð¸Ðº";
+$MESS["VOTING_INSTALL_VOTE_ANSWER2_2"] = "ÑÑ‚ÑƒÐ´ÐµÐ½Ñ‚";
+$MESS["VOTING_INSTALL_VOTE_ANSWER2_3"] = "Ð°ÑÐ¿Ð¸Ñ€Ð°Ð½Ñ‚";
+$MESS["VOTING_INSTALL_VOTE_ANSWER2_4"] = "ÑÐ»ÑƒÐ¶Ð°Ñ‰Ð¸Ð¹";
+$MESS["VOTING_INSTALL_VOTE_ANSWER2_5"] = "Ð¡Ð²Ð¾Ð¹ Ð²Ð°Ñ€Ð¸Ð°Ð½Ñ‚";
 ?>

@@ -1,10 +1,10 @@
 <?php
-$MESS["SALE_ROUTER_ORDER_NOT_FOUND"] = "<p>Привязка дела к заказу потеряла актуальность. Возможно заказ был удален или привязан к другой сделке.</p><p>Для синхронизации сделки с заказом необходимо: удалить дело&nbsp;<b>#PLACEMENT_ENTITY_ID#</b>, а затем из сделки вызвать мастер импорта заказа в сделку</p>";
-$MESS["SALE_ROUTER_PAGE_NOT_FOUND"] = "Не известный тип запроса";
-$MESS["SALE_ROUTER_INTERNAL_ERROR"] = "Произошла внутрення ошибка приложения";
-$MESS["SALE_ROUTER_INTERNAL_ERROR_TITLE"] = "Внимание! Что-то пошло не так";
-$MESS["SALE_ROUTER_INTERNAL_SERVER_ERROR_AUHORIZATION"] = "Ошибка сервера авторизации: #DESCRIPTION# (#ERROR#)";
-$MESS["SALE_ROUTER_INTERNAL_SERVER_ERROR_WRONG_RESPONSE"] = "Ошибка сервера приложения";
-$MESS["SALE_ROUTER_INTERNAL_SERVER_ERROR_TOKEN_IS_NULL"] = "Ошибка приложения: Токен отсутствует";
-$MESS["SALE_ROUTER_INTERNAL_SERVER_ERROR_TOKEN_IS_COMPROMISED"] = "Ошибка приложения: Токен скомпроментирован. Выполните переустановку прирложения";
-$MESS["SALE_ROUTER_INTERNAL_SERVER_ERROR"] = "Ошибка приложения: #ERROR#";
+$MESS["SALE_ROUTER_ORDER_NOT_FOUND"] = "<p>РџСЂРёРІСЏР·РєР° РґРµР»Р° Рє Р·Р°РєР°Р·Сѓ РїРѕС‚РµСЂСЏР»Р° Р°РєС‚СѓР°Р»СЊРЅРѕСЃС‚СЊ. Р’РѕР·РјРѕР¶РЅРѕ Р·Р°РєР°Р· Р±С‹Р» СѓРґР°Р»РµРЅ РёР»Рё РїСЂРёРІСЏР·Р°РЅ Рє РґСЂСѓРіРѕР№ СЃРґРµР»РєРµ.</p><p>Р”Р»СЏ СЃРёРЅС…СЂРѕРЅРёР·Р°С†РёРё СЃРґРµР»РєРё СЃ Р·Р°РєР°Р·РѕРј РЅРµРѕР±С…РѕРґРёРјРѕ: СѓРґР°Р»РёС‚СЊ РґРµР»Рѕ&nbsp;<b>#PLACEMENT_ENTITY_ID#</b>, Р° Р·Р°С‚РµРј РёР· СЃРґРµР»РєРё РІС‹Р·РІР°С‚СЊ РјР°СЃС‚РµСЂ РёРјРїРѕСЂС‚Р° Р·Р°РєР°Р·Р° РІ СЃРґРµР»РєСѓ</p>";
+$MESS["SALE_ROUTER_PAGE_NOT_FOUND"] = "РќРµ РёР·РІРµСЃС‚РЅС‹Р№ С‚РёРї Р·Р°РїСЂРѕСЃР°";
+$MESS["SALE_ROUTER_INTERNAL_ERROR"] = "РџСЂРѕРёР·РѕС€Р»Р° РІРЅСѓС‚СЂРµРЅРЅСЏ РѕС€РёР±РєР° РїСЂРёР»РѕР¶РµРЅРёСЏ";
+$MESS["SALE_ROUTER_INTERNAL_ERROR_TITLE"] = "Р’РЅРёРјР°РЅРёРµ! Р§С‚Рѕ-С‚Рѕ РїРѕС€Р»Рѕ РЅРµ С‚Р°Рє";
+$MESS["SALE_ROUTER_INTERNAL_SERVER_ERROR_AUHORIZATION"] = "РћС€РёР±РєР° СЃРµСЂРІРµСЂР° Р°РІС‚РѕСЂРёР·Р°С†РёРё: #DESCRIPTION# (#ERROR#)";
+$MESS["SALE_ROUTER_INTERNAL_SERVER_ERROR_WRONG_RESPONSE"] = "РћС€РёР±РєР° СЃРµСЂРІРµСЂР° РїСЂРёР»РѕР¶РµРЅРёСЏ";
+$MESS["SALE_ROUTER_INTERNAL_SERVER_ERROR_TOKEN_IS_NULL"] = "РћС€РёР±РєР° РїСЂРёР»РѕР¶РµРЅРёСЏ: РўРѕРєРµРЅ РѕС‚СЃСѓС‚СЃС‚РІСѓРµС‚";
+$MESS["SALE_ROUTER_INTERNAL_SERVER_ERROR_TOKEN_IS_COMPROMISED"] = "РћС€РёР±РєР° РїСЂРёР»РѕР¶РµРЅРёСЏ: РўРѕРєРµРЅ СЃРєРѕРјРїСЂРѕРјРµРЅС‚РёСЂРѕРІР°РЅ. Р’С‹РїРѕР»РЅРёС‚Рµ РїРµСЂРµСѓСЃС‚Р°РЅРѕРІРєСѓ РїСЂРёСЂР»РѕР¶РµРЅРёСЏ";
+$MESS["SALE_ROUTER_INTERNAL_SERVER_ERROR"] = "РћС€РёР±РєР° РїСЂРёР»РѕР¶РµРЅРёСЏ: #ERROR#";

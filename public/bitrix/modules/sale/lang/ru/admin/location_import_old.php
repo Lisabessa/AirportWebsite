@@ -1,36 +1,36 @@
 <?
-$MESS ['NO_LOC_FILE'] = "Файл местоположений не загружен";
-$MESS ['ERROR_LOC_FORMAT'] = "Формат файла местоположений не верен: не задан основной язык";
-$MESS ['NO_MAIN_LANG'] = "Основной язык не установлен на сайте";
-$MESS ['OMLOADED1'] = "Загружено";
-$MESS ['OMLOADED2'] = "стран";
-$MESS ['OMLOADED3'] = "городов";
-$MESS ['OMLOADED4'] = "Создано местоположений";
-$MESS ['LOCA_LOADING'] = "Мастер загрузки местоположений";
-$MESS ['LOCA_LOADING_OLD'] = "Загрузка местоположений из файла";
-$MESS ['LOCA_FILE'] = "Файл";
-$MESS ['LOCA_DEL_OLD'] = "Удалить местоположения перед загрузкой";
-$MESS ['LOCA_DO_LOAD'] = "Загрузить";
-$MESS ['location_admin_import'] = "Импорт местоположений";
-$MESS ['location_admin_import_tab'] = "Импорт";
-$MESS ['location_admin_import_tab_old'] = "Импорт из файла";
-$MESS ['LOCA_LOADING_WIZARD'] = "Запустить мастер импорта местоположений";
-$MESS ['LOCA_SAVE'] = "Загрузить";
-$MESS ['LOCA_HINT'] = 'Вы можете загрузить файлы местоположений с сайта 1C-Битрикс:<ul style="font-size: 100%">
-	<li><a href="http://www.1c-bitrix.ru/download/files/locations/loc_ussr.csv">Россия и страны СНГ</a></li>
-	<li><a href="http://www.1c-bitrix.ru/download/files/locations/loc_cntr.csv">Страны мира</a></li>
-	<li><a href="http://www.1c-bitrix.ru/download/files/locations/loc_usa.csv">США</a></li>
+$MESS ['NO_LOC_FILE'] = "Р¤Р°Р№Р» РјРµСЃС‚РѕРїРѕР»РѕР¶РµРЅРёР№ РЅРµ Р·Р°РіСЂСѓР¶РµРЅ";
+$MESS ['ERROR_LOC_FORMAT'] = "Р¤РѕСЂРјР°С‚ С„Р°Р№Р»Р° РјРµСЃС‚РѕРїРѕР»РѕР¶РµРЅРёР№ РЅРµ РІРµСЂРµРЅ: РЅРµ Р·Р°РґР°РЅ РѕСЃРЅРѕРІРЅРѕР№ СЏР·С‹Рє";
+$MESS ['NO_MAIN_LANG'] = "РћСЃРЅРѕРІРЅРѕР№ СЏР·С‹Рє РЅРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅ РЅР° СЃР°Р№С‚Рµ";
+$MESS ['OMLOADED1'] = "Р—Р°РіСЂСѓР¶РµРЅРѕ";
+$MESS ['OMLOADED2'] = "СЃС‚СЂР°РЅ";
+$MESS ['OMLOADED3'] = "РіРѕСЂРѕРґРѕРІ";
+$MESS ['OMLOADED4'] = "РЎРѕР·РґР°РЅРѕ РјРµСЃС‚РѕРїРѕР»РѕР¶РµРЅРёР№";
+$MESS ['LOCA_LOADING'] = "РњР°СЃС‚РµСЂ Р·Р°РіСЂСѓР·РєРё РјРµСЃС‚РѕРїРѕР»РѕР¶РµРЅРёР№";
+$MESS ['LOCA_LOADING_OLD'] = "Р—Р°РіСЂСѓР·РєР° РјРµСЃС‚РѕРїРѕР»РѕР¶РµРЅРёР№ РёР· С„Р°Р№Р»Р°";
+$MESS ['LOCA_FILE'] = "Р¤Р°Р№Р»";
+$MESS ['LOCA_DEL_OLD'] = "РЈРґР°Р»РёС‚СЊ РјРµСЃС‚РѕРїРѕР»РѕР¶РµРЅРёСЏ РїРµСЂРµРґ Р·Р°РіСЂСѓР·РєРѕР№";
+$MESS ['LOCA_DO_LOAD'] = "Р—Р°РіСЂСѓР·РёС‚СЊ";
+$MESS ['location_admin_import'] = "РРјРїРѕСЂС‚ РјРµСЃС‚РѕРїРѕР»РѕР¶РµРЅРёР№";
+$MESS ['location_admin_import_tab'] = "РРјРїРѕСЂС‚";
+$MESS ['location_admin_import_tab_old'] = "РРјРїРѕСЂС‚ РёР· С„Р°Р№Р»Р°";
+$MESS ['LOCA_LOADING_WIZARD'] = "Р—Р°РїСѓСЃС‚РёС‚СЊ РјР°СЃС‚РµСЂ РёРјРїРѕСЂС‚Р° РјРµСЃС‚РѕРїРѕР»РѕР¶РµРЅРёР№";
+$MESS ['LOCA_SAVE'] = "Р—Р°РіСЂСѓР·РёС‚СЊ";
+$MESS ['LOCA_HINT'] = 'Р’С‹ РјРѕР¶РµС‚Рµ Р·Р°РіСЂСѓР·РёС‚СЊ С„Р°Р№Р»С‹ РјРµСЃС‚РѕРїРѕР»РѕР¶РµРЅРёР№ СЃ СЃР°Р№С‚Р° 1C-Р‘РёС‚СЂРёРєСЃ:<ul style="font-size: 100%">
+	<li><a href="http://www.1c-bitrix.ru/download/files/locations/loc_ussr.csv">Р РѕСЃСЃРёСЏ Рё СЃС‚СЂР°РЅС‹ РЎРќР“</a></li>
+	<li><a href="http://www.1c-bitrix.ru/download/files/locations/loc_cntr.csv">РЎС‚СЂР°РЅС‹ РјРёСЂР°</a></li>
+	<li><a href="http://www.1c-bitrix.ru/download/files/locations/loc_usa.csv">РЎРЁРђ</a></li>
 </ul>';
-$MESS ['LOCA_LOCATIONS_STATS'] = 'Статистика базы местоположений';
-$MESS ['LOCA_LOCATIONS_COUNTRY_STATS'] = "стран";
-$MESS ['LOCA_LOCATIONS_CITY_STATS'] = "городов";
-$MESS ['LOCA_LOCATIONS_REGION_STATS'] = "регионов";
-$MESS ['LOCA_LOCATIONS_LOC_STATS'] = "всего местоположений";
-$MESS ['LOCA_LOCATIONS_GROUP_STATS'] = "групп местоположений";
+$MESS ['LOCA_LOCATIONS_STATS'] = 'РЎС‚Р°С‚РёСЃС‚РёРєР° Р±Р°Р·С‹ РјРµСЃС‚РѕРїРѕР»РѕР¶РµРЅРёР№';
+$MESS ['LOCA_LOCATIONS_COUNTRY_STATS'] = "СЃС‚СЂР°РЅ";
+$MESS ['LOCA_LOCATIONS_CITY_STATS'] = "РіРѕСЂРѕРґРѕРІ";
+$MESS ['LOCA_LOCATIONS_REGION_STATS'] = "СЂРµРіРёРѕРЅРѕРІ";
+$MESS ['LOCA_LOCATIONS_LOC_STATS'] = "РІСЃРµРіРѕ РјРµСЃС‚РѕРїРѕР»РѕР¶РµРЅРёР№";
+$MESS ['LOCA_LOCATIONS_GROUP_STATS'] = "РіСЂСѓРїРї РјРµСЃС‚РѕРїРѕР»РѕР¶РµРЅРёР№";
 
-$MESS ['LOCATION_CLEAR'] = "Очистить";
-$MESS ['LOCATION_CLEAR_DESC'] = "Удаление всех местоположений";
-$MESS ['LOCATION_CLEAR_BTN'] = "Очистить";
-$MESS ['LOCATION_CLEAR_OK'] = "Местоположения удалены";
-$MESS ['LOCATION_CLEAR_CONFIRM'] = "Вы уверены, что хотите удалить все местоположения?";
+$MESS ['LOCATION_CLEAR'] = "РћС‡РёСЃС‚РёС‚СЊ";
+$MESS ['LOCATION_CLEAR_DESC'] = "РЈРґР°Р»РµРЅРёРµ РІСЃРµС… РјРµСЃС‚РѕРїРѕР»РѕР¶РµРЅРёР№";
+$MESS ['LOCATION_CLEAR_BTN'] = "РћС‡РёСЃС‚РёС‚СЊ";
+$MESS ['LOCATION_CLEAR_OK'] = "РњРµСЃС‚РѕРїРѕР»РѕР¶РµРЅРёСЏ СѓРґР°Р»РµРЅС‹";
+$MESS ['LOCATION_CLEAR_CONFIRM'] = "Р’С‹ СѓРІРµСЂРµРЅС‹, С‡С‚Рѕ С…РѕС‚РёС‚Рµ СѓРґР°Р»РёС‚СЊ РІСЃРµ РјРµСЃС‚РѕРїРѕР»РѕР¶РµРЅРёСЏ?";
 ?>

@@ -1,5 +1,5 @@
 <?
-$MESS["SONET_CONTROLLER_LIVEFEED_COMMENT_COMMENT_EMPTY"] = "Íå ïåðåäàíî çíà÷åíèå ID êîììåíòàðèÿ.";
-$MESS["SONET_CONTROLLER_LIVEFEED_COMMENT_COMMENT_NOT_FOUND"] = "Êîììåíòàðèé íå íàéäåí.";
-$MESS["SONET_CONTROLLER_LIVEFEED_COMMENT_POST_NOT_FOUND"] = "Ñîîáùåíèå íå íàéäåíî.";
+$MESS["SONET_CONTROLLER_LIVEFEED_COMMENT_COMMENT_EMPTY"] = "ÐÐµ Ð¿ÐµÑ€ÐµÐ´Ð°Ð½Ð¾ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ ID ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ñ.";
+$MESS["SONET_CONTROLLER_LIVEFEED_COMMENT_COMMENT_NOT_FOUND"] = "ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½.";
+$MESS["SONET_CONTROLLER_LIVEFEED_COMMENT_POST_NOT_FOUND"] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾.";
 ?>

@@ -1,5 +1,5 @@
 <?php
-$MESS["SEO_ADV_TAB"] = "Ðåêëàìà";
-$MESS["SEO_ADV_TAB_TITLE"] = "Ðàçìåùåíèå îáúÿâëåíèé íà ðåêëàìíûõ ïëîùàäêàõ";
-$MESS["SEO_ADV_YANDEX_DIRECT"] = "ßíäåêñ.Äèðåêò";
-$MESS["SEO_ADV_YANDEX_DIRECT_TITLE"] = "Îáúÿâëåíèÿ ßíäåêñ.Äèðåêò";
+$MESS["SEO_ADV_TAB"] = "Ð ÐµÐºÐ»Ð°Ð¼Ð°";
+$MESS["SEO_ADV_TAB_TITLE"] = "Ð Ð°Ð·Ð¼ÐµÑ‰ÐµÐ½Ð¸Ðµ Ð¾Ð±ÑŠÑÐ²Ð»ÐµÐ½Ð¸Ð¹ Ð½Ð° Ñ€ÐµÐºÐ»Ð°Ð¼Ð½Ñ‹Ñ… Ð¿Ð»Ð¾Ñ‰Ð°Ð´ÐºÐ°Ñ…";
+$MESS["SEO_ADV_YANDEX_DIRECT"] = "Ð¯Ð½Ð´ÐµÐºÑ.Ð”Ð¸Ñ€ÐµÐºÑ‚";
+$MESS["SEO_ADV_YANDEX_DIRECT_TITLE"] = "ÐžÐ±ÑŠÑÐ²Ð»ÐµÐ½Ð¸Ñ Ð¯Ð½Ð´ÐµÐºÑ.Ð”Ð¸Ñ€ÐµÐºÑ‚";

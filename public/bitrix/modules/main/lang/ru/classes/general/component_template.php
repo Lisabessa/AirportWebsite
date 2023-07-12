@@ -1,3 +1,3 @@
 <?
-$MESS["EDIT_ACTION_TITLE_DEFAULT"] = "Ðåäàêòèðîâàòü";
+$MESS["EDIT_ACTION_TITLE_DEFAULT"] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ";
 ?>

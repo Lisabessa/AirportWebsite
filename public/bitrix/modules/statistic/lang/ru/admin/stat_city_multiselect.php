@@ -1,12 +1,12 @@
 <?
-$MESS ['STAT_CITY_MSEL_PAGES'] = "Города";
-$MESS ['STAT_CITY_MSEL_COUNTRY_ID'] = "Код страны";
-$MESS ['STAT_CITY_MSEL_COUNTRY_SHORT_NAME'] = "Полное название страны";
-$MESS ['STAT_CITY_MSEL_COUNTRY_NAME'] = "Короткое название страны";
-$MESS ['STAT_CITY_MSEL_REGION_NAME'] = "Регион";
-$MESS ['STAT_CITY_MSEL_CITY_NAME'] = "Город";
-$MESS ['STAT_CITY_MSEL_TITLE'] = "Выбор городов";
-$MESS ['STAT_CITY_MSEL_SELECT'] = "Выбрать";
-$MESS ['STAT_CITY_MSEL_SELECT_TITLE'] = "Выбрать отмеченные города";
-$MESS ['STAT_CITY_MSEL_FIND'] = "Найти";
+$MESS ['STAT_CITY_MSEL_PAGES'] = "Р“РѕСЂРѕРґР°";
+$MESS ['STAT_CITY_MSEL_COUNTRY_ID'] = "РљРѕРґ СЃС‚СЂР°РЅС‹";
+$MESS ['STAT_CITY_MSEL_COUNTRY_SHORT_NAME'] = "РџРѕР»РЅРѕРµ РЅР°Р·РІР°РЅРёРµ СЃС‚СЂР°РЅС‹";
+$MESS ['STAT_CITY_MSEL_COUNTRY_NAME'] = "РљРѕСЂРѕС‚РєРѕРµ РЅР°Р·РІР°РЅРёРµ СЃС‚СЂР°РЅС‹";
+$MESS ['STAT_CITY_MSEL_REGION_NAME'] = "Р РµРіРёРѕРЅ";
+$MESS ['STAT_CITY_MSEL_CITY_NAME'] = "Р“РѕСЂРѕРґ";
+$MESS ['STAT_CITY_MSEL_TITLE'] = "Р’С‹Р±РѕСЂ РіРѕСЂРѕРґРѕРІ";
+$MESS ['STAT_CITY_MSEL_SELECT'] = "Р’С‹Р±СЂР°С‚СЊ";
+$MESS ['STAT_CITY_MSEL_SELECT_TITLE'] = "Р’С‹Р±СЂР°С‚СЊ РѕС‚РјРµС‡РµРЅРЅС‹Рµ РіРѕСЂРѕРґР°";
+$MESS ['STAT_CITY_MSEL_FIND'] = "РќР°Р№С‚Рё";
 ?>

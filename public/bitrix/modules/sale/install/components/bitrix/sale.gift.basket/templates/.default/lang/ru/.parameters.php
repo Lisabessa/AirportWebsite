@@ -1,12 +1,12 @@
 <?php
-$MESS['CVP_LINE_ELEMENT_COUNT'] = "Êîëè÷åñòâî ýëåìåíòîâ, âûâîäèìûõ â îäíîé ñòðîêå";
-$MESS['LINE_ELEMENT_COUNT_TIP'] = "Êîëè÷åñòâî ýëåìåíòîâ, âûâîäèìûõ â ñòðîêå ìîæåò áûòü îò 1 äî 5";
-$MESS["CVP_TPL_THEME_BLUE"] = "ñèíÿÿ (òåìà ïî óìîë÷àíèþ)";
-$MESS["CVP_TPL_THEME_GREEN"] = "çåëåíàÿ";
-$MESS["CVP_TPL_THEME_RED"] = "êðàñíàÿ";
-$MESS["CVP_TPL_THEME_WOOD"] = "äåðåâî";
-$MESS["CVP_TPL_THEME_YELLOW"] = "æåëòàÿ";
-$MESS["CVP_TPL_THEME_BLACK"] = "òåìíàÿ";
-$MESS["CVP_TPL_TEMPLATE_THEME"] = "Öâåòîâàÿ òåìà";
-$MESS["CVP_TPL_THEME_SITE"] = "Áðàòü òåìó èç íàñòðîåê ñàéòà (äëÿ ðåøåíèÿ bitrix.eshop)";
+$MESS['CVP_LINE_ELEMENT_COUNT'] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð², Ð²Ñ‹Ð²Ð¾Ð´Ð¸Ð¼Ñ‹Ñ… Ð² Ð¾Ð´Ð½Ð¾Ð¹ ÑÑ‚Ñ€Ð¾ÐºÐµ";
+$MESS['LINE_ELEMENT_COUNT_TIP'] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð², Ð²Ñ‹Ð²Ð¾Ð´Ð¸Ð¼Ñ‹Ñ… Ð² ÑÑ‚Ñ€Ð¾ÐºÐµ Ð¼Ð¾Ð¶ÐµÑ‚ Ð±Ñ‹Ñ‚ÑŒ Ð¾Ñ‚ 1 Ð´Ð¾ 5";
+$MESS["CVP_TPL_THEME_BLUE"] = "ÑÐ¸Ð½ÑÑ (Ñ‚ÐµÐ¼Ð° Ð¿Ð¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ)";
+$MESS["CVP_TPL_THEME_GREEN"] = "Ð·ÐµÐ»ÐµÐ½Ð°Ñ";
+$MESS["CVP_TPL_THEME_RED"] = "ÐºÑ€Ð°ÑÐ½Ð°Ñ";
+$MESS["CVP_TPL_THEME_WOOD"] = "Ð´ÐµÑ€ÐµÐ²Ð¾";
+$MESS["CVP_TPL_THEME_YELLOW"] = "Ð¶ÐµÐ»Ñ‚Ð°Ñ";
+$MESS["CVP_TPL_THEME_BLACK"] = "Ñ‚ÐµÐ¼Ð½Ð°Ñ";
+$MESS["CVP_TPL_TEMPLATE_THEME"] = "Ð¦Ð²ÐµÑ‚Ð¾Ð²Ð°Ñ Ñ‚ÐµÐ¼Ð°";
+$MESS["CVP_TPL_THEME_SITE"] = "Ð‘Ñ€Ð°Ñ‚ÑŒ Ñ‚ÐµÐ¼Ñƒ Ð¸Ð· Ð½Ð°ÑÑ‚Ñ€Ð¾ÐµÐº ÑÐ°Ð¹Ñ‚Ð° (Ð´Ð»Ñ Ñ€ÐµÑˆÐµÐ½Ð¸Ñ bitrix.eshop)";
 ?>

@@ -1,3 +1,3 @@
 <?
-$MESS["SALE_INTERNALS_STORE_PRODUCT_ENTITY_AMOUNT_FIELD"] = "Çàëèøîê òîâàðó";
+$MESS["SALE_INTERNALS_STORE_PRODUCT_ENTITY_AMOUNT_FIELD"] = "Ð—Ð°Ð»Ð¸ÑˆÐ¾Ðº Ñ‚Ð¾Ð²Ð°Ñ€Ñƒ";
 ?>

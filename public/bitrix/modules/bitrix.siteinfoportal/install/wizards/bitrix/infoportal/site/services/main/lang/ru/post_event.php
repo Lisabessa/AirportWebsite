@@ -1,18 +1,18 @@
 <?
-$MESS["MF_EVENT_NAME"] = "Äîáàâëåíèå ýëåìåíòà";
+$MESS["MF_EVENT_NAME"] = "Ð”Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð°";
 $MESS["MF_EVENT_DESCRIPTION"] = "#ID# - ID
-#IBLOCK_ID# - ID èíôîðìàöèîííîãî áëîêà
-#IBLOCK_TYPE# - òèï èíôîðìàöèîííîãî áëîêà
-#SECTION_ID# - ID ñåêöèè
-#NAME# - íàèìåíîâàíèå ýëåìåíòà
-#EMAIL_TO# - Email ïîëó÷àòåëÿ ïèñüìà
+#IBLOCK_ID# - ID Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð¾Ð³Ð¾ Ð±Ð»Ð¾ÐºÐ°
+#IBLOCK_TYPE# - Ñ‚Ð¸Ð¿ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð¾Ð³Ð¾ Ð±Ð»Ð¾ÐºÐ°
+#SECTION_ID# - ID ÑÐµÐºÑ†Ð¸Ð¸
+#NAME# - Ð½Ð°Ð¸Ð¼ÐµÐ½Ð¾Ð²Ð°Ð½Ð¸Ðµ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð°
+#EMAIL_TO# - Email Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ Ð¿Ð¸ÑÑŒÐ¼Ð°
 ";
 $MESS["MF_EVENT_SUBJECT"] = "#SITE_NAME# - #SUBJECT#";
 $MESS["MF_EVENT_MESSAGE"] = "#SITE_NAME#: #SUBJECT#
 
-Äëÿ ïðîñìîòðà è ðåäàêòèðîâàíèÿ ýëåìåíòà âîñïîëüçóéòåñü ññûëêîé:
+Ð”Ð»Ñ Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð° Ð¸ Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð° Ð²Ð¾ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐ¹Ñ‚ÐµÑÑŒ ÑÑÑ‹Ð»ÐºÐ¾Ð¹:
 http://#SERVER_NAME#/bitrix/admin/iblock_element_edit.php?lang=ru&WF=Y&PID=#ID#&type=#IBLOCK_TYPE#&IBLOCK_ID=#IBLOCK_ID#&find_section_section=#SECTION_ID#
 
-Ïèñüìî ñãåíåðèðîâàíî àâòîìàòè÷åñêè.
+ÐŸÐ¸ÑÑŒÐ¼Ð¾ ÑÐ³ÐµÐ½ÐµÑ€Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¾ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸.
 ";
 ?>

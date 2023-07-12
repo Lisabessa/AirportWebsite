@@ -1,7 +1,7 @@
 <?php
-$MESS['LANDING_HOOK_SPEED_TTILE'] = 'Óñêîðåíèå ñàéòà';
-$MESS['LANDING_HOOK_SPEED_USE_WEBPACK'] = 'Îòêëàäûâàòü çàãðóçêó ñòèëåé è ñêðèïòîâ';
-$MESS['LANDING_HOOK_SPEED_USE_WEBPACK2'] = 'Îïòèìèçèðîâàòü âðåìÿ çàãðóçêè ñòðàíèöû';
-$MESS['LANDING_HOOK_SPEED_USE_WEBP'] = 'Êîíâåðòèðîâàòü èçîáðàæåíèÿ â ôîðìàò WEBP';
-$MESS['LANDING_HOOK_SPEED_USE_LAZY_NEW'] = 'Îòêëàäûâàòü çàãðóçêó èçîáðàæåíèé';
-$MESS['LANDING_HOOK_SPEED_HELP'] = 'Ïîäðîáíåå îá óñêîðåíèè ñàéòà';
+$MESS['LANDING_HOOK_SPEED_TTILE'] = 'Ð£ÑÐºÐ¾Ñ€ÐµÐ½Ð¸Ðµ ÑÐ°Ð¹Ñ‚Ð°';
+$MESS['LANDING_HOOK_SPEED_USE_WEBPACK'] = 'ÐžÑ‚ÐºÐ»Ð°Ð´Ñ‹Ð²Ð°Ñ‚ÑŒ Ð·Ð°Ð³Ñ€ÑƒÐ·ÐºÑƒ ÑÑ‚Ð¸Ð»ÐµÐ¹ Ð¸ ÑÐºÑ€Ð¸Ð¿Ñ‚Ð¾Ð²';
+$MESS['LANDING_HOOK_SPEED_USE_WEBPACK2'] = 'ÐžÐ¿Ñ‚Ð¸Ð¼Ð¸Ð·Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ð²Ñ€ÐµÐ¼Ñ Ð·Ð°Ð³Ñ€ÑƒÐ·ÐºÐ¸ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹';
+$MESS['LANDING_HOOK_SPEED_USE_WEBP'] = 'ÐšÐ¾Ð½Ð²ÐµÑ€Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ð¸Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ñ Ð² Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚ WEBP';
+$MESS['LANDING_HOOK_SPEED_USE_LAZY_NEW'] = 'ÐžÑ‚ÐºÐ»Ð°Ð´Ñ‹Ð²Ð°Ñ‚ÑŒ Ð·Ð°Ð³Ñ€ÑƒÐ·ÐºÑƒ Ð¸Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ð¹';
+$MESS['LANDING_HOOK_SPEED_HELP'] = 'ÐŸÐ¾Ð´Ñ€Ð¾Ð±Ð½ÐµÐµ Ð¾Ð± ÑƒÑÐºÐ¾Ñ€ÐµÐ½Ð¸Ð¸ ÑÐ°Ð¹Ñ‚Ð°';

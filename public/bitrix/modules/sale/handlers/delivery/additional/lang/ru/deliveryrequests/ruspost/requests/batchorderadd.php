@@ -1,3 +1,3 @@
 <?
-$MESS["SALE_DLVRS_ADD_DREQ_BOA_BNAME_EMPTY"] = "Íå óêàçàíî íàèìåíîâàíèå ïàðòèè";
-$MESS["SALE_DLVRS_ADD_DREQ_BOA_DATA_EMPTY"] = "Íåò íè îäíîé ïîäõîäÿùåé îòãðóçêè äëÿ äîáàâëåëíèÿ â çàÿâêó";
+$MESS["SALE_DLVRS_ADD_DREQ_BOA_BNAME_EMPTY"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾ Ð½Ð°Ð¸Ð¼ÐµÐ½Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð¿Ð°Ñ€Ñ‚Ð¸Ð¸";
+$MESS["SALE_DLVRS_ADD_DREQ_BOA_DATA_EMPTY"] = "ÐÐµÑ‚ Ð½Ð¸ Ð¾Ð´Ð½Ð¾Ð¹ Ð¿Ð¾Ð´Ñ…Ð¾Ð´ÑÑ‰ÐµÐ¹ Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸ Ð´Ð»Ñ Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ»Ð½Ð¸Ñ Ð² Ð·Ð°ÑÐ²ÐºÑƒ";

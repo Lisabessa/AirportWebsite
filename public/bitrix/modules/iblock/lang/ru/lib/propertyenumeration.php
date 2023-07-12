@@ -1,9 +1,9 @@
 <?
-$MESS["IBLOCK_PROPERTY_ENUM_ENTITY_ID_FIELD"] = "Èäåíòèôèêàòîð";
-$MESS["IBLOCK_PROPERTY_ENUM_ENTITY_PROPERTY_ID_FIELD"] = "Èäåíòèôèêàòîð ñâîéñòâà";
-$MESS["IBLOCK_PROPERTY_ENUM_ENTITY_VALUE_FIELD"] = "Çíà÷åíèå";
-$MESS["IBLOCK_PROPERTY_ENUM_ENTITY_DEF_FIELD"] = "Ïî óìîë÷àíèþ";
-$MESS["IBLOCK_PROPERTY_ENUM_ENTITY_SORT_FIELD"] = "Ñîðòèðîâêà";
-$MESS["IBLOCK_PROPERTY_ENUM_ENTITY_XML_ID_FIELD"] = "Âíåøíèé êîä";
-$MESS["IBLOCK_PROPERTY_ENUM_ENTITY_TMP_ID_FIELD"] = "Âðåìåííûé êîä";
+$MESS["IBLOCK_PROPERTY_ENUM_ENTITY_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€";
+$MESS["IBLOCK_PROPERTY_ENUM_ENTITY_PROPERTY_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÐ²Ð¾Ð¹ÑÑ‚Ð²Ð°";
+$MESS["IBLOCK_PROPERTY_ENUM_ENTITY_VALUE_FIELD"] = "Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ";
+$MESS["IBLOCK_PROPERTY_ENUM_ENTITY_DEF_FIELD"] = "ÐŸÐ¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ";
+$MESS["IBLOCK_PROPERTY_ENUM_ENTITY_SORT_FIELD"] = "Ð¡Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²ÐºÐ°";
+$MESS["IBLOCK_PROPERTY_ENUM_ENTITY_XML_ID_FIELD"] = "Ð’Ð½ÐµÑˆÐ½Ð¸Ð¹ ÐºÐ¾Ð´";
+$MESS["IBLOCK_PROPERTY_ENUM_ENTITY_TMP_ID_FIELD"] = "Ð’Ñ€ÐµÐ¼ÐµÐ½Ð½Ñ‹Ð¹ ÐºÐ¾Ð´";
 ?>

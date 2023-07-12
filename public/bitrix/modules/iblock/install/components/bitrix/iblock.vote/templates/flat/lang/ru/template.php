@@ -1,3 +1,3 @@
 <?
-$MESS ['CT_BIV_RATING_TITLE'] = "Ðåéòèíã";
+$MESS ['CT_BIV_RATING_TITLE'] = "Ð ÐµÐ¹Ñ‚Ð¸Ð½Ð³";
 ?>

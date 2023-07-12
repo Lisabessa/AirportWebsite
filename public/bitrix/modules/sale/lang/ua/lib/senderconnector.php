@@ -1,12 +1,12 @@
 <?
-$MESS["sender_connector_buyer_name"] = "Ìàãàçèí - Ïîêóïö³";
-$MESS["sender_connector_buyer_all"] = "Áóäü-ÿêå";
-$MESS["sender_connector_buyer_y"] = "Òàê";
-$MESS["sender_connector_buyer_n"] = "Í³";
-$MESS["sender_connector_buyer_from"] = "â³ä";
-$MESS["sender_connector_buyer_to"] = "äî";
-$MESS["sender_connector_buyer_site"] = "Ñàéò:";
-$MESS["sender_connector_buyer_ordercnt"] = "Ê³ëüê³ñòü îïëà÷åíèõ çàìîâëåíü:";
-$MESS["sender_connector_buyer_ordersum"] = "Ñóìà âñ³õ çàìîâëåíü:";
-$MESS["sender_connector_buyer_lastorderdate"] = "Äàòà îñòàííüîãî çàìîâëåííÿ:";
+$MESS["sender_connector_buyer_name"] = "ÐœÐ°Ð³Ð°Ð·Ð¸Ð½ - ÐŸÐ¾ÐºÑƒÐ¿Ñ†Ñ–";
+$MESS["sender_connector_buyer_all"] = "Ð‘ÑƒÐ´ÑŒ-ÑÐºÐµ";
+$MESS["sender_connector_buyer_y"] = "Ð¢Ð°Ðº";
+$MESS["sender_connector_buyer_n"] = "ÐÑ–";
+$MESS["sender_connector_buyer_from"] = "Ð²Ñ–Ð´";
+$MESS["sender_connector_buyer_to"] = "Ð´Ð¾";
+$MESS["sender_connector_buyer_site"] = "Ð¡Ð°Ð¹Ñ‚:";
+$MESS["sender_connector_buyer_ordercnt"] = "ÐšÑ–Ð»ÑŒÐºÑ–ÑÑ‚ÑŒ Ð¾Ð¿Ð»Ð°Ñ‡ÐµÐ½Ð¸Ñ… Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½ÑŒ:";
+$MESS["sender_connector_buyer_ordersum"] = "Ð¡ÑƒÐ¼Ð° Ð²ÑÑ–Ñ… Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½ÑŒ:";
+$MESS["sender_connector_buyer_lastorderdate"] = "Ð”Ð°Ñ‚Ð° Ð¾ÑÑ‚Ð°Ð½Ð½ÑŒÐ¾Ð³Ð¾ Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ:";
 ?>

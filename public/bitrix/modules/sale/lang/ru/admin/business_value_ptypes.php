@@ -1,8 +1,8 @@
 <?
-$MESS["BIZVAL_PAGE_TITLE"] = "Íàñòðîéêà òèïîâ ïëàòåëüùèêîâ äëÿ áèçíåñ-ñìûñëîâ";
-$MESS["BIZVAL_PAGE_ERRORS"] = "Áûëè îáíàðóæåíû îøèáêè";
-//$MESS["BIZVAL_PAGE_DOMAIN"] = "Çíà÷åíèÿ òèïîâ ïëàòåëüùèêîâ";
-$MESS["BIZVAL_PAGE_PTYPES"] = "Òèïû ïëàòåëüùèêîâ";
-$MESS["BIZVAL_DOMAIN_NONE"] = "Íå èñïîëüçîâàòü";
-$MESS["BIZVAL_DOMAIN_INDIVIDUAL"] = "Ôèçè÷åñêîå ëèöî";
-$MESS["BIZVAL_DOMAIN_ENTITY"] = "Þðèäè÷åñêîå ëèöî";
+$MESS["BIZVAL_PAGE_TITLE"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° Ñ‚Ð¸Ð¿Ð¾Ð² Ð¿Ð»Ð°Ñ‚ÐµÐ»ÑŒÑ‰Ð¸ÐºÐ¾Ð² Ð´Ð»Ñ Ð±Ð¸Ð·Ð½ÐµÑ-ÑÐ¼Ñ‹ÑÐ»Ð¾Ð²";
+$MESS["BIZVAL_PAGE_ERRORS"] = "Ð‘Ñ‹Ð»Ð¸ Ð¾Ð±Ð½Ð°Ñ€ÑƒÐ¶ÐµÐ½Ñ‹ Ð¾ÑˆÐ¸Ð±ÐºÐ¸";
+//$MESS["BIZVAL_PAGE_DOMAIN"] = "Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ñ Ñ‚Ð¸Ð¿Ð¾Ð² Ð¿Ð»Ð°Ñ‚ÐµÐ»ÑŒÑ‰Ð¸ÐºÐ¾Ð²";
+$MESS["BIZVAL_PAGE_PTYPES"] = "Ð¢Ð¸Ð¿Ñ‹ Ð¿Ð»Ð°Ñ‚ÐµÐ»ÑŒÑ‰Ð¸ÐºÐ¾Ð²";
+$MESS["BIZVAL_DOMAIN_NONE"] = "ÐÐµ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ";
+$MESS["BIZVAL_DOMAIN_INDIVIDUAL"] = "Ð¤Ð¸Ð·Ð¸Ñ‡ÐµÑÐºÐ¾Ðµ Ð»Ð¸Ñ†Ð¾";
+$MESS["BIZVAL_DOMAIN_ENTITY"] = "Ð®Ñ€Ð¸Ð´Ð¸Ñ‡ÐµÑÐºÐ¾Ðµ Ð»Ð¸Ñ†Ð¾";

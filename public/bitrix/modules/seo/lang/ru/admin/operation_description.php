@@ -1,5 +1,5 @@
 <?
-$MESS ['OP_NAME_SEO_SETTINGS'] = "Íàñòðîéêè ìîäóëÿ";
-$MESS ['OP_NAME_SEO_TOOLS'] = "Èíñòðóìåíòû àíàëèçà ñòðàíèöû";
-$MESS ['OP_NAME_SEO_TOOLS_SITE'] = "Èíñòðóìåíòû àíàëèçà ñàéòà";
+$MESS ['OP_NAME_SEO_SETTINGS'] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð¼Ð¾Ð´ÑƒÐ»Ñ";
+$MESS ['OP_NAME_SEO_TOOLS'] = "Ð˜Ð½ÑÑ‚Ñ€ÑƒÐ¼ÐµÐ½Ñ‚Ñ‹ Ð°Ð½Ð°Ð»Ð¸Ð·Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹";
+$MESS ['OP_NAME_SEO_TOOLS_SITE'] = "Ð˜Ð½ÑÑ‚Ñ€ÑƒÐ¼ÐµÐ½Ñ‚Ñ‹ Ð°Ð½Ð°Ð»Ð¸Ð·Ð° ÑÐ°Ð¹Ñ‚Ð°";
 ?>

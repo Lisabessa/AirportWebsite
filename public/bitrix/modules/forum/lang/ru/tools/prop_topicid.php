@@ -1,4 +1,4 @@
 <?
-$MESS ['IBLOCK_PROP_TOPICID_DESC'] = "Ïðèâÿçêà ê òåìå ôîðóìà";
-$MESS ['IBLOCK_PROP_FORUM_VIEW_TOPIC'] = "Ïðèâÿçêà ê òåìå ôîðóìà";
+$MESS ['IBLOCK_PROP_TOPICID_DESC'] = "ÐŸÑ€Ð¸Ð²ÑÐ·ÐºÐ° Ðº Ñ‚ÐµÐ¼Ðµ Ñ„Ð¾Ñ€ÑƒÐ¼Ð°";
+$MESS ['IBLOCK_PROP_FORUM_VIEW_TOPIC'] = "ÐŸÑ€Ð¸Ð²ÑÐ·ÐºÐ° Ðº Ñ‚ÐµÐ¼Ðµ Ñ„Ð¾Ñ€ÑƒÐ¼Ð°";
 ?>

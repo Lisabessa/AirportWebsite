@@ -1,5 +1,5 @@
 <?
-$MESS["EXTRA_ENTITY_ID_FIELD"] = "Èäåíòèôèêàòîð íàöåíêè";
-$MESS["EXTRA_ENTITY_NAME_FIELD"] = "Íàçâàíèå";
-$MESS["EXTRA_ENTITY_PERCENTAGE_FIELD"] = "Âåëè÷èíà";
+$MESS["EXTRA_ENTITY_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð½Ð°Ñ†ÐµÐ½ÐºÐ¸";
+$MESS["EXTRA_ENTITY_NAME_FIELD"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
+$MESS["EXTRA_ENTITY_PERCENTAGE_FIELD"] = "Ð’ÐµÐ»Ð¸Ñ‡Ð¸Ð½Ð°";
 ?>

@@ -1,27 +1,27 @@
 <?
-$MESS["BX_MOD_CATALOG_ADMIN_CSS_TITLE"] = "Âûáîð ðàçäåëà";
-$MESS["BX_MOD_CATALOG_ADMIN_CSS_BAD_BLOCK_TYPE_ID"] = "Íåâåðíûé òèï èíôîáëîêà";
-$MESS["BX_MOD_CATALOG_ADMIN_CSS_BAD_IBLOCK"] = "Íåâåðíûé èíôîáëîê";
-$MESS["BX_MOD_CATALOG_ADMIN_CSS_SECTIONS"] = "Ðàçäåëû";
+$MESS["BX_MOD_CATALOG_ADMIN_CSS_TITLE"] = "Ð’Ñ‹Ð±Ð¾Ñ€ Ñ€Ð°Ð·Ð´ÐµÐ»Ð°";
+$MESS["BX_MOD_CATALOG_ADMIN_CSS_BAD_BLOCK_TYPE_ID"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ñ‚Ð¸Ð¿ Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ°";
+$MESS["BX_MOD_CATALOG_ADMIN_CSS_BAD_IBLOCK"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾Ðº";
+$MESS["BX_MOD_CATALOG_ADMIN_CSS_SECTIONS"] = "Ð Ð°Ð·Ð´ÐµÐ»Ñ‹";
 
-$MESS["BX_MOD_CATALOG_ADMIN_CSS_HEAD_IBLOCK_ID"] = "Èíôîáëîê";
-$MESS["BX_MOD_CATALOG_ADMIN_CSS_HEAD_ID"] = "ID ðàçäåëà";
-$MESS["BX_MOD_CATALOG_ADMIN_CSS_HEAD_NAME"] = "Íàçâàíèå ðàçäåëà";
-$MESS["BX_MOD_CATALOG_ADMIN_CSS_HEAD_ACTIVE"] = "Àêòèâíîñòü";
-$MESS["BX_MOD_CATALOG_ADMIN_CSS_HEAD_SORT"] = "Ñîðòèðîâêà";
-$MESS["BX_MOD_CATALOG_ADMIN_CSS_HEAD_CODE"] = "Ñèìâîëüíûé êîä";
-$MESS["BX_MOD_CATALOG_ADMIN_CSS_HEAD_XML_ID"] = "Âíåøíèé êîä";
-$MESS["BX_MOD_CATALOG_ADMIN_CSS_HEAD_ELEMENT_CNT"] = "Ýëåìåíòîâ";
-$MESS["BX_MOD_CATALOG_ADMIN_CSS_HEAD_SECTION_CNT"] = "Ïîäðàçäåëîâ";
-$MESS["BX_MOD_CATALOG_ADMIN_CSS_HEAD_TIMESTAMP"] = "Äàòà èçìåíåíèÿ";
-$MESS["BX_MOD_CATALOG_ADMIN_CSS_HEAD_MODIFIED_BY"] = "Êòî èçìåíèë";
-$MESS["BX_MOD_CATALOG_ADMIN_CSS_HEAD_DATE_CREATE"] = "Äàòà ñîçäàíèÿ";
-$MESS["BX_MOD_CATALOG_ADMIN_CSS_HEAD_CREATED_BY"] = "Êòî ñîçäàë";
-$MESS["BX_MOD_CATALOG_ADMIN_CSS_IBLOCK"] = "Âûáåðèòå èíôîðìàöèîííûé áëîê";
-$MESS["BX_MOD_CATALOG_ADMIN_CSS_LIST"] = "Ïåðåéòè â ñïèñîê ïîäðàçäåëîâ";
-$MESS["BX_MOD_CATALOG_ADMIN_CSS_HEAD_USERINFO"] = "Ïîñìîòðåòü ïàðàìåòðû ïîëüçîâàòåëÿ";
-$MESS["BX_MOD_CATALOG_ADMIN_CSS_SELECT"] = "Âûáðàòü";
-$MESS["IBLOCK_SECSEARCH_PARENT"] = "Ðàçäåë-ðîäèòåëü";
-$MESS["IBLOCK_SECSEARCH_SECTIONS"] = "Ðàçäåëû";
+$MESS["BX_MOD_CATALOG_ADMIN_CSS_HEAD_IBLOCK_ID"] = "Ð˜Ð½Ñ„Ð¾Ð±Ð»Ð¾Ðº";
+$MESS["BX_MOD_CATALOG_ADMIN_CSS_HEAD_ID"] = "ID Ñ€Ð°Ð·Ð´ÐµÐ»Ð°";
+$MESS["BX_MOD_CATALOG_ADMIN_CSS_HEAD_NAME"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ñ€Ð°Ð·Ð´ÐµÐ»Ð°";
+$MESS["BX_MOD_CATALOG_ADMIN_CSS_HEAD_ACTIVE"] = "ÐÐºÑ‚Ð¸Ð²Ð½Ð¾ÑÑ‚ÑŒ";
+$MESS["BX_MOD_CATALOG_ADMIN_CSS_HEAD_SORT"] = "Ð¡Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²ÐºÐ°";
+$MESS["BX_MOD_CATALOG_ADMIN_CSS_HEAD_CODE"] = "Ð¡Ð¸Ð¼Ð²Ð¾Ð»ÑŒÐ½Ñ‹Ð¹ ÐºÐ¾Ð´";
+$MESS["BX_MOD_CATALOG_ADMIN_CSS_HEAD_XML_ID"] = "Ð’Ð½ÐµÑˆÐ½Ð¸Ð¹ ÐºÐ¾Ð´";
+$MESS["BX_MOD_CATALOG_ADMIN_CSS_HEAD_ELEMENT_CNT"] = "Ð­Ð»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð²";
+$MESS["BX_MOD_CATALOG_ADMIN_CSS_HEAD_SECTION_CNT"] = "ÐŸÐ¾Ð´Ñ€Ð°Ð·Ð´ÐµÐ»Ð¾Ð²";
+$MESS["BX_MOD_CATALOG_ADMIN_CSS_HEAD_TIMESTAMP"] = "Ð”Ð°Ñ‚Ð° Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ";
+$MESS["BX_MOD_CATALOG_ADMIN_CSS_HEAD_MODIFIED_BY"] = "ÐšÑ‚Ð¾ Ð¸Ð·Ð¼ÐµÐ½Ð¸Ð»";
+$MESS["BX_MOD_CATALOG_ADMIN_CSS_HEAD_DATE_CREATE"] = "Ð”Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ";
+$MESS["BX_MOD_CATALOG_ADMIN_CSS_HEAD_CREATED_BY"] = "ÐšÑ‚Ð¾ ÑÐ¾Ð·Ð´Ð°Ð»";
+$MESS["BX_MOD_CATALOG_ADMIN_CSS_IBLOCK"] = "Ð’Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ñ‹Ð¹ Ð±Ð»Ð¾Ðº";
+$MESS["BX_MOD_CATALOG_ADMIN_CSS_LIST"] = "ÐŸÐµÑ€ÐµÐ¹Ñ‚Ð¸ Ð² ÑÐ¿Ð¸ÑÐ¾Ðº Ð¿Ð¾Ð´Ñ€Ð°Ð·Ð´ÐµÐ»Ð¾Ð²";
+$MESS["BX_MOD_CATALOG_ADMIN_CSS_HEAD_USERINFO"] = "ÐŸÐ¾ÑÐ¼Ð¾Ñ‚Ñ€ÐµÑ‚ÑŒ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
+$MESS["BX_MOD_CATALOG_ADMIN_CSS_SELECT"] = "Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ";
+$MESS["IBLOCK_SECSEARCH_PARENT"] = "Ð Ð°Ð·Ð´ÐµÐ»-Ñ€Ð¾Ð´Ð¸Ñ‚ÐµÐ»ÑŒ";
+$MESS["IBLOCK_SECSEARCH_SECTIONS"] = "Ð Ð°Ð·Ð´ÐµÐ»Ñ‹";
 
 ?>

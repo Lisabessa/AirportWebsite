@@ -1,6 +1,6 @@
 <?
-$MESS['LANDING_BLOCK_WEBFORM_ERROR'] = 'Ошибка создания формы';
-$MESS['LANDING_BLOCK_WEBFORM_CONNECT_SUPPORT'] = 'Пожалуйста, обратитесь в техподдержку';
-$MESS['LANDING_BLOCK_WEBFORM_NO_FORM'] = 'Нет активных CRM-форм';
-$MESS['LANDING_BLOCK_WEBFORM_NO_FORM_CP'] = 'На вашем сайте нет CRM-форм. Проверьте их наличие и активность на странице &laquo;<a target="_blank" class="landing-trusted-link" href="/crm/webform">CRM - CRM-формы</a>&raquo;.';
-$MESS['LANDING_BLOCK_WEBFORM_NO_FORM_BUS_NEW'] = 'На вашем сайте нет CRM-форм. Проверьте установку модуля &laquo;Интеграция с Битрикс24 (b24connector)&raquo; в разделе &laquo;<a target="_blank" class="landing-trusted-link" href="/bitrix/admin/module_admin.php">Настройки &mdash; Настройки продукта &mdash; Модули</a>&raquo; и привязку портала Битрикс24 в настройках &laquo;<a target="_blank" class="landing-trusted-link" href="/bitrix/admin/b24connector_b24connector.php">Коммуникаций с клиентом</a>&raquo;.';
+$MESS['LANDING_BLOCK_WEBFORM_ERROR'] = 'РћС€РёР±РєР° СЃРѕР·РґР°РЅРёСЏ С„РѕСЂРјС‹';
+$MESS['LANDING_BLOCK_WEBFORM_CONNECT_SUPPORT'] = 'РџРѕР¶Р°Р»СѓР№СЃС‚Р°, РѕР±СЂР°С‚РёС‚РµСЃСЊ РІ С‚РµС…РїРѕРґРґРµСЂР¶РєСѓ';
+$MESS['LANDING_BLOCK_WEBFORM_NO_FORM'] = 'РќРµС‚ Р°РєС‚РёРІРЅС‹С… CRM-С„РѕСЂРј';
+$MESS['LANDING_BLOCK_WEBFORM_NO_FORM_CP'] = 'РќР° РІР°С€РµРј СЃР°Р№С‚Рµ РЅРµС‚ CRM-С„РѕСЂРј. РџСЂРѕРІРµСЂСЊС‚Рµ РёС… РЅР°Р»РёС‡РёРµ Рё Р°РєС‚РёРІРЅРѕСЃС‚СЊ РЅР° СЃС‚СЂР°РЅРёС†Рµ &laquo;<a target="_blank" class="landing-trusted-link" href="/crm/webform">CRM - CRM-С„РѕСЂРјС‹</a>&raquo;.';
+$MESS['LANDING_BLOCK_WEBFORM_NO_FORM_BUS_NEW'] = 'РќР° РІР°С€РµРј СЃР°Р№С‚Рµ РЅРµС‚ CRM-С„РѕСЂРј. РџСЂРѕРІРµСЂСЊС‚Рµ СѓСЃС‚Р°РЅРѕРІРєСѓ РјРѕРґСѓР»СЏ &laquo;РРЅС‚РµРіСЂР°С†РёСЏ СЃ Р‘РёС‚СЂРёРєСЃ24 (b24connector)&raquo; РІ СЂР°Р·РґРµР»Рµ &laquo;<a target="_blank" class="landing-trusted-link" href="/bitrix/admin/module_admin.php">РќР°СЃС‚СЂРѕР№РєРё &mdash; РќР°СЃС‚СЂРѕР№РєРё РїСЂРѕРґСѓРєС‚Р° &mdash; РњРѕРґСѓР»Рё</a>&raquo; Рё РїСЂРёРІСЏР·РєСѓ РїРѕСЂС‚Р°Р»Р° Р‘РёС‚СЂРёРєСЃ24 РІ РЅР°СЃС‚СЂРѕР№РєР°С… &laquo;<a target="_blank" class="landing-trusted-link" href="/bitrix/admin/b24connector_b24connector.php">РљРѕРјРјСѓРЅРёРєР°С†РёР№ СЃ РєР»РёРµРЅС‚РѕРј</a>&raquo;.';

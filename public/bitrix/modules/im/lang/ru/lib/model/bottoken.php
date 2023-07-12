@@ -1,8 +1,8 @@
 <?
-$MESS["BOT_TOKEN_ENTITY_ID_FIELD"] = "Èäåíòèôèêàòîð ðàçðåøåíèÿ íà ïóáëèêàöèþ";
-$MESS["BOT_TOKEN_ENTITY_TOKEN_FIELD"] = "Êîä ðàçðåøåíèÿ";
-$MESS["BOT_TOKEN_ENTITY_DATE_CREATE_FIELD"] = "Äàòà ñîçäàíèÿ";
-$MESS["BOT_TOKEN_ENTITY_DATE_EXPIRE_FIELD"] = "Äàòà èñòå÷åíèÿ";
-$MESS["BOT_TOKEN_ENTITY_BOT_ID_FIELD"] = "Èäåíòèôèêàòîð áîòà";
-$MESS["BOT_TOKEN_ENTITY_DIALOG_ID_FIELD"] = "Èäåíòèôèêàòîð äèàëîãà";
+$MESS["BOT_TOKEN_ENTITY_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ñ€Ð°Ð·Ñ€ÐµÑˆÐµÐ½Ð¸Ñ Ð½Ð° Ð¿ÑƒÐ±Ð»Ð¸ÐºÐ°Ñ†Ð¸ÑŽ";
+$MESS["BOT_TOKEN_ENTITY_TOKEN_FIELD"] = "ÐšÐ¾Ð´ Ñ€Ð°Ð·Ñ€ÐµÑˆÐµÐ½Ð¸Ñ";
+$MESS["BOT_TOKEN_ENTITY_DATE_CREATE_FIELD"] = "Ð”Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ";
+$MESS["BOT_TOKEN_ENTITY_DATE_EXPIRE_FIELD"] = "Ð”Ð°Ñ‚Ð° Ð¸ÑÑ‚ÐµÑ‡ÐµÐ½Ð¸Ñ";
+$MESS["BOT_TOKEN_ENTITY_BOT_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð±Ð¾Ñ‚Ð°";
+$MESS["BOT_TOKEN_ENTITY_DIALOG_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð´Ð¸Ð°Ð»Ð¾Ð³Ð°";
 ?>

@@ -1,6 +1,6 @@
 <?
-$MESS["DESKTOP_LOGOUT"] = "Âûõîä";
-$MESS["DESKTOP_TAB_IM"] = "Ìåññåíäæåð";
-$MESS["DESKTOP_TAB_IM_2"] = "×àò è çâîíêè";
-$MESS["DESKTOP_TAB_DISK"] = "Áèòðèêñ24.Äèñê";
+$MESS["DESKTOP_LOGOUT"] = "Ð’Ñ‹Ñ…Ð¾Ð´";
+$MESS["DESKTOP_TAB_IM"] = "ÐœÐµÑÑÐµÐ½Ð´Ð¶ÐµÑ€";
+$MESS["DESKTOP_TAB_IM_2"] = "Ð§Ð°Ñ‚ Ð¸ Ð·Ð²Ð¾Ð½ÐºÐ¸";
+$MESS["DESKTOP_TAB_DISK"] = "Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ24.Ð”Ð¸ÑÐº";
 ?>

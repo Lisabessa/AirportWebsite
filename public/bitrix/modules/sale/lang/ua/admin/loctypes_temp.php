@@ -1,9 +1,9 @@
 <?
-$MESS["COUNTRY"] = "Êðà¿íà";
-$MESS["COUNTRY_DISTRICT"] = "Îêðóã";
-$MESS["REGION"] = "Îáëàñòü";
-$MESS["SUBREGION"] = "Ðàéîí îáëàñò³";
-$MESS["CITY"] = "Ì³ñòî";
-$MESS["VILLAGE"] = "Ñåëî";
-$MESS["STREET"] = "Âóëèöÿ";
+$MESS["COUNTRY"] = "ÐšÑ€Ð°Ñ—Ð½Ð°";
+$MESS["COUNTRY_DISTRICT"] = "ÐžÐºÑ€ÑƒÐ³";
+$MESS["REGION"] = "ÐžÐ±Ð»Ð°ÑÑ‚ÑŒ";
+$MESS["SUBREGION"] = "Ð Ð°Ð¹Ð¾Ð½ Ð¾Ð±Ð»Ð°ÑÑ‚Ñ–";
+$MESS["CITY"] = "ÐœÑ–ÑÑ‚Ð¾";
+$MESS["VILLAGE"] = "Ð¡ÐµÐ»Ð¾";
+$MESS["STREET"] = "Ð’ÑƒÐ»Ð¸Ñ†Ñ";
 ?>

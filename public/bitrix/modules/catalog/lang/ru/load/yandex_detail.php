@@ -1,6 +1,6 @@
 <?
-$MESS["BX_CATALOG_EXPORT_YANDEX_COMMON_FIELDS"] = "Общие настройки";
-$MESS["BX_CATALOG_EXPORT_YANDEX_DESCRIPTION"] = "Подробное описание:";
-$MESS["BX_CATALOG_EXPORT_YANDEX_DESCRIPTION_PREVIEW_TEXT"] = "описание для анонса (PREVIEW_TEXT)";
-$MESS["BX_CATALOG_EXPORT_YANDEX_DESCRIPTION_DETAIL_TEXT"] = "детальное описание (DETAIL_TEXT)";
+$MESS["BX_CATALOG_EXPORT_YANDEX_COMMON_FIELDS"] = "РћР±С‰РёРµ РЅР°СЃС‚СЂРѕР№РєРё";
+$MESS["BX_CATALOG_EXPORT_YANDEX_DESCRIPTION"] = "РџРѕРґСЂРѕР±РЅРѕРµ РѕРїРёСЃР°РЅРёРµ:";
+$MESS["BX_CATALOG_EXPORT_YANDEX_DESCRIPTION_PREVIEW_TEXT"] = "РѕРїРёСЃР°РЅРёРµ РґР»СЏ Р°РЅРѕРЅСЃР° (PREVIEW_TEXT)";
+$MESS["BX_CATALOG_EXPORT_YANDEX_DESCRIPTION_DETAIL_TEXT"] = "РґРµС‚Р°Р»СЊРЅРѕРµ РѕРїРёСЃР°РЅРёРµ (DETAIL_TEXT)";
 ?>

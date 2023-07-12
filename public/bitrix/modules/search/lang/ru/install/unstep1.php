@@ -1,3 +1,3 @@
 <?
-$MESS ['SEARCH_SAVE_STAT_TABLES'] = "Ñîõðàíèòü ñòàòèñòèêó";
+$MESS ['SEARCH_SAVE_STAT_TABLES'] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ ÑÑ‚Ð°Ñ‚Ð¸ÑÑ‚Ð¸ÐºÑƒ";
 ?>

@@ -1,4 +1,4 @@
 <?
-$MESS["LISTS_CONTROLLER_ERROR_REQUIRED_PARAMETER"] = "Íå óêàçàí îáÿçàòåëüíûé ïàðàìåòð #PARAM#.";
-$MESS["LISTS_CONTROLLER_ERROR_UNKNOWN_ACTION"] = "Íåèçâåñòíîå äåéñòâèå #ACTION#.";
+$MESS["LISTS_CONTROLLER_ERROR_REQUIRED_PARAMETER"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ð¾Ð±ÑÐ·Ð°Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ð¹ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€ #PARAM#.";
+$MESS["LISTS_CONTROLLER_ERROR_UNKNOWN_ACTION"] = "ÐÐµÐ¸Ð·Ð²ÐµÑÑ‚Ð½Ð¾Ðµ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ðµ #ACTION#.";
 ?>

@@ -1,4 +1,4 @@
 <?
-$MESS['SALE_SRV_BASE_REST_CONNECT_ERROR'] = 'Íå óäàëîñü ïîäêëþ÷èòüñÿ ê ñåðâåðó';
-$MESS['SALE_SRV_BASE_REST_ANSWER_ERROR'] = 'Íåâåðíûé îòâåò ñåðâåðà';
-$MESS['SALE_SRV_BASE_REST_ACCESS_SETTINGS_ERROR'] = 'Íå óäàëîñü ïîëó÷èòü ó÷¸òíûå äàííûå. Ïðîâåðüòå êîððåêòíîñòü íàñòðîåê ñèñòåìû. È äîñòóïíîñòü ñåðâåðà ssl://saleservices.bitrix.info:443.';
+$MESS['SALE_SRV_BASE_REST_CONNECT_ERROR'] = 'ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ Ð¿Ð¾Ð´ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒÑÑ Ðº ÑÐµÑ€Ð²ÐµÑ€Ñƒ';
+$MESS['SALE_SRV_BASE_REST_ANSWER_ERROR'] = 'ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ð¾Ñ‚Ð²ÐµÑ‚ ÑÐµÑ€Ð²ÐµÑ€Ð°';
+$MESS['SALE_SRV_BASE_REST_ACCESS_SETTINGS_ERROR'] = 'ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ Ð¿Ð¾Ð»ÑƒÑ‡Ð¸Ñ‚ÑŒ ÑƒÑ‡Ñ‘Ñ‚Ð½Ñ‹Ðµ Ð´Ð°Ð½Ð½Ñ‹Ðµ. ÐŸÑ€Ð¾Ð²ÐµÑ€ÑŒÑ‚Ðµ ÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ð¾ÑÑ‚ÑŒ Ð½Ð°ÑÑ‚Ñ€Ð¾ÐµÐº ÑÐ¸ÑÑ‚ÐµÐ¼Ñ‹. Ð˜ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ð¾ÑÑ‚ÑŒ ÑÐµÑ€Ð²ÐµÑ€Ð° ssl://saleservices.bitrix.info:443.';

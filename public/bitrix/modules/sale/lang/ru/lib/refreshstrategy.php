@@ -1,2 +1,2 @@
 <?
-$MESS["SALE_EVENT_ON_BASKET_ITEM_REFRESH_DATA"] = "Îøèáêà îáíîâëåíèÿ ýëåìåíòà êîðçèíû.";
+$MESS["SALE_EVENT_ON_BASKET_ITEM_REFRESH_DATA"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ñ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð° ÐºÐ¾Ñ€Ð·Ð¸Ð½Ñ‹.";

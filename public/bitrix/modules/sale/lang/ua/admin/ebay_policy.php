@@ -1,20 +1,20 @@
 <?
-$MESS["SALE_MODULE_NOT_INSTALLED"] = "Ìîäóëü \"²íòåðíåò ìàãàçèí\" íå âñòàíîâëåíî";
-$MESS["SALE_ACCESS_DENIED"] = "Äîñòóï çàáîðîíåíî";
-$MESS["SALE_EBAY_TITLE"] = "Íàëàøòóâàííÿ ïîë³òèê\"Ebay\"";
-$MESS["SALE_EBAY_TAB_DEFAULT"] = "Íàëàøòóâàííÿ";
-$MESS["SALE_EBAY_TAB_RETURN"] = "Ïîâåðíåííÿ";
-$MESS["SALE_EBAY_TAB_PAYMENT"] = "Îïëàòà";
-$MESS["SALE_EBAY_TAB_SHIPPING"] = "Äîñòàâêà";
-$MESS["SALE_EBAY_TAB_DEFAULT_TITLE"] = "Çàãàëüí³ íàëàøòóâàííÿ";
-$MESS["SALE_EBAY_TAB_PAYMENT_TITLE"] = "Íàëàøòóâàííÿ â³äïîâ³äíîñòåé ïîë³òèê äëÿ îïëàòè";
-$MESS["SALE_EBAY_TAB_SHIPPING_TITLE"] = "Íàëàøòóâàííÿ â³äïîâ³äíîñòåé äëÿ ïîë³òèê äîñòàâêè";
-$MESS["SALE_EBAY_SITE"] = "Ñàéò";
-$MESS["SALE_EBAY_TAB_POLICY_RETURN"] = "Ïîâåðíåííÿ";
-$MESS["SALE_EBAY_TAB_POLICY_SHIPPING"] = "Äîñòàâêà";
-$MESS["SALE_EBAY_TAB_POLICY_PAYMENT"] = "Îïëàòà";
+$MESS["SALE_MODULE_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ \"Ð†Ð½Ñ‚ÐµÑ€Ð½ÐµÑ‚ Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½\" Ð½Ðµ Ð²ÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð¾";
+$MESS["SALE_ACCESS_DENIED"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ð·Ð°Ð±Ð¾Ñ€Ð¾Ð½ÐµÐ½Ð¾";
+$MESS["SALE_EBAY_TITLE"] = "ÐÐ°Ð»Ð°ÑˆÑ‚ÑƒÐ²Ð°Ð½Ð½Ñ Ð¿Ð¾Ð»Ñ–Ñ‚Ð¸Ðº\"Ebay\"";
+$MESS["SALE_EBAY_TAB_DEFAULT"] = "ÐÐ°Ð»Ð°ÑˆÑ‚ÑƒÐ²Ð°Ð½Ð½Ñ";
+$MESS["SALE_EBAY_TAB_RETURN"] = "ÐŸÐ¾Ð²ÐµÑ€Ð½ÐµÐ½Ð½Ñ";
+$MESS["SALE_EBAY_TAB_PAYMENT"] = "ÐžÐ¿Ð»Ð°Ñ‚Ð°";
+$MESS["SALE_EBAY_TAB_SHIPPING"] = "Ð”Ð¾ÑÑ‚Ð°Ð²ÐºÐ°";
+$MESS["SALE_EBAY_TAB_DEFAULT_TITLE"] = "Ð—Ð°Ð³Ð°Ð»ÑŒÐ½Ñ– Ð½Ð°Ð»Ð°ÑˆÑ‚ÑƒÐ²Ð°Ð½Ð½Ñ";
+$MESS["SALE_EBAY_TAB_PAYMENT_TITLE"] = "ÐÐ°Ð»Ð°ÑˆÑ‚ÑƒÐ²Ð°Ð½Ð½Ñ Ð²Ñ–Ð´Ð¿Ð¾Ð²Ñ–Ð´Ð½Ð¾ÑÑ‚ÐµÐ¹ Ð¿Ð¾Ð»Ñ–Ñ‚Ð¸Ðº Ð´Ð»Ñ Ð¾Ð¿Ð»Ð°Ñ‚Ð¸";
+$MESS["SALE_EBAY_TAB_SHIPPING_TITLE"] = "ÐÐ°Ð»Ð°ÑˆÑ‚ÑƒÐ²Ð°Ð½Ð½Ñ Ð²Ñ–Ð´Ð¿Ð¾Ð²Ñ–Ð´Ð½Ð¾ÑÑ‚ÐµÐ¹ Ð´Ð»Ñ Ð¿Ð¾Ð»Ñ–Ñ‚Ð¸Ðº Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸";
+$MESS["SALE_EBAY_SITE"] = "Ð¡Ð°Ð¹Ñ‚";
+$MESS["SALE_EBAY_TAB_POLICY_RETURN"] = "ÐŸÐ¾Ð²ÐµÑ€Ð½ÐµÐ½Ð½Ñ";
+$MESS["SALE_EBAY_TAB_POLICY_SHIPPING"] = "Ð”Ð¾ÑÑ‚Ð°Ð²ÐºÐ°";
+$MESS["SALE_EBAY_TAB_POLICY_PAYMENT"] = "ÐžÐ¿Ð»Ð°Ñ‚Ð°";
 $MESS["SALE_EBAY_TAB_POLICY_URL"] = "URL";
-$MESS["SALE_EBAY_DEFAULT"] = "Ïîë³òèêè çà çàìîâ÷óâàííÿì";
-$MESS["SALE_EBAY_SETTINGS_SAVED"] = "Íàëàøòóâàííÿ çáåðåæåí³";
-$MESS["SALE_EBAY_NOT_MAPPED"] = "â³äïîâ³äí³ñòü íå âñòàíîâëåíî";
+$MESS["SALE_EBAY_DEFAULT"] = "ÐŸÐ¾Ð»Ñ–Ñ‚Ð¸ÐºÐ¸ Ð·Ð° Ð·Ð°Ð¼Ð¾Ð²Ñ‡ÑƒÐ²Ð°Ð½Ð½ÑÐ¼";
+$MESS["SALE_EBAY_SETTINGS_SAVED"] = "ÐÐ°Ð»Ð°ÑˆÑ‚ÑƒÐ²Ð°Ð½Ð½Ñ Ð·Ð±ÐµÑ€ÐµÐ¶ÐµÐ½Ñ–";
+$MESS["SALE_EBAY_NOT_MAPPED"] = "Ð²Ñ–Ð´Ð¿Ð¾Ð²Ñ–Ð´Ð½Ñ–ÑÑ‚ÑŒ Ð½Ðµ Ð²ÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð¾";
 ?>

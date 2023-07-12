@@ -1,7 +1,7 @@
 <?
-$MESS["MAIN_TAB_SETTINGS"] = "Íàñòðîéêà";
-$MESS["MAIN_TAB_TITLE_SETTINGS"] = "Íàñòðîéêà";
-$MESS["MAIN_TAB_PARTNER_NAME"] = "Ïàðòíåð, ðàçðàáàòûâàþùèé ïðîåêò";
-$MESS["MAIN_TAB_PARTNER_URL"] = "Ññûëêà íà ñòðàíèöó ïîääåðæêè ïàðòíåðà";
-$MESS["MAIN_TAB_PARTNER_URL_ERROR"] = "Íåêîððåêòíàÿ ññûëêà íà ñòðàíèöó ïîääåðæêè ïàðòíåðà";
+$MESS["MAIN_TAB_SETTINGS"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ°";
+$MESS["MAIN_TAB_TITLE_SETTINGS"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ°";
+$MESS["MAIN_TAB_PARTNER_NAME"] = "ÐŸÐ°Ñ€Ñ‚Ð½ÐµÑ€, Ñ€Ð°Ð·Ñ€Ð°Ð±Ð°Ñ‚Ñ‹Ð²Ð°ÑŽÑ‰Ð¸Ð¹ Ð¿Ñ€Ð¾ÐµÐºÑ‚";
+$MESS["MAIN_TAB_PARTNER_URL"] = "Ð¡ÑÑ‹Ð»ÐºÐ° Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ¸ Ð¿Ð°Ñ€Ñ‚Ð½ÐµÑ€Ð°";
+$MESS["MAIN_TAB_PARTNER_URL_ERROR"] = "ÐÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ð°Ñ ÑÑÑ‹Ð»ÐºÐ° Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñƒ Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ¸ Ð¿Ð°Ñ€Ñ‚Ð½ÐµÑ€Ð°";
 ?>

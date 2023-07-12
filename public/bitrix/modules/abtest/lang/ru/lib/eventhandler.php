@@ -1,14 +1,14 @@
 <?php
 
-$MESS["ABTEST_PANEL_MENU_BTN"] = "A/B-òåñò ##ID#";
+$MESS["ABTEST_PANEL_MENU_BTN"] = "A/B-Ñ‚ÐµÑÑ‚ ##ID#";
 
-$MESS["ABTEST_PANEL_MENU_MODE_A"] = "Ãðóïïà A";
-$MESS["ABTEST_PANEL_MENU_MODE_B"] = "Ãðóïïà B";
-$MESS["ABTEST_PANEL_MENU_RESET"] = "Ñáðîñèòü";
+$MESS["ABTEST_PANEL_MENU_MODE_A"] = "Ð“Ñ€ÑƒÐ¿Ð¿Ð° A";
+$MESS["ABTEST_PANEL_MENU_MODE_B"] = "Ð“Ñ€ÑƒÐ¿Ð¿Ð° B";
+$MESS["ABTEST_PANEL_MENU_RESET"] = "Ð¡Ð±Ñ€Ð¾ÑÐ¸Ñ‚ÑŒ";
 
-$MESS["ABTEST_CONV_TEST_TITLE"] = "A/B-òåñò ##ID#";
-$MESS["ABTEST_CONVATTR_TEST_NAME"] = "A/B-òåñò";
-$MESS["ABTEST_CONVATTR_TEST_SECTION_NAME"] = "Ãðóïïà A/B-òåñòà";
+$MESS["ABTEST_CONV_TEST_TITLE"] = "A/B-Ñ‚ÐµÑÑ‚ ##ID#";
+$MESS["ABTEST_CONVATTR_TEST_NAME"] = "A/B-Ñ‚ÐµÑÑ‚";
+$MESS["ABTEST_CONVATTR_TEST_SECTION_NAME"] = "Ð“Ñ€ÑƒÐ¿Ð¿Ð° A/B-Ñ‚ÐµÑÑ‚Ð°";
 
-$MESS["ABTEST_CONV_TEST_SECTION_A_NAME"] = "Ãðóïïà A";
-$MESS["ABTEST_CONV_TEST_SECTION_B_NAME"] = "Ãðóïïà B";
+$MESS["ABTEST_CONV_TEST_SECTION_A_NAME"] = "Ð“Ñ€ÑƒÐ¿Ð¿Ð° A";
+$MESS["ABTEST_CONV_TEST_SECTION_B_NAME"] = "Ð“Ñ€ÑƒÐ¿Ð¿Ð° B";

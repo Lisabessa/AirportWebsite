@@ -1,9 +1,9 @@
 <?
-$MESS["SALE_DLVR_HANDL_SMPL_TITLE"] = "Ïðèìåð ñëóæáû äîñòàâêè \"Simple\"";
-$MESS["SALE_DLVR_HANDL_SMPL_DESCRIPTION"] = "Ñëóæáà äîñòàâêè ñ÷èòàåò ñòîèìîñòü â çàâèñèìîñòè îò òîãî, â êàêóþ ãðóïïó ìåñòîïîëîæåíèé âõîäèò ìåñòîïîëîæåíèå ïîêóïàòåëÿ";
-$MESS["SALE_DLVR_HANDL_SMPL_TAB_MAIN"] = "Íàñòðîéêà òàðèôîâ";
-$MESS["SALE_DLVR_HANDL_SMPL_TAB_MAIN_DESCR"] = "Íàñòðîéêà òàðèôîâ ñëóæáû äîñòàâêè";
-$MESS["SALE_DLVR_HANDL_SMPL_DEFAULT"] = "Ïî óìîë÷àíèþ";
-$MESS["SALE_DLVR_HANDL_SMPL_CURRENCY"] = "Âàëþòà";
-$MESS["SALE_DLVR_HANDL_SMPL_TITLE2"] = "Ñëóæáà äîñòàâêè ïî ãðóïïàì ìåñòîïîëîæåíèé";
+$MESS["SALE_DLVR_HANDL_SMPL_TITLE"] = "ÐŸÑ€Ð¸Ð¼ÐµÑ€ ÑÐ»ÑƒÐ¶Ð±Ñ‹ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸ \"Simple\"";
+$MESS["SALE_DLVR_HANDL_SMPL_DESCRIPTION"] = "Ð¡Ð»ÑƒÐ¶Ð±Ð° Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸ ÑÑ‡Ð¸Ñ‚Ð°ÐµÑ‚ ÑÑ‚Ð¾Ð¸Ð¼Ð¾ÑÑ‚ÑŒ Ð² Ð·Ð°Ð²Ð¸ÑÐ¸Ð¼Ð¾ÑÑ‚Ð¸ Ð¾Ñ‚ Ñ‚Ð¾Ð³Ð¾, Ð² ÐºÐ°ÐºÑƒÑŽ Ð³Ñ€ÑƒÐ¿Ð¿Ñƒ Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹ Ð²Ñ…Ð¾Ð´Ð¸Ñ‚ Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ Ð¿Ð¾ÐºÑƒÐ¿Ð°Ñ‚ÐµÐ»Ñ";
+$MESS["SALE_DLVR_HANDL_SMPL_TAB_MAIN"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° Ñ‚Ð°Ñ€Ð¸Ñ„Ð¾Ð²";
+$MESS["SALE_DLVR_HANDL_SMPL_TAB_MAIN_DESCR"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° Ñ‚Ð°Ñ€Ð¸Ñ„Ð¾Ð² ÑÐ»ÑƒÐ¶Ð±Ñ‹ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸";
+$MESS["SALE_DLVR_HANDL_SMPL_DEFAULT"] = "ÐŸÐ¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ";
+$MESS["SALE_DLVR_HANDL_SMPL_CURRENCY"] = "Ð’Ð°Ð»ÑŽÑ‚Ð°";
+$MESS["SALE_DLVR_HANDL_SMPL_TITLE2"] = "Ð¡Ð»ÑƒÐ¶Ð±Ð° Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸ Ð¿Ð¾ Ð³Ñ€ÑƒÐ¿Ð¿Ð°Ð¼ Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹";
 ?>

@@ -1,3 +1,3 @@
 <?
-$MESS["SALE_CASHBOX_VALIDATE_ERROR"] = "Не заповнено: #FIELD_ID#";
+$MESS["SALE_CASHBOX_VALIDATE_ERROR"] = "РќРµ Р·Р°РїРѕРІРЅРµРЅРѕ: #FIELD_ID#";
 ?>

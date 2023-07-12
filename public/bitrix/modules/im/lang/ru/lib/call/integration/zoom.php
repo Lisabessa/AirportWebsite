@@ -1,4 +1,4 @@
 <?php
-$MESS['IM_ZOOM_MESSAGE_CONFERENCE_CREATED'] = 'Ñîçäàíà âèäåîêîíôåðåíöèÿ Zoom';
-$MESS['IM_ZOOM_MESSAGE_INVITE_LINK'] = 'Ññûëêà äëÿ ïðèãëàøåíèÿ';
-$MESS['IM_ZOOM_MESSAGE_JOIN_LINK'] = 'Ññûëêà äëÿ ó÷àñòèÿ';
+$MESS['IM_ZOOM_MESSAGE_CONFERENCE_CREATED'] = 'Ð¡Ð¾Ð·Ð´Ð°Ð½Ð° Ð²Ð¸Ð´ÐµÐ¾ÐºÐ¾Ð½Ñ„ÐµÑ€ÐµÐ½Ñ†Ð¸Ñ Zoom';
+$MESS['IM_ZOOM_MESSAGE_INVITE_LINK'] = 'Ð¡ÑÑ‹Ð»ÐºÐ° Ð´Ð»Ñ Ð¿Ñ€Ð¸Ð³Ð»Ð°ÑˆÐµÐ½Ð¸Ñ';
+$MESS['IM_ZOOM_MESSAGE_JOIN_LINK'] = 'Ð¡ÑÑ‹Ð»ÐºÐ° Ð´Ð»Ñ ÑƒÑ‡Ð°ÑÑ‚Ð¸Ñ';

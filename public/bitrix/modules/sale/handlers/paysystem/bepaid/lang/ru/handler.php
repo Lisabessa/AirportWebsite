@@ -1,8 +1,8 @@
 <?php
-$MESS["SALE_HPS_BEPAID_CHECKOUT_MODE"] = "Ñòðàíèöà îïëàòû";
-$MESS["SALE_HPS_BEPAID_WIDGET_MODE"] = "Âèäæåò";
-$MESS["SALE_HPS_BEPAID_RESPONSE_DECODE_ERROR"] = "Îøèáêà äåêîäèðîâàíèÿ ñòðîêè JSON";
-$MESS["SALE_HPS_BEPAID_ERROR_STATUS"] = "Íåêîððåêòíûé ñòàòóñ ïëàòåæà: #STATUS#";
-$MESS["SALE_HPS_BEPAID_TRANSACTION"] = "Òðàíçàêöèÿ #ID#";
-$MESS["SALE_HPS_BEPAID_ERROR_SUM"] = "Ñóììà ïëàòåæà íå ñîâïàäàåò ñ ñóììîé îïëàòû";
-$MESS["SALE_HPS_BEPAID_REFUND_REASON"] = "Ïðè÷èíà âîçâðàòà íå óêàçàíà";
+$MESS["SALE_HPS_BEPAID_CHECKOUT_MODE"] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹";
+$MESS["SALE_HPS_BEPAID_WIDGET_MODE"] = "Ð’Ð¸Ð´Ð¶ÐµÑ‚";
+$MESS["SALE_HPS_BEPAID_RESPONSE_DECODE_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð´ÐµÐºÐ¾Ð´Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ ÑÑ‚Ñ€Ð¾ÐºÐ¸ JSON";
+$MESS["SALE_HPS_BEPAID_ERROR_STATUS"] = "ÐÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ñ‹Ð¹ ÑÑ‚Ð°Ñ‚ÑƒÑ Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ð°: #STATUS#";
+$MESS["SALE_HPS_BEPAID_TRANSACTION"] = "Ð¢Ñ€Ð°Ð½Ð·Ð°ÐºÑ†Ð¸Ñ #ID#";
+$MESS["SALE_HPS_BEPAID_ERROR_SUM"] = "Ð¡ÑƒÐ¼Ð¼Ð° Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ð° Ð½Ðµ ÑÐ¾Ð²Ð¿Ð°Ð´Ð°ÐµÑ‚ Ñ ÑÑƒÐ¼Ð¼Ð¾Ð¹ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹";
+$MESS["SALE_HPS_BEPAID_REFUND_REASON"] = "ÐŸÑ€Ð¸Ñ‡Ð¸Ð½Ð° Ð²Ð¾Ð·Ð²Ñ€Ð°Ñ‚Ð° Ð½Ðµ ÑƒÐºÐ°Ð·Ð°Ð½Ð°";

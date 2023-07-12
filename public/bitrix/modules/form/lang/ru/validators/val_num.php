@@ -1,4 +1,4 @@
 <?
-$MESS['FORM_VALIDATOR_VAL_NUM_DESCRIPTION'] = "Öåëîå ÷èñëî";
-$MESS['FORM_VALIDATOR_VAL_NUM_ERROR'] = "#FIELD_NAME#: ââåäåííîå çíà÷åíèå äîëæíî áûòü öåëûì ÷èñëîì";
+$MESS['FORM_VALIDATOR_VAL_NUM_DESCRIPTION'] = "Ð¦ÐµÐ»Ð¾Ðµ Ñ‡Ð¸ÑÐ»Ð¾";
+$MESS['FORM_VALIDATOR_VAL_NUM_ERROR'] = "#FIELD_NAME#: Ð²Ð²ÐµÐ´ÐµÐ½Ð½Ð¾Ðµ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð´Ð¾Ð»Ð¶Ð½Ð¾ Ð±Ñ‹Ñ‚ÑŒ Ñ†ÐµÐ»Ñ‹Ð¼ Ñ‡Ð¸ÑÐ»Ð¾Ð¼";
 ?>

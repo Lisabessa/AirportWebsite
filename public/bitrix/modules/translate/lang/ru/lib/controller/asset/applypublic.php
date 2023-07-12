@@ -1,6 +1,6 @@
 <?
-$MESS["TR_ERROR_SELECT_LANGUAGE"] = "Ïîæàëóéñòà, âûáåðèòå ÿçûê ñîçäàâàåìîé ñáîðêè";
-$MESS["TR_ERROR_LANGUAGE_ID"] = "Íå íàéäåí âûáðàííûé ÿçûê";
-$MESS["TR_ERROR_CREATE_TARGET_FOLDER"] = "Íå óäàåòñÿ ñîçäàòü êîíå÷íóþ äèðåêòîðèþ \"#PATH#\"";
-$MESS["TR_LANGUAGE_DOWNLOADED"] = "Ëîêàëèçàöèÿ çàãðóæåíà";
+$MESS["TR_ERROR_SELECT_LANGUAGE"] = "ÐŸÐ¾Ð¶Ð°Ð»ÑƒÐ¹ÑÑ‚Ð°, Ð²Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ ÑÐ·Ñ‹Ðº ÑÐ¾Ð·Ð´Ð°Ð²Ð°ÐµÐ¼Ð¾Ð¹ ÑÐ±Ð¾Ñ€ÐºÐ¸";
+$MESS["TR_ERROR_LANGUAGE_ID"] = "ÐÐµ Ð½Ð°Ð¹Ð´ÐµÐ½ Ð²Ñ‹Ð±Ñ€Ð°Ð½Ð½Ñ‹Ð¹ ÑÐ·Ñ‹Ðº";
+$MESS["TR_ERROR_CREATE_TARGET_FOLDER"] = "ÐÐµ ÑƒÐ´Ð°ÐµÑ‚ÑÑ ÑÐ¾Ð·Ð´Ð°Ñ‚ÑŒ ÐºÐ¾Ð½ÐµÑ‡Ð½ÑƒÑŽ Ð´Ð¸Ñ€ÐµÐºÑ‚Ð¾Ñ€Ð¸ÑŽ \"#PATH#\"";
+$MESS["TR_LANGUAGE_DOWNLOADED"] = "Ð›Ð¾ÐºÐ°Ð»Ð¸Ð·Ð°Ñ†Ð¸Ñ Ð·Ð°Ð³Ñ€ÑƒÐ¶ÐµÐ½Ð°";
 ?>

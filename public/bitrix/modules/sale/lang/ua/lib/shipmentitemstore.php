@@ -1,4 +1,4 @@
 <?
-$MESS["SHIPMENT_ITEM_STORE_BARCODE_MULTI_EMPTY"] = "Ó òîâàðó \"#PRODUCT_NAME#\" äëÿ ñêëàäó ##STORE_ID# íå âêàçàíèé øòðèõ-êîä.";
-$MESS["SALE_EVENT_ON_BEFORE_SALESHIPMENTITEMSTORE_SET_FIELD_ERROR"] = "Ïîìèëêà ïîä³¿ óñòàíîâêè çíà÷åííÿ ïîëÿ øòðèõêîäó";
+$MESS["SHIPMENT_ITEM_STORE_BARCODE_MULTI_EMPTY"] = "Ð£ Ñ‚Ð¾Ð²Ð°Ñ€Ñƒ \"#PRODUCT_NAME#\" Ð´Ð»Ñ ÑÐºÐ»Ð°Ð´Ñƒ ##STORE_ID# Ð½Ðµ Ð²ÐºÐ°Ð·Ð°Ð½Ð¸Ð¹ ÑˆÑ‚Ñ€Ð¸Ñ…-ÐºÐ¾Ð´.";
+$MESS["SALE_EVENT_ON_BEFORE_SALESHIPMENTITEMSTORE_SET_FIELD_ERROR"] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ° Ð¿Ð¾Ð´Ñ–Ñ— ÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ¸ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð½Ñ Ð¿Ð¾Ð»Ñ ÑˆÑ‚Ñ€Ð¸Ñ…ÐºÐ¾Ð´Ñƒ";
 ?>

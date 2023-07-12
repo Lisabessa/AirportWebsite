@@ -1,9 +1,9 @@
 <?
-$MESS["BLG_GT_EMPTY_BLOG_ID"] = "Не указан блог";
-$MESS["BLG_GT_ERROR_NO_BLOG"] = "Блог с кодом &quot;#ID#&quot; не найден";
-$MESS["BLG_GT_EMPTY_POST_ID"] = "Не указано сообщение";
-$MESS["BLG_GT_ERROR_NO_POST"] = "Сообщение с кодом &quot;#ID#&quot; не найдено";
-$MESS["BLG_GT_ERROR_POST_DATE"] = "Дата создания указана неверно";
-$MESS["BLG_GT_EMPTY_TITLE"] = "Не указан заголовок сообщения";
-$MESS["BLG_GT_EMPTY_URL"] = "Не указан адрес сообщения";
+$MESS["BLG_GT_EMPTY_BLOG_ID"] = "РќРµ СѓРєР°Р·Р°РЅ Р±Р»РѕРі";
+$MESS["BLG_GT_ERROR_NO_BLOG"] = "Р‘Р»РѕРі СЃ РєРѕРґРѕРј &quot;#ID#&quot; РЅРµ РЅР°Р№РґРµРЅ";
+$MESS["BLG_GT_EMPTY_POST_ID"] = "РќРµ СѓРєР°Р·Р°РЅРѕ СЃРѕРѕР±С‰РµРЅРёРµ";
+$MESS["BLG_GT_ERROR_NO_POST"] = "РЎРѕРѕР±С‰РµРЅРёРµ СЃ РєРѕРґРѕРј &quot;#ID#&quot; РЅРµ РЅР°Р№РґРµРЅРѕ";
+$MESS["BLG_GT_ERROR_POST_DATE"] = "Р”Р°С‚Р° СЃРѕР·РґР°РЅРёСЏ СѓРєР°Р·Р°РЅР° РЅРµРІРµСЂРЅРѕ";
+$MESS["BLG_GT_EMPTY_TITLE"] = "РќРµ СѓРєР°Р·Р°РЅ Р·Р°РіРѕР»РѕРІРѕРє СЃРѕРѕР±С‰РµРЅРёСЏ";
+$MESS["BLG_GT_EMPTY_URL"] = "РќРµ СѓРєР°Р·Р°РЅ Р°РґСЂРµСЃ СЃРѕРѕР±С‰РµРЅРёСЏ";
 ?>

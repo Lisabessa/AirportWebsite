@@ -1,14 +1,14 @@
 <?
-$MESS ['LEARNING_ADMIN_TITLE'] = "Ðåçóëüòàòû òåñòà";
-$MESS ['LEARNING_ADMIN_RESULTS'] = "Ðåçóëüòàòû";
-$MESS ['LEARNING_ERROR'] = "Îøèáêà ïðè ñîõðàíåíèè òåñòà";
-$MESS ['SAVE_ERROR'] = "Îøèáêà ïðè èçìåíåíèè òåñòà #";
+$MESS ['LEARNING_ADMIN_TITLE'] = "Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ñ‹ Ñ‚ÐµÑÑ‚Ð°";
+$MESS ['LEARNING_ADMIN_RESULTS'] = "Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ñ‹";
+$MESS ['LEARNING_ERROR'] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð¸Ð¸ Ñ‚ÐµÑÑ‚Ð°";
+$MESS ['SAVE_ERROR'] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ð¸ Ñ‚ÐµÑÑ‚Ð° #";
 
 
-$MESS ['LEARNING_ADMIN_QUESTION_NAME'] = "Âîïðîñ";
-$MESS ['LEARNING_ADMIN_ANSWER_NAME'] = "Îòâåò";
-$MESS ['LEARNING_ADMIN_ANSWERED'] = "Îòâå÷åí";
-$MESS ['LEARNING_ADMIN_POINT'] = "Áàëëîâ";
-$MESS ['LEARNING_ADMIN_CORRECT'] = "Âåðíî îòâå÷åí";
-$MESS ['LEARNING_ADMIN_USER_RESPONSE_TEXT'] = 'Îòâåò ïîëüçîâàòåëÿ';
+$MESS ['LEARNING_ADMIN_QUESTION_NAME'] = "Ð’Ð¾Ð¿Ñ€Ð¾Ñ";
+$MESS ['LEARNING_ADMIN_ANSWER_NAME'] = "ÐžÑ‚Ð²ÐµÑ‚";
+$MESS ['LEARNING_ADMIN_ANSWERED'] = "ÐžÑ‚Ð²ÐµÑ‡ÐµÐ½";
+$MESS ['LEARNING_ADMIN_POINT'] = "Ð‘Ð°Ð»Ð»Ð¾Ð²";
+$MESS ['LEARNING_ADMIN_CORRECT'] = "Ð’ÐµÑ€Ð½Ð¾ Ð¾Ñ‚Ð²ÐµÑ‡ÐµÐ½";
+$MESS ['LEARNING_ADMIN_USER_RESPONSE_TEXT'] = 'ÐžÑ‚Ð²ÐµÑ‚ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ';
 ?>

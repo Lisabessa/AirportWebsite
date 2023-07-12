@@ -1,10 +1,10 @@
 <?
-$MESS["TASK_NAME_CLOUDS_DENIED"]="Äîñòóï çàêðûò";
-$MESS["TASK_NAME_CLOUDS_BROWSE"]="Âûáîð ôàéëîâ";
-$MESS["TASK_NAME_CLOUDS_UPLOAD"]="Ïåðåìåùåíèå ôàéëîâ";
-$MESS["TASK_NAME_CLOUDS_FULL_ACCESS"]="Ïîëíûé àäìèíèñòðàòèâíûé äîñòóï";
-$MESS["TASK_DESC_CLOUDS_DENIED"]="Äîñòóï ê ìîäóëþ çàïðåùåí";
-$MESS["TASK_DESC_CLOUDS_BROWSE"]="Ïðîñìîòð ñîäåðæèìîãî îáëà÷íûõ õðàíèëèù";
-$MESS["TASK_DESC_CLOUDS_UPLOAD"]="Ïåðåìåùåíèå ôàéëîâ â îáëà÷íûå õðàíèëèùà èç ñòðóêòóðû ñàéòà è âûãðóçêà íîâûõ";
-$MESS["TASK_DESC_CLOUDS_FULL_ACCESS"]="Ðàçðåøåí ïîëíûé äîñòóï, âêëþ÷àÿ íàñòðîéêè.";
+$MESS["TASK_NAME_CLOUDS_DENIED"]="Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ð·Ð°ÐºÑ€Ñ‹Ñ‚";
+$MESS["TASK_NAME_CLOUDS_BROWSE"]="Ð’Ñ‹Ð±Ð¾Ñ€ Ñ„Ð°Ð¹Ð»Ð¾Ð²";
+$MESS["TASK_NAME_CLOUDS_UPLOAD"]="ÐŸÐµÑ€ÐµÐ¼ÐµÑ‰ÐµÐ½Ð¸Ðµ Ñ„Ð°Ð¹Ð»Ð¾Ð²";
+$MESS["TASK_NAME_CLOUDS_FULL_ACCESS"]="ÐŸÐ¾Ð»Ð½Ñ‹Ð¹ Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¸Ð²Ð½Ñ‹Ð¹ Ð´Ð¾ÑÑ‚ÑƒÐ¿";
+$MESS["TASK_DESC_CLOUDS_DENIED"]="Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ðº Ð¼Ð¾Ð´ÑƒÐ»ÑŽ Ð·Ð°Ð¿Ñ€ÐµÑ‰ÐµÐ½";
+$MESS["TASK_DESC_CLOUDS_BROWSE"]="ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ ÑÐ¾Ð´ÐµÑ€Ð¶Ð¸Ð¼Ð¾Ð³Ð¾ Ð¾Ð±Ð»Ð°Ñ‡Ð½Ñ‹Ñ… Ñ…Ñ€Ð°Ð½Ð¸Ð»Ð¸Ñ‰";
+$MESS["TASK_DESC_CLOUDS_UPLOAD"]="ÐŸÐµÑ€ÐµÐ¼ÐµÑ‰ÐµÐ½Ð¸Ðµ Ñ„Ð°Ð¹Ð»Ð¾Ð² Ð² Ð¾Ð±Ð»Ð°Ñ‡Ð½Ñ‹Ðµ Ñ…Ñ€Ð°Ð½Ð¸Ð»Ð¸Ñ‰Ð° Ð¸Ð· ÑÑ‚Ñ€ÑƒÐºÑ‚ÑƒÑ€Ñ‹ ÑÐ°Ð¹Ñ‚Ð° Ð¸ Ð²Ñ‹Ð³Ñ€ÑƒÐ·ÐºÐ° Ð½Ð¾Ð²Ñ‹Ñ…";
+$MESS["TASK_DESC_CLOUDS_FULL_ACCESS"]="Ð Ð°Ð·Ñ€ÐµÑˆÐµÐ½ Ð¿Ð¾Ð»Ð½Ñ‹Ð¹ Ð´Ð¾ÑÑ‚ÑƒÐ¿, Ð²ÐºÐ»ÑŽÑ‡Ð°Ñ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸.";
 ?>

@@ -1,3 +1,3 @@
 <?php
 
-$MESS['MAIN_ENTITY_VALIDATOR_FOREIGN'] = 'Запись, на которую ссылается поле "#FIELD_TITLE#", равное "#VALUE#", не существует.';
+$MESS['MAIN_ENTITY_VALIDATOR_FOREIGN'] = 'Р—Р°РїРёСЃСЊ, РЅР° РєРѕС‚РѕСЂСѓСЋ СЃСЃС‹Р»Р°РµС‚СЃСЏ РїРѕР»Рµ "#FIELD_TITLE#", СЂР°РІРЅРѕРµ "#VALUE#", РЅРµ СЃСѓС‰РµСЃС‚РІСѓРµС‚.';

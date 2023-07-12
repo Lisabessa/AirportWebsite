@@ -1,4 +1,4 @@
 <?php
-$MESS['BLOCK_USER_ENTITY_ID_FIELD'] = 'Óíèêàëüíûé èäåíòèôèêàòîð';
-$MESS['BLOCK_USER_ENTITY_CHAT_ID_FIELD'] = 'Èäåíòèôèêàòîð ÷àòà';
-$MESS['BLOCK_USER_ENTITY_USER_ID_FIELD'] = 'Èäåíòèôèêàòîð ïîëüçîâàòåëÿ';
+$MESS['BLOCK_USER_ENTITY_ID_FIELD'] = 'Ð£Ð½Ð¸ÐºÐ°Ð»ÑŒÐ½Ñ‹Ð¹ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€';
+$MESS['BLOCK_USER_ENTITY_CHAT_ID_FIELD'] = 'Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ñ‡Ð°Ñ‚Ð°';
+$MESS['BLOCK_USER_ENTITY_USER_ID_FIELD'] = 'Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ';

@@ -1,14 +1,14 @@
 <?
-$MESS["BX_MOD_CATALOG_ADMIN_CIS_BAD_IBLOCK_TYPE_ID"] = "Íåâåðíûé òèï èíôîáëîêà";
-$MESS["BX_MOD_CATALOG_ADMIN_CIS_TITLE"] = "Âûáîð èíôîáëîêà";
+$MESS["BX_MOD_CATALOG_ADMIN_CIS_BAD_IBLOCK_TYPE_ID"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ñ‚Ð¸Ð¿ Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ°";
+$MESS["BX_MOD_CATALOG_ADMIN_CIS_TITLE"] = "Ð’Ñ‹Ð±Ð¾Ñ€ Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ°";
 $MESS["BX_MOD_CATALOG_ADMIN_CIS_HEAD_ID"] = "ID";
-$MESS["BX_MOD_CATALOG_ADMIN_CIS_HEAD_IBLOCK_TYPE_ID"] = "Òèï èíôîáëîêà";
-$MESS["BX_MOD_CATALOG_ADMIN_CIS_HEAD_NAME"] = "Íàçâàíèå";
-$MESS["BX_MOD_CATALOG_ADMIN_CIS_HEAD_ACTIVE"] = "Àêòèâíîñòü";
-$MESS["BX_MOD_CATALOG_ADMIN_CIS_HEAD_XML_ID"] = "Âíåøíèé êîä";
-$MESS["BX_MOD_CATALOG_ADMIN_CIS_HEAD_CODE"] = "Ñèìâîëüíûé êîä";
-$MESS["BX_MOD_CATALOG_ADMIN_CIS_NAV"] = "Èíôîáëîêè";
-$MESS["BX_MOD_CATALOG_ADMIN_CIS_SELECT"] = "Âûáðàòü";
-$MESS["BX_MOD_CATALOG_ADMIN_CIS_MAIN_ADMIN_LIST_SELECTED"] = "Âûáðàíî:";
-$MESS["BX_MOD_CATALOG_ADMIN_CIS_MAIN_ADMIN_LIST_CHECKED"] = "Îòìå÷åíî:";
+$MESS["BX_MOD_CATALOG_ADMIN_CIS_HEAD_IBLOCK_TYPE_ID"] = "Ð¢Ð¸Ð¿ Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ°";
+$MESS["BX_MOD_CATALOG_ADMIN_CIS_HEAD_NAME"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
+$MESS["BX_MOD_CATALOG_ADMIN_CIS_HEAD_ACTIVE"] = "ÐÐºÑ‚Ð¸Ð²Ð½Ð¾ÑÑ‚ÑŒ";
+$MESS["BX_MOD_CATALOG_ADMIN_CIS_HEAD_XML_ID"] = "Ð’Ð½ÐµÑˆÐ½Ð¸Ð¹ ÐºÐ¾Ð´";
+$MESS["BX_MOD_CATALOG_ADMIN_CIS_HEAD_CODE"] = "Ð¡Ð¸Ð¼Ð²Ð¾Ð»ÑŒÐ½Ñ‹Ð¹ ÐºÐ¾Ð´";
+$MESS["BX_MOD_CATALOG_ADMIN_CIS_NAV"] = "Ð˜Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ¸";
+$MESS["BX_MOD_CATALOG_ADMIN_CIS_SELECT"] = "Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ";
+$MESS["BX_MOD_CATALOG_ADMIN_CIS_MAIN_ADMIN_LIST_SELECTED"] = "Ð’Ñ‹Ð±Ñ€Ð°Ð½Ð¾:";
+$MESS["BX_MOD_CATALOG_ADMIN_CIS_MAIN_ADMIN_LIST_CHECKED"] = "ÐžÑ‚Ð¼ÐµÑ‡ÐµÐ½Ð¾:";
 ?>

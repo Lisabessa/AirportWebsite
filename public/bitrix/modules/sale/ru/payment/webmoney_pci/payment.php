@@ -18,13 +18,13 @@ $strPayPath .= "&mode=".CSalePaySystemAction::GetParamValue("TEST_MODE");
 <div class="container-fluid">
 	<div class="row mb-3">
 		<div class="col">
-			Если Вы пользуетесь <strong>WMKeeper Classic</strong>, перейдите для оплаты заказа по следующей ссылке: <a class="" href="wmk:paylink?<?= $strPayPath ?>"><strong>Оплатить заказ</strong></a>
+			Р•СЃР»Рё Р’С‹ РїРѕР»СЊР·СѓРµС‚РµСЃСЊ <strong>WMKeeper Classic</strong>, РїРµСЂРµР№РґРёС‚Рµ РґР»СЏ РѕРїР»Р°С‚С‹ Р·Р°РєР°Р·Р° РїРѕ СЃР»РµРґСѓСЋС‰РµР№ СЃСЃС‹Р»РєРµ: <a class="" href="wmk:paylink?<?= $strPayPath ?>"><strong>РћРїР»Р°С‚РёС‚СЊ Р·Р°РєР°Р·</strong></a>
 		</div>
 	</div>
 
 	<div class="row">
 		<div class="col">
-			Если Вы пользуетесь <strong>WMKeeper Light</strong>, перейдите для оплаты заказа по следующей ссылке: <a class="" href="https://light.webmoney.ru/pci.aspx?<?= $strPayPath ?>"><strong>Оплатить заказ</strong></a>
+			Р•СЃР»Рё Р’С‹ РїРѕР»СЊР·СѓРµС‚РµСЃСЊ <strong>WMKeeper Light</strong>, РїРµСЂРµР№РґРёС‚Рµ РґР»СЏ РѕРїР»Р°С‚С‹ Р·Р°РєР°Р·Р° РїРѕ СЃР»РµРґСѓСЋС‰РµР№ СЃСЃС‹Р»РєРµ: <a class="" href="https://light.webmoney.ru/pci.aspx?<?= $strPayPath ?>"><strong>РћРїР»Р°С‚РёС‚СЊ Р·Р°РєР°Р·</strong></a>
 		</div>
 	</div>
 </div>

@@ -1,4 +1,4 @@
 <?
-$MESS['LANDING_NAVBAR_TOGGLER_SHOW'] = 'Развернуть';
-$MESS['LANDING_NAVBAR_TOGGLER_HIDE'] = 'Свернуть';
-$MESS['LANDING_NAVBAR_MODAL_ALERT'] = 'Редактирование.<br>Полноценная работа блока будет доступна в&nbsp;режиме просмотра.';
+$MESS['LANDING_NAVBAR_TOGGLER_SHOW'] = 'Р Р°Р·РІРµСЂРЅСѓС‚СЊ';
+$MESS['LANDING_NAVBAR_TOGGLER_HIDE'] = 'РЎРІРµСЂРЅСѓС‚СЊ';
+$MESS['LANDING_NAVBAR_MODAL_ALERT'] = 'Р РµРґР°РєС‚РёСЂРѕРІР°РЅРёРµ.<br>РџРѕР»РЅРѕС†РµРЅРЅР°СЏ СЂР°Р±РѕС‚Р° Р±Р»РѕРєР° Р±СѓРґРµС‚ РґРѕСЃС‚СѓРїРЅР° РІ&nbsp;СЂРµР¶РёРјРµ РїСЂРѕСЃРјРѕС‚СЂР°.';

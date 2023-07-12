@@ -1,7 +1,7 @@
 <?
-$MESS["CAL_MENU_ITEM"] = "Êàëåíäàðü ñîáûòèé";
-$MESS["CAL_DEFAULT_TYPE"] = "Ñîáûòèÿ";
-$MESS["CAL_TYPE_COMPANY_NAME"] = "Îñíîâíûå ñîáûòèÿ";
-$MESS["CAL_EVENT_1_NAME"] = "Âñòðå÷à ñ çàêàç÷èêîì";
-$MESS["CAL_EVENT_2_NAME"] = "Ïèêíèê ñ äðóçüÿìè";
+$MESS["CAL_MENU_ITEM"] = "ÐšÐ°Ð»ÐµÐ½Ð´Ð°Ñ€ÑŒ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ð¹";
+$MESS["CAL_DEFAULT_TYPE"] = "Ð¡Ð¾Ð±Ñ‹Ñ‚Ð¸Ñ";
+$MESS["CAL_TYPE_COMPANY_NAME"] = "ÐžÑÐ½Ð¾Ð²Ð½Ñ‹Ðµ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ";
+$MESS["CAL_EVENT_1_NAME"] = "Ð’ÑÑ‚Ñ€ÐµÑ‡Ð° Ñ Ð·Ð°ÐºÐ°Ð·Ñ‡Ð¸ÐºÐ¾Ð¼";
+$MESS["CAL_EVENT_2_NAME"] = "ÐŸÐ¸ÐºÐ½Ð¸Ðº Ñ Ð´Ñ€ÑƒÐ·ÑŒÑÐ¼Ð¸";
 ?>

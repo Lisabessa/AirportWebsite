@@ -1,22 +1,22 @@
 <?
-$MESS["MAIN_COMPOSITE_LOG_TITLE"] = "Æóðíàë îòëàäêè";
-$MESS["MAIN_COMPOSITE_LOG_PAGES"] = "Çàïèñè";
-$MESS["MAIN_COMPOSITE_LOG_PAGE_COLUMN"] = "Ñòðàíèöà";
-$MESS["MAIN_COMPOSITE_LOG_ENABLE_DEBUG"] = "Âêëþ÷èòü îòëàäêó";
-$MESS["MAIN_COMPOSITE_LOG_DISABLE_DEBUG"] = "Âûêëþ÷èòü îòëàäêó";
+$MESS["MAIN_COMPOSITE_LOG_TITLE"] = "Ð–ÑƒÑ€Ð½Ð°Ð» Ð¾Ñ‚Ð»Ð°Ð´ÐºÐ¸";
+$MESS["MAIN_COMPOSITE_LOG_PAGES"] = "Ð—Ð°Ð¿Ð¸ÑÐ¸";
+$MESS["MAIN_COMPOSITE_LOG_PAGE_COLUMN"] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð°";
+$MESS["MAIN_COMPOSITE_LOG_ENABLE_DEBUG"] = "Ð’ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ Ð¾Ñ‚Ð»Ð°Ð´ÐºÑƒ";
+$MESS["MAIN_COMPOSITE_LOG_DISABLE_DEBUG"] = "Ð’Ñ‹ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ Ð¾Ñ‚Ð»Ð°Ð´ÐºÑƒ";
 
-$MESS["MAIN_COMPOSITE_LOG_INTERVAL_300_SEC"] = "â òå÷åíèå 5 ìèíóò";
-$MESS["MAIN_COMPOSITE_LOG_INTERVAL_600_SEC"] = "â òå÷åíèå 10 ìèíóò";
-$MESS["MAIN_COMPOSITE_LOG_INTERVAL_1200_SEC"] = "â òå÷åíèå 20 ìèíóò";
-$MESS["MAIN_COMPOSITE_LOG_INTERVAL_1800_SEC"] = "â òå÷åíèå 30 ìèíóò";
-$MESS["MAIN_COMPOSITE_LOG_INTERVAL_3600_SEC"] = "â òå÷åíèå 1 ÷àñà";
+$MESS["MAIN_COMPOSITE_LOG_INTERVAL_300_SEC"] = "Ð² Ñ‚ÐµÑ‡ÐµÐ½Ð¸Ðµ 5 Ð¼Ð¸Ð½ÑƒÑ‚";
+$MESS["MAIN_COMPOSITE_LOG_INTERVAL_600_SEC"] = "Ð² Ñ‚ÐµÑ‡ÐµÐ½Ð¸Ðµ 10 Ð¼Ð¸Ð½ÑƒÑ‚";
+$MESS["MAIN_COMPOSITE_LOG_INTERVAL_1200_SEC"] = "Ð² Ñ‚ÐµÑ‡ÐµÐ½Ð¸Ðµ 20 Ð¼Ð¸Ð½ÑƒÑ‚";
+$MESS["MAIN_COMPOSITE_LOG_INTERVAL_1800_SEC"] = "Ð² Ñ‚ÐµÑ‡ÐµÐ½Ð¸Ðµ 30 Ð¼Ð¸Ð½ÑƒÑ‚";
+$MESS["MAIN_COMPOSITE_LOG_INTERVAL_3600_SEC"] = "Ð² Ñ‚ÐµÑ‡ÐµÐ½Ð¸Ðµ 1 Ñ‡Ð°ÑÐ°";
 
-$MESS["MAIN_COMPOSITE_LOG_DEBUG_DESC"] = "Â ðåæèìå îòëàäêè áóäóò ëîãèðîâàòüñÿ îøèáêè, ïåðåçàïèñü êåøà, ãîëîñîâàíèÿ êîìïîíåíòîâ è äð.";
-$MESS["MAIN_COMPOSITE_LOG_DEBUG_ENABLED"] = "Îòëàäêà âêëþ÷åíà";
-$MESS["MAIN_COMPOSITE_LOG_DEBUG_DISABLED"] = "Îòëàäêà âûêëþ÷åíà";
-$MESS["MAIN_COMPOSITE_LOG_TIME_LEFT"] = "Äî âûêëþ÷åíèÿ îòëàäêè îñòàëîñü";
+$MESS["MAIN_COMPOSITE_LOG_DEBUG_DESC"] = "Ð’ Ñ€ÐµÐ¶Ð¸Ð¼Ðµ Ð¾Ñ‚Ð»Ð°Ð´ÐºÐ¸ Ð±ÑƒÐ´ÑƒÑ‚ Ð»Ð¾Ð³Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒÑÑ Ð¾ÑˆÐ¸Ð±ÐºÐ¸, Ð¿ÐµÑ€ÐµÐ·Ð°Ð¿Ð¸ÑÑŒ ÐºÐµÑˆÐ°, Ð³Ð¾Ð»Ð¾ÑÐ¾Ð²Ð°Ð½Ð¸Ñ ÐºÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚Ð¾Ð² Ð¸ Ð´Ñ€.";
+$MESS["MAIN_COMPOSITE_LOG_DEBUG_ENABLED"] = "ÐžÑ‚Ð»Ð°Ð´ÐºÐ° Ð²ÐºÐ»ÑŽÑ‡ÐµÐ½Ð°";
+$MESS["MAIN_COMPOSITE_LOG_DEBUG_DISABLED"] = "ÐžÑ‚Ð»Ð°Ð´ÐºÐ° Ð²Ñ‹ÐºÐ»ÑŽÑ‡ÐµÐ½Ð°";
+$MESS["MAIN_COMPOSITE_LOG_TIME_LEFT"] = "Ð”Ð¾ Ð²Ñ‹ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¸Ñ Ð¾Ñ‚Ð»Ð°Ð´ÐºÐ¸ Ð¾ÑÑ‚Ð°Ð»Ð¾ÑÑŒ";
 
-$MESS["MAIN_COMPOSITE_LOG_CLEAR_ALL"] = "Î÷èñòèòü ëîã";
-$MESS["MAIN_COMPOSITE_LOG_CLEAR_ALL_CONFIRM"] = "Âû äåéñòâèòåëüíî õîòèòå î÷èñòèòü âñå çàïèñè ëîãà?";
-$MESS["MAIN_COMPOSITE_LOG_VIEW_DIFF"] = "Ñðàâíèòü âåðñèè";
-$MESS["MAIN_COMPOSITE_LOG_PLUGIN_AD"] = "Ðåêîìåíäóåì óñòàíîâèòü ïëàãèí #LINK_START#Bitrix Composite Notifier#LINK_END# äëÿ áðàóçåðà Google Chrome.";
+$MESS["MAIN_COMPOSITE_LOG_CLEAR_ALL"] = "ÐžÑ‡Ð¸ÑÑ‚Ð¸Ñ‚ÑŒ Ð»Ð¾Ð³";
+$MESS["MAIN_COMPOSITE_LOG_CLEAR_ALL_CONFIRM"] = "Ð’Ñ‹ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ Ð¾Ñ‡Ð¸ÑÑ‚Ð¸Ñ‚ÑŒ Ð²ÑÐµ Ð·Ð°Ð¿Ð¸ÑÐ¸ Ð»Ð¾Ð³Ð°?";
+$MESS["MAIN_COMPOSITE_LOG_VIEW_DIFF"] = "Ð¡Ñ€Ð°Ð²Ð½Ð¸Ñ‚ÑŒ Ð²ÐµÑ€ÑÐ¸Ð¸";
+$MESS["MAIN_COMPOSITE_LOG_PLUGIN_AD"] = "Ð ÐµÐºÐ¾Ð¼ÐµÐ½Ð´ÑƒÐµÐ¼ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð¸Ñ‚ÑŒ Ð¿Ð»Ð°Ð³Ð¸Ð½ #LINK_START#Bitrix Composite Notifier#LINK_END# Ð´Ð»Ñ Ð±Ñ€Ð°ÑƒÐ·ÐµÑ€Ð° Google Chrome.";

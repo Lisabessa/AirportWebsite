@@ -1,5 +1,5 @@
 <?
-$MESS ['SONET_U_CALENDAR_DIS_MES'] = "Ôóíêöèîíàë \"Êàëåíäàðü\" îòêëþ÷åí.";
-$MESS ['SONET_U_CALENDAR_DIS_TITLE'] = "Âêëþ÷èòü ôóíêöèîíàë 'Êàëåíäàðü ñîáûòèé'";
-$MESS ['SONET_U_CALENDAR_TURN_ON'] = "Âêëþ÷èòü";
+$MESS ['SONET_U_CALENDAR_DIS_MES'] = "Ð¤ÑƒÐ½ÐºÑ†Ð¸Ð¾Ð½Ð°Ð» \"ÐšÐ°Ð»ÐµÐ½Ð´Ð°Ñ€ÑŒ\" Ð¾Ñ‚ÐºÐ»ÑŽÑ‡ÐµÐ½.";
+$MESS ['SONET_U_CALENDAR_DIS_TITLE'] = "Ð’ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ Ñ„ÑƒÐ½ÐºÑ†Ð¸Ð¾Ð½Ð°Ð» 'ÐšÐ°Ð»ÐµÐ½Ð´Ð°Ñ€ÑŒ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ð¹'";
+$MESS ['SONET_U_CALENDAR_TURN_ON'] = "Ð’ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ";
 ?>

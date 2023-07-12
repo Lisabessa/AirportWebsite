@@ -1,4 +1,4 @@
 <?
-$MESS["PROPERTY_CATALOG_FEATURE_NAME_BASKET_PROPERTY"] = "Çíà÷åíèå äîáàâëÿåòñÿ â êîðçèíó";
-$MESS["PROPERTY_CATALOG_FEATURE_NAME_SKU_TREE_PROPERTY"] = "Èñïîëüçóåòñÿ äëÿ âûáîðà òîðãîâûõ ïðåäëîæåíèé";
+$MESS["PROPERTY_CATALOG_FEATURE_NAME_BASKET_PROPERTY"] = "Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð´Ð¾Ð±Ð°Ð²Ð»ÑÐµÑ‚ÑÑ Ð² ÐºÐ¾Ñ€Ð·Ð¸Ð½Ñƒ";
+$MESS["PROPERTY_CATALOG_FEATURE_NAME_SKU_TREE_PROPERTY"] = "Ð˜ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐµÑ‚ÑÑ Ð´Ð»Ñ Ð²Ñ‹Ð±Ð¾Ñ€Ð° Ñ‚Ð¾Ñ€Ð³Ð¾Ð²Ñ‹Ñ… Ð¿Ñ€ÐµÐ´Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹";
 ?>

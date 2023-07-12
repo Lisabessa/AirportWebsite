@@ -1,11 +1,11 @@
 <?php
 
-$MESS["SALE_COMPATIBLE_ORDER_CANCEL_NO_PERMISSION"] = "Ó âàñ íåò ïðàâ íà îòìåíó çàêàçà";
-$MESS["SALE_COMPATIBLE_ORDER_MARKED_NO_PERMISSION"] = "Ó âàñ íåäîñòàòî÷íî ïðàâ äëÿ óñòàíîâêè ïîìåòêè î ïðîáëåìå â äàííîì çàêàçå";
-$MESS["SALE_COMPATIBLE_ORDER_DEDUCT_NO_PERMISSION"] = "Ó âàñ íåò ïðàâ íà îòãðóçêó çàêàçà";
+$MESS["SALE_COMPATIBLE_ORDER_CANCEL_NO_PERMISSION"] = "Ð£ Ð²Ð°Ñ Ð½ÐµÑ‚ Ð¿Ñ€Ð°Ð² Ð½Ð° Ð¾Ñ‚Ð¼ÐµÐ½Ñƒ Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["SALE_COMPATIBLE_ORDER_MARKED_NO_PERMISSION"] = "Ð£ Ð²Ð°Ñ Ð½ÐµÐ´Ð¾ÑÑ‚Ð°Ñ‚Ð¾Ñ‡Ð½Ð¾ Ð¿Ñ€Ð°Ð² Ð´Ð»Ñ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ¸ Ð¿Ð¾Ð¼ÐµÑ‚ÐºÐ¸ Ð¾ Ð¿Ñ€Ð¾Ð±Ð»ÐµÐ¼Ðµ Ð² Ð´Ð°Ð½Ð½Ð¾Ð¼ Ð·Ð°ÐºÐ°Ð·Ðµ";
+$MESS["SALE_COMPATIBLE_ORDER_DEDUCT_NO_PERMISSION"] = "Ð£ Ð²Ð°Ñ Ð½ÐµÑ‚ Ð¿Ñ€Ð°Ð² Ð½Ð° Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÑƒ Ð·Ð°ÐºÐ°Ð·Ð°";
 
-$MESS["SALE_COMPATIBLE_ORDER_NOT_FOUND"] = "Çàêàç íå íàéäåí";
-$MESS["SALE_COMPATIBLE_PAYSYSTEM_NOT_FOUND"] = "Ïëàòåæíàÿ ñèñòåìà íå íàéäåíà";
-$MESS["SALE_COMPATIBLE_ORDER_ID_NOT_FOUND"] = "Íå óêàçàí ID çàêàçà";
-$MESS["SALE_COMPATIBLE_ORDER_FUSERID_NOT_FOUND"] = "Íå óêàçàí FUSER_ID";
-$MESS["SALE_COMPATIBLE_ORDER_ACCOUNT_NUMBER_ALREADY_EXISTS"] = "Óêàçàííûé êîä çàêàçà óæå óñòàíîâëåí ó äðóãîãî äîêóìåíòà";
+$MESS["SALE_COMPATIBLE_ORDER_NOT_FOUND"] = "Ð—Ð°ÐºÐ°Ð· Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
+$MESS["SALE_COMPATIBLE_PAYSYSTEM_NOT_FOUND"] = "ÐŸÐ»Ð°Ñ‚ÐµÐ¶Ð½Ð°Ñ ÑÐ¸ÑÑ‚ÐµÐ¼Ð° Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð°";
+$MESS["SALE_COMPATIBLE_ORDER_ID_NOT_FOUND"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ ID Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["SALE_COMPATIBLE_ORDER_FUSERID_NOT_FOUND"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ FUSER_ID";
+$MESS["SALE_COMPATIBLE_ORDER_ACCOUNT_NUMBER_ALREADY_EXISTS"] = "Ð£ÐºÐ°Ð·Ð°Ð½Ð½Ñ‹Ð¹ ÐºÐ¾Ð´ Ð·Ð°ÐºÐ°Ð·Ð° ÑƒÐ¶Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½ Ñƒ Ð´Ñ€ÑƒÐ³Ð¾Ð³Ð¾ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð°";

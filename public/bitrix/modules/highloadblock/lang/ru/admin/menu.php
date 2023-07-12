@@ -1,5 +1,5 @@
 <?php
-$MESS['HLBLOCK_ADMIN_MENU_TITLE'] = 'Highload-áëîêè';
-$MESS['HLBLOCK_ADMIN_MENU_IE'] = 'Ýêñïîðò / èìïîðò';
-$MESS['HLBLOCK_ADMIN_MENU_EXPORT'] = 'Ýêñïîðò';
-$MESS['HLBLOCK_ADMIN_MENU_IMPORT'] = 'Èìïîðò';
+$MESS['HLBLOCK_ADMIN_MENU_TITLE'] = 'Highload-Ð±Ð»Ð¾ÐºÐ¸';
+$MESS['HLBLOCK_ADMIN_MENU_IE'] = 'Ð­ÐºÑÐ¿Ð¾Ñ€Ñ‚ / Ð¸Ð¼Ð¿Ð¾Ñ€Ñ‚';
+$MESS['HLBLOCK_ADMIN_MENU_EXPORT'] = 'Ð­ÐºÑÐ¿Ð¾Ñ€Ñ‚';
+$MESS['HLBLOCK_ADMIN_MENU_IMPORT'] = 'Ð˜Ð¼Ð¿Ð¾Ñ€Ñ‚';

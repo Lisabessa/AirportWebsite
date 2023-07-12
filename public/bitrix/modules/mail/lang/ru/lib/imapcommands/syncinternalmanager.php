@@ -1,10 +1,10 @@
 <?php
-$MESS["MAIL_CLIENT_MAILBOX_NOT_FOUND"] = "ßùèê íå íàéäåí";
-$MESS["MAIL_CLIENT_WRONG_PARAMETERS"] = "Íåêîððåêòíûå ïàðàìåòðû";
-$MESS["MAIL_CLIENT_MOVE_TO_SELF_FOLDER"] = "Ïèñüìî óæå íàõîäèòñÿ â óêàçàííîé ïàïêå";
-$MESS["MAIL_CLIENT_FOLDER_IS_DISABLED"] = "#FOLDER# íå ÿâëÿåòñÿ ïàïêîé";
-$MESS["MAIL_CLIENT_MESSAGES_NOT_FOUND"] = "Ïèñüìà íå íàéäåíû";
-$MESS["MAIL_CLIENT_MESSAGES_MULTIPLE_FOLDERS"] = "Âûáåðèòå ïèñüìà èç îäíîé ïàïêè";
-$MESS["MAIL_CLIENT_SYNC_ERROR"] = "Îøèáêà ïðè ñèíõðîíèçàöèè äàííûõ";
-$MESS["MAIL_CLIENT_TRASH_FOLDER_NOT_SELECTED_ERROR"] = "Íå óêàçàíî, â êàêóþ ïàïêó ïåðåìåùàòü óäàëåííûå ïèñüìà";
-$MESS["MAIL_CLIENT_SPAM_FOLDER_NOT_SELECTED_ERROR"] = "Íå óêàçàíî, â êàêóþ ïàïêó ïåðåìåùàòü ñïàì";
+$MESS["MAIL_CLIENT_MAILBOX_NOT_FOUND"] = "Ð¯Ñ‰Ð¸Ðº Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
+$MESS["MAIL_CLIENT_WRONG_PARAMETERS"] = "ÐÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ñ‹Ðµ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹";
+$MESS["MAIL_CLIENT_MOVE_TO_SELF_FOLDER"] = "ÐŸÐ¸ÑÑŒÐ¼Ð¾ ÑƒÐ¶Ðµ Ð½Ð°Ñ…Ð¾Ð´Ð¸Ñ‚ÑÑ Ð² ÑƒÐºÐ°Ð·Ð°Ð½Ð½Ð¾Ð¹ Ð¿Ð°Ð¿ÐºÐµ";
+$MESS["MAIL_CLIENT_FOLDER_IS_DISABLED"] = "#FOLDER# Ð½Ðµ ÑÐ²Ð»ÑÐµÑ‚ÑÑ Ð¿Ð°Ð¿ÐºÐ¾Ð¹";
+$MESS["MAIL_CLIENT_MESSAGES_NOT_FOUND"] = "ÐŸÐ¸ÑÑŒÐ¼Ð° Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ñ‹";
+$MESS["MAIL_CLIENT_MESSAGES_MULTIPLE_FOLDERS"] = "Ð’Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ Ð¿Ð¸ÑÑŒÐ¼Ð° Ð¸Ð· Ð¾Ð´Ð½Ð¾Ð¹ Ð¿Ð°Ð¿ÐºÐ¸";
+$MESS["MAIL_CLIENT_SYNC_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ ÑÐ¸Ð½Ñ…Ñ€Ð¾Ð½Ð¸Ð·Ð°Ñ†Ð¸Ð¸ Ð´Ð°Ð½Ð½Ñ‹Ñ…";
+$MESS["MAIL_CLIENT_TRASH_FOLDER_NOT_SELECTED_ERROR"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾, Ð² ÐºÐ°ÐºÑƒÑŽ Ð¿Ð°Ð¿ÐºÑƒ Ð¿ÐµÑ€ÐµÐ¼ÐµÑ‰Ð°Ñ‚ÑŒ ÑƒÐ´Ð°Ð»ÐµÐ½Ð½Ñ‹Ðµ Ð¿Ð¸ÑÑŒÐ¼Ð°";
+$MESS["MAIL_CLIENT_SPAM_FOLDER_NOT_SELECTED_ERROR"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾, Ð² ÐºÐ°ÐºÑƒÑŽ Ð¿Ð°Ð¿ÐºÑƒ Ð¿ÐµÑ€ÐµÐ¼ÐµÑ‰Ð°Ñ‚ÑŒ ÑÐ¿Ð°Ð¼";

@@ -1,4 +1,4 @@
 <?
-$MESS["T_IBLOCK_NAME_BLOCK"] = "Íàçâàíèå áëîêà âàêàíñèé";
-$MESS["T_IBLOCK_DESC_NAME_BLOCK"] = "Âàêàíñèè";
+$MESS["T_IBLOCK_NAME_BLOCK"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð±Ð»Ð¾ÐºÐ° Ð²Ð°ÐºÐ°Ð½ÑÐ¸Ð¹";
+$MESS["T_IBLOCK_DESC_NAME_BLOCK"] = "Ð’Ð°ÐºÐ°Ð½ÑÐ¸Ð¸";
 ?>

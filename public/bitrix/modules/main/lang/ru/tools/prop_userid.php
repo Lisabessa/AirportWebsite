@@ -1,6 +1,6 @@
 <?
-$MESS ['IBLOCK_PROP_USERID_DESC'] = "Ïðèâÿçêà ê ïîëüçîâàòåëþ";
-$MESS ['IBLOCK_PROP_USERID_NONE'] = "(íåò)";
-$MESS ['IBLOCK_PROP_USERID_CURR'] = "Òåêóùèé";
-$MESS ['IBLOCK_PROP_USERID_OTHR'] = "Âûáðàòü";
+$MESS ['IBLOCK_PROP_USERID_DESC'] = "ÐŸÑ€Ð¸Ð²ÑÐ·ÐºÐ° Ðº Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŽ";
+$MESS ['IBLOCK_PROP_USERID_NONE'] = "(Ð½ÐµÑ‚)";
+$MESS ['IBLOCK_PROP_USERID_CURR'] = "Ð¢ÐµÐºÑƒÑ‰Ð¸Ð¹";
+$MESS ['IBLOCK_PROP_USERID_OTHR'] = "Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ";
 ?>

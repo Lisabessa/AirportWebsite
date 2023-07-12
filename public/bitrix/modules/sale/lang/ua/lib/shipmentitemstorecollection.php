@@ -1,3 +1,3 @@
 <?
-$MESS["SALE_SHIPMENT_ITEM_STORE_QUANTITY_LARGER_ALLOWED"] = "Çàçíà÷åíà ê³ëüê³ñòü â³äâàíòàæåííÿ òîâàðó \"#PRODUCT_NAME#\" á³ëüøà äîïóñòèìî¿";
+$MESS["SALE_SHIPMENT_ITEM_STORE_QUANTITY_LARGER_ALLOWED"] = "Ð—Ð°Ð·Ð½Ð°Ñ‡ÐµÐ½Ð° ÐºÑ–Ð»ÑŒÐºÑ–ÑÑ‚ÑŒ Ð²Ñ–Ð´Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ Ñ‚Ð¾Ð²Ð°Ñ€Ñƒ \"#PRODUCT_NAME#\" Ð±Ñ–Ð»ÑŒÑˆÐ° Ð´Ð¾Ð¿ÑƒÑÑ‚Ð¸Ð¼Ð¾Ñ—";
 ?>

@@ -1,10 +1,10 @@
 <?
-$MESS["IBLOCK_MODULE_NOT_INSTALLED"] = "Ìîäóëü \"Èíôîðìàöèîííûå áëîêè\" íå óñòàíîâëåí";
-$MESS["INVALID_IBLOCK"] = "Íåâåðíûé èíôîðìàöèîííûé áëîê";
-$MESS["CATALOG_ERROR2BASKET"] = "Îøèáêà äîáàâëåíèÿ òîâàðà â êîðçèíó";
-$MESS["CATALOG_PRODUCT_ID_IS_ABSENT"] = "Íå âûáðàí òîâàð";
-$MESS["CATALOG_PRODUCT_NOT_FOUND"] = "Òîâàð íå íàéäåí";
-$MESS["CATALOG_SUCCESSFUL_ADD_TO_BASKET"] = "Òîâàð óñïåøíî äîáàâëåí â êîðçèíó";
-$MESS["CATALOG_PARTIAL_BASKET_PROPERTIES_ERROR"] = "Íå âñå ñâîéñòâà òîâàðà, äîáàâëÿåìûå â êîðçèíó, çàïîëíåíû";
-$MESS["CATALOG_EMPTY_BASKET_PROPERTIES_ERROR"] = "Íå çàïîëíåíû ñâîéñòâà òîâàðà, äîáàâëÿåìûå â êîðçèíó";
+$MESS["IBLOCK_MODULE_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ \"Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ñ‹Ðµ Ð±Ð»Ð¾ÐºÐ¸\" Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½";
+$MESS["INVALID_IBLOCK"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ñ‹Ð¹ Ð±Ð»Ð¾Ðº";
+$MESS["CATALOG_ERROR2BASKET"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ñ Ñ‚Ð¾Ð²Ð°Ñ€Ð° Ð² ÐºÐ¾Ñ€Ð·Ð¸Ð½Ñƒ";
+$MESS["CATALOG_PRODUCT_ID_IS_ABSENT"] = "ÐÐµ Ð²Ñ‹Ð±Ñ€Ð°Ð½ Ñ‚Ð¾Ð²Ð°Ñ€";
+$MESS["CATALOG_PRODUCT_NOT_FOUND"] = "Ð¢Ð¾Ð²Ð°Ñ€ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
+$MESS["CATALOG_SUCCESSFUL_ADD_TO_BASKET"] = "Ð¢Ð¾Ð²Ð°Ñ€ ÑƒÑÐ¿ÐµÑˆÐ½Ð¾ Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½ Ð² ÐºÐ¾Ñ€Ð·Ð¸Ð½Ñƒ";
+$MESS["CATALOG_PARTIAL_BASKET_PROPERTIES_ERROR"] = "ÐÐµ Ð²ÑÐµ ÑÐ²Ð¾Ð¹ÑÑ‚Ð²Ð° Ñ‚Ð¾Ð²Ð°Ñ€Ð°, Ð´Ð¾Ð±Ð°Ð²Ð»ÑÐµÐ¼Ñ‹Ðµ Ð² ÐºÐ¾Ñ€Ð·Ð¸Ð½Ñƒ, Ð·Ð°Ð¿Ð¾Ð»Ð½ÐµÐ½Ñ‹";
+$MESS["CATALOG_EMPTY_BASKET_PROPERTIES_ERROR"] = "ÐÐµ Ð·Ð°Ð¿Ð¾Ð»Ð½ÐµÐ½Ñ‹ ÑÐ²Ð¾Ð¹ÑÑ‚Ð²Ð° Ñ‚Ð¾Ð²Ð°Ñ€Ð°, Ð´Ð¾Ð±Ð°Ð²Ð»ÑÐµÐ¼Ñ‹Ðµ Ð² ÐºÐ¾Ñ€Ð·Ð¸Ð½Ñƒ";
 ?>

@@ -1,7 +1,7 @@
 <?php
 
-$MESS["MAIL_NOTIFY_GO_TO_LIST"] = "Ïåðåéòè";
-$MESS["MAIL_NOTIFY_NEW_MESSAGE"] = "Íîâîå ïèñüìî";
-$MESS["MAIL_NOTIFY_NEW_MESSAGE_TEXT_SINGLE"] = "Íîâîå ïèñüìî: #BRIEF#";
-$MESS["MAIL_NOTIFY_NEW_MESSAGE_TEXT_MULTI"] = "Íîâûõ ïèñåì: #COUNT#";
-$MESS["MAIL_NOTIFY_NEW_MESSAGE_TITLE"] = "Ïî÷òà";
+$MESS["MAIL_NOTIFY_GO_TO_LIST"] = "ÐŸÐµÑ€ÐµÐ¹Ñ‚Ð¸";
+$MESS["MAIL_NOTIFY_NEW_MESSAGE"] = "ÐÐ¾Ð²Ð¾Ðµ Ð¿Ð¸ÑÑŒÐ¼Ð¾";
+$MESS["MAIL_NOTIFY_NEW_MESSAGE_TEXT_SINGLE"] = "ÐÐ¾Ð²Ð¾Ðµ Ð¿Ð¸ÑÑŒÐ¼Ð¾: #BRIEF#";
+$MESS["MAIL_NOTIFY_NEW_MESSAGE_TEXT_MULTI"] = "ÐÐ¾Ð²Ñ‹Ñ… Ð¿Ð¸ÑÐµÐ¼: #COUNT#";
+$MESS["MAIL_NOTIFY_NEW_MESSAGE_TITLE"] = "ÐŸÐ¾Ñ‡Ñ‚Ð°";

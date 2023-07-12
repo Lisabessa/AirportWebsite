@@ -1,48 +1,48 @@
 <?
-$MESS['F_FORUM'] = "Ôîðóì";
-$MESS['F_GROUP_PUBLIC'] = "Ïóáëè÷íûå ôîðóìû";
-$MESS['F_GROUP_PARTNER'] = "Ïàðòíåðñêèå ôîðóìû";
-$MESS['F_GROUP_COMMENTS'] = "Êîììåíòàðèè ïîëüçîâàòåëåé";
+$MESS['F_FORUM'] = "Ð¤Ð¾Ñ€ÑƒÐ¼";
+$MESS['F_GROUP_PUBLIC'] = "ÐŸÑƒÐ±Ð»Ð¸Ñ‡Ð½Ñ‹Ðµ Ñ„Ð¾Ñ€ÑƒÐ¼Ñ‹";
+$MESS['F_GROUP_PARTNER'] = "ÐŸÐ°Ñ€Ñ‚Ð½ÐµÑ€ÑÐºÐ¸Ðµ Ñ„Ð¾Ñ€ÑƒÐ¼Ñ‹";
+$MESS['F_GROUP_COMMENTS'] = "ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¸ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÐµÐ¹";
 
 /*Forum 1 */
-$MESS['F_FORUM_1_NAME'] = "Îáùèé ôîðóì";
-$MESS['F_FORUM_1_DECRIPTION'] = "Ðàçãîâîðû îáî âñåì íà ñâåòå";
+$MESS['F_FORUM_1_NAME'] = "ÐžÐ±Ñ‰Ð¸Ð¹ Ñ„Ð¾Ñ€ÑƒÐ¼";
+$MESS['F_FORUM_1_DECRIPTION'] = "Ð Ð°Ð·Ð³Ð¾Ð²Ð¾Ñ€Ñ‹ Ð¾Ð±Ð¾ Ð²ÑÐµÐ¼ Ð½Ð° ÑÐ²ÐµÑ‚Ðµ";
 
-$MESS['F_FORUM_1_TOPIC_1_TITLE'] = "Íîâàÿ òåìà";
-$MESS['F_FORUM_1_TOPIC_1_DESCRIPTION'] = "òåñò";
-$MESS['F_FORUM_1_TOPIC_1_TAGS'] = "Ôîðóì, òåñò";
-$MESS['F_FORUM_1_TOPIC_1_AUTHOR'] = "Àäìèíèñòðàòîð Áèòðèêñ";
-$MESS['F_FORUM_1_TOPIC_1_MESSAGE_1_POSTMESS'] = "Ýòî íîâàÿ òåìà.";
+$MESS['F_FORUM_1_TOPIC_1_TITLE'] = "ÐÐ¾Ð²Ð°Ñ Ñ‚ÐµÐ¼Ð°";
+$MESS['F_FORUM_1_TOPIC_1_DESCRIPTION'] = "Ñ‚ÐµÑÑ‚";
+$MESS['F_FORUM_1_TOPIC_1_TAGS'] = "Ð¤Ð¾Ñ€ÑƒÐ¼, Ñ‚ÐµÑÑ‚";
+$MESS['F_FORUM_1_TOPIC_1_AUTHOR'] = "ÐÐ´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¾Ñ€ Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ";
+$MESS['F_FORUM_1_TOPIC_1_MESSAGE_1_POSTMESS'] = "Ð­Ñ‚Ð¾ Ð½Ð¾Ð²Ð°Ñ Ñ‚ÐµÐ¼Ð°.";
 
-$MESS['F_FORUM_1_TOPIC_2_TITLE'] = "Òåìà-îïðîñ";
-$MESS['F_FORUM_1_TOPIC_2_DESCRIPTION'] = "òåìà ñ ïðèìåðîì îïðîñà";
-$MESS['F_FORUM_1_TOPIC_2_TAGS'] = "Ôîðóì, îïðîñ";
-$MESS['F_FORUM_1_TOPIC_2_AUTHOR'] = "Àäìèíèñòðàòîð Áèòðèêñ";
-$MESS['F_FORUM_1_TOPIC_2_MESSAGE_1_POSTMESS'] = "Ïðèìåð îïðîñà.";
+$MESS['F_FORUM_1_TOPIC_2_TITLE'] = "Ð¢ÐµÐ¼Ð°-Ð¾Ð¿Ñ€Ð¾Ñ";
+$MESS['F_FORUM_1_TOPIC_2_DESCRIPTION'] = "Ñ‚ÐµÐ¼Ð° Ñ Ð¿Ñ€Ð¸Ð¼ÐµÑ€Ð¾Ð¼ Ð¾Ð¿Ñ€Ð¾ÑÐ°";
+$MESS['F_FORUM_1_TOPIC_2_TAGS'] = "Ð¤Ð¾Ñ€ÑƒÐ¼, Ð¾Ð¿Ñ€Ð¾Ñ";
+$MESS['F_FORUM_1_TOPIC_2_AUTHOR'] = "ÐÐ´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¾Ñ€ Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ";
+$MESS['F_FORUM_1_TOPIC_2_MESSAGE_1_POSTMESS'] = "ÐŸÑ€Ð¸Ð¼ÐµÑ€ Ð¾Ð¿Ñ€Ð¾ÑÐ°.";
 
 /*Forum 1 */
-$MESS['F_FORUM_2_NAME'] = "Ôîðóì êîìïàíèè";
-$MESS['F_FORUM_2_DECRIPTION'] = "Â äàííîì ôîðóìå îáñóæäàþòñÿ ëþáûå âîïðîñû, ñâÿçàííûå ñ äåÿòåëüíîñòüþ íàøåé êîìïàíèè";
+$MESS['F_FORUM_2_NAME'] = "Ð¤Ð¾Ñ€ÑƒÐ¼ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸";
+$MESS['F_FORUM_2_DECRIPTION'] = "Ð’ Ð´Ð°Ð½Ð½Ð¾Ð¼ Ñ„Ð¾Ñ€ÑƒÐ¼Ðµ Ð¾Ð±ÑÑƒÐ¶Ð´Ð°ÑŽÑ‚ÑÑ Ð»ÑŽÐ±Ñ‹Ðµ Ð²Ð¾Ð¿Ñ€Ð¾ÑÑ‹, ÑÐ²ÑÐ·Ð°Ð½Ð½Ñ‹Ðµ Ñ Ð´ÐµÑÑ‚ÐµÐ»ÑŒÐ½Ð¾ÑÑ‚ÑŒÑŽ Ð½Ð°ÑˆÐµÐ¹ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸";
 
-$MESS['F_FORUM_2_TOPIC_1_TITLE'] = "Õîðîøàÿ êîìïàíèÿ";
+$MESS['F_FORUM_2_TOPIC_1_TITLE'] = "Ð¥Ð¾Ñ€Ð¾ÑˆÐ°Ñ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ñ";
 $MESS['F_FORUM_2_TOPIC_1_DESCRIPTION'] = "";
-$MESS['F_FORUM_2_TOPIC_1_TAGS'] = "Ôîðóì, Êîìïàíèÿ";
-$MESS['F_FORUM_2_TOPIC_1_AUTHOR'] = "Ãîñòü";
-$MESS['F_FORUM_2_TOPIC_1_MESSAGE_1_POSTMESS'] = "Õîðîøàÿ êîìïàíèÿ. Äà!";
+$MESS['F_FORUM_2_TOPIC_1_TAGS'] = "Ð¤Ð¾Ñ€ÑƒÐ¼, ÐšÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ñ";
+$MESS['F_FORUM_2_TOPIC_1_AUTHOR'] = "Ð“Ð¾ÑÑ‚ÑŒ";
+$MESS['F_FORUM_2_TOPIC_1_MESSAGE_1_POSTMESS'] = "Ð¥Ð¾Ñ€Ð¾ÑˆÐ°Ñ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ñ. Ð”Ð°!";
 
 /* Forum 3 */
-$MESS['F_FORUM_3_NAME'] = "Ïàðòíåðñêèé ôîðóì";
-$MESS['F_FORUM_3_DECRIPTION'] = "Ôîðóì äëÿ ïàðòíåðîâ êîìïàíèè";
+$MESS['F_FORUM_3_NAME'] = "ÐŸÐ°Ñ€Ñ‚Ð½ÐµÑ€ÑÐºÐ¸Ð¹ Ñ„Ð¾Ñ€ÑƒÐ¼";
+$MESS['F_FORUM_3_DECRIPTION'] = "Ð¤Ð¾Ñ€ÑƒÐ¼ Ð´Ð»Ñ Ð¿Ð°Ñ€Ñ‚Ð½ÐµÑ€Ð¾Ð² ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸";
 
-$MESS['F_FORUM_3_TOPIC_1_TITLE'] = "Õîòèì ñòàòü ïàðòíåðîì âàøåé êîìïàíèè!";
+$MESS['F_FORUM_3_TOPIC_1_TITLE'] = "Ð¥Ð¾Ñ‚Ð¸Ð¼ ÑÑ‚Ð°Ñ‚ÑŒ Ð¿Ð°Ñ€Ñ‚Ð½ÐµÑ€Ð¾Ð¼ Ð²Ð°ÑˆÐµÐ¹ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸!";
 $MESS['F_FORUM_3_TOPIC_1_DESCRIPTION'] = "";
-$MESS['F_FORUM_3_TOPIC_1_TAGS'] = "Ôîðóì, Êîìïàíèÿ, Ïàðòíåðû";
-$MESS['F_FORUM_3_TOPIC_1_AUTHOR'] = "Àäìèíèñòðàòîð Áèòðèêñ";
-$MESS['F_FORUM_3_TOPIC_1_MESSAGE_1_POSTMESS'] = "Õîòèì ñòàòü ïàðòíåðîì âàøåé êîìïàíèè! ×òî äëÿ ýòîãî íóæíî ñäåëàòü? :D";
+$MESS['F_FORUM_3_TOPIC_1_TAGS'] = "Ð¤Ð¾Ñ€ÑƒÐ¼, ÐšÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ñ, ÐŸÐ°Ñ€Ñ‚Ð½ÐµÑ€Ñ‹";
+$MESS['F_FORUM_3_TOPIC_1_AUTHOR'] = "ÐÐ´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¾Ñ€ Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ";
+$MESS['F_FORUM_3_TOPIC_1_MESSAGE_1_POSTMESS'] = "Ð¥Ð¾Ñ‚Ð¸Ð¼ ÑÑ‚Ð°Ñ‚ÑŒ Ð¿Ð°Ñ€Ñ‚Ð½ÐµÑ€Ð¾Ð¼ Ð²Ð°ÑˆÐµÐ¹ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸! Ð§Ñ‚Ð¾ Ð´Ð»Ñ ÑÑ‚Ð¾Ð³Ð¾ Ð½ÑƒÐ¶Ð½Ð¾ ÑÐ´ÐµÐ»Ð°Ñ‚ÑŒ? :D";
 
 /* Points */
-$MESS['F_POINTS_VISITOR'] = "Çàãëÿíóâøèé";
-$MESS['F_POINTS_RESIDENT'] = "Ïîñåòèòåëü";
-$MESS['F_POINTS_USER'] = "Ïîñòîÿííûé ïîñåòèòåëü";
-$MESS['F_POINTS_HONORED'] = "Ýêñïåðò";
+$MESS['F_POINTS_VISITOR'] = "Ð—Ð°Ð³Ð»ÑÐ½ÑƒÐ²ÑˆÐ¸Ð¹";
+$MESS['F_POINTS_RESIDENT'] = "ÐŸÐ¾ÑÐµÑ‚Ð¸Ñ‚ÐµÐ»ÑŒ";
+$MESS['F_POINTS_USER'] = "ÐŸÐ¾ÑÑ‚Ð¾ÑÐ½Ð½Ñ‹Ð¹ Ð¿Ð¾ÑÐµÑ‚Ð¸Ñ‚ÐµÐ»ÑŒ";
+$MESS['F_POINTS_HONORED'] = "Ð­ÐºÑÐ¿ÐµÑ€Ñ‚";
 ?>

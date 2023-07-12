@@ -1,4 +1,4 @@
 <?
-$MESS['SALE_VK_PRODUCT_VARIANTS'] = 'Âàðèàíòû òîâàðà:';
-$MESS['SALE_VK_PRODUCT_PRICE'] = 'Öåíà';
-$MESS['SALE_VK_PRODUCT_CURRENCY'] = 'ðóá.';
+$MESS['SALE_VK_PRODUCT_VARIANTS'] = 'Ð’Ð°Ñ€Ð¸Ð°Ð½Ñ‚Ñ‹ Ñ‚Ð¾Ð²Ð°Ñ€Ð°:';
+$MESS['SALE_VK_PRODUCT_PRICE'] = 'Ð¦ÐµÐ½Ð°';
+$MESS['SALE_VK_PRODUCT_CURRENCY'] = 'Ñ€ÑƒÐ±.';

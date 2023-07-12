@@ -1,4 +1,4 @@
 <?php
-$MESS["EC_ORGANIZER_NAME_TITLE"] = "Îðãàíèçàòîð";
-$MESS["EC_ATTENDEES_LIST_TITLE"] = "Ó÷àñòíèêè";
-$MESS["EC_FILES_TITLE"] = "Ôàéëû";
+$MESS["EC_ORGANIZER_NAME_TITLE"] = "ÐžÑ€Ð³Ð°Ð½Ð¸Ð·Ð°Ñ‚Ð¾Ñ€";
+$MESS["EC_ATTENDEES_LIST_TITLE"] = "Ð£Ñ‡Ð°ÑÑ‚Ð½Ð¸ÐºÐ¸";
+$MESS["EC_FILES_TITLE"] = "Ð¤Ð°Ð¹Ð»Ñ‹";

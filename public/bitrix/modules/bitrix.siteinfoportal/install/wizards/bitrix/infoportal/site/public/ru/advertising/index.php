@@ -1,4 +1,4 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Размещение рекламы");
-?>Разместите текст об условиях размещения рекламы на вашем портале.<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
+$APPLICATION->SetTitle("Р Р°Р·РјРµС‰РµРЅРёРµ СЂРµРєР»Р°РјС‹");
+?>Р Р°Р·РјРµСЃС‚РёС‚Рµ С‚РµРєСЃС‚ РѕР± СѓСЃР»РѕРІРёСЏС… СЂР°Р·РјРµС‰РµРЅРёСЏ СЂРµРєР»Р°РјС‹ РЅР° РІР°С€РµРј РїРѕСЂС‚Р°Р»Рµ.<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

@@ -1,7 +1,7 @@
 <?
-$MESS['FORM_VALIDATOR_VAL_DATE_AGE_DESCRIPTION'] = "Возраст";
-$MESS['FORM_VALIDATOR_VAL_DATE_AGE_SETTINGS_DATE_FROM'] = "Нижний порог возраста";
-$MESS['FORM_VALIDATOR_VAL_DATE_AGE_SETTINGS_DATE_TO'] = "Верхний порог возраста";
-$MESS['FORM_VALIDATOR_VAL_DATE_AGE_ERROR_LESS'] = "#FIELD_NAME#: возраст не соответствует требованиям";
-$MESS['FORM_VALIDATOR_VAL_DATE_AGE_ERROR_MORE'] = "#FIELD_NAME#: возраст не соответствует требованиям";
+$MESS['FORM_VALIDATOR_VAL_DATE_AGE_DESCRIPTION'] = "Р’РѕР·СЂР°СЃС‚";
+$MESS['FORM_VALIDATOR_VAL_DATE_AGE_SETTINGS_DATE_FROM'] = "РќРёР¶РЅРёР№ РїРѕСЂРѕРі РІРѕР·СЂР°СЃС‚Р°";
+$MESS['FORM_VALIDATOR_VAL_DATE_AGE_SETTINGS_DATE_TO'] = "Р’РµСЂС…РЅРёР№ РїРѕСЂРѕРі РІРѕР·СЂР°СЃС‚Р°";
+$MESS['FORM_VALIDATOR_VAL_DATE_AGE_ERROR_LESS'] = "#FIELD_NAME#: РІРѕР·СЂР°СЃС‚ РЅРµ СЃРѕРѕС‚РІРµС‚СЃС‚РІСѓРµС‚ С‚СЂРµР±РѕРІР°РЅРёСЏРј";
+$MESS['FORM_VALIDATOR_VAL_DATE_AGE_ERROR_MORE'] = "#FIELD_NAME#: РІРѕР·СЂР°СЃС‚ РЅРµ СЃРѕРѕС‚РІРµС‚СЃС‚РІСѓРµС‚ С‚СЂРµР±РѕРІР°РЅРёСЏРј";
 ?>

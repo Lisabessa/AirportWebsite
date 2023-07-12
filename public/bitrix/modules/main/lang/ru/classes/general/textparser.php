@@ -1,4 +1,4 @@
 <?
-$MESS["MAIN_TEXTPARSER_SPOILER"] = "Ñïîéëåð";
-$MESS["MAIN_TEXTPARSER_HIDDEN_TEXT"] = "Ñêðûòûé òåêñò";
+$MESS["MAIN_TEXTPARSER_SPOILER"] = "Ð¡Ð¿Ð¾Ð¹Ð»ÐµÑ€";
+$MESS["MAIN_TEXTPARSER_HIDDEN_TEXT"] = "Ð¡ÐºÑ€Ñ‹Ñ‚Ñ‹Ð¹ Ñ‚ÐµÐºÑÑ‚";
 ?>

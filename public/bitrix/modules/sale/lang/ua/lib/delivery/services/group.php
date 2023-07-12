@@ -1,5 +1,5 @@
 <?
-$MESS["SALE_DLVR_HANDL_GROUP_NAME"] = "Ãðóïà";
-$MESS["SALE_DLVR_HANDL_GROUP_DESCRIPTION"] = "Ãðóïà àâòîìàòèçîâàíèõ ñëóæá äîñòàâîê";
-$MESS["SALE_DLVR_HANDL_GROUP_ERROR_CALCULATION"] = "Ðîçðàõóíîê äîñòàâêè íåìîæëèâèé";
+$MESS["SALE_DLVR_HANDL_GROUP_NAME"] = "Ð“Ñ€ÑƒÐ¿Ð°";
+$MESS["SALE_DLVR_HANDL_GROUP_DESCRIPTION"] = "Ð“Ñ€ÑƒÐ¿Ð° Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ð·Ð¾Ð²Ð°Ð½Ð¸Ñ… ÑÐ»ÑƒÐ¶Ð± Ð´Ð¾ÑÑ‚Ð°Ð²Ð¾Ðº";
+$MESS["SALE_DLVR_HANDL_GROUP_ERROR_CALCULATION"] = "Ð Ð¾Ð·Ñ€Ð°Ñ…ÑƒÐ½Ð¾Ðº Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸ Ð½ÐµÐ¼Ð¾Ð¶Ð»Ð¸Ð²Ð¸Ð¹";
 ?>

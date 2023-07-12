@@ -1,7 +1,7 @@
 <?
-$MESS['FORM_VALIDATOR_VAL_NUM_SELECTED_DESCRIPTION'] = "Количество результатов";
-$MESS['FORM_VALIDATOR_VAL_NUM_SELECTED_SETTINGS_NUMBER_FROM'] = "Минимальное";
-$MESS['FORM_VALIDATOR_VAL_NUM_SELECTED_SETTINGS_NUMBER_TO'] = "Максимальное";
-$MESS['FORM_VALIDATOR_VAL_NUM_SELECTED_ERROR_LESS'] = "#FIELD_NAME#: выбрано слишком мало значений";
-$MESS['FORM_VALIDATOR_VAL_NUM_SELECTED_ERROR_MORE'] = "#FIELD_NAME#: выбрано слишком много значений";
+$MESS['FORM_VALIDATOR_VAL_NUM_SELECTED_DESCRIPTION'] = "РљРѕР»РёС‡РµСЃС‚РІРѕ СЂРµР·СѓР»СЊС‚Р°С‚РѕРІ";
+$MESS['FORM_VALIDATOR_VAL_NUM_SELECTED_SETTINGS_NUMBER_FROM'] = "РњРёРЅРёРјР°Р»СЊРЅРѕРµ";
+$MESS['FORM_VALIDATOR_VAL_NUM_SELECTED_SETTINGS_NUMBER_TO'] = "РњР°РєСЃРёРјР°Р»СЊРЅРѕРµ";
+$MESS['FORM_VALIDATOR_VAL_NUM_SELECTED_ERROR_LESS'] = "#FIELD_NAME#: РІС‹Р±СЂР°РЅРѕ СЃР»РёС€РєРѕРј РјР°Р»Рѕ Р·РЅР°С‡РµРЅРёР№";
+$MESS['FORM_VALIDATOR_VAL_NUM_SELECTED_ERROR_MORE'] = "#FIELD_NAME#: РІС‹Р±СЂР°РЅРѕ СЃР»РёС€РєРѕРј РјРЅРѕРіРѕ Р·РЅР°С‡РµРЅРёР№";
 ?>

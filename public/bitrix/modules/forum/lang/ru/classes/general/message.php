@@ -1,17 +1,17 @@
 <?
-$MESS["AVTOR_PREF"] = "Àâòîð:";
-$MESS["F_ERR_EMPTY_FORUM_ID"] = "Íå óêàçàí ôîðóì.";
-$MESS["F_ERR_INVALID_FORUM_ID"] = "Íåâåðíî óêàçàí ôîðóì.";
-$MESS["F_ERR_EMPTY_TOPIC_ID"] = "Íå óêàçàíà òåìà.";
-$MESS["F_ERR_EMPTY_AUTHOR_NAME"] = "Íå óêàçàí àâòîð ñîîáùåíèÿ.";
-$MESS["F_ERR_EMPTY_POST_MESSAGE"] = "Íå óêàçàí òåêñò ñîîáùåíèÿ.";
-$MESS["F_ERR_MESSAGE_ALREADY_EXISTS"] = "Ñîîáùåíèå ñ òàêèì æå òåêñòîì óæå ñóùåñòâóåò â òåìå.";
-$MESS["F_ERR_TOPIC_IS_NOT_EXISTS"] = "Óêàçàííàÿ òåìà íå ñóùåñòâóåò.";
-$MESS["F_ERR_TOPIC_IS_LINK"] = "Óêàçàííàÿ òåìà èìååò ñòàòóñ ññûëêè (â òàêóþ òåìó íåëüçÿ äîáàâëÿòü ñîîáùåíèÿ).";
-$MESS["F_ERR_FORUM_IS_LOST"] = "Ôîðóì íå íàéäåí.";
-$MESS["F_ERR_UPOAD_IS_DENIED"] = "Çàãðóçêà ôàéëîâ â ôîðóì çàïðåùåíà.";
-$MESS["F_ERR_UPOAD_FILES_IS_LOST"] = "Ïðèêðåïëåííûå ôàéë(û): #FILE_ID# íå íàéäåíû.";
-$MESS["F_ATTACHED_FILES"] = "Ïðèêðåïëåííûå ôàéëû:";
-$MESS["F_SONET_MESSAGE_TITLE"] = "äîáàâèë(à) ñîîáùåíèå â òåìå \"#TITLE#\"";
-$MESS["F_SONET_TOPIC_TITLE"] = "ñîçäàë(à) òåìó íà ôîðóìå: \"#TITLE#\"";
+$MESS["AVTOR_PREF"] = "ÐÐ²Ñ‚Ð¾Ñ€:";
+$MESS["F_ERR_EMPTY_FORUM_ID"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ñ„Ð¾Ñ€ÑƒÐ¼.";
+$MESS["F_ERR_INVALID_FORUM_ID"] = "ÐÐµÐ²ÐµÑ€Ð½Ð¾ ÑƒÐºÐ°Ð·Ð°Ð½ Ñ„Ð¾Ñ€ÑƒÐ¼.";
+$MESS["F_ERR_EMPTY_TOPIC_ID"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð° Ñ‚ÐµÐ¼Ð°.";
+$MESS["F_ERR_EMPTY_AUTHOR_NAME"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ð°Ð²Ñ‚Ð¾Ñ€ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ.";
+$MESS["F_ERR_EMPTY_POST_MESSAGE"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ñ‚ÐµÐºÑÑ‚ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ.";
+$MESS["F_ERR_MESSAGE_ALREADY_EXISTS"] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ Ñ Ñ‚Ð°ÐºÐ¸Ð¼ Ð¶Ðµ Ñ‚ÐµÐºÑÑ‚Ð¾Ð¼ ÑƒÐ¶Ðµ ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÐµÑ‚ Ð² Ñ‚ÐµÐ¼Ðµ.";
+$MESS["F_ERR_TOPIC_IS_NOT_EXISTS"] = "Ð£ÐºÐ°Ð·Ð°Ð½Ð½Ð°Ñ Ñ‚ÐµÐ¼Ð° Ð½Ðµ ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÐµÑ‚.";
+$MESS["F_ERR_TOPIC_IS_LINK"] = "Ð£ÐºÐ°Ð·Ð°Ð½Ð½Ð°Ñ Ñ‚ÐµÐ¼Ð° Ð¸Ð¼ÐµÐµÑ‚ ÑÑ‚Ð°Ñ‚ÑƒÑ ÑÑÑ‹Ð»ÐºÐ¸ (Ð² Ñ‚Ð°ÐºÑƒÑŽ Ñ‚ÐµÐ¼Ñƒ Ð½ÐµÐ»ÑŒÐ·Ñ Ð´Ð¾Ð±Ð°Ð²Ð»ÑÑ‚ÑŒ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ).";
+$MESS["F_ERR_FORUM_IS_LOST"] = "Ð¤Ð¾Ñ€ÑƒÐ¼ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½.";
+$MESS["F_ERR_UPOAD_IS_DENIED"] = "Ð—Ð°Ð³Ñ€ÑƒÐ·ÐºÐ° Ñ„Ð°Ð¹Ð»Ð¾Ð² Ð² Ñ„Ð¾Ñ€ÑƒÐ¼ Ð·Ð°Ð¿Ñ€ÐµÑ‰ÐµÐ½Ð°.";
+$MESS["F_ERR_UPOAD_FILES_IS_LOST"] = "ÐŸÑ€Ð¸ÐºÑ€ÐµÐ¿Ð»ÐµÐ½Ð½Ñ‹Ðµ Ñ„Ð°Ð¹Ð»(Ñ‹): #FILE_ID# Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ñ‹.";
+$MESS["F_ATTACHED_FILES"] = "ÐŸÑ€Ð¸ÐºÑ€ÐµÐ¿Ð»ÐµÐ½Ð½Ñ‹Ðµ Ñ„Ð°Ð¹Ð»Ñ‹:";
+$MESS["F_SONET_MESSAGE_TITLE"] = "Ð´Ð¾Ð±Ð°Ð²Ð¸Ð»(Ð°) ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ Ð² Ñ‚ÐµÐ¼Ðµ \"#TITLE#\"";
+$MESS["F_SONET_TOPIC_TITLE"] = "ÑÐ¾Ð·Ð´Ð°Ð»(Ð°) Ñ‚ÐµÐ¼Ñƒ Ð½Ð° Ñ„Ð¾Ñ€ÑƒÐ¼Ðµ: \"#TITLE#\"";
 ?>

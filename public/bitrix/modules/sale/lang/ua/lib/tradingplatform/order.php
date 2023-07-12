@@ -1,8 +1,8 @@
 <?php
-$MESS["TRADING_PLATFORM_ORDER_ENTITY_EXTERNAL_ORDER_ID_FIELD"] = "Çîâí³øí³é ³äåíòèô³êàòîð çàìîâëåííÿ";
-$MESS["TRADING_PLATFORM_ORDER_ENTITY_ID_FIELD"] = "²äåíòèô³êàòîð çàïèñó";
-$MESS["TRADING_PLATFORM_ORDER_ENTITY_ORDER_FIELD"] = "Çàìîâëåííÿ";
-$MESS["TRADING_PLATFORM_ORDER_ENTITY_ORDER_ID_FIELD"] = "²äåíòèô³êàòîð çàìîâëåííÿ";
-$MESS["TRADING_PLATFORM_ORDER_ENTITY_PARAMS_FIELD"] = "Ïàðàìåòðè";
-$MESS["TRADING_PLATFORM_ORDER_ENTITY_TRADING_PLATFORM_FIELD"] = "Òîðãîâà ïëàòôîðìà";
-$MESS["TRADING_PLATFORM_ORDER_ENTITY_TRADING_PLATFORM_ID_FIELD"] = "²äåíòèô³êàòîð òîðãîâî¿ ïëàòôîðìè";
+$MESS["TRADING_PLATFORM_ORDER_ENTITY_EXTERNAL_ORDER_ID_FIELD"] = "Ð—Ð¾Ð²Ð½Ñ–ÑˆÐ½Ñ–Ð¹ Ñ–Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÐ°Ñ‚Ð¾Ñ€ Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ";
+$MESS["TRADING_PLATFORM_ORDER_ENTITY_ID_FIELD"] = "Ð†Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÐ°Ñ‚Ð¾Ñ€ Ð·Ð°Ð¿Ð¸ÑÑƒ";
+$MESS["TRADING_PLATFORM_ORDER_ENTITY_ORDER_FIELD"] = "Ð—Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ";
+$MESS["TRADING_PLATFORM_ORDER_ENTITY_ORDER_ID_FIELD"] = "Ð†Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÐ°Ñ‚Ð¾Ñ€ Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ";
+$MESS["TRADING_PLATFORM_ORDER_ENTITY_PARAMS_FIELD"] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð¸";
+$MESS["TRADING_PLATFORM_ORDER_ENTITY_TRADING_PLATFORM_FIELD"] = "Ð¢Ð¾Ñ€Ð³Ð¾Ð²Ð° Ð¿Ð»Ð°Ñ‚Ñ„Ð¾Ñ€Ð¼Ð°";
+$MESS["TRADING_PLATFORM_ORDER_ENTITY_TRADING_PLATFORM_ID_FIELD"] = "Ð†Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÐ°Ñ‚Ð¾Ñ€ Ñ‚Ð¾Ñ€Ð³Ð¾Ð²Ð¾Ñ— Ð¿Ð»Ð°Ñ‚Ñ„Ð¾Ñ€Ð¼Ð¸";

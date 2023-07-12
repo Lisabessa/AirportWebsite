@@ -1,8 +1,8 @@
 <?
-$MESS["BX_CATALOG_MODEL_PRODUCT_ERR_WRONG_PRODUCT_ID"] = "Íå óêàçàí ID òîâàðà";
-$MESS["BX_CATALOG_MODEL_PRODUCT_ERR_ELEMENT_NOT_EXISTS"] = "Íå íàéäåí ýëåìåíò èíôîáëîêà, äëÿ êîòîðîãî ñîçäàþòñÿ õàðàêòåðèñòèêè òîâàðà";
-$MESS["BX_CATALOG_MODEL_PRODUCT_ERR_SIMPLE_IBLOCK"] = "Èíôîáëîê íå îòíîñèòñÿ ê ìîäóëþ Òîðãîâûé êàòàëîã";
-$MESS["BX_CATALOG_MODEL_PRODUCT_ERR_BAD_PRODUCT_TYPE"] = "Íåâåðíûé òèï òîâàðà";
-$MESS["BX_CATALOG_MODEL_PRODUCT_ERR_WRONG_PURCHASING_CURRENCY"] = "Ïóñòàÿ âàëþòà ñåáåñòîèìîñòè";
-$MESS["BX_CATALOG_MODEL_PRODUCT_ERR_BAD_NUMERIC_FIELD"] = "Ïîëå #FIELD# ñîäåðæèò íåâàëèäíûå äàííûå";
+$MESS["BX_CATALOG_MODEL_PRODUCT_ERR_WRONG_PRODUCT_ID"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ ID Ñ‚Ð¾Ð²Ð°Ñ€Ð°";
+$MESS["BX_CATALOG_MODEL_PRODUCT_ERR_ELEMENT_NOT_EXISTS"] = "ÐÐµ Ð½Ð°Ð¹Ð´ÐµÐ½ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚ Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ°, Ð´Ð»Ñ ÐºÐ¾Ñ‚Ð¾Ñ€Ð¾Ð³Ð¾ ÑÐ¾Ð·Ð´Ð°ÑŽÑ‚ÑÑ Ñ…Ð°Ñ€Ð°ÐºÑ‚ÐµÑ€Ð¸ÑÑ‚Ð¸ÐºÐ¸ Ñ‚Ð¾Ð²Ð°Ñ€Ð°";
+$MESS["BX_CATALOG_MODEL_PRODUCT_ERR_SIMPLE_IBLOCK"] = "Ð˜Ð½Ñ„Ð¾Ð±Ð»Ð¾Ðº Ð½Ðµ Ð¾Ñ‚Ð½Ð¾ÑÐ¸Ñ‚ÑÑ Ðº Ð¼Ð¾Ð´ÑƒÐ»ÑŽ Ð¢Ð¾Ñ€Ð³Ð¾Ð²Ñ‹Ð¹ ÐºÐ°Ñ‚Ð°Ð»Ð¾Ð³";
+$MESS["BX_CATALOG_MODEL_PRODUCT_ERR_BAD_PRODUCT_TYPE"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ñ‚Ð¸Ð¿ Ñ‚Ð¾Ð²Ð°Ñ€Ð°";
+$MESS["BX_CATALOG_MODEL_PRODUCT_ERR_WRONG_PURCHASING_CURRENCY"] = "ÐŸÑƒÑÑ‚Ð°Ñ Ð²Ð°Ð»ÑŽÑ‚Ð° ÑÐµÐ±ÐµÑÑ‚Ð¾Ð¸Ð¼Ð¾ÑÑ‚Ð¸";
+$MESS["BX_CATALOG_MODEL_PRODUCT_ERR_BAD_NUMERIC_FIELD"] = "ÐŸÐ¾Ð»Ðµ #FIELD# ÑÐ¾Ð´ÐµÑ€Ð¶Ð¸Ñ‚ Ð½ÐµÐ²Ð°Ð»Ð¸Ð´Ð½Ñ‹Ðµ Ð´Ð°Ð½Ð½Ñ‹Ðµ";
 ?>

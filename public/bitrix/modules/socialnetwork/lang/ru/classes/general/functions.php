@@ -1,19 +1,19 @@
 <?
-$MESS["SONET_QUOTE"] = "Öèòàòà";
-$MESS["SONET_CODE"] = "Êîä";
-$MESS["FRM_IMAGE_ALT"] = "Èçîáðàæåíèå";
-$MESS["SONET_NAME_TEMPLATE_SMITH_JOHN"] = "Ïåòðîâ Èâàí";
-$MESS["SONET_NAME_TEMPLATE_SMITH_JOHN_LLOYD"] = "Ïåòðîâ Èâàí Âàñèëüåâè÷";
-$MESS["SONET_NAME_TEMPLATE_SMITH_COMMA_JOHN_LLOYD"] = "Ïåòðîâ, Èâàí Âàñèëüåâè÷";
-$MESS["SONET_NAME_TEMPLATE_JOHN_LLOYD_SMITH"] = "Èâàí Âàñèëüåâè÷ Ïåòðîâ";
-$MESS["SONET_NAME_TEMPLATE_J_L_SMITH"] = "È. Â. Ïåòðîâ";
-$MESS["SONET_NAME_TEMPLATE_J_SMITH"] = "È. Ïåòðîâ";
-$MESS["SONET_NAME_TEMPLATE_SMITH_J"] = "Ïåòðîâ È.";
-$MESS["SONET_NAME_TEMPLATE_SMITH_J_L"] = "Ïåòðîâ È. Â.";
-$MESS["SONET_NAME_TEMPLATE_SMITH_COMMA_J"] = "Ïåòðîâ, È.";
-$MESS["SONET_NAME_TEMPLATE_SMITH_COMMA_J_L"] = "Ïåòðîâ, È. Â.";
-$MESS["SONET_NAME_TEMPLATE_JOHN_SMITH"] = "Èâàí Ïåòðîâ";
-$MESS["SONET_NAME_TEMPLATE_JOHN_L_SMITH"] = "Èâàí Â. Ïåòðîâ";
+$MESS["SONET_QUOTE"] = "Ð¦Ð¸Ñ‚Ð°Ñ‚Ð°";
+$MESS["SONET_CODE"] = "ÐšÐ¾Ð´";
+$MESS["FRM_IMAGE_ALT"] = "Ð˜Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ðµ";
+$MESS["SONET_NAME_TEMPLATE_SMITH_JOHN"] = "ÐŸÐµÑ‚Ñ€Ð¾Ð² Ð˜Ð²Ð°Ð½";
+$MESS["SONET_NAME_TEMPLATE_SMITH_JOHN_LLOYD"] = "ÐŸÐµÑ‚Ñ€Ð¾Ð² Ð˜Ð²Ð°Ð½ Ð’Ð°ÑÐ¸Ð»ÑŒÐµÐ²Ð¸Ñ‡";
+$MESS["SONET_NAME_TEMPLATE_SMITH_COMMA_JOHN_LLOYD"] = "ÐŸÐµÑ‚Ñ€Ð¾Ð², Ð˜Ð²Ð°Ð½ Ð’Ð°ÑÐ¸Ð»ÑŒÐµÐ²Ð¸Ñ‡";
+$MESS["SONET_NAME_TEMPLATE_JOHN_LLOYD_SMITH"] = "Ð˜Ð²Ð°Ð½ Ð’Ð°ÑÐ¸Ð»ÑŒÐµÐ²Ð¸Ñ‡ ÐŸÐµÑ‚Ñ€Ð¾Ð²";
+$MESS["SONET_NAME_TEMPLATE_J_L_SMITH"] = "Ð˜. Ð’. ÐŸÐµÑ‚Ñ€Ð¾Ð²";
+$MESS["SONET_NAME_TEMPLATE_J_SMITH"] = "Ð˜. ÐŸÐµÑ‚Ñ€Ð¾Ð²";
+$MESS["SONET_NAME_TEMPLATE_SMITH_J"] = "ÐŸÐµÑ‚Ñ€Ð¾Ð² Ð˜.";
+$MESS["SONET_NAME_TEMPLATE_SMITH_J_L"] = "ÐŸÐµÑ‚Ñ€Ð¾Ð² Ð˜. Ð’.";
+$MESS["SONET_NAME_TEMPLATE_SMITH_COMMA_J"] = "ÐŸÐµÑ‚Ñ€Ð¾Ð², Ð˜.";
+$MESS["SONET_NAME_TEMPLATE_SMITH_COMMA_J_L"] = "ÐŸÐµÑ‚Ñ€Ð¾Ð², Ð˜. Ð’.";
+$MESS["SONET_NAME_TEMPLATE_JOHN_SMITH"] = "Ð˜Ð²Ð°Ð½ ÐŸÐµÑ‚Ñ€Ð¾Ð²";
+$MESS["SONET_NAME_TEMPLATE_JOHN_L_SMITH"] = "Ð˜Ð²Ð°Ð½ Ð’. ÐŸÐµÑ‚Ñ€Ð¾Ð²";
 $MESS["SONET_BIRTHDAY_DAY_TEMPLATE"] = "#DAY# #MONTH_LOW# #YEAR#";
 $MESS["SONET_BIRTHDAY_DAY_TEMPLATE_WO_YEAR"] = "#DAY# #MONTH_LOW#";
 ?>

@@ -1,3 +1,3 @@
 <?php
-$MESS["SALE_PAYABLE_ITEM_COLLECTION_INCOMPATIBLE_ITEM_TYPE"] = "Íåêîðåêòíèé òèï ñóòíîñò³. Êîëåêö³ÿ ï³äòðèìóº îá'ºêòè #CLASS#";
-$MESS["SALE_PAYABLE_ITEM_COLLECTION_ITEM_ALREADY_ADD"] = "Åëåìåíò óæå ïðèñóòí³é ó êîëåêö³¿";
+$MESS["SALE_PAYABLE_ITEM_COLLECTION_INCOMPATIBLE_ITEM_TYPE"] = "ÐÐµÐºÐ¾Ñ€ÐµÐºÑ‚Ð½Ð¸Ð¹ Ñ‚Ð¸Ð¿ ÑÑƒÑ‚Ð½Ð¾ÑÑ‚Ñ–. ÐšÐ¾Ð»ÐµÐºÑ†Ñ–Ñ Ð¿Ñ–Ð´Ñ‚Ñ€Ð¸Ð¼ÑƒÑ” Ð¾Ð±'Ñ”ÐºÑ‚Ð¸ #CLASS#";
+$MESS["SALE_PAYABLE_ITEM_COLLECTION_ITEM_ALREADY_ADD"] = "Ð•Ð»ÐµÐ¼ÐµÐ½Ñ‚ ÑƒÐ¶Ðµ Ð¿Ñ€Ð¸ÑÑƒÑ‚Ð½Ñ–Ð¹ Ñƒ ÐºÐ¾Ð»ÐµÐºÑ†Ñ–Ñ—";

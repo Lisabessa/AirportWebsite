@@ -1,5 +1,5 @@
 <?
-$MESS ['SCALE_MENU_ITEM'] = "Óïðàâëåíèå ìàñøòàáèðîâàíèåì";
-$MESS ['SCALE_MENU_PANEL_ITEM'] = "Ïàíåëü óïðàâëåíèÿ";
-$MESS ['SCALE_MENU_GRAPH_ITEM'] = "Ãðàôèêè íàãðóçêè";
-$MESS ['SCALE_MENU_ORDER_ITEM'] = "Ñïèñîê çàêàçîâ";
+$MESS ['SCALE_MENU_ITEM'] = "Ð£Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ð¼Ð°ÑÑˆÑ‚Ð°Ð±Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸ÐµÐ¼";
+$MESS ['SCALE_MENU_PANEL_ITEM'] = "ÐŸÐ°Ð½ÐµÐ»ÑŒ ÑƒÐ¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ñ";
+$MESS ['SCALE_MENU_GRAPH_ITEM'] = "Ð“Ñ€Ð°Ñ„Ð¸ÐºÐ¸ Ð½Ð°Ð³Ñ€ÑƒÐ·ÐºÐ¸";
+$MESS ['SCALE_MENU_ORDER_ITEM'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð·Ð°ÐºÐ°Ð·Ð¾Ð²";

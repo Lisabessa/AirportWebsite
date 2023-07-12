@@ -1,15 +1,15 @@
 <?php
 
-$MESS['MAIL_MAILSERVICE_SITE_ID'] = 'Ñàéò';
-$MESS['MAIL_MAILSERVICE_ACTIVE'] = 'Àêòèâíîñòü';
-$MESS['MAIL_MAILSERVICE_NAME'] = 'Íàçâàíèå';
-$MESS['MAIL_MAILSERVICE_SERVER'] = 'Àäðåñ ñåðâåðà';
-$MESS['MAIL_MAILSERVICE_PORT'] = 'Ïîðò';
-$MESS['MAIL_MAILSERVICE_ENCRYPTION'] = 'Çàùèùåííîå ñîåäèíåíèå';
-$MESS['MAIL_MAILSERVICE_LINK'] = 'Àäðåñ âåá-èíòåðôåéñà';
-$MESS['MAIL_MAILSERVICE_ICON'] = 'Ëîãîòèï';
-$MESS['MAIL_MAILSERVICE_SORT'] = 'Ñîðòèðîâêà';
+$MESS['MAIL_MAILSERVICE_SITE_ID'] = 'Ð¡Ð°Ð¹Ñ‚';
+$MESS['MAIL_MAILSERVICE_ACTIVE'] = 'ÐÐºÑ‚Ð¸Ð²Ð½Ð¾ÑÑ‚ÑŒ';
+$MESS['MAIL_MAILSERVICE_NAME'] = 'ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ';
+$MESS['MAIL_MAILSERVICE_SERVER'] = 'ÐÐ´Ñ€ÐµÑ ÑÐµÑ€Ð²ÐµÑ€Ð°';
+$MESS['MAIL_MAILSERVICE_PORT'] = 'ÐŸÐ¾Ñ€Ñ‚';
+$MESS['MAIL_MAILSERVICE_ENCRYPTION'] = 'Ð—Ð°Ñ‰Ð¸Ñ‰ÐµÐ½Ð½Ð¾Ðµ ÑÐ¾ÐµÐ´Ð¸Ð½ÐµÐ½Ð¸Ðµ';
+$MESS['MAIL_MAILSERVICE_LINK'] = 'ÐÐ´Ñ€ÐµÑ Ð²ÐµÐ±-Ð¸Ð½Ñ‚ÐµÑ€Ñ„ÐµÐ¹ÑÐ°';
+$MESS['MAIL_MAILSERVICE_ICON'] = 'Ð›Ð¾Ð³Ð¾Ñ‚Ð¸Ð¿';
+$MESS['MAIL_MAILSERVICE_SORT'] = 'Ð¡Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²ÐºÐ°';
 
-$MESS['MAIL_MAILSERVICE_EMPTY_ID'] = 'Íå óêàçàí ID ïî÷òîâîãî ñåðâèñà';
-$MESS['MAIL_MAILSERVICE_EMPTY'] = 'Íå íàéäåí ïî÷òîâûé ñåðâèñ';
-$MESS['MAIL_MAILSERVICE_LIST_EMPTY'] = 'Íå íàéäåíû ïî÷òîâûå ñåðâèñû';
+$MESS['MAIL_MAILSERVICE_EMPTY_ID'] = 'ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ ID Ð¿Ð¾Ñ‡Ñ‚Ð¾Ð²Ð¾Ð³Ð¾ ÑÐµÑ€Ð²Ð¸ÑÐ°';
+$MESS['MAIL_MAILSERVICE_EMPTY'] = 'ÐÐµ Ð½Ð°Ð¹Ð´ÐµÐ½ Ð¿Ð¾Ñ‡Ñ‚Ð¾Ð²Ñ‹Ð¹ ÑÐµÑ€Ð²Ð¸Ñ';
+$MESS['MAIL_MAILSERVICE_LIST_EMPTY'] = 'ÐÐµ Ð½Ð°Ð¹Ð´ÐµÐ½Ñ‹ Ð¿Ð¾Ñ‡Ñ‚Ð¾Ð²Ñ‹Ðµ ÑÐµÑ€Ð²Ð¸ÑÑ‹';

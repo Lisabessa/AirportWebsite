@@ -1,3 +1,3 @@
 <?
-$MESS["SALE_LOCATION_ADMIN_NAME_HELPER_ENTITY_UNKNOWN_LANGUAGE_ID_ERROR"] = "Íåâ³äîìèé ³äåíòèô³êàòîð ìîâè";
+$MESS["SALE_LOCATION_ADMIN_NAME_HELPER_ENTITY_UNKNOWN_LANGUAGE_ID_ERROR"] = "ÐÐµÐ²Ñ–Ð´Ð¾Ð¼Ð¸Ð¹ Ñ–Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ñ–ÐºÐ°Ñ‚Ð¾Ñ€ Ð¼Ð¾Ð²Ð¸";
 ?>

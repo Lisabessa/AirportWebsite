@@ -1,4 +1,4 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Пользовательское соглашение");
-?>Разместите текст о правилах на вашем портале.<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
+$APPLICATION->SetTitle("РџРѕР»СЊР·РѕРІР°С‚РµР»СЊСЃРєРѕРµ СЃРѕРіР»Р°С€РµРЅРёРµ");
+?>Р Р°Р·РјРµСЃС‚РёС‚Рµ С‚РµРєСЃС‚ Рѕ РїСЂР°РІРёР»Р°С… РЅР° РІР°С€РµРј РїРѕСЂС‚Р°Р»Рµ.<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

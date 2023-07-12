@@ -1,8 +1,8 @@
 <?php
-$MESS["SALE_HANDLERS_PAY_SYSTEM_GOOGLE_PAY_DESCRIPTION"] = "Сумма к оплате: ";
-$MESS["SALE_HANDLERS_PAY_SYSTEM_GOOGLE_PAY_WARNING_RETURN"] = "<b>Обратите внимание:</b> если вы откажетесь от покупки, для возврата денег вам придется обратиться в магазин.";
-$MESS["SALE_HANDLERS_PAY_SYSTEM_GOOGLE_PAY_ORDER"] = "Заказ";
-$MESS["SALE_HANDLERS_PAY_SYSTEM_GOOGLE_PAY_NOT_AVAILABLE"] = "Платёжная система Google Pay не доступна";
-$MESS["SALE_HANDLERS_PAY_SYSTEM_GOOGLE_PAY_MESSAGE_APPROVED"] = "Операция оплаты по данному заказу успешно завершена";
-$MESS["SALE_HANDLERS_PAY_SYSTEM_GOOGLE_PAY_MESSAGE_PAY_SYSTEM"] = "Способ оплаты: Google Pay";
-$MESS["SALE_HANDLERS_PAY_SYSTEM_GOOGLE_PAY_AJAX_FAILURE"] = "К сожалению, произошла ошибка. Выберите другой способ оплаты или обратитесь к менеджеру компании.";
+$MESS["SALE_HANDLERS_PAY_SYSTEM_GOOGLE_PAY_DESCRIPTION"] = "РЎСѓРјРјР° Рє РѕРїР»Р°С‚Рµ: ";
+$MESS["SALE_HANDLERS_PAY_SYSTEM_GOOGLE_PAY_WARNING_RETURN"] = "<b>РћР±СЂР°С‚РёС‚Рµ РІРЅРёРјР°РЅРёРµ:</b> РµСЃР»Рё РІС‹ РѕС‚РєР°Р¶РµС‚РµСЃСЊ РѕС‚ РїРѕРєСѓРїРєРё, РґР»СЏ РІРѕР·РІСЂР°С‚Р° РґРµРЅРµРі РІР°Рј РїСЂРёРґРµС‚СЃСЏ РѕР±СЂР°С‚РёС‚СЊСЃСЏ РІ РјР°РіР°Р·РёРЅ.";
+$MESS["SALE_HANDLERS_PAY_SYSTEM_GOOGLE_PAY_ORDER"] = "Р—Р°РєР°Р·";
+$MESS["SALE_HANDLERS_PAY_SYSTEM_GOOGLE_PAY_NOT_AVAILABLE"] = "РџР»Р°С‚С‘Р¶РЅР°СЏ СЃРёСЃС‚РµРјР° Google Pay РЅРµ РґРѕСЃС‚СѓРїРЅР°";
+$MESS["SALE_HANDLERS_PAY_SYSTEM_GOOGLE_PAY_MESSAGE_APPROVED"] = "РћРїРµСЂР°С†РёСЏ РѕРїР»Р°С‚С‹ РїРѕ РґР°РЅРЅРѕРјСѓ Р·Р°РєР°Р·Сѓ СѓСЃРїРµС€РЅРѕ Р·Р°РІРµСЂС€РµРЅР°";
+$MESS["SALE_HANDLERS_PAY_SYSTEM_GOOGLE_PAY_MESSAGE_PAY_SYSTEM"] = "РЎРїРѕСЃРѕР± РѕРїР»Р°С‚С‹: Google Pay";
+$MESS["SALE_HANDLERS_PAY_SYSTEM_GOOGLE_PAY_AJAX_FAILURE"] = "Рљ СЃРѕР¶Р°Р»РµРЅРёСЋ, РїСЂРѕРёР·РѕС€Р»Р° РѕС€РёР±РєР°. Р’С‹Р±РµСЂРёС‚Рµ РґСЂСѓРіРѕР№ СЃРїРѕСЃРѕР± РѕРїР»Р°С‚С‹ РёР»Рё РѕР±СЂР°С‚РёС‚РµСЃСЊ Рє РјРµРЅРµРґР¶РµСЂСѓ РєРѕРјРїР°РЅРёРё.";

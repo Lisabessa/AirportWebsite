@@ -1,3 +1,3 @@
 <?
-$MESS["BX_CATALOG_EXPORT_CSV_ERR_CANNOT_OPEN_FILE_FOR_CONTINUE_EXPORT"] = "Íåâîçìîæíî îòêðûòü ôàéë äëÿ ïðîäîëæåíèÿ ýêñïîðòà";
+$MESS["BX_CATALOG_EXPORT_CSV_ERR_CANNOT_OPEN_FILE_FOR_CONTINUE_EXPORT"] = "ÐÐµÐ²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ Ð¾Ñ‚ÐºÑ€Ñ‹Ñ‚ÑŒ Ñ„Ð°Ð¹Ð» Ð´Ð»Ñ Ð¿Ñ€Ð¾Ð´Ð¾Ð»Ð¶ÐµÐ½Ð¸Ñ ÑÐºÑÐ¿Ð¾Ñ€Ñ‚Ð°";
 ?>

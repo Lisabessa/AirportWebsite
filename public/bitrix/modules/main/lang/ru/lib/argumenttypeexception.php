@@ -1,3 +1,3 @@
 <?php
-$MESS["argument_type_real_exception_message"] = "Àðãóìåíò '#PARAMETER#' äîëæåí èìåòü òèï #REQUIRED_TYPE#";
-$MESS["argument_type_exception_message"] = "Àðãóìåíò '#PARAMETER#' èìååò íå âåðíûé òèï";
+$MESS["argument_type_real_exception_message"] = "ÐÑ€Ð³ÑƒÐ¼ÐµÐ½Ñ‚ '#PARAMETER#' Ð´Ð¾Ð»Ð¶ÐµÐ½ Ð¸Ð¼ÐµÑ‚ÑŒ Ñ‚Ð¸Ð¿ #REQUIRED_TYPE#";
+$MESS["argument_type_exception_message"] = "ÐÑ€Ð³ÑƒÐ¼ÐµÐ½Ñ‚ '#PARAMETER#' Ð¸Ð¼ÐµÐµÑ‚ Ð½Ðµ Ð²ÐµÑ€Ð½Ñ‹Ð¹ Ñ‚Ð¸Ð¿";

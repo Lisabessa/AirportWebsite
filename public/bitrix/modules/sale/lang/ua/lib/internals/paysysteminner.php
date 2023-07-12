@@ -1,5 +1,5 @@
 <?
-$MESS["ORDER_PS_INNER_ERROR_INSUFFICIENT_MONEY"] = "Íåäîñòàòíÿ ñóìà íà âíóòð³øíüîìó ðàõóíêó";
-$MESS["ORDER_PS_INNER_NAME"] = "Âíóòð³øí³é ðàõóíîê";
-$MESS["ORDER_PS_INNER_DESCRIPTION"] = "Ðîáîòà ç âíóòð³øí³ì ðàõóíêîì êë³ºíòà";
+$MESS["ORDER_PS_INNER_ERROR_INSUFFICIENT_MONEY"] = "ÐÐµÐ´Ð¾ÑÑ‚Ð°Ñ‚Ð½Ñ ÑÑƒÐ¼Ð° Ð½Ð° Ð²Ð½ÑƒÑ‚Ñ€Ñ–ÑˆÐ½ÑŒÐ¾Ð¼Ñƒ Ñ€Ð°Ñ…ÑƒÐ½ÐºÑƒ";
+$MESS["ORDER_PS_INNER_NAME"] = "Ð’Ð½ÑƒÑ‚Ñ€Ñ–ÑˆÐ½Ñ–Ð¹ Ñ€Ð°Ñ…ÑƒÐ½Ð¾Ðº";
+$MESS["ORDER_PS_INNER_DESCRIPTION"] = "Ð Ð¾Ð±Ð¾Ñ‚Ð° Ð· Ð²Ð½ÑƒÑ‚Ñ€Ñ–ÑˆÐ½Ñ–Ð¼ Ñ€Ð°Ñ…ÑƒÐ½ÐºÐ¾Ð¼ ÐºÐ»Ñ–Ñ”Ð½Ñ‚Ð°";
 ?>

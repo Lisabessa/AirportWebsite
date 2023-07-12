@@ -1,7 +1,7 @@
 <?
-$MESS["SALE_LOCATION_BROWSE_TITLE"] = "Äåðåâî ìåñòîïîëîæåíèé 2.0";
-$MESS["SALE_LOCATION_BROWSE_TAB"] = "Äåðåâî ìåñòîïîëîæåíèé";
+$MESS["SALE_LOCATION_BROWSE_TITLE"] = "Ð”ÐµÑ€ÐµÐ²Ð¾ Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹ 2.0";
+$MESS["SALE_LOCATION_BROWSE_TAB"] = "Ð”ÐµÑ€ÐµÐ²Ð¾ Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹";
 $MESS["SALE_LOCATION_BROWSE_HELP"] = "";
-$MESS["SALE_LOCATION_BROWSE_FAIL"] = "Ïðîèçîøëà îøèáêà";
-$MESS["SALE_LOCATION_AJAX_FAIL"] = "Ïðîèçîøëà îøèáêà AJAX";
+$MESS["SALE_LOCATION_BROWSE_FAIL"] = "ÐŸÑ€Ð¾Ð¸Ð·Ð¾ÑˆÐ»Ð° Ð¾ÑˆÐ¸Ð±ÐºÐ°";
+$MESS["SALE_LOCATION_AJAX_FAIL"] = "ÐŸÑ€Ð¾Ð¸Ð·Ð¾ÑˆÐ»Ð° Ð¾ÑˆÐ¸Ð±ÐºÐ° AJAX";
 ?>

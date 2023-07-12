@@ -1,8 +1,8 @@
 <?php
-$MESS["SKGOUP_EMPTY_PERS_TYPE"] = "Íå âñòàíîâëåíî òèï ïëàòíèêà";
-$MESS["SKGOUP_NO_USER_ID"] = "Íå çàçíà÷åíî êîä êîðèñòóâà÷à";
-$MESS["SKGOUP_PARRAMS_ERROR"] = "Ïàðàìåòðè âèêëèêó ìåòîäó íå êîðåêòí³";
-$MESS["SKGOUP_PROFILE_CREATE_ERROR"] = "Íå âäàëîñÿ ñòâîðèòè ïðîô³ëü ïîêóïöÿ";
-$MESS["SKGOUP_PROFILE_NOT_FOUND"] = "Ïðîô³ëü íå çíàéäåíî";
-$MESS["SKGOUP_UNAUTH"] = "Âè íå àâòîðèçîâàí³";
-$MESS["SOA_PROFILE"] = "Ïðîô³ëü";
+$MESS["SKGOUP_EMPTY_PERS_TYPE"] = "ÐÐµ Ð²ÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð¾ Ñ‚Ð¸Ð¿ Ð¿Ð»Ð°Ñ‚Ð½Ð¸ÐºÐ°";
+$MESS["SKGOUP_NO_USER_ID"] = "ÐÐµ Ð·Ð°Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¾ ÐºÐ¾Ð´ ÐºÐ¾Ñ€Ð¸ÑÑ‚ÑƒÐ²Ð°Ñ‡Ð°";
+$MESS["SKGOUP_PARRAMS_ERROR"] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð¸ Ð²Ð¸ÐºÐ»Ð¸ÐºÑƒ Ð¼ÐµÑ‚Ð¾Ð´Ñƒ Ð½Ðµ ÐºÐ¾Ñ€ÐµÐºÑ‚Ð½Ñ–";
+$MESS["SKGOUP_PROFILE_CREATE_ERROR"] = "ÐÐµ Ð²Ð´Ð°Ð»Ð¾ÑÑ ÑÑ‚Ð²Ð¾Ñ€Ð¸Ñ‚Ð¸ Ð¿Ñ€Ð¾Ñ„Ñ–Ð»ÑŒ Ð¿Ð¾ÐºÑƒÐ¿Ñ†Ñ";
+$MESS["SKGOUP_PROFILE_NOT_FOUND"] = "ÐŸÑ€Ð¾Ñ„Ñ–Ð»ÑŒ Ð½Ðµ Ð·Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾";
+$MESS["SKGOUP_UNAUTH"] = "Ð’Ð¸ Ð½Ðµ Ð°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·Ð¾Ð²Ð°Ð½Ñ–";
+$MESS["SOA_PROFILE"] = "ÐŸÑ€Ð¾Ñ„Ñ–Ð»ÑŒ";

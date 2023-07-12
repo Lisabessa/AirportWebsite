@@ -1,2 +1,2 @@
 <?php
-$MESS["MAIL_USER_SIGNATURE_LIMIT"] = "Ñëèøêîì ìíîãî ïîäïèñåé";
+$MESS["MAIL_USER_SIGNATURE_LIMIT"] = "Ð¡Ð»Ð¸ÑˆÐºÐ¾Ð¼ Ð¼Ð½Ð¾Ð³Ð¾ Ð¿Ð¾Ð´Ð¿Ð¸ÑÐµÐ¹";

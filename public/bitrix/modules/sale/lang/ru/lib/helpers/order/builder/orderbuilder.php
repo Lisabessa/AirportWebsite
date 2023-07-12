@@ -1,10 +1,10 @@
 <?
-$MESS["SALE_HLP_ORDERBUILDER_SHIPMENT_NOT_FOUND"] = "Îòãðóçêà íå íàéäåíà";
-$MESS["SALE_HLP_ORDERBUILDER_PAYMENT_NOT_FOUND"] = "Îïëàòà íå íàéäåíà";
-$MESS["SALE_HLP_ORDERBUILDER_DATE_FORMAT_ERROR"] = "Íåêîððåêòíûé ôîðìàò äàòû äîêóìåíòà";
-$MESS["SALE_HLP_ORDERBUILDER_DELIVERY_NOT_FOUND"] = "Ñëóæáà äîñòàâêè íå íàéäåíà";
-$MESS["SALE_HLP_ORDERBUILDER_DATE_FORMAT_RES_ERROR"] = "Îøèáêà ôîðìàòà äàòû âîçâðàòà";
-$MESS["SALE_HLP_ORDERBUILDER_DATE_FORMAT_VOU_ERROR"] = "Íåêîððåêòíûé ôîðìàò äàòû äîêóìåíòà ïðèõîäà";
-$MESS["SALE_HLP_ORDERBUILDER_ERROR_PAYMENT_SUM"] = "Íåëüçÿ èçìåíèòü ñóììó îïëàòû, åñëè óñòàíîâëåí ñòàòóñ \"Îïëà÷åíî\"";
-$MESS["SALE_HLP_ORDERBUILDER_ERROR_PAYSYSTEM_SERVICE"] = "Ïëàòåæíàÿ ñèñòåìà íå ïîïàäàåò ïîä îãðàíè÷åíèÿ";
-$MESS["SALE_HLP_ORDERBUILDER_ERROR_SHIPMENT_SERVICE"] = "Ñëóæáà äîñòàâêè íå ïîïàäàåò ïîä îãðàíè÷åíèÿ";
+$MESS["SALE_HLP_ORDERBUILDER_SHIPMENT_NOT_FOUND"] = "ÐžÑ‚Ð³Ñ€ÑƒÐ·ÐºÐ° Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð°";
+$MESS["SALE_HLP_ORDERBUILDER_PAYMENT_NOT_FOUND"] = "ÐžÐ¿Ð»Ð°Ñ‚Ð° Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð°";
+$MESS["SALE_HLP_ORDERBUILDER_DATE_FORMAT_ERROR"] = "ÐÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ñ‹Ð¹ Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚ Ð´Ð°Ñ‚Ñ‹ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð°";
+$MESS["SALE_HLP_ORDERBUILDER_DELIVERY_NOT_FOUND"] = "Ð¡Ð»ÑƒÐ¶Ð±Ð° Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð°";
+$MESS["SALE_HLP_ORDERBUILDER_DATE_FORMAT_RES_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚Ð° Ð´Ð°Ñ‚Ñ‹ Ð²Ð¾Ð·Ð²Ñ€Ð°Ñ‚Ð°";
+$MESS["SALE_HLP_ORDERBUILDER_DATE_FORMAT_VOU_ERROR"] = "ÐÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ñ‹Ð¹ Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚ Ð´Ð°Ñ‚Ñ‹ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð° Ð¿Ñ€Ð¸Ñ…Ð¾Ð´Ð°";
+$MESS["SALE_HLP_ORDERBUILDER_ERROR_PAYMENT_SUM"] = "ÐÐµÐ»ÑŒÐ·Ñ Ð¸Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ ÑÑƒÐ¼Ð¼Ñƒ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹, ÐµÑÐ»Ð¸ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½ ÑÑ‚Ð°Ñ‚ÑƒÑ \"ÐžÐ¿Ð»Ð°Ñ‡ÐµÐ½Ð¾\"";
+$MESS["SALE_HLP_ORDERBUILDER_ERROR_PAYSYSTEM_SERVICE"] = "ÐŸÐ»Ð°Ñ‚ÐµÐ¶Ð½Ð°Ñ ÑÐ¸ÑÑ‚ÐµÐ¼Ð° Ð½Ðµ Ð¿Ð¾Ð¿Ð°Ð´Ð°ÐµÑ‚ Ð¿Ð¾Ð´ Ð¾Ð³Ñ€Ð°Ð½Ð¸Ñ‡ÐµÐ½Ð¸Ñ";
+$MESS["SALE_HLP_ORDERBUILDER_ERROR_SHIPMENT_SERVICE"] = "Ð¡Ð»ÑƒÐ¶Ð±Ð° Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸ Ð½Ðµ Ð¿Ð¾Ð¿Ð°Ð´Ð°ÐµÑ‚ Ð¿Ð¾Ð´ Ð¾Ð³Ñ€Ð°Ð½Ð¸Ñ‡ÐµÐ½Ð¸Ñ";

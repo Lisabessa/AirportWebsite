@@ -1,9 +1,9 @@
 <?
-$MESS ['blog_ALIAS'] = "Ïñåâäîíèì:";
-$MESS ['blog_DESCRIPTION'] = "Ïîÿñíåíèå:";
-$MESS ['blog_INTERESTS'] = "Èíòåðåñû:";
-$MESS ['blog_AVATAR'] = "Àâàòàð:";
-$MESS ['blog_ALLOW_POST'] = "Ðàçðåøåíî ïèñàòü:";
-$MESS ['blog_TAB'] = "Áëîã";
-$MESS ['blog_TAB_TITLE'] = "Ïðîôèëü ïîëüçîâàòåëÿ â áëîãàõ";
+$MESS ['blog_ALIAS'] = "ÐŸÑÐµÐ²Ð´Ð¾Ð½Ð¸Ð¼:";
+$MESS ['blog_DESCRIPTION'] = "ÐŸÐ¾ÑÑÐ½ÐµÐ½Ð¸Ðµ:";
+$MESS ['blog_INTERESTS'] = "Ð˜Ð½Ñ‚ÐµÑ€ÐµÑÑ‹:";
+$MESS ['blog_AVATAR'] = "ÐÐ²Ð°Ñ‚Ð°Ñ€:";
+$MESS ['blog_ALLOW_POST'] = "Ð Ð°Ð·Ñ€ÐµÑˆÐµÐ½Ð¾ Ð¿Ð¸ÑÐ°Ñ‚ÑŒ:";
+$MESS ['blog_TAB'] = "Ð‘Ð»Ð¾Ð³";
+$MESS ['blog_TAB_TITLE'] = "ÐŸÑ€Ð¾Ñ„Ð¸Ð»ÑŒ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ Ð² Ð±Ð»Ð¾Ð³Ð°Ñ…";
 ?>

@@ -1,8 +1,8 @@
 <?
-$MESS["IBLOCK_ENTITY_IBLOCK_ID_FIELD"] = "Èäåíòèôèêàòîð èíôîáëîêà";
-$MESS["IBLOCK_ENTITY_YANDEX_EXPORT_FIELD"] = "Ýêñïîðòèðîâàòü â ßíäåêñ";
-$MESS["IBLOCK_ENTITY_SUBSCRIPTION_FIELD"] = "Ïðîäàæà êîíòåíòà";
-$MESS["IBLOCK_ENTITY_VAT_ID_FIELD"] = "ÍÄÑ";
-$MESS["IBLOCK_ENTITY_PRODUCT_IBLOCK_ID_FIELD"] = "Èäåíòèôèêàòîð èíôîáëîêà òîâàðîâ";
-$MESS["IBLOCK_ENTITY_SKU_PROPERTY_ID_FIELD"] = "Èäåíòèôèêàòîð ñâîéñòâà ïðèâÿçêè òîðãîâîãî ïðåäëîæåíèÿ ê òîâàðó";
+$MESS["IBLOCK_ENTITY_IBLOCK_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ°";
+$MESS["IBLOCK_ENTITY_YANDEX_EXPORT_FIELD"] = "Ð­ÐºÑÐ¿Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ð² Ð¯Ð½Ð´ÐµÐºÑ";
+$MESS["IBLOCK_ENTITY_SUBSCRIPTION_FIELD"] = "ÐŸÑ€Ð¾Ð´Ð°Ð¶Ð° ÐºÐ¾Ð½Ñ‚ÐµÐ½Ñ‚Ð°";
+$MESS["IBLOCK_ENTITY_VAT_ID_FIELD"] = "ÐÐ”Ð¡";
+$MESS["IBLOCK_ENTITY_PRODUCT_IBLOCK_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ° Ñ‚Ð¾Ð²Ð°Ñ€Ð¾Ð²";
+$MESS["IBLOCK_ENTITY_SKU_PROPERTY_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÐ²Ð¾Ð¹ÑÑ‚Ð²Ð° Ð¿Ñ€Ð¸Ð²ÑÐ·ÐºÐ¸ Ñ‚Ð¾Ñ€Ð³Ð¾Ð²Ð¾Ð³Ð¾ Ð¿Ñ€ÐµÐ´Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ Ðº Ñ‚Ð¾Ð²Ð°Ñ€Ñƒ";
 ?>

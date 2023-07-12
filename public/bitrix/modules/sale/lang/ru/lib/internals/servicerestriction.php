@@ -1,7 +1,7 @@
 <?
-$MESS["SERVICE_RSTR_ENTITY_ID_FIELD"] = "Èäåíòèôèêàòîð";
-$MESS["SERVICE_RSTR_ENTITY_SERVICE_ID_FIELD"] = "Èäåíòèôèêàòîð ñåðâèñà";
-$MESS["SERVICE_RSTR_ENTITY_SORT_FIELD"] = "Ñîðòèðîâêà";
-$MESS["SERVICE_RSTR_ENTITY_CLASS_NAME_FIELD"] = "Êëàññ îáðàáîò÷èêà";
-$MESS["SERVICE_RSTR_ENTITY_PARAMS_FIELD"] = "Ïàðàìåòðû";
-$MESS["SERVICE_RSTR_ENTITY_SERVICE_TYPE_FIELD"] = "Òèï ñåðâèñà";
+$MESS["SERVICE_RSTR_ENTITY_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€";
+$MESS["SERVICE_RSTR_ENTITY_SERVICE_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÐµÑ€Ð²Ð¸ÑÐ°";
+$MESS["SERVICE_RSTR_ENTITY_SORT_FIELD"] = "Ð¡Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²ÐºÐ°";
+$MESS["SERVICE_RSTR_ENTITY_CLASS_NAME_FIELD"] = "ÐšÐ»Ð°ÑÑ Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚Ñ‡Ð¸ÐºÐ°";
+$MESS["SERVICE_RSTR_ENTITY_PARAMS_FIELD"] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹";
+$MESS["SERVICE_RSTR_ENTITY_SERVICE_TYPE_FIELD"] = "Ð¢Ð¸Ð¿ ÑÐµÑ€Ð²Ð¸ÑÐ°";

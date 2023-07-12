@@ -1,18 +1,18 @@
 <?
-$MESS["MESSAGE_ENTITY_ID_FIELD"] = "Óíèêàëüíûé èäåíòèôèêàòîð";
-$MESS["MESSAGE_ENTITY_CHAT_ID_FIELD"] = "Èäåíòèôèêàòîð ÷àòà";
-$MESS["MESSAGE_ENTITY_AUTHOR_ID_FIELD"] = "Àâòîð";
-$MESS["MESSAGE_ENTITY_MESSAGE_FIELD"] = "Ñîîáùåíèå";
-$MESS["MESSAGE_ENTITY_MESSAGE_OUT_FIELD"] = "Ôîðìàòèðîâàííîå ñîîáùåíèå";
-$MESS["MESSAGE_ENTITY_DATE_CREATE_FIELD"] = "Âðåìÿ ñîçäàíèÿ";
-$MESS["MESSAGE_ENTITY_EMAIL_TEMPLATE_FIELD"] = "Ïî÷òîâûé øàáëîí";
-$MESS["MESSAGE_ENTITY_NOTIFY_TYPE_FIELD"] = "Òèï íîòèôèêàöèè";
-$MESS["MESSAGE_ENTITY_NOTIFY_MODULE_FIELD"] = "Ìîäóëü íîòèôèêàöèè";
-$MESS["MESSAGE_ENTITY_NOTIFY_EVENT_FIELD"] = "Ïîëå ñîáûòèÿ";
-$MESS["MESSAGE_ENTITY_NOTIFY_TAG_FIELD"] = "Òåã íîòèôèêàöèè";
-$MESS["MESSAGE_ENTITY_NOTIFY_SUB_TAG_FIELD"] = "Äîïîëíèòåëüíûé òåã íîòèôèêàöèè";
-$MESS["MESSAGE_ENTITY_NOTIFY_TITLE_FIELD"] = "Çàãîëîâîê";
-$MESS["MESSAGE_ENTITY_NOTIFY_BUTTONS_FIELD"] = "Êíîïêè";
-$MESS["MESSAGE_ENTITY_NOTIFY_READ_FIELD"] = "Ïðî÷èòàíî";
-$MESS["MESSAGE_ENTITY_IMPORT_ID_FIELD"] = "Âíåøíèé èäåíòèôèêàòîð";
+$MESS["MESSAGE_ENTITY_ID_FIELD"] = "Ð£Ð½Ð¸ÐºÐ°Ð»ÑŒÐ½Ñ‹Ð¹ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€";
+$MESS["MESSAGE_ENTITY_CHAT_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ñ‡Ð°Ñ‚Ð°";
+$MESS["MESSAGE_ENTITY_AUTHOR_ID_FIELD"] = "ÐÐ²Ñ‚Ð¾Ñ€";
+$MESS["MESSAGE_ENTITY_MESSAGE_FIELD"] = "Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ";
+$MESS["MESSAGE_ENTITY_MESSAGE_OUT_FIELD"] = "Ð¤Ð¾Ñ€Ð¼Ð°Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ð¾Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ";
+$MESS["MESSAGE_ENTITY_DATE_CREATE_FIELD"] = "Ð’Ñ€ÐµÐ¼Ñ ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ";
+$MESS["MESSAGE_ENTITY_EMAIL_TEMPLATE_FIELD"] = "ÐŸÐ¾Ñ‡Ñ‚Ð¾Ð²Ñ‹Ð¹ ÑˆÐ°Ð±Ð»Ð¾Ð½";
+$MESS["MESSAGE_ENTITY_NOTIFY_TYPE_FIELD"] = "Ð¢Ð¸Ð¿ Ð½Ð¾Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ†Ð¸Ð¸";
+$MESS["MESSAGE_ENTITY_NOTIFY_MODULE_FIELD"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð½Ð¾Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ†Ð¸Ð¸";
+$MESS["MESSAGE_ENTITY_NOTIFY_EVENT_FIELD"] = "ÐŸÐ¾Ð»Ðµ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ";
+$MESS["MESSAGE_ENTITY_NOTIFY_TAG_FIELD"] = "Ð¢ÐµÐ³ Ð½Ð¾Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ†Ð¸Ð¸";
+$MESS["MESSAGE_ENTITY_NOTIFY_SUB_TAG_FIELD"] = "Ð”Ð¾Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ð¹ Ñ‚ÐµÐ³ Ð½Ð¾Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ†Ð¸Ð¸";
+$MESS["MESSAGE_ENTITY_NOTIFY_TITLE_FIELD"] = "Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº";
+$MESS["MESSAGE_ENTITY_NOTIFY_BUTTONS_FIELD"] = "ÐšÐ½Ð¾Ð¿ÐºÐ¸";
+$MESS["MESSAGE_ENTITY_NOTIFY_READ_FIELD"] = "ÐŸÑ€Ð¾Ñ‡Ð¸Ñ‚Ð°Ð½Ð¾";
+$MESS["MESSAGE_ENTITY_IMPORT_ID_FIELD"] = "Ð’Ð½ÐµÑˆÐ½Ð¸Ð¹ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€";
 ?>

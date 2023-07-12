@@ -1,64 +1,64 @@
 <?
-$MESS ['mnu_sender_sect'] = "Email-ìàðêåòèíã";
-$MESS ['mnu_sender_sect_title'] = "Email-ìàðêåòèíã";
+$MESS ['mnu_sender_sect'] = "Email-Ð¼Ð°Ñ€ÐºÐµÑ‚Ð¸Ð½Ð³";
+$MESS ['mnu_sender_sect_title'] = "Email-Ð¼Ð°Ñ€ÐºÐµÑ‚Ð¸Ð½Ð³";
 
-$MESS ['mnu_sender_sect1'] = "Ìàðêåòèíã 24";
-$MESS ['mnu_sender_sect_title1'] = "Ìàðêåòèíã 24";
+$MESS ['mnu_sender_sect1'] = "ÐœÐ°Ñ€ÐºÐµÑ‚Ð¸Ð½Ð³ 24";
+$MESS ['mnu_sender_sect_title1'] = "ÐœÐ°Ñ€ÐºÐµÑ‚Ð¸Ð½Ð³ 24";
 
-$MESS ['mnu_sender_segments'] = "Ñåãìåíòû";
-$MESS ['mnu_sender_blacklist'] = "×åðíûé ñïèñîê";
-$MESS ['mnu_sender_blacklist_alt'] = "Èñêëþ÷åííûå àäðåñà äëÿ ðàññûëîê âñåõ êàìïàíèé";
-$MESS ['mnu_sender_letters'] = "Ðàññûëêè";
-$MESS ['mnu_sender_letters_alt'] = "Óïðàâëåíèå ðàññûëêàìè";
-$MESS ['mnu_sender_campaigns'] = "Êàìïàíèè";
-$MESS ['mnu_sender_campaigns_alt'] = "Óïðàâëåíèå êàìïàíèÿìè";
-$MESS ['mnu_sender_ads'] = "Ðåêëàìà";
-$MESS ['mnu_sender_ads_alt'] = "Óïðàâëåíèå ðåêëàìîé";
+$MESS ['mnu_sender_segments'] = "Ð¡ÐµÐ³Ð¼ÐµÐ½Ñ‚Ñ‹";
+$MESS ['mnu_sender_blacklist'] = "Ð§ÐµÑ€Ð½Ñ‹Ð¹ ÑÐ¿Ð¸ÑÐ¾Ðº";
+$MESS ['mnu_sender_blacklist_alt'] = "Ð˜ÑÐºÐ»ÑŽÑ‡ÐµÐ½Ð½Ñ‹Ðµ Ð°Ð´Ñ€ÐµÑÐ° Ð´Ð»Ñ Ñ€Ð°ÑÑÑ‹Ð»Ð¾Ðº Ð²ÑÐµÑ… ÐºÐ°Ð¼Ð¿Ð°Ð½Ð¸Ð¹";
+$MESS ['mnu_sender_letters'] = "Ð Ð°ÑÑÑ‹Ð»ÐºÐ¸";
+$MESS ['mnu_sender_letters_alt'] = "Ð£Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ñ€Ð°ÑÑÑ‹Ð»ÐºÐ°Ð¼Ð¸";
+$MESS ['mnu_sender_campaigns'] = "ÐšÐ°Ð¼Ð¿Ð°Ð½Ð¸Ð¸";
+$MESS ['mnu_sender_campaigns_alt'] = "Ð£Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ ÐºÐ°Ð¼Ð¿Ð°Ð½Ð¸ÑÐ¼Ð¸";
+$MESS ['mnu_sender_ads'] = "Ð ÐµÐºÐ»Ð°Ð¼Ð°";
+$MESS ['mnu_sender_ads_alt'] = "Ð£Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ñ€ÐµÐºÐ»Ð°Ð¼Ð¾Ð¹";
 
-$MESS ['mnu_sender_report'] = "Ñòàòèñòèêà";
-$MESS ['mnu_sender_report_alt'] = "Ñòàòèñòèêà";
+$MESS ['mnu_sender_report'] = "Ð¡Ñ‚Ð°Ñ‚Ð¸ÑÑ‚Ð¸ÐºÐ°";
+$MESS ['mnu_sender_report_alt'] = "Ð¡Ñ‚Ð°Ñ‚Ð¸ÑÑ‚Ð¸ÐºÐ°";
 
-$MESS ['mnu_sender_stat'] = "Ñòàðò";
-$MESS ['mnu_sender_stat_alt'] = "Ñòàòèñòèêà ïî âñåì ðàññûëêàì";
+$MESS ['mnu_sender_stat'] = "Ð¡Ñ‚Ð°Ñ€Ñ‚";
+$MESS ['mnu_sender_stat_alt'] = "Ð¡Ñ‚Ð°Ñ‚Ð¸ÑÑ‚Ð¸ÐºÐ° Ð¿Ð¾ Ð²ÑÐµÐ¼ Ñ€Ð°ÑÑÑ‹Ð»ÐºÐ°Ð¼";
 
-$MESS ['mnu_sender_group'] = "Ãðóïïû àäðåñîâ";
-$MESS ['mnu_sender_group_alt'] = "Óïðàâëåíèå ïîëó÷àòåëÿìè ïèñåì";
+$MESS ['mnu_sender_group'] = "Ð“Ñ€ÑƒÐ¿Ð¿Ñ‹ Ð°Ð´Ñ€ÐµÑÐ¾Ð²";
+$MESS ['mnu_sender_group_alt'] = "Ð£Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»ÑÐ¼Ð¸ Ð¿Ð¸ÑÐµÐ¼";
 
-$MESS ['mnu_sender_contact_admin'] = "Ñïèñîê àäðåñîâ";
-$MESS ['mnu_sender_contact_admin_alt'] = "Ïðîñìîòð è èìïîðò àäðåñîâ";
+$MESS ['mnu_sender_contact_admin'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð°Ð´Ñ€ÐµÑÐ¾Ð²";
+$MESS ['mnu_sender_contact_admin_alt'] = "ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ Ð¸ Ð¸Ð¼Ð¿Ð¾Ñ€Ñ‚ Ð°Ð´Ñ€ÐµÑÐ¾Ð²";
 
-$MESS ['mnu_sender_template_admin'] = "Ìîè øàáëîíû";
-$MESS ['mnu_sender_template_admin_alt'] = "Ðåäàêòèðîâàíèå äîáàâëåííûõ øàáëîíîâ";
+$MESS ['mnu_sender_template_admin'] = "ÐœÐ¾Ð¸ ÑˆÐ°Ð±Ð»Ð¾Ð½Ñ‹";
+$MESS ['mnu_sender_template_admin_alt'] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð½Ñ‹Ñ… ÑˆÐ°Ð±Ð»Ð¾Ð½Ð¾Ð²";
 
-$MESS ['mnu_sender_mailing_admin'] = "Ñïèñîê ðàññûëîê";
-$MESS ['mnu_sender_mailing_admin_alt'] = "Óïðàâëåíèå ðàññûëêàìè";
+$MESS ['mnu_sender_mailing_admin'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ñ€Ð°ÑÑÑ‹Ð»Ð¾Ðº";
+$MESS ['mnu_sender_mailing_admin_alt'] = "Ð£Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ñ€Ð°ÑÑÑ‹Ð»ÐºÐ°Ð¼Ð¸";
 
-$MESS ['mnu_sender_mailing_trig_admin'] = "Ñïèñîê";
-$MESS ['mnu_sender_mailing_admin_trig_alt'] = "Óïðàâëåíèå òðèããåðíûìè ðàññûëêàìè";
+$MESS ['mnu_sender_mailing_trig_admin'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº";
+$MESS ['mnu_sender_mailing_admin_trig_alt'] = "Ð£Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ñ‚Ñ€Ð¸Ð³Ð³ÐµÑ€Ð½Ñ‹Ð¼Ð¸ Ñ€Ð°ÑÑÑ‹Ð»ÐºÐ°Ð¼Ð¸";
 
-$MESS ['mnu_sender_mailing_trig'] = "Òðèããåðíûå ðàññûëêè";
-$MESS ['mnu_sender_mailing_trig_alt'] = "Ïðîñìîòð è óïðàâëåíèå òðèããåðíûìè ðàññûëêàìè";
+$MESS ['mnu_sender_mailing_trig'] = "Ð¢Ñ€Ð¸Ð³Ð³ÐµÑ€Ð½Ñ‹Ðµ Ñ€Ð°ÑÑÑ‹Ð»ÐºÐ¸";
+$MESS ['mnu_sender_mailing_trig_alt'] = "ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ Ð¸ ÑƒÐ¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ñ‚Ñ€Ð¸Ð³Ð³ÐµÑ€Ð½Ñ‹Ð¼Ð¸ Ñ€Ð°ÑÑÑ‹Ð»ÐºÐ°Ð¼Ð¸";
 
-$MESS ['mnu_sender_site_mailing'] = "Ðàññûëêè ñàéòà";
-$MESS ['mnu_sender_site_mailing_alt'] = "Ðàññûëêè ñàéòà";
-$MESS ['mnu_sender_site_mailing_one_alt'] = "Ðàññûëêà";
+$MESS ['mnu_sender_site_mailing'] = "Ð Ð°ÑÑÑ‹Ð»ÐºÐ¸ ÑÐ°Ð¹Ñ‚Ð°";
+$MESS ['mnu_sender_site_mailing_alt'] = "Ð Ð°ÑÑÑ‹Ð»ÐºÐ¸ ÑÐ°Ð¹Ñ‚Ð°";
+$MESS ['mnu_sender_site_mailing_one_alt'] = "Ð Ð°ÑÑÑ‹Ð»ÐºÐ°";
 
-$MESS ['mnu_sender_site_mailing_trig'] = "Ðàññûëêè ñàéòà";
-$MESS ['mnu_sender_site_mailing_trig_alt'] = "Ðàññûëêè ñàéòà";
-$MESS ['mnu_sender_site_mailing_trig_one_alt'] = "Òðèããåðíàÿ ðàññûëêà";
+$MESS ['mnu_sender_site_mailing_trig'] = "Ð Ð°ÑÑÑ‹Ð»ÐºÐ¸ ÑÐ°Ð¹Ñ‚Ð°";
+$MESS ['mnu_sender_site_mailing_trig_alt'] = "Ð Ð°ÑÑÑ‹Ð»ÐºÐ¸ ÑÐ°Ð¹Ñ‚Ð°";
+$MESS ['mnu_sender_site_mailing_trig_one_alt'] = "Ð¢Ñ€Ð¸Ð³Ð³ÐµÑ€Ð½Ð°Ñ Ñ€Ð°ÑÑÑ‹Ð»ÐºÐ°";
 
-$MESS ['mnu_sender_site_mailing_chain'] = "Âûïóñêè";
-$MESS ['mnu_sender_site_mailing_chain_alt'] = "Âûïóñêè";
+$MESS ['mnu_sender_site_mailing_chain'] = "Ð’Ñ‹Ð¿ÑƒÑÐºÐ¸";
+$MESS ['mnu_sender_site_mailing_chain_alt'] = "Ð’Ñ‹Ð¿ÑƒÑÐºÐ¸";
 
-$MESS ['mnu_sender_site_mailing_trig_chain'] = "Ïèñüìà";
-$MESS ['mnu_sender_site_mailing_trig_chain_alt'] = "Ðåäàêòèðîâàíèå ïèñåì è èõ òåñòîâàÿ îòïðàâêà";
+$MESS ['mnu_sender_site_mailing_trig_chain'] = "ÐŸÐ¸ÑÑŒÐ¼Ð°";
+$MESS ['mnu_sender_site_mailing_trig_chain_alt'] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð¿Ð¸ÑÐµÐ¼ Ð¸ Ð¸Ñ… Ñ‚ÐµÑÑ‚Ð¾Ð²Ð°Ñ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²ÐºÐ°";
 
-$MESS ['mnu_sender_site_mailing_trig_stat'] = "Ñòàòèñòèêà";
-$MESS ['mnu_sender_site_mailing_trig_stat_alt'] = "Ñòàòèñòèêà";
+$MESS ['mnu_sender_site_mailing_trig_stat'] = "Ð¡Ñ‚Ð°Ñ‚Ð¸ÑÑ‚Ð¸ÐºÐ°";
+$MESS ['mnu_sender_site_mailing_trig_stat_alt'] = "Ð¡Ñ‚Ð°Ñ‚Ð¸ÑÑ‚Ð¸ÐºÐ°";
 
-$MESS ['mnu_sender_site_mailing_stat'] = "Ñòàòèñòèêà âûïóñêîâ";
-$MESS ['mnu_sender_site_mailing_stat_alt'] = "Ñòàòèñòèêà âûïóñêîâ";
+$MESS ['mnu_sender_site_mailing_stat'] = "Ð¡Ñ‚Ð°Ñ‚Ð¸ÑÑ‚Ð¸ÐºÐ° Ð²Ñ‹Ð¿ÑƒÑÐºÐ¾Ð²";
+$MESS ['mnu_sender_site_mailing_stat_alt'] = "Ð¡Ñ‚Ð°Ñ‚Ð¸ÑÑ‚Ð¸ÐºÐ° Ð²Ñ‹Ð¿ÑƒÑÐºÐ¾Ð²";
 
-$MESS ['mnu_sender_site_mailing_addr'] = "Ñïèñîê àäðåñîâ";
-$MESS ['mnu_sender_site_mailing_addr_alt'] = "Ñïèñîê àäðåñîâ";
+$MESS ['mnu_sender_site_mailing_addr'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð°Ð´Ñ€ÐµÑÐ¾Ð²";
+$MESS ['mnu_sender_site_mailing_addr_alt'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð°Ð´Ñ€ÐµÑÐ¾Ð²";
 ?>

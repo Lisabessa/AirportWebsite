@@ -1,7 +1,7 @@
 <?
-$MESS["PROPERTY_FEATURE_NAME_LIST_PAGE_SHOW"] = "Ïîêàçûâàòü íà ñòðàíèöå ñïèñêà ýëåìåíòîâ";
-$MESS["PROPERTY_FEATURE_NAME_DETAIL_PAGE_SHOW"] = "Ïîêàçûâàòü íà äåòàëüíîé ñòðàíèöå ýëåìåíòà";
-$MESS["PROPERTY_FEATURE_ERR_BAD_PROPERTY_ID"] = "Íåâåðíûé ID ñâîéñòâà";
-$MESS["PROPERTY_FEATURE_ERR_EMPTY_FEATURE_LIST"] = "Ïóñòîé íàáîð ïàðàìåòðîâ ñâîéñòâà";
-$MESS["PROPERTY_FEATURE_ERR_BAD_FEATURE_LIST"] = "Îøèáî÷íûé íàáîð ïàðàìåòðîâ ñâîéñòâà";
+$MESS["PROPERTY_FEATURE_NAME_LIST_PAGE_SHOW"] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ð½Ð° ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ðµ ÑÐ¿Ð¸ÑÐºÐ° ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð²";
+$MESS["PROPERTY_FEATURE_NAME_DETAIL_PAGE_SHOW"] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ð½Ð° Ð´ÐµÑ‚Ð°Ð»ÑŒÐ½Ð¾Ð¹ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ðµ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð°";
+$MESS["PROPERTY_FEATURE_ERR_BAD_PROPERTY_ID"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ ID ÑÐ²Ð¾Ð¹ÑÑ‚Ð²Ð°";
+$MESS["PROPERTY_FEATURE_ERR_EMPTY_FEATURE_LIST"] = "ÐŸÑƒÑÑ‚Ð¾Ð¹ Ð½Ð°Ð±Ð¾Ñ€ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð¾Ð² ÑÐ²Ð¾Ð¹ÑÑ‚Ð²Ð°";
+$MESS["PROPERTY_FEATURE_ERR_BAD_FEATURE_LIST"] = "ÐžÑˆÐ¸Ð±Ð¾Ñ‡Ð½Ñ‹Ð¹ Ð½Ð°Ð±Ð¾Ñ€ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð¾Ð² ÑÐ²Ð¾Ð¹ÑÑ‚Ð²Ð°";
 ?>

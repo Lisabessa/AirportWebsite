@@ -1,4 +1,4 @@
 <?php
-$MESS["BIZPROC_DO_TASK_AJAX_ERROR_NOT_FOUND"] = "Задание не найдено.";
-$MESS["BIZPROC_DO_TASK_AJAX_ERROR_ALREADY_DONE"] = "Задание было выполнено ранее.";
+$MESS["BIZPROC_DO_TASK_AJAX_ERROR_NOT_FOUND"] = "Р—Р°РґР°РЅРёРµ РЅРµ РЅР°Р№РґРµРЅРѕ.";
+$MESS["BIZPROC_DO_TASK_AJAX_ERROR_ALREADY_DONE"] = "Р—Р°РґР°РЅРёРµ Р±С‹Р»Рѕ РІС‹РїРѕР»РЅРµРЅРѕ СЂР°РЅРµРµ.";
 ?>

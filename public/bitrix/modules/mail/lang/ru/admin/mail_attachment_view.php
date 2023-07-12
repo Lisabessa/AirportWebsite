@@ -1,4 +1,4 @@
 <?
-$MESS ['MAIL_ATTACH_ERROR'] = "Ïðèêðåïëåííûé ôàéë íå íàéäåí.";
-$MESS ['MAIL_ATTACH_BACKLINK'] = "Ñïèñîê ïèñåì";
+$MESS ['MAIL_ATTACH_ERROR'] = "ÐŸÑ€Ð¸ÐºÑ€ÐµÐ¿Ð»ÐµÐ½Ð½Ñ‹Ð¹ Ñ„Ð°Ð¹Ð» Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½.";
+$MESS ['MAIL_ATTACH_BACKLINK'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð¿Ð¸ÑÐµÐ¼";
 ?>

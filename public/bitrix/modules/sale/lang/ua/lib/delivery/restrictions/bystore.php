@@ -1,5 +1,5 @@
 <?
-$MESS["SALE_DLVR_RSTR_BY_STORE_NAME"] = "ïî ñêëàäàõ";
-$MESS["SALE_DLVR_RSTR_BY_STORE_DESCRIPT"] = "Îáìåæåííÿ âèêîðèñòàííÿ ñëóæáè äîñòàâêè â çàëåæíîñò³ â³ä îáðàíîãî ñêëàäó";
-$MESS["SALE_DLVR_RSTR_BY_STORE_STORE_ID"] = "Ñêëàä";
+$MESS["SALE_DLVR_RSTR_BY_STORE_NAME"] = "Ð¿Ð¾ ÑÐºÐ»Ð°Ð´Ð°Ñ…";
+$MESS["SALE_DLVR_RSTR_BY_STORE_DESCRIPT"] = "ÐžÐ±Ð¼ÐµÐ¶ÐµÐ½Ð½Ñ Ð²Ð¸ÐºÐ¾Ñ€Ð¸ÑÑ‚Ð°Ð½Ð½Ñ ÑÐ»ÑƒÐ¶Ð±Ð¸ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸ Ð² Ð·Ð°Ð»ÐµÐ¶Ð½Ð¾ÑÑ‚Ñ– Ð²Ñ–Ð´ Ð¾Ð±Ñ€Ð°Ð½Ð¾Ð³Ð¾ ÑÐºÐ»Ð°Ð´Ñƒ";
+$MESS["SALE_DLVR_RSTR_BY_STORE_STORE_ID"] = "Ð¡ÐºÐ»Ð°Ð´";
 ?>

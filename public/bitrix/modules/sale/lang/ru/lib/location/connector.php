@@ -1,10 +1,10 @@
 <?
-$MESS["SALE_LOCATION_CONNECTOR_ENTITY_PRIMARY_FLD_NAME"] = "Êîä ñóùíîñòè";
-$MESS["SALE_LOCATION_CONNECTOR_ENTITY_LINKS_FLD_NAME"] = "Ñïèñîê ñâÿçåé";
-$MESS["SALE_LOCATION_CONNECTOR_ENTITY_LOCATION_PRIMARY_FLD_NAME"] = "Èäåíòèôèêàòîð ìåñòîïîëîæåíèÿ";
-$MESS["SALE_LOCATION_CONNECTOR_ENTITY_DOESNT_SUPPORT_GROUPS"] = "Ñóùíîñòü íå ïîääåðæèâàåò ïðèâÿçêó ê ãðóïïàì";
-$MESS["SALE_LOCATION_CONNECTOR_ENTITY_LINK_FLD_NOT_FOUND_EXCEPTION"] = "Ïîëå ñâÿçè íå íàéäåíî";
-$MESS["SALE_LOCATION_CONNECTOR_ENTITY_BAD_ARGUMENT_NODEINFO_UNSET_EXCEPTION"] = "Ïàðàìåòðû ïðîâåðÿåìûõ óçëîâ";
-$MESS["SALE_LOCATION_CONNECTOR_ENTITY_CANNOT_ADD_EXCEPTION"] = "Îøèáêà äîáàâëåíèÿ ñâÿçè ñ ìåñòîïîëîæåíèåì";
-$MESS["SALE_LOCATION_CONNECTOR_ENTITY_CANNOT_DELETE_EXCEPTION"] = "Îøèáêà óäàëåíèÿ ñâÿçè ñ ìåñòîïîëîæåíèåì";
+$MESS["SALE_LOCATION_CONNECTOR_ENTITY_PRIMARY_FLD_NAME"] = "ÐšÐ¾Ð´ ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸";
+$MESS["SALE_LOCATION_CONNECTOR_ENTITY_LINKS_FLD_NAME"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº ÑÐ²ÑÐ·ÐµÐ¹";
+$MESS["SALE_LOCATION_CONNECTOR_ENTITY_LOCATION_PRIMARY_FLD_NAME"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ";
+$MESS["SALE_LOCATION_CONNECTOR_ENTITY_DOESNT_SUPPORT_GROUPS"] = "Ð¡ÑƒÑ‰Ð½Ð¾ÑÑ‚ÑŒ Ð½Ðµ Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶Ð¸Ð²Ð°ÐµÑ‚ Ð¿Ñ€Ð¸Ð²ÑÐ·ÐºÑƒ Ðº Ð³Ñ€ÑƒÐ¿Ð¿Ð°Ð¼";
+$MESS["SALE_LOCATION_CONNECTOR_ENTITY_LINK_FLD_NOT_FOUND_EXCEPTION"] = "ÐŸÐ¾Ð»Ðµ ÑÐ²ÑÐ·Ð¸ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾";
+$MESS["SALE_LOCATION_CONNECTOR_ENTITY_BAD_ARGUMENT_NODEINFO_UNSET_EXCEPTION"] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ Ð¿Ñ€Ð¾Ð²ÐµÑ€ÑÐµÐ¼Ñ‹Ñ… ÑƒÐ·Ð»Ð¾Ð²";
+$MESS["SALE_LOCATION_CONNECTOR_ENTITY_CANNOT_ADD_EXCEPTION"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ñ ÑÐ²ÑÐ·Ð¸ Ñ Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸ÐµÐ¼";
+$MESS["SALE_LOCATION_CONNECTOR_ENTITY_CANNOT_DELETE_EXCEPTION"] = "ÐžÑˆÐ¸Ð±ÐºÐ° ÑƒÐ´Ð°Ð»ÐµÐ½Ð¸Ñ ÑÐ²ÑÐ·Ð¸ Ñ Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸ÐµÐ¼";
 ?>

@@ -1,5 +1,5 @@
 <?php
 
-$MESS["LEARNING_GROUP_ADD_UNKNOWN_ERROR"] = "Íåâîçìîæíî ñîçäàòü ó÷åáíóþ ãðóïïó";
-$MESS["LEARNING_GROUP_UPDATE_UNKNOWN_ERROR"] = "Íåâîçìîæíî èçìåíèòü ó÷åáíóþ ãðóïïó";
-$MESS["LEARNING_GROUP_DELETE_UNKNOWN_ERROR"] = "Íåâîçìîæíî óäàëèòü ó÷åáíóþ ãðóïïó";
+$MESS["LEARNING_GROUP_ADD_UNKNOWN_ERROR"] = "ÐÐµÐ²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ ÑÐ¾Ð·Ð´Ð°Ñ‚ÑŒ ÑƒÑ‡ÐµÐ±Ð½ÑƒÑŽ Ð³Ñ€ÑƒÐ¿Ð¿Ñƒ";
+$MESS["LEARNING_GROUP_UPDATE_UNKNOWN_ERROR"] = "ÐÐµÐ²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ Ð¸Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ ÑƒÑ‡ÐµÐ±Ð½ÑƒÑŽ Ð³Ñ€ÑƒÐ¿Ð¿Ñƒ";
+$MESS["LEARNING_GROUP_DELETE_UNKNOWN_ERROR"] = "ÐÐµÐ²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ ÑƒÑ‡ÐµÐ±Ð½ÑƒÑŽ Ð³Ñ€ÑƒÐ¿Ð¿Ñƒ";

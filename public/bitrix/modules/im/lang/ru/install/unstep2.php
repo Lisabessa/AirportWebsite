@@ -1,3 +1,3 @@
 <?
-$MESS["MOD_UNINST_DELETE_FROM_TEMPLATE"] = "Â øàáëîíå ñàéòà (ôàéë header.php) óäàëèòå ñëåäóþùèé êîä:";
+$MESS["MOD_UNINST_DELETE_FROM_TEMPLATE"] = "Ð’ ÑˆÐ°Ð±Ð»Ð¾Ð½Ðµ ÑÐ°Ð¹Ñ‚Ð° (Ñ„Ð°Ð¹Ð» header.php) ÑƒÐ´Ð°Ð»Ð¸Ñ‚Ðµ ÑÐ»ÐµÐ´ÑƒÑŽÑ‰Ð¸Ð¹ ÐºÐ¾Ð´:";
 ?>

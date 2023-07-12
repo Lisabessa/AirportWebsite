@@ -1,12 +1,12 @@
 <?
-$MESS["sender_connector_subscriber_name"] = "Ïîäïèñêà, ðàññûëêè - Ïîäïèñ÷èêè";
-$MESS["sender_connector_subscriber_all"] = "Ëþáîå";
-$MESS["sender_connector_subscriber_y"] = "Äà";
-$MESS["sender_connector_subscriber_n"] = "Íåò";
-$MESS["sender_connector_subscriber_from"] = "îò";
-$MESS["sender_connector_subscriber_to"] = "äî";
-$MESS["sender_connector_subscriber_rubric"] = "Ðóáðèêà ðàññûëîê:";
-$MESS["sender_connector_subscriber_active"] = "Àêòèâíàÿ ïîäïèñêà:";
-$MESS["sender_connector_subscriber_confirmed"] = "Ïîäïèñêà ïîäòâåðæäåíà:";
-$MESS["sender_connector_subscriber_dateinsert"] = "Äàòà äîáàâëåíèÿ:";
+$MESS["sender_connector_subscriber_name"] = "ÐŸÐ¾Ð´Ð¿Ð¸ÑÐºÐ°, Ñ€Ð°ÑÑÑ‹Ð»ÐºÐ¸ - ÐŸÐ¾Ð´Ð¿Ð¸ÑÑ‡Ð¸ÐºÐ¸";
+$MESS["sender_connector_subscriber_all"] = "Ð›ÑŽÐ±Ð¾Ðµ";
+$MESS["sender_connector_subscriber_y"] = "Ð”Ð°";
+$MESS["sender_connector_subscriber_n"] = "ÐÐµÑ‚";
+$MESS["sender_connector_subscriber_from"] = "Ð¾Ñ‚";
+$MESS["sender_connector_subscriber_to"] = "Ð´Ð¾";
+$MESS["sender_connector_subscriber_rubric"] = "Ð ÑƒÐ±Ñ€Ð¸ÐºÐ° Ñ€Ð°ÑÑÑ‹Ð»Ð¾Ðº:";
+$MESS["sender_connector_subscriber_active"] = "ÐÐºÑ‚Ð¸Ð²Ð½Ð°Ñ Ð¿Ð¾Ð´Ð¿Ð¸ÑÐºÐ°:";
+$MESS["sender_connector_subscriber_confirmed"] = "ÐŸÐ¾Ð´Ð¿Ð¸ÑÐºÐ° Ð¿Ð¾Ð´Ñ‚Ð²ÐµÑ€Ð¶Ð´ÐµÐ½Ð°:";
+$MESS["sender_connector_subscriber_dateinsert"] = "Ð”Ð°Ñ‚Ð° Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ñ:";
 ?>

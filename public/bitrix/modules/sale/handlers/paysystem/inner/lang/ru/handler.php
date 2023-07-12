@@ -1,3 +1,3 @@
 <?php
-$MESS["ORDER_PSH_INNER_ERROR_INSUFFICIENT_MONEY"] = "Íåäîñòàòî÷íî ñðåäñòâ íà âíóòðåííåì ñ÷åòå";
-$MESS["ORDER_PSH_INNER_ERROR_USER_BUDGET_LOCK"] = "Âíóòðåííèé ñ÷åò çàáëîêèðîâàí";
+$MESS["ORDER_PSH_INNER_ERROR_INSUFFICIENT_MONEY"] = "ÐÐµÐ´Ð¾ÑÑ‚Ð°Ñ‚Ð¾Ñ‡Ð½Ð¾ ÑÑ€ÐµÐ´ÑÑ‚Ð² Ð½Ð° Ð²Ð½ÑƒÑ‚Ñ€ÐµÐ½Ð½ÐµÐ¼ ÑÑ‡ÐµÑ‚Ðµ";
+$MESS["ORDER_PSH_INNER_ERROR_USER_BUDGET_LOCK"] = "Ð’Ð½ÑƒÑ‚Ñ€ÐµÐ½Ð½Ð¸Ð¹ ÑÑ‡ÐµÑ‚ Ð·Ð°Ð±Ð»Ð¾ÐºÐ¸Ñ€Ð¾Ð²Ð°Ð½";

@@ -1,5 +1,5 @@
 <?
-$MESS["IBLOCK_PROP_DATETIME_ERROR"] = "Íåâåðíûé ôîðìàò Äàòû/Âðåìåíè";
-$MESS["IBLOCK_PROP_DATETIME_ERROR_NEW"] = "Íåâåðíûé ôîðìàò ïîëÿ \"#FIELD_NAME#\"";
-$MESS["IBLOCK_PROP_DATETIME_DESC"] = "Äàòà/Âðåìÿ";
+$MESS["IBLOCK_PROP_DATETIME_ERROR"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚ Ð”Ð°Ñ‚Ñ‹/Ð’Ñ€ÐµÐ¼ÐµÐ½Ð¸";
+$MESS["IBLOCK_PROP_DATETIME_ERROR_NEW"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚ Ð¿Ð¾Ð»Ñ \"#FIELD_NAME#\"";
+$MESS["IBLOCK_PROP_DATETIME_DESC"] = "Ð”Ð°Ñ‚Ð°/Ð’Ñ€ÐµÐ¼Ñ";
 ?>

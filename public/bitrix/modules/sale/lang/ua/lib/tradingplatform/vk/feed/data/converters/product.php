@@ -1,5 +1,5 @@
 <?
-$MESS["SALE_VK_PRODUCT_VARIANTS"] = "Âàð³àíòè òîâàðó:";
-$MESS["SALE_VK_PRODUCT_PRICE"] = "Ö³íà";
-$MESS["SALE_VK_PRODUCT_CURRENCY"] = "ãðí";
+$MESS["SALE_VK_PRODUCT_VARIANTS"] = "Ð’Ð°Ñ€Ñ–Ð°Ð½Ñ‚Ð¸ Ñ‚Ð¾Ð²Ð°Ñ€Ñƒ:";
+$MESS["SALE_VK_PRODUCT_PRICE"] = "Ð¦Ñ–Ð½Ð°";
+$MESS["SALE_VK_PRODUCT_CURRENCY"] = "Ð³Ñ€Ð½";
 ?>

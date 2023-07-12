@@ -1,11 +1,11 @@
 <?
-$MESS["SALE_SHIPMENT_ITEM_ERR_QUANTITY_EMPTY"] = "Ê³ëüê³ñòü #BASKET_ITEM_NAME# íå ìîæå áóòè ìåíøîþ àáî ð³âíîþ 0";
-$MESS["SALE_SHIPMENT_ITEM_BARCODE_MORE_ITEM_QUANTITY"] = "Øòðèõ-êîä³â á³ëüøå, í³æ ê³ëüêîñò³ òîâàðó";
-$MESS["SALE_SHIPMENT_ITEM_SHIPMENT_ALREADY_SHIPPED_CANNOT_EDIT"] = "Â³äâàíòàæåííÿ âæå â³äïðàâëåíî. Çì³íè íåìîæëèâ³.";
-$MESS["SALE_SHIPMENT_ITEM_SHIPMENT_ALREADY_SHIPPED_CANNOT_DELETE"] = "Â³äâàíòàæåííÿ âæå â³äïðàâëåíî. Âèäàëåííÿ òîâàðó \"#PRODUCT_NAME#\" íåìîæëèâî.";
-$MESS["SALE_SHIPMENT_ITEM_LESS_AVAILABLE_QUANTITY"] = "Â êîøèêó íåäîñòàòíÿ ê³ëüê³ñòü íå ðîçïîä³ëåíîãî òîâàðó \"#PRODUCT_NAME#\".";
-$MESS["SALE_EVENT_ON_BEFORE_SALESHIPMENTITEM_SET_FIELD_ERROR"] = "Ïîìèëêà ïîä³¿ óñòàíîâêè çíà÷åííÿ ïîëÿ â³äâàíòàæåííÿ";
-$MESS["SALE_SHIPMENT_ITEM_BASKET_ITEM_ID_EMPTY"] = "Ñòâîðåííÿ åëåìåíòà â³äâàíòàæåííÿ íåìîæëèâî, îñê³ëüêè òîâàð \"#PRODUCT_NAME#\" íå äîäàíèé â êîøèê";
-$MESS["SALE_SHIPMENT_ITEM_BASKET_WRONG_BASKET_ITEM"] = "Íåêîðåêòíèé îá'ºêò êîøèêà";
-$MESS["SALE_SHIPMENT_ITEM_BASKET_ITEM_NOT_FOUND"] = "Â³äñóòíÿ ïîâ'ÿçàíà ç åëåìåíòîì â³äâàíòàæåííÿ ##SHIPMENT_ID# ïîçèö³ÿ â êîøèêó ##BASKET_ITEM_ID#.";
+$MESS["SALE_SHIPMENT_ITEM_ERR_QUANTITY_EMPTY"] = "ÐšÑ–Ð»ÑŒÐºÑ–ÑÑ‚ÑŒ #BASKET_ITEM_NAME# Ð½Ðµ Ð¼Ð¾Ð¶Ðµ Ð±ÑƒÑ‚Ð¸ Ð¼ÐµÐ½ÑˆÐ¾ÑŽ Ð°Ð±Ð¾ Ñ€Ñ–Ð²Ð½Ð¾ÑŽ 0";
+$MESS["SALE_SHIPMENT_ITEM_BARCODE_MORE_ITEM_QUANTITY"] = "Ð¨Ñ‚Ñ€Ð¸Ñ…-ÐºÐ¾Ð´Ñ–Ð² Ð±Ñ–Ð»ÑŒÑˆÐµ, Ð½Ñ–Ð¶ ÐºÑ–Ð»ÑŒÐºÐ¾ÑÑ‚Ñ– Ñ‚Ð¾Ð²Ð°Ñ€Ñƒ";
+$MESS["SALE_SHIPMENT_ITEM_SHIPMENT_ALREADY_SHIPPED_CANNOT_EDIT"] = "Ð’Ñ–Ð´Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ Ð²Ð¶Ðµ Ð²Ñ–Ð´Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¾. Ð—Ð¼Ñ–Ð½Ð¸ Ð½ÐµÐ¼Ð¾Ð¶Ð»Ð¸Ð²Ñ–.";
+$MESS["SALE_SHIPMENT_ITEM_SHIPMENT_ALREADY_SHIPPED_CANNOT_DELETE"] = "Ð’Ñ–Ð´Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ Ð²Ð¶Ðµ Ð²Ñ–Ð´Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¾. Ð’Ð¸Ð´Ð°Ð»ÐµÐ½Ð½Ñ Ñ‚Ð¾Ð²Ð°Ñ€Ñƒ \"#PRODUCT_NAME#\" Ð½ÐµÐ¼Ð¾Ð¶Ð»Ð¸Ð²Ð¾.";
+$MESS["SALE_SHIPMENT_ITEM_LESS_AVAILABLE_QUANTITY"] = "Ð’ ÐºÐ¾ÑˆÐ¸ÐºÑƒ Ð½ÐµÐ´Ð¾ÑÑ‚Ð°Ñ‚Ð½Ñ ÐºÑ–Ð»ÑŒÐºÑ–ÑÑ‚ÑŒ Ð½Ðµ Ñ€Ð¾Ð·Ð¿Ð¾Ð´Ñ–Ð»ÐµÐ½Ð¾Ð³Ð¾ Ñ‚Ð¾Ð²Ð°Ñ€Ñƒ \"#PRODUCT_NAME#\".";
+$MESS["SALE_EVENT_ON_BEFORE_SALESHIPMENTITEM_SET_FIELD_ERROR"] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ° Ð¿Ð¾Ð´Ñ–Ñ— ÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ¸ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð½Ñ Ð¿Ð¾Ð»Ñ Ð²Ñ–Ð´Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ";
+$MESS["SALE_SHIPMENT_ITEM_BASKET_ITEM_ID_EMPTY"] = "Ð¡Ñ‚Ð²Ð¾Ñ€ÐµÐ½Ð½Ñ ÐµÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð° Ð²Ñ–Ð´Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ Ð½ÐµÐ¼Ð¾Ð¶Ð»Ð¸Ð²Ð¾, Ð¾ÑÐºÑ–Ð»ÑŒÐºÐ¸ Ñ‚Ð¾Ð²Ð°Ñ€ \"#PRODUCT_NAME#\" Ð½Ðµ Ð´Ð¾Ð´Ð°Ð½Ð¸Ð¹ Ð² ÐºÐ¾ÑˆÐ¸Ðº";
+$MESS["SALE_SHIPMENT_ITEM_BASKET_WRONG_BASKET_ITEM"] = "ÐÐµÐºÐ¾Ñ€ÐµÐºÑ‚Ð½Ð¸Ð¹ Ð¾Ð±'Ñ”ÐºÑ‚ ÐºÐ¾ÑˆÐ¸ÐºÐ°";
+$MESS["SALE_SHIPMENT_ITEM_BASKET_ITEM_NOT_FOUND"] = "Ð’Ñ–Ð´ÑÑƒÑ‚Ð½Ñ Ð¿Ð¾Ð²'ÑÐ·Ð°Ð½Ð° Ð· ÐµÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð¼ Ð²Ñ–Ð´Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð½Ñ ##SHIPMENT_ID# Ð¿Ð¾Ð·Ð¸Ñ†Ñ–Ñ Ð² ÐºÐ¾ÑˆÐ¸ÐºÑƒ ##BASKET_ITEM_ID#.";
 ?>

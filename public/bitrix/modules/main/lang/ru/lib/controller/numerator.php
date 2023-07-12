@@ -1,4 +1,4 @@
 <?
-$MESS["MAIN_NUMERATOR_EDIT_ERROR_NUMBER_LESS"] = "Íîâûé íîìåð äîëæåí áûòü áîëüøå òåêóùåãî";
-$MESS["MAIN_NUMERATOR_EDIT_ERROR_NUMBER_NOT_NUMERIC"] = "Íîâûé òåêóùèé íîìåð äîëæåí áûòü ÷èñëîì";
+$MESS["MAIN_NUMERATOR_EDIT_ERROR_NUMBER_LESS"] = "ÐÐ¾Ð²Ñ‹Ð¹ Ð½Ð¾Ð¼ÐµÑ€ Ð´Ð¾Ð»Ð¶ÐµÐ½ Ð±Ñ‹Ñ‚ÑŒ Ð±Ð¾Ð»ÑŒÑˆÐµ Ñ‚ÐµÐºÑƒÑ‰ÐµÐ³Ð¾";
+$MESS["MAIN_NUMERATOR_EDIT_ERROR_NUMBER_NOT_NUMERIC"] = "ÐÐ¾Ð²Ñ‹Ð¹ Ñ‚ÐµÐºÑƒÑ‰Ð¸Ð¹ Ð½Ð¾Ð¼ÐµÑ€ Ð´Ð¾Ð»Ð¶ÐµÐ½ Ð±Ñ‹Ñ‚ÑŒ Ñ‡Ð¸ÑÐ»Ð¾Ð¼";
 ?>

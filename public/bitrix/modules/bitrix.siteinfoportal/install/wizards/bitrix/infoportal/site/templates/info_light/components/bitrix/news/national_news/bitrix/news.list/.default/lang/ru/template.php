@@ -1,4 +1,4 @@
 <?
-$MESS["IBLOCK_REVIEWS"] = "Ïðîñìîòðîâ";
-$MESS["IBLOCK_COMMENT"] = "Êîììåíòàðèåâ";
+$MESS["IBLOCK_REVIEWS"] = "ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð¾Ð²";
+$MESS["IBLOCK_COMMENT"] = "ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸ÐµÐ²";
 ?>

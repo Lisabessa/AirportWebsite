@@ -1,4 +1,4 @@
 <?
-$MESS["IBLOCK_SITE_ENTITY_IBLOCK_ID_FIELD"] = "Èäåíòèôèêàòîð èíôîáëîêà";
-$MESS["IBLOCK_SITE_ENTITY_SITE_ID_FIELD"] = "Èäåíòèôèêàòîð ñàéòà";
+$MESS["IBLOCK_SITE_ENTITY_IBLOCK_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ°";
+$MESS["IBLOCK_SITE_ENTITY_SITE_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÐ°Ð¹Ñ‚Ð°";
 ?>

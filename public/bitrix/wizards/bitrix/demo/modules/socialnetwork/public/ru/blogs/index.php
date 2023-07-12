@@ -1,8 +1,8 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Блог-лента");
+$APPLICATION->SetTitle("Р‘Р»РѕРі-Р»РµРЅС‚Р°");
 ?>
-<p>Блог-лента социальной сети. Ссылки ведут в личные блоги в разделе &quot;Социальная сеть&quot;.</p>
+<p>Р‘Р»РѕРі-Р»РµРЅС‚Р° СЃРѕС†РёР°Р»СЊРЅРѕР№ СЃРµС‚Рё. РЎСЃС‹Р»РєРё РІРµРґСѓС‚ РІ Р»РёС‡РЅС‹Рµ Р±Р»РѕРіРё РІ СЂР°Р·РґРµР»Рµ &quot;РЎРѕС†РёР°Р»СЊРЅР°СЏ СЃРµС‚СЊ&quot;.</p>
 <?$APPLICATION->IncludeComponent(
 	"bitrix:blog",
 	"general_page",

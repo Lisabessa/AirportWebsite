@@ -1,15 +1,15 @@
 <?
-$MESS["ERROR_ADD_REC2"] = "Âîçìîæíî íà ýòó äàòó êóðñ óæå çàäàí.";
-$MESS["BT_MOD_CURR_ERR_RATE_CURRENCY_ABSENT"] = "Íå óêàçàí èäåíòèôèêàòîð âàëþòû";
-$MESS["BT_MOD_CURR_ERR_RATE_CURRENCY_LAT"] = "Èäåíòèôèêàòîð âàëþòû ìîæåò ñîäåðæàòü òîëüêî ëàòèíñêèå ñèìâîëû";
-$MESS["BT_MOD_CURR_ERR_RATE_DATE_ABSENT"] = "Íå óêàçàíà äàòà";
-$MESS["BT_MOD_CURR_ERR_RATE_DATE_FORMAT_BAD"] = "Íåâåðíûé ôîðìàò äàòû";
-$MESS["BT_MOD_CURR_ERR_RATE_RATE_CNT_ABSENT"] = "Íå çàäàí íîìèíàë";
-$MESS["BT_MOD_CURR_ERR_RATE_RATE_CNT_BAD"] = "Íåâåðíûé íîìèíàë";
-$MESS["BT_MOD_CURR_ERR_RATE_RATE_ABSENT"] = "Íå çàäàí êóðñ";
-$MESS["BT_MOD_CURR_ERR_RATE_RATE_BAD"] = "Íåêîððåêòíûé êóðñ";
-$MESS["BT_MOD_CURR_ERR_RATE_ID_BAD"] = "Íåâåðíûé ID êóðñà";
-$MESS["BT_MOD_CURR_ERR_RATE_CANT_DELETE_ABSENT_ID"] = "Îøèáêà óäàëåíèÿ - íåâåðíûé ID êóðñà";
-$MESS["BT_MOD_CURR_ERR_RATE_FOR_BASE_CURRENCY"] = "Íåëüçÿ ñîçäàòü êóðñ äëÿ áàçîâîé âàëþòû";
-$MESS["BT_MOD_CURR_ERR_RATE_FOR_SELF_CURRENCY"] = "Íåëüçÿ ñîçäàòü êóðñ âàëþòû äëÿ ñàìîé ñåáÿ";
+$MESS["ERROR_ADD_REC2"] = "Ð’Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ Ð½Ð° ÑÑ‚Ñƒ Ð´Ð°Ñ‚Ñƒ ÐºÑƒÑ€Ñ ÑƒÐ¶Ðµ Ð·Ð°Ð´Ð°Ð½.";
+$MESS["BT_MOD_CURR_ERR_RATE_CURRENCY_ABSENT"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð²Ð°Ð»ÑŽÑ‚Ñ‹";
+$MESS["BT_MOD_CURR_ERR_RATE_CURRENCY_LAT"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð²Ð°Ð»ÑŽÑ‚Ñ‹ Ð¼Ð¾Ð¶ÐµÑ‚ ÑÐ¾Ð´ÐµÑ€Ð¶Ð°Ñ‚ÑŒ Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð»Ð°Ñ‚Ð¸Ð½ÑÐºÐ¸Ðµ ÑÐ¸Ð¼Ð²Ð¾Ð»Ñ‹";
+$MESS["BT_MOD_CURR_ERR_RATE_DATE_ABSENT"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð° Ð´Ð°Ñ‚Ð°";
+$MESS["BT_MOD_CURR_ERR_RATE_DATE_FORMAT_BAD"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚ Ð´Ð°Ñ‚Ñ‹";
+$MESS["BT_MOD_CURR_ERR_RATE_RATE_CNT_ABSENT"] = "ÐÐµ Ð·Ð°Ð´Ð°Ð½ Ð½Ð¾Ð¼Ð¸Ð½Ð°Ð»";
+$MESS["BT_MOD_CURR_ERR_RATE_RATE_CNT_BAD"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ð½Ð¾Ð¼Ð¸Ð½Ð°Ð»";
+$MESS["BT_MOD_CURR_ERR_RATE_RATE_ABSENT"] = "ÐÐµ Ð·Ð°Ð´Ð°Ð½ ÐºÑƒÑ€Ñ";
+$MESS["BT_MOD_CURR_ERR_RATE_RATE_BAD"] = "ÐÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ñ‹Ð¹ ÐºÑƒÑ€Ñ";
+$MESS["BT_MOD_CURR_ERR_RATE_ID_BAD"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ ID ÐºÑƒÑ€ÑÐ°";
+$MESS["BT_MOD_CURR_ERR_RATE_CANT_DELETE_ABSENT_ID"] = "ÐžÑˆÐ¸Ð±ÐºÐ° ÑƒÐ´Ð°Ð»ÐµÐ½Ð¸Ñ - Ð½ÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ ID ÐºÑƒÑ€ÑÐ°";
+$MESS["BT_MOD_CURR_ERR_RATE_FOR_BASE_CURRENCY"] = "ÐÐµÐ»ÑŒÐ·Ñ ÑÐ¾Ð·Ð´Ð°Ñ‚ÑŒ ÐºÑƒÑ€Ñ Ð´Ð»Ñ Ð±Ð°Ð·Ð¾Ð²Ð¾Ð¹ Ð²Ð°Ð»ÑŽÑ‚Ñ‹";
+$MESS["BT_MOD_CURR_ERR_RATE_FOR_SELF_CURRENCY"] = "ÐÐµÐ»ÑŒÐ·Ñ ÑÐ¾Ð·Ð´Ð°Ñ‚ÑŒ ÐºÑƒÑ€Ñ Ð²Ð°Ð»ÑŽÑ‚Ñ‹ Ð´Ð»Ñ ÑÐ°Ð¼Ð¾Ð¹ ÑÐµÐ±Ñ";
 ?>

@@ -1,12 +1,12 @@
 <?php
-$MESS['SALE_CASHBOX_ERROR_EMPTY_CHECK_TYPE'] = 'Íå óêàçàí òèï ÷åêà';
-$MESS['SALE_CASHBOX_ERROR_CHECK'] = 'Íåêîððåêòíûé òèï ÷åêà';
-$MESS['SALE_CASHBOX_ERROR_CHECK_PRINT'] = 'Îøèáêà ïðè ïå÷àòè ÷åêà ##CHECK_ID#';
-$MESS['SALE_CASHBOX_ERROR_CHECK_NOT_CREATED'] = '×åê íå áûë ñôîðìèðîâàí. Îáðàòèòåñü ê àäìèíèñòðàòîðó ïîðòàëà äëÿ óñòðàíåíèÿ îøèáêè.';
-$MESS['SALE_CASHBOX_ERROR_CHECK_ID'] = 'Íåêîððåêòíûé ID ÷åêà';
-$MESS['SALE_CASHBOX_ERROR_CHECK_NOT_FOUND'] = '×åê ##CHECK_ID# íå íàéäåí';
-$MESS['SALE_CASHBOX_ERROR_CHECK_ORDER_LOAD'] = 'Îøèáêà ïðè çàãðóçêå çàêàçà';
-$MESS['SALE_CASHBOX_ERROR_CHECK_PAYMENT_LOAD'] = 'Îøèáêà ïðè çàãðóçêå îïëàòû';
-$MESS['SALE_CASHBOX_ERROR_CHECK_SHIPMENT_LOAD'] = 'Îøèáêà ïðè çàãðóçêå îòãðóçêè';
-$MESS['SALE_CASHBOX_CHECK_ADVANCE'] = 'Àâàíñ';
-$MESS['SALE_CASHBOX_CHECK_CREDIT'] = 'Êðåäèò';
+$MESS['SALE_CASHBOX_ERROR_EMPTY_CHECK_TYPE'] = 'ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ñ‚Ð¸Ð¿ Ñ‡ÐµÐºÐ°';
+$MESS['SALE_CASHBOX_ERROR_CHECK'] = 'ÐÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ñ‹Ð¹ Ñ‚Ð¸Ð¿ Ñ‡ÐµÐºÐ°';
+$MESS['SALE_CASHBOX_ERROR_CHECK_PRINT'] = 'ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ Ð¿ÐµÑ‡Ð°Ñ‚Ð¸ Ñ‡ÐµÐºÐ° ##CHECK_ID#';
+$MESS['SALE_CASHBOX_ERROR_CHECK_NOT_CREATED'] = 'Ð§ÐµÐº Ð½Ðµ Ð±Ñ‹Ð» ÑÑ„Ð¾Ñ€Ð¼Ð¸Ñ€Ð¾Ð²Ð°Ð½. ÐžÐ±Ñ€Ð°Ñ‚Ð¸Ñ‚ÐµÑÑŒ Ðº Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¾Ñ€Ñƒ Ð¿Ð¾Ñ€Ñ‚Ð°Ð»Ð° Ð´Ð»Ñ ÑƒÑÑ‚Ñ€Ð°Ð½ÐµÐ½Ð¸Ñ Ð¾ÑˆÐ¸Ð±ÐºÐ¸.';
+$MESS['SALE_CASHBOX_ERROR_CHECK_ID'] = 'ÐÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ñ‹Ð¹ ID Ñ‡ÐµÐºÐ°';
+$MESS['SALE_CASHBOX_ERROR_CHECK_NOT_FOUND'] = 'Ð§ÐµÐº ##CHECK_ID# Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½';
+$MESS['SALE_CASHBOX_ERROR_CHECK_ORDER_LOAD'] = 'ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ Ð·Ð°Ð³Ñ€ÑƒÐ·ÐºÐµ Ð·Ð°ÐºÐ°Ð·Ð°';
+$MESS['SALE_CASHBOX_ERROR_CHECK_PAYMENT_LOAD'] = 'ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ Ð·Ð°Ð³Ñ€ÑƒÐ·ÐºÐµ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹';
+$MESS['SALE_CASHBOX_ERROR_CHECK_SHIPMENT_LOAD'] = 'ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ Ð·Ð°Ð³Ñ€ÑƒÐ·ÐºÐµ Ð¾Ñ‚Ð³Ñ€ÑƒÐ·ÐºÐ¸';
+$MESS['SALE_CASHBOX_CHECK_ADVANCE'] = 'ÐÐ²Ð°Ð½Ñ';
+$MESS['SALE_CASHBOX_CHECK_CREDIT'] = 'ÐšÑ€ÐµÐ´Ð¸Ñ‚';

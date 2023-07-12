@@ -1,11 +1,11 @@
 <?
-$MESS ["AUTH_LOGIN_BUTTON"] = "Àâòîðèçîâàòüñÿ";
-$MESS ["AUTH_CLOSE_WINDOW"] = "Çàêðûòü";
-$MESS ["AUTH_LOGIN"] = "Ëîãèí";
-$MESS ["AUTH_PASSWORD"] = "Ïàðîëü";
-$MESS ["AUTH_REMEMBER_ME"] = "Çàïîìíèòü ìåíÿ íà ýòîì êîìïüþòåðå";
-$MESS ["AUTH_FORGOT_PASSWORD_2"] = "Çàáûëè ñâîé ïàðîëü?";
-$MESS ["AUTH_REGISTER"] = "Ðåãèñòðàöèÿ";
-$MESS ["AUTH_LOGOUT_BUTTON"] = "Âûéòè";
-$MESS ["AUTH_PROFILE"] = "Ìîé ïðîôèëü";
+$MESS ["AUTH_LOGIN_BUTTON"] = "ÐÐ²Ñ‚Ð¾Ñ€Ð¸Ð·Ð¾Ð²Ð°Ñ‚ÑŒÑÑ";
+$MESS ["AUTH_CLOSE_WINDOW"] = "Ð—Ð°ÐºÑ€Ñ‹Ñ‚ÑŒ";
+$MESS ["AUTH_LOGIN"] = "Ð›Ð¾Ð³Ð¸Ð½";
+$MESS ["AUTH_PASSWORD"] = "ÐŸÐ°Ñ€Ð¾Ð»ÑŒ";
+$MESS ["AUTH_REMEMBER_ME"] = "Ð—Ð°Ð¿Ð¾Ð¼Ð½Ð¸Ñ‚ÑŒ Ð¼ÐµÐ½Ñ Ð½Ð° ÑÑ‚Ð¾Ð¼ ÐºÐ¾Ð¼Ð¿ÑŒÑŽÑ‚ÐµÑ€Ðµ";
+$MESS ["AUTH_FORGOT_PASSWORD_2"] = "Ð—Ð°Ð±Ñ‹Ð»Ð¸ ÑÐ²Ð¾Ð¹ Ð¿Ð°Ñ€Ð¾Ð»ÑŒ?";
+$MESS ["AUTH_REGISTER"] = "Ð ÐµÐ³Ð¸ÑÑ‚Ñ€Ð°Ñ†Ð¸Ñ";
+$MESS ["AUTH_LOGOUT_BUTTON"] = "Ð’Ñ‹Ð¹Ñ‚Ð¸";
+$MESS ["AUTH_PROFILE"] = "ÐœÐ¾Ð¹ Ð¿Ñ€Ð¾Ñ„Ð¸Ð»ÑŒ";
 ?>

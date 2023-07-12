@@ -1,14 +1,14 @@
 <?
-$MESS["BX_IBLOCK_REDIRECT_ENTITY_ENTITY_IBLOCK"] = "Èíôîáëîê";
-$MESS["BX_IBLOCK_REDIRECT_ENTITY_ENTITY_SECTION"] = "Ðàçäåë èíôîáëîêà";
-$MESS["BX_IBLOCK_REDIRECT_ENTITY_ENTITY_ELEMENT"] = "Ýëåìåíò èíôîáëîêà";
-$MESS["BX_IBLOCK_REDIRECT_ENTITY_TITLE_EXT"] = "Ïåðåéòè ê èíôîáëîêó / ðàçäåëó / ýëåìåíòó";
-$MESS["BX_IBLOCK_REDIRECT_ENTITY_FILTER_ENTITY"] = "Ñóùíîñòü:";
-$MESS["BX_IBLOCK_REDIRECT_ENTITY_FILTER_ID"] = "ID ñóùíîñòè:";
-$MESS["BX_IBLOCK_REDIRECT_ENTITY_ERR_EMPTY_ELEMENT_ID"] = "Íå çàäàí ID ñóùíîñòè";
-$MESS["BX_IBLOCK_REDIRECT_ENTITY_ERR_EMPTY_ENTITY"] = "Íå çàäàíà ñóùíîñòü";
-$MESS["BX_IBLOCK_REDIRECT_ENTITY_ERR_IBLOCK_NOT_FOUND"] = "Èíôîáëîê íå íàéäåí";
-$MESS["BX_IBLOCK_REDIRECT_ENTITY_ERR_SECTION_NOT_FOUND"] = "Ðàçäåë íå íàéäåí";
-$MESS["BX_IBLOCK_REDIRECT_ENTITY_ERR_ELEMENT_NOT_FOUND"] = "Ýëåìåíò íå íàéäåí";
-$MESS["BX_IBLOCK_REDIRECT_ENTITY_NOTE"] = "Ïðè ïîèñêå ó÷èòûâàþòñÿ ïðàâà äîñòóïà ê ñóùíîñòè. Åñëè ïðàâ íåäîñòàòî÷íî, áóäåò âûâåäåíî ñîîáùåíèå î òîì, ÷òî ñóùíîñòü íå íàéäåíà.";
+$MESS["BX_IBLOCK_REDIRECT_ENTITY_ENTITY_IBLOCK"] = "Ð˜Ð½Ñ„Ð¾Ð±Ð»Ð¾Ðº";
+$MESS["BX_IBLOCK_REDIRECT_ENTITY_ENTITY_SECTION"] = "Ð Ð°Ð·Ð´ÐµÐ» Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ°";
+$MESS["BX_IBLOCK_REDIRECT_ENTITY_ENTITY_ELEMENT"] = "Ð­Ð»ÐµÐ¼ÐµÐ½Ñ‚ Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ°";
+$MESS["BX_IBLOCK_REDIRECT_ENTITY_TITLE_EXT"] = "ÐŸÐµÑ€ÐµÐ¹Ñ‚Ð¸ Ðº Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÑƒ / Ñ€Ð°Ð·Ð´ÐµÐ»Ñƒ / ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ñƒ";
+$MESS["BX_IBLOCK_REDIRECT_ENTITY_FILTER_ENTITY"] = "Ð¡ÑƒÑ‰Ð½Ð¾ÑÑ‚ÑŒ:";
+$MESS["BX_IBLOCK_REDIRECT_ENTITY_FILTER_ID"] = "ID ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸:";
+$MESS["BX_IBLOCK_REDIRECT_ENTITY_ERR_EMPTY_ELEMENT_ID"] = "ÐÐµ Ð·Ð°Ð´Ð°Ð½ ID ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸";
+$MESS["BX_IBLOCK_REDIRECT_ENTITY_ERR_EMPTY_ENTITY"] = "ÐÐµ Ð·Ð°Ð´Ð°Ð½Ð° ÑÑƒÑ‰Ð½Ð¾ÑÑ‚ÑŒ";
+$MESS["BX_IBLOCK_REDIRECT_ENTITY_ERR_IBLOCK_NOT_FOUND"] = "Ð˜Ð½Ñ„Ð¾Ð±Ð»Ð¾Ðº Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
+$MESS["BX_IBLOCK_REDIRECT_ENTITY_ERR_SECTION_NOT_FOUND"] = "Ð Ð°Ð·Ð´ÐµÐ» Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
+$MESS["BX_IBLOCK_REDIRECT_ENTITY_ERR_ELEMENT_NOT_FOUND"] = "Ð­Ð»ÐµÐ¼ÐµÐ½Ñ‚ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";
+$MESS["BX_IBLOCK_REDIRECT_ENTITY_NOTE"] = "ÐŸÑ€Ð¸ Ð¿Ð¾Ð¸ÑÐºÐµ ÑƒÑ‡Ð¸Ñ‚Ñ‹Ð²Ð°ÑŽÑ‚ÑÑ Ð¿Ñ€Ð°Ð²Ð° Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð° Ðº ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸. Ð•ÑÐ»Ð¸ Ð¿Ñ€Ð°Ð² Ð½ÐµÐ´Ð¾ÑÑ‚Ð°Ñ‚Ð¾Ñ‡Ð½Ð¾, Ð±ÑƒÐ´ÐµÑ‚ Ð²Ñ‹Ð²ÐµÐ´ÐµÐ½Ð¾ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ Ð¾ Ñ‚Ð¾Ð¼, Ñ‡Ñ‚Ð¾ ÑÑƒÑ‰Ð½Ð¾ÑÑ‚ÑŒ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð°.";
 ?>

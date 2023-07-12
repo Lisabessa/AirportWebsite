@@ -1,13 +1,13 @@
 <?
-$MESS ['SONET_GROUP_SUBJECT_0'] = "Îòäûõ";
-$MESS ['SONET_GROUP_SUBJECT_1'] = "Ðàáîòà";
-$MESS ['SONET_GROUP_NAME_0'] = "Ïóòåøåñòâèÿ";
-$MESS ['SONET_GROUP_DESCRIPTION_0'] = "Îò÷åòû î ïîåçäêàõ, îáñóæäåíèå ïðàêòè÷åñêèõ âîïðîñîâ";
-$MESS ['SONET_GROUP_KEYWORDS_0'] = "ïóòåøåñòâèÿ, òóðèçì";
-$MESS ['SONET_GROUP_NAME_1'] = "Âåëîñèïåä";
-$MESS ['SONET_GROUP_DESCRIPTION_1'] = "Ïëàíèðîâàíèå ïîåçäîê, îò÷åòû, îáìåí îïûòîì ";
-$MESS ['SONET_GROUP_KEYWORDS_1'] = "àêòèâíûé îòäûõ, òóðèçì";
-$MESS ['SONET_GROUP_NAME_2'] = "Ðàáîòà íàä ñàéòîì";
-$MESS ['SONET_GROUP_DESCRIPTION_2'] = "Ñîâìåñòíàÿ ðàáîòà íàä ñàéòîì";
-$MESS ['SONET_GROUP_KEYWORDS_2'] = "ðàáîòà";
+$MESS ['SONET_GROUP_SUBJECT_0'] = "ÐžÑ‚Ð´Ñ‹Ñ…";
+$MESS ['SONET_GROUP_SUBJECT_1'] = "Ð Ð°Ð±Ð¾Ñ‚Ð°";
+$MESS ['SONET_GROUP_NAME_0'] = "ÐŸÑƒÑ‚ÐµÑˆÐµÑÑ‚Ð²Ð¸Ñ";
+$MESS ['SONET_GROUP_DESCRIPTION_0'] = "ÐžÑ‚Ñ‡ÐµÑ‚Ñ‹ Ð¾ Ð¿Ð¾ÐµÐ·Ð´ÐºÐ°Ñ…, Ð¾Ð±ÑÑƒÐ¶Ð´ÐµÐ½Ð¸Ðµ Ð¿Ñ€Ð°ÐºÑ‚Ð¸Ñ‡ÐµÑÐºÐ¸Ñ… Ð²Ð¾Ð¿Ñ€Ð¾ÑÐ¾Ð²";
+$MESS ['SONET_GROUP_KEYWORDS_0'] = "Ð¿ÑƒÑ‚ÐµÑˆÐµÑÑ‚Ð²Ð¸Ñ, Ñ‚ÑƒÑ€Ð¸Ð·Ð¼";
+$MESS ['SONET_GROUP_NAME_1'] = "Ð’ÐµÐ»Ð¾ÑÐ¸Ð¿ÐµÐ´";
+$MESS ['SONET_GROUP_DESCRIPTION_1'] = "ÐŸÐ»Ð°Ð½Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð¿Ð¾ÐµÐ·Ð´Ð¾Ðº, Ð¾Ñ‚Ñ‡ÐµÑ‚Ñ‹, Ð¾Ð±Ð¼ÐµÐ½ Ð¾Ð¿Ñ‹Ñ‚Ð¾Ð¼ ";
+$MESS ['SONET_GROUP_KEYWORDS_1'] = "Ð°ÐºÑ‚Ð¸Ð²Ð½Ñ‹Ð¹ Ð¾Ñ‚Ð´Ñ‹Ñ…, Ñ‚ÑƒÑ€Ð¸Ð·Ð¼";
+$MESS ['SONET_GROUP_NAME_2'] = "Ð Ð°Ð±Ð¾Ñ‚Ð° Ð½Ð°Ð´ ÑÐ°Ð¹Ñ‚Ð¾Ð¼";
+$MESS ['SONET_GROUP_DESCRIPTION_2'] = "Ð¡Ð¾Ð²Ð¼ÐµÑÑ‚Ð½Ð°Ñ Ñ€Ð°Ð±Ð¾Ñ‚Ð° Ð½Ð°Ð´ ÑÐ°Ð¹Ñ‚Ð¾Ð¼";
+$MESS ['SONET_GROUP_KEYWORDS_2'] = "Ñ€Ð°Ð±Ð¾Ñ‚Ð°";
 ?>

@@ -1,5 +1,5 @@
 <?
-$MESS["IBLOCK_SEQUENCE_ENTITY_IBLOCK_ID_FIELD"] = "Èäåíòèôèêàòîð èíôîáëîêà";
-$MESS["IBLOCK_SEQUENCE_ENTITY_CODE_FIELD"] = "Êîä ïîñëåäîâàòåëüíîñòè";
-$MESS["IBLOCK_SEQUENCE_ENTITY_SEQ_VALUE_FIELD"] = "Çíà÷åíèå ïîñëåäîâàòåëüíîñòè";
+$MESS["IBLOCK_SEQUENCE_ENTITY_IBLOCK_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐ°";
+$MESS["IBLOCK_SEQUENCE_ENTITY_CODE_FIELD"] = "ÐšÐ¾Ð´ Ð¿Ð¾ÑÐ»ÐµÐ´Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒÐ½Ð¾ÑÑ‚Ð¸";
+$MESS["IBLOCK_SEQUENCE_ENTITY_SEQ_VALUE_FIELD"] = "Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð¿Ð¾ÑÐ»ÐµÐ´Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒÐ½Ð¾ÑÑ‚Ð¸";
 ?>

@@ -1,6 +1,6 @@
 <?
-$MESS["OPINIONS_NAME"] = "Âàøå èìÿ";
-$MESS["OPINIONS_EMAIL"] = "Âàø E-Mail";
-$MESS["F_CAPTCHA_TITLE"] = "Çàùèòà îò àâòîìàòè÷åñêèõ ñîîáùåíèé";
-$MESS["F_CAPTCHA_PROMT"] = "Ñèìâîëû íà êàðòèíêå";
+$MESS["OPINIONS_NAME"] = "Ð’Ð°ÑˆÐµ Ð¸Ð¼Ñ";
+$MESS["OPINIONS_EMAIL"] = "Ð’Ð°Ñˆ E-Mail";
+$MESS["F_CAPTCHA_TITLE"] = "Ð—Ð°Ñ‰Ð¸Ñ‚Ð° Ð¾Ñ‚ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸Ñ… ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ð¹";
+$MESS["F_CAPTCHA_PROMT"] = "Ð¡Ð¸Ð¼Ð²Ð¾Ð»Ñ‹ Ð½Ð° ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐµ";
 ?>

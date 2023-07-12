@@ -38,7 +38,7 @@
 		"CACHE_GROUPS" => "N",
 		"DISPLAY_TOP_PAGER" => "N",
 		"DISPLAY_BOTTOM_PAGER" => "N",
-		"PAGER_TITLE" => "Новости",
+		"PAGER_TITLE" => "РќРѕРІРѕСЃС‚Рё",
 		"PAGER_SHOW_ALWAYS" => "N",
 		"PAGER_TEMPLATE" => "",
 		"PAGER_DESC_NUMBERING" => "N",
@@ -48,6 +48,6 @@
 		"AJAX_OPTION_JUMP" => "N",
 		"AJAX_OPTION_STYLE" => "Y",
 		"AJAX_OPTION_HISTORY" => "N",
-		"NAME_BLOCK" => "Последние новости",
+		"NAME_BLOCK" => "РџРѕСЃР»РµРґРЅРёРµ РЅРѕРІРѕСЃС‚Рё",
 	)
 );?>

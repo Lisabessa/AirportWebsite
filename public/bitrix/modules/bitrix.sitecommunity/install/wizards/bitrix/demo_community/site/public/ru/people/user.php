@@ -1,6 +1,6 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Ëþäè");
+$APPLICATION->SetTitle("Ð›ÑŽÐ´Ð¸");
 ?>
 
 <?$APPLICATION->IncludeComponent("bitrix:socialnetwork_user", ".default", array(

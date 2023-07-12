@@ -1,3 +1,3 @@
 <?
-$sSectionName="Èìïîðò RSS";
+$sSectionName="Ð˜Ð¼Ð¿Ð¾Ñ€Ñ‚ RSS";
 ?>

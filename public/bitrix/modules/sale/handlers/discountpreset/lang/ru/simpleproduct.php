@@ -1,6 +1,6 @@
 <?php
-$MESS["SALE_HANDLERS_DISCOUNTPRESET_SIMPLEPRODUCT_NAME"] = "Ñêèäêà íà òîâàðû, ãðóïïû òîâàðîâ";
-$MESS["SALE_HANDLERS_DISCOUNTPRESET_ERROR_SECTION_NON_ARRAY"] = "Íåâåðíîå çíà÷åíèÿ ïðè âûáîðå ñåêöèé";
-$MESS["SALE_HANDLERS_DISCOUNTPRESET_ERROR_PRODUCT_NON_ARRAY"] = "Íåâåðíîå çíà÷åíèÿ ïðè âûáîðå ïðîäóêòîâ";
-$MESS["SALE_HANDLERS_DISCOUNTPRESET_SIMPLEPRODUCT_DISCOUNT_VALUE"] = "Ñêèäêà";
+$MESS["SALE_HANDLERS_DISCOUNTPRESET_SIMPLEPRODUCT_NAME"] = "Ð¡ÐºÐ¸Ð´ÐºÐ° Ð½Ð° Ñ‚Ð¾Ð²Ð°Ñ€Ñ‹, Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹ Ñ‚Ð¾Ð²Ð°Ñ€Ð¾Ð²";
+$MESS["SALE_HANDLERS_DISCOUNTPRESET_ERROR_SECTION_NON_ARRAY"] = "ÐÐµÐ²ÐµÑ€Ð½Ð¾Ðµ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ñ Ð¿Ñ€Ð¸ Ð²Ñ‹Ð±Ð¾Ñ€Ðµ ÑÐµÐºÑ†Ð¸Ð¹";
+$MESS["SALE_HANDLERS_DISCOUNTPRESET_ERROR_PRODUCT_NON_ARRAY"] = "ÐÐµÐ²ÐµÑ€Ð½Ð¾Ðµ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ñ Ð¿Ñ€Ð¸ Ð²Ñ‹Ð±Ð¾Ñ€Ðµ Ð¿Ñ€Ð¾Ð´ÑƒÐºÑ‚Ð¾Ð²";
+$MESS["SALE_HANDLERS_DISCOUNTPRESET_SIMPLEPRODUCT_DISCOUNT_VALUE"] = "Ð¡ÐºÐ¸Ð´ÐºÐ°";
 ?>

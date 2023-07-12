@@ -1,4 +1,4 @@
 <?
-$MESS ['MAIN_DUMP_EXPORT_ERROR'] = "Îøèáêà ñêà÷èâàíèÿ";
-$MESS ['MAIN_DUMP_EXPORT_ERROR_MSG'] = "Íå óäàëîñü íàéòè íåîáõîäèìûé ôàéë!";
+$MESS ['MAIN_DUMP_EXPORT_ERROR'] = "ÐžÑˆÐ¸Ð±ÐºÐ° ÑÐºÐ°Ñ‡Ð¸Ð²Ð°Ð½Ð¸Ñ";
+$MESS ['MAIN_DUMP_EXPORT_ERROR_MSG'] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ Ð½Ð°Ð¹Ñ‚Ð¸ Ð½ÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ñ‹Ð¹ Ñ„Ð°Ð¹Ð»!";
 ?>

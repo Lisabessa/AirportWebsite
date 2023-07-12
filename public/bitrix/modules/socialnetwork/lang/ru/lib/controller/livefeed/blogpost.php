@@ -1,5 +1,5 @@
 <?
-$MESS["SONET_CONTROLLER_LIVEFEED_BLOGPOST_EMPTY"] = "Не передано значение ID сообщения.";
-$MESS["SONET_CONTROLLER_LIVEFEED_BLOGPOST_NOT_FOUND"] = "Сообщение не найдено.";
-$MESS["SONET_CONTROLLER_LIVEFEED_BLOGPOST_SHARE_PREMODERATION"] = "Добавление получателей невозможно, так как выбрана группа, использующая режим премодерации.";
+$MESS["SONET_CONTROLLER_LIVEFEED_BLOGPOST_EMPTY"] = "РќРµ РїРµСЂРµРґР°РЅРѕ Р·РЅР°С‡РµРЅРёРµ ID СЃРѕРѕР±С‰РµРЅРёСЏ.";
+$MESS["SONET_CONTROLLER_LIVEFEED_BLOGPOST_NOT_FOUND"] = "РЎРѕРѕР±С‰РµРЅРёРµ РЅРµ РЅР°Р№РґРµРЅРѕ.";
+$MESS["SONET_CONTROLLER_LIVEFEED_BLOGPOST_SHARE_PREMODERATION"] = "Р”РѕР±Р°РІР»РµРЅРёРµ РїРѕР»СѓС‡Р°С‚РµР»РµР№ РЅРµРІРѕР·РјРѕР¶РЅРѕ, С‚Р°Рє РєР°Рє РІС‹Р±СЂР°РЅР° РіСЂСѓРїРїР°, РёСЃРїРѕР»СЊР·СѓСЋС‰Р°СЏ СЂРµР¶РёРј РїСЂРµРјРѕРґРµСЂР°С†РёРё.";
 ?>

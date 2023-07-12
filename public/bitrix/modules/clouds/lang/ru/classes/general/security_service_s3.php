@@ -1,4 +1,4 @@
 <?
-$MESS["CLO_SECSERV_S3_XML_PARSE_ERROR"] = "íåðàñïîçíàííûé îòâåò ñëóæáû (îøèáêà ##errno#)";
-$MESS["CLO_SECSERV_S3_XML_ERROR"] = "îøèáêà ñëóæáû: #errmsg#";
+$MESS["CLO_SECSERV_S3_XML_PARSE_ERROR"] = "Ð½ÐµÑ€Ð°ÑÐ¿Ð¾Ð·Ð½Ð°Ð½Ð½Ñ‹Ð¹ Ð¾Ñ‚Ð²ÐµÑ‚ ÑÐ»ÑƒÐ¶Ð±Ñ‹ (Ð¾ÑˆÐ¸Ð±ÐºÐ° ##errno#)";
+$MESS["CLO_SECSERV_S3_XML_ERROR"] = "Ð¾ÑˆÐ¸Ð±ÐºÐ° ÑÐ»ÑƒÐ¶Ð±Ñ‹: #errmsg#";
 ?>

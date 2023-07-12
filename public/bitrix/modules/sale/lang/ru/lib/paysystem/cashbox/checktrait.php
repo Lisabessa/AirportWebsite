@@ -1,5 +1,5 @@
 <?php
-$MESS['SALE_PAYSYSTEM_CASHBOX_CHECKTRAIT_DOCUMENT_IS_EMPTY_ERROR'] = 'Íå íàéäåíû äîêóìåíòû äëÿ ãåíåðàöèè ÷åêà';
-$MESS['SALE_PAYSYSTEM_CASHBOX_CHECKTRAIT_CHECK_IS_EMPTY_ERROR'] = 'Íå ñîçäàí ÷åê';
-$MESS['SALE_PAYSYSTEM_CASHBOX_CHECKTRAIT_SERVICE_IS_EMPTY_ERROR'] = 'Íå íàéäåíà ïëàò¸æíàÿ ñèñòåìà';
-$MESS['SALE_PAYSYSTEM_CASHBOX_CHECKTRAIT_CASHBOX_NOT_FOUND_ERROR'] = 'Íå íàéäåíà êàññà';
+$MESS['SALE_PAYSYSTEM_CASHBOX_CHECKTRAIT_DOCUMENT_IS_EMPTY_ERROR'] = 'ÐÐµ Ð½Ð°Ð¹Ð´ÐµÐ½Ñ‹ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ñ‹ Ð´Ð»Ñ Ð³ÐµÐ½ÐµÑ€Ð°Ñ†Ð¸Ð¸ Ñ‡ÐµÐºÐ°';
+$MESS['SALE_PAYSYSTEM_CASHBOX_CHECKTRAIT_CHECK_IS_EMPTY_ERROR'] = 'ÐÐµ ÑÐ¾Ð·Ð´Ð°Ð½ Ñ‡ÐµÐº';
+$MESS['SALE_PAYSYSTEM_CASHBOX_CHECKTRAIT_SERVICE_IS_EMPTY_ERROR'] = 'ÐÐµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð° Ð¿Ð»Ð°Ñ‚Ñ‘Ð¶Ð½Ð°Ñ ÑÐ¸ÑÑ‚ÐµÐ¼Ð°';
+$MESS['SALE_PAYSYSTEM_CASHBOX_CHECKTRAIT_CASHBOX_NOT_FOUND_ERROR'] = 'ÐÐµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð° ÐºÐ°ÑÑÐ°';

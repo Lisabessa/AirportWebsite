@@ -1,22 +1,22 @@
 <?
-$MESS ['LEARNING_ADMIN_TAB1'] = "Êóðñ";
-$MESS ['LEARNING_ADMIN_TAB1_EX'] = "Âûáîð êóðñà äëÿ ýêñïîðòà";
-$MESS ['LEARNING_ADMIN_TAB2'] = "Ïàðàìåòðû ýêñïîðòà";
-$MESS ['LEARNING_ADMIN_TAB2_EX'] = "Íàñòðîéêà ïàðàìåòðîâ ýêñïîðòà";
-$MESS ['LEARNING_ADMIN_TAB3'] = "Ðåçóëüòàò";
-$MESS ['LEARNING_ADMIN_TAB3_EX'] = "Ðåçóëüòàò ýêñïîðòà";
-$MESS ['LEARNING_PAGE_TITLE'] = "Âûãðóçêà êóðñà: øàã";
-$MESS ['LEARNING_DATA_FILE_NAME1_T'] = "(îòíîñèòåëüíî êîðíÿ ñàéòà)";
-$MESS ['LEARNING_2_1_STEP'] = "Âåðíóòüñÿ íà ïåðâûé øàã";
+$MESS ['LEARNING_ADMIN_TAB1'] = "ÐšÑƒÑ€Ñ";
+$MESS ['LEARNING_ADMIN_TAB1_EX'] = "Ð’Ñ‹Ð±Ð¾Ñ€ ÐºÑƒÑ€ÑÐ° Ð´Ð»Ñ ÑÐºÑÐ¿Ð¾Ñ€Ñ‚Ð°";
+$MESS ['LEARNING_ADMIN_TAB2'] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ ÑÐºÑÐ¿Ð¾Ñ€Ñ‚Ð°";
+$MESS ['LEARNING_ADMIN_TAB2_EX'] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð¾Ð² ÑÐºÑÐ¿Ð¾Ñ€Ñ‚Ð°";
+$MESS ['LEARNING_ADMIN_TAB3'] = "Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚";
+$MESS ['LEARNING_ADMIN_TAB3_EX'] = "Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚ ÑÐºÑÐ¿Ð¾Ñ€Ñ‚Ð°";
+$MESS ['LEARNING_PAGE_TITLE'] = "Ð’Ñ‹Ð³Ñ€ÑƒÐ·ÐºÐ° ÐºÑƒÑ€ÑÐ°: ÑˆÐ°Ð³";
+$MESS ['LEARNING_DATA_FILE_NAME1_T'] = "(Ð¾Ñ‚Ð½Ð¾ÑÐ¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾ ÐºÐ¾Ñ€Ð½Ñ ÑÐ°Ð¹Ñ‚Ð°)";
+$MESS ['LEARNING_2_1_STEP'] = "Ð’ÐµÑ€Ð½ÑƒÑ‚ÑŒÑÑ Ð½Ð° Ð¿ÐµÑ€Ð²Ñ‹Ð¹ ÑˆÐ°Ð³";
 
-$MESS ['LEARNING_NEXT_STEP_F'] = "Íà÷àòü âûãðóçêó";
-$MESS ['LEARNING_DATA_FILE_NAME1_DESC'] = "Åñëè òàêîé ôàéë ñóùåñòâóåò, òî îí áóäåò ïåðåçàïèñàí";
-$MESS ['LEARNING_SU_ALL1'] = "Ñêà÷àòü ôàéë %DATA_URL% íà ñâîé êîìïüþòåð";
-$MESS ['LEARNING_DATA_FILE_NAME'] = "Ñîõðàíèòü ôàéë äàííûõ êàê...";
-$MESS ['LEARNING_DATA_FILE_NAME1'] = "Èìÿ ôàéëà äàííûõ";
-$MESS ['LEARNING_SUCCESS'] = "Âûãðóçêà çàâåðøåíà";
-$MESS ['LEARNING_SU_ALL'] = "Âñåãî âûãðóæåíî ñòðîê:";
-$MESS ['LEARNING_BACK'] = "Íàçàä";
-$MESS ['LEARNING_NEXT_STEP'] = "Äàëåå";
-$MESS ['LEARNING_NO_DATA_FILE'] = "Óêàæèòå ôàéë äëÿ ñîõðàíåíèÿ ðåçóëüòàòà.";
+$MESS ['LEARNING_NEXT_STEP_F'] = "ÐÐ°Ñ‡Ð°Ñ‚ÑŒ Ð²Ñ‹Ð³Ñ€ÑƒÐ·ÐºÑƒ";
+$MESS ['LEARNING_DATA_FILE_NAME1_DESC'] = "Ð•ÑÐ»Ð¸ Ñ‚Ð°ÐºÐ¾Ð¹ Ñ„Ð°Ð¹Ð» ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÐµÑ‚, Ñ‚Ð¾ Ð¾Ð½ Ð±ÑƒÐ´ÐµÑ‚ Ð¿ÐµÑ€ÐµÐ·Ð°Ð¿Ð¸ÑÐ°Ð½";
+$MESS ['LEARNING_SU_ALL1'] = "Ð¡ÐºÐ°Ñ‡Ð°Ñ‚ÑŒ Ñ„Ð°Ð¹Ð» %DATA_URL% Ð½Ð° ÑÐ²Ð¾Ð¹ ÐºÐ¾Ð¼Ð¿ÑŒÑŽÑ‚ÐµÑ€";
+$MESS ['LEARNING_DATA_FILE_NAME'] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ Ñ„Ð°Ð¹Ð» Ð´Ð°Ð½Ð½Ñ‹Ñ… ÐºÐ°Ðº...";
+$MESS ['LEARNING_DATA_FILE_NAME1'] = "Ð˜Ð¼Ñ Ñ„Ð°Ð¹Ð»Ð° Ð´Ð°Ð½Ð½Ñ‹Ñ…";
+$MESS ['LEARNING_SUCCESS'] = "Ð’Ñ‹Ð³Ñ€ÑƒÐ·ÐºÐ° Ð·Ð°Ð²ÐµÑ€ÑˆÐµÐ½Ð°";
+$MESS ['LEARNING_SU_ALL'] = "Ð’ÑÐµÐ³Ð¾ Ð²Ñ‹Ð³Ñ€ÑƒÐ¶ÐµÐ½Ð¾ ÑÑ‚Ñ€Ð¾Ðº:";
+$MESS ['LEARNING_BACK'] = "ÐÐ°Ð·Ð°Ð´";
+$MESS ['LEARNING_NEXT_STEP'] = "Ð”Ð°Ð»ÐµÐµ";
+$MESS ['LEARNING_NO_DATA_FILE'] = "Ð£ÐºÐ°Ð¶Ð¸Ñ‚Ðµ Ñ„Ð°Ð¹Ð» Ð´Ð»Ñ ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð¸Ñ Ñ€ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ð°.";
 ?>

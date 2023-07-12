@@ -1,12 +1,12 @@
 <?
-$MESS["SALE_DTM_STATUS_NAME_NO_INFORMATION"] = "²íôîðìàö³ÿ â³äñóòíÿ";
-$MESS["SALE_DTM_STATUS_NAME_WAITING_SHIPMENT"] = "Ó ïóíêò³ ïðèéîìó";
-$MESS["SALE_DTM_STATUS_NAME_ON_THE_WAY"] = "Â äîðîç³";
-$MESS["SALE_DTM_STATUS_NAME_ARRIVED"] = "Ó ïóíêò³ ïðèçíà÷åííÿ";
-$MESS["SALE_DTM_STATUS_NAME_HANDED"] = "Âèäà÷à çðîáëåíà";
-$MESS["SALE_DTM_STATUS_NAME_PROBLEM"] = "Ïðîáëåìà";
-$MESS["SALE_DTM_STATUS_NAME_UNKNOWN"] = "Íåâ³äîìèé ñòàòóñ";
-$MESS["SALE_DTM_SHIPMENT_STATUS_TRACKING_URL"] = "Äåòàëüíî ïðî ñòàòóñ â³äïðàâêè Âè ìîæåòå ä³çíàòèñÿ #A1#íà ñàéò³ ñëóæáè äîñòàâêè#A2#";
-$MESS["SALE_DTM_ORDER_DETAIL_URL"] = "Îòðèìàòè á³ëüø äåòàëüíó ³íôîðìàö³þ ùîäî çàìîâëåííÿ Âè ìîæåòå #A1#íà ñàéò³#A2#";
-$MESS["SALE_DTM_STATUS_NAME_RETURNED"] = "Ïîâåðíóòî â³äïðàâíèêó";
+$MESS["SALE_DTM_STATUS_NAME_NO_INFORMATION"] = "Ð†Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ñ–Ñ Ð²Ñ–Ð´ÑÑƒÑ‚Ð½Ñ";
+$MESS["SALE_DTM_STATUS_NAME_WAITING_SHIPMENT"] = "Ð£ Ð¿ÑƒÐ½ÐºÑ‚Ñ– Ð¿Ñ€Ð¸Ð¹Ð¾Ð¼Ñƒ";
+$MESS["SALE_DTM_STATUS_NAME_ON_THE_WAY"] = "Ð’ Ð´Ð¾Ñ€Ð¾Ð·Ñ–";
+$MESS["SALE_DTM_STATUS_NAME_ARRIVED"] = "Ð£ Ð¿ÑƒÐ½ÐºÑ‚Ñ– Ð¿Ñ€Ð¸Ð·Ð½Ð°Ñ‡ÐµÐ½Ð½Ñ";
+$MESS["SALE_DTM_STATUS_NAME_HANDED"] = "Ð’Ð¸Ð´Ð°Ñ‡Ð° Ð·Ñ€Ð¾Ð±Ð»ÐµÐ½Ð°";
+$MESS["SALE_DTM_STATUS_NAME_PROBLEM"] = "ÐŸÑ€Ð¾Ð±Ð»ÐµÐ¼Ð°";
+$MESS["SALE_DTM_STATUS_NAME_UNKNOWN"] = "ÐÐµÐ²Ñ–Ð´Ð¾Ð¼Ð¸Ð¹ ÑÑ‚Ð°Ñ‚ÑƒÑ";
+$MESS["SALE_DTM_SHIPMENT_STATUS_TRACKING_URL"] = "Ð”ÐµÑ‚Ð°Ð»ÑŒÐ½Ð¾ Ð¿Ñ€Ð¾ ÑÑ‚Ð°Ñ‚ÑƒÑ Ð²Ñ–Ð´Ð¿Ñ€Ð°Ð²ÐºÐ¸ Ð’Ð¸ Ð¼Ð¾Ð¶ÐµÑ‚Ðµ Ð´Ñ–Ð·Ð½Ð°Ñ‚Ð¸ÑÑ #A1#Ð½Ð° ÑÐ°Ð¹Ñ‚Ñ– ÑÐ»ÑƒÐ¶Ð±Ð¸ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸#A2#";
+$MESS["SALE_DTM_ORDER_DETAIL_URL"] = "ÐžÑ‚Ñ€Ð¸Ð¼Ð°Ñ‚Ð¸ Ð±Ñ–Ð»ÑŒÑˆ Ð´ÐµÑ‚Ð°Ð»ÑŒÐ½Ñƒ Ñ–Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ñ–ÑŽ Ñ‰Ð¾Ð´Ð¾ Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ Ð’Ð¸ Ð¼Ð¾Ð¶ÐµÑ‚Ðµ #A1#Ð½Ð° ÑÐ°Ð¹Ñ‚Ñ–#A2#";
+$MESS["SALE_DTM_STATUS_NAME_RETURNED"] = "ÐŸÐ¾Ð²ÐµÑ€Ð½ÑƒÑ‚Ð¾ Ð²Ñ–Ð´Ð¿Ñ€Ð°Ð²Ð½Ð¸ÐºÑƒ";
 ?>

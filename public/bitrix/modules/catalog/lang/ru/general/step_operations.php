@@ -1,11 +1,11 @@
 <?
-$MESS["BX_STEP_OPERATION_PROGRESS_TEMPLATE"] = "<p>Общее число элементов: #ALL#<br>Обработано: #COUNT#</p>";
-$MESS["BX_STEP_OPERATION_CATALOG_TITLE"] = "Товары инфоблока #NAME# [#ID#]";
-$MESS["BX_STEP_OPERATION_OFFERS_TITLE"] = "Торговые предложения инфоблока #NAME# [#ID#]";
-$MESS["BX_STEP_OPERATION_SETS_TITLE"] = "Комплекты";
-$MESS["BX_CATALOG_REINDEX_NOTIFY"] = "Внимание! Для получения корректной информации о параметрах товаров и их ценах необходимо выполнить переиндексацию товаров на странице настроек <a href=\"#LINK#\">модуля торгового каталога</a> в разделе Переиндексация данных";
-$MESS["BX_CATALOG_REINDEX_ERR_PRODUCT_PRICE_UPDATE_FAIL_EXT"] = "Ошибка переиндексации цен товара [#ID#] #NAME#: #ERROR#.";
-$MESS["BX_CATALOG_REINDEX_ERR_OFFER_PRICE_UPDATE_FAIL_EXT"] = "Ошибка переиндексации цен торгового предложения [#ID#] #NAME#: #ERROR#.";
-$MESS["BX_CATALOG_REINDEX_ERR_PRODUCT_UPDATE_FAIL_EXT"] = "Ошибка переиндексации товара [#ID#] #NAME#: #ERROR#.";
-$MESS["BX_CATALOG_REINDEX_ERR_OFFER_UPDATE_FAIL_EXT"] = "Ошибка переиндексации торгового предложения [#ID#] #NAME#: #ERROR#.";
+$MESS["BX_STEP_OPERATION_PROGRESS_TEMPLATE"] = "<p>РћР±С‰РµРµ С‡РёСЃР»Рѕ СЌР»РµРјРµРЅС‚РѕРІ: #ALL#<br>РћР±СЂР°Р±РѕС‚Р°РЅРѕ: #COUNT#</p>";
+$MESS["BX_STEP_OPERATION_CATALOG_TITLE"] = "РўРѕРІР°СЂС‹ РёРЅС„РѕР±Р»РѕРєР° #NAME# [#ID#]";
+$MESS["BX_STEP_OPERATION_OFFERS_TITLE"] = "РўРѕСЂРіРѕРІС‹Рµ РїСЂРµРґР»РѕР¶РµРЅРёСЏ РёРЅС„РѕР±Р»РѕРєР° #NAME# [#ID#]";
+$MESS["BX_STEP_OPERATION_SETS_TITLE"] = "РљРѕРјРїР»РµРєС‚С‹";
+$MESS["BX_CATALOG_REINDEX_NOTIFY"] = "Р’РЅРёРјР°РЅРёРµ! Р”Р»СЏ РїРѕР»СѓС‡РµРЅРёСЏ РєРѕСЂСЂРµРєС‚РЅРѕР№ РёРЅС„РѕСЂРјР°С†РёРё Рѕ РїР°СЂР°РјРµС‚СЂР°С… С‚РѕРІР°СЂРѕРІ Рё РёС… С†РµРЅР°С… РЅРµРѕР±С…РѕРґРёРјРѕ РІС‹РїРѕР»РЅРёС‚СЊ РїРµСЂРµРёРЅРґРµРєСЃР°С†РёСЋ С‚РѕРІР°СЂРѕРІ РЅР° СЃС‚СЂР°РЅРёС†Рµ РЅР°СЃС‚СЂРѕРµРє <a href=\"#LINK#\">РјРѕРґСѓР»СЏ С‚РѕСЂРіРѕРІРѕРіРѕ РєР°С‚Р°Р»РѕРіР°</a> РІ СЂР°Р·РґРµР»Рµ РџРµСЂРµРёРЅРґРµРєСЃР°С†РёСЏ РґР°РЅРЅС‹С…";
+$MESS["BX_CATALOG_REINDEX_ERR_PRODUCT_PRICE_UPDATE_FAIL_EXT"] = "РћС€РёР±РєР° РїРµСЂРµРёРЅРґРµРєСЃР°С†РёРё С†РµРЅ С‚РѕРІР°СЂР° [#ID#] #NAME#: #ERROR#.";
+$MESS["BX_CATALOG_REINDEX_ERR_OFFER_PRICE_UPDATE_FAIL_EXT"] = "РћС€РёР±РєР° РїРµСЂРµРёРЅРґРµРєСЃР°С†РёРё С†РµРЅ С‚РѕСЂРіРѕРІРѕРіРѕ РїСЂРµРґР»РѕР¶РµРЅРёСЏ [#ID#] #NAME#: #ERROR#.";
+$MESS["BX_CATALOG_REINDEX_ERR_PRODUCT_UPDATE_FAIL_EXT"] = "РћС€РёР±РєР° РїРµСЂРµРёРЅРґРµРєСЃР°С†РёРё С‚РѕРІР°СЂР° [#ID#] #NAME#: #ERROR#.";
+$MESS["BX_CATALOG_REINDEX_ERR_OFFER_UPDATE_FAIL_EXT"] = "РћС€РёР±РєР° РїРµСЂРµРёРЅРґРµРєСЃР°С†РёРё С‚РѕСЂРіРѕРІРѕРіРѕ РїСЂРµРґР»РѕР¶РµРЅРёСЏ [#ID#] #NAME#: #ERROR#.";
 ?>

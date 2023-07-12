@@ -1,8 +1,8 @@
 <?
-$MESS["JS_CORE_PL_EVENTS"] = "Ñîáûòèÿ";
-$MESS["JS_CORE_PL_EVENTS_ADD"] = "íîâîå ñîáûòèå";
-$MESS["JS_CORE_PL_EVENT_ABSENT"] = "âíå îôèñà";
-$MESS["JS_CORE_PL_EVENT_HOST"] = "(îðãàíèçàòîð)";
-$MESS["JS_CORE_PL_EVENT_CONFIRM"] = "Ïîäòâåðäèòü";
-$MESS["JS_CORE_PL_EVENT_REJECT"] = "Îòêàçàòüñÿ";
+$MESS["JS_CORE_PL_EVENTS"] = "Ð¡Ð¾Ð±Ñ‹Ñ‚Ð¸Ñ";
+$MESS["JS_CORE_PL_EVENTS_ADD"] = "Ð½Ð¾Ð²Ð¾Ðµ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ðµ";
+$MESS["JS_CORE_PL_EVENT_ABSENT"] = "Ð²Ð½Ðµ Ð¾Ñ„Ð¸ÑÐ°";
+$MESS["JS_CORE_PL_EVENT_HOST"] = "(Ð¾Ñ€Ð³Ð°Ð½Ð¸Ð·Ð°Ñ‚Ð¾Ñ€)";
+$MESS["JS_CORE_PL_EVENT_CONFIRM"] = "ÐŸÐ¾Ð´Ñ‚Ð²ÐµÑ€Ð´Ð¸Ñ‚ÑŒ";
+$MESS["JS_CORE_PL_EVENT_REJECT"] = "ÐžÑ‚ÐºÐ°Ð·Ð°Ñ‚ÑŒÑÑ";
 ?>

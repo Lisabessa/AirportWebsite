@@ -1,3 +1,3 @@
 <?
-$MESS["SALE_EBAY_ENTITY_SETTINGS_EMPTY"] = "Íåîáõîäèìî ñíà÷àëà íàñòðîèòü eBay äëÿ ñàéòà #SITE_ID#";
-$MESS["SALE_EBAY_ENTITY_TOKEN_EMPTY"] = "Â íàñòðîéêàõ eBay äëÿ ñàéòà \"#SITE_ID#\" íå óêàçàí àâòîðèçàöèîííûé òîêåí";
+$MESS["SALE_EBAY_ENTITY_SETTINGS_EMPTY"] = "ÐÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ð¾ ÑÐ½Ð°Ñ‡Ð°Ð»Ð° Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¸Ñ‚ÑŒ eBay Ð´Ð»Ñ ÑÐ°Ð¹Ñ‚Ð° #SITE_ID#";
+$MESS["SALE_EBAY_ENTITY_TOKEN_EMPTY"] = "Ð’ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ°Ñ… eBay Ð´Ð»Ñ ÑÐ°Ð¹Ñ‚Ð° \"#SITE_ID#\" Ð½Ðµ ÑƒÐºÐ°Ð·Ð°Ð½ Ð°Ð²Ñ‚Ð¾Ñ€Ð¸Ð·Ð°Ñ†Ð¸Ð¾Ð½Ð½Ñ‹Ð¹ Ñ‚Ð¾ÐºÐµÐ½";

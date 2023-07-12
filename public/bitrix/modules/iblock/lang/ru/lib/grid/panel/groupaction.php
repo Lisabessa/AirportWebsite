@@ -1,16 +1,16 @@
 <?
-$MESS["IBLOCK_GRID_PANEL_ACTION_CLEAR_COUNTER"] = "ñáðîñèòü ñ÷åò÷èê ïðîñìîòðîâ";
-$MESS["IBLOCK_GRID_PANEL_ACTION_CLEAR_COUNTER_CONFIRM"] = "Âû óâåðåíû, ÷òî õîòèòå îáíóëèòü ñ÷åò÷èê è äàòó íà÷àëà ïðîñìîòðîâ ó âûáðàííûõ ýëåìåíòîâ?";
-$MESS["IBLOCK_GRID_PANEL_ACTION_CODE_TRANSLITERATION"] = "ñîçäàòü ñèìâîëüíûé êîä";
-$MESS["IBLOCK_GRID_PANEL_ACTION_CODE_TRANSLITERATION_CONFIRM"] = "Âû óâåðåíû, ÷òî õîòèòå ñãåíåðèðîâàòü ñèìâîëüíûå êîäû äëÿ âûáðàííûõ ïîçèöèé?";
-$MESS["IBLOCK_GRID_PANEL_ACTION_MESS_SECTION_TOP_LEVEL"] = "Âåðõíèé óðîâåíü";
-$MESS["IBLOCK_GRID_PANEL_ACTION_ADD_SECTION"] = "äîáàâèòü ïðèâÿçêó ê ðàçäåëó";
-$MESS["IBLOCK_GRID_PANEL_ACTION_ADJUST_SECTION"] = "ïåðåíåñòè â ðàçäåë";
-$MESS["IBLOCK_GRID_PANEL_ACTION_ACTIVATE"] = "àêòèâèðîâàòü";
-$MESS["IBLOCK_GRID_PANEL_ACTION_DEACTIVATE"] = "äåàêòèâèðîâàòü";
-$MESS["IBLOCK_GRID_PANEL_ACTION_DELETE"] = "óäàëèòü";
-$MESS["IBLOCK_GRID_PANEL_ACTION_EDIT"] = "ðåäàêòèðîâàòü";
-$MESS["IBLOCK_GRID_PANEL_ACTION_ELEMENT_UNLOCK"] = "ðàçáëîêèðîâàòü";
-$MESS["IBLOCK_GRID_PANEL_ACTION_ELEMENT_LOCK"] = "çàáëîêèðîâàòü";
-$MESS["IBLOCK_GRID_PANEL_ACTION_ELEMENT_WORKFLOW_STATUS"] = "èçìåíèòü ñòàòóñ";
+$MESS["IBLOCK_GRID_PANEL_ACTION_CLEAR_COUNTER"] = "ÑÐ±Ñ€Ð¾ÑÐ¸Ñ‚ÑŒ ÑÑ‡ÐµÑ‚Ñ‡Ð¸Ðº Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð¾Ð²";
+$MESS["IBLOCK_GRID_PANEL_ACTION_CLEAR_COUNTER_CONFIRM"] = "Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹, Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ Ð¾Ð±Ð½ÑƒÐ»Ð¸Ñ‚ÑŒ ÑÑ‡ÐµÑ‚Ñ‡Ð¸Ðº Ð¸ Ð´Ð°Ñ‚Ñƒ Ð½Ð°Ñ‡Ð°Ð»Ð° Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð¾Ð² Ñƒ Ð²Ñ‹Ð±Ñ€Ð°Ð½Ð½Ñ‹Ñ… ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð²?";
+$MESS["IBLOCK_GRID_PANEL_ACTION_CODE_TRANSLITERATION"] = "ÑÐ¾Ð·Ð´Ð°Ñ‚ÑŒ ÑÐ¸Ð¼Ð²Ð¾Ð»ÑŒÐ½Ñ‹Ð¹ ÐºÐ¾Ð´";
+$MESS["IBLOCK_GRID_PANEL_ACTION_CODE_TRANSLITERATION_CONFIRM"] = "Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹, Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑÐ³ÐµÐ½ÐµÑ€Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ ÑÐ¸Ð¼Ð²Ð¾Ð»ÑŒÐ½Ñ‹Ðµ ÐºÐ¾Ð´Ñ‹ Ð´Ð»Ñ Ð²Ñ‹Ð±Ñ€Ð°Ð½Ð½Ñ‹Ñ… Ð¿Ð¾Ð·Ð¸Ñ†Ð¸Ð¹?";
+$MESS["IBLOCK_GRID_PANEL_ACTION_MESS_SECTION_TOP_LEVEL"] = "Ð’ÐµÑ€Ñ…Ð½Ð¸Ð¹ ÑƒÑ€Ð¾Ð²ÐµÐ½ÑŒ";
+$MESS["IBLOCK_GRID_PANEL_ACTION_ADD_SECTION"] = "Ð´Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð¿Ñ€Ð¸Ð²ÑÐ·ÐºÑƒ Ðº Ñ€Ð°Ð·Ð´ÐµÐ»Ñƒ";
+$MESS["IBLOCK_GRID_PANEL_ACTION_ADJUST_SECTION"] = "Ð¿ÐµÑ€ÐµÐ½ÐµÑÑ‚Ð¸ Ð² Ñ€Ð°Ð·Ð´ÐµÐ»";
+$MESS["IBLOCK_GRID_PANEL_ACTION_ACTIVATE"] = "Ð°ÐºÑ‚Ð¸Ð²Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ";
+$MESS["IBLOCK_GRID_PANEL_ACTION_DEACTIVATE"] = "Ð´ÐµÐ°ÐºÑ‚Ð¸Ð²Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ";
+$MESS["IBLOCK_GRID_PANEL_ACTION_DELETE"] = "ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ";
+$MESS["IBLOCK_GRID_PANEL_ACTION_EDIT"] = "Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ";
+$MESS["IBLOCK_GRID_PANEL_ACTION_ELEMENT_UNLOCK"] = "Ñ€Ð°Ð·Ð±Ð»Ð¾ÐºÐ¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ";
+$MESS["IBLOCK_GRID_PANEL_ACTION_ELEMENT_LOCK"] = "Ð·Ð°Ð±Ð»Ð¾ÐºÐ¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ";
+$MESS["IBLOCK_GRID_PANEL_ACTION_ELEMENT_WORKFLOW_STATUS"] = "Ð¸Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ ÑÑ‚Ð°Ñ‚ÑƒÑ";
 ?>

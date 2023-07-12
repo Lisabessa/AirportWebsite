@@ -1,14 +1,14 @@
 <?php
-$MESS["SEO_CAMPAIGN_ERROR_WRONG_ENGINE"] = "Íåâîçìîæíî îáíîâèòü çàïèñü äðóãîãî ïðîâàéäåðà";
-$MESS["SEO_CAMPAIGN_ERROR_WRONG_OWNER"] = "Íåâîçìîæíî îáíîâèòü çàïèñü äðóãîãî âëàäåëüöà";
-$MESS["SEO_CAMPAIGN_ERROR_NO_NAME"] = "Íå óêàçàíî íàçâàíèå ðåêëàìíîé êàìïàíèè";
-$MESS["SEO_CAMPAIGN_ERROR_NO_FIO"] = "Íå óêàçàíî èìÿ âëàäåëüöà ðåêëàìíîé êàìïàíèè";
-$MESS["SEO_CAMPAIGN_ERROR_NO_START_DATE"] = "Íå óêàçàíà äàòà íà÷àëà ðåêëàìíîé êàìïàíèè";
-$MESS["SEO_CAMPAIGN_ERROR_NO_STRATEGY"] = "Íå óêàçàíà ñòðàòåãèÿ ðåêëàìíîé êàìïàíèè";
-$MESS["SEO_CAMPAIGN_ERROR_STRATEGY_PARAM_NOT_SUPPORTED"] = "Ïàðàìåòð #PARAM# íå ïîääåðæèâàåòñÿ ñòðàòåãèåé #STRATEGY#";
-$MESS["SEO_CAMPAIGN_ERROR_STRATEGY_PARAM_MANDATORY"] = "Ïàðàìåòð #PARAM# îáÿçàòåëåí äëÿ ñòðàòåãèè #STRATEGY#";
-$MESS["SEO_CAMPAIGN_ERROR_STRATEGY_NOT_SUPPORTED"] = "Ñòðàòåãèÿ #STRATEGY# íå ïîääåðæèâàåòñÿ";
-$MESS["SEO_CAMPAIGN_ERROR_WRONG_EMAIL"] = "Óêàçàí íåêîððåêòíûé E-mail äëÿ óâåäîìëåíèé";
-$MESS["SEO_CAMPAIGN_ERROR_WRONG_INTERVAL"] = "Ïåðèîäè÷íîñòü ïðîâåðêè ïîçèöèè äîëæíà èìåòü îäíî èç çíà÷åíèé: #VALUES#";
-$MESS["SEO_CAMPAIGN_ERROR_WRONG_WARNING"] = "Çíà÷åíèå îñòàòêà ïî ñ÷åòó äëÿ óâåäîìëåíèÿ äîëæíî áûòü â ïðåäåëàõ îò #MIN# äî #MAX#";
-$MESS["SEO_CAMPAIGN_ERROR_CAMPAIGN_NOT_FOUND"] = "Êàìïàíèÿ ¹#ID# íå íàéäåíà â ßíäåêñ.Äèðåêò!";
+$MESS["SEO_CAMPAIGN_ERROR_WRONG_ENGINE"] = "ÐÐµÐ²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ Ð¾Ð±Ð½Ð¾Ð²Ð¸Ñ‚ÑŒ Ð·Ð°Ð¿Ð¸ÑÑŒ Ð´Ñ€ÑƒÐ³Ð¾Ð³Ð¾ Ð¿Ñ€Ð¾Ð²Ð°Ð¹Ð´ÐµÑ€Ð°";
+$MESS["SEO_CAMPAIGN_ERROR_WRONG_OWNER"] = "ÐÐµÐ²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ Ð¾Ð±Ð½Ð¾Ð²Ð¸Ñ‚ÑŒ Ð·Ð°Ð¿Ð¸ÑÑŒ Ð´Ñ€ÑƒÐ³Ð¾Ð³Ð¾ Ð²Ð»Ð°Ð´ÐµÐ»ÑŒÑ†Ð°";
+$MESS["SEO_CAMPAIGN_ERROR_NO_NAME"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾ Ð½Ð°Ð·Ð²Ð°Ð½Ð¸Ðµ Ñ€ÐµÐºÐ»Ð°Ð¼Ð½Ð¾Ð¹ ÐºÐ°Ð¼Ð¿Ð°Ð½Ð¸Ð¸";
+$MESS["SEO_CAMPAIGN_ERROR_NO_FIO"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾ Ð¸Ð¼Ñ Ð²Ð»Ð°Ð´ÐµÐ»ÑŒÑ†Ð° Ñ€ÐµÐºÐ»Ð°Ð¼Ð½Ð¾Ð¹ ÐºÐ°Ð¼Ð¿Ð°Ð½Ð¸Ð¸";
+$MESS["SEO_CAMPAIGN_ERROR_NO_START_DATE"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð° Ð´Ð°Ñ‚Ð° Ð½Ð°Ñ‡Ð°Ð»Ð° Ñ€ÐµÐºÐ»Ð°Ð¼Ð½Ð¾Ð¹ ÐºÐ°Ð¼Ð¿Ð°Ð½Ð¸Ð¸";
+$MESS["SEO_CAMPAIGN_ERROR_NO_STRATEGY"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð° ÑÑ‚Ñ€Ð°Ñ‚ÐµÐ³Ð¸Ñ Ñ€ÐµÐºÐ»Ð°Ð¼Ð½Ð¾Ð¹ ÐºÐ°Ð¼Ð¿Ð°Ð½Ð¸Ð¸";
+$MESS["SEO_CAMPAIGN_ERROR_STRATEGY_PARAM_NOT_SUPPORTED"] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€ #PARAM# Ð½Ðµ Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶Ð¸Ð²Ð°ÐµÑ‚ÑÑ ÑÑ‚Ñ€Ð°Ñ‚ÐµÐ³Ð¸ÐµÐ¹ #STRATEGY#";
+$MESS["SEO_CAMPAIGN_ERROR_STRATEGY_PARAM_MANDATORY"] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€ #PARAM# Ð¾Ð±ÑÐ·Ð°Ñ‚ÐµÐ»ÐµÐ½ Ð´Ð»Ñ ÑÑ‚Ñ€Ð°Ñ‚ÐµÐ³Ð¸Ð¸ #STRATEGY#";
+$MESS["SEO_CAMPAIGN_ERROR_STRATEGY_NOT_SUPPORTED"] = "Ð¡Ñ‚Ñ€Ð°Ñ‚ÐµÐ³Ð¸Ñ #STRATEGY# Ð½Ðµ Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶Ð¸Ð²Ð°ÐµÑ‚ÑÑ";
+$MESS["SEO_CAMPAIGN_ERROR_WRONG_EMAIL"] = "Ð£ÐºÐ°Ð·Ð°Ð½ Ð½ÐµÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ñ‹Ð¹ E-mail Ð´Ð»Ñ ÑƒÐ²ÐµÐ´Ð¾Ð¼Ð»ÐµÐ½Ð¸Ð¹";
+$MESS["SEO_CAMPAIGN_ERROR_WRONG_INTERVAL"] = "ÐŸÐµÑ€Ð¸Ð¾Ð´Ð¸Ñ‡Ð½Ð¾ÑÑ‚ÑŒ Ð¿Ñ€Ð¾Ð²ÐµÑ€ÐºÐ¸ Ð¿Ð¾Ð·Ð¸Ñ†Ð¸Ð¸ Ð´Ð¾Ð»Ð¶Ð½Ð° Ð¸Ð¼ÐµÑ‚ÑŒ Ð¾Ð´Ð½Ð¾ Ð¸Ð· Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ð¹: #VALUES#";
+$MESS["SEO_CAMPAIGN_ERROR_WRONG_WARNING"] = "Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð¾ÑÑ‚Ð°Ñ‚ÐºÐ° Ð¿Ð¾ ÑÑ‡ÐµÑ‚Ñƒ Ð´Ð»Ñ ÑƒÐ²ÐµÐ´Ð¾Ð¼Ð»ÐµÐ½Ð¸Ñ Ð´Ð¾Ð»Ð¶Ð½Ð¾ Ð±Ñ‹Ñ‚ÑŒ Ð² Ð¿Ñ€ÐµÐ´ÐµÐ»Ð°Ñ… Ð¾Ñ‚ #MIN# Ð´Ð¾ #MAX#";
+$MESS["SEO_CAMPAIGN_ERROR_CAMPAIGN_NOT_FOUND"] = "ÐšÐ°Ð¼Ð¿Ð°Ð½Ð¸Ñ â„–#ID# Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð° Ð² Ð¯Ð½Ð´ÐµÐºÑ.Ð”Ð¸Ñ€ÐµÐºÑ‚!";

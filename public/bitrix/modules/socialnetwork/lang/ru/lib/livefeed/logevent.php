@@ -1,4 +1,4 @@
 <?
-$MESS["SONET_LIVEFEED_LOG_DATA_PINNED_TITLE"] = "Сообщение из внешнего источника";
-$MESS["SONET_LIVEFEED_LOG_DATA_PINNED_TITLE2"] = "Сообщение из внешнего источника: #TITLE#";
+$MESS["SONET_LIVEFEED_LOG_DATA_PINNED_TITLE"] = "РЎРѕРѕР±С‰РµРЅРёРµ РёР· РІРЅРµС€РЅРµРіРѕ РёСЃС‚РѕС‡РЅРёРєР°";
+$MESS["SONET_LIVEFEED_LOG_DATA_PINNED_TITLE2"] = "РЎРѕРѕР±С‰РµРЅРёРµ РёР· РІРЅРµС€РЅРµРіРѕ РёСЃС‚РѕС‡РЅРёРєР°: #TITLE#";
 ?>

@@ -1,27 +1,27 @@
 <?php
 
-$MESS ['MAIL_MSERVICE_EDT_TITLE_1'] = "Èçìåíåíèå ïàðàìåòðîâ ïî÷òîâîãî ñåðâèñà ##ID#";
-$MESS ['MAIL_MSERVICE_EDT_TITLE_2'] = "Íîâûé ïî÷òîâûé ñåðâèñ";
-$MESS ['MAIL_MSERVICE_EDT_BACK_LINK'] = "Ñïèñîê ïî÷òîâûõ ñåðâèñîâ";
-$MESS ['MAIL_MSERVICE_EDT_NEW'] = "Äîáàâèòü íîâûé ñåðâèñ";
-$MESS ['MAIL_MSERVICE_EDT_DELETE'] = "Óäàëèòü äàííûé ñåðâèñ";
-$MESS ['MAIL_MSERVICE_EDT_DELETE_CONFIRM'] = "Óäàëèòü ïî÷òîâûé ñåðâèñ?";
-$MESS ['MAIL_MSERVICE_EDT_TAB'] = "Ïî÷òîâûé ñåðâèñ";
-$MESS ['MAIL_MSERVICE_EDT_ID'] = "Êîä:";
-$MESS ['MAIL_MSERVICE_EDT_SITE_ID'] = "Ñàéò:";
-$MESS ['MAIL_MSERVICE_EDT_ACT'] = "Àêòèâåí:";
-$MESS ['MAIL_MSERVICE_EDT_ICON'] = "Ëîãîòèï:";
-$MESS ['MAIL_MSERVICE_EDT_ICON_REMOVE'] = "Óäàëèòü ôàéë";
-$MESS ['MAIL_MSERVICE_EDT_NAME'] = "Íàçâàíèå:";
-$MESS ['MAIL_MSERVICE_EDT_SERVER'] = "Ïî÷òîâûé ñåðâåð (IMAP) / ïîðò:";
-$MESS ['MAIL_MSERVICE_EDT_ENCRYPTION'] = "Èñïîëüçîâàòü áåçîïàñíîå ñîåäèíåíèå (TLS):";
-$MESS ['MAIL_MSERVICE_EDT_DOMAIN'] = "Äîìåííîå èìÿ:";
-$MESS ['MAIL_MSERVICE_EDT_TOKEN'] = "Òîêåí:";
-$MESS ['MAIL_MSERVICE_EDT_LINK'] = "Àäðåñ âåá-èíòåðôåéñà:";
-$MESS ['MAIL_MSERVICE_EDT_SORT'] = "Ñîðòèðîâêà:";
-$MESS ['MAIL_MSERVICE_EDT_TYPE'] = 'Òèï:';
-$MESS ['MAIL_MSERVICE_EDT_PUBLIC'] = "Ðàçðåøèòü ñîòðóäíèêàì ðåãèñòðèðîâàòü ÿùèêè â äîìåíå";
+$MESS ['MAIL_MSERVICE_EDT_TITLE_1'] = "Ð˜Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ðµ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð¾Ð² Ð¿Ð¾Ñ‡Ñ‚Ð¾Ð²Ð¾Ð³Ð¾ ÑÐµÑ€Ð²Ð¸ÑÐ° ##ID#";
+$MESS ['MAIL_MSERVICE_EDT_TITLE_2'] = "ÐÐ¾Ð²Ñ‹Ð¹ Ð¿Ð¾Ñ‡Ñ‚Ð¾Ð²Ñ‹Ð¹ ÑÐµÑ€Ð²Ð¸Ñ";
+$MESS ['MAIL_MSERVICE_EDT_BACK_LINK'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð¿Ð¾Ñ‡Ñ‚Ð¾Ð²Ñ‹Ñ… ÑÐµÑ€Ð²Ð¸ÑÐ¾Ð²";
+$MESS ['MAIL_MSERVICE_EDT_NEW'] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð½Ð¾Ð²Ñ‹Ð¹ ÑÐµÑ€Ð²Ð¸Ñ";
+$MESS ['MAIL_MSERVICE_EDT_DELETE'] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ Ð´Ð°Ð½Ð½Ñ‹Ð¹ ÑÐµÑ€Ð²Ð¸Ñ";
+$MESS ['MAIL_MSERVICE_EDT_DELETE_CONFIRM'] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ Ð¿Ð¾Ñ‡Ñ‚Ð¾Ð²Ñ‹Ð¹ ÑÐµÑ€Ð²Ð¸Ñ?";
+$MESS ['MAIL_MSERVICE_EDT_TAB'] = "ÐŸÐ¾Ñ‡Ñ‚Ð¾Ð²Ñ‹Ð¹ ÑÐµÑ€Ð²Ð¸Ñ";
+$MESS ['MAIL_MSERVICE_EDT_ID'] = "ÐšÐ¾Ð´:";
+$MESS ['MAIL_MSERVICE_EDT_SITE_ID'] = "Ð¡Ð°Ð¹Ñ‚:";
+$MESS ['MAIL_MSERVICE_EDT_ACT'] = "ÐÐºÑ‚Ð¸Ð²ÐµÐ½:";
+$MESS ['MAIL_MSERVICE_EDT_ICON'] = "Ð›Ð¾Ð³Ð¾Ñ‚Ð¸Ð¿:";
+$MESS ['MAIL_MSERVICE_EDT_ICON_REMOVE'] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ Ñ„Ð°Ð¹Ð»";
+$MESS ['MAIL_MSERVICE_EDT_NAME'] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ:";
+$MESS ['MAIL_MSERVICE_EDT_SERVER'] = "ÐŸÐ¾Ñ‡Ñ‚Ð¾Ð²Ñ‹Ð¹ ÑÐµÑ€Ð²ÐµÑ€ (IMAP) / Ð¿Ð¾Ñ€Ñ‚:";
+$MESS ['MAIL_MSERVICE_EDT_ENCRYPTION'] = "Ð˜ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ Ð±ÐµÐ·Ð¾Ð¿Ð°ÑÐ½Ð¾Ðµ ÑÐ¾ÐµÐ´Ð¸Ð½ÐµÐ½Ð¸Ðµ (TLS):";
+$MESS ['MAIL_MSERVICE_EDT_DOMAIN'] = "Ð”Ð¾Ð¼ÐµÐ½Ð½Ð¾Ðµ Ð¸Ð¼Ñ:";
+$MESS ['MAIL_MSERVICE_EDT_TOKEN'] = "Ð¢Ð¾ÐºÐµÐ½:";
+$MESS ['MAIL_MSERVICE_EDT_LINK'] = "ÐÐ´Ñ€ÐµÑ Ð²ÐµÐ±-Ð¸Ð½Ñ‚ÐµÑ€Ñ„ÐµÐ¹ÑÐ°:";
+$MESS ['MAIL_MSERVICE_EDT_SORT'] = "Ð¡Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²ÐºÐ°:";
+$MESS ['MAIL_MSERVICE_EDT_TYPE'] = 'Ð¢Ð¸Ð¿:';
+$MESS ['MAIL_MSERVICE_EDT_PUBLIC'] = "Ð Ð°Ð·Ñ€ÐµÑˆÐ¸Ñ‚ÑŒ ÑÐ¾Ñ‚Ñ€ÑƒÐ´Ð½Ð¸ÐºÐ°Ð¼ Ñ€ÐµÐ³Ð¸ÑÑ‚Ñ€Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ ÑÑ‰Ð¸ÐºÐ¸ Ð² Ð´Ð¾Ð¼ÐµÐ½Ðµ";
 
-$MESS ['MAIL_MSERVICE_EDT_ERROR'] = "Îøèáêà ïðè ñîõðàíåíèè ïî÷òîâîãî ñåðâèñà";
+$MESS ['MAIL_MSERVICE_EDT_ERROR'] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð¸Ð¸ Ð¿Ð¾Ñ‡Ñ‚Ð¾Ð²Ð¾Ð³Ð¾ ÑÐµÑ€Ð²Ð¸ÑÐ°";
 
-$MESS ['MAIL_MSERVICE_EDT_COMMENT1'] = "Äëÿ èñïîëüçîâàíèÿ áåçîïàñíîãî ñîåäèíåíèÿ â PHP äîëæíî áûòü óñòàíîâëåíî ðàñøèðåíèå OpenSSL.";
+$MESS ['MAIL_MSERVICE_EDT_COMMENT1'] = "Ð”Ð»Ñ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð¸Ñ Ð±ÐµÐ·Ð¾Ð¿Ð°ÑÐ½Ð¾Ð³Ð¾ ÑÐ¾ÐµÐ´Ð¸Ð½ÐµÐ½Ð¸Ñ Ð² PHP Ð´Ð¾Ð»Ð¶Ð½Ð¾ Ð±Ñ‹Ñ‚ÑŒ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð¾ Ñ€Ð°ÑÑˆÐ¸Ñ€ÐµÐ½Ð¸Ðµ OpenSSL.";

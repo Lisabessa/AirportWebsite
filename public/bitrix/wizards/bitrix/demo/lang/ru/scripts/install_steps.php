@@ -1,11 +1,11 @@
 <?
-$MESS ['DEMO_SITE_INSTALL_THEME_TITLE'] = "Óñòàíîâêà äàííûõ øàáëîíà";
-$MESS ['DEMO_SITE_INSTALL_THEME_CONTENT'] = "Óñòàíîâêà äàííûõ øàáëîíà...";
-$MESS ['INST_ERROR_OCCURED'] = "Âíèìàíèå! Íà äàííîì øàãå ïðîèçîøëà îøèáêà óñòàíîâêè ïðîäóêòà.";
-$MESS ['INST_TEXT_ERROR'] = "Òåêñò îøèáêè";
-$MESS ['INST_ERROR_NOTICE'] = "Ïîâòîðèòå óñòàíîâêó òåêóùåãî øàãà. Â ñëó÷àå ïîâòîðåíèÿ îøèáêè ïðîïóñòèòå øàã.";
-$MESS ['INST_RETRY_BUTTON'] = "Ïîâòîðèòü øàã";
-$MESS ['INST_SKIP_BUTTON'] = "Ïðîïóñòèòü øàã";
-$MESS ['INSTALL_SERVICE_TITLE'] = "Óñòàíîâêà ñåðâèñîâ";
-$MESS ['INSTALL_SERVICE_FINISH_STATUS'] = "Óñòàíîâêà çàâåðøåíà";
+$MESS ['DEMO_SITE_INSTALL_THEME_TITLE'] = "Ð£ÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ° Ð´Ð°Ð½Ð½Ñ‹Ñ… ÑˆÐ°Ð±Ð»Ð¾Ð½Ð°";
+$MESS ['DEMO_SITE_INSTALL_THEME_CONTENT'] = "Ð£ÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ° Ð´Ð°Ð½Ð½Ñ‹Ñ… ÑˆÐ°Ð±Ð»Ð¾Ð½Ð°...";
+$MESS ['INST_ERROR_OCCURED'] = "Ð’Ð½Ð¸Ð¼Ð°Ð½Ð¸Ðµ! ÐÐ° Ð´Ð°Ð½Ð½Ð¾Ð¼ ÑˆÐ°Ð³Ðµ Ð¿Ñ€Ð¾Ð¸Ð·Ð¾ÑˆÐ»Ð° Ð¾ÑˆÐ¸Ð±ÐºÐ° ÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ¸ Ð¿Ñ€Ð¾Ð´ÑƒÐºÑ‚Ð°.";
+$MESS ['INST_TEXT_ERROR'] = "Ð¢ÐµÐºÑÑ‚ Ð¾ÑˆÐ¸Ð±ÐºÐ¸";
+$MESS ['INST_ERROR_NOTICE'] = "ÐŸÐ¾Ð²Ñ‚Ð¾Ñ€Ð¸Ñ‚Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÑƒ Ñ‚ÐµÐºÑƒÑ‰ÐµÐ³Ð¾ ÑˆÐ°Ð³Ð°. Ð’ ÑÐ»ÑƒÑ‡Ð°Ðµ Ð¿Ð¾Ð²Ñ‚Ð¾Ñ€ÐµÐ½Ð¸Ñ Ð¾ÑˆÐ¸Ð±ÐºÐ¸ Ð¿Ñ€Ð¾Ð¿ÑƒÑÑ‚Ð¸Ñ‚Ðµ ÑˆÐ°Ð³.";
+$MESS ['INST_RETRY_BUTTON'] = "ÐŸÐ¾Ð²Ñ‚Ð¾Ñ€Ð¸Ñ‚ÑŒ ÑˆÐ°Ð³";
+$MESS ['INST_SKIP_BUTTON'] = "ÐŸÑ€Ð¾Ð¿ÑƒÑÑ‚Ð¸Ñ‚ÑŒ ÑˆÐ°Ð³";
+$MESS ['INSTALL_SERVICE_TITLE'] = "Ð£ÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ° ÑÐµÑ€Ð²Ð¸ÑÐ¾Ð²";
+$MESS ['INSTALL_SERVICE_FINISH_STATUS'] = "Ð£ÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ° Ð·Ð°Ð²ÐµÑ€ÑˆÐµÐ½Ð°";
 ?>

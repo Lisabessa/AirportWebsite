@@ -1,18 +1,18 @@
 <?
-$MESS["SEO_MENU_MAIN"] = "Ïîèñêîâàÿ îïòèìèçàöèÿ";
-$MESS["SEO_MENU_MAIN_TITLE"] = "Èíñòðóìåíòû ïîèñêîâîé îïòèìèçàöèè ñàéòà";
-$MESS["SEO_MENU_SEARCH_ENGINES"] = "Ïîèñêîâûå ñèñòåìû";
-$MESS["SEO_MENU_SEARCH_ENGINES_ALT"] = "Èíñòðóìåíòû îïòèìèçàöèè, ïðåäîñòàâëÿåìûå âíåøíèìè ïîèñêîâûìè ñèñòåìàìè";
-$MESS["SEO_MENU_ADV_ENGINES"] = "Àâòîêîíòåêñò";
-$MESS["SEO_MENU_ADV_ENGINES_ALT"] = "Èíòåãðàöèÿ ñ ðåêëàìíûìè ïëîùàäêàìè";
-$MESS["SEO_MENU_ADV_AUTOLOG"] = "Æóðíàë àâòîêîíòåêñòà";
-$MESS["SEO_MENU_ADV_AUTOLOG_ALT"] = "Æóðíàë àâòîìàòè÷åñêèõ äåéñòâèé íàä îáúÿâëåíèé";
+$MESS["SEO_MENU_MAIN"] = "ÐŸÐ¾Ð¸ÑÐºÐ¾Ð²Ð°Ñ Ð¾Ð¿Ñ‚Ð¸Ð¼Ð¸Ð·Ð°Ñ†Ð¸Ñ";
+$MESS["SEO_MENU_MAIN_TITLE"] = "Ð˜Ð½ÑÑ‚Ñ€ÑƒÐ¼ÐµÐ½Ñ‚Ñ‹ Ð¿Ð¾Ð¸ÑÐºÐ¾Ð²Ð¾Ð¹ Ð¾Ð¿Ñ‚Ð¸Ð¼Ð¸Ð·Ð°Ñ†Ð¸Ð¸ ÑÐ°Ð¹Ñ‚Ð°";
+$MESS["SEO_MENU_SEARCH_ENGINES"] = "ÐŸÐ¾Ð¸ÑÐºÐ¾Ð²Ñ‹Ðµ ÑÐ¸ÑÑ‚ÐµÐ¼Ñ‹";
+$MESS["SEO_MENU_SEARCH_ENGINES_ALT"] = "Ð˜Ð½ÑÑ‚Ñ€ÑƒÐ¼ÐµÐ½Ñ‚Ñ‹ Ð¾Ð¿Ñ‚Ð¸Ð¼Ð¸Ð·Ð°Ñ†Ð¸Ð¸, Ð¿Ñ€ÐµÐ´Ð¾ÑÑ‚Ð°Ð²Ð»ÑÐµÐ¼Ñ‹Ðµ Ð²Ð½ÐµÑˆÐ½Ð¸Ð¼Ð¸ Ð¿Ð¾Ð¸ÑÐºÐ¾Ð²Ñ‹Ð¼Ð¸ ÑÐ¸ÑÑ‚ÐµÐ¼Ð°Ð¼Ð¸";
+$MESS["SEO_MENU_ADV_ENGINES"] = "ÐÐ²Ñ‚Ð¾ÐºÐ¾Ð½Ñ‚ÐµÐºÑÑ‚";
+$MESS["SEO_MENU_ADV_ENGINES_ALT"] = "Ð˜Ð½Ñ‚ÐµÐ³Ñ€Ð°Ñ†Ð¸Ñ Ñ Ñ€ÐµÐºÐ»Ð°Ð¼Ð½Ñ‹Ð¼Ð¸ Ð¿Ð»Ð¾Ñ‰Ð°Ð´ÐºÐ°Ð¼Ð¸";
+$MESS["SEO_MENU_ADV_AUTOLOG"] = "Ð–ÑƒÑ€Ð½Ð°Ð» Ð°Ð²Ñ‚Ð¾ÐºÐ¾Ð½Ñ‚ÐµÐºÑÑ‚Ð°";
+$MESS["SEO_MENU_ADV_AUTOLOG_ALT"] = "Ð–ÑƒÑ€Ð½Ð°Ð» Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸Ñ… Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ð¹ Ð½Ð°Ð´ Ð¾Ð±ÑŠÑÐ²Ð»ÐµÐ½Ð¸Ð¹";
 $MESS["SEO_MENU_ROBOTS"] = "robots.txt";
-$MESS["SEO_MENU_ROBOTS_ALT"] = "Íàñòðîéêà robots.txt";
+$MESS["SEO_MENU_ROBOTS_ALT"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° robots.txt";
 $MESS["SEO_MENU_SITEMAP"] = "sitemap.xml";
-$MESS["SEO_MENU_SITEMAP_ALT"] = "Íàñòðîéêà sitemap.xml";
-$MESS["SEO_MENU_YANDEX"] = "ßíäåêñ";
+$MESS["SEO_MENU_SITEMAP_ALT"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° sitemap.xml";
+$MESS["SEO_MENU_YANDEX"] = "Ð¯Ð½Ð´ÐµÐºÑ";
 $MESS["SEO_MENU_GOOGLE"] = "Google";
-$MESS["SEO_MENU_YANDEX_DIRECT"] = "ßíäåêñ.Äèðåêò";
+$MESS["SEO_MENU_YANDEX_DIRECT"] = "Ð¯Ð½Ð´ÐµÐºÑ.Ð”Ð¸Ñ€ÐµÐºÑ‚";
 $MESS["SEO_MENU_GOOGLE_ADWORDS"] = "Google AdWords";
 ?>

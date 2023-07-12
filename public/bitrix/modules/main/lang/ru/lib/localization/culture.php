@@ -1,9 +1,9 @@
 <?
-$MESS["culture_err_del_lang"] = "Íåâîçìîæíî óäàëèòü ðåãèîíàëüíûå íàñòðîéêè (èñïîëüçóþòñÿ â ÿçûêå #LID#).";
-$MESS["culture_err_del_site"] = "Íåâîçìîæíî óäàëèòü ðåãèîíàëüíûå íàñòðîéêè (èñïîëüçóþòñÿ â ñàéòå #LID#).";
-$MESS["culture_entity_name"] = "Íàçâàíèå";
-$MESS["culture_entity_date_format"] = "Ôîðìàò äàòû";
-$MESS["culture_entity_datetime_format"] = "Ôîðìàò äàòû è âðåìåíè";
-$MESS["culture_entity_name_format"] = "Ôîðìàò èìåíè";
-$MESS["culture_entity_charset"] = "Êîäèðîâêà";
+$MESS["culture_err_del_lang"] = "ÐÐµÐ²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ Ñ€ÐµÐ³Ð¸Ð¾Ð½Ð°Ð»ÑŒÐ½Ñ‹Ðµ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ (Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÑŽÑ‚ÑÑ Ð² ÑÐ·Ñ‹ÐºÐµ #LID#).";
+$MESS["culture_err_del_site"] = "ÐÐµÐ²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ Ñ€ÐµÐ³Ð¸Ð¾Ð½Ð°Ð»ÑŒÐ½Ñ‹Ðµ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ (Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÑŽÑ‚ÑÑ Ð² ÑÐ°Ð¹Ñ‚Ðµ #LID#).";
+$MESS["culture_entity_name"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
+$MESS["culture_entity_date_format"] = "Ð¤Ð¾Ñ€Ð¼Ð°Ñ‚ Ð´Ð°Ñ‚Ñ‹";
+$MESS["culture_entity_datetime_format"] = "Ð¤Ð¾Ñ€Ð¼Ð°Ñ‚ Ð´Ð°Ñ‚Ñ‹ Ð¸ Ð²Ñ€ÐµÐ¼ÐµÐ½Ð¸";
+$MESS["culture_entity_name_format"] = "Ð¤Ð¾Ñ€Ð¼Ð°Ñ‚ Ð¸Ð¼ÐµÐ½Ð¸";
+$MESS["culture_entity_charset"] = "ÐšÐ¾Ð´Ð¸Ñ€Ð¾Ð²ÐºÐ°";
 ?>

@@ -1,2 +1,2 @@
 <?
-$MESS["SALE_HPS_INVOICE_DOCUMENT_TITLE"] = "Ïå÷àòü äîêóìåíòîâ ñ÷åòà";
+$MESS["SALE_HPS_INVOICE_DOCUMENT_TITLE"] = "ÐŸÐµÑ‡Ð°Ñ‚ÑŒ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð¾Ð² ÑÑ‡ÐµÑ‚Ð°";

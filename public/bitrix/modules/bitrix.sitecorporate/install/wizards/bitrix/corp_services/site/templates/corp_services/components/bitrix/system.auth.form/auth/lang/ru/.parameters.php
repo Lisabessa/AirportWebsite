@@ -1,6 +1,6 @@
 <?
-$MESS ["SAF_TP_PATH_TO_BLOG"] = "Øàáëîí ïóòè ê áëîãó";
-$MESS ["SAF_TP_PATH_TO_NEW_BLOG"] = "Ñòðàíèöà ñîçäàíèÿ íîâîãî áëîãà";
-$MESS ["SAF_TP_BLOG_GROUP_ID"] = "Ãðóïïû áëîãîâ";
-$MESS ["SAF_TP_PATH_TO_SONET_MESSAGES"] = "Ñòðàíèöà ñîîáùåíèé ñîöñåòè";
+$MESS ["SAF_TP_PATH_TO_BLOG"] = "Ð¨Ð°Ð±Ð»Ð¾Ð½ Ð¿ÑƒÑ‚Ð¸ Ðº Ð±Ð»Ð¾Ð³Ñƒ";
+$MESS ["SAF_TP_PATH_TO_NEW_BLOG"] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ Ð½Ð¾Ð²Ð¾Ð³Ð¾ Ð±Ð»Ð¾Ð³Ð°";
+$MESS ["SAF_TP_BLOG_GROUP_ID"] = "Ð“Ñ€ÑƒÐ¿Ð¿Ñ‹ Ð±Ð»Ð¾Ð³Ð¾Ð²";
+$MESS ["SAF_TP_PATH_TO_SONET_MESSAGES"] = "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ð¹ ÑÐ¾Ñ†ÑÐµÑ‚Ð¸";
 ?>

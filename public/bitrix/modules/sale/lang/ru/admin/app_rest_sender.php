@@ -1,5 +1,5 @@
 <?
-$MESS ['SALE_ORDER_REQUEST_SEND'] = "Âûãðóçêà çàêàçîâ";
-$MESS ['SALE_ORDER_REQUEST_ORDER_IDS_OK'] = "Âûãðóçêà çàâåðøåíà";
-$MESS ['SALE_ORDER_REQUEST_SUBJECT'] = "Çàêàç ¹";
-$MESS ['SALE_ORDER_APP_REST_SENDER_ORDER_ERROR'] = "Îøèáêà âûãðóçêè çàêàçà:";
+$MESS ['SALE_ORDER_REQUEST_SEND'] = "Ð’Ñ‹Ð³Ñ€ÑƒÐ·ÐºÐ° Ð·Ð°ÐºÐ°Ð·Ð¾Ð²";
+$MESS ['SALE_ORDER_REQUEST_ORDER_IDS_OK'] = "Ð’Ñ‹Ð³Ñ€ÑƒÐ·ÐºÐ° Ð·Ð°Ð²ÐµÑ€ÑˆÐµÐ½Ð°";
+$MESS ['SALE_ORDER_REQUEST_SUBJECT'] = "Ð—Ð°ÐºÐ°Ð· â„–";
+$MESS ['SALE_ORDER_APP_REST_SENDER_ORDER_ERROR'] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð²Ñ‹Ð³Ñ€ÑƒÐ·ÐºÐ¸ Ð·Ð°ÐºÐ°Ð·Ð°:";

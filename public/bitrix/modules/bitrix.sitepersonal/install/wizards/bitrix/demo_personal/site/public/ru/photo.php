@@ -1,6 +1,6 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Ôîòî");
+$APPLICATION->SetTitle("Ð¤Ð¾Ñ‚Ð¾");
 ?><?$APPLICATION->IncludeComponent("bitrix:photogallery", ".default", array(
 	"USE_LIGHT_VIEW" => "Y",
 	"IBLOCK_TYPE" => "photos",

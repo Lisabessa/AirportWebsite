@@ -1,2 +1,2 @@
 <?
-$MESS["MAIN_NUMERATOR_EDIT_NUMERATOR_NOT_FOUND_ERROR"] = "Íóìåðàòîð ñ òàêèì ID íå íàéäåí";
+$MESS["MAIN_NUMERATOR_EDIT_NUMERATOR_NOT_FOUND_ERROR"] = "ÐÑƒÐ¼ÐµÑ€Ð°Ñ‚Ð¾Ñ€ Ñ Ñ‚Ð°ÐºÐ¸Ð¼ ID Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";

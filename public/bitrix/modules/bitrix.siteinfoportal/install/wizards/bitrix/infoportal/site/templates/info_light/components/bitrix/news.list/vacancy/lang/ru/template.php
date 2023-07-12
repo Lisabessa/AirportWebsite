@@ -1,3 +1,3 @@
 <?
-$MESS["MAIN_VACANCY_TITLE"] = "Âàêàíñèè";
+$MESS["MAIN_VACANCY_TITLE"] = "Ð’Ð°ÐºÐ°Ð½ÑÐ¸Ð¸";
 ?>

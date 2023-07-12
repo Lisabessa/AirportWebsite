@@ -1,4 +1,4 @@
 <?
-$MESS["SALE_SRV_RSTR_BY_DELIVERY_NAME"] = "ïî ñëóæá³ äîñòàâêè";
-$MESS["SALE_SRV_RSTR_BY_DELIVERY_PRM_PS"] = "Ñëóæáè äîñòàâêè";
+$MESS["SALE_SRV_RSTR_BY_DELIVERY_NAME"] = "Ð¿Ð¾ ÑÐ»ÑƒÐ¶Ð±Ñ– Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸";
+$MESS["SALE_SRV_RSTR_BY_DELIVERY_PRM_PS"] = "Ð¡Ð»ÑƒÐ¶Ð±Ð¸ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸";
 ?>

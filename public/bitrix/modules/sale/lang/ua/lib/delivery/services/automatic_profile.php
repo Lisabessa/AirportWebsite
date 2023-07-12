@@ -1,7 +1,7 @@
 <?
-$MESS["SALE_DLVR_HANDL_AUTP_NAME"] = "Ïðîô³ëü àâòîìàòèçîâàíî¿ ñëóæáè äîñòàâêè";
-$MESS["SALE_DLVR_HANDL_AUTP_DESCRIPTION"] = "Ïðîô³ëü àâòîìàòèçîâàíî¿ ñëóæáè äîñòàâêè ñóì³ñíèé ç³ ñòàðèìè ñëóæáàìè äîñòàâêè";
-$MESS["SALE_DLVR_HANDL_AUTP_CONF_MAIN_TITLE"] = "Âëàñòèâîñò³ îáðîáíèêà";
-$MESS["SALE_DLVR_HANDL_AUTP_CONF_MAIN_DESCR"] = "Âëàñòèâîñò³ îáðîáíèêà ñëóæáè äîñòàâêè";
-$MESS["SALE_DLVR_HANDL_AUTP_CONF_MAIN_PROFILE_ID"] = "Ïðîô³ëü";
+$MESS["SALE_DLVR_HANDL_AUTP_NAME"] = "ÐŸÑ€Ð¾Ñ„Ñ–Ð»ÑŒ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ð·Ð¾Ð²Ð°Ð½Ð¾Ñ— ÑÐ»ÑƒÐ¶Ð±Ð¸ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸";
+$MESS["SALE_DLVR_HANDL_AUTP_DESCRIPTION"] = "ÐŸÑ€Ð¾Ñ„Ñ–Ð»ÑŒ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ð·Ð¾Ð²Ð°Ð½Ð¾Ñ— ÑÐ»ÑƒÐ¶Ð±Ð¸ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸ ÑÑƒÐ¼Ñ–ÑÐ½Ð¸Ð¹ Ð·Ñ– ÑÑ‚Ð°Ñ€Ð¸Ð¼Ð¸ ÑÐ»ÑƒÐ¶Ð±Ð°Ð¼Ð¸ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸";
+$MESS["SALE_DLVR_HANDL_AUTP_CONF_MAIN_TITLE"] = "Ð’Ð»Ð°ÑÑ‚Ð¸Ð²Ð¾ÑÑ‚Ñ– Ð¾Ð±Ñ€Ð¾Ð±Ð½Ð¸ÐºÐ°";
+$MESS["SALE_DLVR_HANDL_AUTP_CONF_MAIN_DESCR"] = "Ð’Ð»Ð°ÑÑ‚Ð¸Ð²Ð¾ÑÑ‚Ñ– Ð¾Ð±Ñ€Ð¾Ð±Ð½Ð¸ÐºÐ° ÑÐ»ÑƒÐ¶Ð±Ð¸ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸";
+$MESS["SALE_DLVR_HANDL_AUTP_CONF_MAIN_PROFILE_ID"] = "ÐŸÑ€Ð¾Ñ„Ñ–Ð»ÑŒ";
 ?>

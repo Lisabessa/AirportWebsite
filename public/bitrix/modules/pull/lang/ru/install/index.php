@@ -1,6 +1,6 @@
 <?
 $MESS["PULL_MODULE_NAME"] = "Push and Pull";
-$MESS["PULL_MODULE_DESCRIPTION"] = "Ìîäóëü äëÿ îáåñïå÷åíèÿ ðàáîòû èíòåðàêòèâíûõ ïðèëîæåíèé.";
-$MESS["PULL_INSTALL_TITLE"] = "Óñòàíîâêà ìîäóëÿ \"Push and Pull\"";
-$MESS["PULL_UNINSTALL_TITLE"] = "Óäàëåíèå ìîäóëÿ \"Push and Pull\"";
+$MESS["PULL_MODULE_DESCRIPTION"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Ð´Ð»Ñ Ð¾Ð±ÐµÑÐ¿ÐµÑ‡ÐµÐ½Ð¸Ñ Ñ€Ð°Ð±Ð¾Ñ‚Ñ‹ Ð¸Ð½Ñ‚ÐµÑ€Ð°ÐºÑ‚Ð¸Ð²Ð½Ñ‹Ñ… Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹.";
+$MESS["PULL_INSTALL_TITLE"] = "Ð£ÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ° Ð¼Ð¾Ð´ÑƒÐ»Ñ \"Push and Pull\"";
+$MESS["PULL_UNINSTALL_TITLE"] = "Ð£Ð´Ð°Ð»ÐµÐ½Ð¸Ðµ Ð¼Ð¾Ð´ÑƒÐ»Ñ \"Push and Pull\"";
 ?>

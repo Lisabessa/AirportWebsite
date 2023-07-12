@@ -1,2 +1,2 @@
 <?php
-$MESS['REPORT_NUMBER_VIEW_LABEL'] = '×èñëî';
+$MESS['REPORT_NUMBER_VIEW_LABEL'] = 'Ð§Ð¸ÑÐ»Ð¾';

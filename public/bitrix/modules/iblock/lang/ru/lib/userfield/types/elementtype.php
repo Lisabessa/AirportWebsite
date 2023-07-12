@@ -1,11 +1,11 @@
 <?
-$MESS["USER_TYPE_IBEL_DESCRIPTION"] = "Ïðèâÿçêà ê ýëåìåíòàì èíô. áëîêîâ";
-$MESS["USER_TYPE_IBEL_DISPLAY"] = "Èíôîáëîê";
-$MESS["USER_TYPE_IBEL_CHECKBOX"] = "Ôëàæêè";
-$MESS["USER_TYPE_IBEL_LIST"] = "Ñïèñîê";
-$MESS["USER_TYPE_IBEL_LIST_HEIGHT"] = "Âûñîòà ñïèñêà";
-$MESS["USER_TYPE_IBEL_DEFAULT_VALUE"] = "Çíà÷åíèå ïî óìîë÷àíèþ";
-$MESS["USER_TYPE_IBEL_ACTIVE_FILTER"] = "Ïîêàçûâàòü òîëüêî àêòèâíûå ýëåìåíòû";
-$MESS["USER_TYPE_IBEL_DISPLAY_NOTE"] = "Óêàæèòå èíôîáëîê - ýòî îáÿçàòåëüíûé ïàðàìåòð.";
-$MESS["USER_TYPE_IBEL_VALUE_ANY"] = "(ëþáîé)";
+$MESS["USER_TYPE_IBEL_DESCRIPTION"] = "ÐŸÑ€Ð¸Ð²ÑÐ·ÐºÐ° Ðº ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð°Ð¼ Ð¸Ð½Ñ„. Ð±Ð»Ð¾ÐºÐ¾Ð²";
+$MESS["USER_TYPE_IBEL_DISPLAY"] = "Ð˜Ð½Ñ„Ð¾Ð±Ð»Ð¾Ðº";
+$MESS["USER_TYPE_IBEL_CHECKBOX"] = "Ð¤Ð»Ð°Ð¶ÐºÐ¸";
+$MESS["USER_TYPE_IBEL_LIST"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº";
+$MESS["USER_TYPE_IBEL_LIST_HEIGHT"] = "Ð’Ñ‹ÑÐ¾Ñ‚Ð° ÑÐ¿Ð¸ÑÐºÐ°";
+$MESS["USER_TYPE_IBEL_DEFAULT_VALUE"] = "Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð¿Ð¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ";
+$MESS["USER_TYPE_IBEL_ACTIVE_FILTER"] = "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð°ÐºÑ‚Ð¸Ð²Ð½Ñ‹Ðµ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ñ‹";
+$MESS["USER_TYPE_IBEL_DISPLAY_NOTE"] = "Ð£ÐºÐ°Ð¶Ð¸Ñ‚Ðµ Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾Ðº - ÑÑ‚Ð¾ Ð¾Ð±ÑÐ·Ð°Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ð¹ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€.";
+$MESS["USER_TYPE_IBEL_VALUE_ANY"] = "(Ð»ÑŽÐ±Ð¾Ð¹)";
 ?>

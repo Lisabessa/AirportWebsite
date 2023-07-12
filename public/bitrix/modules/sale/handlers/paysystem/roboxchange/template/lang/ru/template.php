@@ -1,5 +1,5 @@
 <?php
-$MESS["SALE_HANDLERS_PAY_SYSTEM_TEMPLATE_ROBOXCHANGE_CHECKOUT_DESCRIPTION"] = "Услугу предоставляет сервис <b>&laquo;ROBOKASSA&raquo;</b>.";
-$MESS["SALE_HANDLERS_PAY_SYSTEM_TEMPLATE_ROBOXCHANGE_CHECKOUT_SUM"] = "Сумма к оплате: #SUM#";
-$MESS["SALE_HANDLERS_PAY_SYSTEM_TEMPLATE_ROBOXCHANGE_CHECKOUT_WARNING_RETURN"] = "<b>Обратите внимание:</b> если вы откажетесь от покупки, для возврата денег вам придется обратиться в магазин.";
-$MESS["SALE_HANDLERS_PAY_SYSTEM_TEMPLATE_ROBOXCHANGE_CHECKOUT_BUTTON_PAID"] = "Оплатить";
+$MESS["SALE_HANDLERS_PAY_SYSTEM_TEMPLATE_ROBOXCHANGE_CHECKOUT_DESCRIPTION"] = "РЈСЃР»СѓРіСѓ РїСЂРµРґРѕСЃС‚Р°РІР»СЏРµС‚ СЃРµСЂРІРёСЃ <b>&laquo;ROBOKASSA&raquo;</b>.";
+$MESS["SALE_HANDLERS_PAY_SYSTEM_TEMPLATE_ROBOXCHANGE_CHECKOUT_SUM"] = "РЎСѓРјРјР° Рє РѕРїР»Р°С‚Рµ: #SUM#";
+$MESS["SALE_HANDLERS_PAY_SYSTEM_TEMPLATE_ROBOXCHANGE_CHECKOUT_WARNING_RETURN"] = "<b>РћР±СЂР°С‚РёС‚Рµ РІРЅРёРјР°РЅРёРµ:</b> РµСЃР»Рё РІС‹ РѕС‚РєР°Р¶РµС‚РµСЃСЊ РѕС‚ РїРѕРєСѓРїРєРё, РґР»СЏ РІРѕР·РІСЂР°С‚Р° РґРµРЅРµРі РІР°Рј РїСЂРёРґРµС‚СЃСЏ РѕР±СЂР°С‚РёС‚СЊСЃСЏ РІ РјР°РіР°Р·РёРЅ.";
+$MESS["SALE_HANDLERS_PAY_SYSTEM_TEMPLATE_ROBOXCHANGE_CHECKOUT_BUTTON_PAID"] = "РћРїР»Р°С‚РёС‚СЊ";

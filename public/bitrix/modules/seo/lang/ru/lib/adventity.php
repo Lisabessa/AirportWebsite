@@ -1,8 +1,8 @@
 <?php
 $MESS["ADV_CAMPAIGN_ENTITY_ID_FIELD"] = "ID";
-$MESS["ADV_CAMPAIGN_ENTITY_ENGINE_ID_FIELD"] = "ID ïðîâàéäåðà";
-$MESS["ADV_CAMPAIGN_ENTITY_OWNER_ID_FIELD"] = "ID âëàäåëüöà";
-$MESS["ADV_CAMPAIGN_ENTITY_OWNER_NAME_FIELD"] = "Èìÿ âëàäåëüöà";
-$MESS["ADV_CAMPAIGN_ENTITY_XML_ID_FIELD"] = "Âíåøíèé ID";
-$MESS["ADV_CAMPAIGN_ENTITY_LAST_UPDATE_FIELD"] = "Äàòà ïîñëåäíåãî îáíîâëåíèÿ";
-$MESS["ADV_CAMPAIGN_ENTITY_SETTINGS_FIELD"] = "Íàñòðîéêè";
+$MESS["ADV_CAMPAIGN_ENTITY_ENGINE_ID_FIELD"] = "ID Ð¿Ñ€Ð¾Ð²Ð°Ð¹Ð´ÐµÑ€Ð°";
+$MESS["ADV_CAMPAIGN_ENTITY_OWNER_ID_FIELD"] = "ID Ð²Ð»Ð°Ð´ÐµÐ»ÑŒÑ†Ð°";
+$MESS["ADV_CAMPAIGN_ENTITY_OWNER_NAME_FIELD"] = "Ð˜Ð¼Ñ Ð²Ð»Ð°Ð´ÐµÐ»ÑŒÑ†Ð°";
+$MESS["ADV_CAMPAIGN_ENTITY_XML_ID_FIELD"] = "Ð’Ð½ÐµÑˆÐ½Ð¸Ð¹ ID";
+$MESS["ADV_CAMPAIGN_ENTITY_LAST_UPDATE_FIELD"] = "Ð”Ð°Ñ‚Ð° Ð¿Ð¾ÑÐ»ÐµÐ´Ð½ÐµÐ³Ð¾ Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ñ";
+$MESS["ADV_CAMPAIGN_ENTITY_SETTINGS_FIELD"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸";

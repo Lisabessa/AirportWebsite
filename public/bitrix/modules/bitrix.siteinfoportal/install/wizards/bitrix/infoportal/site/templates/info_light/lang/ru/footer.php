@@ -1,12 +1,12 @@
 <?
-$MESS["HEADER_TITLE"] = "Информационный портал";
-$MESS["NEWS_TITLE"] = "Новости";
-$MESS["BLOG_TITLE"] = "Блоги";
-$MESS["JOB_TITLE"] = "Работа";
-$MESS["OTHER_TITLE"] = "Прочее";
-$MESS["MENU_1_TITLE"] = "Разделы";
-$MESS["MENU_2_TITLE"] = "Информация";
+$MESS["HEADER_TITLE"] = "РРЅС„РѕСЂРјР°С†РёРѕРЅРЅС‹Р№ РїРѕСЂС‚Р°Р»";
+$MESS["NEWS_TITLE"] = "РќРѕРІРѕСЃС‚Рё";
+$MESS["BLOG_TITLE"] = "Р‘Р»РѕРіРё";
+$MESS["JOB_TITLE"] = "Р Р°Р±РѕС‚Р°";
+$MESS["OTHER_TITLE"] = "РџСЂРѕС‡РµРµ";
+$MESS["MENU_1_TITLE"] = "Р Р°Р·РґРµР»С‹";
+$MESS["MENU_2_TITLE"] = "РРЅС„РѕСЂРјР°С†РёСЏ";
 $MESS["MENU_3_TITLE"] = "";
 $MESS["MENU_4_TITLE"] = "";
-$MESS["FOOTER_DISIGN"] = "<div class=\"bitrix\"><a href=\"http://www.1c-bitrix.ru\" title=\"Работает на &laquo;1С-Битрикс: Управление сайтом&raquo;\">Работает на &laquo;1С-Битрикс: Управление сайтом&raquo;</a></div>";
+$MESS["FOOTER_DISIGN"] = "<div class=\"bitrix\"><a href=\"http://www.1c-bitrix.ru\" title=\"Р Р°Р±РѕС‚Р°РµС‚ РЅР° &laquo;1РЎ-Р‘РёС‚СЂРёРєСЃ: РЈРїСЂР°РІР»РµРЅРёРµ СЃР°Р№С‚РѕРј&raquo;\">Р Р°Р±РѕС‚Р°РµС‚ РЅР° &laquo;1РЎ-Р‘РёС‚СЂРёРєСЃ: РЈРїСЂР°РІР»РµРЅРёРµ СЃР°Р№С‚РѕРј&raquo;</a></div>";
 ?>

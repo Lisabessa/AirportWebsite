@@ -1,4 +1,4 @@
 <?
-$MESS ['BPULDA_PD_ADD_FIELD'] = "Âûáðàòü ïîëå";
-$MESS ['BPULDA_PD_DELETE'] = "Óäàëèòü";
+$MESS ['BPULDA_PD_ADD_FIELD'] = "Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ Ð¿Ð¾Ð»Ðµ";
+$MESS ['BPULDA_PD_DELETE'] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";
 ?>

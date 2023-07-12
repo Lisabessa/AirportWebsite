@@ -1,10 +1,10 @@
 <?
 $MESS["socserv_mailru2_name"] = "Mail.Ru";
 $MESS["socserv_mailru_openid_name"] = "Mail.Ru OpenID";
-$MESS["socserv_mailru_name"] = "Ìîé Ìèð";
-$MESS["socserv_openid_yandex"] = "ßíäåêñ";
-$MESS["socserv_openid_yandex_openid"] = "ßíäåêñ OpenID";
-$MESS["socserv_vk_name"] = "ÂÊîíòàêòå";
-$MESS["socserv_odnoklassniki_name"] = "Îäíîêëàññíèêè";
-$MESS["socserv_bitrix24net_name"] = "Áèòðèêñ24";
+$MESS["socserv_mailru_name"] = "ÐœÐ¾Ð¹ ÐœÐ¸Ñ€";
+$MESS["socserv_openid_yandex"] = "Ð¯Ð½Ð´ÐµÐºÑ";
+$MESS["socserv_openid_yandex_openid"] = "Ð¯Ð½Ð´ÐµÐºÑ OpenID";
+$MESS["socserv_vk_name"] = "Ð’ÐšÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ðµ";
+$MESS["socserv_odnoklassniki_name"] = "ÐžÐ´Ð½Ð¾ÐºÐ»Ð°ÑÑÐ½Ð¸ÐºÐ¸";
+$MESS["socserv_bitrix24net_name"] = "Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ24";
 ?>

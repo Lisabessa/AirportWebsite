@@ -1,33 +1,33 @@
 <?
-$MESS["SALE_YANDEX_RETURN_TITLE"] = "Настройка механизма возвратов для ЮKassa";
-$MESS["SALE_YANDEX_RETURN_SUBTITLE"] = "Настройка взаимодействия по протоколу MWS (<a target=\"_blank\" href=\"https://tech.yandex.ru/money/doc/payment-solution/payment-management/payment-management-about-docpage/\">Merchant Web Services</a>)";
-$MESS["SALE_YANDEX_RETURN_HELP"] = "Для работы с MWS необходимо получить в ЮMoney специальный сертификат и загрузить его на этой странице.";
-$MESS["SALE_YANDEX_RETURN_PT"] = "Возвраты";
-$MESS["SALE_YANDEX_RETURN_ERROR_CN"] = "Некорректное название компании. Название должно состоять только из латинских букв без пробелов	";
-$MESS["SALE_YANDEX_RETURN_CERT"] = "SSL-сертификат";
-$MESS["SALE_YANDEX_RETURN_TEXT_SUCCESS"] = "Сертификат загружен.";
-$MESS["SALE_YANDEX_RETURN_TEXT_CLEAR"] = "Удалить сертификат ";
-$MESS["SALE_YANDEX_RETURN_TEXT_CLEAR_ALL"] = "Обновить данные MWS ";
-$MESS["SALE_YANDEX_RETURN_HOW"] = "Как получить сертификат";
-$MESS["SALE_YANDEX_RETURN_HOW_ITEM0"] = "Сгенерируйте данные для заполнения заявки";
-$MESS["SALE_YANDEX_RETURN_HOW_ITEM1"] = "Скачайте готовый запрос на сертификат (файл в формате .csr).";
-$MESS["SALE_YANDEX_RETURN_HOW_ITEM2"] = "Скачайте <a target=\"_blank\" href=\"https://money.yandex.ru/i/html-letters/SSL_Cert_Form.doc\">заявку на сертификат</a>.";
-$MESS["SALE_YANDEX_RETURN_HOW_ITEM3"] = "В заявке заполните таблицу данными с этой страницы (внизу), поставьте подпись и печать компании.";
-$MESS["SALE_YANDEX_RETURN_HOW_ITEM4"] = "Напишите менеджеру ЮKassa на <a href=\"mailto:merchants@yamoney.ru\">merchants@yamoney.ru</a>, что вам нужен сертификат для возвратов по MWS. К письму приложите:<ul>
-                                    <li>файл запроса,</li>
-                                    <li>скан заполненной заявки,</li>
-                                    <li>IP, с которого будут приходить запросы на возврат.</li>
+$MESS["SALE_YANDEX_RETURN_TITLE"] = "РќР°СЃС‚СЂРѕР№РєР° РјРµС…Р°РЅРёР·РјР° РІРѕР·РІСЂР°С‚РѕРІ РґР»СЏ Р®Kassa";
+$MESS["SALE_YANDEX_RETURN_SUBTITLE"] = "РќР°СЃС‚СЂРѕР№РєР° РІР·Р°РёРјРѕРґРµР№СЃС‚РІРёСЏ РїРѕ РїСЂРѕС‚РѕРєРѕР»Сѓ MWS (<a target=\"_blank\" href=\"https://tech.yandex.ru/money/doc/payment-solution/payment-management/payment-management-about-docpage/\">Merchant Web Services</a>)";
+$MESS["SALE_YANDEX_RETURN_HELP"] = "Р”Р»СЏ СЂР°Р±РѕС‚С‹ СЃ MWS РЅРµРѕР±С…РѕРґРёРјРѕ РїРѕР»СѓС‡РёС‚СЊ РІ Р®Money СЃРїРµС†РёР°Р»СЊРЅС‹Р№ СЃРµСЂС‚РёС„РёРєР°С‚ Рё Р·Р°РіСЂСѓР·РёС‚СЊ РµРіРѕ РЅР° СЌС‚РѕР№ СЃС‚СЂР°РЅРёС†Рµ.";
+$MESS["SALE_YANDEX_RETURN_PT"] = "Р’РѕР·РІСЂР°С‚С‹";
+$MESS["SALE_YANDEX_RETURN_ERROR_CN"] = "РќРµРєРѕСЂСЂРµРєС‚РЅРѕРµ РЅР°Р·РІР°РЅРёРµ РєРѕРјРїР°РЅРёРё. РќР°Р·РІР°РЅРёРµ РґРѕР»Р¶РЅРѕ СЃРѕСЃС‚РѕСЏС‚СЊ С‚РѕР»СЊРєРѕ РёР· Р»Р°С‚РёРЅСЃРєРёС… Р±СѓРєРІ Р±РµР· РїСЂРѕР±РµР»РѕРІ	";
+$MESS["SALE_YANDEX_RETURN_CERT"] = "SSL-СЃРµСЂС‚РёС„РёРєР°С‚";
+$MESS["SALE_YANDEX_RETURN_TEXT_SUCCESS"] = "РЎРµСЂС‚РёС„РёРєР°С‚ Р·Р°РіСЂСѓР¶РµРЅ.";
+$MESS["SALE_YANDEX_RETURN_TEXT_CLEAR"] = "РЈРґР°Р»РёС‚СЊ СЃРµСЂС‚РёС„РёРєР°С‚ ";
+$MESS["SALE_YANDEX_RETURN_TEXT_CLEAR_ALL"] = "РћР±РЅРѕРІРёС‚СЊ РґР°РЅРЅС‹Рµ MWS ";
+$MESS["SALE_YANDEX_RETURN_HOW"] = "РљР°Рє РїРѕР»СѓС‡РёС‚СЊ СЃРµСЂС‚РёС„РёРєР°С‚";
+$MESS["SALE_YANDEX_RETURN_HOW_ITEM0"] = "РЎРіРµРЅРµСЂРёСЂСѓР№С‚Рµ РґР°РЅРЅС‹Рµ РґР»СЏ Р·Р°РїРѕР»РЅРµРЅРёСЏ Р·Р°СЏРІРєРё";
+$MESS["SALE_YANDEX_RETURN_HOW_ITEM1"] = "РЎРєР°С‡Р°Р№С‚Рµ РіРѕС‚РѕРІС‹Р№ Р·Р°РїСЂРѕСЃ РЅР° СЃРµСЂС‚РёС„РёРєР°С‚ (С„Р°Р№Р» РІ С„РѕСЂРјР°С‚Рµ .csr).";
+$MESS["SALE_YANDEX_RETURN_HOW_ITEM2"] = "РЎРєР°С‡Р°Р№С‚Рµ <a target=\"_blank\" href=\"https://money.yandex.ru/i/html-letters/SSL_Cert_Form.doc\">Р·Р°СЏРІРєСѓ РЅР° СЃРµСЂС‚РёС„РёРєР°С‚</a>.";
+$MESS["SALE_YANDEX_RETURN_HOW_ITEM3"] = "Р’ Р·Р°СЏРІРєРµ Р·Р°РїРѕР»РЅРёС‚Рµ С‚Р°Р±Р»РёС†Сѓ РґР°РЅРЅС‹РјРё СЃ СЌС‚РѕР№ СЃС‚СЂР°РЅРёС†С‹ (РІРЅРёР·Сѓ), РїРѕСЃС‚Р°РІСЊС‚Рµ РїРѕРґРїРёСЃСЊ Рё РїРµС‡Р°С‚СЊ РєРѕРјРїР°РЅРёРё.";
+$MESS["SALE_YANDEX_RETURN_HOW_ITEM4"] = "РќР°РїРёС€РёС‚Рµ РјРµРЅРµРґР¶РµСЂСѓ Р®Kassa РЅР° <a href=\"mailto:merchants@yamoney.ru\">merchants@yamoney.ru</a>, С‡С‚Рѕ РІР°Рј РЅСѓР¶РµРЅ СЃРµСЂС‚РёС„РёРєР°С‚ РґР»СЏ РІРѕР·РІСЂР°С‚РѕРІ РїРѕ MWS. Рљ РїРёСЃСЊРјСѓ РїСЂРёР»РѕР¶РёС‚Рµ:<ul>
+                                    <li>С„Р°Р№Р» Р·Р°РїСЂРѕСЃР°,</li>
+                                    <li>СЃРєР°РЅ Р·Р°РїРѕР»РЅРµРЅРЅРѕР№ Р·Р°СЏРІРєРё,</li>
+                                    <li>IP, СЃ РєРѕС‚РѕСЂРѕРіРѕ Р±СѓРґСѓС‚ РїСЂРёС…РѕРґРёС‚СЊ Р·Р°РїСЂРѕСЃС‹ РЅР° РІРѕР·РІСЂР°С‚.</li>
                                 </ul>";
-$MESS["SALE_YANDEX_RETURN_HOW_ITEM5"] = "Дождитесь сертификата и загрузите его на этой странице.";
-$MESS["SALE_YANDEX_RETURN_STATEMENT"] = "Данные для заполнения заявки";
+$MESS["SALE_YANDEX_RETURN_HOW_ITEM5"] = "Р”РѕР¶РґРёС‚РµСЃСЊ СЃРµСЂС‚РёС„РёРєР°С‚Р° Рё Р·Р°РіСЂСѓР·РёС‚Рµ РµРіРѕ РЅР° СЌС‚РѕР№ СЃС‚СЂР°РЅРёС†Рµ.";
+$MESS["SALE_YANDEX_RETURN_STATEMENT"] = "Р”Р°РЅРЅС‹Рµ РґР»СЏ Р·Р°РїРѕР»РЅРµРЅРёСЏ Р·Р°СЏРІРєРё";
 $MESS["SALE_YANDEX_RETURN_STATEMENT_CN"] = "CN";
-$MESS["SALE_YANDEX_RETURN_STATEMENT_SIGN"] = "Электронная подпись на сертификат";
-$MESS["SALE_YANDEX_RETURN_STATEMENT_CAUSE"] = "Причина запроса";
-$MESS["SALE_YANDEX_RETURN_STATEMENT_CAUSE_VAL"] = "Первоначальный";
-$MESS["SALE_YANDEX_RETURN_CSR"] = "Запрос на сертификат";
-$MESS["SALE_YANDEX_RETURN_CSR_DOWNLOAD"] = "<a href='%s'>скачать</a>";
-$MESS["SPSN_2FLIST"] = "Вернуться к платежной системе";
-$MESS["SALE_YANDEX_RETURN_SAVE"] = "Сохранить";
-$MESS["SALE_YANDEX_RETURN_GENERATE"] = "Сгенерировать";
-$MESS["SALE_YANDEX_RETURN_COMPANY_NAME"] = "Название компании (<b>только латинские буквы без пробелов</b>)";
+$MESS["SALE_YANDEX_RETURN_STATEMENT_SIGN"] = "Р­Р»РµРєС‚СЂРѕРЅРЅР°СЏ РїРѕРґРїРёСЃСЊ РЅР° СЃРµСЂС‚РёС„РёРєР°С‚";
+$MESS["SALE_YANDEX_RETURN_STATEMENT_CAUSE"] = "РџСЂРёС‡РёРЅР° Р·Р°РїСЂРѕСЃР°";
+$MESS["SALE_YANDEX_RETURN_STATEMENT_CAUSE_VAL"] = "РџРµСЂРІРѕРЅР°С‡Р°Р»СЊРЅС‹Р№";
+$MESS["SALE_YANDEX_RETURN_CSR"] = "Р—Р°РїСЂРѕСЃ РЅР° СЃРµСЂС‚РёС„РёРєР°С‚";
+$MESS["SALE_YANDEX_RETURN_CSR_DOWNLOAD"] = "<a href='%s'>СЃРєР°С‡Р°С‚СЊ</a>";
+$MESS["SPSN_2FLIST"] = "Р’РµСЂРЅСѓС‚СЊСЃСЏ Рє РїР»Р°С‚РµР¶РЅРѕР№ СЃРёСЃС‚РµРјРµ";
+$MESS["SALE_YANDEX_RETURN_SAVE"] = "РЎРѕС…СЂР°РЅРёС‚СЊ";
+$MESS["SALE_YANDEX_RETURN_GENERATE"] = "РЎРіРµРЅРµСЂРёСЂРѕРІР°С‚СЊ";
+$MESS["SALE_YANDEX_RETURN_COMPANY_NAME"] = "РќР°Р·РІР°РЅРёРµ РєРѕРјРїР°РЅРёРё (<b>С‚РѕР»СЊРєРѕ Р»Р°С‚РёРЅСЃРєРёРµ Р±СѓРєРІС‹ Р±РµР· РїСЂРѕР±РµР»РѕРІ</b>)";
 ?>

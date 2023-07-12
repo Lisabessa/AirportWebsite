@@ -1,15 +1,15 @@
 <?
-$MESS["IM_CL_GROUP_LAST"] = "Ïîñëåäíèå êîíòàêòû";
-$MESS["IM_CL_GROUP_OTHER"] = "Âíå ñòðóêòóðû";
-$MESS["IM_CL_GROUP_OTHER_2"] = "Âíå ñïèñêà";
-$MESS["IM_CL_GROUP_SEARCH"] = "Ðåçóëüòàòû ïîèñêà";
-$MESS["IM_CL_GROUP_ALL"] = "Âñå êîíòàêòû";
-$MESS["IM_CL_GROUP_CHATS"] = "Ãðóïïîâûå ÷àòû";
-$MESS["IM_CL_GROUP_EXTRANET"] = "Ýêñòðàíåò";
-$MESS["IM_CL_GROUP_FRIENDS"] = "Äðóçüÿ";
-$MESS["IM_SEARCH_OL"] = "Îòêðûòàÿ ëèíèÿ";
-$MESS["IM_CL_GROUP_SG"] = "Ýêñòðàíåò: ";
-$MESS["IM_CL_SEARCH_EMPTY"] = "Íå çàäàíà ïîèñêîâàÿ ñòðîêà";
-$MESS["IM_QUOTE"] = "Öèòàòà";
-$MESS["IM_FILE"] = "Ôàéë";
+$MESS["IM_CL_GROUP_LAST"] = "ÐŸÐ¾ÑÐ»ÐµÐ´Ð½Ð¸Ðµ ÐºÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ñ‹";
+$MESS["IM_CL_GROUP_OTHER"] = "Ð’Ð½Ðµ ÑÑ‚Ñ€ÑƒÐºÑ‚ÑƒÑ€Ñ‹";
+$MESS["IM_CL_GROUP_OTHER_2"] = "Ð’Ð½Ðµ ÑÐ¿Ð¸ÑÐºÐ°";
+$MESS["IM_CL_GROUP_SEARCH"] = "Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ñ‹ Ð¿Ð¾Ð¸ÑÐºÐ°";
+$MESS["IM_CL_GROUP_ALL"] = "Ð’ÑÐµ ÐºÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ñ‹";
+$MESS["IM_CL_GROUP_CHATS"] = "Ð“Ñ€ÑƒÐ¿Ð¿Ð¾Ð²Ñ‹Ðµ Ñ‡Ð°Ñ‚Ñ‹";
+$MESS["IM_CL_GROUP_EXTRANET"] = "Ð­ÐºÑÑ‚Ñ€Ð°Ð½ÐµÑ‚";
+$MESS["IM_CL_GROUP_FRIENDS"] = "Ð”Ñ€ÑƒÐ·ÑŒÑ";
+$MESS["IM_SEARCH_OL"] = "ÐžÑ‚ÐºÑ€Ñ‹Ñ‚Ð°Ñ Ð»Ð¸Ð½Ð¸Ñ";
+$MESS["IM_CL_GROUP_SG"] = "Ð­ÐºÑÑ‚Ñ€Ð°Ð½ÐµÑ‚: ";
+$MESS["IM_CL_SEARCH_EMPTY"] = "ÐÐµ Ð·Ð°Ð´Ð°Ð½Ð° Ð¿Ð¾Ð¸ÑÐºÐ¾Ð²Ð°Ñ ÑÑ‚Ñ€Ð¾ÐºÐ°";
+$MESS["IM_QUOTE"] = "Ð¦Ð¸Ñ‚Ð°Ñ‚Ð°";
+$MESS["IM_FILE"] = "Ð¤Ð°Ð¹Ð»";
 ?>

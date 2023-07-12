@@ -1,2 +1,2 @@
 <?php
-$MESS['LANDING_ENTITY_NOT_FOUND'] = 'Ñóùíîñòü íå íàéäåíà';
+$MESS['LANDING_ENTITY_NOT_FOUND'] = 'Ð¡ÑƒÑ‰Ð½Ð¾ÑÑ‚ÑŒ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð°';

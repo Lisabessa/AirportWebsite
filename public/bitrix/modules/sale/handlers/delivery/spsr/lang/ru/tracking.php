@@ -1,4 +1,4 @@
 <?
-$MESS["SALE_DLV_SRV_SPSR_T_TITLE"] = "СПСР-ЭКСПРЕСС";
-$MESS["SALE_DLV_SRV_SPSR_T_DESCR"] = "Cистема трэкинга службы доставки #A1#\"СПСР-ЭКСПРЕСС\"#A2#</a>";
-$MESS["SALE_DLV_SRV_SPSR_T_ERROR_DATA"] = "Данные получить не удалось";
+$MESS["SALE_DLV_SRV_SPSR_T_TITLE"] = "РЎРџРЎР -Р­РљРЎРџР Р•РЎРЎ";
+$MESS["SALE_DLV_SRV_SPSR_T_DESCR"] = "CРёСЃС‚РµРјР° С‚СЂСЌРєРёРЅРіР° СЃР»СѓР¶Р±С‹ РґРѕСЃС‚Р°РІРєРё #A1#\"РЎРџРЎР -Р­РљРЎРџР Р•РЎРЎ\"#A2#</a>";
+$MESS["SALE_DLV_SRV_SPSR_T_ERROR_DATA"] = "Р”Р°РЅРЅС‹Рµ РїРѕР»СѓС‡РёС‚СЊ РЅРµ СѓРґР°Р»РѕСЃСЊ";

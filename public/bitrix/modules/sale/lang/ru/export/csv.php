@@ -1,10 +1,10 @@
 <?
-$MESS["SEXC_ORDER_DATE"]="Äàòà çàêàçà";
-$MESS["SEXC_PAY_DATE"]="Äàòà îïëàòû";
-$MESS["SEXC_YES"]="Äà";
-$MESS["SEXC_NO"]="Íåò";
-$MESS["SEXC_SUCCESS"]="Óñïåøíà";
-$MESS["SEXC_UNSUCCESS"]="Íå óñïåøíà";
-$MESS["SEXC_NONE"]="Íå ïðîâîäèëàñü";
-$MESS["SEXC_SHT"]=" øò.)";
+$MESS["SEXC_ORDER_DATE"]="Ð”Ð°Ñ‚Ð° Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["SEXC_PAY_DATE"]="Ð”Ð°Ñ‚Ð° Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹";
+$MESS["SEXC_YES"]="Ð”Ð°";
+$MESS["SEXC_NO"]="ÐÐµÑ‚";
+$MESS["SEXC_SUCCESS"]="Ð£ÑÐ¿ÐµÑˆÐ½Ð°";
+$MESS["SEXC_UNSUCCESS"]="ÐÐµ ÑƒÑÐ¿ÐµÑˆÐ½Ð°";
+$MESS["SEXC_NONE"]="ÐÐµ Ð¿Ñ€Ð¾Ð²Ð¾Ð´Ð¸Ð»Ð°ÑÑŒ";
+$MESS["SEXC_SHT"]=" ÑˆÑ‚.)";
 ?>

@@ -1,12 +1,12 @@
 <?
-$MESS["JS_CORE_SS_EVENT_SEND"] = "Ñîõðàíèòü";
-$MESS["JS_CORE_SS_EVENT_CANCEL"] = "Îòìåíèòü";
-$MESS["JS_CORE_SS_EVENT_SETUP"] = "íàñòðîèòü";
-$MESS["JS_CORE_SS_WORKDAY_START"] = "ß íà÷àë ðàáî÷èé äåíü ñ #bitrix24.";
-$MESS["JS_CORE_SS_WORKDAY_END"] = "ß çàêîí÷èë ðàáî÷èé äåíü â #bitrix24. Âûïîëíåíî: #task# çàäà÷è, #event# âñòðå÷è.";
-$MESS["JS_CORE_SS_SEND_TO_SOCSERV"] = "Ïîäåëèòüñÿ â ñîöèàëüíûõ ñåòÿõ.";
-$MESS["JS_CORE_SS_SEND_SUCCESS"] = "óñïåøíî";
-$MESS["JS_CORE_SS_SEND_ERROR"] = "íå îòïðàâëåíî";
-$MESS["JS_CORE_SS_SEND_TO_START"] = "Îòïðàâëÿòü ïðè íà÷àëå ðàáî÷åãî äíÿ.";
-$MESS["JS_CORE_SS_SEND_TO_END"] = "Îòïðàâëÿòü ïðè îêîí÷àíèè ðàáî÷åãî äíÿ.";
+$MESS["JS_CORE_SS_EVENT_SEND"] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ";
+$MESS["JS_CORE_SS_EVENT_CANCEL"] = "ÐžÑ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
+$MESS["JS_CORE_SS_EVENT_SETUP"] = "Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¸Ñ‚ÑŒ";
+$MESS["JS_CORE_SS_WORKDAY_START"] = "Ð¯ Ð½Ð°Ñ‡Ð°Ð» Ñ€Ð°Ð±Ð¾Ñ‡Ð¸Ð¹ Ð´ÐµÐ½ÑŒ Ñ #bitrix24.";
+$MESS["JS_CORE_SS_WORKDAY_END"] = "Ð¯ Ð·Ð°ÐºÐ¾Ð½Ñ‡Ð¸Ð» Ñ€Ð°Ð±Ð¾Ñ‡Ð¸Ð¹ Ð´ÐµÐ½ÑŒ Ð² #bitrix24. Ð’Ñ‹Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¾: #task# Ð·Ð°Ð´Ð°Ñ‡Ð¸, #event# Ð²ÑÑ‚Ñ€ÐµÑ‡Ð¸.";
+$MESS["JS_CORE_SS_SEND_TO_SOCSERV"] = "ÐŸÐ¾Ð´ÐµÐ»Ð¸Ñ‚ÑŒÑÑ Ð² ÑÐ¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ñ‹Ñ… ÑÐµÑ‚ÑÑ….";
+$MESS["JS_CORE_SS_SEND_SUCCESS"] = "ÑƒÑÐ¿ÐµÑˆÐ½Ð¾";
+$MESS["JS_CORE_SS_SEND_ERROR"] = "Ð½Ðµ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¾";
+$MESS["JS_CORE_SS_SEND_TO_START"] = "ÐžÑ‚Ð¿Ñ€Ð°Ð²Ð»ÑÑ‚ÑŒ Ð¿Ñ€Ð¸ Ð½Ð°Ñ‡Ð°Ð»Ðµ Ñ€Ð°Ð±Ð¾Ñ‡ÐµÐ³Ð¾ Ð´Ð½Ñ.";
+$MESS["JS_CORE_SS_SEND_TO_END"] = "ÐžÑ‚Ð¿Ñ€Ð°Ð²Ð»ÑÑ‚ÑŒ Ð¿Ñ€Ð¸ Ð¾ÐºÐ¾Ð½Ñ‡Ð°Ð½Ð¸Ð¸ Ñ€Ð°Ð±Ð¾Ñ‡ÐµÐ³Ð¾ Ð´Ð½Ñ.";
 ?>

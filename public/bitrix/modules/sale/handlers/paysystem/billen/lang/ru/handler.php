@@ -1,3 +1,3 @@
 <?php
-$MESS["SALE_HPS_BILL_EN_COMMENT"] = 'Êîììåíòàðèé ê ñ÷åòó';
-$MESS["SALE_HPS_BILL_EN_COMMENT_ADD"] = 'Äîïîëíèòåëüíûé êîììåíòàðèé ê ñ÷åòó';
+$MESS["SALE_HPS_BILL_EN_COMMENT"] = 'ÐšÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹ Ðº ÑÑ‡ÐµÑ‚Ñƒ';
+$MESS["SALE_HPS_BILL_EN_COMMENT_ADD"] = 'Ð”Ð¾Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ð¹ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸Ð¹ Ðº ÑÑ‡ÐµÑ‚Ñƒ';

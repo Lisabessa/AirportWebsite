@@ -1,9 +1,9 @@
 <?
-$MESS["FILE_RESIZE_ENTITY_ID_FIELD"] = "Èäåíòèôèêàòîð çàäàíèÿ";
-$MESS["FILE_RESIZE_ENTITY_TIMESTAMP_X_FIELD"] = "Âðåìÿ ñîçäàíèÿ çàäàíèÿ";
-$MESS["FILE_RESIZE_ENTITY_ERROR_CODE_FIELD"] = "Êîä îøèáêè";
-$MESS["FILE_RESIZE_ENTITY_FILE_ID_FIELD"] = "Èäåíòèôèêàòîð ôàéëà";
-$MESS["FILE_RESIZE_ENTITY_PARAMS_FIELD"] = "Ïàðàìåòðû";
-$MESS["FILE_RESIZE_ENTITY_FROM_PATH_FIELD"] = "Ïóòü ê èñõîäíîìó ôàéëó";
-$MESS["FILE_RESIZE_ENTITY_TO_PATH_FIELD"] = "Ïóòü ê ôàéëó ðåçóëüòàòà";
+$MESS["FILE_RESIZE_ENTITY_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð·Ð°Ð´Ð°Ð½Ð¸Ñ";
+$MESS["FILE_RESIZE_ENTITY_TIMESTAMP_X_FIELD"] = "Ð’Ñ€ÐµÐ¼Ñ ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ Ð·Ð°Ð´Ð°Ð½Ð¸Ñ";
+$MESS["FILE_RESIZE_ENTITY_ERROR_CODE_FIELD"] = "ÐšÐ¾Ð´ Ð¾ÑˆÐ¸Ð±ÐºÐ¸";
+$MESS["FILE_RESIZE_ENTITY_FILE_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ñ„Ð°Ð¹Ð»Ð°";
+$MESS["FILE_RESIZE_ENTITY_PARAMS_FIELD"] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹";
+$MESS["FILE_RESIZE_ENTITY_FROM_PATH_FIELD"] = "ÐŸÑƒÑ‚ÑŒ Ðº Ð¸ÑÑ…Ð¾Ð´Ð½Ð¾Ð¼Ñƒ Ñ„Ð°Ð¹Ð»Ñƒ";
+$MESS["FILE_RESIZE_ENTITY_TO_PATH_FIELD"] = "ÐŸÑƒÑ‚ÑŒ Ðº Ñ„Ð°Ð¹Ð»Ñƒ Ñ€ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ð°";
 ?>

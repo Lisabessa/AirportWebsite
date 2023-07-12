@@ -1,38 +1,38 @@
 <?
-$MESS['WIZDEMO_FORM_ANKETA_NAME'] = 'Анкета посетителя сайта';
-$MESS['WIZDEMO_FORM_ANKETA_BUTTON'] = 'Отправить анкету';
-$MESS['WIZDEMO_FORM_ANKETA_VS_NAME'] = 'Фамилия, имя, отчество';
-$MESS['WIZDEMO_FORM_ANKETA_VS_BIRTHDAY'] = 'Дата рождения';
-$MESS['WIZDEMO_FORM_ANKETA_VS_ADDRESS'] = 'Адрес';
-$MESS['WIZDEMO_FORM_ANKETA_VS_MARRIED'] = 'Вы женаты / замужем?';
-$MESS['WIZDEMO_FORM_ANKETA_VS_MARRIED_V1'] = 'Да';
-$MESS['WIZDEMO_FORM_ANKETA_VS_MARRIED_V2'] = 'Нет';
-$MESS['WIZDEMO_FORM_ANKETA_VS_INTEREST'] = 'Какие области знаний вас интересуют?';
-$MESS['WIZDEMO_FORM_ANKETA_VS_INTEREST_V1'] = 'математика';
-$MESS['WIZDEMO_FORM_ANKETA_VS_INTEREST_V2'] = 'физика';
-$MESS['WIZDEMO_FORM_ANKETA_VS_INTEREST_V3'] = 'история';
-$MESS['WIZDEMO_FORM_ANKETA_VS_INTEREST_V4'] = 'иностранные языки';
-$MESS['WIZDEMO_FORM_ANKETA_VS_INTEREST_V5'] = 'программирование';
-$MESS['WIZDEMO_FORM_ANKETA_VS_AGE'] = 'Ваш возраст';
-$MESS['WIZDEMO_FORM_ANKETA_VS_AGE_FINAL'] = '#AGE# и старше';
-$MESS['WIZDEMO_FORM_ANKETA_VS_EDUCATION'] = 'Ваше образование';
-$MESS['WIZDEMO_FORM_ANKETA_VS_EDUCATION_V1'] = 'начальное';
-$MESS['WIZDEMO_FORM_ANKETA_VS_EDUCATION_V2'] = 'средне-специальное';
-$MESS['WIZDEMO_FORM_ANKETA_VS_EDUCATION_V3'] = 'высшее';
-$MESS['WIZDEMO_FORM_ANKETA_VS_EDUCATION_V4'] = 'ясли с отличием';
-$MESS['WIZDEMO_FORM_ANKETA_VS_INCOME'] = 'Годовой доход ($)';
-$MESS['WIZDEMO_FORM_ANKETA_VS_PHOTO'] = 'Фотография';
-$MESS['WIZDEMO_FORM_ANKETA_PUBLIC_SECTION_TITLE'] = 'Веб-формы';
-$MESS['WIZDEMO_FORM_ANKETA_GLOBAL_SECTION_TITLE'] = 'Общение';
-$MESS['WIZDEMO_FORM_ANKETA_GLOBAL_TEXT'] = 'Модуль <b>Веб-формы</b> позволяет создавать и размещать в публичном разделе сайта различные формы, служащие для организации взаимодействия с посетителями сайта.</p>
+$MESS['WIZDEMO_FORM_ANKETA_NAME'] = 'РђРЅРєРµС‚Р° РїРѕСЃРµС‚РёС‚РµР»СЏ СЃР°Р№С‚Р°';
+$MESS['WIZDEMO_FORM_ANKETA_BUTTON'] = 'РћС‚РїСЂР°РІРёС‚СЊ Р°РЅРєРµС‚Сѓ';
+$MESS['WIZDEMO_FORM_ANKETA_VS_NAME'] = 'Р¤Р°РјРёР»РёСЏ, РёРјСЏ, РѕС‚С‡РµСЃС‚РІРѕ';
+$MESS['WIZDEMO_FORM_ANKETA_VS_BIRTHDAY'] = 'Р”Р°С‚Р° СЂРѕР¶РґРµРЅРёСЏ';
+$MESS['WIZDEMO_FORM_ANKETA_VS_ADDRESS'] = 'РђРґСЂРµСЃ';
+$MESS['WIZDEMO_FORM_ANKETA_VS_MARRIED'] = 'Р’С‹ Р¶РµРЅР°С‚С‹ / Р·Р°РјСѓР¶РµРј?';
+$MESS['WIZDEMO_FORM_ANKETA_VS_MARRIED_V1'] = 'Р”Р°';
+$MESS['WIZDEMO_FORM_ANKETA_VS_MARRIED_V2'] = 'РќРµС‚';
+$MESS['WIZDEMO_FORM_ANKETA_VS_INTEREST'] = 'РљР°РєРёРµ РѕР±Р»Р°СЃС‚Рё Р·РЅР°РЅРёР№ РІР°СЃ РёРЅС‚РµСЂРµСЃСѓСЋС‚?';
+$MESS['WIZDEMO_FORM_ANKETA_VS_INTEREST_V1'] = 'РјР°С‚РµРјР°С‚РёРєР°';
+$MESS['WIZDEMO_FORM_ANKETA_VS_INTEREST_V2'] = 'С„РёР·РёРєР°';
+$MESS['WIZDEMO_FORM_ANKETA_VS_INTEREST_V3'] = 'РёСЃС‚РѕСЂРёСЏ';
+$MESS['WIZDEMO_FORM_ANKETA_VS_INTEREST_V4'] = 'РёРЅРѕСЃС‚СЂР°РЅРЅС‹Рµ СЏР·С‹РєРё';
+$MESS['WIZDEMO_FORM_ANKETA_VS_INTEREST_V5'] = 'РїСЂРѕРіСЂР°РјРјРёСЂРѕРІР°РЅРёРµ';
+$MESS['WIZDEMO_FORM_ANKETA_VS_AGE'] = 'Р’Р°С€ РІРѕР·СЂР°СЃС‚';
+$MESS['WIZDEMO_FORM_ANKETA_VS_AGE_FINAL'] = '#AGE# Рё СЃС‚Р°СЂС€Рµ';
+$MESS['WIZDEMO_FORM_ANKETA_VS_EDUCATION'] = 'Р’Р°С€Рµ РѕР±СЂР°Р·РѕРІР°РЅРёРµ';
+$MESS['WIZDEMO_FORM_ANKETA_VS_EDUCATION_V1'] = 'РЅР°С‡Р°Р»СЊРЅРѕРµ';
+$MESS['WIZDEMO_FORM_ANKETA_VS_EDUCATION_V2'] = 'СЃСЂРµРґРЅРµ-СЃРїРµС†РёР°Р»СЊРЅРѕРµ';
+$MESS['WIZDEMO_FORM_ANKETA_VS_EDUCATION_V3'] = 'РІС‹СЃС€РµРµ';
+$MESS['WIZDEMO_FORM_ANKETA_VS_EDUCATION_V4'] = 'СЏСЃР»Рё СЃ РѕС‚Р»РёС‡РёРµРј';
+$MESS['WIZDEMO_FORM_ANKETA_VS_INCOME'] = 'Р“РѕРґРѕРІРѕР№ РґРѕС…РѕРґ ($)';
+$MESS['WIZDEMO_FORM_ANKETA_VS_PHOTO'] = 'Р¤РѕС‚РѕРіСЂР°С„РёСЏ';
+$MESS['WIZDEMO_FORM_ANKETA_PUBLIC_SECTION_TITLE'] = 'Р’РµР±-С„РѕСЂРјС‹';
+$MESS['WIZDEMO_FORM_ANKETA_GLOBAL_SECTION_TITLE'] = 'РћР±С‰РµРЅРёРµ';
+$MESS['WIZDEMO_FORM_ANKETA_GLOBAL_TEXT'] = 'РњРѕРґСѓР»СЊ <b>Р’РµР±-С„РѕСЂРјС‹</b> РїРѕР·РІРѕР»СЏРµС‚ СЃРѕР·РґР°РІР°С‚СЊ Рё СЂР°Р·РјРµС‰Р°С‚СЊ РІ РїСѓР±Р»РёС‡РЅРѕРј СЂР°Р·РґРµР»Рµ СЃР°Р№С‚Р° СЂР°Р·Р»РёС‡РЅС‹Рµ С„РѕСЂРјС‹, СЃР»СѓР¶Р°С‰РёРµ РґР»СЏ РѕСЂРіР°РЅРёР·Р°С†РёРё РІР·Р°РёРјРѕРґРµР№СЃС‚РІРёСЏ СЃ РїРѕСЃРµС‚РёС‚РµР»СЏРјРё СЃР°Р№С‚Р°.</p>
 
-<p>В данном разделе в качестве примера приведены две веб-формы:</p>
+<p>Р’ РґР°РЅРЅРѕРј СЂР°Р·РґРµР»Рµ РІ РєР°С‡РµСЃС‚РІРµ РїСЂРёРјРµСЂР° РїСЂРёРІРµРґРµРЅС‹ РґРІРµ РІРµР±-С„РѕСЂРјС‹:</p>
 <ul>
-    <li><i>Анкета посетителей сайта</i> служит для сбора информации о посетителях;</li>
-    <li><i>Обратная связь</i>.</li>
+    <li><i>РђРЅРєРµС‚Р° РїРѕСЃРµС‚РёС‚РµР»РµР№ СЃР°Р№С‚Р°</i> СЃР»СѓР¶РёС‚ РґР»СЏ СЃР±РѕСЂР° РёРЅС„РѕСЂРјР°С†РёРё Рѕ РїРѕСЃРµС‚РёС‚РµР»СЏС…;</li>
+    <li><i>РћР±СЂР°С‚РЅР°СЏ СЃРІСЏР·СЊ</i>.</li>
 </ul>
 
-<p>Формы созданы в упрощенном режиме редактирования без использования статусов. Для каждой из них шаблон формы создан вручную с использованием визуального режима редактирования веб-форм.</p>
+<p>Р¤РѕСЂРјС‹ СЃРѕР·РґР°РЅС‹ РІ СѓРїСЂРѕС‰РµРЅРЅРѕРј СЂРµР¶РёРјРµ СЂРµРґР°РєС‚РёСЂРѕРІР°РЅРёСЏ Р±РµР· РёСЃРїРѕР»СЊР·РѕРІР°РЅРёСЏ СЃС‚Р°С‚СѓСЃРѕРІ. Р”Р»СЏ РєР°Р¶РґРѕР№ РёР· РЅРёС… С€Р°Р±Р»РѕРЅ С„РѕСЂРјС‹ СЃРѕР·РґР°РЅ РІСЂСѓС‡РЅСѓСЋ СЃ РёСЃРїРѕР»СЊР·РѕРІР°РЅРёРµРј РІРёР·СѓР°Р»СЊРЅРѕРіРѕ СЂРµР¶РёРјР° СЂРµРґР°РєС‚РёСЂРѕРІР°РЅРёСЏ РІРµР±-С„РѕСЂРј.</p>
 
-<p>При наличии ошибок заполнения формы и попытке отправить (сохранить) результат будет выведено сообщение об ошибках. При успешном сохранении результата заполнения ответ формы будет также выведен. Формы опубликованы с помощью компонента <b>Заполнение веб-формы</b>.';
+<p>РџСЂРё РЅР°Р»РёС‡РёРё РѕС€РёР±РѕРє Р·Р°РїРѕР»РЅРµРЅРёСЏ С„РѕСЂРјС‹ Рё РїРѕРїС‹С‚РєРµ РѕС‚РїСЂР°РІРёС‚СЊ (СЃРѕС…СЂР°РЅРёС‚СЊ) СЂРµР·СѓР»СЊС‚Р°С‚ Р±СѓРґРµС‚ РІС‹РІРµРґРµРЅРѕ СЃРѕРѕР±С‰РµРЅРёРµ РѕР± РѕС€РёР±РєР°С…. РџСЂРё СѓСЃРїРµС€РЅРѕРј СЃРѕС…СЂР°РЅРµРЅРёРё СЂРµР·СѓР»СЊС‚Р°С‚Р° Р·Р°РїРѕР»РЅРµРЅРёСЏ РѕС‚РІРµС‚ С„РѕСЂРјС‹ Р±СѓРґРµС‚ С‚Р°РєР¶Рµ РІС‹РІРµРґРµРЅ. Р¤РѕСЂРјС‹ РѕРїСѓР±Р»РёРєРѕРІР°РЅС‹ СЃ РїРѕРјРѕС‰СЊСЋ РєРѕРјРїРѕРЅРµРЅС‚Р° <b>Р—Р°РїРѕР»РЅРµРЅРёРµ РІРµР±-С„РѕСЂРјС‹</b>.';
 ?>

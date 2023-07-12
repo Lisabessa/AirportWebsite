@@ -1,3 +1,3 @@
 <?
-$sSectionName="Ëþäè";
+$sSectionName="Ð›ÑŽÐ´Ð¸";
 ?>

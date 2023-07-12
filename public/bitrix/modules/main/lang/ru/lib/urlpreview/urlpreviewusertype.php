@@ -1,4 +1,4 @@
 <?
-$MESS["MAIN_URL_PREVIEW_USER_TYPE_NAME"]="Ñîäåðæèìîå ññûëêè";
-$MESS["MAIN_URL_PREVIEW_VALUE_NOT_FOUND"]="Ñîäåðæèìîå ññûëêè íå íàéäåíî";
-$MESS["MAIN_URL_PREVIEW_VALUE_NO_ACCESS"]="Ó âàñ íåò äîñòóïà ê ñîäåðæèìîìó ññûëêè #URL#";
+$MESS["MAIN_URL_PREVIEW_USER_TYPE_NAME"]="Ð¡Ð¾Ð´ÐµÑ€Ð¶Ð¸Ð¼Ð¾Ðµ ÑÑÑ‹Ð»ÐºÐ¸";
+$MESS["MAIN_URL_PREVIEW_VALUE_NOT_FOUND"]="Ð¡Ð¾Ð´ÐµÑ€Ð¶Ð¸Ð¼Ð¾Ðµ ÑÑÑ‹Ð»ÐºÐ¸ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾";
+$MESS["MAIN_URL_PREVIEW_VALUE_NO_ACCESS"]="Ð£ Ð²Ð°Ñ Ð½ÐµÑ‚ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð° Ðº ÑÐ¾Ð´ÐµÑ€Ð¶Ð¸Ð¼Ð¾Ð¼Ñƒ ÑÑÑ‹Ð»ÐºÐ¸ #URL#";

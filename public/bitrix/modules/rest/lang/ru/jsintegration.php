@@ -1,3 +1,3 @@
 <?
-$MESS["REST_INTEGRATION_LIST_ERROR_OPEN_URL"] = "Íåèçâåñòíàÿ îøèáêà îòêðûòèÿ ñòðàíèöû.";
-$MESS["REST_INTEGRATION_LIST_OPEN_PROCESS"] = "Èíòåãðàöèÿ çàãðóæàåòñÿ...";
+$MESS["REST_INTEGRATION_LIST_ERROR_OPEN_URL"] = "ÐÐµÐ¸Ð·Ð²ÐµÑÑ‚Ð½Ð°Ñ Ð¾ÑˆÐ¸Ð±ÐºÐ° Ð¾Ñ‚ÐºÑ€Ñ‹Ñ‚Ð¸Ñ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹.";
+$MESS["REST_INTEGRATION_LIST_OPEN_PROCESS"] = "Ð˜Ð½Ñ‚ÐµÐ³Ñ€Ð°Ñ†Ð¸Ñ Ð·Ð°Ð³Ñ€ÑƒÐ¶Ð°ÐµÑ‚ÑÑ...";

@@ -1,14 +1,14 @@
 <?
-$MESS ['LEARNING_OPTIONS_USE_HTMLEDIT'] = "Èñïîëüçîâàòü âèçóàëüíûé ðåäàêòîð";
-$MESS ['LEARNING_OPTIONS_MENU_MAX_COURSES'] = "Êîëè÷åñòâî êóðñîâ, âûâîäèìûõ â ìåíþ";
-$MESS ['LEARNING_TAB_SET'] = "Íàñòðîéêè ìîäóëÿ îáó÷åíèÿ";
-$MESS ['LEARNING_TAB_RIGHTS'] = "Ïðàâà íà äîñòóï";
-$MESS ['LEARNING_TAB_SET_ALT'] = "Ãëîáàëüíûå íàñòðîéêè ìîäóëÿ îáó÷åíèÿ";
-$MESS ['LEARNING_TAB_RIGHTS_ALT'] = "Íàñòðîéêà ïðàâ íà äîñòóï ê ìîäóëþ îáó÷åíèÿ";
-$MESS ['LEARNING_SITE_PATH'] = "Øàáëîíû ïóòåé ê ïóáëè÷íîé ÷àñòè êóðñîâ (ïî ñàéòàì)";
-$MESS ['LEARNING_SITE_PATH_SITE'] = "Øàáëîíû ïóòåé äëÿ ñàéòà &quot;#SITE#&quot;";
-$MESS ['LEARNING_SITE_PATH_SITE_COURSE'] = "Øàáëîí ïóòè ê êóðñó";
-$MESS ['LEARNING_SITE_PATH_SITE_CHAPTER'] = "Øàáëîí ïóòè ê ãëàâå";
-$MESS ['LEARNING_SITE_PATH_SITE_LESSON'] = "Øàáëîí ïóòè ê óðîêó";
-$MESS ['LEARNING_PATH_EXAMPLE'] = "Ïðèìåðû øàáëîíîâ ïóòè";
+$MESS ['LEARNING_OPTIONS_USE_HTMLEDIT'] = "Ð˜ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ Ð²Ð¸Ð·ÑƒÐ°Ð»ÑŒÐ½Ñ‹Ð¹ Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¾Ñ€";
+$MESS ['LEARNING_OPTIONS_MENU_MAX_COURSES'] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ ÐºÑƒÑ€ÑÐ¾Ð², Ð²Ñ‹Ð²Ð¾Ð´Ð¸Ð¼Ñ‹Ñ… Ð² Ð¼ÐµÐ½ÑŽ";
+$MESS ['LEARNING_TAB_SET'] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð¼Ð¾Ð´ÑƒÐ»Ñ Ð¾Ð±ÑƒÑ‡ÐµÐ½Ð¸Ñ";
+$MESS ['LEARNING_TAB_RIGHTS'] = "ÐŸÑ€Ð°Ð²Ð° Ð½Ð° Ð´Ð¾ÑÑ‚ÑƒÐ¿";
+$MESS ['LEARNING_TAB_SET_ALT'] = "Ð“Ð»Ð¾Ð±Ð°Ð»ÑŒÐ½Ñ‹Ðµ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð¼Ð¾Ð´ÑƒÐ»Ñ Ð¾Ð±ÑƒÑ‡ÐµÐ½Ð¸Ñ";
+$MESS ['LEARNING_TAB_RIGHTS_ALT'] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° Ð¿Ñ€Ð°Ð² Ð½Ð° Ð´Ð¾ÑÑ‚ÑƒÐ¿ Ðº Ð¼Ð¾Ð´ÑƒÐ»ÑŽ Ð¾Ð±ÑƒÑ‡ÐµÐ½Ð¸Ñ";
+$MESS ['LEARNING_SITE_PATH'] = "Ð¨Ð°Ð±Ð»Ð¾Ð½Ñ‹ Ð¿ÑƒÑ‚ÐµÐ¹ Ðº Ð¿ÑƒÐ±Ð»Ð¸Ñ‡Ð½Ð¾Ð¹ Ñ‡Ð°ÑÑ‚Ð¸ ÐºÑƒÑ€ÑÐ¾Ð² (Ð¿Ð¾ ÑÐ°Ð¹Ñ‚Ð°Ð¼)";
+$MESS ['LEARNING_SITE_PATH_SITE'] = "Ð¨Ð°Ð±Ð»Ð¾Ð½Ñ‹ Ð¿ÑƒÑ‚ÐµÐ¹ Ð´Ð»Ñ ÑÐ°Ð¹Ñ‚Ð° &quot;#SITE#&quot;";
+$MESS ['LEARNING_SITE_PATH_SITE_COURSE'] = "Ð¨Ð°Ð±Ð»Ð¾Ð½ Ð¿ÑƒÑ‚Ð¸ Ðº ÐºÑƒÑ€ÑÑƒ";
+$MESS ['LEARNING_SITE_PATH_SITE_CHAPTER'] = "Ð¨Ð°Ð±Ð»Ð¾Ð½ Ð¿ÑƒÑ‚Ð¸ Ðº Ð³Ð»Ð°Ð²Ðµ";
+$MESS ['LEARNING_SITE_PATH_SITE_LESSON'] = "Ð¨Ð°Ð±Ð»Ð¾Ð½ Ð¿ÑƒÑ‚Ð¸ Ðº ÑƒÑ€Ð¾ÐºÑƒ";
+$MESS ['LEARNING_PATH_EXAMPLE'] = "ÐŸÑ€Ð¸Ð¼ÐµÑ€Ñ‹ ÑˆÐ°Ð±Ð»Ð¾Ð½Ð¾Ð² Ð¿ÑƒÑ‚Ð¸";
 ?>

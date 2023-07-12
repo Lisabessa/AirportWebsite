@@ -1,28 +1,28 @@
 <?
 $aMenuLinks = Array(
 	Array(
-		"Èíôîðìàöèÿ î êîìïàíèè", 
+		"Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ñ Ð¾ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸", 
 		"index.php",
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
-		"Èñòîðèÿ", 
+		"Ð˜ÑÑ‚Ð¾Ñ€Ð¸Ñ", 
 		"history.php", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
-		"Ìèññèÿ", 
+		"ÐœÐ¸ÑÑÐ¸Ñ", 
 		"mission.php", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
-		"Ðóêîâîäñòâî", 
+		"Ð ÑƒÐºÐ¾Ð²Ð¾Ð´ÑÑ‚Ð²Ð¾", 
 		"management/", 
 		Array(), 
 		Array(), 
@@ -30,7 +30,7 @@ $aMenuLinks = Array(
 	),
 
 	Array(
-		"Âàêàíñèè", 
+		"Ð’Ð°ÐºÐ°Ð½ÑÐ¸Ð¸", 
 		"vacancies.php", 
 		Array(), 
 		Array(), 

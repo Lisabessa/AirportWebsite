@@ -1,9 +1,9 @@
 <?if (!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED !== true) die();?><?
 ////////////////////////////////////////////////////////////////
-//              Ìîäóëü Z-PAYMENT äëÿ 1C-Bitrix                //
+//              ÐœÐ¾Ð´ÑƒÐ»ÑŒ Z-PAYMENT Ð´Ð»Ñ 1C-Bitrix                //
 ////////////////////////////////////////////////////////////////
-//      Z-PAYMENT, ñèñòåìà ïðèåìà è îáðàáîòêè ïëàòåæåé        //
-//      All rights reserved © 2002-2007, TRANSACTOR LLC       //
+//      Z-PAYMENT, ÑÐ¸ÑÑ‚ÐµÐ¼Ð° Ð¿Ñ€Ð¸ÐµÐ¼Ð° Ð¸ Ð¾Ð±Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ¸ Ð¿Ð»Ð°Ñ‚ÐµÐ¶ÐµÐ¹        //
+//      All rights reserved Â© 2002-2007, TRANSACTOR LLC       //
 ////////////////////////////////////////////////////////////////
 
 define("NO_KEEP_STATISTIC", true);
@@ -38,7 +38,7 @@ if (CModule::IncludeModule("sale"))
 	{
 		$bCorrectPayment = False;
 		$err=1;
-		$err_text= 'ERR: ÍÅÒ ÒÀÊÎÃÎ ÇÀÊÀÇÀ';
+		$err_text= 'ERR: ÐÐ•Ð¢ Ð¢ÐÐšÐžÐ“Ðž Ð—ÐÐšÐÐ—Ð';
 	}
 
 	if ($bCorrectPayment) 
@@ -52,27 +52,27 @@ if (CModule::IncludeModule("sale"))
 	{
 		$bCorrectPayment = False;
 		$err=4;
-		$err_text='ERR: ÎØÈÁÊÀ ÀÂÒÎÐÈÇÀÖÈÈ';
+		$err_text='ERR: ÐžÐ¨Ð˜Ð‘ÐšÐ ÐÐ’Ð¢ÐžÐ Ð˜Ð—ÐÐ¦Ð˜Ð˜';
 	}
 
-	// Ïðîâåðÿåì, íå ïðîèçîøëà ëè ïîäìåíà ñóììû.
+	// ÐŸÑ€Ð¾Ð²ÐµÑ€ÑÐµÐ¼, Ð½Ðµ Ð¿Ñ€Ð¾Ð¸Ð·Ð¾ÑˆÐ»Ð° Ð»Ð¸ Ð¿Ð¾Ð´Ð¼ÐµÐ½Ð° ÑÑƒÐ¼Ð¼Ñ‹.
 	$order_amount =CCurrencyRates::ConvertCurrency($arOrder["PRICE"], $arOrder["CURRENCY"] , $CruR);
 
 	if ($order_amount != $lmi_payment_amount)
 	{
 		$err=2;
-		$err_text='ERR: ÍÅÂÅÐÍÀß ÑÓÌÌÀ : '.htmlspecialcharsbx($lmi_payment_amount);
+		$err_text='ERR: ÐÐ•Ð’Ð•Ð ÐÐÐ¯ Ð¡Ð£ÐœÐœÐ : '.htmlspecialcharsbx($lmi_payment_amount);
 	}  
 
-	//ïðîâåðÿåì ID ìàãàçèíà
+	//Ð¿Ñ€Ð¾Ð²ÐµÑ€ÑÐµÐ¼ ID Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ð°
 	if($lmi_payee_purse != $IdM) 
 	{
 		$err=3;
-		$err_text='ERR: ÍÅÂÅÐÅÍ ID ÌÀÃÀÇÈÍÀ : '.htmlspecialcharsbx($lmi_payee_purse);
+		$err_text='ERR: ÐÐ•Ð’Ð•Ð Ð•Ð ID ÐœÐÐ“ÐÐ—Ð˜ÐÐ : '.htmlspecialcharsbx($lmi_payee_purse);
 	}
 
 
-	if($lmi_prerequest == 1) //ôîðìà ïðåäâàðèòåëüíîãî çàïðîñà
+	if($lmi_prerequest == 1) //Ñ„Ð¾Ñ€Ð¼Ð° Ð¿Ñ€ÐµÐ´Ð²Ð°Ñ€Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾Ð³Ð¾ Ð·Ð°Ð¿Ñ€Ð¾ÑÐ°
 	{ 
 		if ($err != 0) 
 			echo $err_text; 
@@ -90,13 +90,13 @@ if (CModule::IncludeModule("sale"))
 						if ($hash == $lmi_hash) 
 										{
 									$strPS_STATUS_DESCRIPTION = "";
-										$strPS_STATUS_DESCRIPTION .= "Èäåíòèôèêàòîð ìàãàçèíà - ".$lmi_payee_purse."; ";
-									$strPS_STATUS_DESCRIPTION .= "Âíóòðåííèé íîìåð ïëàòåæà  â ñèñòåìå Z-PAYMENT - ".$lmi_sys_invs_no."; ";
-									$strPS_STATUS_DESCRIPTION .= "Âíóòðåííèé íîìåð ñ÷åòà â ñèñòåìå Z-PAYMENT - ".$lmi_sys_trans_no."; ";
-									$strPS_STATUS_DESCRIPTION .= "äàòà ïëàòåæà - ".$lmi_sys_trans_date."";
+										$strPS_STATUS_DESCRIPTION .= "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ð° - ".$lmi_payee_purse."; ";
+									$strPS_STATUS_DESCRIPTION .= "Ð’Ð½ÑƒÑ‚Ñ€ÐµÐ½Ð½Ð¸Ð¹ Ð½Ð¾Ð¼ÐµÑ€ Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ð°  Ð² ÑÐ¸ÑÑ‚ÐµÐ¼Ðµ Z-PAYMENT - ".$lmi_sys_invs_no."; ";
+									$strPS_STATUS_DESCRIPTION .= "Ð’Ð½ÑƒÑ‚Ñ€ÐµÐ½Ð½Ð¸Ð¹ Ð½Ð¾Ð¼ÐµÑ€ ÑÑ‡ÐµÑ‚Ð° Ð² ÑÐ¸ÑÑ‚ÐµÐ¼Ðµ Z-PAYMENT - ".$lmi_sys_trans_no."; ";
+									$strPS_STATUS_DESCRIPTION .= "Ð´Ð°Ñ‚Ð° Ð¿Ð»Ð°Ñ‚ÐµÐ¶Ð° - ".$lmi_sys_trans_date."";
 
 									$strPS_STATUS_MESSAGE = "";
-									$strPS_STATUS_MESSAGE .= "êîøåëåê ïîêóïàòåëÿ èëè åãî e-mail  - ".$lmi_payer_purse."; ";
+									$strPS_STATUS_MESSAGE .= "ÐºÐ¾ÑˆÐµÐ»ÐµÐº Ð¿Ð¾ÐºÑƒÐ¿Ð°Ñ‚ÐµÐ»Ñ Ð¸Ð»Ð¸ ÐµÐ³Ð¾ e-mail  - ".$lmi_payer_purse."; ";
 
 										$arFields = array(
 													"PS_STATUS" => "Y",

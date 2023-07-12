@@ -1,10 +1,10 @@
 <?
-$MESS ['CATALOG_COMPARE_BUY'] = "Êóïèòü";
-$MESS ['CATALOG_NOT_AVAILABLE'] = "(íåò íà ñêëàäå)";
-$MESS ['CATALOG_ONLY_DIFFERENT'] = "Òîëüêî ðàçëè÷àþùèåñÿ";
-$MESS ['CATALOG_ALL_CHARACTERISTICS'] = "Âñå õàðàêòåðèñòèêè";
-$MESS ['CATALOG_REMOVE_PRODUCTS'] = "Óäàëèòü òîâàðû";
-$MESS ['CATALOG_REMOVE_FEATURES'] = "Óäàëèòü ñâîéñòâà";
-$MESS ['CATALOG_REMOVED_FEATURES'] = "Óäàëåííûå ñâîéñòâà";
-$MESS ['CATALOG_ADD_TO_COMPARE_LIST'] = "Äîáàâèòü â ñïèñîê ñðàâíåíèÿ";
+$MESS ['CATALOG_COMPARE_BUY'] = "ÐšÑƒÐ¿Ð¸Ñ‚ÑŒ";
+$MESS ['CATALOG_NOT_AVAILABLE'] = "(Ð½ÐµÑ‚ Ð½Ð° ÑÐºÐ»Ð°Ð´Ðµ)";
+$MESS ['CATALOG_ONLY_DIFFERENT'] = "Ð¢Ð¾Ð»ÑŒÐºÐ¾ Ñ€Ð°Ð·Ð»Ð¸Ñ‡Ð°ÑŽÑ‰Ð¸ÐµÑÑ";
+$MESS ['CATALOG_ALL_CHARACTERISTICS'] = "Ð’ÑÐµ Ñ…Ð°Ñ€Ð°ÐºÑ‚ÐµÑ€Ð¸ÑÑ‚Ð¸ÐºÐ¸";
+$MESS ['CATALOG_REMOVE_PRODUCTS'] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ Ñ‚Ð¾Ð²Ð°Ñ€Ñ‹";
+$MESS ['CATALOG_REMOVE_FEATURES'] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ ÑÐ²Ð¾Ð¹ÑÑ‚Ð²Ð°";
+$MESS ['CATALOG_REMOVED_FEATURES'] = "Ð£Ð´Ð°Ð»ÐµÐ½Ð½Ñ‹Ðµ ÑÐ²Ð¾Ð¹ÑÑ‚Ð²Ð°";
+$MESS ['CATALOG_ADD_TO_COMPARE_LIST'] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð² ÑÐ¿Ð¸ÑÐ¾Ðº ÑÑ€Ð°Ð²Ð½ÐµÐ½Ð¸Ñ";
 ?>

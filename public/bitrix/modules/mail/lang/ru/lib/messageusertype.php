@@ -1,3 +1,3 @@
 <?php
 
-$MESS["MAIL_MESSAGE_USER_TYPE_NAME"] = "Ïèñüìî (email)";
+$MESS["MAIL_MESSAGE_USER_TYPE_NAME"] = "ÐŸÐ¸ÑÑŒÐ¼Ð¾ (email)";

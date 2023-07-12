@@ -1,3 +1,3 @@
 <?
-$MESS["SENDER_INTEGRATION_CRM_PRESET_SEGMENT_ALL"] = "Âñå êëèåíòû è ëèäû";
+$MESS["SENDER_INTEGRATION_CRM_PRESET_SEGMENT_ALL"] = "Ð’ÑÐµ ÐºÐ»Ð¸ÐµÐ½Ñ‚Ñ‹ Ð¸ Ð»Ð¸Ð´Ñ‹";
 ?>

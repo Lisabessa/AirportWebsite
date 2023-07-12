@@ -1,3 +1,3 @@
 <?
-$MESS['CONTROLLER_ERROR_PAYMENT_NOT_EXISTS'] = 'Îïëàòà íå ñóùåñòâóåò. [#ID#]';
+$MESS['CONTROLLER_ERROR_PAYMENT_NOT_EXISTS'] = 'ÐžÐ¿Ð»Ð°Ñ‚Ð° Ð½Ðµ ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÐµÑ‚. [#ID#]';
 ?>

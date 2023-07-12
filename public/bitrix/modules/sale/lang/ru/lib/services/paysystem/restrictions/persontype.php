@@ -1,4 +1,4 @@
 <?php
-$MESS['SALE_PS_RESTRICTIONS_BY_PERSON_TYPE'] = 'ïî òèïó ïëàòåëüùèêà';
+$MESS['SALE_PS_RESTRICTIONS_BY_PERSON_TYPE'] = 'Ð¿Ð¾ Ñ‚Ð¸Ð¿Ñƒ Ð¿Ð»Ð°Ñ‚ÐµÐ»ÑŒÑ‰Ð¸ÐºÐ°';
 $MESS['SALE_PS_RESTRICTIONS_BY_PERSON_TYPE_DESC'] = '';
-$MESS['SALE_SALE_PS_RESTRICTIONS_BY_PERSON_TYPE_NAME'] = 'Òèï ïëàòåëüùèêà';
+$MESS['SALE_SALE_PS_RESTRICTIONS_BY_PERSON_TYPE_NAME'] = 'Ð¢Ð¸Ð¿ Ð¿Ð»Ð°Ñ‚ÐµÐ»ÑŒÑ‰Ð¸ÐºÐ°';

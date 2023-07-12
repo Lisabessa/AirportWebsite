@@ -1,9 +1,9 @@
 <?
-$MESS["CLO_STORAGE_SEARCH_TITLE"] = "Âûáîð ôàéëà èç îáëà÷íîãî õðàíèëèùà";
-$MESS["CLO_STORAGE_SEARCH_BUCKET"] = "Îáëà÷íîå õðàíèëèùå";
-$MESS["CLO_STORAGE_SEARCH_CHOOSE_BUCKET"] = "Âûáåðèòå îáëà÷íîå õðàíèëèùå";
-$MESS["CLO_STORAGE_SEARCH_PATH"] = "Ïóòü";
-$MESS["CLO_STORAGE_SEARCH_NAME"] = "Íàçâàíèå";
-$MESS["CLO_STORAGE_SEARCH_SIZE"] = "Ðàçìåð";
-$MESS["CLO_STORAGE_SEARCH_LIST_ERROR"] = "Îøèáêà ïîëó÷åíèÿ ñïèñêà ôàéëîâ";
+$MESS["CLO_STORAGE_SEARCH_TITLE"] = "Ð’Ñ‹Ð±Ð¾Ñ€ Ñ„Ð°Ð¹Ð»Ð° Ð¸Ð· Ð¾Ð±Ð»Ð°Ñ‡Ð½Ð¾Ð³Ð¾ Ñ…Ñ€Ð°Ð½Ð¸Ð»Ð¸Ñ‰Ð°";
+$MESS["CLO_STORAGE_SEARCH_BUCKET"] = "ÐžÐ±Ð»Ð°Ñ‡Ð½Ð¾Ðµ Ñ…Ñ€Ð°Ð½Ð¸Ð»Ð¸Ñ‰Ðµ";
+$MESS["CLO_STORAGE_SEARCH_CHOOSE_BUCKET"] = "Ð’Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ Ð¾Ð±Ð»Ð°Ñ‡Ð½Ð¾Ðµ Ñ…Ñ€Ð°Ð½Ð¸Ð»Ð¸Ñ‰Ðµ";
+$MESS["CLO_STORAGE_SEARCH_PATH"] = "ÐŸÑƒÑ‚ÑŒ";
+$MESS["CLO_STORAGE_SEARCH_NAME"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
+$MESS["CLO_STORAGE_SEARCH_SIZE"] = "Ð Ð°Ð·Ð¼ÐµÑ€";
+$MESS["CLO_STORAGE_SEARCH_LIST_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ð¾Ð»ÑƒÑ‡ÐµÐ½Ð¸Ñ ÑÐ¿Ð¸ÑÐºÐ° Ñ„Ð°Ð¹Ð»Ð¾Ð²";
 ?>

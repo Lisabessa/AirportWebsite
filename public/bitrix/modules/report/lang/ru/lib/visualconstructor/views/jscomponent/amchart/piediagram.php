@@ -1,2 +1,2 @@
 <?php
-$MESS['REPORT_PIE_DIAGRAM_VIEW_LABEL'] = 'Êðóãîâàÿ äèàãðàììà';
+$MESS['REPORT_PIE_DIAGRAM_VIEW_LABEL'] = 'ÐšÑ€ÑƒÐ³Ð¾Ð²Ð°Ñ Ð´Ð¸Ð°Ð³Ñ€Ð°Ð¼Ð¼Ð°';

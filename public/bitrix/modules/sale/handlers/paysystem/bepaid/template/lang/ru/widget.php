@@ -1,6 +1,6 @@
 <?php
-$MESS["SALE_HANDLERS_PAY_SYSTEM_TEMPLATE_BEPAID_WIDGET_DESCRIPTION"] = "Услугу предоставляет сервис <b>&laquo;bePaid&raquo;</b>.";
-$MESS["SALE_HANDLERS_PAY_SYSTEM_TEMPLATE_BEPAID_WIDGET_SUM"] = "Сумма к оплате: #SUM#";
-$MESS["SALE_HANDLERS_PAY_SYSTEM_TEMPLATE_BEPAID_WIDGET_WARNING_RETURN"] = "<b>Обратите внимание:</b> если вы откажетесь от покупки, для возврата денег вам придется обратиться в магазин.";
-$MESS["SALE_HANDLERS_PAY_SYSTEM_TEMPLATE_BEPAID_WIDGET_BUTTON_PAID"] = "Оплатить";
-$MESS["SALE_HANDLERS_PAY_SYSTEM_TEMPLATE_BEPAID_WIDGET_REDIRECT_MESS"] = "Вы будете перенаправлены на страницу оплаты";
+$MESS["SALE_HANDLERS_PAY_SYSTEM_TEMPLATE_BEPAID_WIDGET_DESCRIPTION"] = "РЈСЃР»СѓРіСѓ РїСЂРµРґРѕСЃС‚Р°РІР»СЏРµС‚ СЃРµСЂРІРёСЃ <b>&laquo;bePaid&raquo;</b>.";
+$MESS["SALE_HANDLERS_PAY_SYSTEM_TEMPLATE_BEPAID_WIDGET_SUM"] = "РЎСѓРјРјР° Рє РѕРїР»Р°С‚Рµ: #SUM#";
+$MESS["SALE_HANDLERS_PAY_SYSTEM_TEMPLATE_BEPAID_WIDGET_WARNING_RETURN"] = "<b>РћР±СЂР°С‚РёС‚Рµ РІРЅРёРјР°РЅРёРµ:</b> РµСЃР»Рё РІС‹ РѕС‚РєР°Р¶РµС‚РµСЃСЊ РѕС‚ РїРѕРєСѓРїРєРё, РґР»СЏ РІРѕР·РІСЂР°С‚Р° РґРµРЅРµРі РІР°Рј РїСЂРёРґРµС‚СЃСЏ РѕР±СЂР°С‚РёС‚СЊСЃСЏ РІ РјР°РіР°Р·РёРЅ.";
+$MESS["SALE_HANDLERS_PAY_SYSTEM_TEMPLATE_BEPAID_WIDGET_BUTTON_PAID"] = "РћРїР»Р°С‚РёС‚СЊ";
+$MESS["SALE_HANDLERS_PAY_SYSTEM_TEMPLATE_BEPAID_WIDGET_REDIRECT_MESS"] = "Р’С‹ Р±СѓРґРµС‚Рµ РїРµСЂРµРЅР°РїСЂР°РІР»РµРЅС‹ РЅР° СЃС‚СЂР°РЅРёС†Сѓ РѕРїР»Р°С‚С‹";

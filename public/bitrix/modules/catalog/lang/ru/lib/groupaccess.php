@@ -1,6 +1,6 @@
 <?
-$MESS["GROUP_ACCESS_ENTITY_ID_FIELD"] = "Èäåíòèôèêàòîð óðîâíÿ ïðàâ";
-$MESS["GROUP_ACCESS_ENTITY_CATALOG_GROUP_ID_FIELD"] = "Èäåíòèôèêàòîð òèïà öåí";
-$MESS["GROUP_ACCESS_ENTITY_GROUP_ID_FIELD"] = "Èäåíòèôèêàòîð ãðóïïû ïîëüçîâàòåëÿ";
-$MESS["GROUP_ACCESS_ENTITY_ACCESS_FIELD"] = "Óðîâåíü ïðàâ";
+$MESS["GROUP_ACCESS_ENTITY_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑƒÑ€Ð¾Ð²Ð½Ñ Ð¿Ñ€Ð°Ð²";
+$MESS["GROUP_ACCESS_ENTITY_CATALOG_GROUP_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ñ‚Ð¸Ð¿Ð° Ñ†ÐµÐ½";
+$MESS["GROUP_ACCESS_ENTITY_GROUP_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
+$MESS["GROUP_ACCESS_ENTITY_ACCESS_FIELD"] = "Ð£Ñ€Ð¾Ð²ÐµÐ½ÑŒ Ð¿Ñ€Ð°Ð²";
 ?>

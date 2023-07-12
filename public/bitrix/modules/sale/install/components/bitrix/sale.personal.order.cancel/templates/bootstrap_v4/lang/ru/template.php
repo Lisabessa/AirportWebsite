@@ -1,8 +1,8 @@
 <?
-$MESS ['SALE_RECORDS_LIST'] = "Â ñïèñîê çàêàçîâ";
-$MESS ['SALE_CANCEL_ORDER1'] = "Âû óâåðåíû, ÷òî õîòèòå îòìåíèòü";
-$MESS ['SALE_CANCEL_ORDER2'] = "çàêàç";
-$MESS ['SALE_CANCEL_ORDER3'] = "Îòìåíà çàêàçà íåîáðàòèìà.";
-$MESS ['SALE_CANCEL_ORDER4'] = "Óêàæèòå, ïîæàëóéñòà, ïðè÷èíó îòìåíû çàêàçà";
-$MESS ['SALE_CANCEL_ORDER_BTN'] = "Îòìåíèòü çàêàç";
+$MESS ['SALE_RECORDS_LIST'] = "Ð’ ÑÐ¿Ð¸ÑÐ¾Ðº Ð·Ð°ÐºÐ°Ð·Ð¾Ð²";
+$MESS ['SALE_CANCEL_ORDER1'] = "Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹, Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ Ð¾Ñ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
+$MESS ['SALE_CANCEL_ORDER2'] = "Ð·Ð°ÐºÐ°Ð·";
+$MESS ['SALE_CANCEL_ORDER3'] = "ÐžÑ‚Ð¼ÐµÐ½Ð° Ð·Ð°ÐºÐ°Ð·Ð° Ð½ÐµÐ¾Ð±Ñ€Ð°Ñ‚Ð¸Ð¼Ð°.";
+$MESS ['SALE_CANCEL_ORDER4'] = "Ð£ÐºÐ°Ð¶Ð¸Ñ‚Ðµ, Ð¿Ð¾Ð¶Ð°Ð»ÑƒÐ¹ÑÑ‚Ð°, Ð¿Ñ€Ð¸Ñ‡Ð¸Ð½Ñƒ Ð¾Ñ‚Ð¼ÐµÐ½Ñ‹ Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS ['SALE_CANCEL_ORDER_BTN'] = "ÐžÑ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ð·Ð°ÐºÐ°Ð·";
 ?>

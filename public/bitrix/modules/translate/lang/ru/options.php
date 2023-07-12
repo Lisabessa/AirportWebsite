@@ -1,14 +1,14 @@
 <?
-$MESS["TRANS_RESTRICTED_FOLDERS"] = "Îãðàíè÷èòü îáëàñòè ïåðåâîäà (ïóòè ê ïàïêàì ÷åðåç çàïÿòóþ)";
-$MESS["MAIN_RESTORE_DEFAULTS"] = "Ïî óìîë÷àíèþ";
-$MESS["TRANS_SHOW_BUTTON_LANG_FILES"] = "Äîáàâèòü íà ïàíåëü èíñòðóìåíòîâ êíîïêó \"Âûâîäèòü ÿçûêîâûå ôàéëû\"";
-$MESS["TRANS_BACKUP_FILES"] = "Äåëàòü ðåçåðâíóþ êîïèþ ðåäàêòèðóåìûõ ôàéëîâ";
-$MESS["TRANS_BACKUP_FOLDER"] = "Ïàïêà äëÿ ðåçåðâíûõ êîïèè ðåäàêòèðóåìûõ ôàéëîâ";
-$MESS["TRANS_SORT_PHRASES"] = "Ñîðòèðîâàòü ôðàçû â ÿçûêîâîì ôàéëå ïðè ñîõðàíåíèè ïî êîäàì ôðàç";
-$MESS["TRANS_DONT_SORT_LANGUAGES"] = "Íå âûïîëíÿòü ñîðòèðîâêó ôðàç äëÿ ÿçûêîâ";
-$MESS["TRANS_EXPORT_CSV_DELIMITER"] = "Ñèìâîë ðàçäåëèòåëü ïîëåé â ýêñïîðòèðóåìûõ CSV ôàéëàõ";
-$MESS["TRANS_EXPORT_CSV_DELIMITER_SEMICOLON"] = "Òî÷êà ñ çàïÿòîé";
-$MESS["TRANS_EXPORT_CSV_DELIMITER_COMMA"] = "Çàïÿòàÿ";
-$MESS["TRANS_EXPORT_CSV_DELIMITER_TABULATION"] = "Òàáóëÿöèÿ";
-$MESS["TRANS_EXPORT_FOLDER"] = "Ïàïêà äëÿ ýêñïîðòèðóåìûõ ôàéëîâ (íàïðèìåð \"upload/translate/export/\")";
+$MESS["TRANS_RESTRICTED_FOLDERS"] = "ÐžÐ³Ñ€Ð°Ð½Ð¸Ñ‡Ð¸Ñ‚ÑŒ Ð¾Ð±Ð»Ð°ÑÑ‚Ð¸ Ð¿ÐµÑ€ÐµÐ²Ð¾Ð´Ð° (Ð¿ÑƒÑ‚Ð¸ Ðº Ð¿Ð°Ð¿ÐºÐ°Ð¼ Ñ‡ÐµÑ€ÐµÐ· Ð·Ð°Ð¿ÑÑ‚ÑƒÑŽ)";
+$MESS["MAIN_RESTORE_DEFAULTS"] = "ÐŸÐ¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ";
+$MESS["TRANS_SHOW_BUTTON_LANG_FILES"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð½Ð° Ð¿Ð°Ð½ÐµÐ»ÑŒ Ð¸Ð½ÑÑ‚Ñ€ÑƒÐ¼ÐµÐ½Ñ‚Ð¾Ð² ÐºÐ½Ð¾Ð¿ÐºÑƒ \"Ð’Ñ‹Ð²Ð¾Ð´Ð¸Ñ‚ÑŒ ÑÐ·Ñ‹ÐºÐ¾Ð²Ñ‹Ðµ Ñ„Ð°Ð¹Ð»Ñ‹\"";
+$MESS["TRANS_BACKUP_FILES"] = "Ð”ÐµÐ»Ð°Ñ‚ÑŒ Ñ€ÐµÐ·ÐµÑ€Ð²Ð½ÑƒÑŽ ÐºÐ¾Ð¿Ð¸ÑŽ Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€ÑƒÐµÐ¼Ñ‹Ñ… Ñ„Ð°Ð¹Ð»Ð¾Ð²";
+$MESS["TRANS_BACKUP_FOLDER"] = "ÐŸÐ°Ð¿ÐºÐ° Ð´Ð»Ñ Ñ€ÐµÐ·ÐµÑ€Ð²Ð½Ñ‹Ñ… ÐºÐ¾Ð¿Ð¸Ð¸ Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€ÑƒÐµÐ¼Ñ‹Ñ… Ñ„Ð°Ð¹Ð»Ð¾Ð²";
+$MESS["TRANS_SORT_PHRASES"] = "Ð¡Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ñ„Ñ€Ð°Ð·Ñ‹ Ð² ÑÐ·Ñ‹ÐºÐ¾Ð²Ð¾Ð¼ Ñ„Ð°Ð¹Ð»Ðµ Ð¿Ñ€Ð¸ ÑÐ¾Ñ…Ñ€Ð°Ð½ÐµÐ½Ð¸Ð¸ Ð¿Ð¾ ÐºÐ¾Ð´Ð°Ð¼ Ñ„Ñ€Ð°Ð·";
+$MESS["TRANS_DONT_SORT_LANGUAGES"] = "ÐÐµ Ð²Ñ‹Ð¿Ð¾Ð»Ð½ÑÑ‚ÑŒ ÑÐ¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²ÐºÑƒ Ñ„Ñ€Ð°Ð· Ð´Ð»Ñ ÑÐ·Ñ‹ÐºÐ¾Ð²";
+$MESS["TRANS_EXPORT_CSV_DELIMITER"] = "Ð¡Ð¸Ð¼Ð²Ð¾Ð» Ñ€Ð°Ð·Ð´ÐµÐ»Ð¸Ñ‚ÐµÐ»ÑŒ Ð¿Ð¾Ð»ÐµÐ¹ Ð² ÑÐºÑÐ¿Ð¾Ñ€Ñ‚Ð¸Ñ€ÑƒÐµÐ¼Ñ‹Ñ… CSV Ñ„Ð°Ð¹Ð»Ð°Ñ…";
+$MESS["TRANS_EXPORT_CSV_DELIMITER_SEMICOLON"] = "Ð¢Ð¾Ñ‡ÐºÐ° Ñ Ð·Ð°Ð¿ÑÑ‚Ð¾Ð¹";
+$MESS["TRANS_EXPORT_CSV_DELIMITER_COMMA"] = "Ð—Ð°Ð¿ÑÑ‚Ð°Ñ";
+$MESS["TRANS_EXPORT_CSV_DELIMITER_TABULATION"] = "Ð¢Ð°Ð±ÑƒÐ»ÑÑ†Ð¸Ñ";
+$MESS["TRANS_EXPORT_FOLDER"] = "ÐŸÐ°Ð¿ÐºÐ° Ð´Ð»Ñ ÑÐºÑÐ¿Ð¾Ñ€Ñ‚Ð¸Ñ€ÑƒÐµÐ¼Ñ‹Ñ… Ñ„Ð°Ð¹Ð»Ð¾Ð² (Ð½Ð°Ð¿Ñ€Ð¸Ð¼ÐµÑ€ \"upload/translate/export/\")";
 ?>

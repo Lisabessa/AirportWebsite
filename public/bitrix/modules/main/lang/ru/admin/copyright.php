@@ -1,10 +1,10 @@
 <?
-$MESS["main_copyright_title"] = "Ïðàâîîáëàäàòåëè";
-$MESS["main_copyright_license"] = "Ëèöåíçèÿ";
-$MESS["main_copyright_bitrix_license"] = "Ïðàâî íà èñïîëüçîâàíèå ïðîãðàììû äëÿ ÝÂÌ &quot;#PRODUCT#&quot; ïðåäîñòàâëåíî â ñîîòâåòñòâèè ñ #URL#Ëèöåíçèîííûì ñîãëàøåíèåì#/URL#.";
-$MESS["main_copyright_3d_party"] = "Äîïîëíèòåëüíûå êîìïîíåíòû";
-$MESS["main_copyright_program"] = "Ïðîãðàììà";
-$MESS["main_copyright_owner"] = "Ïðàâîîáëàäàòåëü";
-$MESS["main_copyright_program_license"] = "Ëèöåíçèÿ";
-$MESS["main_copyright_popup_title"] = "Ëèöåíçèÿ";
+$MESS["main_copyright_title"] = "ÐŸÑ€Ð°Ð²Ð¾Ð¾Ð±Ð»Ð°Ð´Ð°Ñ‚ÐµÐ»Ð¸";
+$MESS["main_copyright_license"] = "Ð›Ð¸Ñ†ÐµÐ½Ð·Ð¸Ñ";
+$MESS["main_copyright_bitrix_license"] = "ÐŸÑ€Ð°Ð²Ð¾ Ð½Ð° Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð¿Ñ€Ð¾Ð³Ñ€Ð°Ð¼Ð¼Ñ‹ Ð´Ð»Ñ Ð­Ð’Ðœ &quot;#PRODUCT#&quot; Ð¿Ñ€ÐµÐ´Ð¾ÑÑ‚Ð°Ð²Ð»ÐµÐ½Ð¾ Ð² ÑÐ¾Ð¾Ñ‚Ð²ÐµÑ‚ÑÑ‚Ð²Ð¸Ð¸ Ñ #URL#Ð›Ð¸Ñ†ÐµÐ½Ð·Ð¸Ð¾Ð½Ð½Ñ‹Ð¼ ÑÐ¾Ð³Ð»Ð°ÑˆÐµÐ½Ð¸ÐµÐ¼#/URL#.";
+$MESS["main_copyright_3d_party"] = "Ð”Ð¾Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ðµ ÐºÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½Ñ‚Ñ‹";
+$MESS["main_copyright_program"] = "ÐŸÑ€Ð¾Ð³Ñ€Ð°Ð¼Ð¼Ð°";
+$MESS["main_copyright_owner"] = "ÐŸÑ€Ð°Ð²Ð¾Ð¾Ð±Ð»Ð°Ð´Ð°Ñ‚ÐµÐ»ÑŒ";
+$MESS["main_copyright_program_license"] = "Ð›Ð¸Ñ†ÐµÐ½Ð·Ð¸Ñ";
+$MESS["main_copyright_popup_title"] = "Ð›Ð¸Ñ†ÐµÐ½Ð·Ð¸Ñ";
 ?>

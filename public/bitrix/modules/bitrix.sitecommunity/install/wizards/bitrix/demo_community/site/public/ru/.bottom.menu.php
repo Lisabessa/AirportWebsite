@@ -1,14 +1,14 @@
 <?
 $aMenuLinks = Array(
 	Array(
-		"Î ñàéòå", 
+		"Ðž ÑÐ°Ð¹Ñ‚Ðµ", 
 		"#SITE_DIR#about.php", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
-		"Ïîèñê", 
+		"ÐŸÐ¾Ð¸ÑÐº", 
 		"#SITE_DIR#search/", 
 		Array(), 
 		Array(), 

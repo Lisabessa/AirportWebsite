@@ -1,10 +1,10 @@
 <?
-$MESS["VIEWED_PRODUCT_ENTITY_ID_FIELD"] = "Èäåíòèôèêàòîð çàïèñè";
-$MESS["VIEWED_PRODUCT_ENTITY_FUSER_ID_FIELD"] = "Èäåíòèôèêàòîð ïîêóïàòåëÿ";
-$MESS["VIEWED_PRODUCT_ENTITY_DATE_VISIT_FIELD"] = "Äàòà ïðîñìîòðà òîâàðà";
-$MESS["VIEWED_PRODUCT_ENTITY_PRODUCT_ID_FIELD"] = "Èäåíòèôèêàòîð òîâàðà/ ïðåäëîæåíèÿ";
-$MESS["VIEWED_PRODUCT_ENTITY_ELEMENT_ID_FIELD"] = "Èäåíòèôèêàòîð òîâàðà/ îñíîâíîãî òîâàðà";
-$MESS["VIEWED_PRODUCT_ENTITY_SITE_ID_FIELD"] = "Èäåíòèôèêàòîð ñàéòà";
-$MESS["VIEWED_PRODUCT_ENTITY_VIEW_COUNT_FIELD"] = "Êîëè÷åñòâî ïðîñìîòðîâ";
-$MESS["VIEWED_PRODUCT_ENTITY_RECOMMENDATION_FIELD"] = "Èäåíòèôèêàòîð/ òèï ðåêîìåíäàöèè";
+$MESS["VIEWED_PRODUCT_ENTITY_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð·Ð°Ð¿Ð¸ÑÐ¸";
+$MESS["VIEWED_PRODUCT_ENTITY_FUSER_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¿Ð¾ÐºÑƒÐ¿Ð°Ñ‚ÐµÐ»Ñ";
+$MESS["VIEWED_PRODUCT_ENTITY_DATE_VISIT_FIELD"] = "Ð”Ð°Ñ‚Ð° Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð° Ñ‚Ð¾Ð²Ð°Ñ€Ð°";
+$MESS["VIEWED_PRODUCT_ENTITY_PRODUCT_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ñ‚Ð¾Ð²Ð°Ñ€Ð°/ Ð¿Ñ€ÐµÐ´Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ";
+$MESS["VIEWED_PRODUCT_ENTITY_ELEMENT_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ñ‚Ð¾Ð²Ð°Ñ€Ð°/ Ð¾ÑÐ½Ð¾Ð²Ð½Ð¾Ð³Ð¾ Ñ‚Ð¾Ð²Ð°Ñ€Ð°";
+$MESS["VIEWED_PRODUCT_ENTITY_SITE_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÐ°Ð¹Ñ‚Ð°";
+$MESS["VIEWED_PRODUCT_ENTITY_VIEW_COUNT_FIELD"] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð¾Ð²";
+$MESS["VIEWED_PRODUCT_ENTITY_RECOMMENDATION_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€/ Ñ‚Ð¸Ð¿ Ñ€ÐµÐºÐ¾Ð¼ÐµÐ½Ð´Ð°Ñ†Ð¸Ð¸";
 ?>

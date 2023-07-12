@@ -1,8 +1,8 @@
 <?
-$MESS["CONTROLLER_ERROR_ADD_PERSON_TYPE"] = "Ïîìèëêà ñòâîðåííÿ òèïó ïëàòíèêà";
-$MESS["CONTROLLER_ERROR_CODE_PERSON_TYPE_EXISTS"] = "Ç âêàçàíèì êîäîì òèï ïëàòíèêà âæå ³ñíóº. [#CODE#]";
-$MESS["CONTROLLER_ERROR_DELETE_PERSON_TYPE"] = "Ïîìèëêà âèäàëåííÿ òèïó ïëàòíèêà.[#ID#]";
-$MESS["CONTROLLER_ERROR_PERSON_TYPE_NOT_EXISTS"] = "Òèï ïëàòíèêà íå ³ñíóº. [#ID#]";
-$MESS["CONTROLLER_ERROR_PERSON_TYPE_PROTECTED_CODE"] = "Êîä òèïó ïëàòíèêà çàðåçåðâîâàíî. [#CODE#]";
-$MESS["CONTROLLER_ERROR_UPDATE_PERSON_TYPE"] = "Ïîìèëêà îíîâëåííÿ òèïó ïëàòíèêà.[#ID#]";
+$MESS["CONTROLLER_ERROR_ADD_PERSON_TYPE"] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ° ÑÑ‚Ð²Ð¾Ñ€ÐµÐ½Ð½Ñ Ñ‚Ð¸Ð¿Ñƒ Ð¿Ð»Ð°Ñ‚Ð½Ð¸ÐºÐ°";
+$MESS["CONTROLLER_ERROR_CODE_PERSON_TYPE_EXISTS"] = "Ð— Ð²ÐºÐ°Ð·Ð°Ð½Ð¸Ð¼ ÐºÐ¾Ð´Ð¾Ð¼ Ñ‚Ð¸Ð¿ Ð¿Ð»Ð°Ñ‚Ð½Ð¸ÐºÐ° Ð²Ð¶Ðµ Ñ–ÑÐ½ÑƒÑ”. [#CODE#]";
+$MESS["CONTROLLER_ERROR_DELETE_PERSON_TYPE"] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ° Ð²Ð¸Ð´Ð°Ð»ÐµÐ½Ð½Ñ Ñ‚Ð¸Ð¿Ñƒ Ð¿Ð»Ð°Ñ‚Ð½Ð¸ÐºÐ°.[#ID#]";
+$MESS["CONTROLLER_ERROR_PERSON_TYPE_NOT_EXISTS"] = "Ð¢Ð¸Ð¿ Ð¿Ð»Ð°Ñ‚Ð½Ð¸ÐºÐ° Ð½Ðµ Ñ–ÑÐ½ÑƒÑ”. [#ID#]";
+$MESS["CONTROLLER_ERROR_PERSON_TYPE_PROTECTED_CODE"] = "ÐšÐ¾Ð´ Ñ‚Ð¸Ð¿Ñƒ Ð¿Ð»Ð°Ñ‚Ð½Ð¸ÐºÐ° Ð·Ð°Ñ€ÐµÐ·ÐµÑ€Ð²Ð¾Ð²Ð°Ð½Ð¾. [#CODE#]";
+$MESS["CONTROLLER_ERROR_UPDATE_PERSON_TYPE"] = "ÐŸÐ¾Ð¼Ð¸Ð»ÐºÐ° Ð¾Ð½Ð¾Ð²Ð»ÐµÐ½Ð½Ñ Ñ‚Ð¸Ð¿Ñƒ Ð¿Ð»Ð°Ñ‚Ð½Ð¸ÐºÐ°.[#ID#]";
 ?>

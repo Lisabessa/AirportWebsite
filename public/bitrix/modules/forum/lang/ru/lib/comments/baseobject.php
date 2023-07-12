@@ -1,6 +1,6 @@
 <?
-$MESS["FORUM_USER_SYSTEM"] = "Ñèñòåìà";
-$MESS["FORUM_CM_WRONG_ENTITY"] = "Íåïðàâèëüíûé ôîðìàò ñóùíîñòè.";
-$MESS["FORUM_CM_TOPIC_IS_NOT_CREATED"] = "Íå ñîçäàíà òåìà äëÿ êîììåíòàðèåâ.";
-$MESS["FORUM_CM_FORUM_IS_WRONG"] = "Óêàçàííûé ôîðóì íå ïðîø¸ë ïðîâåðêó.";
-$MESS["FORUM_CM_FORUM_IS_LOST"] = "Óêàçàííûé ôîðóì íå íàéäåí.";
+$MESS["FORUM_USER_SYSTEM"] = "Ð¡Ð¸ÑÑ‚ÐµÐ¼Ð°";
+$MESS["FORUM_CM_WRONG_ENTITY"] = "ÐÐµÐ¿Ñ€Ð°Ð²Ð¸Ð»ÑŒÐ½Ñ‹Ð¹ Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚ ÑÑƒÑ‰Ð½Ð¾ÑÑ‚Ð¸.";
+$MESS["FORUM_CM_TOPIC_IS_NOT_CREATED"] = "ÐÐµ ÑÐ¾Ð·Ð´Ð°Ð½Ð° Ñ‚ÐµÐ¼Ð° Ð´Ð»Ñ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸ÐµÐ².";
+$MESS["FORUM_CM_FORUM_IS_WRONG"] = "Ð£ÐºÐ°Ð·Ð°Ð½Ð½Ñ‹Ð¹ Ñ„Ð¾Ñ€ÑƒÐ¼ Ð½Ðµ Ð¿Ñ€Ð¾ÑˆÑ‘Ð» Ð¿Ñ€Ð¾Ð²ÐµÑ€ÐºÑƒ.";
+$MESS["FORUM_CM_FORUM_IS_LOST"] = "Ð£ÐºÐ°Ð·Ð°Ð½Ð½Ñ‹Ð¹ Ñ„Ð¾Ñ€ÑƒÐ¼ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½.";

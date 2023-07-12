@@ -1,3 +1,3 @@
 <?
-$MESS ['BLOG_BLOG_FAVORITE'] = "Ëó÷øèå ñîîáùåíèÿ";
+$MESS ['BLOG_BLOG_FAVORITE'] = "Ð›ÑƒÑ‡ÑˆÐ¸Ðµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
 ?>

@@ -1,5 +1,5 @@
 <?
-$MESS ['VOTE_FORGOT_QUESTION'] = "Не указан текст вопроса.";
-$MESS ['VOTE_FORGOT_VOTE_ID'] = "Не указан ID опроса.";
-$MESS ['VOTE_QUESTION_NOT_FOUND'] = "Вопрос не найден.";
+$MESS ['VOTE_FORGOT_QUESTION'] = "РќРµ СѓРєР°Р·Р°РЅ С‚РµРєСЃС‚ РІРѕРїСЂРѕСЃР°.";
+$MESS ['VOTE_FORGOT_VOTE_ID'] = "РќРµ СѓРєР°Р·Р°РЅ ID РѕРїСЂРѕСЃР°.";
+$MESS ['VOTE_QUESTION_NOT_FOUND'] = "Р’РѕРїСЂРѕСЃ РЅРµ РЅР°Р№РґРµРЅ.";
 ?>

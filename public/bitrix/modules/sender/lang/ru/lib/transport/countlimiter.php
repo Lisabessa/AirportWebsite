@@ -1,5 +1,5 @@
 <?
-$MESS["SENDER_TRANSPORT_COUNT_LIMIT_TEXT_MONTHLY"] = "Îñòàëîñü ïèñåì â ýòîì ìåñÿöå %current% èç %limit%";
-$MESS["SENDER_TRANSPORT_COUNT_LIMIT_UNIT_DATE_AT"] = "â";
-$MESS["SENDER_TRANSPORT_COUNT_LIMIT_EXCEEDED"] = "Äîñòèãíóòî ìàêñèìàëüíîå êîëè÷åñòâî îòïðàâîê: %limit% %unit%.";
+$MESS["SENDER_TRANSPORT_COUNT_LIMIT_TEXT_MONTHLY"] = "ÐžÑÑ‚Ð°Ð»Ð¾ÑÑŒ Ð¿Ð¸ÑÐµÐ¼ Ð² ÑÑ‚Ð¾Ð¼ Ð¼ÐµÑÑÑ†Ðµ %current% Ð¸Ð· %limit%";
+$MESS["SENDER_TRANSPORT_COUNT_LIMIT_UNIT_DATE_AT"] = "Ð²";
+$MESS["SENDER_TRANSPORT_COUNT_LIMIT_EXCEEDED"] = "Ð”Ð¾ÑÑ‚Ð¸Ð³Ð½ÑƒÑ‚Ð¾ Ð¼Ð°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ð¾Ðµ ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¾Ðº: %limit% %unit%.";
 ?>

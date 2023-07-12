@@ -1,18 +1,18 @@
 <?
-$MESS["DISCOUNT_COUPON_ENTITY_ID_FIELD"] = "Èäåíòèôèêàòîð êóïîíà";
-$MESS["DISCOUNT_COUPON_ENTITY_DISCOUNT_ID_FIELD"] = "Èäåíòèôèêàòîð ñêèäêè";
-$MESS["DISCOUNT_COUPON_ENTITY_ACTIVE_FIELD"] = "Àêòèâíîñòü";
-$MESS["DISCOUNT_COUPON_ENTITY_COUPON_FIELD"] = "Êóïîí";
-$MESS["DISCOUNT_COUPON_ENTITY_DATE_APPLY_FIELD"] = "Äàòà ïîñëåäíåãî ïðèìåíåíèÿ";
-$MESS["DISCOUNT_COUPON_ENTITY_ONE_TIME_FIELD"] = "Òèï êóïîíà";
-$MESS["DISCOUNT_COUPON_ENTITY_TIMESTAMP_X_FIELD"] = "Äàòà èçìåíåíèÿ";
-$MESS["DISCOUNT_COUPON_ENTITY_MODIFIED_BY_FIELD"] = "Êåì èçìåíåí";
-$MESS["DISCOUNT_COUPON_ENTITY_DATE_CREATE_FIELD"] = "Äàòà ñîçäàíèÿ";
-$MESS["DISCOUNT_COUPON_ENTITY_CREATED_BY_FIELD"] = "Êåì ñîçäàí";
-$MESS["DISCOUNT_COUPON_ENTITY_DESCRIPTION_FIELD"] = "Îïèñàíèå êóïîíà";
-$MESS["DISCOUNT_COUPON_VALIDATOR_COUPON_EMPTY"] = "Êóïîí íå óêàçàí";
-$MESS["DISCOUNT_COUPON_VALIDATOR_COUPON_EXIST"] = "Òàêîé êóïîí óæå ñóùåñòâóåò";
-$MESS["DISCOUNT_COUPON_TABLE_TYPE_ONE_ROW"] = "Êóïîí íà îäíó ïîçèöèþ çàêàçà";
-$MESS["DISCOUNT_COUPON_TABLE_TYPE_ONE_ORDER"] = "Êóïîí íà îäèí çàêàç";
-$MESS["DISCOUNT_COUPON_TABLE_TYPE_NO_LIMIT"] = "Ìíîãîðàçîâûé êóïîí";
+$MESS["DISCOUNT_COUPON_ENTITY_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÐºÑƒÐ¿Ð¾Ð½Ð°";
+$MESS["DISCOUNT_COUPON_ENTITY_DISCOUNT_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÐºÐ¸Ð´ÐºÐ¸";
+$MESS["DISCOUNT_COUPON_ENTITY_ACTIVE_FIELD"] = "ÐÐºÑ‚Ð¸Ð²Ð½Ð¾ÑÑ‚ÑŒ";
+$MESS["DISCOUNT_COUPON_ENTITY_COUPON_FIELD"] = "ÐšÑƒÐ¿Ð¾Ð½";
+$MESS["DISCOUNT_COUPON_ENTITY_DATE_APPLY_FIELD"] = "Ð”Ð°Ñ‚Ð° Ð¿Ð¾ÑÐ»ÐµÐ´Ð½ÐµÐ³Ð¾ Ð¿Ñ€Ð¸Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ";
+$MESS["DISCOUNT_COUPON_ENTITY_ONE_TIME_FIELD"] = "Ð¢Ð¸Ð¿ ÐºÑƒÐ¿Ð¾Ð½Ð°";
+$MESS["DISCOUNT_COUPON_ENTITY_TIMESTAMP_X_FIELD"] = "Ð”Ð°Ñ‚Ð° Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ";
+$MESS["DISCOUNT_COUPON_ENTITY_MODIFIED_BY_FIELD"] = "ÐšÐµÐ¼ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½";
+$MESS["DISCOUNT_COUPON_ENTITY_DATE_CREATE_FIELD"] = "Ð”Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ";
+$MESS["DISCOUNT_COUPON_ENTITY_CREATED_BY_FIELD"] = "ÐšÐµÐ¼ ÑÐ¾Ð·Ð´Ð°Ð½";
+$MESS["DISCOUNT_COUPON_ENTITY_DESCRIPTION_FIELD"] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ ÐºÑƒÐ¿Ð¾Ð½Ð°";
+$MESS["DISCOUNT_COUPON_VALIDATOR_COUPON_EMPTY"] = "ÐšÑƒÐ¿Ð¾Ð½ Ð½Ðµ ÑƒÐºÐ°Ð·Ð°Ð½";
+$MESS["DISCOUNT_COUPON_VALIDATOR_COUPON_EXIST"] = "Ð¢Ð°ÐºÐ¾Ð¹ ÐºÑƒÐ¿Ð¾Ð½ ÑƒÐ¶Ðµ ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÐµÑ‚";
+$MESS["DISCOUNT_COUPON_TABLE_TYPE_ONE_ROW"] = "ÐšÑƒÐ¿Ð¾Ð½ Ð½Ð° Ð¾Ð´Ð½Ñƒ Ð¿Ð¾Ð·Ð¸Ñ†Ð¸ÑŽ Ð·Ð°ÐºÐ°Ð·Ð°";
+$MESS["DISCOUNT_COUPON_TABLE_TYPE_ONE_ORDER"] = "ÐšÑƒÐ¿Ð¾Ð½ Ð½Ð° Ð¾Ð´Ð¸Ð½ Ð·Ð°ÐºÐ°Ð·";
+$MESS["DISCOUNT_COUPON_TABLE_TYPE_NO_LIMIT"] = "ÐœÐ½Ð¾Ð³Ð¾Ñ€Ð°Ð·Ð¾Ð²Ñ‹Ð¹ ÐºÑƒÐ¿Ð¾Ð½";
 ?>

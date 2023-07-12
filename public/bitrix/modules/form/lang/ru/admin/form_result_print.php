@@ -1,7 +1,7 @@
 <?
-$MESS ['FORM_RESULT_LIST'] = "Список результатов формы # #FORM_ID#";
-$MESS ['FORM_RESULT_NOT_FOUND'] = "Результат не найден";
-$MESS ['FORM_PAGE_TITLE'] = "Результат # #RESULT_ID#";
-$MESS ['FORM_FILTER_ANSWER_TEXT'] = "поле фильтра предназначено для фильтрации значений в квадратных скобках,<br>в них выводится содержимое <a title='Посмотреть где этот параметр используется' class='smalltextlink' href='/bitrix/admin/form_field_edit.php?lang=ru&WEB_FORM_ID=#FORM_ID#&additional=N#param'>параметра</a> [ <font class=\"pointed\">ANSWER_TEXT</font> ].";
-$MESS ['FORM_FILTER_ANSWER_VALUE'] = "поле фильтра предназначено для фильтрации значений в круглых скобках,<br>в них выводится содержимое <a title='Посмотреть где этот параметр используется' class='smalltextlink' href='/bitrix/admin/form_field_edit.php?lang=ru&WEB_FORM_ID=#FORM_ID#&additional=N#param'>параметра</a> [ <font class=\"required\">ANSWER_VALUE</font> ].";
+$MESS ['FORM_RESULT_LIST'] = "РЎРїРёСЃРѕРє СЂРµР·СѓР»СЊС‚Р°С‚РѕРІ С„РѕСЂРјС‹ # #FORM_ID#";
+$MESS ['FORM_RESULT_NOT_FOUND'] = "Р РµР·СѓР»СЊС‚Р°С‚ РЅРµ РЅР°Р№РґРµРЅ";
+$MESS ['FORM_PAGE_TITLE'] = "Р РµР·СѓР»СЊС‚Р°С‚ # #RESULT_ID#";
+$MESS ['FORM_FILTER_ANSWER_TEXT'] = "РїРѕР»Рµ С„РёР»СЊС‚СЂР° РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅРѕ РґР»СЏ С„РёР»СЊС‚СЂР°С†РёРё Р·РЅР°С‡РµРЅРёР№ РІ РєРІР°РґСЂР°С‚РЅС‹С… СЃРєРѕР±РєР°С…,<br>РІ РЅРёС… РІС‹РІРѕРґРёС‚СЃСЏ СЃРѕРґРµСЂР¶РёРјРѕРµ <a title='РџРѕСЃРјРѕС‚СЂРµС‚СЊ РіРґРµ СЌС‚РѕС‚ РїР°СЂР°РјРµС‚СЂ РёСЃРїРѕР»СЊР·СѓРµС‚СЃСЏ' class='smalltextlink' href='/bitrix/admin/form_field_edit.php?lang=ru&WEB_FORM_ID=#FORM_ID#&additional=N#param'>РїР°СЂР°РјРµС‚СЂР°</a> [ <font class=\"pointed\">ANSWER_TEXT</font> ].";
+$MESS ['FORM_FILTER_ANSWER_VALUE'] = "РїРѕР»Рµ С„РёР»СЊС‚СЂР° РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅРѕ РґР»СЏ С„РёР»СЊС‚СЂР°С†РёРё Р·РЅР°С‡РµРЅРёР№ РІ РєСЂСѓРіР»С‹С… СЃРєРѕР±РєР°С…,<br>РІ РЅРёС… РІС‹РІРѕРґРёС‚СЃСЏ СЃРѕРґРµСЂР¶РёРјРѕРµ <a title='РџРѕСЃРјРѕС‚СЂРµС‚СЊ РіРґРµ СЌС‚РѕС‚ РїР°СЂР°РјРµС‚СЂ РёСЃРїРѕР»СЊР·СѓРµС‚СЃСЏ' class='smalltextlink' href='/bitrix/admin/form_field_edit.php?lang=ru&WEB_FORM_ID=#FORM_ID#&additional=N#param'>РїР°СЂР°РјРµС‚СЂР°</a> [ <font class=\"required\">ANSWER_VALUE</font> ].";
 ?>

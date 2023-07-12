@@ -1,12 +1,12 @@
 <?
-$MESS["SECURITY_SITE_CHECKER_UsersTest_NAME"] = "Проверка пользователей";
-$MESS["SECURITY_SITE_CHECKER_OTP_NOT_USED"] = "Выключена двухэтапная авторизация";
-$MESS["SECURITY_SITE_CHECKER_OTP_NOT_USED_DETAIL"] = "Двухэтапная авторизация призвана значительно повысить безопасность вашего сайта от фишинг-атак";
-$MESS["SECURITY_SITE_CHECKER_OTP_NOT_USED_RECOMMENDATION"] = "Включить: <a href=\"/bitrix/admin/security_otp.php\" target=\"_blank\">Одноразовые пароли</a>";
-$MESS["SECURITY_SITE_CHECKER_ADMIN_OTP_NOT_USED"] = "Не все администраторы сайта используют OTP";
-$MESS["SECURITY_SITE_CHECKER_ADMIN_OTP_NOT_USED_DETAIL"] = "Двухфакторная авторизация призвана значительно повысить безопасность вашего сайта от фишинг-атак, её использование крайне рекомендовано для привилегированных пользователей";
-$MESS["SECURITY_SITE_CHECKER_ADMIN_OTP_NOT_USED_RECOMMENDATION"] = "Оповестить администраторов сайта о необходимости использовать OTP";
-$MESS["SECURITY_SITE_CHECKER_ADMIN_WEAK_PASSWORD"] = "У некоторых пользователей административной группы установлен слабый пароль";
-$MESS["SECURITY_SITE_CHECKER_ADMIN_WEAK_PASSWORD_DETAIL"] = "Привилегированные пользователи системы должны использовать сильный пароль, состоящий из букв разного регистра, цифр и знаков препинания, длиной не менее 8 символов.";
-$MESS["SECURITY_SITE_CHECKER_ADMIN_WEAK_PASSWORD_RECOMMENDATIONS"] = "Пользователям необходимо установить более надежный пароль";
-$MESS["SECURITY_SITE_CHECKER_ADMIN_WEAK_PASSWORD_USER_LIST"] = "Пользователи:";
+$MESS["SECURITY_SITE_CHECKER_UsersTest_NAME"] = "РџСЂРѕРІРµСЂРєР° РїРѕР»СЊР·РѕРІР°С‚РµР»РµР№";
+$MESS["SECURITY_SITE_CHECKER_OTP_NOT_USED"] = "Р’С‹РєР»СЋС‡РµРЅР° РґРІСѓС…СЌС‚Р°РїРЅР°СЏ Р°РІС‚РѕСЂРёР·Р°С†РёСЏ";
+$MESS["SECURITY_SITE_CHECKER_OTP_NOT_USED_DETAIL"] = "Р”РІСѓС…СЌС‚Р°РїРЅР°СЏ Р°РІС‚РѕСЂРёР·Р°С†РёСЏ РїСЂРёР·РІР°РЅР° Р·РЅР°С‡РёС‚РµР»СЊРЅРѕ РїРѕРІС‹СЃРёС‚СЊ Р±РµР·РѕРїР°СЃРЅРѕСЃС‚СЊ РІР°С€РµРіРѕ СЃР°Р№С‚Р° РѕС‚ С„РёС€РёРЅРі-Р°С‚Р°Рє";
+$MESS["SECURITY_SITE_CHECKER_OTP_NOT_USED_RECOMMENDATION"] = "Р’РєР»СЋС‡РёС‚СЊ: <a href=\"/bitrix/admin/security_otp.php\" target=\"_blank\">РћРґРЅРѕСЂР°Р·РѕРІС‹Рµ РїР°СЂРѕР»Рё</a>";
+$MESS["SECURITY_SITE_CHECKER_ADMIN_OTP_NOT_USED"] = "РќРµ РІСЃРµ Р°РґРјРёРЅРёСЃС‚СЂР°С‚РѕСЂС‹ СЃР°Р№С‚Р° РёСЃРїРѕР»СЊР·СѓСЋС‚ OTP";
+$MESS["SECURITY_SITE_CHECKER_ADMIN_OTP_NOT_USED_DETAIL"] = "Р”РІСѓС…С„Р°РєС‚РѕСЂРЅР°СЏ Р°РІС‚РѕСЂРёР·Р°С†РёСЏ РїСЂРёР·РІР°РЅР° Р·РЅР°С‡РёС‚РµР»СЊРЅРѕ РїРѕРІС‹СЃРёС‚СЊ Р±РµР·РѕРїР°СЃРЅРѕСЃС‚СЊ РІР°С€РµРіРѕ СЃР°Р№С‚Р° РѕС‚ С„РёС€РёРЅРі-Р°С‚Р°Рє, РµС‘ РёСЃРїРѕР»СЊР·РѕРІР°РЅРёРµ РєСЂР°Р№РЅРµ СЂРµРєРѕРјРµРЅРґРѕРІР°РЅРѕ РґР»СЏ РїСЂРёРІРёР»РµРіРёСЂРѕРІР°РЅРЅС‹С… РїРѕР»СЊР·РѕРІР°С‚РµР»РµР№";
+$MESS["SECURITY_SITE_CHECKER_ADMIN_OTP_NOT_USED_RECOMMENDATION"] = "РћРїРѕРІРµСЃС‚РёС‚СЊ Р°РґРјРёРЅРёСЃС‚СЂР°С‚РѕСЂРѕРІ СЃР°Р№С‚Р° Рѕ РЅРµРѕР±С…РѕРґРёРјРѕСЃС‚Рё РёСЃРїРѕР»СЊР·РѕРІР°С‚СЊ OTP";
+$MESS["SECURITY_SITE_CHECKER_ADMIN_WEAK_PASSWORD"] = "РЈ РЅРµРєРѕС‚РѕСЂС‹С… РїРѕР»СЊР·РѕРІР°С‚РµР»РµР№ Р°РґРјРёРЅРёСЃС‚СЂР°С‚РёРІРЅРѕР№ РіСЂСѓРїРїС‹ СѓСЃС‚Р°РЅРѕРІР»РµРЅ СЃР»Р°Р±С‹Р№ РїР°СЂРѕР»СЊ";
+$MESS["SECURITY_SITE_CHECKER_ADMIN_WEAK_PASSWORD_DETAIL"] = "РџСЂРёРІРёР»РµРіРёСЂРѕРІР°РЅРЅС‹Рµ РїРѕР»СЊР·РѕРІР°С‚РµР»Рё СЃРёСЃС‚РµРјС‹ РґРѕР»Р¶РЅС‹ РёСЃРїРѕР»СЊР·РѕРІР°С‚СЊ СЃРёР»СЊРЅС‹Р№ РїР°СЂРѕР»СЊ, СЃРѕСЃС‚РѕСЏС‰РёР№ РёР· Р±СѓРєРІ СЂР°Р·РЅРѕРіРѕ СЂРµРіРёСЃС‚СЂР°, С†РёС„СЂ Рё Р·РЅР°РєРѕРІ РїСЂРµРїРёРЅР°РЅРёСЏ, РґР»РёРЅРѕР№ РЅРµ РјРµРЅРµРµ 8 СЃРёРјРІРѕР»РѕРІ.";
+$MESS["SECURITY_SITE_CHECKER_ADMIN_WEAK_PASSWORD_RECOMMENDATIONS"] = "РџРѕР»СЊР·РѕРІР°С‚РµР»СЏРј РЅРµРѕР±С…РѕРґРёРјРѕ СѓСЃС‚Р°РЅРѕРІРёС‚СЊ Р±РѕР»РµРµ РЅР°РґРµР¶РЅС‹Р№ РїР°СЂРѕР»СЊ";
+$MESS["SECURITY_SITE_CHECKER_ADMIN_WEAK_PASSWORD_USER_LIST"] = "РџРѕР»СЊР·РѕРІР°С‚РµР»Рё:";

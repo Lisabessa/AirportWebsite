@@ -1,3 +1,3 @@
 <?
-$MESS['MAIN_THEME_TITLE'] = "Ãëàâíàÿ òåìà";
+$MESS['MAIN_THEME_TITLE'] = "Ð“Ð»Ð°Ð²Ð½Ð°Ñ Ñ‚ÐµÐ¼Ð°";
 ?>

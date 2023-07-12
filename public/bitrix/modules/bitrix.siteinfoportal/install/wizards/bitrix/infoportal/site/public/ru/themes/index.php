@@ -1,6 +1,6 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Òåìû");
+$APPLICATION->SetTitle("Ð¢ÐµÐ¼Ñ‹");
 $GLOBALS["arrFilterTheme"] = array("ID" => "0");
 ?><?$APPLICATION->IncludeComponent(
 	"bitrix:news",
@@ -50,12 +50,12 @@ $GLOBALS["arrFilterTheme"] = array("ID" => "0");
 		"DETAIL_PROPERTY_CODE" => array(0=>"",1=>"",),
 		"DETAIL_DISPLAY_TOP_PAGER" => "N",
 		"DETAIL_DISPLAY_BOTTOM_PAGER" => "Y",
-		"DETAIL_PAGER_TITLE" => "Ñòðàíèöà",
+		"DETAIL_PAGER_TITLE" => "Ð¡Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð°",
 		"DETAIL_PAGER_TEMPLATE" => "",
 		"DETAIL_PAGER_SHOW_ALL" => "Y",
 		"DISPLAY_TOP_PAGER" => "N",
 		"DISPLAY_BOTTOM_PAGER" => "Y",
-		"PAGER_TITLE" => "Íîâîñòè",
+		"PAGER_TITLE" => "ÐÐ¾Ð²Ð¾ÑÑ‚Ð¸",
 		"PAGER_SHOW_ALWAYS" => "N",
 		"PAGER_TEMPLATE" => "",
 		"PAGER_DESC_NUMBERING" => "N",
@@ -122,7 +122,7 @@ $GLOBALS["arrFilterTheme"] = array("ID" => "0");
 	"PARENT_SECTION_CODE" => "",
 	"DISPLAY_TOP_PAGER" => "N",
 	"DISPLAY_BOTTOM_PAGER" => "Y",
-	"PAGER_TITLE" => "Íîâîñòè",
+	"PAGER_TITLE" => "ÐÐ¾Ð²Ð¾ÑÑ‚Ð¸",
 	"PAGER_SHOW_ALWAYS" => "N",
 	"PAGER_TEMPLATE" => "",
 	"PAGER_DESC_NUMBERING" => "N",

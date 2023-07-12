@@ -1,6 +1,6 @@
 <?
-$MESS["CONVERSION_CURRENCY"] = "Áàçîâàÿ âàëþòà";
-$MESS["CONVERSION_TAB_MODULES_NAME"] = "Ìîäóëè";
-$MESS["CONVERSION_TAB_MODULES_DESC"] = "Íàñòðîéêè ìîäóëåé";
-$MESS["CONVERSION_TAB_MODULES_MODULE_NAME"] = "Íàçâàíèå ìîäóëÿ";
-$MESS["CONVERSION_TAB_MODULES_ACTIVE"] = "Âåñòè ó÷åò êîíâåðñèè";
+$MESS["CONVERSION_CURRENCY"] = "Ð‘Ð°Ð·Ð¾Ð²Ð°Ñ Ð²Ð°Ð»ÑŽÑ‚Ð°";
+$MESS["CONVERSION_TAB_MODULES_NAME"] = "ÐœÐ¾Ð´ÑƒÐ»Ð¸";
+$MESS["CONVERSION_TAB_MODULES_DESC"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð¼Ð¾Ð´ÑƒÐ»ÐµÐ¹";
+$MESS["CONVERSION_TAB_MODULES_MODULE_NAME"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð¼Ð¾Ð´ÑƒÐ»Ñ";
+$MESS["CONVERSION_TAB_MODULES_ACTIVE"] = "Ð’ÐµÑÑ‚Ð¸ ÑƒÑ‡ÐµÑ‚ ÐºÐ¾Ð½Ð²ÐµÑ€ÑÐ¸Ð¸";

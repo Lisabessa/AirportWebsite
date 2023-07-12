@@ -1,6 +1,6 @@
 <?
-$MESS ['STAT_TITLE'] = "Âûáîð ðåêëàìíûõ êàìïàíèé";
-$MESS ['STAT_DESCRIPTION'] = "Îïèñàíèå";
-$MESS ['STAT_ADV_PAGES'] = "Êàìïàíèè";
-$MESS ['STAT_SELECT'] = "Âûáðàòü";
+$MESS ['STAT_TITLE'] = "Ð’Ñ‹Ð±Ð¾Ñ€ Ñ€ÐµÐºÐ»Ð°Ð¼Ð½Ñ‹Ñ… ÐºÐ°Ð¼Ð¿Ð°Ð½Ð¸Ð¹";
+$MESS ['STAT_DESCRIPTION'] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ";
+$MESS ['STAT_ADV_PAGES'] = "ÐšÐ°Ð¼Ð¿Ð°Ð½Ð¸Ð¸";
+$MESS ['STAT_SELECT'] = "Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ";
 ?>

@@ -1,6 +1,6 @@
 <?
-$MESS["MEASURE_RATIO_ENTITY_ID_FIELD"] = "ID çàïèñè";
-$MESS["MEASURE_RATIO_ENTITY_PRODUCT_ID_FIELD"] = "ID òîâàðà";
-$MESS["MEASURE_RATIO_ENTITY_RATIO_FIELD"] = "Êîýôôèöèåíò åäèíèöû èçìåðåíèÿ";
-$MESS["MEASURE_RATIO_ENTITY_IS_DEFAULT_FIELD"] = "Êîýôôèöèåíò ïî óìîë÷àíèþ (áàçîâûé)";
+$MESS["MEASURE_RATIO_ENTITY_ID_FIELD"] = "ID Ð·Ð°Ð¿Ð¸ÑÐ¸";
+$MESS["MEASURE_RATIO_ENTITY_PRODUCT_ID_FIELD"] = "ID Ñ‚Ð¾Ð²Ð°Ñ€Ð°";
+$MESS["MEASURE_RATIO_ENTITY_RATIO_FIELD"] = "ÐšÐ¾ÑÑ„Ñ„Ð¸Ñ†Ð¸ÐµÐ½Ñ‚ ÐµÐ´Ð¸Ð½Ð¸Ñ†Ñ‹ Ð¸Ð·Ð¼ÐµÑ€ÐµÐ½Ð¸Ñ";
+$MESS["MEASURE_RATIO_ENTITY_IS_DEFAULT_FIELD"] = "ÐšÐ¾ÑÑ„Ñ„Ð¸Ñ†Ð¸ÐµÐ½Ñ‚ Ð¿Ð¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ (Ð±Ð°Ð·Ð¾Ð²Ñ‹Ð¹)";
 ?>

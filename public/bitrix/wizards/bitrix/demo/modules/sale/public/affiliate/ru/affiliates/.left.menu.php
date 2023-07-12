@@ -1,35 +1,35 @@
 <?
 $aMenuLinks = Array(
 	Array(
-		"Îò÷åò", 
+		"ÐžÑ‚Ñ‡ÐµÑ‚", 
 		"/e-store/affiliates/", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
-		"Èíñòðóêöèè", 
+		"Ð˜Ð½ÑÑ‚Ñ€ÑƒÐºÑ†Ð¸Ð¸", 
 		"/e-store/affiliates/instructions.php", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
-		"Ðåãèñòðàöèÿ", 
+		"Ð ÐµÐ³Ð¸ÑÑ‚Ñ€Ð°Ñ†Ð¸Ñ", 
 		"/e-store/affiliates/register.php", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
-		"Ïëàíû", 
+		"ÐŸÐ»Ð°Ð½Ñ‹", 
 		"/e-store/affiliates/plans.php", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
-		"Îò÷åò ïî ïðîãðàììå", 
+		"ÐžÑ‚Ñ‡ÐµÑ‚ Ð¿Ð¾ Ð¿Ñ€Ð¾Ð³Ñ€Ð°Ð¼Ð¼Ðµ", 
 		"/e-store/affiliates/report.php", 
 		Array(), 
 		Array(), 

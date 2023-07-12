@@ -1,3 +1,3 @@
 <?
-$MESS["FUPD_LF_FORUM_COMMENT_EVENT_INDEX_TITLE"] = "Èíäåêñàöèÿ êîììåíòàðèåâ äëÿ æèâîé ëåíòû";
+$MESS["FUPD_LF_FORUM_COMMENT_EVENT_INDEX_TITLE"] = "Ð˜Ð½Ð´ÐµÐºÑÐ°Ñ†Ð¸Ñ ÐºÐ¾Ð¼Ð¼ÐµÐ½Ñ‚Ð°Ñ€Ð¸ÐµÐ² Ð´Ð»Ñ Ð¶Ð¸Ð²Ð¾Ð¹ Ð»ÐµÐ½Ñ‚Ñ‹";
 ?>

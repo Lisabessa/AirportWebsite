@@ -1,4 +1,4 @@
 <?
-$MESS["sender_trigger_dont_buy_name"] = "Давно не покупал";
-$MESS["sender_trigger_dont_buy_days"] = "Не покупал более(дней)";
+$MESS["sender_trigger_dont_buy_name"] = "Р”Р°РІРЅРѕ РЅРµ РїРѕРєСѓРїР°Р»";
+$MESS["sender_trigger_dont_buy_days"] = "РќРµ РїРѕРєСѓРїР°Р» Р±РѕР»РµРµ(РґРЅРµР№)";
 ?>

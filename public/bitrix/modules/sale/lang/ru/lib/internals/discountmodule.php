@@ -1,5 +1,5 @@
 <?
 $MESS["DISCOUNT_MODULE_ENTITY_ID_FIELD"] = "ID";
-$MESS["DISCOUNT_MODULE_ENTITY_DISCOUNT_ID_FIELD"] = "Èäåíòèôèêàòîð ïðàâèëà êîðçèíû";
-$MESS["DISCOUNT_MODULE_ENTITY_MODULE_ID_FIELD"] = "Èäåíòèôèêàòîð ìîäóëÿ";
+$MESS["DISCOUNT_MODULE_ENTITY_DISCOUNT_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¿Ñ€Ð°Ð²Ð¸Ð»Ð° ÐºÐ¾Ñ€Ð·Ð¸Ð½Ñ‹";
+$MESS["DISCOUNT_MODULE_ENTITY_MODULE_ID_FIELD"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¼Ð¾Ð´ÑƒÐ»Ñ";
 ?>

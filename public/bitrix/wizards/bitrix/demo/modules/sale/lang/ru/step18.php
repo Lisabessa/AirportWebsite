@@ -1,3 +1,3 @@
 <?
-$MESS ['SALE_WIZARD_GROUP'] = "Ãðóïïà 1";
+$MESS ['SALE_WIZARD_GROUP'] = "Ð“Ñ€ÑƒÐ¿Ð¿Ð° 1";
 ?>

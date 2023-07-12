@@ -1,16 +1,16 @@
 <?
-$MESS ['BCL_BACKUP_JOB_TITLE'] = "Ðàñïèñàíèå ðåçåðâèðîâàíèÿ";
-$MESS ['BCL_BACKUP_JOB_URL'] = "Ñåðâåð";
-$MESS ['BCL_BACKUP_JOB_TIME'] = "Âðåìÿ (UTC)";
-$MESS ['BCL_BACKUP_JOB_WEEK_DAYS'] = "Äíè íåäåëè";
-$MESS ['BCL_BACKUP_JOB_STATUS'] = "Ñòàòóñ";
-$MESS ['BCL_BACKUP_JOB_FINISH_TIME'] = "Ïîñëåäíåå âðåìÿ (UTC)";
-$MESS ['BCL_BACKUP_JOB_NEVER'] = "Åùå íå âûïîëíÿëîñü";
-$MESS ['BCL_BACKUP_JOB_DELETE'] = "Îòìåíèòü";
-$MESS ['BCL_BACKUP_JOB_DELETE_CONF'] = "Îòìåíèòü âûïîëíåíèå ðåçåðâíîãî êîïèðîâàíèÿ?";
-$MESS ['BCL_BACKUP_JOB_ADD'] = "Äîáàâèòü";
-$MESS ['BCL_BACKUP_JOB_ADD_TAB'] = "Íîâîå ðàñïèñàíèå";
-$MESS ['BCL_BACKUP_JOB_ADD_TAB_TITLE'] = "Ïàðàìåòðû íîâîãî ðàñïèñàíèÿ";
-$MESS ['BCL_BACKUP_JOB_CANCEL_BTN'] = "Îòìåíà";
-$MESS ['BCL_BACKUP_JOB_SAVE_BTN'] = "Ñîõðàíèòü";
+$MESS ['BCL_BACKUP_JOB_TITLE'] = "Ð Ð°ÑÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ Ñ€ÐµÐ·ÐµÑ€Ð²Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ";
+$MESS ['BCL_BACKUP_JOB_URL'] = "Ð¡ÐµÑ€Ð²ÐµÑ€";
+$MESS ['BCL_BACKUP_JOB_TIME'] = "Ð’Ñ€ÐµÐ¼Ñ (UTC)";
+$MESS ['BCL_BACKUP_JOB_WEEK_DAYS'] = "Ð”Ð½Ð¸ Ð½ÐµÐ´ÐµÐ»Ð¸";
+$MESS ['BCL_BACKUP_JOB_STATUS'] = "Ð¡Ñ‚Ð°Ñ‚ÑƒÑ";
+$MESS ['BCL_BACKUP_JOB_FINISH_TIME'] = "ÐŸÐ¾ÑÐ»ÐµÐ´Ð½ÐµÐµ Ð²Ñ€ÐµÐ¼Ñ (UTC)";
+$MESS ['BCL_BACKUP_JOB_NEVER'] = "Ð•Ñ‰Ðµ Ð½Ðµ Ð²Ñ‹Ð¿Ð¾Ð»Ð½ÑÐ»Ð¾ÑÑŒ";
+$MESS ['BCL_BACKUP_JOB_DELETE'] = "ÐžÑ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
+$MESS ['BCL_BACKUP_JOB_DELETE_CONF'] = "ÐžÑ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ð²Ñ‹Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¸Ðµ Ñ€ÐµÐ·ÐµÑ€Ð²Ð½Ð¾Ð³Ð¾ ÐºÐ¾Ð¿Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ?";
+$MESS ['BCL_BACKUP_JOB_ADD'] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ";
+$MESS ['BCL_BACKUP_JOB_ADD_TAB'] = "ÐÐ¾Ð²Ð¾Ðµ Ñ€Ð°ÑÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ";
+$MESS ['BCL_BACKUP_JOB_ADD_TAB_TITLE'] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ Ð½Ð¾Ð²Ð¾Ð³Ð¾ Ñ€Ð°ÑÐ¿Ð¸ÑÐ°Ð½Ð¸Ñ";
+$MESS ['BCL_BACKUP_JOB_CANCEL_BTN'] = "ÐžÑ‚Ð¼ÐµÐ½Ð°";
+$MESS ['BCL_BACKUP_JOB_SAVE_BTN'] = "Ð¡Ð¾Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ";
 ?>

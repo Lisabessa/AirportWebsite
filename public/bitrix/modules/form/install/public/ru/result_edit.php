@@ -1,16 +1,16 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Ðåäàêòèðîâàíèå àíêåòû");
+$APPLICATION->SetTitle("Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð°Ð½ÐºÐµÑ‚Ñ‹");
 ?>
 <?
 $APPLICATION->IncludeFile("form/result_edit/default.php", array(
-	"RESULT_ID"			=> $_REQUEST["RESULT_ID"],			// ID ðåçóëüòàòà
-	"EDIT_ADDITIONAL"	=> "N",								// âûâîäèòü íà ðåäàêòèðîâàíèå äîïîëíèòåëüíûå ïîëÿ âåá-ôîðìû ?
-	"EDIT_STATUS"		=> "Y",								// âûâîäèòü ôîðìó ñìåíû ñòàòóñà ?
-	"LIST_URL"			=> "result_list.php",				// ñòðàíèöà ñî ñïèñêîì ðåçóëüòàòîâ
-	"VIEW_URL"			=> "result_view.php",				// ñòðàíèöà ïðîñìîòðà ðåçóëüòàòà
-	"CHAIN_ITEM_TEXT"	=> "Ñïèñîê àíêåò",					// äîïîëíèòåëüíûé ïóíêò â íàâèãàöèîííóþ öåïî÷êó
-	"CHAIN_ITEM_LINK"	=> "result_list.php?WEB_FORM_ID=".$_REQUEST["WEB_FORM_ID"], // ññûëêà íà äîï. ïóíêòå â íàâèãàöèîííîé öåïî÷êå
+	"RESULT_ID"			=> $_REQUEST["RESULT_ID"],			// ID Ñ€ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ð°
+	"EDIT_ADDITIONAL"	=> "N",								// Ð²Ñ‹Ð²Ð¾Ð´Ð¸Ñ‚ÑŒ Ð½Ð° Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð´Ð¾Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ðµ Ð¿Ð¾Ð»Ñ Ð²ÐµÐ±-Ñ„Ð¾Ñ€Ð¼Ñ‹ ?
+	"EDIT_STATUS"		=> "Y",								// Ð²Ñ‹Ð²Ð¾Ð´Ð¸Ñ‚ÑŒ Ñ„Ð¾Ñ€Ð¼Ñƒ ÑÐ¼ÐµÐ½Ñ‹ ÑÑ‚Ð°Ñ‚ÑƒÑÐ° ?
+	"LIST_URL"			=> "result_list.php",				// ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° ÑÐ¾ ÑÐ¿Ð¸ÑÐºÐ¾Ð¼ Ñ€ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ð¾Ð²
+	"VIEW_URL"			=> "result_view.php",				// ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ð° Ñ€ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ð°
+	"CHAIN_ITEM_TEXT"	=> "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð°Ð½ÐºÐµÑ‚",					// Ð´Ð¾Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ð¹ Ð¿ÑƒÐ½ÐºÑ‚ Ð² Ð½Ð°Ð²Ð¸Ð³Ð°Ñ†Ð¸Ð¾Ð½Ð½ÑƒÑŽ Ñ†ÐµÐ¿Ð¾Ñ‡ÐºÑƒ
+	"CHAIN_ITEM_LINK"	=> "result_list.php?WEB_FORM_ID=".$_REQUEST["WEB_FORM_ID"], // ÑÑÑ‹Ð»ÐºÐ° Ð½Ð° Ð´Ð¾Ð¿. Ð¿ÑƒÐ½ÐºÑ‚Ðµ Ð² Ð½Ð°Ð²Ð¸Ð³Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð¾Ð¹ Ñ†ÐµÐ¿Ð¾Ñ‡ÐºÐµ
 	));
 ?>
 <?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

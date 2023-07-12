@@ -1,9 +1,9 @@
 <?
-$MESS["SENDER_TEMPLATE_LIST_BTN_ADD"] = "Ñîçäàòü øàáëîí";
-$MESS["SENDER_TEMPLATE_LIST_BTN_EDIT"] = "Ðåäàêòèðîâàòü";
-$MESS["SENDER_TEMPLATE_LIST_BTN_EDIT_TITLE"] = "Ðåäàêòèðîâàòü";
-$MESS["SENDER_TEMPLATE_LIST_BTN_VIEW"] = "Ïðîñìîòðåòü";
-$MESS["SENDER_TEMPLATE_LIST_BTN_VIEW_TITLE"] = "Ïðîñìîòðåòü";
-$MESS["SENDER_TEMPLATE_LIST_BTN_REMOVE"] = "Óäàëèòü";
-$MESS["SENDER_TEMPLATE_LIST_BTN_REMOVE_TITLE"] = "Óäàëèòü";
+$MESS["SENDER_TEMPLATE_LIST_BTN_ADD"] = "Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ ÑˆÐ°Ð±Ð»Ð¾Ð½";
+$MESS["SENDER_TEMPLATE_LIST_BTN_EDIT"] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ";
+$MESS["SENDER_TEMPLATE_LIST_BTN_EDIT_TITLE"] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ";
+$MESS["SENDER_TEMPLATE_LIST_BTN_VIEW"] = "ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ÐµÑ‚ÑŒ";
+$MESS["SENDER_TEMPLATE_LIST_BTN_VIEW_TITLE"] = "ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ÐµÑ‚ÑŒ";
+$MESS["SENDER_TEMPLATE_LIST_BTN_REMOVE"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";
+$MESS["SENDER_TEMPLATE_LIST_BTN_REMOVE_TITLE"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";
 ?>

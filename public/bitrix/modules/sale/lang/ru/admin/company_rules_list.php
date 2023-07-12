@@ -1,11 +1,11 @@
 <?php
-$MESS['SALE_RDL_BUT_ADD_NEW'] = 'Äîáàâèòü ïðàâèëî';
+$MESS['SALE_RDL_BUT_ADD_NEW'] = 'Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð¿Ñ€Ð°Ð²Ð¸Ð»Ð¾';
 $MESS['SALE_COMPANY_RULE_COL_ID'] = 'ID';
-$MESS['SALE_COMPANY_RULE_COL_SORT'] = 'Ñîðòèðîâêà';
-$MESS['SALE_COMPANY_RULE_COL_CLASS_NAME'] = 'Ïðàâèëî';
-$MESS['SALE_COMPANY_RULE_COL_PARAMS'] = 'Ïàðàìåòðû';
-$MESS['SALE_COMPANY_RULE_DELETE'] = 'Óäàëèòü';
-$MESS['SALE_COMPANY_RULE_EDIT_DESC'] = 'Ðåäàêòèðîâàòü';
-$MESS['SALE_COMPANY_RULES_LIST'] = 'Ñïèñîê ïðàâèë';
-$MESS['SALE_COMPANY_RULES_DEL_MESSAGE'] = 'Âû óâåðåíû, ÷òî õîòèòå óäàëèòü ýòî ïðàâèëî?';
-$MESS['SALE_COMPANY_RULES_BUT_ADD_NEW'] = 'Äîáàâèòü ïðàâèëî';
+$MESS['SALE_COMPANY_RULE_COL_SORT'] = 'Ð¡Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²ÐºÐ°';
+$MESS['SALE_COMPANY_RULE_COL_CLASS_NAME'] = 'ÐŸÑ€Ð°Ð²Ð¸Ð»Ð¾';
+$MESS['SALE_COMPANY_RULE_COL_PARAMS'] = 'ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹';
+$MESS['SALE_COMPANY_RULE_DELETE'] = 'Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ';
+$MESS['SALE_COMPANY_RULE_EDIT_DESC'] = 'Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ';
+$MESS['SALE_COMPANY_RULES_LIST'] = 'Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð¿Ñ€Ð°Ð²Ð¸Ð»';
+$MESS['SALE_COMPANY_RULES_DEL_MESSAGE'] = 'Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹, Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ ÑÑ‚Ð¾ Ð¿Ñ€Ð°Ð²Ð¸Ð»Ð¾?';
+$MESS['SALE_COMPANY_RULES_BUT_ADD_NEW'] = 'Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð¿Ñ€Ð°Ð²Ð¸Ð»Ð¾';

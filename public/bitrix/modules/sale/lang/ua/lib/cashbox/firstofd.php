@@ -1,3 +1,3 @@
 <?
-$MESS["SALE_CASHBOX_FIRST_OFD_NAME"] = "Ïåðøèé ÎÔÄ";
+$MESS["SALE_CASHBOX_FIRST_OFD_NAME"] = "ÐŸÐµÑ€ÑˆÐ¸Ð¹ ÐžÐ¤Ð”";
 ?>

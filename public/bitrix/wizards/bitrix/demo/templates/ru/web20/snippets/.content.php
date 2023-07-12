@@ -1,5 +1,5 @@
 <?if(!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true)die();?>
 <?
 $SNIPPETS = Array();
-$SNIPPETS["content_block.snp"] = Array("title"=>"Áëîê îôîðìëåíèÿ", "description"=>"Áëîê îôîðìëåíèÿ");
+$SNIPPETS["content_block.snp"] = Array("title"=>"Ð‘Ð»Ð¾Ðº Ð¾Ñ„Ð¾Ñ€Ð¼Ð»ÐµÐ½Ð¸Ñ", "description"=>"Ð‘Ð»Ð¾Ðº Ð¾Ñ„Ð¾Ñ€Ð¼Ð»ÐµÐ½Ð¸Ñ");
 ?>

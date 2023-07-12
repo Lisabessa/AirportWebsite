@@ -1,9 +1,9 @@
 <?
-$MESS ['learning_TAB'] = "Îáó÷åíèå";
-$MESS ['learning_TAB_TITLE'] = "Ïðîôèëü ñòóäåíòà";
-$MESS ['learning_RESUME'] = "Ðåçþìå";
-$MESS ['learning_PUBLIC_PROFILE'] = "Ðàçðåøèòü ïóáëè÷íûé äîñòóï ê ïðîôàéëó ñòóäåíòà";
-$MESS ['learning_TRANSCRIPT'] = "Èäåíòèôèêàòîð ñòóäåíòà";
-$MESS ['learning_GRADEBOOK'] = "Æóðíàë";
-$MESS ['learning_CERTIFICATION'] = "Ñåðòèôèêàòû";
+$MESS ['learning_TAB'] = "ÐžÐ±ÑƒÑ‡ÐµÐ½Ð¸Ðµ";
+$MESS ['learning_TAB_TITLE'] = "ÐŸÑ€Ð¾Ñ„Ð¸Ð»ÑŒ ÑÑ‚ÑƒÐ´ÐµÐ½Ñ‚Ð°";
+$MESS ['learning_RESUME'] = "Ð ÐµÐ·ÑŽÐ¼Ðµ";
+$MESS ['learning_PUBLIC_PROFILE'] = "Ð Ð°Ð·Ñ€ÐµÑˆÐ¸Ñ‚ÑŒ Ð¿ÑƒÐ±Ð»Ð¸Ñ‡Ð½Ñ‹Ð¹ Ð´Ð¾ÑÑ‚ÑƒÐ¿ Ðº Ð¿Ñ€Ð¾Ñ„Ð°Ð¹Ð»Ñƒ ÑÑ‚ÑƒÐ´ÐµÐ½Ñ‚Ð°";
+$MESS ['learning_TRANSCRIPT'] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÑ‚ÑƒÐ´ÐµÐ½Ñ‚Ð°";
+$MESS ['learning_GRADEBOOK'] = "Ð–ÑƒÑ€Ð½Ð°Ð»";
+$MESS ['learning_CERTIFICATION'] = "Ð¡ÐµÑ€Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ñ‹";
 ?>

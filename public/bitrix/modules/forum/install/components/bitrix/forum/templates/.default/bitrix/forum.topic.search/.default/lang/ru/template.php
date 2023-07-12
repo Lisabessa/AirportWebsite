@@ -1,12 +1,12 @@
 <?
-$MESS ['FMM_SEARCH_TITLE'] = "Ïîèñê òåìû";
-$MESS ['FMM_ON_FORUM'] = "â ôîðóìå";
-$MESS ['F_FORUM'] = "Ôîðóì";
-$MESS ['F_SEARCH_OBJECT'] = "Èñêàòü â";
-$MESS ['FMM_ALL'] = "Íàçâàíèå è îïèñàíèå";
-$MESS ['FMM_TITLE'] = "Íàçâàíèå";
-$MESS ['FMM_DESCRIPTION'] = "Îïèñàíèå";
-$MESS ['FMM_SEARCH'] = "Ïîèñê";
-$MESS ['FMM_SEARCH_GO'] = "Íàéòè";
-$MESS ['F_ALL_FORUMS'] = "Âñå ôîðóìû";
+$MESS ['FMM_SEARCH_TITLE'] = "ÐŸÐ¾Ð¸ÑÐº Ñ‚ÐµÐ¼Ñ‹";
+$MESS ['FMM_ON_FORUM'] = "Ð² Ñ„Ð¾Ñ€ÑƒÐ¼Ðµ";
+$MESS ['F_FORUM'] = "Ð¤Ð¾Ñ€ÑƒÐ¼";
+$MESS ['F_SEARCH_OBJECT'] = "Ð˜ÑÐºÐ°Ñ‚ÑŒ Ð²";
+$MESS ['FMM_ALL'] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð¸ Ð¾Ð¿Ð¸ÑÐ°Ð½Ð¸Ðµ";
+$MESS ['FMM_TITLE'] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
+$MESS ['FMM_DESCRIPTION'] = "ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ";
+$MESS ['FMM_SEARCH'] = "ÐŸÐ¾Ð¸ÑÐº";
+$MESS ['FMM_SEARCH_GO'] = "ÐÐ°Ð¹Ñ‚Ð¸";
+$MESS ['F_ALL_FORUMS'] = "Ð’ÑÐµ Ñ„Ð¾Ñ€ÑƒÐ¼Ñ‹";
 ?>

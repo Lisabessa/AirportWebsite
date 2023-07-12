@@ -1,6 +1,6 @@
 <?
-$MESS["SALE_VK_CLEAR_ERROR_LOG_ERROR"] = "Ïðè î÷èñòêå ëîãà ïðîèçîøëà îøèáêà";
-$MESS["SALE_VK_SALE_NOT_INSTALLED_ERROR"] = "Íå óñòàíîâëåí ìîäóëü Èíòåðíåò ìàãàçèíà (sale).";
-$MESS["SALE_VK_IBLOCK_NOT_INSTALLED_ERROR"] = "Íå óñòàíîâëåí ìîäóëü Èíôîðìàöèîííûå áëîêè (iblock).";
-$MESS["SALE_VK_ACCESS_DENIED_ERROR"] = "Ó âàñ íåäîñòàòî÷íî ïðàâ";
+$MESS["SALE_VK_CLEAR_ERROR_LOG_ERROR"] = "ÐŸÑ€Ð¸ Ð¾Ñ‡Ð¸ÑÑ‚ÐºÐµ Ð»Ð¾Ð³Ð° Ð¿Ñ€Ð¾Ð¸Ð·Ð¾ÑˆÐ»Ð° Ð¾ÑˆÐ¸Ð±ÐºÐ°";
+$MESS["SALE_VK_SALE_NOT_INSTALLED_ERROR"] = "ÐÐµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½ Ð¼Ð¾Ð´ÑƒÐ»ÑŒ Ð˜Ð½Ñ‚ÐµÑ€Ð½ÐµÑ‚ Ð¼Ð°Ð³Ð°Ð·Ð¸Ð½Ð° (sale).";
+$MESS["SALE_VK_IBLOCK_NOT_INSTALLED_ERROR"] = "ÐÐµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½ Ð¼Ð¾Ð´ÑƒÐ»ÑŒ Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ñ‹Ðµ Ð±Ð»Ð¾ÐºÐ¸ (iblock).";
+$MESS["SALE_VK_ACCESS_DENIED_ERROR"] = "Ð£ Ð²Ð°Ñ Ð½ÐµÐ´Ð¾ÑÑ‚Ð°Ñ‚Ð¾Ñ‡Ð½Ð¾ Ð¿Ñ€Ð°Ð²";
 ?>

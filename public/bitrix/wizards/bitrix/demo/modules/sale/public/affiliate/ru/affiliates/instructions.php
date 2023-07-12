@@ -1,6 +1,6 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Èíñòðóêöèè");
+$APPLICATION->SetTitle("Ð˜Ð½ÑÑ‚Ñ€ÑƒÐºÑ†Ð¸Ð¸");
 ?><?$APPLICATION->IncludeComponent(
 	"bitrix:sale.affiliate.instructions",
 	"",

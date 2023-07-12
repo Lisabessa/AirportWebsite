@@ -1,3 +1,3 @@
 <?
-$MESS["SALE_CASHBOX_SELL_RETURN_NAME"] = "Ïîâåðíåííÿ áåçãîò³âêîâèìè";
+$MESS["SALE_CASHBOX_SELL_RETURN_NAME"] = "ÐŸÐ¾Ð²ÐµÑ€Ð½ÐµÐ½Ð½Ñ Ð±ÐµÐ·Ð³Ð¾Ñ‚Ñ–Ð²ÐºÐ¾Ð²Ð¸Ð¼Ð¸";
 ?>

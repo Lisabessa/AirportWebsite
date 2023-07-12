@@ -1,3 +1,3 @@
 <?php
-$MESS["ADV_CAMPAIGN_ENTITY_CAMPAIGN_ID_FIELD"] = "ID êàìïàíèè";
+$MESS["ADV_CAMPAIGN_ENTITY_CAMPAIGN_ID_FIELD"] = "ID ÐºÐ°Ð¼Ð¿Ð°Ð½Ð¸Ð¸";
 

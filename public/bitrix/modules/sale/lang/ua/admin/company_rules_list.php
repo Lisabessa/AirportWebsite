@@ -1,12 +1,12 @@
 <?
-$MESS["SALE_RDL_BUT_ADD_NEW"] = "Äîäàòè ïðàâèëî";
+$MESS["SALE_RDL_BUT_ADD_NEW"] = "Ð”Ð¾Ð´Ð°Ñ‚Ð¸ Ð¿Ñ€Ð°Ð²Ð¸Ð»Ð¾";
 $MESS["SALE_COMPANY_RULE_COL_ID"] = "ID";
-$MESS["SALE_COMPANY_RULE_COL_SORT"] = "Ñîðòóâàííÿ";
-$MESS["SALE_COMPANY_RULE_COL_CLASS_NAME"] = "Ïðàâèëî";
-$MESS["SALE_COMPANY_RULE_COL_PARAMS"] = "Ïàðàìåòðè";
-$MESS["SALE_COMPANY_RULE_DELETE"] = "Âèäàëèòè";
-$MESS["SALE_COMPANY_RULE_EDIT_DESC"] = "Ðåäàãóâàòè";
-$MESS["SALE_COMPANY_RULES_LIST"] = "Ñïèñîê ïðàâèë";
-$MESS["SALE_COMPANY_RULES_DEL_MESSAGE"] = "Âè âïåâíåí³, ùî õî÷åòå âèäàëèòè öå ïðàâèëî?";
-$MESS["SALE_COMPANY_RULES_BUT_ADD_NEW"] = "Äîäàòè ïðàâèëî";
+$MESS["SALE_COMPANY_RULE_COL_SORT"] = "Ð¡Ð¾Ñ€Ñ‚ÑƒÐ²Ð°Ð½Ð½Ñ";
+$MESS["SALE_COMPANY_RULE_COL_CLASS_NAME"] = "ÐŸÑ€Ð°Ð²Ð¸Ð»Ð¾";
+$MESS["SALE_COMPANY_RULE_COL_PARAMS"] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð¸";
+$MESS["SALE_COMPANY_RULE_DELETE"] = "Ð’Ð¸Ð´Ð°Ð»Ð¸Ñ‚Ð¸";
+$MESS["SALE_COMPANY_RULE_EDIT_DESC"] = "Ð ÐµÐ´Ð°Ð³ÑƒÐ²Ð°Ñ‚Ð¸";
+$MESS["SALE_COMPANY_RULES_LIST"] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ð¿Ñ€Ð°Ð²Ð¸Ð»";
+$MESS["SALE_COMPANY_RULES_DEL_MESSAGE"] = "Ð’Ð¸ Ð²Ð¿ÐµÐ²Ð½ÐµÐ½Ñ–, Ñ‰Ð¾ Ñ…Ð¾Ñ‡ÐµÑ‚Ðµ Ð²Ð¸Ð´Ð°Ð»Ð¸Ñ‚Ð¸ Ñ†Ðµ Ð¿Ñ€Ð°Ð²Ð¸Ð»Ð¾?";
+$MESS["SALE_COMPANY_RULES_BUT_ADD_NEW"] = "Ð”Ð¾Ð´Ð°Ñ‚Ð¸ Ð¿Ñ€Ð°Ð²Ð¸Ð»Ð¾";
 ?>

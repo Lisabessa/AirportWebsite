@@ -1,6 +1,6 @@
 <?php
-$MESS["socserv_box_client_id"] = "Идентификатор (client_id):";
-$MESS["socserv_box_client_secret"] = "Секретный код (client_secret):";
-$MESS["socserv_box_note"] = "Для получения идентификаторов необходимо <a href=\"https://app.box.com/developers/services/edit/\">создать приложение</a> типа \"Box Content\". <br>После создания в настройках приложения в поле \"redirect_uri\" укажите адрес: <a href=\"#URL#\">#URL#</a><br />Поддерживается только https.";
-$MESS["socserv_box_form_note"] = "Используйте вашу учетную запись Box.com для входа на сайт.";
-$MESS["socserv_box_form_note_intranet"] = "Войти, используя аккаунт Box.com.";
+$MESS["socserv_box_client_id"] = "РРґРµРЅС‚РёС„РёРєР°С‚РѕСЂ (client_id):";
+$MESS["socserv_box_client_secret"] = "РЎРµРєСЂРµС‚РЅС‹Р№ РєРѕРґ (client_secret):";
+$MESS["socserv_box_note"] = "Р”Р»СЏ РїРѕР»СѓС‡РµРЅРёСЏ РёРґРµРЅС‚РёС„РёРєР°С‚РѕСЂРѕРІ РЅРµРѕР±С…РѕРґРёРјРѕ <a href=\"https://app.box.com/developers/services/edit/\">СЃРѕР·РґР°С‚СЊ РїСЂРёР»РѕР¶РµРЅРёРµ</a> С‚РёРїР° \"Box Content\". <br>РџРѕСЃР»Рµ СЃРѕР·РґР°РЅРёСЏ РІ РЅР°СЃС‚СЂРѕР№РєР°С… РїСЂРёР»РѕР¶РµРЅРёСЏ РІ РїРѕР»Рµ \"redirect_uri\" СѓРєР°Р¶РёС‚Рµ Р°РґСЂРµСЃ: <a href=\"#URL#\">#URL#</a><br />РџРѕРґРґРµСЂР¶РёРІР°РµС‚СЃСЏ С‚РѕР»СЊРєРѕ https.";
+$MESS["socserv_box_form_note"] = "РСЃРїРѕР»СЊР·СѓР№С‚Рµ РІР°С€Сѓ СѓС‡РµС‚РЅСѓСЋ Р·Р°РїРёСЃСЊ Box.com РґР»СЏ РІС…РѕРґР° РЅР° СЃР°Р№С‚.";
+$MESS["socserv_box_form_note_intranet"] = "Р’РѕР№С‚Рё, РёСЃРїРѕР»СЊР·СѓСЏ Р°РєРєР°СѓРЅС‚ Box.com.";

@@ -1,5 +1,5 @@
 <?
-$MESS ['WD_TEMPLATE_MESSAGE'] = "Íîâûé ôàéë â áèáëèîòåêå äîêóìåíòîâ: [url=#LINK#]#TITLE#[/url].
+$MESS ['WD_TEMPLATE_MESSAGE'] = "ÐÐ¾Ð²Ñ‹Ð¹ Ñ„Ð°Ð¹Ð» Ð² Ð±Ð¸Ð±Ð»Ð¸Ð¾Ñ‚ÐµÐºÐµ Ð´Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ð¾Ð²: [url=#LINK#]#TITLE#[/url].
 
 #BODY#";
 ?>

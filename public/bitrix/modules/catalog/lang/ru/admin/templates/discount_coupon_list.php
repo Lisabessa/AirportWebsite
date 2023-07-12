@@ -1,9 +1,9 @@
 <?
-$MESS["BT_CAT_DISC_COUPON_LIST_REFRESH"] = "Обновить список";
-$MESS["BT_CAT_DISC_COUPON_LIST_REFRESH_TITLE"] = "Обновить список купонов";
-$MESS["BT_CAT_DISC_COUPON_LIST_SHOW_AFTER_COPY"] = "Чтобы редактировать купоны, необходимо скопировать скидку";
-$MESS["BT_CAT_DISC_COUPON_LIST_ADD_ONE_COUPON"] = "Добавить один купон";
-$MESS["BT_CAT_DISC_COUPON_LIST_ADD_ONE_COUPON_TITLE"] = "Добавить один купон";
-$MESS["BT_CAT_DISC_COUPON_LIST_ADD_MULTI_COUPON"] = "Добавить несколько купонов";
-$MESS["BT_CAT_DISC_COUPON_LIST_ADD_MULTI_COUPON_TITLE"] = "Добавить несколько купонов, задав тип и количество";
+$MESS["BT_CAT_DISC_COUPON_LIST_REFRESH"] = "РћР±РЅРѕРІРёС‚СЊ СЃРїРёСЃРѕРє";
+$MESS["BT_CAT_DISC_COUPON_LIST_REFRESH_TITLE"] = "РћР±РЅРѕРІРёС‚СЊ СЃРїРёСЃРѕРє РєСѓРїРѕРЅРѕРІ";
+$MESS["BT_CAT_DISC_COUPON_LIST_SHOW_AFTER_COPY"] = "Р§С‚РѕР±С‹ СЂРµРґР°РєС‚РёСЂРѕРІР°С‚СЊ РєСѓРїРѕРЅС‹, РЅРµРѕР±С…РѕРґРёРјРѕ СЃРєРѕРїРёСЂРѕРІР°С‚СЊ СЃРєРёРґРєСѓ";
+$MESS["BT_CAT_DISC_COUPON_LIST_ADD_ONE_COUPON"] = "Р”РѕР±Р°РІРёС‚СЊ РѕРґРёРЅ РєСѓРїРѕРЅ";
+$MESS["BT_CAT_DISC_COUPON_LIST_ADD_ONE_COUPON_TITLE"] = "Р”РѕР±Р°РІРёС‚СЊ РѕРґРёРЅ РєСѓРїРѕРЅ";
+$MESS["BT_CAT_DISC_COUPON_LIST_ADD_MULTI_COUPON"] = "Р”РѕР±Р°РІРёС‚СЊ РЅРµСЃРєРѕР»СЊРєРѕ РєСѓРїРѕРЅРѕРІ";
+$MESS["BT_CAT_DISC_COUPON_LIST_ADD_MULTI_COUPON_TITLE"] = "Р”РѕР±Р°РІРёС‚СЊ РЅРµСЃРєРѕР»СЊРєРѕ РєСѓРїРѕРЅРѕРІ, Р·Р°РґР°РІ С‚РёРї Рё РєРѕР»РёС‡РµСЃС‚РІРѕ";
 ?>

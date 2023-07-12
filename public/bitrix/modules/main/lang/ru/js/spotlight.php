@@ -1,3 +1,3 @@
 <?
-$MESS["MAIN_SPOTLIGHT_UNDERSTAND"] = "понятно";
-$MESS["MAIN_SPOTLIGHT_REMIND_LATER"] = "напомнить позже";
+$MESS["MAIN_SPOTLIGHT_UNDERSTAND"] = "РїРѕРЅСЏС‚РЅРѕ";
+$MESS["MAIN_SPOTLIGHT_REMIND_LATER"] = "РЅР°РїРѕРјРЅРёС‚СЊ РїРѕР·Р¶Рµ";

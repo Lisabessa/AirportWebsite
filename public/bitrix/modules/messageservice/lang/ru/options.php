@@ -1,9 +1,9 @@
 <?php
-$MESS["MESSAGESERVICE_SMSRU_PARTNER"] = "Èäåíòèôèêàòîð ïàðòíåðà êîìïàíèè SMS.RU";
-$MESS["MESSAGESERVICE_SMSRU_SECRET_KEY"] = "Ñåêðåòíûé êëþ÷ ïàðòíåðà êîìïàíèè SMS.RU";
-$MESS["MESSAGESERVICE_CLEAN_UP_PERIOD"] = "Ñêîëüêî äíåé õðàíèòü ñîîáùåíèÿ";
-$MESS["MESSAGESERVICE_QUEUE_LIMIT"] = "Ñêîëüêî ñîîáùåíèé îòïðàâëÿòü çà îäèí õèò";
-$MESS["MESSAGESERVICE_SMS_SENDER_LINK"] = "Ñëóæáû îòïðàâêè SMS";
-$MESS["MESSAGESERVICE_SMS_SENDER_LIMITS"] = "Äíåâíûå ëèìèòû îòïðàâêè SMS";
-$MESS["MESSAGESERVICE_TUNE_LINK"] = "íàñòðîèòü";
+$MESS["MESSAGESERVICE_SMSRU_PARTNER"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¿Ð°Ñ€Ñ‚Ð½ÐµÑ€Ð° ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸ SMS.RU";
+$MESS["MESSAGESERVICE_SMSRU_SECRET_KEY"] = "Ð¡ÐµÐºÑ€ÐµÑ‚Ð½Ñ‹Ð¹ ÐºÐ»ÑŽÑ‡ Ð¿Ð°Ñ€Ñ‚Ð½ÐµÑ€Ð° ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸ SMS.RU";
+$MESS["MESSAGESERVICE_CLEAN_UP_PERIOD"] = "Ð¡ÐºÐ¾Ð»ÑŒÐºÐ¾ Ð´Ð½ÐµÐ¹ Ñ…Ñ€Ð°Ð½Ð¸Ñ‚ÑŒ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ";
+$MESS["MESSAGESERVICE_QUEUE_LIMIT"] = "Ð¡ÐºÐ¾Ð»ÑŒÐºÐ¾ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ð¹ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð»ÑÑ‚ÑŒ Ð·Ð° Ð¾Ð´Ð¸Ð½ Ñ…Ð¸Ñ‚";
+$MESS["MESSAGESERVICE_SMS_SENDER_LINK"] = "Ð¡Ð»ÑƒÐ¶Ð±Ñ‹ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²ÐºÐ¸ SMS";
+$MESS["MESSAGESERVICE_SMS_SENDER_LIMITS"] = "Ð”Ð½ÐµÐ²Ð½Ñ‹Ðµ Ð»Ð¸Ð¼Ð¸Ñ‚Ñ‹ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²ÐºÐ¸ SMS";
+$MESS["MESSAGESERVICE_TUNE_LINK"] = "Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¸Ñ‚ÑŒ";
 ?>

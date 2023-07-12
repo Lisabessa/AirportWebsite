@@ -1,7 +1,7 @@
 <?
-$MESS["USER_TYPE_D_DESCRIPTION"] = "Äàòà";
-$MESS["USER_TYPE_D_DEFAULT_VALUE"] = "Çíà÷åíèå ïî óìîë÷àíèþ";
-$MESS["USER_TYPE_D_NONE"] = "íåò";
-$MESS["USER_TYPE_D_NOW"] = "òåêóùàÿ äàòà";
-$MESS["USER_TYPE_D_ERROR"] = "Çíà÷åíèå ïîëÿ \"#FIELD_NAME#\" íå ÿâëÿåòñÿ êîððåêòíîé äàòîé.";
+$MESS["USER_TYPE_D_DESCRIPTION"] = "Ð”Ð°Ñ‚Ð°";
+$MESS["USER_TYPE_D_DEFAULT_VALUE"] = "Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð¿Ð¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ";
+$MESS["USER_TYPE_D_NONE"] = "Ð½ÐµÑ‚";
+$MESS["USER_TYPE_D_NOW"] = "Ñ‚ÐµÐºÑƒÑ‰Ð°Ñ Ð´Ð°Ñ‚Ð°";
+$MESS["USER_TYPE_D_ERROR"] = "Ð—Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ Ð¿Ð¾Ð»Ñ \"#FIELD_NAME#\" Ð½Ðµ ÑÐ²Ð»ÑÐµÑ‚ÑÑ ÐºÐ¾Ñ€Ñ€ÐµÐºÑ‚Ð½Ð¾Ð¹ Ð´Ð°Ñ‚Ð¾Ð¹.";
 ?>

@@ -1,14 +1,14 @@
 <?
-$MESS ['BAD_EMAIL_FROM'] = "Ââåäèòå E-Mail îòïðàâèòåëÿ.";
-$MESS ['BAD_EMAIL_TO'] = "Ââåäèòå E-Mail ïîëó÷àòåëÿ.";
-$MESS ['BAD_EVENT_TYPE'] = "Íåâåðíûé òèï ñîáûòèÿ.";
-$MESS ['MAIN_BAD_EVENT_NAME_NA'] = "Íå ââåäåí òèï";
-$MESS ['MAIN_BAD_SITE_NA'] = "Íå ââåäåíà ïðèâÿçêà ê ñàéòó.";
-$MESS ['MAIN_EVENT_BAD_SITE'] = "Íåâåðíûé ñàéò!";
-$MESS ['EVENT_NAME_EMPTY'] = "Íå óêàçàíî èìÿ òèïà ñîáûòèÿ";
-$MESS ['LID_EMPTY'] = "Íå óêàçàí ÿçûê òèïà ñîáûòèÿ";
-$MESS ['EVENT_NAME_EXIST'] = "Â ÿçûêå #SITE_ID# óæå ñóùåñòâóåò ïî÷òîâîå ñîáûòèå \"#EVENT_NAME#\"";
-$MESS ['EVENT_ID_EMPTY'] = "Íå óêàçàíî ñîáûòèå äëÿ èçìåíåíèÿ";
-$MESS ['EVENT_TYPE_EMPTY'] = "Íå óêàçàí âèä ñîáûòèÿ";
-$MESS ['ACTION_EMPTY'] = "Íå óêàçàíî äåéñòâèå";
+$MESS ['BAD_EMAIL_FROM'] = "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ E-Mail Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð¸Ñ‚ÐµÐ»Ñ.";
+$MESS ['BAD_EMAIL_TO'] = "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ E-Mail Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»Ñ.";
+$MESS ['BAD_EVENT_TYPE'] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ñ‚Ð¸Ð¿ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ.";
+$MESS ['MAIN_BAD_EVENT_NAME_NA'] = "ÐÐµ Ð²Ð²ÐµÐ´ÐµÐ½ Ñ‚Ð¸Ð¿";
+$MESS ['MAIN_BAD_SITE_NA'] = "ÐÐµ Ð²Ð²ÐµÐ´ÐµÐ½Ð° Ð¿Ñ€Ð¸Ð²ÑÐ·ÐºÐ° Ðº ÑÐ°Ð¹Ñ‚Ñƒ.";
+$MESS ['MAIN_EVENT_BAD_SITE'] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ ÑÐ°Ð¹Ñ‚!";
+$MESS ['EVENT_NAME_EMPTY'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾ Ð¸Ð¼Ñ Ñ‚Ð¸Ð¿Ð° ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ";
+$MESS ['LID_EMPTY'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ ÑÐ·Ñ‹Ðº Ñ‚Ð¸Ð¿Ð° ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ";
+$MESS ['EVENT_NAME_EXIST'] = "Ð’ ÑÐ·Ñ‹ÐºÐµ #SITE_ID# ÑƒÐ¶Ðµ ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÐµÑ‚ Ð¿Ð¾Ñ‡Ñ‚Ð¾Ð²Ð¾Ðµ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ðµ \"#EVENT_NAME#\"";
+$MESS ['EVENT_ID_EMPTY'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ðµ Ð´Ð»Ñ Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ";
+$MESS ['EVENT_TYPE_EMPTY'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ð²Ð¸Ð´ ÑÐ¾Ð±Ñ‹Ñ‚Ð¸Ñ";
+$MESS ['ACTION_EMPTY'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð¾ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ðµ";
 ?>

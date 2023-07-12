@@ -1,3 +1,3 @@
 <?
-$MESS["SENDER_INTEGRATION_MAIL_TRANSPORT_NAME"] = "Îòïðàâêà ïî÷òû";
+$MESS["SENDER_INTEGRATION_MAIL_TRANSPORT_NAME"] = "ÐžÑ‚Ð¿Ñ€Ð°Ð²ÐºÐ° Ð¿Ð¾Ñ‡Ñ‚Ñ‹";
 ?>

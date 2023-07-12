@@ -1,11 +1,11 @@
 <?php
-$MESS['LANDING_TABLE_FIELD_ROLE_TITLE'] = 'Íàçâàíèå ðîëè';
-$MESS['LANDING_TABLE_FIELD_ROLE_XML_ID'] = 'Ñèìâîëüíûé êîä ðîëè';
-$MESS['LANDING_TABLE_FIELD_ROLE_TYPE'] = 'Òèï ðàçäåëà ïðàâ';
-$MESS['LANDING_TABLE_FIELD_ROLE_ACCESS_CODES'] = 'Äîñòóïíûå ïðàâà';
-$MESS['LANDING_TABLE_FIELD_ROLE_ADDITIONAL_RIGHTS'] = 'Äîïîëíèòåëüíûå ïðàâà';
-$MESS['LANDING_TABLE_FIELD_CREATED_BY_ID'] = 'Èäåíòèôèêàòîð ñîçäàâøåãî ïîëüçîâàòåëÿ';
-$MESS['LANDING_TABLE_FIELD_MODIFIED_BY_ID'] = 'Èäåíòèôèêàòîð èçìåíèâøåãî ïîëüçîâàòåëÿ';
-$MESS['LANDING_TABLE_FIELD_DATE_CREATE'] = 'Äàòà ñîçäàíèÿ';
-$MESS['LANDING_TABLE_FIELD_DATE_MODIFY'] = 'Äàòà èçìåíåíèÿ';
-$MESS['LANDING_TABLE_ERROR_TITLE_REQUIRED'] = 'Íàçâàíèå ðîëè ÿâëÿåòñÿ îáÿçàòåëüíûì ïîëåì';
+$MESS['LANDING_TABLE_FIELD_ROLE_TITLE'] = 'ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ñ€Ð¾Ð»Ð¸';
+$MESS['LANDING_TABLE_FIELD_ROLE_XML_ID'] = 'Ð¡Ð¸Ð¼Ð²Ð¾Ð»ÑŒÐ½Ñ‹Ð¹ ÐºÐ¾Ð´ Ñ€Ð¾Ð»Ð¸';
+$MESS['LANDING_TABLE_FIELD_ROLE_TYPE'] = 'Ð¢Ð¸Ð¿ Ñ€Ð°Ð·Ð´ÐµÐ»Ð° Ð¿Ñ€Ð°Ð²';
+$MESS['LANDING_TABLE_FIELD_ROLE_ACCESS_CODES'] = 'Ð”Ð¾ÑÑ‚ÑƒÐ¿Ð½Ñ‹Ðµ Ð¿Ñ€Ð°Ð²Ð°';
+$MESS['LANDING_TABLE_FIELD_ROLE_ADDITIONAL_RIGHTS'] = 'Ð”Ð¾Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ðµ Ð¿Ñ€Ð°Ð²Ð°';
+$MESS['LANDING_TABLE_FIELD_CREATED_BY_ID'] = 'Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ ÑÐ¾Ð·Ð´Ð°Ð²ÑˆÐµÐ³Ð¾ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ';
+$MESS['LANDING_TABLE_FIELD_MODIFIED_BY_ID'] = 'Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¸Ð·Ð¼ÐµÐ½Ð¸Ð²ÑˆÐµÐ³Ð¾ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ';
+$MESS['LANDING_TABLE_FIELD_DATE_CREATE'] = 'Ð”Ð°Ñ‚Ð° ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ';
+$MESS['LANDING_TABLE_FIELD_DATE_MODIFY'] = 'Ð”Ð°Ñ‚Ð° Ð¸Ð·Ð¼ÐµÐ½ÐµÐ½Ð¸Ñ';
+$MESS['LANDING_TABLE_ERROR_TITLE_REQUIRED'] = 'ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ Ñ€Ð¾Ð»Ð¸ ÑÐ²Ð»ÑÐµÑ‚ÑÑ Ð¾Ð±ÑÐ·Ð°Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ð¼ Ð¿Ð¾Ð»ÐµÐ¼';

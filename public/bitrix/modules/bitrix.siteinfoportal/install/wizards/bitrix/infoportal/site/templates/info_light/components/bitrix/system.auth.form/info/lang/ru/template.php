@@ -1,5 +1,5 @@
 <?
-$MESS['AUTH_LOGIN'] = 'Âîéòè íà ñàéò';
-$MESS['AUTH_REGISTER'] = 'Çàðåãèñòðèðîâàòüñÿ';
-$MESS['AUTH_LOGOUT'] = 'Âûéòè';
+$MESS['AUTH_LOGIN'] = 'Ð’Ð¾Ð¹Ñ‚Ð¸ Ð½Ð° ÑÐ°Ð¹Ñ‚';
+$MESS['AUTH_REGISTER'] = 'Ð—Ð°Ñ€ÐµÐ³Ð¸ÑÑ‚Ñ€Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒÑÑ';
+$MESS['AUTH_LOGOUT'] = 'Ð’Ñ‹Ð¹Ñ‚Ð¸';
 ?>

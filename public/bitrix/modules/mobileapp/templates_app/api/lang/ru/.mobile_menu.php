@@ -1,20 +1,20 @@
 <?
-$MESS["DEMO_MENU_LOCAL_NOTIF"] = "Ëîêàëüíûå óâåäîìëåíèÿ";
-$MESS["DEMO_MENU_LISTS"] = "Ñïèñêè";
-$MESS["DEMO_MENU_TEXT_PANEL"] = "Òåêñòîâàÿ ïàíåëü";
-$MESS["DEMO_MENU_NAV_BAR"] = "Íàâèãàöèîííàÿ ïàíåëü";
+$MESS["DEMO_MENU_LOCAL_NOTIF"] = "Ð›Ð¾ÐºÐ°Ð»ÑŒÐ½Ñ‹Ðµ ÑƒÐ²ÐµÐ´Ð¾Ð¼Ð»ÐµÐ½Ð¸Ñ";
+$MESS["DEMO_MENU_LISTS"] = "Ð¡Ð¿Ð¸ÑÐºÐ¸";
+$MESS["DEMO_MENU_TEXT_PANEL"] = "Ð¢ÐµÐºÑÑ‚Ð¾Ð²Ð°Ñ Ð¿Ð°Ð½ÐµÐ»ÑŒ";
+$MESS["DEMO_MENU_NAV_BAR"] = "ÐÐ°Ð²Ð¸Ð³Ð°Ñ†Ð¸Ð¾Ð½Ð½Ð°Ñ Ð¿Ð°Ð½ÐµÐ»ÑŒ";
 $MESS["DEMO_MENU_REFRESH"] = "Pull-to-refresh";
-$MESS["DEMO_MENU_BUTTONS"] = "Êíîïêè";
-$MESS["DEMO_MENU_ALERT"] = "Alert è Confim";
-$MESS["DEMO_MENU_API"] = "Ïðîâåðêà âåðñèè API";
-$MESS["DEMO_MENU_LOADING"] = "Çàãðóç÷èêè";
-$MESS["DEMO_MENU_PICKERS"] = "Ýëåìåíòû âûáîðà (picker)";
-$MESS["DEMO_MENU_CONTEXT_MENU"] = "Êîíòåêñòíîå ìåíþ";
-$MESS["DEMO_MENU_SLIDING_PANEL"] = "Ñêîëüçÿùàÿ ïàíåëü";
-$MESS["DEMO_MENU_QR"] = "QR-êîä ñêàíåð";
-$MESS["DEMO_MENU_PHOTOGALLERY"] = "Ôîòîãàëåðåÿ";
-$MESS["DEMO_MENU_DOCS"] = "Äîêóìåíòû";
-$MESS["DEMO_MENU_CHOSE_PHOTO"] = "Ðàáîòà ñ ôîòî";
-$MESS["DEMO_MENU_SECTION_MAIN"] = "Ãëàâíîå ìåíþ";
-$MESS["DEMO_MENU_MAIN"] = "Ãëàâíàÿ";
+$MESS["DEMO_MENU_BUTTONS"] = "ÐšÐ½Ð¾Ð¿ÐºÐ¸";
+$MESS["DEMO_MENU_ALERT"] = "Alert Ð¸ Confim";
+$MESS["DEMO_MENU_API"] = "ÐŸÑ€Ð¾Ð²ÐµÑ€ÐºÐ° Ð²ÐµÑ€ÑÐ¸Ð¸ API";
+$MESS["DEMO_MENU_LOADING"] = "Ð—Ð°Ð³Ñ€ÑƒÐ·Ñ‡Ð¸ÐºÐ¸";
+$MESS["DEMO_MENU_PICKERS"] = "Ð­Ð»ÐµÐ¼ÐµÐ½Ñ‚Ñ‹ Ð²Ñ‹Ð±Ð¾Ñ€Ð° (picker)";
+$MESS["DEMO_MENU_CONTEXT_MENU"] = "ÐšÐ¾Ð½Ñ‚ÐµÐºÑÑ‚Ð½Ð¾Ðµ Ð¼ÐµÐ½ÑŽ";
+$MESS["DEMO_MENU_SLIDING_PANEL"] = "Ð¡ÐºÐ¾Ð»ÑŒÐ·ÑÑ‰Ð°Ñ Ð¿Ð°Ð½ÐµÐ»ÑŒ";
+$MESS["DEMO_MENU_QR"] = "QR-ÐºÐ¾Ð´ ÑÐºÐ°Ð½ÐµÑ€";
+$MESS["DEMO_MENU_PHOTOGALLERY"] = "Ð¤Ð¾Ñ‚Ð¾Ð³Ð°Ð»ÐµÑ€ÐµÑ";
+$MESS["DEMO_MENU_DOCS"] = "Ð”Ð¾ÐºÑƒÐ¼ÐµÐ½Ñ‚Ñ‹";
+$MESS["DEMO_MENU_CHOSE_PHOTO"] = "Ð Ð°Ð±Ð¾Ñ‚Ð° Ñ Ñ„Ð¾Ñ‚Ð¾";
+$MESS["DEMO_MENU_SECTION_MAIN"] = "Ð“Ð»Ð°Ð²Ð½Ð¾Ðµ Ð¼ÐµÐ½ÑŽ";
+$MESS["DEMO_MENU_MAIN"] = "Ð“Ð»Ð°Ð²Ð½Ð°Ñ";
 ?>

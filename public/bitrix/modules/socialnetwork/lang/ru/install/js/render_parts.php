@@ -1,5 +1,5 @@
 <?
-$MESS["SONET_RENDERPARTS_JS_DESTINATION_ALL"] = "Âñå ñîòðóäíèêè";
-$MESS["SONET_RENDERPARTS_JS_DESTINATION_ALL_BUS"] = "Âñå ïîëüçîâàòåëè";
-$MESS["SONET_RENDERPARTS_JS_HIDDEN"] = "Ñêðûòûé ïîëó÷àòåëü";
+$MESS["SONET_RENDERPARTS_JS_DESTINATION_ALL"] = "Ð’ÑÐµ ÑÐ¾Ñ‚Ñ€ÑƒÐ´Ð½Ð¸ÐºÐ¸";
+$MESS["SONET_RENDERPARTS_JS_DESTINATION_ALL_BUS"] = "Ð’ÑÐµ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ð¸";
+$MESS["SONET_RENDERPARTS_JS_HIDDEN"] = "Ð¡ÐºÑ€Ñ‹Ñ‚Ñ‹Ð¹ Ð¿Ð¾Ð»ÑƒÑ‡Ð°Ñ‚ÐµÐ»ÑŒ";
 ?>

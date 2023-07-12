@@ -1,13 +1,13 @@
 <?
-$MESS["CANVAS_OK"] = "Ïðèìåíèòü";
-$MESS["CANVAS_CANCEL"] = "Îòìåíèòü";
-$MESS["CANVAS_DELETE"] = "Óäàëèòü";
-$MESS["CANVAS_TURN_L"] = "Ïîâåðíóòü ïðîòèâ ÷àñîâîé ñòðåëêè";
-$MESS["CANVAS_TURN_R"] = "Ïîâåðíóòü ïî ÷àñîâîé ñòðåëêå";
-$MESS["CANVAS_FLIP_V"] = "Îòðàçèòü âåðòèêàëüíî";
-$MESS["CANVAS_FLIP_H"] = "Îòðàçèòü ãîðèçîíòàëüíî";
-$MESS["CANVAS_CROP"] = "Îáðåçàòü";
-$MESS["CANVAS_GRAYSCALE"] = "Ãðàäàöèÿ ñåðîãî";
-$MESS["CANVAS_SIGN"] = "Ïîäïèñàòü êàðòèíêó";
-$MESS["CANVAS_POSTER_SIGN"] = "Ïîäïèñü:";
+$MESS["CANVAS_OK"] = "ÐŸÑ€Ð¸Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
+$MESS["CANVAS_CANCEL"] = "ÐžÑ‚Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ";
+$MESS["CANVAS_DELETE"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";
+$MESS["CANVAS_TURN_L"] = "ÐŸÐ¾Ð²ÐµÑ€Ð½ÑƒÑ‚ÑŒ Ð¿Ñ€Ð¾Ñ‚Ð¸Ð² Ñ‡Ð°ÑÐ¾Ð²Ð¾Ð¹ ÑÑ‚Ñ€ÐµÐ»ÐºÐ¸";
+$MESS["CANVAS_TURN_R"] = "ÐŸÐ¾Ð²ÐµÑ€Ð½ÑƒÑ‚ÑŒ Ð¿Ð¾ Ñ‡Ð°ÑÐ¾Ð²Ð¾Ð¹ ÑÑ‚Ñ€ÐµÐ»ÐºÐµ";
+$MESS["CANVAS_FLIP_V"] = "ÐžÑ‚Ñ€Ð°Ð·Ð¸Ñ‚ÑŒ Ð²ÐµÑ€Ñ‚Ð¸ÐºÐ°Ð»ÑŒÐ½Ð¾";
+$MESS["CANVAS_FLIP_H"] = "ÐžÑ‚Ñ€Ð°Ð·Ð¸Ñ‚ÑŒ Ð³Ð¾Ñ€Ð¸Ð·Ð¾Ð½Ñ‚Ð°Ð»ÑŒÐ½Ð¾";
+$MESS["CANVAS_CROP"] = "ÐžÐ±Ñ€ÐµÐ·Ð°Ñ‚ÑŒ";
+$MESS["CANVAS_GRAYSCALE"] = "Ð“Ñ€Ð°Ð´Ð°Ñ†Ð¸Ñ ÑÐµÑ€Ð¾Ð³Ð¾";
+$MESS["CANVAS_SIGN"] = "ÐŸÐ¾Ð´Ð¿Ð¸ÑÐ°Ñ‚ÑŒ ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÑƒ";
+$MESS["CANVAS_POSTER_SIGN"] = "ÐŸÐ¾Ð´Ð¿Ð¸ÑÑŒ:";
 ?>

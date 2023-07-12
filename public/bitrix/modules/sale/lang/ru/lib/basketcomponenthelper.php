@@ -1,3 +1,3 @@
 <?php
-$MESS["SALE_BASKET_COMPONENT_HELPER_PRODUCT_NOT_ENOUGH_QUANTITY"] = "Íåäîñòàòî÷íîå êîëè÷åñòâî òîâàðà \"#PRODUCT_NAME#\"";
-$MESS["SALE_BASKET_COMPONENT_HELPER_PRODUCT_RATIO_NOT_FOUND"] = "Êîýôôèöèåíò åäèíèöû èçìåðåíèÿ òîâàðà \"#PRODUCT_NAME#\" íå íàéäåí";
+$MESS["SALE_BASKET_COMPONENT_HELPER_PRODUCT_NOT_ENOUGH_QUANTITY"] = "ÐÐµÐ´Ð¾ÑÑ‚Ð°Ñ‚Ð¾Ñ‡Ð½Ð¾Ðµ ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ñ‚Ð¾Ð²Ð°Ñ€Ð° \"#PRODUCT_NAME#\"";
+$MESS["SALE_BASKET_COMPONENT_HELPER_PRODUCT_RATIO_NOT_FOUND"] = "ÐšÐ¾ÑÑ„Ñ„Ð¸Ñ†Ð¸ÐµÐ½Ñ‚ ÐµÐ´Ð¸Ð½Ð¸Ñ†Ñ‹ Ð¸Ð·Ð¼ÐµÑ€ÐµÐ½Ð¸Ñ Ñ‚Ð¾Ð²Ð°Ñ€Ð° \"#PRODUCT_NAME#\" Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½";

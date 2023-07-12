@@ -1,7 +1,7 @@
 <?
 $MESS["STAT_M_01"] = "Jan";
 $MESS["STAT_M_02"] = "Feb";
-$MESS["STAT_M_03"] = "Mär";
+$MESS["STAT_M_03"] = "MÃ¤r";
 $MESS["STAT_M_04"] = "Apr";
 $MESS["STAT_M_05"] = "Mai";
 $MESS["STAT_M_06"] = "Jun";

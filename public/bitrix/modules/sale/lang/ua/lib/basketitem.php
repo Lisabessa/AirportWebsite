@@ -1,2 +1,2 @@
 <?
-$MESS["SALE_BASKET_ITEM_REMOVE_IMPOSSIBLE_BECAUSE_SHIPPED"] = "Íåìîæëèâî âèäàëèòè â³äâàíòàæåíèé òîâàð \"#PRODUCT_NAME#\"";
+$MESS["SALE_BASKET_ITEM_REMOVE_IMPOSSIBLE_BECAUSE_SHIPPED"] = "ÐÐµÐ¼Ð¾Ð¶Ð»Ð¸Ð²Ð¾ Ð²Ð¸Ð´Ð°Ð»Ð¸Ñ‚Ð¸ Ð²Ñ–Ð´Ð²Ð°Ð½Ñ‚Ð°Ð¶ÐµÐ½Ð¸Ð¹ Ñ‚Ð¾Ð²Ð°Ñ€ \"#PRODUCT_NAME#\"";

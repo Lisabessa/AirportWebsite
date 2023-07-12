@@ -3,16 +3,16 @@ $MESS["SL_IMPORT_ERROR_FILES"] = "Die Dateinamen sind nicht korrekt.";
 $MESS["SL_IMPORT_ERROR_NO_LOC_FILE"] = "Es wurde keine Datei mit Standorten hochgeladen.";
 $MESS["SL_IMPORT_ERROR_WRONG_LOC_FILE"] = "Das Format der Datei mit Standorten ist nicht korrekt.";
 $MESS["SL_IMPORT_LOC_STATS"] = "Standorte:<ul>
-<li>L‰nder importiert: #NUMCOUNTRIES#</li>
+<li>L√§nder importiert: #NUMCOUNTRIES#</li>
 <li>Regionen importiert: #NUMREGIONES#</li>
-<li>St‰dte importiert: #NUMCITIES#</li>
+<li>St√§dte importiert: #NUMCITIES#</li>
 <li>Standorte gesamt: #NUMLOCATIONS#</li>
 </ul>
 ";
 $MESS["SL_IMPORT_ERROR_NO_LANG"] = "Sprache wurde nicht gefunden.";
 $MESS["SL_IMPORT_ZIP_STATS"] = "Postleitzahlen:<ul>
 <li>Postleitzahlen importiert: #NUMZIP#</li>
-<li>f¸r St‰dte: #NUMCITIES#</li>
+<li>f√ºr St√§dte: #NUMCITIES#</li>
 </ul>
 ";
 $MESS["SL_IMPORT_ERROR_NO_ZIP_FILE"] = "Es wurde keine Datei mit Postleitzahlen gefunden.";

@@ -1,3 +1,3 @@
 <?
-$MESS["MAIN_DUMP_FILE_PAGES"] = "Ðåçåðâíûå êîïèè";
+$MESS["MAIN_DUMP_FILE_PAGES"] = "Ð ÐµÐ·ÐµÑ€Ð²Ð½Ñ‹Ðµ ÐºÐ¾Ð¿Ð¸Ð¸";
 ?>

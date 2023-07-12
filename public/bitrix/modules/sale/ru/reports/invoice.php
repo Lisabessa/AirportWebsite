@@ -1,22 +1,22 @@
 <?if (!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED !== true) die();?><?
 /*
-Скопируйте этот файл в папку /bitrix/admin/reports и измените по своему усмотрению
+РЎРєРѕРїРёСЂСѓР№С‚Рµ СЌС‚РѕС‚ С„Р°Р№Р» РІ РїР°РїРєСѓ /bitrix/admin/reports Рё РёР·РјРµРЅРёС‚Рµ РїРѕ СЃРІРѕРµРјСѓ СѓСЃРјРѕС‚СЂРµРЅРёСЋ
 
-$ORDER_ID - ID текущего заказа
+$ORDER_ID - ID С‚РµРєСѓС‰РµРіРѕ Р·Р°РєР°Р·Р°
 
-$arOrder - массив атрибутов заказа (ID, доставка, стоимость, дата создания и т.д.)
-Следующий PHP код:
+$arOrder - РјР°СЃСЃРёРІ Р°С‚СЂРёР±СѓС‚РѕРІ Р·Р°РєР°Р·Р° (ID, РґРѕСЃС‚Р°РІРєР°, СЃС‚РѕРёРјРѕСЃС‚СЊ, РґР°С‚Р° СЃРѕР·РґР°РЅРёСЏ Рё С‚.Рґ.)
+РЎР»РµРґСѓСЋС‰РёР№ PHP РєРѕРґ:
 print_r($arOrder);
-выведет на экран содержимое массива $arOrder.
+РІС‹РІРµРґРµС‚ РЅР° СЌРєСЂР°РЅ СЃРѕРґРµСЂР¶РёРјРѕРµ РјР°СЃСЃРёРІР° $arOrder.
 
-$arOrderProps - массив свойств заказа (вводятся покупателями при оформлении заказа) следующей структуры:
+$arOrderProps - РјР°СЃСЃРёРІ СЃРІРѕР№СЃС‚РІ Р·Р°РєР°Р·Р° (РІРІРѕРґСЏС‚СЃСЏ РїРѕРєСѓРїР°С‚РµР»СЏРјРё РїСЂРё РѕС„РѕСЂРјР»РµРЅРёРё Р·Р°РєР°Р·Р°) СЃР»РµРґСѓСЋС‰РµР№ СЃС‚СЂСѓРєС‚СѓСЂС‹:
 array(
-	"мнемонический код (или ID если мнемонический код пуст) свойства" => "значение свойства"
+	"РјРЅРµРјРѕРЅРёС‡РµСЃРєРёР№ РєРѕРґ (РёР»Рё ID РµСЃР»Рё РјРЅРµРјРѕРЅРёС‡РµСЃРєРёР№ РєРѕРґ РїСѓСЃС‚) СЃРІРѕР№СЃС‚РІР°" => "Р·РЅР°С‡РµРЅРёРµ СЃРІРѕР№СЃС‚РІР°"
 	)
 
-$arParams - массив из настроек Печатных форм
+$arParams - РјР°СЃСЃРёРІ РёР· РЅР°СЃС‚СЂРѕРµРє РџРµС‡Р°С‚РЅС‹С… С„РѕСЂРј
 
-$arUser - массив из настроек пользователя, совершившего заказ
+$arUser - РјР°СЃСЃРёРІ РёР· РЅР°СЃС‚СЂРѕРµРє РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ, СЃРѕРІРµСЂС€РёРІС€РµРіРѕ Р·Р°РєР°Р·
 */
 
 ?><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
@@ -27,7 +27,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
 
 <head>
 <meta http-equiv=Content-Type content="text/html; charset=<?=LANG_CHARSET?>">
-<title langs="ru">Счет</title>
+<title langs="ru">РЎС‡РµС‚</title>
 <style>
 <!--
 /* Style Definitions */
@@ -65,20 +65,20 @@ div.Section1
 <div class=Section1>
 
 <!-- REPORT BODY -->
-<!-- ИЗМЕНИТЕ ЭТОТ ТЕКСТ НА РЕАЛЬНЫЕ ДАННЫЕ ПОСЛЕ КОПИРОВАНИЯ В ПАПКУ /bitrix/admin/reports -->
-<p><b>ПОСТАВЩИК:</b>
+<!-- РР—РњР•РќРРўР• Р­РўРћРў РўР•РљРЎРў РќРђ Р Р•РђР›Р¬РќР«Р• Р”РђРќРќР«Р• РџРћРЎР›Р• РљРћРџРР РћР’РђРќРРЇ Р’ РџРђРџРљРЈ /bitrix/admin/reports -->
+<p><b>РџРћРЎРўРђР’Р©РРљ:</b>
 <?=$arParams["COMPANY_NAME"]?>
 <br>
-Адрес: <? echo $arParams["COUNTRY"].", ".$arParams["INDEX"].", г. ".$arParams["CITY"].", ".$arParams["ADDRESS"];?><br>
-Телефон: <?=$arParams["PHONE"]?><br>
-ИНН: <?=$arParams["INN"]?> / КПП: <?=$arParams["KPP"]?><br>
-Банковские реквизиты:<br>
-р/с <?=$arParams["RSCH"]?> в <?=$arParams["RSCH_BANK"]?> г. <?=$arParams["RSCH_CITY"]?><br>
-к/с <?=$arParams["KSCH"]?><br>
-БИК <?=$arParams["BIK"]?></p>
+РђРґСЂРµСЃ: <? echo $arParams["COUNTRY"].", ".$arParams["INDEX"].", Рі. ".$arParams["CITY"].", ".$arParams["ADDRESS"];?><br>
+РўРµР»РµС„РѕРЅ: <?=$arParams["PHONE"]?><br>
+РРќРќ: <?=$arParams["INN"]?> / РљРџРџ: <?=$arParams["KPP"]?><br>
+Р‘Р°РЅРєРѕРІСЃРєРёРµ СЂРµРєРІРёР·РёС‚С‹:<br>
+СЂ/СЃ <?=$arParams["RSCH"]?> РІ <?=$arParams["RSCH_BANK"]?> Рі. <?=$arParams["RSCH_CITY"]?><br>
+Рє/СЃ <?=$arParams["KSCH"]?><br>
+Р‘РРљ <?=$arParams["BIK"]?></p>
 
-<p><b>ЗАКАЗЧИК: </b>
-<!-- ИЗМЕНИТЕ КЛЮЧИ МАССИВА $arOrderProps НА РЕАЛЬНЫЕ ПОСЛЕ КОПИРОВАНИЯ В ПАПКУ /bitrix/admin/reports -->
+<p><b>Р—РђРљРђР—Р§РРљ: </b>
+<!-- РР—РњР•РќРРўР• РљР›Р®Р§Р РњРђРЎРЎРР’Рђ $arOrderProps РќРђ Р Р•РђР›Р¬РќР«Р• РџРћРЎР›Р• РљРћРџРР РћР’РђРќРРЇ Р’ РџРђРџРљРЈ /bitrix/admin/reports -->
 <?
 if(empty($arParams))
 {
@@ -87,8 +87,8 @@ if(empty($arParams))
 	$arUser = $db_user->Fetch();
 	echo htmlspecialcharsbx($arUser["NAME"])." ".htmlspecialcharsbx($arUser["LAST_NAME"]);
 
-	if ($arOrderProps["F_INN"] <> '') echo "<br>ИНН: ".$arOrderProps["F_INN"];?>
-	<br>Адрес:
+	if ($arOrderProps["F_INN"] <> '') echo "<br>РРќРќ: ".$arOrderProps["F_INN"];?>
+	<br>РђРґСЂРµСЃ:
 	<?
 	if ($arOrderProps["F_INDEX"] <> '') echo $arOrderProps["F_INDEX"].",";
 
@@ -98,17 +98,17 @@ if(empty($arParams))
 	elseif($arVal["COUNTRY_NAME"] <> '' || $arVal["CITY_NAME"] <> '')
 		echo htmlspecialcharsbx($arVal["COUNTRY_NAME"].$arVal["CITY_NAME"]);
 
-	if ($arOrderProps["F_CITY"] <> '') echo ", г. ".$arOrderProps["F_CITY"];
+	if ($arOrderProps["F_CITY"] <> '') echo ", Рі. ".$arOrderProps["F_CITY"];
 	if ($arOrderProps["F_ADDRESS"] <> '' && $arOrderProps["F_CITY"] <> '')
 		echo ", ".$arOrderProps["F_ADDRESS"];
 	elseif($arOrderProps["F_ADDRESS"] <> '')
 		echo $arOrderProps["F_ADDRESS"];
 
 	if ($arOrderProps["F_EMAIL"] <> '') echo "<br>E-Mail: ".$arOrderProps["F_EMAIL"];?>
-	<br>Контактное лицо: <?echo $arOrderProps["F_NAME"];?>
+	<br>РљРѕРЅС‚Р°РєС‚РЅРѕРµ Р»РёС†Рѕ: <?echo $arOrderProps["F_NAME"];?>
 	<?
 	if ($arOrderProps["F_PHONE"] <> '')
-		echo "<br>Телефон: ".$arOrderProps["F_PHONE"];
+		echo "<br>РўРµР»РµС„РѕРЅ: ".$arOrderProps["F_PHONE"];
 
 }
 else
@@ -118,25 +118,25 @@ else
 	else
 		echo $arParams["BUYER_LAST_NAME"]." ".$arParams["BUYER_FIRST_NAME"]." ".$arParams["BUYER_SECOND_NAME"];
 
-	if ($arParams["BUYER_INN"] <> '') echo "<br>ИНН/КПП: ".$arParams["BUYER_INN"]." / ".$arParams["BUYER_KPP"];
+	if ($arParams["BUYER_INN"] <> '') echo "<br>РРќРќ/РљРџРџ: ".$arParams["BUYER_INN"]." / ".$arParams["BUYER_KPP"];
 
-	echo "<br>Адрес: ".$arParams["BUYER_COUNTRY"].", ".$arParams["BUYER_INDEX"].", г. ".$arParams["BUYER_CITY"].", ".$arParams["BUYER_ADDRESS"];
+	echo "<br>РђРґСЂРµСЃ: ".$arParams["BUYER_COUNTRY"].", ".$arParams["BUYER_INDEX"].", Рі. ".$arParams["BUYER_CITY"].", ".$arParams["BUYER_ADDRESS"];
 
-	if ($arParams["BUYER_CONTACT"] <> '') echo "<br>Контактное лицо: ".$arParams["BUYER_CONTACT"];
+	if ($arParams["BUYER_CONTACT"] <> '') echo "<br>РљРѕРЅС‚Р°РєС‚РЅРѕРµ Р»РёС†Рѕ: ".$arParams["BUYER_CONTACT"];
 
 	if ($arParams["BUYER_PHONE"] <> '')
-		echo "<br>Телефон: ".$arParams["BUYER_PHONE"];
+		echo "<br>РўРµР»РµС„РѕРЅ: ".$arParams["BUYER_PHONE"];
 
 }
 ?>
-<br>Платежная система:
+<br>РџР»Р°С‚РµР¶РЅР°СЏ СЃРёСЃС‚РµРјР°:
 [<?echo $arOrder["PAY_SYSTEM_ID"];?>]
 <?
 $arPaySys = CSalePaySystem::GetByID($arOrder["PAY_SYSTEM_ID"]);
 echo htmlspecialcharsbx($arPaySys["NAME"]);
 ?>
 </p>
-<p><b>СЧЕТ N:</b> <?echo $arOrder["ACCOUNT_NUMBER"]?> от <?echo $arOrder["DATE_INSERT_FORMAT"]?></p>
+<p><b>РЎР§Р•Рў N:</b> <?echo $arOrder["ACCOUNT_NUMBER"]?> РѕС‚ <?echo $arOrder["DATE_INSERT_FORMAT"]?></p>
 
 <?
 $priceTotal = 0;
@@ -173,13 +173,13 @@ if ($arOrder['DELIVERY_VAT_RATE'] > 0)
 	$bUseVat = true;
 }
 
-//разбрасываем скидку на заказ по товарам
+//СЂР°Р·Р±СЂР°СЃС‹РІР°РµРј СЃРєРёРґРєСѓ РЅР° Р·Р°РєР°Р· РїРѕ С‚РѕРІР°СЂР°Рј
 if (floatval($arOrder["DISCOUNT_VALUE"]) > 0)
 {
 	$arBasketOrder = GetUniformDestribution($arBasketOrder, $arOrder["DISCOUNT_VALUE"], $priceTotal);
 }
 
-//налоги
+//РЅР°Р»РѕРіРё
 $arTaxList = array();
 $db_tax_list = CSaleOrderTax::GetList(array("APPLY_ORDER"=>"ASC"), Array("ORDER_ID" => $ORDER_ID));
 $iNds = -1;
@@ -187,9 +187,9 @@ $i = 0;
 while ($ar_tax_list = $db_tax_list->Fetch())
 {
 	$arTaxList[$i] = $ar_tax_list;
-	// определяем, какой из налогов - НДС
-	// НДС должен иметь код NDS, либо необходимо перенести этот шаблон
-	// в каталог пользовательских шаблонов и исправить
+	// РѕРїСЂРµРґРµР»СЏРµРј, РєР°РєРѕР№ РёР· РЅР°Р»РѕРіРѕРІ - РќР”РЎ
+	// РќР”РЎ РґРѕР»Р¶РµРЅ РёРјРµС‚СЊ РєРѕРґ NDS, Р»РёР±Рѕ РЅРµРѕР±С…РѕРґРёРјРѕ РїРµСЂРµРЅРµСЃС‚Рё СЌС‚РѕС‚ С€Р°Р±Р»РѕРЅ
+	// РІ РєР°С‚Р°Р»РѕРі РїРѕР»СЊР·РѕРІР°С‚РµР»СЊСЃРєРёС… С€Р°Р±Р»РѕРЅРѕРІ Рё РёСЃРїСЂР°РІРёС‚СЊ
 	if ($arTaxList[$i]["CODE"] == "NDS")
 		$iNds = $i;
 	$i++;
@@ -197,7 +197,7 @@ while ($ar_tax_list = $db_tax_list->Fetch())
 
 
 
-//состав заказа
+//СЃРѕСЃС‚Р°РІ Р·Р°РєР°Р·Р°
 ClearVars("b_");
 //$db_basket = CSaleBasket::GetList(($b="NAME"), ($o="ASC"), array("ORDER_ID"=>$ORDER_ID));
 //if ($db_basket->ExtractFields("b_")):
@@ -206,11 +206,11 @@ $currency = preg_replace('/(^|[^&])#/', '${1}', $arCurFormat['FORMAT_STRING']);
 	?>
 	<table border="0" cellspacing="0" cellpadding="2" width="100%">
 		<tr bgcolor="#E2E2E2">
-			<td align="center" style="border: 1pt solid #000000; border-right:none;">№</td>
-			<td align="center" style="border: 1pt solid #000000; border-right:none;">Предмет счета</td>
-			<td nowrap align="center" style="border: 1pt solid #000000; border-right:none;">Кол-во</td>
-			<td nowrap align="center" style="border: 1pt solid #000000; border-right:none;">Цена,<?=$currency;?></td>
-			<td nowrap align="center" style="border: 1pt solid #000000;">Сумма,<?=$currency;?></td>
+			<td align="center" style="border: 1pt solid #000000; border-right:none;">в„–</td>
+			<td align="center" style="border: 1pt solid #000000; border-right:none;">РџСЂРµРґРјРµС‚ СЃС‡РµС‚Р°</td>
+			<td nowrap align="center" style="border: 1pt solid #000000; border-right:none;">РљРѕР»-РІРѕ</td>
+			<td nowrap align="center" style="border: 1pt solid #000000; border-right:none;">Р¦РµРЅР°,<?=$currency;?></td>
+			<td nowrap align="center" style="border: 1pt solid #000000;">РЎСѓРјРјР°,<?=$currency;?></td>
 		</tr>
 		<?
 		$n = 1;
@@ -229,7 +229,7 @@ $currency = preg_replace('/(^|[^&])#/', '${1}', $arCurFormat['FORMAT_STRING']);
 
 			$b_AMOUNT = DoubleVal($arBasket["PRICE"]);
 
-			//определяем начальную цену
+			//РѕРїСЂРµРґРµР»СЏРµРј РЅР°С‡Р°Р»СЊРЅСѓСЋ С†РµРЅСѓ
 			$item_price = $b_AMOUNT;
 
 			if(DoubleVal($arBasket["VAT_RATE"]) > 0)
@@ -303,7 +303,7 @@ $currency = preg_replace('/(^|[^&])#/', '${1}', $arCurFormat['FORMAT_STRING']);
 					<?echo $n++?>
 				</td>
 				<td bgcolor="#ffffff" style="border: 1pt solid #000000; border-right:none; border-top:none;">
-					Скидка
+					РЎРєРёРґРєР°
 				</td>
 				<td valign="top" align="right" bgcolor="#ffffff" style="border: 1pt solid #000000; border-right:none; border-top:none;">1 </td>
 				<td align="right" bgcolor="#ffffff" style="border: 1pt solid #000000; border-right:none; border-top:none;">
@@ -323,7 +323,7 @@ $currency = preg_replace('/(^|[^&])#/', '${1}', $arCurFormat['FORMAT_STRING']);
 					<?echo $n?>
 				</td>
 				<td bgcolor="#ffffff" style="border: 1pt solid #000000; border-right:none; border-top:none;">
-					Доставка <?
+					Р”РѕСЃС‚Р°РІРєР° <?
 					$deliveryId = \CSaleDelivery::getIdByCode($arOrder['DELIVERY_ID']);
 
 					if($deliveryId > 0)
@@ -360,7 +360,7 @@ $currency = preg_replace('/(^|[^&])#/', '${1}', $arCurFormat['FORMAT_STRING']);
 					<?
 					if ($ar_tax_list["IS_IN_PRICE"]=="Y")
 					{
-						echo "В том числе ";
+						echo "Р’ С‚РѕРј С‡РёСЃР»Рµ ";
 					}
 					echo htmlspecialcharsbx($ar_tax_list["TAX_NAME"]);
 					if ($ar_tax_list["IS_PERCENT"]=="Y")
@@ -377,14 +377,14 @@ $currency = preg_replace('/(^|[^&])#/', '${1}', $arCurFormat['FORMAT_STRING']);
 		}
 		?>
 		<tr>
-			<td align="right" bgcolor="#ffffff" colspan="4" style="border: 1pt solid #000000; border-right:none; border-top:none;">Итого:</td>
+			<td align="right" bgcolor="#ffffff" colspan="4" style="border: 1pt solid #000000; border-right:none; border-top:none;">РС‚РѕРіРѕ:</td>
 			<td align="right" bgcolor="#ffffff" style="border: 1pt solid #000000; border-top:none;">
 				<?=CCurrencyLang::CurrencyFormat($total_sum, $arOrder["CURRENCY"], false);?>
 			</td>
 		</tr>
 	</table>
 <?//endif?>
-<p><b>Итого к оплате:</b>
+<p><b>РС‚РѕРіРѕ Рє РѕРїР»Р°С‚Рµ:</b>
 	<?
 	if ($arOrder["CURRENCY"]=="RUR" || $arOrder["CURRENCY"]=="RUB")
 	{
@@ -397,16 +397,16 @@ $currency = preg_replace('/(^|[^&])#/', '${1}', $arCurFormat['FORMAT_STRING']);
 	?>.</p>
 <?
 	if ($arOrder['CURRENCY'] === 'UAH')
-		$contextCurrency = 'гривнах';
+		$contextCurrency = 'РіСЂРёРІРЅР°С…';
 	else
-		$contextCurrency = 'рублях';
+		$contextCurrency = 'СЂСѓР±Р»СЏС…';
 ?>
-<p><font size="2">В случае непоступления средств на расчетный счет продавца в течение пяти
-банковских дней со дня выписки счета, продавец оставляет за собой право
-пересмотреть отпускную цену товара в <?=$contextCurrency;?> пропорционально изменению курса доллара
-и выставить счет на доплату.<br><br>
-В платежном поручении обязательно указать - "Оплата по счету № <?echo $arOrder["ACCOUNT_NUMBER"]?> от <?echo $arOrder["DATE_INSERT_FORMAT"] ?>".<br><br>
-Получение товара только после прихода денег на расчетный счет компании.
+<p><font size="2">Р’ СЃР»СѓС‡Р°Рµ РЅРµРїРѕСЃС‚СѓРїР»РµРЅРёСЏ СЃСЂРµРґСЃС‚РІ РЅР° СЂР°СЃС‡РµС‚РЅС‹Р№ СЃС‡РµС‚ РїСЂРѕРґР°РІС†Р° РІ С‚РµС‡РµРЅРёРµ РїСЏС‚Рё
+Р±Р°РЅРєРѕРІСЃРєРёС… РґРЅРµР№ СЃРѕ РґРЅСЏ РІС‹РїРёСЃРєРё СЃС‡РµС‚Р°, РїСЂРѕРґР°РІРµС† РѕСЃС‚Р°РІР»СЏРµС‚ Р·Р° СЃРѕР±РѕР№ РїСЂР°РІРѕ
+РїРµСЂРµСЃРјРѕС‚СЂРµС‚СЊ РѕС‚РїСѓСЃРєРЅСѓСЋ С†РµРЅСѓ С‚РѕРІР°СЂР° РІ <?=$contextCurrency;?> РїСЂРѕРїРѕСЂС†РёРѕРЅР°Р»СЊРЅРѕ РёР·РјРµРЅРµРЅРёСЋ РєСѓСЂСЃР° РґРѕР»Р»Р°СЂР°
+Рё РІС‹СЃС‚Р°РІРёС‚СЊ СЃС‡РµС‚ РЅР° РґРѕРїР»Р°С‚Сѓ.<br><br>
+Р’ РїР»Р°С‚РµР¶РЅРѕРј РїРѕСЂСѓС‡РµРЅРёРё РѕР±СЏР·Р°С‚РµР»СЊРЅРѕ СѓРєР°Р·Р°С‚СЊ - "РћРїР»Р°С‚Р° РїРѕ СЃС‡РµС‚Сѓ в„– <?echo $arOrder["ACCOUNT_NUMBER"]?> РѕС‚ <?echo $arOrder["DATE_INSERT_FORMAT"] ?>".<br><br>
+РџРѕР»СѓС‡РµРЅРёРµ С‚РѕРІР°СЂР° С‚РѕР»СЊРєРѕ РїРѕСЃР»Рµ РїСЂРёС…РѕРґР° РґРµРЅРµРі РЅР° СЂР°СЃС‡РµС‚РЅС‹Р№ СЃС‡РµС‚ РєРѕРјРїР°РЅРёРё.
 </font></p>
 <!-- END REPORT BODY -->
 
@@ -414,7 +414,7 @@ $currency = preg_replace('/(^|[^&])#/', '${1}', $arCurFormat['FORMAT_STRING']);
 <table border=0 cellspacing=0 cellpadding=0 width="100%">
 <tr>
 <td width="20%">
-<p class=MsoNormal>Руководитель организации:</p>
+<p class=MsoNormal>Р СѓРєРѕРІРѕРґРёС‚РµР»СЊ РѕСЂРіР°РЅРёР·Р°С†РёРё:</p>
 </td>
 <td width="80%">
 <p class=MsoNormal>_______________ <input size="55" style="border:0px solid #000000;font-size:14px;font-style:bold;" type="text" value="/ <?echo (($arParams["DIRECTOR"] <> '') ? $arParams["DIRECTOR"] : "______________________________")?> /"></p>
@@ -438,7 +438,7 @@ $currency = preg_replace('/(^|[^&])#/', '${1}', $arCurFormat['FORMAT_STRING']);
 </tr>
 <tr>
 <td>
-<p class=MsoNormal>Гл. бухгалтер:</p>
+<p class=MsoNormal>Р“Р». Р±СѓС…РіР°Р»С‚РµСЂ:</p>
 </td>
 <td>
 <p class=MsoNormal>_______________ <input size="45" style="border:0px solid #000000;font-size:14px;font-style:bold;" type="text" value="/ <?echo (($arParams["BUHG"] <> '') ? $arParams["BUHG"] : "______________________________")?> /"></p>

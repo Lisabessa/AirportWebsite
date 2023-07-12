@@ -1,14 +1,14 @@
 <?
-$MESS ['SUP_CE_ERROR'] = "Îøèáêà";
-$MESS ['SUP_CE_TITLE_EDIT'] = "Ðåäàêòèðîâàíèå êóïîíà %COUPON%";
-$MESS ['SUP_CE_TITLE_NEW'] = "Ñîçäàíèå íîâîãî êóïîíà";
-$MESS ['SUP_CE_COUPONS_LIST'] = "Ñïèñîê êóïîíîâ";
-$MESS ['SUP_CE_COUPON'] = "Êóïîí";
-$MESS ['SUP_CE_COUPON_TITLE'] = "Êóïîí";
-$MESS ['SUP_CE_F_COUPON'] = "Êóïîí:";
-$MESS ['SUP_CE_F_ACTIVE_FROM'] = "Êóïîí àêòèâåí ñ äàòû:";
-$MESS ['SUP_CE_F_ACTIVE_TO'] = "Êóïîí àêòèâåí ïî äàòó:";
-$MESS ['SUP_CE_F_ACTIVE'] = "Àêòèâíîñòü:";
-$MESS ['SUP_CE_F_COUNT'] = "Êîëè÷åñòâî îñòàâøèõñÿ èñïîëüçîâàíèé:";
-$MESS ['SUP_CE_F_SLA'] = "Óðîâåíü ïîääåðæêè:";
+$MESS ['SUP_CE_ERROR'] = "ÐžÑˆÐ¸Ð±ÐºÐ°";
+$MESS ['SUP_CE_TITLE_EDIT'] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ ÐºÑƒÐ¿Ð¾Ð½Ð° %COUPON%";
+$MESS ['SUP_CE_TITLE_NEW'] = "Ð¡Ð¾Ð·Ð´Ð°Ð½Ð¸Ðµ Ð½Ð¾Ð²Ð¾Ð³Ð¾ ÐºÑƒÐ¿Ð¾Ð½Ð°";
+$MESS ['SUP_CE_COUPONS_LIST'] = "Ð¡Ð¿Ð¸ÑÐ¾Ðº ÐºÑƒÐ¿Ð¾Ð½Ð¾Ð²";
+$MESS ['SUP_CE_COUPON'] = "ÐšÑƒÐ¿Ð¾Ð½";
+$MESS ['SUP_CE_COUPON_TITLE'] = "ÐšÑƒÐ¿Ð¾Ð½";
+$MESS ['SUP_CE_F_COUPON'] = "ÐšÑƒÐ¿Ð¾Ð½:";
+$MESS ['SUP_CE_F_ACTIVE_FROM'] = "ÐšÑƒÐ¿Ð¾Ð½ Ð°ÐºÑ‚Ð¸Ð²ÐµÐ½ Ñ Ð´Ð°Ñ‚Ñ‹:";
+$MESS ['SUP_CE_F_ACTIVE_TO'] = "ÐšÑƒÐ¿Ð¾Ð½ Ð°ÐºÑ‚Ð¸Ð²ÐµÐ½ Ð¿Ð¾ Ð´Ð°Ñ‚Ñƒ:";
+$MESS ['SUP_CE_F_ACTIVE'] = "ÐÐºÑ‚Ð¸Ð²Ð½Ð¾ÑÑ‚ÑŒ:";
+$MESS ['SUP_CE_F_COUNT'] = "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ð¾ÑÑ‚Ð°Ð²ÑˆÐ¸Ñ…ÑÑ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð¸Ð¹:";
+$MESS ['SUP_CE_F_SLA'] = "Ð£Ñ€Ð¾Ð²ÐµÐ½ÑŒ Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ¸:";
 ?>

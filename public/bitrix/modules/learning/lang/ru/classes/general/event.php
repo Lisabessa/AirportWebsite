@@ -1,2 +1,2 @@
 <?php
-$MESS['LEARNING_LOG_REMOVE_ITEM'] = 'Óäàëåí ýëåìåíò â ìîäóëå îáó÷åíèÿ';
+$MESS['LEARNING_LOG_REMOVE_ITEM'] = 'Ð£Ð´Ð°Ð»ÐµÐ½ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚ Ð² Ð¼Ð¾Ð´ÑƒÐ»Ðµ Ð¾Ð±ÑƒÑ‡ÐµÐ½Ð¸Ñ';

@@ -1,8 +1,8 @@
 <?
-$MESS["IM_HISTORY_SEARCH_EMPTY"] = "Íå çàäàíà ïîèñêîâàÿ ñòðîêà";
-$MESS["IM_HISTORY_SEARCH_DATE_EMPTY"] = "Íå çàäàíà äàòà äëÿ ïîèñêà";
-$MESS["IM_HISTORY_ERROR_MESSAGE_ID"] = "Íå çàäàíà ïîèñêîâàÿ ñòðîêà";
-$MESS["IM_HISTORY_ERROR_TO_USER_ID"] = "Íå óêàçàí èäåíòèôèêàòîð ïîëüçîâàòåëÿ";
+$MESS["IM_HISTORY_SEARCH_EMPTY"] = "ÐÐµ Ð·Ð°Ð´Ð°Ð½Ð° Ð¿Ð¾Ð¸ÑÐºÐ¾Ð²Ð°Ñ ÑÑ‚Ñ€Ð¾ÐºÐ°";
+$MESS["IM_HISTORY_SEARCH_DATE_EMPTY"] = "ÐÐµ Ð·Ð°Ð´Ð°Ð½Ð° Ð´Ð°Ñ‚Ð° Ð´Ð»Ñ Ð¿Ð¾Ð¸ÑÐºÐ°";
+$MESS["IM_HISTORY_ERROR_MESSAGE_ID"] = "ÐÐµ Ð·Ð°Ð´Ð°Ð½Ð° Ð¿Ð¾Ð¸ÑÐºÐ¾Ð²Ð°Ñ ÑÑ‚Ñ€Ð¾ÐºÐ°";
+$MESS["IM_HISTORY_ERROR_TO_USER_ID"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
 $MESS["IM_HISTORY_FORMAT_DATE"] = "H:i, d F Y";
 $MESS["IM_HISTORY_FORMAT_TIME"] = "H:i";
 ?>

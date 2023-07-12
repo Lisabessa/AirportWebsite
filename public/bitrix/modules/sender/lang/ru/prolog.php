@@ -1,4 +1,4 @@
 <?
-$MESS["sender_prolog_title"] = "Ìîäóëü Email-ìàðêåòèíãà";
-$MESS["sender_prolog_title1"] = "Ìîäóëü Ìàðêåòèíã 24";
+$MESS["sender_prolog_title"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ Email-Ð¼Ð°Ñ€ÐºÐµÑ‚Ð¸Ð½Ð³Ð°";
+$MESS["sender_prolog_title1"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ ÐœÐ°Ñ€ÐºÐµÑ‚Ð¸Ð½Ð³ 24";
 ?>

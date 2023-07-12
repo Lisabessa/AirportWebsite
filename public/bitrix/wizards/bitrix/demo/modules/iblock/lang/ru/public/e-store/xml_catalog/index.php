@@ -1,5 +1,5 @@
 <?
-$MESS ['DEMO_IBLOCK_ESTORE_XMLCAT_TITLE'] = "Êàòàëîã òîâàðîâ èç 1Ñ:Ïðåäïðèÿòèå";
-$MESS ['DEMO_IBLOCK_ESTORE_XMLCAT_PAGER_TITLE'] = "Òîâàðû";
-$MESS ['DEMO_IBLOCK_ESTORE_XMLCAT_PRICE_CODE'] = "Ðîçíè÷íàÿ";
+$MESS ['DEMO_IBLOCK_ESTORE_XMLCAT_TITLE'] = "ÐšÐ°Ñ‚Ð°Ð»Ð¾Ð³ Ñ‚Ð¾Ð²Ð°Ñ€Ð¾Ð² Ð¸Ð· 1Ð¡:ÐŸÑ€ÐµÐ´Ð¿Ñ€Ð¸ÑÑ‚Ð¸Ðµ";
+$MESS ['DEMO_IBLOCK_ESTORE_XMLCAT_PAGER_TITLE'] = "Ð¢Ð¾Ð²Ð°Ñ€Ñ‹";
+$MESS ['DEMO_IBLOCK_ESTORE_XMLCAT_PRICE_CODE'] = "Ð Ð¾Ð·Ð½Ð¸Ñ‡Ð½Ð°Ñ";
 ?>

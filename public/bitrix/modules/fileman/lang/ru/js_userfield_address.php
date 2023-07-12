@@ -1,6 +1,6 @@
 <?
-$MESS["UF_ADDRESS_NO_RESULT"] = "Íè÷åãî íå íàéäåíî";
-$MESS["UF_ADDRESS_ADD"] = "Äîáàâèòü";
-$MESS["GOOGLE_MAP_TRIAL_HINT"] = "Èñïîëüçîâàíèå Google-êàðò äîñòóïíî òîëüêî íà êîììåð÷åñêèõ òàðèôàõ.";
-$MESS["GOOGLE_MAP_TRIAL_HINT_MORE"] = "Ïîäðîáíåå";
+$MESS["UF_ADDRESS_NO_RESULT"] = "ÐÐ¸Ñ‡ÐµÐ³Ð¾ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾";
+$MESS["UF_ADDRESS_ADD"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ";
+$MESS["GOOGLE_MAP_TRIAL_HINT"] = "Ð˜ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð¸Ðµ Google-ÐºÐ°Ñ€Ñ‚ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ð¾ Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð½Ð° ÐºÐ¾Ð¼Ð¼ÐµÑ€Ñ‡ÐµÑÐºÐ¸Ñ… Ñ‚Ð°Ñ€Ð¸Ñ„Ð°Ñ….";
+$MESS["GOOGLE_MAP_TRIAL_HINT_MORE"] = "ÐŸÐ¾Ð´Ñ€Ð¾Ð±Ð½ÐµÐµ";
 ?>

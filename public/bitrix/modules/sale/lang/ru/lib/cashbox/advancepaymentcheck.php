@@ -1,3 +1,3 @@
 <?php
-$MESS['SALE_CASHBOX_ADVANCE_PAYMENT_NAME'] = 'Àâàíñ';
-$MESS['SALE_CASHBOX_ADVANCE_PAYMENT_ITEM_NAME'] = 'Âíåñåíèå àâàíñà';
+$MESS['SALE_CASHBOX_ADVANCE_PAYMENT_NAME'] = 'ÐÐ²Ð°Ð½Ñ';
+$MESS['SALE_CASHBOX_ADVANCE_PAYMENT_ITEM_NAME'] = 'Ð’Ð½ÐµÑÐµÐ½Ð¸Ðµ Ð°Ð²Ð°Ð½ÑÐ°';

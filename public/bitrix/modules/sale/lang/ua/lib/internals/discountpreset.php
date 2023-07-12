@@ -1,8 +1,8 @@
 <?
-$MESS["DISCOUNT_PRESET_DEFAULT_PRODUCT_PRODUCT_TITLE"] = "Çíèæêà íà òîâàð";
-$MESS["DISCOUNT_PRESET_DEFAULT_PRODUCT_PROPERTY_TITLE"] = "Çíèæêà íà òîâàð ç ïåâíîþ âëàñòèâ³ñòþ";
-$MESS["DISCOUNT_PRESET_DEFAULT_PAYMENT_DISCOUNT_TITLE"] = "Çíèæêà íà ïëàò³æíó ñèñòåìó";
-$MESS["DISCOUNT_PRESET_DEFAULT_PAYMENT_EXTRA_TITLE"] = "Íàö³íêà íà ïëàò³æíó ñèñòåìó";
-$MESS["DISCOUNT_PRESET_DEFAULT_DELIVERY_DISCOUNT_TITLE"] = "Çíèæêà íà ñëóæáó äîñòàâêè";
-$MESS["DISCOUNT_PRESET_DEFAULT_DELIVERY_EXTRA_TITLE"] = "Íàö³íêà íà ñëóæáó äîñòàâêè";
+$MESS["DISCOUNT_PRESET_DEFAULT_PRODUCT_PRODUCT_TITLE"] = "Ð—Ð½Ð¸Ð¶ÐºÐ° Ð½Ð° Ñ‚Ð¾Ð²Ð°Ñ€";
+$MESS["DISCOUNT_PRESET_DEFAULT_PRODUCT_PROPERTY_TITLE"] = "Ð—Ð½Ð¸Ð¶ÐºÐ° Ð½Ð° Ñ‚Ð¾Ð²Ð°Ñ€ Ð· Ð¿ÐµÐ²Ð½Ð¾ÑŽ Ð²Ð»Ð°ÑÑ‚Ð¸Ð²Ñ–ÑÑ‚ÑŽ";
+$MESS["DISCOUNT_PRESET_DEFAULT_PAYMENT_DISCOUNT_TITLE"] = "Ð—Ð½Ð¸Ð¶ÐºÐ° Ð½Ð° Ð¿Ð»Ð°Ñ‚Ñ–Ð¶Ð½Ñƒ ÑÐ¸ÑÑ‚ÐµÐ¼Ñƒ";
+$MESS["DISCOUNT_PRESET_DEFAULT_PAYMENT_EXTRA_TITLE"] = "ÐÐ°Ñ†Ñ–Ð½ÐºÐ° Ð½Ð° Ð¿Ð»Ð°Ñ‚Ñ–Ð¶Ð½Ñƒ ÑÐ¸ÑÑ‚ÐµÐ¼Ñƒ";
+$MESS["DISCOUNT_PRESET_DEFAULT_DELIVERY_DISCOUNT_TITLE"] = "Ð—Ð½Ð¸Ð¶ÐºÐ° Ð½Ð° ÑÐ»ÑƒÐ¶Ð±Ñƒ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸";
+$MESS["DISCOUNT_PRESET_DEFAULT_DELIVERY_EXTRA_TITLE"] = "ÐÐ°Ñ†Ñ–Ð½ÐºÐ° Ð½Ð° ÑÐ»ÑƒÐ¶Ð±Ñƒ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸";
 ?>

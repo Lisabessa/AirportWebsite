@@ -1,9 +1,9 @@
 <?
-$MESS["WZD_OPTION_NEWS_1"] = "Òåìà";
-$MESS["WZD_OPTION_NEWS_2"] = "Ïóáëèêóåòñÿ íà ñàéòå";
-$MESS["WZD_OPTION_NEWS_3"] = "Äàòà òåìû";
-$MESS["WZD_OPTION_NEWS_4"] = "*Çàãîëîâîê";
-$MESS["WZD_OPTION_NEWS_5"] = "Ñèìâîëüíûé êîä";
-$MESS["WZD_OPTION_NEWS_6"] = "Èçîáðàæåíèå";
-$MESS["WZD_OPTION_NEWS_7"] = "Ãëàâíàÿ òåìà";
+$MESS["WZD_OPTION_NEWS_1"] = "Ð¢ÐµÐ¼Ð°";
+$MESS["WZD_OPTION_NEWS_2"] = "ÐŸÑƒÐ±Ð»Ð¸ÐºÑƒÐµÑ‚ÑÑ Ð½Ð° ÑÐ°Ð¹Ñ‚Ðµ";
+$MESS["WZD_OPTION_NEWS_3"] = "Ð”Ð°Ñ‚Ð° Ñ‚ÐµÐ¼Ñ‹";
+$MESS["WZD_OPTION_NEWS_4"] = "*Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº";
+$MESS["WZD_OPTION_NEWS_5"] = "Ð¡Ð¸Ð¼Ð²Ð¾Ð»ÑŒÐ½Ñ‹Ð¹ ÐºÐ¾Ð´";
+$MESS["WZD_OPTION_NEWS_6"] = "Ð˜Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ðµ";
+$MESS["WZD_OPTION_NEWS_7"] = "Ð“Ð»Ð°Ð²Ð½Ð°Ñ Ñ‚ÐµÐ¼Ð°";
 ?>

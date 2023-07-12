@@ -1,4 +1,4 @@
 <?
-$MESS["SALE_INTEGRATIONB24_NEWORDER_GROUPNAME"] = "²íòåãðàö³ÿ ç ÁÓÑ";
-$MESS["SALE_INTEGRATIONB24_NEWORDER_TITLE"] = "Íîâå çàìîâëåííÿ";
+$MESS["SALE_INTEGRATIONB24_NEWORDER_GROUPNAME"] = "Ð†Ð½Ñ‚ÐµÐ³Ñ€Ð°Ñ†Ñ–Ñ Ð· Ð‘Ð£Ð¡";
+$MESS["SALE_INTEGRATIONB24_NEWORDER_TITLE"] = "ÐÐ¾Ð²Ðµ Ð·Ð°Ð¼Ð¾Ð²Ð»ÐµÐ½Ð½Ñ";
 ?>

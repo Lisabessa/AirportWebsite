@@ -1,11 +1,11 @@
 <?
 $MESS["SENDER_TYPE_CAPTION_EMAIL"] = "Email";
-$MESS["SENDER_TYPE_CAPTION_PHONE"] = "Òåëåôîí";
-$MESS["SENDER_TYPE_CAPTION_IM"] = "Ìåññåíäæåð";
-$MESS["SENDER_TYPE_CAPTION_CRM_CONTACT_ID"] = "Êîíòàêò";
-$MESS["SENDER_TYPE_CAPTION_CRM_COMPANY_ID"] = "Êîìïàíèÿ";
-$MESS["SENDER_TYPE_CAPTION_CRM_DEAL_PRODUCT_CONTACT_ID"] = "Êîíòàêò (òîâàðû â ñäåëêàõ)";
-$MESS["SENDER_TYPE_CAPTION_CRM_ORDER_PRODUCT_CONTACT_ID"] = "Êîíòàêò (òîâàðû â çàêàçàõ)";
-$MESS["SENDER_TYPE_CAPTION_CRM_DEAL_PRODUCT_COMPANY_ID"] = "Êîìïàíèÿ (òîâàðû â ñäåëêàõ)";
-$MESS["SENDER_TYPE_CAPTION_CRM_ORDER_PRODUCT_COMPANY_ID"] = "Êîìïàíèÿ (òîâàðû â çàêàçàõ)";
+$MESS["SENDER_TYPE_CAPTION_PHONE"] = "Ð¢ÐµÐ»ÐµÑ„Ð¾Ð½";
+$MESS["SENDER_TYPE_CAPTION_IM"] = "ÐœÐµÑÑÐµÐ½Ð´Ð¶ÐµÑ€";
+$MESS["SENDER_TYPE_CAPTION_CRM_CONTACT_ID"] = "ÐšÐ¾Ð½Ñ‚Ð°ÐºÑ‚";
+$MESS["SENDER_TYPE_CAPTION_CRM_COMPANY_ID"] = "ÐšÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ñ";
+$MESS["SENDER_TYPE_CAPTION_CRM_DEAL_PRODUCT_CONTACT_ID"] = "ÐšÐ¾Ð½Ñ‚Ð°ÐºÑ‚ (Ñ‚Ð¾Ð²Ð°Ñ€Ñ‹ Ð² ÑÐ´ÐµÐ»ÐºÐ°Ñ…)";
+$MESS["SENDER_TYPE_CAPTION_CRM_ORDER_PRODUCT_CONTACT_ID"] = "ÐšÐ¾Ð½Ñ‚Ð°ÐºÑ‚ (Ñ‚Ð¾Ð²Ð°Ñ€Ñ‹ Ð² Ð·Ð°ÐºÐ°Ð·Ð°Ñ…)";
+$MESS["SENDER_TYPE_CAPTION_CRM_DEAL_PRODUCT_COMPANY_ID"] = "ÐšÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ñ (Ñ‚Ð¾Ð²Ð°Ñ€Ñ‹ Ð² ÑÐ´ÐµÐ»ÐºÐ°Ñ…)";
+$MESS["SENDER_TYPE_CAPTION_CRM_ORDER_PRODUCT_COMPANY_ID"] = "ÐšÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ñ (Ñ‚Ð¾Ð²Ð°Ñ€Ñ‹ Ð² Ð·Ð°ÐºÐ°Ð·Ð°Ñ…)";
 ?>

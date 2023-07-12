@@ -1,7 +1,7 @@
 <?
-$MESS["SALE_CASHBOX_RESTRICTION_SORT"] = "Ñîðòóâàííÿ";
-$MESS["SALE_CASHBOX_ERROR_FIELD"] = "Ïîëå";
-$MESS["SALE_CASHBOX_ERROR_PARAMS"] = "Íå çàçíà÷åí³ ïàðàìåòðè îáìåæåííÿ";
-$MESS["SALE_CASHBOX_KKM_ID"] = "Ìàðêà ÊÊÌ";
-$MESS["SALE_CASHBOX_KKM_NO_CHOOSE"] = "Íå îáðàíî";
+$MESS["SALE_CASHBOX_RESTRICTION_SORT"] = "Ð¡Ð¾Ñ€Ñ‚ÑƒÐ²Ð°Ð½Ð½Ñ";
+$MESS["SALE_CASHBOX_ERROR_FIELD"] = "ÐŸÐ¾Ð»Ðµ";
+$MESS["SALE_CASHBOX_ERROR_PARAMS"] = "ÐÐµ Ð·Ð°Ð·Ð½Ð°Ñ‡ÐµÐ½Ñ– Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð¸ Ð¾Ð±Ð¼ÐµÐ¶ÐµÐ½Ð½Ñ";
+$MESS["SALE_CASHBOX_KKM_ID"] = "ÐœÐ°Ñ€ÐºÐ° ÐšÐšÐœ";
+$MESS["SALE_CASHBOX_KKM_NO_CHOOSE"] = "ÐÐµ Ð¾Ð±Ñ€Ð°Ð½Ð¾";
 ?>

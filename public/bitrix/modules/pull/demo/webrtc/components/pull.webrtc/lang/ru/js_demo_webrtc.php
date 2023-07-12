@@ -1,8 +1,8 @@
 <?
-$MESS['DW_PUT_USER_ID'] = "Ââåäèòå USER_ID";
-$MESS['DW_VIDEO_CALL'] = "Âèäåîçâîíîê";
-$MESS['DW_VIDEO_WAIT'] = "Îæèäàíèå îòâåòà";
-$MESS['DW_VIDEO_ANSWER'] = "Îòâåòèòü";
-$MESS['DW_VIDEO_DECLINE'] = "Çàâåðøèòü";
-$MESS['DW_NO_WEBRTC'] = "Âàø áðàóçåð íå ïîääåðæèâàåò âèäåîçâîíêè";
-$MESS["DW_WINDOW_RELOAD"] = "Åñëè óéä¸òå ñî ñòðàíèöû, çâîíîê ïðåðâ¸òñÿ!";
+$MESS['DW_PUT_USER_ID'] = "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ USER_ID";
+$MESS['DW_VIDEO_CALL'] = "Ð’Ð¸Ð´ÐµÐ¾Ð·Ð²Ð¾Ð½Ð¾Ðº";
+$MESS['DW_VIDEO_WAIT'] = "ÐžÐ¶Ð¸Ð´Ð°Ð½Ð¸Ðµ Ð¾Ñ‚Ð²ÐµÑ‚Ð°";
+$MESS['DW_VIDEO_ANSWER'] = "ÐžÑ‚Ð²ÐµÑ‚Ð¸Ñ‚ÑŒ";
+$MESS['DW_VIDEO_DECLINE'] = "Ð—Ð°Ð²ÐµÑ€ÑˆÐ¸Ñ‚ÑŒ";
+$MESS['DW_NO_WEBRTC'] = "Ð’Ð°Ñˆ Ð±Ñ€Ð°ÑƒÐ·ÐµÑ€ Ð½Ðµ Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶Ð¸Ð²Ð°ÐµÑ‚ Ð²Ð¸Ð´ÐµÐ¾Ð·Ð²Ð¾Ð½ÐºÐ¸";
+$MESS["DW_WINDOW_RELOAD"] = "Ð•ÑÐ»Ð¸ ÑƒÐ¹Ð´Ñ‘Ñ‚Ðµ ÑÐ¾ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹, Ð·Ð²Ð¾Ð½Ð¾Ðº Ð¿Ñ€ÐµÑ€Ð²Ñ‘Ñ‚ÑÑ!";

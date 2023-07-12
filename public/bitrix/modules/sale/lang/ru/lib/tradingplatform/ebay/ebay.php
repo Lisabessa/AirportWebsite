@@ -1,3 +1,3 @@
 <?
 $MESS['SALE_EBAY_NAME'] = 'Ebay';
-$MESS['SALE_EBAY_DESCRIPTION'] = 'Èíòåãðàöèÿ ñ Ebay';
+$MESS['SALE_EBAY_DESCRIPTION'] = 'Ð˜Ð½Ñ‚ÐµÐ³Ñ€Ð°Ñ†Ð¸Ñ Ñ Ebay';

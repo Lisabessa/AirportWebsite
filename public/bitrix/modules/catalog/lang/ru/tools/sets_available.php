@@ -1,10 +1,10 @@
 <?
-$MESS["CAT_SETS_AVAILABLE_ERRORS_FATAL"] = "Íåâîçìîæíî âûïîëíèòü îïåðàöèþ";
-$MESS["CAT_SETS_AVAILABLE_PAGE_TITLE"] = "Îáíîâëåíèå îñòàòêîâ è íàëè÷èÿ êîìïëåêòîâ";
-$MESS["CAT_SETS_AVAILABLE_TAB"] = "Ïàðàìåòðû";
-$MESS["CAT_SETS_AVAILABLE_TAB_TITLE"] = "Ïàðàìåòðû îáíîâëåíèÿ";
-$MESS["CAT_SETS_AVAILABLE_UPDATE_BTN"] = "Íà÷àòü";
-$MESS["CAT_SETS_AVAILABLE_STOP_BTN"] = "Îñòàíîâèòü";
-$MESS["CAT_SETS_AVAILABLE_MAX_EXECUTION_TIME"] = "Ïðîäîëæèòåëüíîñòü îäíîãî øàãà, ñåê";
-$MESS["CAT_SETS_AVAILABLE_ERRORS_TITLE"] = "Îøèáêè âî âðåìÿ âûïîëíåíèÿ îïåðàöèè";
+$MESS["CAT_SETS_AVAILABLE_ERRORS_FATAL"] = "ÐÐµÐ²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ Ð²Ñ‹Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÑŒ Ð¾Ð¿ÐµÑ€Ð°Ñ†Ð¸ÑŽ";
+$MESS["CAT_SETS_AVAILABLE_PAGE_TITLE"] = "ÐžÐ±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ðµ Ð¾ÑÑ‚Ð°Ñ‚ÐºÐ¾Ð² Ð¸ Ð½Ð°Ð»Ð¸Ñ‡Ð¸Ñ ÐºÐ¾Ð¼Ð¿Ð»ÐµÐºÑ‚Ð¾Ð²";
+$MESS["CAT_SETS_AVAILABLE_TAB"] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹";
+$MESS["CAT_SETS_AVAILABLE_TAB_TITLE"] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ñ";
+$MESS["CAT_SETS_AVAILABLE_UPDATE_BTN"] = "ÐÐ°Ñ‡Ð°Ñ‚ÑŒ";
+$MESS["CAT_SETS_AVAILABLE_STOP_BTN"] = "ÐžÑÑ‚Ð°Ð½Ð¾Ð²Ð¸Ñ‚ÑŒ";
+$MESS["CAT_SETS_AVAILABLE_MAX_EXECUTION_TIME"] = "ÐŸÑ€Ð¾Ð´Ð¾Ð»Ð¶Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾ÑÑ‚ÑŒ Ð¾Ð´Ð½Ð¾Ð³Ð¾ ÑˆÐ°Ð³Ð°, ÑÐµÐº";
+$MESS["CAT_SETS_AVAILABLE_ERRORS_TITLE"] = "ÐžÑˆÐ¸Ð±ÐºÐ¸ Ð²Ð¾ Ð²Ñ€ÐµÐ¼Ñ Ð²Ñ‹Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¸Ñ Ð¾Ð¿ÐµÑ€Ð°Ñ†Ð¸Ð¸";
 ?>

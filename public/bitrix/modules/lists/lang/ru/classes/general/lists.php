@@ -1,9 +1,9 @@
 <?
-$MESS["LISTS_MODULE_BIZPROC_NOT_INSTALLED"] = "Ìîäóëü \"Áèçíåñ-ïðîöåññû\" íå óñòàíîâëåí";
-$MESS["LISTS_ACCESS_DENIED"] = "Íåò äîñòóïà";
-$MESS["LISTS_REQUIRED_PARAMETER"] = "Íå ïåðåäàí îáÿçàòåëüíûé ïàðàìåòð \"#parameter#\".";
-$MESS["LISTS_COPY_IBLOCK_NAME_TITLE"] = " (Êîïèÿ)";
-$MESS["LISTS_COPY_IBLOCK_ERROR_GET_DATA"] = "Íå óäàëîñü ïîëó÷èòü äàííûå äëÿ êîïèðîâàíèÿ.";
-$MESS["LISTS_COPY_IBLOCK_ERROR_SET_RIGHT"] = "Ïðîèçîøëà îøèáêà óñòàíîâêè ïðàâ â ñêîïèðîâàííîì èíôîáëîêå.";
-$MESS["LISTS_COPY_IBLOCK_ERROR_ADD_FIELD"] = "Ïðîèçîøëà îøèáêà êîïèðîâàíèÿ ïîëÿ \"#field#\".";
+$MESS["LISTS_MODULE_BIZPROC_NOT_INSTALLED"] = "ÐœÐ¾Ð´ÑƒÐ»ÑŒ \"Ð‘Ð¸Ð·Ð½ÐµÑ-Ð¿Ñ€Ð¾Ñ†ÐµÑÑÑ‹\" Ð½Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½";
+$MESS["LISTS_ACCESS_DENIED"] = "ÐÐµÑ‚ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð°";
+$MESS["LISTS_REQUIRED_PARAMETER"] = "ÐÐµ Ð¿ÐµÑ€ÐµÐ´Ð°Ð½ Ð¾Ð±ÑÐ·Ð°Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ð¹ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€ \"#parameter#\".";
+$MESS["LISTS_COPY_IBLOCK_NAME_TITLE"] = " (ÐšÐ¾Ð¿Ð¸Ñ)";
+$MESS["LISTS_COPY_IBLOCK_ERROR_GET_DATA"] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ Ð¿Ð¾Ð»ÑƒÑ‡Ð¸Ñ‚ÑŒ Ð´Ð°Ð½Ð½Ñ‹Ðµ Ð´Ð»Ñ ÐºÐ¾Ð¿Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ.";
+$MESS["LISTS_COPY_IBLOCK_ERROR_SET_RIGHT"] = "ÐŸÑ€Ð¾Ð¸Ð·Ð¾ÑˆÐ»Ð° Ð¾ÑˆÐ¸Ð±ÐºÐ° ÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ¸ Ð¿Ñ€Ð°Ð² Ð² ÑÐºÐ¾Ð¿Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ð¾Ð¼ Ð¸Ð½Ñ„Ð¾Ð±Ð»Ð¾ÐºÐµ.";
+$MESS["LISTS_COPY_IBLOCK_ERROR_ADD_FIELD"] = "ÐŸÑ€Ð¾Ð¸Ð·Ð¾ÑˆÐ»Ð° Ð¾ÑˆÐ¸Ð±ÐºÐ° ÐºÐ¾Ð¿Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ Ð¿Ð¾Ð»Ñ \"#field#\".";
 ?>

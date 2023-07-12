@@ -4,9 +4,9 @@ $strMerchantName = CSalePaySystemAction::GetParamValue("SHOP_NAME");
 
 $ORDER_ID = intval($GLOBALS["SALE_INPUT_PARAMS"]["ORDER"]["ID"]);
 ?>
-<p>Вы хотите оплатить по Смарт-карте &quot;Импэксбанка&quot; через процессинговый центр платежной системы <strong>ИМПЭКСБанка</strong>.</p>
-<p>Cчет № <?= htmlspecialcharsEx($ORDER_ID." от ".$GLOBALS["SALE_INPUT_PARAMS"]["ORDER"]["DATE_INSERT"]) ?></p>
-<p>Сумма к оплате по счету: <strong><?= SaleFormatCurrency($GLOBALS["SALE_INPUT_PARAMS"]["ORDER"]["SHOULD_PAY"], $GLOBALS["SALE_INPUT_PARAMS"]["ORDER"]["CURRENCY"])."&nbsp;"?></strong></p>
+<p>Р’С‹ С…РѕС‚РёС‚Рµ РѕРїР»Р°С‚РёС‚СЊ РїРѕ РЎРјР°СЂС‚-РєР°СЂС‚Рµ &quot;РРјРїСЌРєСЃР±Р°РЅРєР°&quot; С‡РµСЂРµР· РїСЂРѕС†РµСЃСЃРёРЅРіРѕРІС‹Р№ С†РµРЅС‚СЂ РїР»Р°С‚РµР¶РЅРѕР№ СЃРёСЃС‚РµРјС‹ <strong>РРњРџР­РљРЎР‘Р°РЅРєР°</strong>.</p>
+<p>CС‡РµС‚ в„– <?= htmlspecialcharsEx($ORDER_ID." РѕС‚ ".$GLOBALS["SALE_INPUT_PARAMS"]["ORDER"]["DATE_INSERT"]) ?></p>
+<p>РЎСѓРјРјР° Рє РѕРїР»Р°С‚Рµ РїРѕ СЃС‡РµС‚Сѓ: <strong><?= SaleFormatCurrency($GLOBALS["SALE_INPUT_PARAMS"]["ORDER"]["SHOULD_PAY"], $GLOBALS["SALE_INPUT_PARAMS"]["ORDER"]["CURRENCY"])."&nbsp;"?></strong></p>
 
 <form method="post" action="https://www.impexbank.ru/servlets/SPCardPaymentServlet" class="mb-3">
 	<input type="hidden" name="Order_ID" value="<?= $ORDER_ID ?>">
@@ -15,11 +15,11 @@ $ORDER_ID = intval($GLOBALS["SALE_INPUT_PARAMS"]["ORDER"]["ID"]);
 	<input type="hidden" name="Merchant_ID" value="<?= htmlspecialcharsbx($strMerchantID) ?>">
 	<input type="hidden" name="Merchant_Name" value="<?= htmlspecialcharsbx($strMerchantName) ?>">
 	<input type="hidden" name="Currency" value="<?= htmlspecialcharsbx($GLOBALS["SALE_INPUT_PARAMS"]["ORDER"]["CURRENCY"]) ?>">
-	<input type="submit" value="Оплатить" class="btn btn-primary">
+	<input type="submit" value="РћРїР»Р°С‚РёС‚СЊ" class="btn btn-primary">
 </form>
 
 <div class="alert alert-warning" role="alert">
-	<p class="mb-1"><strong>Обратите внимание!</strong></p>
-	<p class="mb-1">Все финансовые операции осуществляются в процессинговом центре платежной системы ИМПЭКСБанка.</p>
-	<p class="mb-0">Все данные, необходимые для осуществления платежа, гарантированно защищены платежной системой ИМПЭКСБанка.</p>
+	<p class="mb-1"><strong>РћР±СЂР°С‚РёС‚Рµ РІРЅРёРјР°РЅРёРµ!</strong></p>
+	<p class="mb-1">Р’СЃРµ С„РёРЅР°РЅСЃРѕРІС‹Рµ РѕРїРµСЂР°С†РёРё РѕСЃСѓС‰РµСЃС‚РІР»СЏСЋС‚СЃСЏ РІ РїСЂРѕС†РµСЃСЃРёРЅРіРѕРІРѕРј С†РµРЅС‚СЂРµ РїР»Р°С‚РµР¶РЅРѕР№ СЃРёСЃС‚РµРјС‹ РРњРџР­РљРЎР‘Р°РЅРєР°.</p>
+	<p class="mb-0">Р’СЃРµ РґР°РЅРЅС‹Рµ, РЅРµРѕР±С…РѕРґРёРјС‹Рµ РґР»СЏ РѕСЃСѓС‰РµСЃС‚РІР»РµРЅРёСЏ РїР»Р°С‚РµР¶Р°, РіР°СЂР°РЅС‚РёСЂРѕРІР°РЅРЅРѕ Р·Р°С‰РёС‰РµРЅС‹ РїР»Р°С‚РµР¶РЅРѕР№ СЃРёСЃС‚РµРјРѕР№ РРњРџР­РљРЎР‘Р°РЅРєР°.</p>
 </div>

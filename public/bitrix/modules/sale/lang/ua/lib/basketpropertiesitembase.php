@@ -1,3 +1,3 @@
 <?
-$MESS["SALE_BASKET_ITEM_PROPERTY_MAX_LENGTH_ERROR"] = "Ó âëàñòèâîñò³ êîøèêà \"#PROPERTY_NAME#\" ïîëå \"#FIELD_TITLE#\" ïåðåâèùóº ìàêñèìàëüíó äîâæèíó: #MAX_LENGTH#.";
+$MESS["SALE_BASKET_ITEM_PROPERTY_MAX_LENGTH_ERROR"] = "Ð£ Ð²Ð»Ð°ÑÑ‚Ð¸Ð²Ð¾ÑÑ‚Ñ– ÐºÐ¾ÑˆÐ¸ÐºÐ° \"#PROPERTY_NAME#\" Ð¿Ð¾Ð»Ðµ \"#FIELD_TITLE#\" Ð¿ÐµÑ€ÐµÐ²Ð¸Ñ‰ÑƒÑ” Ð¼Ð°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ñƒ Ð´Ð¾Ð²Ð¶Ð¸Ð½Ñƒ: #MAX_LENGTH#.";
 ?>

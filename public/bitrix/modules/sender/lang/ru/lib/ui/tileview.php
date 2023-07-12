@@ -1,6 +1,6 @@
 <?
-$MESS["SENDER_UI_TILEVIEW_SECTION_LAST"] = "Ïîñëåäíèå";
-$MESS["SENDER_UI_TILEVIEW_SECTION_FREQ"] = "Ïîïóëÿðíûå";
-$MESS["SENDER_UI_TILEVIEW_SECTION_SYSTEM"] = "Ïðåäóñòàíîâëåííûå";
-$MESS["SENDER_UI_TILEVIEW_SECTION_ALL"] = "Âñå";
+$MESS["SENDER_UI_TILEVIEW_SECTION_LAST"] = "ÐŸÐ¾ÑÐ»ÐµÐ´Ð½Ð¸Ðµ";
+$MESS["SENDER_UI_TILEVIEW_SECTION_FREQ"] = "ÐŸÐ¾Ð¿ÑƒÐ»ÑÑ€Ð½Ñ‹Ðµ";
+$MESS["SENDER_UI_TILEVIEW_SECTION_SYSTEM"] = "ÐŸÑ€ÐµÐ´ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð½Ñ‹Ðµ";
+$MESS["SENDER_UI_TILEVIEW_SECTION_ALL"] = "Ð’ÑÐµ";
 ?>

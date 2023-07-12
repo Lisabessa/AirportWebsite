@@ -1,5 +1,5 @@
 <?php
-$MESS["REST_APP_TITLE"] = "Âíåøíèé äîñòóï ê REST API";
-$MESS["REST_APP_SYSCOMMENT"] = "Âíåøíèé äîñòóï äëÿ #TITLE#";
-$MESS["REST_APP_COMMENT"] = "Ñãåíåðèðîâàíî àâòîìàòè÷åñêè";
-$MESS["REST_APP_DESC"] = "Ïîëó÷èòå ïàðîëü äëÿ âíåøíèõ ñåðâèñîâ, èñïîëüçóþùèõ REST API.";
+$MESS["REST_APP_TITLE"] = "Ð’Ð½ÐµÑˆÐ½Ð¸Ð¹ Ð´Ð¾ÑÑ‚ÑƒÐ¿ Ðº REST API";
+$MESS["REST_APP_SYSCOMMENT"] = "Ð’Ð½ÐµÑˆÐ½Ð¸Ð¹ Ð´Ð¾ÑÑ‚ÑƒÐ¿ Ð´Ð»Ñ #TITLE#";
+$MESS["REST_APP_COMMENT"] = "Ð¡Ð³ÐµÐ½ÐµÑ€Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¾ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸";
+$MESS["REST_APP_DESC"] = "ÐŸÐ¾Ð»ÑƒÑ‡Ð¸Ñ‚Ðµ Ð¿Ð°Ñ€Ð¾Ð»ÑŒ Ð´Ð»Ñ Ð²Ð½ÐµÑˆÐ½Ð¸Ñ… ÑÐµÑ€Ð²Ð¸ÑÐ¾Ð², Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÑŽÑ‰Ð¸Ñ… REST API.";

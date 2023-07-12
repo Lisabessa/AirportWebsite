@@ -1,4 +1,4 @@
 <?
-$MESS["BCLMMD_BC_NOT_INSTALLED"] = "Íå óñòàíîâëåí ìîäóëü \"Îáëàêî 1Ñ-Áèòðèêñ\"";
-$MESS["BCLMMD_ACCESS_DENIED"] = "Äîñòóï çàïðåùåí";
+$MESS["BCLMMD_BC_NOT_INSTALLED"] = "ÐÐµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½ Ð¼Ð¾Ð´ÑƒÐ»ÑŒ \"ÐžÐ±Ð»Ð°ÐºÐ¾ 1Ð¡-Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ\"";
+$MESS["BCLMMD_ACCESS_DENIED"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ð·Ð°Ð¿Ñ€ÐµÑ‰ÐµÐ½";
 ?>

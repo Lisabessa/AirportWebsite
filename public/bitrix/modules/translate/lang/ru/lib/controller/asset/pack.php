@@ -1,7 +1,7 @@
 <?
-$MESS["TR_ERROR_CREATE_TEMP_FOLDER"] = "Не удается создать временную директорию \"#PATH#\"";
-$MESS["TR_ERROR_SOURCE_FOLDER"] = "Директория для упаковки \"#PATH#\" не найдена или не доступна для чтения.";
-$MESS["TR_PACK_ACTION_EXPORT"] = "Выгружено файлов: #TOTAL_FILES#. Размер архива: #FILE_SIZE_FORMAT#.";
-$MESS["TR_ERROR_ARCHIVE"] = "Ошибка архива";
-$MESS["TR_LANGUAGE_COLLECTED_ARCHIVE"] = "Локализация \"#LANG#\" собрана в архив \"#FILE_PATH#\". <a href='#LINK#'>Cкачать</a>";
+$MESS["TR_ERROR_CREATE_TEMP_FOLDER"] = "РќРµ СѓРґР°РµС‚СЃСЏ СЃРѕР·РґР°С‚СЊ РІСЂРµРјРµРЅРЅСѓСЋ РґРёСЂРµРєС‚РѕСЂРёСЋ \"#PATH#\"";
+$MESS["TR_ERROR_SOURCE_FOLDER"] = "Р”РёСЂРµРєС‚РѕСЂРёСЏ РґР»СЏ СѓРїР°РєРѕРІРєРё \"#PATH#\" РЅРµ РЅР°Р№РґРµРЅР° РёР»Рё РЅРµ РґРѕСЃС‚СѓРїРЅР° РґР»СЏ С‡С‚РµРЅРёСЏ.";
+$MESS["TR_PACK_ACTION_EXPORT"] = "Р’С‹РіСЂСѓР¶РµРЅРѕ С„Р°Р№Р»РѕРІ: #TOTAL_FILES#. Р Р°Р·РјРµСЂ Р°СЂС…РёРІР°: #FILE_SIZE_FORMAT#.";
+$MESS["TR_ERROR_ARCHIVE"] = "РћС€РёР±РєР° Р°СЂС…РёРІР°";
+$MESS["TR_LANGUAGE_COLLECTED_ARCHIVE"] = "Р›РѕРєР°Р»РёР·Р°С†РёСЏ \"#LANG#\" СЃРѕР±СЂР°РЅР° РІ Р°СЂС…РёРІ \"#FILE_PATH#\". <a href='#LINK#'>CРєР°С‡Р°С‚СЊ</a>";
 ?>

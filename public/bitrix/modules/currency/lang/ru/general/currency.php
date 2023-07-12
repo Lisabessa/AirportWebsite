@@ -1,15 +1,15 @@
 <?
-$MESS["BT_MOD_CURR_ERR_CURR_CUR_ID_BAD"] = "Íåâåðíûé èäåíòèôèêàòîð âàëþòû";
-$MESS["BT_MOD_CURR_ERR_CURR_CUR_ID_ABSENT"] = "Íå óêàçàí èäåíòèôèêàòîð âàëþòû";
-$MESS["BT_MOD_CURR_ERR_CURR_AMOUNT_CNT_ABSENT"] = "Íå çàäàí íîìèíàë";
-$MESS["BT_MOD_CURR_ERR_CURR_AMOUNT_CNT_BAD"] = "Íåâåðíûé íîìèíàë";
-$MESS["BT_MOD_CURR_ERR_CURR_AMOUNT_ABSENT"] = "Íå çàäàí êóðñ ïî óìîë÷àíèþ";
-$MESS["BT_MOD_CURR_ERR_CURR_AMOUNT_BAD"] = "Íåâåðíûé êóðñ ïî óìîë÷àíèþ";
-$MESS["BT_MOD_CURR_ERR_CURR_CUR_ID_EXISTS"] = "Âàëþòà ñ òàêèì èäåíòèôèêàòîðîì óæå ñóùåñòâóåò";
-$MESS["BT_MOD_CURR_ERR_CURR_CUR_ID_LAT"] = "Èäåíòèôèêàòîð âàëþòû ìîæåò ñîäåðæàòü òîëüêî ëàòèíñêèå ñèìâîëû";
-$MESS["BT_MOD_CURR_ERR_CURR_CUR_ID_LAT_EXT"] = "Èäåíòèôèêàòîð âàëþòû äîëæåí ñîñòîÿòü èç 3-õ ñèìâîëîâ ëàòèíñêîãî àëôàâèòà";
-$MESS["BT_MOD_CURR_ERR_CURR_NUMCODE_IS_BAD"] = "Öèôðîâîé êîä âàëþòû äîëæåí ñîñòîÿòü èç 3-õ öèôð";
-$MESS["BT_MOD_CURR_ERR_CURR_LANG_BAD"] = "Íåâåðíûå ÿçûêîâûå íàñòðîéêè âàëþòû";
-$MESS["BX_CURRENCY_ERR_CURR_BASE_AMOUNT_CNT_BAD"] = "Íåâåðíûé íîìèíàë áàçîâîé âàëþòû";
-$MESS["BX_CURRENCY_ERR_CURR_BASE_AMOUNT_BAD"] = "Íåâåðíûé êóðñ ïî óìîë÷àíèþ áàçîâîé âàëþòû";
+$MESS["BT_MOD_CURR_ERR_CURR_CUR_ID_BAD"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð²Ð°Ð»ÑŽÑ‚Ñ‹";
+$MESS["BT_MOD_CURR_ERR_CURR_CUR_ID_ABSENT"] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð²Ð°Ð»ÑŽÑ‚Ñ‹";
+$MESS["BT_MOD_CURR_ERR_CURR_AMOUNT_CNT_ABSENT"] = "ÐÐµ Ð·Ð°Ð´Ð°Ð½ Ð½Ð¾Ð¼Ð¸Ð½Ð°Ð»";
+$MESS["BT_MOD_CURR_ERR_CURR_AMOUNT_CNT_BAD"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ð½Ð¾Ð¼Ð¸Ð½Ð°Ð»";
+$MESS["BT_MOD_CURR_ERR_CURR_AMOUNT_ABSENT"] = "ÐÐµ Ð·Ð°Ð´Ð°Ð½ ÐºÑƒÑ€Ñ Ð¿Ð¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ";
+$MESS["BT_MOD_CURR_ERR_CURR_AMOUNT_BAD"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ ÐºÑƒÑ€Ñ Ð¿Ð¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ";
+$MESS["BT_MOD_CURR_ERR_CURR_CUR_ID_EXISTS"] = "Ð’Ð°Ð»ÑŽÑ‚Ð° Ñ Ñ‚Ð°ÐºÐ¸Ð¼ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€Ð¾Ð¼ ÑƒÐ¶Ðµ ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÐµÑ‚";
+$MESS["BT_MOD_CURR_ERR_CURR_CUR_ID_LAT"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð²Ð°Ð»ÑŽÑ‚Ñ‹ Ð¼Ð¾Ð¶ÐµÑ‚ ÑÐ¾Ð´ÐµÑ€Ð¶Ð°Ñ‚ÑŒ Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð»Ð°Ñ‚Ð¸Ð½ÑÐºÐ¸Ðµ ÑÐ¸Ð¼Ð²Ð¾Ð»Ñ‹";
+$MESS["BT_MOD_CURR_ERR_CURR_CUR_ID_LAT_EXT"] = "Ð˜Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€ Ð²Ð°Ð»ÑŽÑ‚Ñ‹ Ð´Ð¾Ð»Ð¶ÐµÐ½ ÑÐ¾ÑÑ‚Ð¾ÑÑ‚ÑŒ Ð¸Ð· 3-Ñ… ÑÐ¸Ð¼Ð²Ð¾Ð»Ð¾Ð² Ð»Ð°Ñ‚Ð¸Ð½ÑÐºÐ¾Ð³Ð¾ Ð°Ð»Ñ„Ð°Ð²Ð¸Ñ‚Ð°";
+$MESS["BT_MOD_CURR_ERR_CURR_NUMCODE_IS_BAD"] = "Ð¦Ð¸Ñ„Ñ€Ð¾Ð²Ð¾Ð¹ ÐºÐ¾Ð´ Ð²Ð°Ð»ÑŽÑ‚Ñ‹ Ð´Ð¾Ð»Ð¶ÐµÐ½ ÑÐ¾ÑÑ‚Ð¾ÑÑ‚ÑŒ Ð¸Ð· 3-Ñ… Ñ†Ð¸Ñ„Ñ€";
+$MESS["BT_MOD_CURR_ERR_CURR_LANG_BAD"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ðµ ÑÐ·Ñ‹ÐºÐ¾Ð²Ñ‹Ðµ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð²Ð°Ð»ÑŽÑ‚Ñ‹";
+$MESS["BX_CURRENCY_ERR_CURR_BASE_AMOUNT_CNT_BAD"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ Ð½Ð¾Ð¼Ð¸Ð½Ð°Ð» Ð±Ð°Ð·Ð¾Ð²Ð¾Ð¹ Ð²Ð°Ð»ÑŽÑ‚Ñ‹";
+$MESS["BX_CURRENCY_ERR_CURR_BASE_AMOUNT_BAD"] = "ÐÐµÐ²ÐµÑ€Ð½Ñ‹Ð¹ ÐºÑƒÑ€Ñ Ð¿Ð¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ Ð±Ð°Ð·Ð¾Ð²Ð¾Ð¹ Ð²Ð°Ð»ÑŽÑ‚Ñ‹";
 ?>

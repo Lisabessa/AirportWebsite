@@ -2,45 +2,45 @@
 global $MESS;
 $MESS['SALE_QH_TITLE'] = "Qiwi Wallet";
 $MESS['SALE_QH_DESCRIPTION'] = "<div class='adm-info-message'>
-	Платежный сервис <a href='https://ishop.qiwi.com' target='_blank'>Visa QIWI Wallet</a><br/>
+	РџР»Р°С‚РµР¶РЅС‹Р№ СЃРµСЂРІРёСЃ <a href='https://ishop.qiwi.com' target='_blank'>Visa QIWI Wallet</a><br/>
 	<ol>
-		<li>Укажите обязательные параметры.</li>
-		<li>Создайте страницу для получения уведомлений от платежной системы и расположите на ней компонент <strong>bitrix:sale.order.payment.receive</strong>.</li>
-		<li>Настройте <strong>bitrix:sale.order.payment.receive</strong> на эту платежную систему.</li>
-		<li>Укажите в <a href = 'https://ishop.qiwi.com/options/merchants.action'>личном кабинете</a> Qiwi Wallet url-адрес созданной страницы.</li>
+		<li>РЈРєР°Р¶РёС‚Рµ РѕР±СЏР·Р°С‚РµР»СЊРЅС‹Рµ РїР°СЂР°РјРµС‚СЂС‹.</li>
+		<li>РЎРѕР·РґР°Р№С‚Рµ СЃС‚СЂР°РЅРёС†Сѓ РґР»СЏ РїРѕР»СѓС‡РµРЅРёСЏ СѓРІРµРґРѕРјР»РµРЅРёР№ РѕС‚ РїР»Р°С‚РµР¶РЅРѕР№ СЃРёСЃС‚РµРјС‹ Рё СЂР°СЃРїРѕР»РѕР¶РёС‚Рµ РЅР° РЅРµР№ РєРѕРјРїРѕРЅРµРЅС‚ <strong>bitrix:sale.order.payment.receive</strong>.</li>
+		<li>РќР°СЃС‚СЂРѕР№С‚Рµ <strong>bitrix:sale.order.payment.receive</strong> РЅР° СЌС‚Сѓ РїР»Р°С‚РµР¶РЅСѓСЋ СЃРёСЃС‚РµРјСѓ.</li>
+		<li>РЈРєР°Р¶РёС‚Рµ РІ <a href = 'https://ishop.qiwi.com/options/merchants.action'>Р»РёС‡РЅРѕРј РєР°Р±РёРЅРµС‚Рµ</a> Qiwi Wallet url-Р°РґСЂРµСЃ СЃРѕР·РґР°РЅРЅРѕР№ СЃС‚СЂР°РЅРёС†С‹.</li>
 	</ol>
 </div>";
-$MESS['SALE_QH_SHOP_ID'] = "Идентификатор магазина.";
-$MESS['SALE_QH_SHOP_ID_DESCR'] = "Узнать этот id можно на странице настроек в разделе <a target='_blank' href='https://ishop.qiwi.com/options/merchants.action'>Настройки HTTP-протокола</a>.";
+$MESS['SALE_QH_SHOP_ID'] = "РРґРµРЅС‚РёС„РёРєР°С‚РѕСЂ РјР°РіР°Р·РёРЅР°.";
+$MESS['SALE_QH_SHOP_ID_DESCR'] = "РЈР·РЅР°С‚СЊ СЌС‚РѕС‚ id РјРѕР¶РЅРѕ РЅР° СЃС‚СЂР°РЅРёС†Рµ РЅР°СЃС‚СЂРѕРµРє РІ СЂР°Р·РґРµР»Рµ <a target='_blank' href='https://ishop.qiwi.com/options/merchants.action'>РќР°СЃС‚СЂРѕР№РєРё HTTP-РїСЂРѕС‚РѕРєРѕР»Р°</a>.";
 
-$MESS['SALE_QH_API_LOGIN'] = "Идентификатор API";
-$MESS['SALE_QH_API_LOGIN_DESCR'] = "Идентификатор для доступа к API. Задается в <a href='https://ishop.qiwi.com/options/merchants.action' target='_blank'>настройках магазинa</a> в разделе 'Аутентификационные данные для всех протоколов'.";
+$MESS['SALE_QH_API_LOGIN'] = "РРґРµРЅС‚РёС„РёРєР°С‚РѕСЂ API";
+$MESS['SALE_QH_API_LOGIN_DESCR'] = "РРґРµРЅС‚РёС„РёРєР°С‚РѕСЂ РґР»СЏ РґРѕСЃС‚СѓРїР° Рє API. Р—Р°РґР°РµС‚СЃСЏ РІ <a href='https://ishop.qiwi.com/options/merchants.action' target='_blank'>РЅР°СЃС‚СЂРѕР№РєР°С… РјР°РіР°Р·РёРЅa</a> РІ СЂР°Р·РґРµР»Рµ 'РђСѓС‚РµРЅС‚РёС„РёРєР°С†РёРѕРЅРЅС‹Рµ РґР°РЅРЅС‹Рµ РґР»СЏ РІСЃРµС… РїСЂРѕС‚РѕРєРѕР»РѕРІ'.";
 
-$MESS['SALE_QH_API_PASS'] = "Пароль API";
-$MESS['SALE_QH_API_PASS_DESCR'] = "Пароль для доступа к API. Задается в <a href='https://ishop.qiwi.com/options/merchants.action' target='_blank'>настройках магазинa</a> в разделе 'Аутентификационные данные для всех протоколов'.";
+$MESS['SALE_QH_API_PASS'] = "РџР°СЂРѕР»СЊ API";
+$MESS['SALE_QH_API_PASS_DESCR'] = "РџР°СЂРѕР»СЊ РґР»СЏ РґРѕСЃС‚СѓРїР° Рє API. Р—Р°РґР°РµС‚СЃСЏ РІ <a href='https://ishop.qiwi.com/options/merchants.action' target='_blank'>РЅР°СЃС‚СЂРѕР№РєР°С… РјР°РіР°Р·РёРЅa</a> РІ СЂР°Р·РґРµР»Рµ 'РђСѓС‚РµРЅС‚РёС„РёРєР°С†РёРѕРЅРЅС‹Рµ РґР°РЅРЅС‹Рµ РґР»СЏ РІСЃРµС… РїСЂРѕС‚РѕРєРѕР»РѕРІ'.";
 
-$MESS['SALE_QH_CLIENT_PHONE'] = "Телефон клиента, на который выставлять счет.";
+$MESS['SALE_QH_CLIENT_PHONE'] = "РўРµР»РµС„РѕРЅ РєР»РёРµРЅС‚Р°, РЅР° РєРѕС‚РѕСЂС‹Р№ РІС‹СЃС‚Р°РІР»СЏС‚СЊ СЃС‡РµС‚.";
 $MESS['SALE_QH_CLIENT_PHONE_DESCR'] = "";
-$MESS["SALE_QH_ORDER_ID"] = "Номер оплаты";
-$MESS["SALE_QH_ORDER_ID_DESCR"] = "(например, номер заказа в интернет-магазине)";
-$MESS["SALE_QH_SHOULD_PAY"] = "К оплате";
-$MESS["SALE_QH_SHOULD_PAY_DESCR"] = "Сумма счета.";
-$MESS["SALE_QH_CURRENCY"] = "Валюта счета";
-$MESS["SALE_QH_CURRENCY_DESCR"] = "(должна быть в формате ISO 4217 в буквенном или цифровом формате)";
-$MESS["SALE_QH_BILL_LIFETIME"] = "Время действия счета";
-$MESS["SALE_QH_BILL_LIFETIME_DESCR"] = "(в минутах)";
-$MESS["SALE_QH_FAIL_URL"] = "Url, на который перенаправляется пользователь при <strong>неуспешной</strong> оплате счета";
+$MESS["SALE_QH_ORDER_ID"] = "РќРѕРјРµСЂ РѕРїР»Р°С‚С‹";
+$MESS["SALE_QH_ORDER_ID_DESCR"] = "(РЅР°РїСЂРёРјРµСЂ, РЅРѕРјРµСЂ Р·Р°РєР°Р·Р° РІ РёРЅС‚РµСЂРЅРµС‚-РјР°РіР°Р·РёРЅРµ)";
+$MESS["SALE_QH_SHOULD_PAY"] = "Рљ РѕРїР»Р°С‚Рµ";
+$MESS["SALE_QH_SHOULD_PAY_DESCR"] = "РЎСѓРјРјР° СЃС‡РµС‚Р°.";
+$MESS["SALE_QH_CURRENCY"] = "Р’Р°Р»СЋС‚Р° СЃС‡РµС‚Р°";
+$MESS["SALE_QH_CURRENCY_DESCR"] = "(РґРѕР»Р¶РЅР° Р±С‹С‚СЊ РІ С„РѕСЂРјР°С‚Рµ ISO 4217 РІ Р±СѓРєРІРµРЅРЅРѕРј РёР»Рё С†РёС„СЂРѕРІРѕРј С„РѕСЂРјР°С‚Рµ)";
+$MESS["SALE_QH_BILL_LIFETIME"] = "Р’СЂРµРјСЏ РґРµР№СЃС‚РІРёСЏ СЃС‡РµС‚Р°";
+$MESS["SALE_QH_BILL_LIFETIME_DESCR"] = "(РІ РјРёРЅСѓС‚Р°С…)";
+$MESS["SALE_QH_FAIL_URL"] = "Url, РЅР° РєРѕС‚РѕСЂС‹Р№ РїРµСЂРµРЅР°РїСЂР°РІР»СЏРµС‚СЃСЏ РїРѕР»СЊР·РѕРІР°С‚РµР»СЊ РїСЂРё <strong>РЅРµСѓСЃРїРµС€РЅРѕР№</strong> РѕРїР»Р°С‚Рµ СЃС‡РµС‚Р°";
 $MESS["SALE_QH_FAIL_URL_DESCR"] = "";
-$MESS["SALE_QH_SUCCESS_URL"] = "Url, на который перенаправляется пользователь при <strong>успешной</strong> оплате счета";
+$MESS["SALE_QH_SUCCESS_URL"] = "Url, РЅР° РєРѕС‚РѕСЂС‹Р№ РїРµСЂРµРЅР°РїСЂР°РІР»СЏРµС‚СЃСЏ РїРѕР»СЊР·РѕРІР°С‚РµР»СЊ РїСЂРё <strong>СѓСЃРїРµС€РЅРѕР№</strong> РѕРїР»Р°С‚Рµ СЃС‡РµС‚Р°";
 $MESS["SALE_QH_SUCCESS_URL_DESCR"] = "";
-$MESS["SALE_QH_CHANGE_STATUS_PAY"] = "Автоматически оплачивать заказ при получении успешного статуса оплаты";
-$MESS["SALE_QH_CHANGE_STATUS_PAY_DESC"] = "(<strong>Y</strong> - да, <strong>N</strong> - нет)";
-$MESS["SALE_QH_YES"] = "Да";
-$MESS["SALE_QH_NO"] = "Нет";
-$MESS["SALE_QH_AUTHORIZATION"] = "Способ авторизации";
-$MESS["SALE_QH_AUTHORIZATION_DESCR"] = "Используется для авторизации при уведомлениях. Настраивается в личном кабинете в разделе <a href='https://ishop.qiwi.com/options/merchants.action' target='_blank'>Настройки Pull (REST) протокола</a> (галочка 'Подпись'). <br/> (<strong>OPEN</strong> - Передача пароля в открытом виде, <strong>SIMPLE</strong> - Использование простой подписи)";
-$MESS["SALE_QH_AUTH_OPEN"] = "Передача пароля в открытом виде";
-$MESS["SALE_QH_AUTH_SIMPLE"] = "Использование простой подписи";
-$MESS["SALE_QH_NOTICE_PASSWORD"] = "Пароль оповещения.";
-$MESS["SALE_QH_NOTICE_PASSWORD_DESCR"] = "Пароль можно сменить в пункте <a target='_blank' href='https://ishop.qiwi.com/options/merchants.action'>Сменить пароль оповещения</a> в разделе Настройки Pull (REST). <strong>Обязательно укажите URL для оповещения!</strong>";
+$MESS["SALE_QH_CHANGE_STATUS_PAY"] = "РђРІС‚РѕРјР°С‚РёС‡РµСЃРєРё РѕРїР»Р°С‡РёРІР°С‚СЊ Р·Р°РєР°Р· РїСЂРё РїРѕР»СѓС‡РµРЅРёРё СѓСЃРїРµС€РЅРѕРіРѕ СЃС‚Р°С‚СѓСЃР° РѕРїР»Р°С‚С‹";
+$MESS["SALE_QH_CHANGE_STATUS_PAY_DESC"] = "(<strong>Y</strong> - РґР°, <strong>N</strong> - РЅРµС‚)";
+$MESS["SALE_QH_YES"] = "Р”Р°";
+$MESS["SALE_QH_NO"] = "РќРµС‚";
+$MESS["SALE_QH_AUTHORIZATION"] = "РЎРїРѕСЃРѕР± Р°РІС‚РѕСЂРёР·Р°С†РёРё";
+$MESS["SALE_QH_AUTHORIZATION_DESCR"] = "РСЃРїРѕР»СЊР·СѓРµС‚СЃСЏ РґР»СЏ Р°РІС‚РѕСЂРёР·Р°С†РёРё РїСЂРё СѓРІРµРґРѕРјР»РµРЅРёСЏС…. РќР°СЃС‚СЂР°РёРІР°РµС‚СЃСЏ РІ Р»РёС‡РЅРѕРј РєР°Р±РёРЅРµС‚Рµ РІ СЂР°Р·РґРµР»Рµ <a href='https://ishop.qiwi.com/options/merchants.action' target='_blank'>РќР°СЃС‚СЂРѕР№РєРё Pull (REST) РїСЂРѕС‚РѕРєРѕР»Р°</a> (РіР°Р»РѕС‡РєР° 'РџРѕРґРїРёСЃСЊ'). <br/> (<strong>OPEN</strong> - РџРµСЂРµРґР°С‡Р° РїР°СЂРѕР»СЏ РІ РѕС‚РєСЂС‹С‚РѕРј РІРёРґРµ, <strong>SIMPLE</strong> - РСЃРїРѕР»СЊР·РѕРІР°РЅРёРµ РїСЂРѕСЃС‚РѕР№ РїРѕРґРїРёСЃРё)";
+$MESS["SALE_QH_AUTH_OPEN"] = "РџРµСЂРµРґР°С‡Р° РїР°СЂРѕР»СЏ РІ РѕС‚РєСЂС‹С‚РѕРј РІРёРґРµ";
+$MESS["SALE_QH_AUTH_SIMPLE"] = "РСЃРїРѕР»СЊР·РѕРІР°РЅРёРµ РїСЂРѕСЃС‚РѕР№ РїРѕРґРїРёСЃРё";
+$MESS["SALE_QH_NOTICE_PASSWORD"] = "РџР°СЂРѕР»СЊ РѕРїРѕРІРµС‰РµРЅРёСЏ.";
+$MESS["SALE_QH_NOTICE_PASSWORD_DESCR"] = "РџР°СЂРѕР»СЊ РјРѕР¶РЅРѕ СЃРјРµРЅРёС‚СЊ РІ РїСѓРЅРєС‚Рµ <a target='_blank' href='https://ishop.qiwi.com/options/merchants.action'>РЎРјРµРЅРёС‚СЊ РїР°СЂРѕР»СЊ РѕРїРѕРІРµС‰РµРЅРёСЏ</a> РІ СЂР°Р·РґРµР»Рµ РќР°СЃС‚СЂРѕР№РєРё Pull (REST). <strong>РћР±СЏР·Р°С‚РµР»СЊРЅРѕ СѓРєР°Р¶РёС‚Рµ URL РґР»СЏ РѕРїРѕРІРµС‰РµРЅРёСЏ!</strong>";
 ?>

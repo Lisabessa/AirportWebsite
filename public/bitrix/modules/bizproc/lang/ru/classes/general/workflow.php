@@ -1,4 +1,4 @@
 <?
-$MESS ['BPCGWF_TERMINATED'] = "Âûïîëíåíèå ïðåðâàíî";
-$MESS ['BPCGWF_EXCEPTION_TITLE'] = "Îøèáêà";
+$MESS ['BPCGWF_TERMINATED'] = "Ð’Ñ‹Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¸Ðµ Ð¿Ñ€ÐµÑ€Ð²Ð°Ð½Ð¾";
+$MESS ['BPCGWF_EXCEPTION_TITLE'] = "ÐžÑˆÐ¸Ð±ÐºÐ°";
 ?>

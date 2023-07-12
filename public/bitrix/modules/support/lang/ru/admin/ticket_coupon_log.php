@@ -1,15 +1,15 @@
 <?
-$MESS ['SUP_CL_PAGES'] = "Çàïèñè";
-$MESS ['SUP_CL_FLT_COUPON'] = "Êóïîí";
-$MESS ['SUP_CL_FLT_COUPON_ID'] = "ID êóïîíà";
-$MESS ['SUP_CL_COUPON_ID'] = "ID êóïîíà";
-$MESS ['SUP_CL_COUPON'] = "Êóïîí";
-$MESS ['SUP_CL_TIMESTAMP_X'] = "Äàòà èñïîëüçîâàíèÿ";
-$MESS ['SUP_CL_USER_ID'] = "ID ïîëüçîâàòåëÿ";
-$MESS ['SUP_CL_LOGIN'] = "Ëîãèí";
-$MESS ['SUP_CL_FIRST_NAME'] = "Èìÿ";
-$MESS ['SUP_CL_LAST_NAME'] = "Ôàìèëèÿ";
-$MESS ['SUP_CL_SESSION_ID'] = "ID ñåññèè";
-$MESS ['SUP_CL_GUEST_ID'] = "ID ãîñòÿ";
-$MESS ['SUP_CL_TITLE'] = "Æóðíàë èñïîëüçîâàíèÿ êóïîíîâ";
+$MESS ['SUP_CL_PAGES'] = "Ð—Ð°Ð¿Ð¸ÑÐ¸";
+$MESS ['SUP_CL_FLT_COUPON'] = "ÐšÑƒÐ¿Ð¾Ð½";
+$MESS ['SUP_CL_FLT_COUPON_ID'] = "ID ÐºÑƒÐ¿Ð¾Ð½Ð°";
+$MESS ['SUP_CL_COUPON_ID'] = "ID ÐºÑƒÐ¿Ð¾Ð½Ð°";
+$MESS ['SUP_CL_COUPON'] = "ÐšÑƒÐ¿Ð¾Ð½";
+$MESS ['SUP_CL_TIMESTAMP_X'] = "Ð”Ð°Ñ‚Ð° Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð¸Ñ";
+$MESS ['SUP_CL_USER_ID'] = "ID Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ";
+$MESS ['SUP_CL_LOGIN'] = "Ð›Ð¾Ð³Ð¸Ð½";
+$MESS ['SUP_CL_FIRST_NAME'] = "Ð˜Ð¼Ñ";
+$MESS ['SUP_CL_LAST_NAME'] = "Ð¤Ð°Ð¼Ð¸Ð»Ð¸Ñ";
+$MESS ['SUP_CL_SESSION_ID'] = "ID ÑÐµÑÑÐ¸Ð¸";
+$MESS ['SUP_CL_GUEST_ID'] = "ID Ð³Ð¾ÑÑ‚Ñ";
+$MESS ['SUP_CL_TITLE'] = "Ð–ÑƒÑ€Ð½Ð°Ð» Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð¸Ñ ÐºÑƒÐ¿Ð¾Ð½Ð¾Ð²";
 ?>

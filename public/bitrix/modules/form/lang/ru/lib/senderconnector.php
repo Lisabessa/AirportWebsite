@@ -1,11 +1,11 @@
 <?
-$MESS["sender_connector_form_name"] = "Âåá-ôîðìû";
-$MESS["sender_connector_form_required_settings"] = "Òðåáóåòñÿ îáÿçàòåëüíàÿ íàñòðîéêà";
-$MESS["sender_connector_form_select"] = "(âûáåðèòå ôîðìó)";
-$MESS["sender_connector_form_empty"] = "(íåò äîñòóïíûõ ôîðì)";
-$MESS["sender_connector_form_prop_empty"] = "(íåò äîñòóïíûõ ïîëåé)";
-$MESS["sender_connector_form_field_select"] = "(âûáåðèòå ïîëå)";
-$MESS["sender_connector_form_field_form"] = "Ôîðìà:";
-$MESS["sender_connector_form_field_name"] = "Ïîëå ñ èìåíåì:";
-$MESS["sender_connector_form_field_email"] = "Ïîëå ñ email:";
+$MESS["sender_connector_form_name"] = "Ð’ÐµÐ±-Ñ„Ð¾Ñ€Ð¼Ñ‹";
+$MESS["sender_connector_form_required_settings"] = "Ð¢Ñ€ÐµÐ±ÑƒÐµÑ‚ÑÑ Ð¾Ð±ÑÐ·Ð°Ñ‚ÐµÐ»ÑŒÐ½Ð°Ñ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ°";
+$MESS["sender_connector_form_select"] = "(Ð²Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ Ñ„Ð¾Ñ€Ð¼Ñƒ)";
+$MESS["sender_connector_form_empty"] = "(Ð½ÐµÑ‚ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ñ‹Ñ… Ñ„Ð¾Ñ€Ð¼)";
+$MESS["sender_connector_form_prop_empty"] = "(Ð½ÐµÑ‚ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ñ‹Ñ… Ð¿Ð¾Ð»ÐµÐ¹)";
+$MESS["sender_connector_form_field_select"] = "(Ð²Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ Ð¿Ð¾Ð»Ðµ)";
+$MESS["sender_connector_form_field_form"] = "Ð¤Ð¾Ñ€Ð¼Ð°:";
+$MESS["sender_connector_form_field_name"] = "ÐŸÐ¾Ð»Ðµ Ñ Ð¸Ð¼ÐµÐ½ÐµÐ¼:";
+$MESS["sender_connector_form_field_email"] = "ÐŸÐ¾Ð»Ðµ Ñ email:";
 ?>

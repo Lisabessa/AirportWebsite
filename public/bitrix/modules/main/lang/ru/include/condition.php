@@ -1,19 +1,19 @@
 <?
-$MESS ['TYPES_FOLDER'] = "Äëÿ ïàïêè èëè ôàéëà";
-$MESS ['TYPES_UGROUPS'] = "Äëÿ ãðóïï ïîëüçîâàòåëåé";
-$MESS ['TYPES_PERIOD'] = "Ïåðèîä âðåìåíè";
-$MESS ['TYPES_URL'] = "Ïàðàìåòð â URL";
-$MESS ['TYPES_NO_ACCESS'] = "Ïîëüçîâàòåëü íå èìååò äîñòóï";
-$MESS ['TYPES_PHP'] = "Âûðàæåíèå PHP";
-$MESS ['TYPES_EMPTY'] = "[áåç óñëîâèÿ]";
-$MESS ['TYPES_FALSE'] = "[âûêëþ÷åíî]";
-$MESS ['TYPES_EMPTY_COND'] = "&lt;áåç óñëîâèÿ&gt;";
-$MESS ['TYPES_FALSE_COND'] = "&lt;íå ïîêàçûâàòü&gt;";
-$MESS ['MAIN_PATH'] = "Ïóòü ê ïàïêå èëè ôàéëó";
-$MESS ['MAIN_USERGROUPS'] = "Ãðóïïû ïîëüçîâàòåëåé";
-$MESS ['MAIN_PERIOD_FROM'] = "íà÷àëî ïåðèîäà";
-$MESS ['MAIN_PERIOD_TO'] = "êîíåö ïåðèîäà";
-$MESS ['MAIN_PERIOD_NOTE'] = "Åñëè ãðàíèöà ïåðèîäà íå óêàçàíà - ïåðèîä ñ÷èòàåòñÿ íåîãðàíè÷åííûì";
-$MESS ['MAIN_URL_FIELD'] = "Ïàðàìåòð";
-$MESS ['MAIN_URL_VALUE'] = "çíà÷åíèå";
+$MESS ['TYPES_FOLDER'] = "Ð”Ð»Ñ Ð¿Ð°Ð¿ÐºÐ¸ Ð¸Ð»Ð¸ Ñ„Ð°Ð¹Ð»Ð°";
+$MESS ['TYPES_UGROUPS'] = "Ð”Ð»Ñ Ð³Ñ€ÑƒÐ¿Ð¿ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÐµÐ¹";
+$MESS ['TYPES_PERIOD'] = "ÐŸÐµÑ€Ð¸Ð¾Ð´ Ð²Ñ€ÐµÐ¼ÐµÐ½Ð¸";
+$MESS ['TYPES_URL'] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€ Ð² URL";
+$MESS ['TYPES_NO_ACCESS'] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ Ð½Ðµ Ð¸Ð¼ÐµÐµÑ‚ Ð´Ð¾ÑÑ‚ÑƒÐ¿";
+$MESS ['TYPES_PHP'] = "Ð’Ñ‹Ñ€Ð°Ð¶ÐµÐ½Ð¸Ðµ PHP";
+$MESS ['TYPES_EMPTY'] = "[Ð±ÐµÐ· ÑƒÑÐ»Ð¾Ð²Ð¸Ñ]";
+$MESS ['TYPES_FALSE'] = "[Ð²Ñ‹ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¾]";
+$MESS ['TYPES_EMPTY_COND'] = "&lt;Ð±ÐµÐ· ÑƒÑÐ»Ð¾Ð²Ð¸Ñ&gt;";
+$MESS ['TYPES_FALSE_COND'] = "&lt;Ð½Ðµ Ð¿Ð¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ&gt;";
+$MESS ['MAIN_PATH'] = "ÐŸÑƒÑ‚ÑŒ Ðº Ð¿Ð°Ð¿ÐºÐµ Ð¸Ð»Ð¸ Ñ„Ð°Ð¹Ð»Ñƒ";
+$MESS ['MAIN_USERGROUPS'] = "Ð“Ñ€ÑƒÐ¿Ð¿Ñ‹ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÐµÐ¹";
+$MESS ['MAIN_PERIOD_FROM'] = "Ð½Ð°Ñ‡Ð°Ð»Ð¾ Ð¿ÐµÑ€Ð¸Ð¾Ð´Ð°";
+$MESS ['MAIN_PERIOD_TO'] = "ÐºÐ¾Ð½ÐµÑ† Ð¿ÐµÑ€Ð¸Ð¾Ð´Ð°";
+$MESS ['MAIN_PERIOD_NOTE'] = "Ð•ÑÐ»Ð¸ Ð³Ñ€Ð°Ð½Ð¸Ñ†Ð° Ð¿ÐµÑ€Ð¸Ð¾Ð´Ð° Ð½Ðµ ÑƒÐºÐ°Ð·Ð°Ð½Ð° - Ð¿ÐµÑ€Ð¸Ð¾Ð´ ÑÑ‡Ð¸Ñ‚Ð°ÐµÑ‚ÑÑ Ð½ÐµÐ¾Ð³Ñ€Ð°Ð½Ð¸Ñ‡ÐµÐ½Ð½Ñ‹Ð¼";
+$MESS ['MAIN_URL_FIELD'] = "ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€";
+$MESS ['MAIN_URL_VALUE'] = "Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ";
 ?>

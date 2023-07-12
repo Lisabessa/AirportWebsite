@@ -1,3 +1,3 @@
 <?
-$MESS["SOCNET_ENTITY_SELECTOR_ALL_EMPLOYEES"] = "Âñå ñîòðóäíèêè";
-$MESS["SOCNET_ENTITY_SELECTOR_ALL_USERS"] = "Âñå ïîëüçîâàòåëè";
+$MESS["SOCNET_ENTITY_SELECTOR_ALL_EMPLOYEES"] = "Ð’ÑÐµ ÑÐ¾Ñ‚Ñ€ÑƒÐ´Ð½Ð¸ÐºÐ¸";
+$MESS["SOCNET_ENTITY_SELECTOR_ALL_USERS"] = "Ð’ÑÐµ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ð¸";

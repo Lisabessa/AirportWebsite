@@ -1,3 +1,3 @@
 <?
-$MESS["MOBILEAPP_PUSH_NOTIFICATIONS"] = "Push-óâåäîìëåíèÿ";
-$MESS["MOBILEAPP_REMOVE"] = "Óäàëèòü";
+$MESS["MOBILEAPP_PUSH_NOTIFICATIONS"] = "Push-ÑƒÐ²ÐµÐ´Ð¾Ð¼Ð»ÐµÐ½Ð¸Ñ";
+$MESS["MOBILEAPP_REMOVE"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ";

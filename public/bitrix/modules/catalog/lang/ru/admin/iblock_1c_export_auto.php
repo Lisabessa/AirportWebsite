@@ -1,6 +1,6 @@
 <?
-$MESS ['IB1C_ERROR_WRONG_GET'] = "Íåñîîòâåòñòâóþùàÿ ñòðîêà GET.";
-$MESS ['IB1C_ERROR_NO_PP'] = "Íåò ïàðàìåòðà PostPrices.";
-$MESS ['IB1C_ERROR_WRONG_AUTH'] = "Ëîãèí / ïàðîëü íå âåðíû.";
-$MESS ['IB1C_ERROR_NO_RIGHTS'] = "Íåò ïðàâ íà äîñòóï ê ýòîé ôóíêöèè.";
+$MESS ['IB1C_ERROR_WRONG_GET'] = "ÐÐµÑÐ¾Ð¾Ñ‚Ð²ÐµÑ‚ÑÑ‚Ð²ÑƒÑŽÑ‰Ð°Ñ ÑÑ‚Ñ€Ð¾ÐºÐ° GET.";
+$MESS ['IB1C_ERROR_NO_PP'] = "ÐÐµÑ‚ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð° PostPrices.";
+$MESS ['IB1C_ERROR_WRONG_AUTH'] = "Ð›Ð¾Ð³Ð¸Ð½ / Ð¿Ð°Ñ€Ð¾Ð»ÑŒ Ð½Ðµ Ð²ÐµÑ€Ð½Ñ‹.";
+$MESS ['IB1C_ERROR_NO_RIGHTS'] = "ÐÐµÑ‚ Ð¿Ñ€Ð°Ð² Ð½Ð° Ð´Ð¾ÑÑ‚ÑƒÐ¿ Ðº ÑÑ‚Ð¾Ð¹ Ñ„ÑƒÐ½ÐºÑ†Ð¸Ð¸.";
 ?>

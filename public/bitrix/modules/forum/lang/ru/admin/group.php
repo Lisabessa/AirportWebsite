@@ -1,16 +1,16 @@
 <?
-$MESS["GROUP_TITLE"] = "Ãðóïïû ôîðóìà";
-$MESS["GROUP_NAV"] = "Ãðóïïû";
-$MESS["GROUP_ID"] = "Êîä";
-$MESS["GROUP_SORT"] = "Ñîðò.";
-$MESS["ERROR_DEL_GROUP"] = "Îøèáêà óäàëåíèÿ ãðóïïû.";
-$MESS["FORUM_NAME"] = "Íàçâàíèå";
-$MESS["FORUM_EDIT_DESCR"] = "Èçìåíèòü ïàðàìåòðû ãðóïïû";
-$MESS["FORUM_DELETE_DESCR"] = "Óäàëèòü ãðóïïó";
-$MESS["FGAN_ADD_NEW"] = "Íîâàÿ ãðóïïà ôîðóìîâ";
-$MESS["FGAN_ADD_NEW_ALT"] = "Íàæìèòå äëÿ äîáàâëåíèÿ íîâîé ãðóïïû ôîðóìîâ";
-$MESS["GROUP_DEL_CONF"] = "Âû óâåðåíû, ÷òî õîòèòå óäàëèòü ýòó ãðóïïó? Åñëè â ýòîé ãðóïïå åñòü ôîðóìû, òî ãðóïïà íå áóäåò óäàëåíà.";
-$MESS["MAIN_ADMIN_LIST_SELECTED"] = "Âûáðàíî:";
-$MESS["MAIN_ADMIN_LIST_CHECKED"] = "Îòìå÷åíî:";
-$MESS["MAIN_ADMIN_LIST_DELETE"] = "óäàëèòü";
+$MESS["GROUP_TITLE"] = "Ð“Ñ€ÑƒÐ¿Ð¿Ñ‹ Ñ„Ð¾Ñ€ÑƒÐ¼Ð°";
+$MESS["GROUP_NAV"] = "Ð“Ñ€ÑƒÐ¿Ð¿Ñ‹";
+$MESS["GROUP_ID"] = "ÐšÐ¾Ð´";
+$MESS["GROUP_SORT"] = "Ð¡Ð¾Ñ€Ñ‚.";
+$MESS["ERROR_DEL_GROUP"] = "ÐžÑˆÐ¸Ð±ÐºÐ° ÑƒÐ´Ð°Ð»ÐµÐ½Ð¸Ñ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹.";
+$MESS["FORUM_NAME"] = "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ";
+$MESS["FORUM_EDIT_DESCR"] = "Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
+$MESS["FORUM_DELETE_DESCR"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ Ð³Ñ€ÑƒÐ¿Ð¿Ñƒ";
+$MESS["FGAN_ADD_NEW"] = "ÐÐ¾Ð²Ð°Ñ Ð³Ñ€ÑƒÐ¿Ð¿Ð° Ñ„Ð¾Ñ€ÑƒÐ¼Ð¾Ð²";
+$MESS["FGAN_ADD_NEW_ALT"] = "ÐÐ°Ð¶Ð¼Ð¸Ñ‚Ðµ Ð´Ð»Ñ Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ñ Ð½Ð¾Ð²Ð¾Ð¹ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹ Ñ„Ð¾Ñ€ÑƒÐ¼Ð¾Ð²";
+$MESS["GROUP_DEL_CONF"] = "Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹, Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ ÑÑ‚Ñƒ Ð³Ñ€ÑƒÐ¿Ð¿Ñƒ? Ð•ÑÐ»Ð¸ Ð² ÑÑ‚Ð¾Ð¹ Ð³Ñ€ÑƒÐ¿Ð¿Ðµ ÐµÑÑ‚ÑŒ Ñ„Ð¾Ñ€ÑƒÐ¼Ñ‹, Ñ‚Ð¾ Ð³Ñ€ÑƒÐ¿Ð¿Ð° Ð½Ðµ Ð±ÑƒÐ´ÐµÑ‚ ÑƒÐ´Ð°Ð»ÐµÐ½Ð°.";
+$MESS["MAIN_ADMIN_LIST_SELECTED"] = "Ð’Ñ‹Ð±Ñ€Ð°Ð½Ð¾:";
+$MESS["MAIN_ADMIN_LIST_CHECKED"] = "ÐžÑ‚Ð¼ÐµÑ‡ÐµÐ½Ð¾:";
+$MESS["MAIN_ADMIN_LIST_DELETE"] = "ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ";
 ?>

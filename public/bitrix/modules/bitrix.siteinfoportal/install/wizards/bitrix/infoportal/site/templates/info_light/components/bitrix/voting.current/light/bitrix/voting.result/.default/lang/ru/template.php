@@ -1,4 +1,4 @@
 <?
-$MESS["VOTE_BACK"] = "Ê îïðîñó";
-$MESS["VOTE_TITLE"] = "Îïðîñû";
+$MESS["VOTE_BACK"] = "Ðš Ð¾Ð¿Ñ€Ð¾ÑÑƒ";
+$MESS["VOTE_TITLE"] = "ÐžÐ¿Ñ€Ð¾ÑÑ‹";
 ?>

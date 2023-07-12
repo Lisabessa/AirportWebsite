@@ -1,4 +1,4 @@
 <?
-$MESS["SALE_RESULT_MESSAGE_TITLE"] = "Ðåçóëüòàò îïëàòû";
-$MESS["SALE_RESULT_MESSAGE_SUCCESS"] = "Ñ÷åò óñïåøíî îïëà÷åí";
-$MESS["SALE_RESULT_MESSAGE_FAIL"] = "Îøèáêà ïðè îïëàòå ñ÷åòà";
+$MESS["SALE_RESULT_MESSAGE_TITLE"] = "Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚ Ð¾Ð¿Ð»Ð°Ñ‚Ñ‹";
+$MESS["SALE_RESULT_MESSAGE_SUCCESS"] = "Ð¡Ñ‡ÐµÑ‚ ÑƒÑÐ¿ÐµÑˆÐ½Ð¾ Ð¾Ð¿Ð»Ð°Ñ‡ÐµÐ½";
+$MESS["SALE_RESULT_MESSAGE_FAIL"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ Ð¾Ð¿Ð»Ð°Ñ‚Ðµ ÑÑ‡ÐµÑ‚Ð°";

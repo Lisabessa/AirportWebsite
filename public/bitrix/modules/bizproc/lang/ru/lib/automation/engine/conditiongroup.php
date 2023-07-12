@@ -1,3 +1,3 @@
 <?php
-$MESS["BIZPROC_AUTOMATION_CONDITION_TITLE"] = "Óñëîâèå";
+$MESS["BIZPROC_AUTOMATION_CONDITION_TITLE"] = "Ð£ÑÐ»Ð¾Ð²Ð¸Ðµ";
 ?>

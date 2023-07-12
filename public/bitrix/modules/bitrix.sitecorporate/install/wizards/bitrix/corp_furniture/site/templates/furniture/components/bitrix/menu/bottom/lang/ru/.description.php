@@ -1,4 +1,4 @@
 <?
-$MESS ['MENU_TREE_NAME'] = "Нижнее меню";
-$MESS ['MENU_TREE_DESC'] = "Нижнее меню";
+$MESS ['MENU_TREE_NAME'] = "РќРёР¶РЅРµРµ РјРµРЅСЋ";
+$MESS ['MENU_TREE_DESC'] = "РќРёР¶РЅРµРµ РјРµРЅСЋ";
 ?>

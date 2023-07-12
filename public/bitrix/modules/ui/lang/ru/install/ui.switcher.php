@@ -1,3 +1,3 @@
 <?
-$MESS["UI_SWITCHER_ON"] = "âêë";
-$MESS["UI_SWITCHER_OFF"] = "âûêë";
+$MESS["UI_SWITCHER_ON"] = "Ð²ÐºÐ»";
+$MESS["UI_SWITCHER_OFF"] = "Ð²Ñ‹ÐºÐ»";

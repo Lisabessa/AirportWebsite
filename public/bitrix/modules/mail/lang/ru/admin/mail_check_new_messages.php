@@ -1,13 +1,13 @@
 <?
-$MESS ['MAIL_CHECK_TITLE'] = "Ïîëó÷åíèå íîâîé ïî÷òû";
-$MESS ['MAIL_CHECK_CHECK'] = "Ïîëó÷èòü ïî÷òó:";
-$MESS ['MAIL_CHECK_CHECK_ALL'] = "(âñå ÿùèêè)";
-$MESS ['MAIL_CHECK_CHECK_OK'] = "ÎÊ";
-$MESS ['MAIL_CHECK_CNT'] = "Ïîëó÷åíî";
-$MESS ['MAIL_CHECK_CNT_NEW'] = "íîâûõ ñîîáùåíèé.";
-$MESS ['MAIL_CHECK_VIEW'] = "Ïðîñìîòð ñîîáùåíèé";
-$MESS ['MAIL_CHECK_LOG'] = "Æóðíàë ðàáîòû";
-$MESS ['MAIL_CHECK_ERR'] = "Îøèáêà ïðè ïîëó÷åíèè ïî÷òû.";
-$MESS ['MAIL_CHECK_MBOX_PARAMS'] = "Íàñòðîéêè ïî÷òîâîãî ÿùèêà";
-$MESS ['MAIL_CHECK_TEXT'] = "Ïðîâåðêà ïî÷òîâîãî ÿùèêà";
+$MESS ['MAIL_CHECK_TITLE'] = "ÐŸÐ¾Ð»ÑƒÑ‡ÐµÐ½Ð¸Ðµ Ð½Ð¾Ð²Ð¾Ð¹ Ð¿Ð¾Ñ‡Ñ‚Ñ‹";
+$MESS ['MAIL_CHECK_CHECK'] = "ÐŸÐ¾Ð»ÑƒÑ‡Ð¸Ñ‚ÑŒ Ð¿Ð¾Ñ‡Ñ‚Ñƒ:";
+$MESS ['MAIL_CHECK_CHECK_ALL'] = "(Ð²ÑÐµ ÑÑ‰Ð¸ÐºÐ¸)";
+$MESS ['MAIL_CHECK_CHECK_OK'] = "ÐžÐš";
+$MESS ['MAIL_CHECK_CNT'] = "ÐŸÐ¾Ð»ÑƒÑ‡ÐµÐ½Ð¾";
+$MESS ['MAIL_CHECK_CNT_NEW'] = "Ð½Ð¾Ð²Ñ‹Ñ… ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ð¹.";
+$MESS ['MAIL_CHECK_VIEW'] = "ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ð¹";
+$MESS ['MAIL_CHECK_LOG'] = "Ð–ÑƒÑ€Ð½Ð°Ð» Ñ€Ð°Ð±Ð¾Ñ‚Ñ‹";
+$MESS ['MAIL_CHECK_ERR'] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð¿Ñ€Ð¸ Ð¿Ð¾Ð»ÑƒÑ‡ÐµÐ½Ð¸Ð¸ Ð¿Ð¾Ñ‡Ñ‚Ñ‹.";
+$MESS ['MAIL_CHECK_MBOX_PARAMS'] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð¿Ð¾Ñ‡Ñ‚Ð¾Ð²Ð¾Ð³Ð¾ ÑÑ‰Ð¸ÐºÐ°";
+$MESS ['MAIL_CHECK_TEXT'] = "ÐŸÑ€Ð¾Ð²ÐµÑ€ÐºÐ° Ð¿Ð¾Ñ‡Ñ‚Ð¾Ð²Ð¾Ð³Ð¾ ÑÑ‰Ð¸ÐºÐ°";
 ?>

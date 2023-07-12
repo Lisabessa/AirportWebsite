@@ -1,4 +1,4 @@
 <?php
-$MESS['SALE_CASHBOX_NOT_FOUND'] = 'Ñâîáîäíàÿ êàññà íå íàéäåíà';
-$MESS['SALE_CASHBOX_ACCESS_UNAVAILABLE'] = 'Âíèìàíèå! Êàññà ¹#CASHBOX_ID# íåäîñòóïíà. Îáðàòèòåñü ê àäìèíèñòðàòîðó äëÿ ðåøåíèÿ ïðîáëåìû';
-$MESS['SALE_CASHBOX_CHECK_CORRECTION_NOT_AVAILABLE'] = '×åêè êîððåêöèè íå ïîääåðæèâàþòñÿ';
+$MESS['SALE_CASHBOX_NOT_FOUND'] = 'Ð¡Ð²Ð¾Ð±Ð¾Ð´Ð½Ð°Ñ ÐºÐ°ÑÑÐ° Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð°';
+$MESS['SALE_CASHBOX_ACCESS_UNAVAILABLE'] = 'Ð’Ð½Ð¸Ð¼Ð°Ð½Ð¸Ðµ! ÐšÐ°ÑÑÐ° â„–#CASHBOX_ID# Ð½ÐµÐ´Ð¾ÑÑ‚ÑƒÐ¿Ð½Ð°. ÐžÐ±Ñ€Ð°Ñ‚Ð¸Ñ‚ÐµÑÑŒ Ðº Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¾Ñ€Ñƒ Ð´Ð»Ñ Ñ€ÐµÑˆÐµÐ½Ð¸Ñ Ð¿Ñ€Ð¾Ð±Ð»ÐµÐ¼Ñ‹';
+$MESS['SALE_CASHBOX_CHECK_CORRECTION_NOT_AVAILABLE'] = 'Ð§ÐµÐºÐ¸ ÐºÐ¾Ñ€Ñ€ÐµÐºÑ†Ð¸Ð¸ Ð½Ðµ Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶Ð¸Ð²Ð°ÑŽÑ‚ÑÑ';

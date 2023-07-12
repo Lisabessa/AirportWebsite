@@ -1,10 +1,10 @@
 <?
-$MESS["SEARCH_ERROR1"] = "Íåïàðíàÿ ñêîáêà";
-$MESS["SEARCH_ERROR2"] = "Îøèáêà âîçëå";
-$MESS["SEARCH_ERROR3"] = "Ïóñòîé ïîèñêîâûé çàïðîñ (çàïðîñ íå ñîäåðæèò áóêâ èëè öèôð).";
-$MESS["SEARCH_ERROR4"] = "Ïîèñêîâûé çàïðîñ ïðåâûøàåò ìàêñèìàëüíóþ äëèíó.";
-$MESS["SEARCH_TERM_OR"] = "èëè";
-$MESS["SEARCH_TERM_AND"] = "è";
-$MESS["SEARCH_TERM_NOT_1"] = "íå";
-$MESS["SEARCH_TERM_NOT_2"] = "íåò";
+$MESS["SEARCH_ERROR1"] = "ÐÐµÐ¿Ð°Ñ€Ð½Ð°Ñ ÑÐºÐ¾Ð±ÐºÐ°";
+$MESS["SEARCH_ERROR2"] = "ÐžÑˆÐ¸Ð±ÐºÐ° Ð²Ð¾Ð·Ð»Ðµ";
+$MESS["SEARCH_ERROR3"] = "ÐŸÑƒÑÑ‚Ð¾Ð¹ Ð¿Ð¾Ð¸ÑÐºÐ¾Ð²Ñ‹Ð¹ Ð·Ð°Ð¿Ñ€Ð¾Ñ (Ð·Ð°Ð¿Ñ€Ð¾Ñ Ð½Ðµ ÑÐ¾Ð´ÐµÑ€Ð¶Ð¸Ñ‚ Ð±ÑƒÐºÐ² Ð¸Ð»Ð¸ Ñ†Ð¸Ñ„Ñ€).";
+$MESS["SEARCH_ERROR4"] = "ÐŸÐ¾Ð¸ÑÐºÐ¾Ð²Ñ‹Ð¹ Ð·Ð°Ð¿Ñ€Ð¾Ñ Ð¿Ñ€ÐµÐ²Ñ‹ÑˆÐ°ÐµÑ‚ Ð¼Ð°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½ÑƒÑŽ Ð´Ð»Ð¸Ð½Ñƒ.";
+$MESS["SEARCH_TERM_OR"] = "Ð¸Ð»Ð¸";
+$MESS["SEARCH_TERM_AND"] = "Ð¸";
+$MESS["SEARCH_TERM_NOT_1"] = "Ð½Ðµ";
+$MESS["SEARCH_TERM_NOT_2"] = "Ð½ÐµÑ‚";
 ?>

@@ -1,3 +1,3 @@
 <?
-$MESS ['select_sections_menu'] = "--- Ðàçäåëû ---";
+$MESS ['select_sections_menu'] = "--- Ð Ð°Ð·Ð´ÐµÐ»Ñ‹ ---";
 ?>

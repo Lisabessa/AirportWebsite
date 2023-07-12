@@ -1,4 +1,4 @@
 <?
-$MESS["IM_CALL_INVITE"] = 'Çâîíîê îò #USER_NAME#';
-$MESS["IM_CALL_INVITE_NA"] = 'ïîëüçîâàòåëÿ Áèòðèêñ24';
+$MESS["IM_CALL_INVITE"] = 'Ð—Ð²Ð¾Ð½Ð¾Ðº Ð¾Ñ‚ #USER_NAME#';
+$MESS["IM_CALL_INVITE_NA"] = 'Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»Ñ Ð‘Ð¸Ñ‚Ñ€Ð¸ÐºÑ24';
 ?>

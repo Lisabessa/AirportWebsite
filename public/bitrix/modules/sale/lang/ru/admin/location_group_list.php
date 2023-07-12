@@ -1,15 +1,15 @@
 <?
-$MESS["SALE_MODULE_ACCES_DENIED"] = "Äîñòóï ê ìîäóëþ çàïðåù¸í";
-$MESS["SALE_LOCATION_L_ITEM_NOT_FOUND"] = "Ãðóïïà ñ óêçàííûì èäåíòèôèêàòîðîì íå íàéäåíà";
-$MESS["SALE_LOCATION_L_ITEM_SAVE_ERROR"] = "Íå óäàëîñü îáíîâèòü ãðóïïó #ITEM#";
-$MESS["SALE_LOCATION_L_ITEM_DELETE_ERROR"] = "Îøèáêà óäàëåíèÿ ãðóïïû";
-$MESS["SALE_LOCATION_L_PAGES"] = "Ãðóïïû";
-$MESS["SALE_LOCATION_L_ADD_ITEM"] = "Äîáàâèòü ãðóïïó";
-$MESS["SALE_LOCATION_L_EDIT_ITEM"] = "Ðåäàêòèðîâàòü ãðóïïó";
-$MESS["SALE_LOCATION_L_COPY_ITEM"] = "Êîïèðîâàòü ãðóïïó";
-$MESS["SALE_LOCATION_L_DELETE_ITEM"] = "Óäàëèòü ãðóïïó";
-$MESS["SALE_LOCATION_L_EDIT_PAGE_TITLE"] = "Ãðóïïû ìåñòîïîëîæåíèé";
-$MESS["SALE_LOCATION_L_ITEM"] = "Ãðóïïà";
-$MESS["SALE_LOCATION_L_CONFIRM_DELETE_ITEM"] = "Âû óâåðåíû, ÷òî õîòèòå óäàëèòü ãðóïïó?";
-$MESS["SALE_LOCATION_L_FROM_AND_TO"] = "îò è äî";
+$MESS["SALE_MODULE_ACCES_DENIED"] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿ Ðº Ð¼Ð¾Ð´ÑƒÐ»ÑŽ Ð·Ð°Ð¿Ñ€ÐµÑ‰Ñ‘Ð½";
+$MESS["SALE_LOCATION_L_ITEM_NOT_FOUND"] = "Ð“Ñ€ÑƒÐ¿Ð¿Ð° Ñ ÑƒÐºÐ·Ð°Ð½Ð½Ñ‹Ð¼ Ð¸Ð´ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ‚Ð¾Ñ€Ð¾Ð¼ Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð°";
+$MESS["SALE_LOCATION_L_ITEM_SAVE_ERROR"] = "ÐÐµ ÑƒÐ´Ð°Ð»Ð¾ÑÑŒ Ð¾Ð±Ð½Ð¾Ð²Ð¸Ñ‚ÑŒ Ð³Ñ€ÑƒÐ¿Ð¿Ñƒ #ITEM#";
+$MESS["SALE_LOCATION_L_ITEM_DELETE_ERROR"] = "ÐžÑˆÐ¸Ð±ÐºÐ° ÑƒÐ´Ð°Ð»ÐµÐ½Ð¸Ñ Ð³Ñ€ÑƒÐ¿Ð¿Ñ‹";
+$MESS["SALE_LOCATION_L_PAGES"] = "Ð“Ñ€ÑƒÐ¿Ð¿Ñ‹";
+$MESS["SALE_LOCATION_L_ADD_ITEM"] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð³Ñ€ÑƒÐ¿Ð¿Ñƒ";
+$MESS["SALE_LOCATION_L_EDIT_ITEM"] = "Ð ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ð³Ñ€ÑƒÐ¿Ð¿Ñƒ";
+$MESS["SALE_LOCATION_L_COPY_ITEM"] = "ÐšÐ¾Ð¿Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ð³Ñ€ÑƒÐ¿Ð¿Ñƒ";
+$MESS["SALE_LOCATION_L_DELETE_ITEM"] = "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ Ð³Ñ€ÑƒÐ¿Ð¿Ñƒ";
+$MESS["SALE_LOCATION_L_EDIT_PAGE_TITLE"] = "Ð“Ñ€ÑƒÐ¿Ð¿Ñ‹ Ð¼ÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹";
+$MESS["SALE_LOCATION_L_ITEM"] = "Ð“Ñ€ÑƒÐ¿Ð¿Ð°";
+$MESS["SALE_LOCATION_L_CONFIRM_DELETE_ITEM"] = "Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹, Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ Ð³Ñ€ÑƒÐ¿Ð¿Ñƒ?";
+$MESS["SALE_LOCATION_L_FROM_AND_TO"] = "Ð¾Ñ‚ Ð¸ Ð´Ð¾";
 ?>

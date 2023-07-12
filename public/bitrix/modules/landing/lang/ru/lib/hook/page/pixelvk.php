@@ -1,5 +1,5 @@
 <?php
-$MESS['LANDING_HOOK_PIXEL_VK_USE'] = 'ÂÊîíòàêòå';
-$MESS['LANDING_HOOK_PIXEL_VK_COUNTER'] = 'ÂÊîíòàêòå';
-$MESS['LANDING_HOOK_PIXEL_VK_PLACEHOLDER2'] = 'Ââåäèòå êîä ïèêñåëÿ (VK-AAAA-123456-BBBBB)';
-$MESS['LANDING_HOOK_PIXEL_VK_HELP'] = 'Ïîäðîáíåå';
+$MESS['LANDING_HOOK_PIXEL_VK_USE'] = 'Ð’ÐšÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ðµ';
+$MESS['LANDING_HOOK_PIXEL_VK_COUNTER'] = 'Ð’ÐšÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ðµ';
+$MESS['LANDING_HOOK_PIXEL_VK_PLACEHOLDER2'] = 'Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ ÐºÐ¾Ð´ Ð¿Ð¸ÐºÑÐµÐ»Ñ (VK-AAAA-123456-BBBBB)';
+$MESS['LANDING_HOOK_PIXEL_VK_HELP'] = 'ÐŸÐ¾Ð´Ñ€Ð¾Ð±Ð½ÐµÐµ';

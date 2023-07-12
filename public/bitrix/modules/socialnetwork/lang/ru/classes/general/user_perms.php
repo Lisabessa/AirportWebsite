@@ -1,8 +1,8 @@
 <?
-$MESS ['SONET_GB_EMPTY_USER_ID'] = "Íå óêàçàí ïîëüçîâàòåëü";
-$MESS ['SONET_GB_ERROR_NO_USER_ID'] = "Ïîëüçîâàòåëü óêàçàí íåâåðíî";
-$MESS ['SONET_GG_EMPTY_OPERATION_ID'] = "Íå óêàçàíà îïåðàöèÿ";
-$MESS ['SONET_GG_ERROR_NO_OPERATION_ID'] = "Îïåðàöèÿ óêàçàíà íåâåðíî";
-$MESS ['SONET_GG_EMPTY_RELATION_TYPE'] = "Íå óêàçàí òèï ñâÿçè";
-$MESS ['SONET_GG_ERROR_NO_RELATION_TYPE'] = "Òèï ñâÿçè óêàçàí íåâåðíî";
+$MESS ['SONET_GB_EMPTY_USER_ID'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ";
+$MESS ['SONET_GB_ERROR_NO_USER_ID'] = "ÐŸÐ¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒ ÑƒÐºÐ°Ð·Ð°Ð½ Ð½ÐµÐ²ÐµÑ€Ð½Ð¾";
+$MESS ['SONET_GG_EMPTY_OPERATION_ID'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½Ð° Ð¾Ð¿ÐµÑ€Ð°Ñ†Ð¸Ñ";
+$MESS ['SONET_GG_ERROR_NO_OPERATION_ID'] = "ÐžÐ¿ÐµÑ€Ð°Ñ†Ð¸Ñ ÑƒÐºÐ°Ð·Ð°Ð½Ð° Ð½ÐµÐ²ÐµÑ€Ð½Ð¾";
+$MESS ['SONET_GG_EMPTY_RELATION_TYPE'] = "ÐÐµ ÑƒÐºÐ°Ð·Ð°Ð½ Ñ‚Ð¸Ð¿ ÑÐ²ÑÐ·Ð¸";
+$MESS ['SONET_GG_ERROR_NO_RELATION_TYPE'] = "Ð¢Ð¸Ð¿ ÑÐ²ÑÐ·Ð¸ ÑƒÐºÐ°Ð·Ð°Ð½ Ð½ÐµÐ²ÐµÑ€Ð½Ð¾";
 ?>

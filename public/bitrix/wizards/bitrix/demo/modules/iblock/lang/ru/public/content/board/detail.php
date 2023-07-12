@@ -1,5 +1,5 @@
 <?
-$MESS["DEMO_IBLOCK_CONTENT_BOARD_DETAIL_TITLE"] = "Îáúÿâëåíèå äåòàëüíî";
-$MESS ['DEMO_IBLOCK_CONTENT_BOARD_ADD_MESSAGE'] = "Äîáàâèòü îáúÿâëåíèå";
-$MESS ['DEMO_IBLOCK_CONTENT_BOARD_MY_MESSAGES'] = "Ìîè îáúÿâëåíèÿ";
+$MESS["DEMO_IBLOCK_CONTENT_BOARD_DETAIL_TITLE"] = "ÐžÐ±ÑŠÑÐ²Ð»ÐµÐ½Ð¸Ðµ Ð´ÐµÑ‚Ð°Ð»ÑŒÐ½Ð¾";
+$MESS ['DEMO_IBLOCK_CONTENT_BOARD_ADD_MESSAGE'] = "Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð¾Ð±ÑŠÑÐ²Ð»ÐµÐ½Ð¸Ðµ";
+$MESS ['DEMO_IBLOCK_CONTENT_BOARD_MY_MESSAGES'] = "ÐœÐ¾Ð¸ Ð¾Ð±ÑŠÑÐ²Ð»ÐµÐ½Ð¸Ñ";
 ?>

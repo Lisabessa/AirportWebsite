@@ -3,19 +3,19 @@
 Probably, we need to remove this code:
 
 // Module-level operations:
-$MESS['OP_NAME_LEARNING_ACCESS_READ']           = 'Просмотр информации';
-$MESS['OP_NAME_LEARNING_ACCESS_MANAGE']         = 'Создание уроков, редактирование разрешенных уроков';
-$MESS['OP_NAME_LEARNING_ACCESS_RIGHTS_CONTROL'] = 'Редактирование прав у разрешенных уроков/курсов, создание и редактирование разрешенных уроков/курсов';
-$MESS['OP_NAME_LEARNING_ACCESS_GOD']            = 'Создание уроков, редактирование/удаление любых уроков';
+$MESS['OP_NAME_LEARNING_ACCESS_READ']           = 'РџСЂРѕСЃРјРѕС‚СЂ РёРЅС„РѕСЂРјР°С†РёРё';
+$MESS['OP_NAME_LEARNING_ACCESS_MANAGE']         = 'РЎРѕР·РґР°РЅРёРµ СѓСЂРѕРєРѕРІ, СЂРµРґР°РєС‚РёСЂРѕРІР°РЅРёРµ СЂР°Р·СЂРµС€РµРЅРЅС‹С… СѓСЂРѕРєРѕРІ';
+$MESS['OP_NAME_LEARNING_ACCESS_RIGHTS_CONTROL'] = 'Р РµРґР°РєС‚РёСЂРѕРІР°РЅРёРµ РїСЂР°РІ Сѓ СЂР°Р·СЂРµС€РµРЅРЅС‹С… СѓСЂРѕРєРѕРІ/РєСѓСЂСЃРѕРІ, СЃРѕР·РґР°РЅРёРµ Рё СЂРµРґР°РєС‚РёСЂРѕРІР°РЅРёРµ СЂР°Р·СЂРµС€РµРЅРЅС‹С… СѓСЂРѕРєРѕРІ/РєСѓСЂСЃРѕРІ';
+$MESS['OP_NAME_LEARNING_ACCESS_GOD']            = 'РЎРѕР·РґР°РЅРёРµ СѓСЂРѕРєРѕРІ, СЂРµРґР°РєС‚РёСЂРѕРІР°РЅРёРµ/СѓРґР°Р»РµРЅРёРµ Р»СЋР±С‹С… СѓСЂРѕРєРѕРІ';
 */
 
 // Lesson-level operations:
-$MESS['OP_NAME_LESSON_READ']                    = 'Чтение урока';
-$MESS['OP_NAME_LESSON_CREATE']                  = 'Создание нового урока';
-$MESS['OP_NAME_LESSON_WRITE']                   = 'Редактирование содержимого урока';
-$MESS['OP_NAME_LESSON_REMOVE']                  = 'Удаление урока';
-$MESS['OP_NAME_LESSON_LINK_TO_PARENTS']         = 'Привязывание урока к другому в качестве потомка';
-$MESS['OP_NAME_LESSON_UNLINK_FROM_PARENTS']     = 'Отвязывание урока от родителя';
-$MESS['OP_NAME_LESSON_LINK_DESCENDANTS']        = 'Привязывание к уроку других уроков';
-$MESS['OP_NAME_LESSON_UNLINK_DESCENDANTS']      = 'Отвязывание от урока потомков';
-$MESS['OP_NAME_LESSON_MANAGE_RIGHTS']           = 'Управление правами урока/курса';
+$MESS['OP_NAME_LESSON_READ']                    = 'Р§С‚РµРЅРёРµ СѓСЂРѕРєР°';
+$MESS['OP_NAME_LESSON_CREATE']                  = 'РЎРѕР·РґР°РЅРёРµ РЅРѕРІРѕРіРѕ СѓСЂРѕРєР°';
+$MESS['OP_NAME_LESSON_WRITE']                   = 'Р РµРґР°РєС‚РёСЂРѕРІР°РЅРёРµ СЃРѕРґРµСЂР¶РёРјРѕРіРѕ СѓСЂРѕРєР°';
+$MESS['OP_NAME_LESSON_REMOVE']                  = 'РЈРґР°Р»РµРЅРёРµ СѓСЂРѕРєР°';
+$MESS['OP_NAME_LESSON_LINK_TO_PARENTS']         = 'РџСЂРёРІСЏР·С‹РІР°РЅРёРµ СѓСЂРѕРєР° Рє РґСЂСѓРіРѕРјСѓ РІ РєР°С‡РµСЃС‚РІРµ РїРѕС‚РѕРјРєР°';
+$MESS['OP_NAME_LESSON_UNLINK_FROM_PARENTS']     = 'РћС‚РІСЏР·С‹РІР°РЅРёРµ СѓСЂРѕРєР° РѕС‚ СЂРѕРґРёС‚РµР»СЏ';
+$MESS['OP_NAME_LESSON_LINK_DESCENDANTS']        = 'РџСЂРёРІСЏР·С‹РІР°РЅРёРµ Рє СѓСЂРѕРєСѓ РґСЂСѓРіРёС… СѓСЂРѕРєРѕРІ';
+$MESS['OP_NAME_LESSON_UNLINK_DESCENDANTS']      = 'РћС‚РІСЏР·С‹РІР°РЅРёРµ РѕС‚ СѓСЂРѕРєР° РїРѕС‚РѕРјРєРѕРІ';
+$MESS['OP_NAME_LESSON_MANAGE_RIGHTS']           = 'РЈРїСЂР°РІР»РµРЅРёРµ РїСЂР°РІР°РјРё СѓСЂРѕРєР°/РєСѓСЂСЃР°';
