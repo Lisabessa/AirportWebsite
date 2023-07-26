@@ -4,6 +4,7 @@ module.exports = {
     "./template/**/*.{html,js}",
     "node_modules/preline/dist/*.js"
   ],
+
   theme: {
 
   },
@@ -13,6 +14,5 @@ module.exports = {
     require('@tailwindcss/forms'),
     require('@tailwindcss/aspect-ratio'),
     require('@tailwindcss/typography'),
-  ],
-  darkMode: 'class',
+  ]
 }

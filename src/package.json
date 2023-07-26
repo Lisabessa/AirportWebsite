@@ -1,8 +1,8 @@
 {
   "scripts": {
-    "build": "npx tailwindcss -i ./input.css -o ./makeup/access/css/style.css",
-    "watch": "npx tailwindcss -i ./input.css -o ./makeup/access/css/style.css --watch",
-    "minify": "npx tailwindcss -i ./input.css -o ./makeup/access/css/style.css --minify"
+    "build": "npx tailwindcss -i ./input.css -o ./template/access/css/style.css",
+    "watch": "npx tailwindcss -i ./input.css -o ./template/access/css/style.css --watch",
+    "minify": "npx tailwindcss -i ./input.css -o ./template/access/css/style.css --minify"
   },
   "devDependencies": {
     "tailwindcss": "^3.3.2"
