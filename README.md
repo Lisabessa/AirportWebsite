@@ -1,8 +1,8 @@
-# AirportWebsite
+#AirportWebsite
 
 Domain name: [lisabessa.ru](https://lisabessa.ru/)
 
-## Стек проекта
+## Project stack
 
 - CMS: bitrix
 - PHP: 7.4
@@ -10,43 +10,43 @@ Domain name: [lisabessa.ru](https://lisabessa.ru/)
 - CSS: framework Tailwind
 - server: bitrixVM, apache + nginx, memcache, server module google page speed, node.js v20.2.0.
 
-# Техническое описание проекта
+# Technical description of the project
 
-Последовательность действий запуска веб-приложения - от домена до его полного функционирования!
+The sequence of actions for launching a web application - from the domain to its full functioning!
 
-## Домен
+## Domain
 
-### Что такое «Домен» ?
-Домен — это часть адреса сайта.
-Любой адрес сайта состоит из доменов `разных уровней`.
-Например, в адрес yandex.ru входит `домен первого уровня` — «.ru» и `домен второго уровня` — «yandex». 
-Домен первого уровня обычно обозначает страну или тематику. Так, домены «.ru» и «.рф» предназначены для сайтов из России, а «.aero» — для авиатранспортных компаний. 
-Домены второго и последующих уровней чаще всего указывают на разделы сайта или внутренние проекты компании — например, market.yandex.ru.
+### What is a "Domain"?
+A domain is part of a website's address.
+Any website address consists of domains at different levels.
+For example, the address yandex.ru includes a “first-level domain” - “.ru” and a “second-level domain” - “yandex”.
+A top-level domain usually denotes a country or topic. Thus, the domains “.ru” and “.рф” are intended for sites from Russia, and “.aero” are for air transport companies.
+Domains of the second and subsequent levels most often indicate sections of the site or internal projects of the company - for example, market.yandex.ru.
 
-> Но если говорить простыми словами домен это - просто имя сайта! Если расматривать первый уровень домена - то его будем относить в большинстве случаев как к региональности веб приложения - тоесть с коммерческой точки зрения первый уровень даст понять его - ( аудиторию , коммерческий рынок, региональность и др. ) - но не всегда стоит пологаться на первый уровень домена, порой внешность обманчива !
+> But in simple terms, a domain is just the name of a site! If we consider the first level of a domain, then in most cases we will refer to it as the regionality of a web application - that is, from a commercial point of view, the first level will make it clear - (audience, commercial market, regionality, etc.) - but it is not always worth relying on the first level domain, sometimes appearances are deceiving!
 
-Теперь к самому основному! Домен преобретается у `регистратора доменных имен`!
+Now to the basics! The domain is purchased from a 'domain name registrar'!
 
-### Кто такой «Регистратор доменных имён» ?
-> Регистратор доменных имён - Организация, уполномоченная создавать новые доменные имена и продлевать срок действия уже существующих доменных имён в домене, для которого установлена обязательная регистрация.
+### Who is a “Domain Name Registrar”?
+> Domain name registrar - An organization authorized to create new domain names and renew the validity of existing domain names in a domain for which mandatory registration has been established.
 
-В нашем случае - был выбран регистратор `ООО «Регистратор доменных имен РЕГ.РУ»` в нем же и преобретается облачный сервер - для текущего веб-приложения!
+In our case, the registrar `LLC "Domain Name Registrar REG.RU"` was chosen and a cloud server is purchased from it - for the current web application!
 
-Для покупки домена lisabessa.ru потребуется: паспорт - для регистрации и всего 200 рублей ( но эта сумма может составлять куда больше 200 рублей! )! Также для самого домена - нам потребуется еще и `SSL` сертификат!
+To purchase a domain lisabessa.ru you will need: a passport - for registration and only 200 rubles (but this amount can be much more than 200 rubles!)! Also for the domain itself - we will also need an `SSL` certificate!
 
-### Что такое «SSL-сертификат» ?
->SSL-сертификат – это цифровой сертификат, удостоверяющий подлинность веб-сайта и позволяющий использовать зашифрованное соединение. Аббревиатура SSL означает Secure Sockets Layer – протокол безопасности, создающий зашифрованное соединение между веб-сервером и веб-браузером.
+### What is an “SSL certificate”?
+>An SSL certificate is a digital certificate that authenticates a website and allows an encrypted connection. The abbreviation SSL stands for Secure Sockets Layer, a security protocol that creates an encrypted connection between a web server and a web browser.
 
-В нашем случае - покупать непришлось и РЕГ.РУ выдал бесплатный на 90 дней - в полне хватит для разработки небольшоего веб-приложения!
+In our case, we didn’t have to buy it and REG.RU gave us a free one for 90 days - enough to develop a small web application!
 
-После успешной покупки SSL-сертификата или получения бесплатного - на почту либо на самом сайте регистратора будут предоставлены сертификаты! Например: в текстовом виде (ключи разбираем самостоятельно) либо готовые файлы! И после уже приступаем к их подключению к проекту! Также регистратор предоставит спицальный код - должны разместить его в записях самого домена - но об этом чуть позже!
+After successfully purchasing an SSL certificate or receiving a free one, certificates will be provided by email or on the registrar’s website! For example: in text form (we parse the keys ourselves) or ready-made files! And then we begin to connect them to the project! The registrar will also provide a special code - they must place it in the records of the domain itself - but more on that later!
 
-## Сервер
-### Аренда сервера
-### Запуск BitrixVM и его настройка
-### Привязываем домен к серверу через DNS зоны!
-### Сборка и подключение SSL сертификата к домену!
-### Установка bitrix на BitrixVM
-### Структура проекта - Установка bitrix на BitrixVM
-### Установка Node.js и прилегающие дополнения!
-### Добавляем проект в git!
+## Server
+### Server rental
+### Launching BitrixVM and setting it up
+### We bind the domain to the server via DNS zones!
+### Assembling and connecting an SSL certificate to the domain!
+### Installing bitrix on BitrixVM
+### Project structure - Installing bitrix on BitrixVM
+### Installing Node.js and related add-ons!
+### Add the project to git!
