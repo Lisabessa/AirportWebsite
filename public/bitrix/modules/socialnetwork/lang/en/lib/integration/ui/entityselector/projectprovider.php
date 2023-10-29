@@ -1,2 +1,0 @@
-<?php
-$MESS["SOCNET_ENTITY_SELECTOR_PROJECTS_TAB_TITLE"] = "Workgroups";

@@ -1,4 +1,0 @@
-<?
-$MESS["CATALOG_CREATE_VARIATION_PROPERTY_TITLE"] = "New variant property";
-$MESS["CATALOG_EDIT_VARIATION_PROPERTY_TITLE"] = "Edit property";
-?>

@@ -1,4 +1,0 @@
-<?php
-$MESS["BP_FIELDTYPE_MAIL_SENDER"] = "Email sender";
-$MESS["BP_FIELDTYPE_MAIL_SENDER_ADD"] = "Add sender";
-$MESS["BP_FIELDTYPE_MAIL_SENDER_AUTO"] = "Auto select";

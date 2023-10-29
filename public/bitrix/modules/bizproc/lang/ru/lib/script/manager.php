@@ -1,3 +1,0 @@
-<?
-$MESS["BIZPROC_SCRIPT_MANAGER_NEW_SCRIPT"] = "Новый сценарий";
-$MESS["BIZPROC_SCRIPT_MANAGER_NEW_DESCRIPTION"] = "Опишите сценарий";

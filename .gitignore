@@ -1,1 +1,6 @@
+.idea
+
 node_modules
+
+public/bitrix
+public/upload

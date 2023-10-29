@@ -1,7 +1,0 @@
-<?php
-$MESS["SALE_HPS_BILL_UA_BANK_ADDRESS"] = "Ukraine";
-$MESS["SALE_HPS_BILL_UA_BANK_CITY"] = "Kyiv";
-$MESS["SALE_HPS_BILL_UA_BUYER_COMPANY_ADDRESS"] = "Kyiv";
-$MESS["SALE_HPS_BILL_UA_COMMENT"] = "Invoice comment";
-$MESS["SALE_HPS_BILL_UA_COMMENT_ADD"] = "Additional invoice comment";
-$MESS["SALE_HPS_BILL_UA_COMPANY_SYS"] = "base";

@@ -1,4 +1,0 @@
-<?
-$MESS['SALE_HPS_BILL_KZ_BANK_CITY'] = 'Нур-Султан';
-$MESS['SALE_HPS_BILL_KZ_BANK_ADDRESS'] = 'Казахстан';
-$MESS['SALE_HPS_BILL_KZ_BUYER_COMPANY_ADDRESS'] = 'Нур-Султан';
